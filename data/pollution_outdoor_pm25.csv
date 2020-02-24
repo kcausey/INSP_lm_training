@@ -1,0 +1,991 @@
+"covariate_name_short","location_name","location_id","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+"pollution_outdoor_pm25","Mexico",130,1990,22,"All Ages",3,"Both",23.5165578230472
+"pollution_outdoor_pm25","Aguascalientes",4643,1990,22,"All Ages",3,"Both",21.4621108083959
+"pollution_outdoor_pm25","Baja California",4644,1990,22,"All Ages",3,"Both",24.3500258708867
+"pollution_outdoor_pm25","Baja California Sur",4645,1990,22,"All Ages",3,"Both",22.2412067925368
+"pollution_outdoor_pm25","Campeche",4646,1990,22,"All Ages",3,"Both",26.8571365583628
+"pollution_outdoor_pm25","Coahuila",4647,1990,22,"All Ages",3,"Both",19.3714108050919
+"pollution_outdoor_pm25","Colima",4648,1990,22,"All Ages",3,"Both",21.934938981534
+"pollution_outdoor_pm25","Chiapas",4649,1990,22,"All Ages",3,"Both",27.9957052510442
+"pollution_outdoor_pm25","Chihuahua",4650,1990,22,"All Ages",3,"Both",19.5699663305346
+"pollution_outdoor_pm25","Mexico City",4651,1990,22,"All Ages",3,"Both",26.7324558382071
+"pollution_outdoor_pm25","Durango",4652,1990,22,"All Ages",3,"Both",19.995798192473
+"pollution_outdoor_pm25","Guanajuato",4653,1990,22,"All Ages",3,"Both",20.5761046320185
+"pollution_outdoor_pm25","Guerrero",4654,1990,22,"All Ages",3,"Both",19.5542554284298
+"pollution_outdoor_pm25","Hidalgo",4655,1990,22,"All Ages",3,"Both",18.5496719321341
+"pollution_outdoor_pm25","Jalisco",4656,1990,22,"All Ages",3,"Both",25.7622055083759
+"pollution_outdoor_pm25","México",4657,1990,22,"All Ages",3,"Both",24.0930379475033
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1990,22,"All Ages",3,"Both",19.7170097459746
+"pollution_outdoor_pm25","Morelos",4659,1990,22,"All Ages",3,"Both",22.3365126039012
+"pollution_outdoor_pm25","Nayarit",4660,1990,22,"All Ages",3,"Both",22.2056452770555
+"pollution_outdoor_pm25","Nuevo León",4661,1990,22,"All Ages",3,"Both",29.4998777531461
+"pollution_outdoor_pm25","Oaxaca",4662,1990,22,"All Ages",3,"Both",21.1247077147149
+"pollution_outdoor_pm25","Puebla",4663,1990,22,"All Ages",3,"Both",21.8330951841428
+"pollution_outdoor_pm25","Querétaro",4664,1990,22,"All Ages",3,"Both",19.5886073834044
+"pollution_outdoor_pm25","Quintana Roo",4665,1990,22,"All Ages",3,"Both",29.9406218500893
+"pollution_outdoor_pm25","San Luis Potosí",4666,1990,22,"All Ages",3,"Both",19.5886562029462
+"pollution_outdoor_pm25","Sinaloa",4667,1990,22,"All Ages",3,"Both",26.2338591372002
+"pollution_outdoor_pm25","Sonora",4668,1990,22,"All Ages",3,"Both",23.4155962009843
+"pollution_outdoor_pm25","Tabasco",4669,1990,22,"All Ages",3,"Both",29.656775504628
+"pollution_outdoor_pm25","Tamaulipas",4670,1990,22,"All Ages",3,"Both",21.3893010553909
+"pollution_outdoor_pm25","Tlaxcala",4671,1990,22,"All Ages",3,"Both",21.7212811191898
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1990,22,"All Ages",3,"Both",23.5737074968969
+"pollution_outdoor_pm25","Yucatán",4673,1990,22,"All Ages",3,"Both",33.199440996259
+"pollution_outdoor_pm25","Zacatecas",4674,1990,22,"All Ages",3,"Both",17.9481572962788
+"pollution_outdoor_pm25","Mexico",130,1991,22,"All Ages",3,"Both",23.5812793603357
+"pollution_outdoor_pm25","Aguascalientes",4643,1991,22,"All Ages",3,"Both",21.5028239793703
+"pollution_outdoor_pm25","Baja California",4644,1991,22,"All Ages",3,"Both",24.3670920766468
+"pollution_outdoor_pm25","Baja California Sur",4645,1991,22,"All Ages",3,"Both",22.1602918853578
+"pollution_outdoor_pm25","Campeche",4646,1991,22,"All Ages",3,"Both",26.5176389307141
+"pollution_outdoor_pm25","Coahuila",4647,1991,22,"All Ages",3,"Both",19.5047689378713
+"pollution_outdoor_pm25","Colima",4648,1991,22,"All Ages",3,"Both",21.9850675525566
+"pollution_outdoor_pm25","Chiapas",4649,1991,22,"All Ages",3,"Both",27.9451638068357
+"pollution_outdoor_pm25","Chihuahua",4650,1991,22,"All Ages",3,"Both",19.4563310509566
+"pollution_outdoor_pm25","Mexico City",4651,1991,22,"All Ages",3,"Both",26.9283344178118
+"pollution_outdoor_pm25","Durango",4652,1991,22,"All Ages",3,"Both",20.162252929503
+"pollution_outdoor_pm25","Guanajuato",4653,1991,22,"All Ages",3,"Both",20.8380201113143
+"pollution_outdoor_pm25","Guerrero",4654,1991,22,"All Ages",3,"Both",19.5958211489892
+"pollution_outdoor_pm25","Hidalgo",4655,1991,22,"All Ages",3,"Both",18.7024278453287
+"pollution_outdoor_pm25","Jalisco",4656,1991,22,"All Ages",3,"Both",25.9435286220867
+"pollution_outdoor_pm25","México",4657,1991,22,"All Ages",3,"Both",24.2027020926236
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1991,22,"All Ages",3,"Both",19.8963563888529
+"pollution_outdoor_pm25","Morelos",4659,1991,22,"All Ages",3,"Both",22.4694906891535
+"pollution_outdoor_pm25","Nayarit",4660,1991,22,"All Ages",3,"Both",22.1941201292636
+"pollution_outdoor_pm25","Nuevo León",4661,1991,22,"All Ages",3,"Both",29.2984364611359
+"pollution_outdoor_pm25","Oaxaca",4662,1991,22,"All Ages",3,"Both",21.1007518919871
+"pollution_outdoor_pm25","Puebla",4663,1991,22,"All Ages",3,"Both",21.9968633922776
+"pollution_outdoor_pm25","Querétaro",4664,1991,22,"All Ages",3,"Both",19.6699208977029
+"pollution_outdoor_pm25","Quintana Roo",4665,1991,22,"All Ages",3,"Both",30.0409559495875
+"pollution_outdoor_pm25","San Luis Potosí",4666,1991,22,"All Ages",3,"Both",19.5800155420414
+"pollution_outdoor_pm25","Sinaloa",4667,1991,22,"All Ages",3,"Both",25.8631113432644
+"pollution_outdoor_pm25","Sonora",4668,1991,22,"All Ages",3,"Both",23.2700185858955
+"pollution_outdoor_pm25","Tabasco",4669,1991,22,"All Ages",3,"Both",29.6927699311285
+"pollution_outdoor_pm25","Tamaulipas",4670,1991,22,"All Ages",3,"Both",21.4253305436136
+"pollution_outdoor_pm25","Tlaxcala",4671,1991,22,"All Ages",3,"Both",21.9299269835986
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1991,22,"All Ages",3,"Both",23.6280388321903
+"pollution_outdoor_pm25","Yucatán",4673,1991,22,"All Ages",3,"Both",33.0684521710216
+"pollution_outdoor_pm25","Zacatecas",4674,1991,22,"All Ages",3,"Both",17.9488238539428
+"pollution_outdoor_pm25","Mexico",130,1992,22,"All Ages",3,"Both",23.6844111168299
+"pollution_outdoor_pm25","Aguascalientes",4643,1992,22,"All Ages",3,"Both",21.6053910817056
+"pollution_outdoor_pm25","Baja California",4644,1992,22,"All Ages",3,"Both",24.4307242359772
+"pollution_outdoor_pm25","Baja California Sur",4645,1992,22,"All Ages",3,"Both",22.123872486413
+"pollution_outdoor_pm25","Campeche",4646,1992,22,"All Ages",3,"Both",26.2970373694547
+"pollution_outdoor_pm25","Coahuila",4647,1992,22,"All Ages",3,"Both",19.7175299403301
+"pollution_outdoor_pm25","Colima",4648,1992,22,"All Ages",3,"Both",22.1084955500708
+"pollution_outdoor_pm25","Chiapas",4649,1992,22,"All Ages",3,"Both",27.9270882256846
+"pollution_outdoor_pm25","Chihuahua",4650,1992,22,"All Ages",3,"Both",19.409175757815
+"pollution_outdoor_pm25","Mexico City",4651,1992,22,"All Ages",3,"Both",27.117426172039
+"pollution_outdoor_pm25","Durango",4652,1992,22,"All Ages",3,"Both",20.3707699342344
+"pollution_outdoor_pm25","Guanajuato",4653,1992,22,"All Ages",3,"Both",21.1280664818108
+"pollution_outdoor_pm25","Guerrero",4654,1992,22,"All Ages",3,"Both",19.6655419065331
+"pollution_outdoor_pm25","Hidalgo",4655,1992,22,"All Ages",3,"Both",18.8633041910648
+"pollution_outdoor_pm25","Jalisco",4656,1992,22,"All Ages",3,"Both",26.1851514489766
+"pollution_outdoor_pm25","México",4657,1992,22,"All Ages",3,"Both",24.3472617720341
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1992,22,"All Ages",3,"Both",20.0793477921334
+"pollution_outdoor_pm25","Morelos",4659,1992,22,"All Ages",3,"Both",22.6310620247382
+"pollution_outdoor_pm25","Nayarit",4660,1992,22,"All Ages",3,"Both",22.2233073856323
+"pollution_outdoor_pm25","Nuevo León",4661,1992,22,"All Ages",3,"Both",29.1769341669307
+"pollution_outdoor_pm25","Oaxaca",4662,1992,22,"All Ages",3,"Both",21.1205112636561
+"pollution_outdoor_pm25","Puebla",4663,1992,22,"All Ages",3,"Both",22.1793059326994
+"pollution_outdoor_pm25","Querétaro",4664,1992,22,"All Ages",3,"Both",19.8088830270353
+"pollution_outdoor_pm25","Quintana Roo",4665,1992,22,"All Ages",3,"Both",30.2882058180774
+"pollution_outdoor_pm25","San Luis Potosí",4666,1992,22,"All Ages",3,"Both",19.6076921392858
+"pollution_outdoor_pm25","Sinaloa",4667,1992,22,"All Ages",3,"Both",25.6421855611335
+"pollution_outdoor_pm25","Sonora",4668,1992,22,"All Ages",3,"Both",23.1888565982963
+"pollution_outdoor_pm25","Tabasco",4669,1992,22,"All Ages",3,"Both",29.765196202519
+"pollution_outdoor_pm25","Tamaulipas",4670,1992,22,"All Ages",3,"Both",21.4940648526581
+"pollution_outdoor_pm25","Tlaxcala",4671,1992,22,"All Ages",3,"Both",22.1118069151154
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1992,22,"All Ages",3,"Both",23.7013203805046
+"pollution_outdoor_pm25","Yucatán",4673,1992,22,"All Ages",3,"Both",33.0149812882199
+"pollution_outdoor_pm25","Zacatecas",4674,1992,22,"All Ages",3,"Both",17.9812328514689
+"pollution_outdoor_pm25","Mexico",130,1993,22,"All Ages",3,"Both",23.8173209898409
+"pollution_outdoor_pm25","Aguascalientes",4643,1993,22,"All Ages",3,"Both",21.7602861113388
+"pollution_outdoor_pm25","Baja California",4644,1993,22,"All Ages",3,"Both",24.5333185888146
+"pollution_outdoor_pm25","Baja California Sur",4645,1993,22,"All Ages",3,"Both",22.1224742586365
+"pollution_outdoor_pm25","Campeche",4646,1993,22,"All Ages",3,"Both",26.17348865052
+"pollution_outdoor_pm25","Coahuila",4647,1993,22,"All Ages",3,"Both",19.9924942031471
+"pollution_outdoor_pm25","Colima",4648,1993,22,"All Ages",3,"Both",22.291685260306
+"pollution_outdoor_pm25","Chiapas",4649,1993,22,"All Ages",3,"Both",27.9342989847723
+"pollution_outdoor_pm25","Chihuahua",4650,1993,22,"All Ages",3,"Both",19.4140299647558
+"pollution_outdoor_pm25","Mexico City",4651,1993,22,"All Ages",3,"Both",27.2968018686521
+"pollution_outdoor_pm25","Durango",4652,1993,22,"All Ages",3,"Both",20.6110473744753
+"pollution_outdoor_pm25","Guanajuato",4653,1993,22,"All Ages",3,"Both",21.4400696963785
+"pollution_outdoor_pm25","Guerrero",4654,1993,22,"All Ages",3,"Both",19.7575801462479
+"pollution_outdoor_pm25","Hidalgo",4655,1993,22,"All Ages",3,"Both",19.0304662578123
+"pollution_outdoor_pm25","Jalisco",4656,1993,22,"All Ages",3,"Both",26.476613285656
+"pollution_outdoor_pm25","México",4657,1993,22,"All Ages",3,"Both",24.5185319411034
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1993,22,"All Ages",3,"Both",20.2604255579716
+"pollution_outdoor_pm25","Morelos",4659,1993,22,"All Ages",3,"Both",22.8163249384474
+"pollution_outdoor_pm25","Nayarit",4660,1993,22,"All Ages",3,"Both",22.2851098646926
+"pollution_outdoor_pm25","Nuevo León",4661,1993,22,"All Ages",3,"Both",29.1164910752877
+"pollution_outdoor_pm25","Oaxaca",4662,1993,22,"All Ages",3,"Both",21.1740955127416
+"pollution_outdoor_pm25","Puebla",4663,1993,22,"All Ages",3,"Both",22.3771169840802
+"pollution_outdoor_pm25","Querétaro",4664,1993,22,"All Ages",3,"Both",19.9931259079951
+"pollution_outdoor_pm25","Quintana Roo",4665,1993,22,"All Ages",3,"Both",30.6551801761053
+"pollution_outdoor_pm25","San Luis Potosí",4666,1993,22,"All Ages",3,"Both",19.6652045319303
+"pollution_outdoor_pm25","Sinaloa",4667,1993,22,"All Ages",3,"Both",25.5343314633011
+"pollution_outdoor_pm25","Sonora",4668,1993,22,"All Ages",3,"Both",23.1572391255999
+"pollution_outdoor_pm25","Tabasco",4669,1993,22,"All Ages",3,"Both",29.8677942626775
+"pollution_outdoor_pm25","Tamaulipas",4670,1993,22,"All Ages",3,"Both",21.5894757723766
+"pollution_outdoor_pm25","Tlaxcala",4671,1993,22,"All Ages",3,"Both",22.2563302743733
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1993,22,"All Ages",3,"Both",23.7896850872478
+"pollution_outdoor_pm25","Yucatán",4673,1993,22,"All Ages",3,"Both",33.0218457202417
+"pollution_outdoor_pm25","Zacatecas",4674,1993,22,"All Ages",3,"Both",18.0395088340723
+"pollution_outdoor_pm25","Mexico",130,1994,22,"All Ages",3,"Both",23.971037915767
+"pollution_outdoor_pm25","Aguascalientes",4643,1994,22,"All Ages",3,"Both",21.9579830642071
+"pollution_outdoor_pm25","Baja California",4644,1994,22,"All Ages",3,"Both",24.667271375096
+"pollution_outdoor_pm25","Baja California Sur",4645,1994,22,"All Ages",3,"Both",22.1466228649622
+"pollution_outdoor_pm25","Campeche",4646,1994,22,"All Ages",3,"Both",26.1251495498457
+"pollution_outdoor_pm25","Coahuila",4647,1994,22,"All Ages",3,"Both",20.3124621170009
+"pollution_outdoor_pm25","Colima",4648,1994,22,"All Ages",3,"Both",22.5210989694916
+"pollution_outdoor_pm25","Chiapas",4649,1994,22,"All Ages",3,"Both",27.9596165612802
+"pollution_outdoor_pm25","Chihuahua",4650,1994,22,"All Ages",3,"Both",19.456423185425
+"pollution_outdoor_pm25","Mexico City",4651,1994,22,"All Ages",3,"Both",27.4635322754145
+"pollution_outdoor_pm25","Durango",4652,1994,22,"All Ages",3,"Both",20.8727834180339
+"pollution_outdoor_pm25","Guanajuato",4653,1994,22,"All Ages",3,"Both",21.7678557078881
+"pollution_outdoor_pm25","Guerrero",4654,1994,22,"All Ages",3,"Both",19.8660983133201
+"pollution_outdoor_pm25","Hidalgo",4655,1994,22,"All Ages",3,"Both",19.202079334041
+"pollution_outdoor_pm25","Jalisco",4656,1994,22,"All Ages",3,"Both",26.807453428735
+"pollution_outdoor_pm25","México",4657,1994,22,"All Ages",3,"Both",24.7083275552004
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1994,22,"All Ages",3,"Both",20.434031288523
+"pollution_outdoor_pm25","Morelos",4659,1994,22,"All Ages",3,"Both",23.0203777580731
+"pollution_outdoor_pm25","Nayarit",4660,1994,22,"All Ages",3,"Both",22.3714303849758
+"pollution_outdoor_pm25","Nuevo León",4661,1994,22,"All Ages",3,"Both",29.098227390964
+"pollution_outdoor_pm25","Oaxaca",4662,1994,22,"All Ages",3,"Both",21.2516143222631
+"pollution_outdoor_pm25","Puebla",4663,1994,22,"All Ages",3,"Both",22.5869907250917
+"pollution_outdoor_pm25","Querétaro",4664,1994,22,"All Ages",3,"Both",20.2102816771753
+"pollution_outdoor_pm25","Quintana Roo",4665,1994,22,"All Ages",3,"Both",31.1146877442176
+"pollution_outdoor_pm25","San Luis Potosí",4666,1994,22,"All Ages",3,"Both",19.7460712572261
+"pollution_outdoor_pm25","Sinaloa",4667,1994,22,"All Ages",3,"Both",25.5027987222611
+"pollution_outdoor_pm25","Sonora",4668,1994,22,"All Ages",3,"Both",23.1602950552196
+"pollution_outdoor_pm25","Tabasco",4669,1994,22,"All Ages",3,"Both",29.9943040554819
+"pollution_outdoor_pm25","Tamaulipas",4670,1994,22,"All Ages",3,"Both",21.7055350926213
+"pollution_outdoor_pm25","Tlaxcala",4671,1994,22,"All Ages",3,"Both",22.3529064220057
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1994,22,"All Ages",3,"Both",23.8892658978279
+"pollution_outdoor_pm25","Yucatán",4673,1994,22,"All Ages",3,"Both",33.0718628394745
+"pollution_outdoor_pm25","Zacatecas",4674,1994,22,"All Ages",3,"Both",18.1177763469684
+"pollution_outdoor_pm25","Mexico",130,1995,22,"All Ages",3,"Both",24.1366102443026
+"pollution_outdoor_pm25","Aguascalientes",4643,1995,22,"All Ages",3,"Both",22.1889559362474
+"pollution_outdoor_pm25","Baja California",4644,1995,22,"All Ages",3,"Both",24.8249788347581
+"pollution_outdoor_pm25","Baja California Sur",4645,1995,22,"All Ages",3,"Both",22.1868439683241
+"pollution_outdoor_pm25","Campeche",4646,1995,22,"All Ages",3,"Both",26.1301768433673
+"pollution_outdoor_pm25","Coahuila",4647,1995,22,"All Ages",3,"Both",20.6602340725702
+"pollution_outdoor_pm25","Colima",4648,1995,22,"All Ages",3,"Both",22.7831989638569
+"pollution_outdoor_pm25","Chiapas",4649,1995,22,"All Ages",3,"Both",27.9958614323895
+"pollution_outdoor_pm25","Chihuahua",4650,1995,22,"All Ages",3,"Both",19.5218849334686
+"pollution_outdoor_pm25","Mexico City",4651,1995,22,"All Ages",3,"Both",27.6146881600898
+"pollution_outdoor_pm25","Durango",4652,1995,22,"All Ages",3,"Both",21.1456762327183
+"pollution_outdoor_pm25","Guanajuato",4653,1995,22,"All Ages",3,"Both",22.10525046921
+"pollution_outdoor_pm25","Guerrero",4654,1995,22,"All Ages",3,"Both",19.9852588529361
+"pollution_outdoor_pm25","Hidalgo",4655,1995,22,"All Ages",3,"Both",19.3763087082209
+"pollution_outdoor_pm25","Jalisco",4656,1995,22,"All Ages",3,"Both",27.1672111748238
+"pollution_outdoor_pm25","México",4657,1995,22,"All Ages",3,"Both",24.9084635696941
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1995,22,"All Ages",3,"Both",20.5946065859432
+"pollution_outdoor_pm25","Morelos",4659,1995,22,"All Ages",3,"Both",23.2383188114075
+"pollution_outdoor_pm25","Nayarit",4660,1995,22,"All Ages",3,"Both",22.4741717650129
+"pollution_outdoor_pm25","Nuevo León",4661,1995,22,"All Ages",3,"Both",29.1032633187169
+"pollution_outdoor_pm25","Oaxaca",4662,1995,22,"All Ages",3,"Both",21.3431773752401
+"pollution_outdoor_pm25","Puebla",4663,1995,22,"All Ages",3,"Both",22.8056213344058
+"pollution_outdoor_pm25","Querétaro",4664,1995,22,"All Ages",3,"Both",20.4479824711692
+"pollution_outdoor_pm25","Quintana Roo",4665,1995,22,"All Ages",3,"Both",31.6395372429609
+"pollution_outdoor_pm25","San Luis Potosí",4666,1995,22,"All Ages",3,"Both",19.843810852424
+"pollution_outdoor_pm25","Sinaloa",4667,1995,22,"All Ages",3,"Both",25.5108370105072
+"pollution_outdoor_pm25","Sonora",4668,1995,22,"All Ages",3,"Both",23.1831532745687
+"pollution_outdoor_pm25","Tabasco",4669,1995,22,"All Ages",3,"Both",30.13846552481
+"pollution_outdoor_pm25","Tamaulipas",4670,1995,22,"All Ages",3,"Both",21.8362146032445
+"pollution_outdoor_pm25","Tlaxcala",4671,1995,22,"All Ages",3,"Both",22.3909447186458
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1995,22,"All Ages",3,"Both",23.996195757653
+"pollution_outdoor_pm25","Yucatán",4673,1995,22,"All Ages",3,"Both",33.1478500183062
+"pollution_outdoor_pm25","Zacatecas",4674,1995,22,"All Ages",3,"Both",18.2101599353724
+"pollution_outdoor_pm25","Mexico",130,1996,22,"All Ages",3,"Both",24.5039774189441
+"pollution_outdoor_pm25","Aguascalientes",4643,1996,22,"All Ages",3,"Both",22.8567240611799
+"pollution_outdoor_pm25","Baja California",4644,1996,22,"All Ages",3,"Both",25.856775482096
+"pollution_outdoor_pm25","Baja California Sur",4645,1996,22,"All Ages",3,"Both",22.7835974192219
+"pollution_outdoor_pm25","Campeche",4646,1996,22,"All Ages",3,"Both",26.3752100433717
+"pollution_outdoor_pm25","Coahuila",4647,1996,22,"All Ages",3,"Both",21.2950359483015
+"pollution_outdoor_pm25","Colima",4648,1996,22,"All Ages",3,"Both",23.4489662673179
+"pollution_outdoor_pm25","Chiapas",4649,1996,22,"All Ages",3,"Both",28.2211706044679
+"pollution_outdoor_pm25","Chihuahua",4650,1996,22,"All Ages",3,"Both",20.0693683432372
+"pollution_outdoor_pm25","Mexico City",4651,1996,22,"All Ages",3,"Both",27.7696399732519
+"pollution_outdoor_pm25","Durango",4652,1996,22,"All Ages",3,"Both",21.5903178878822
+"pollution_outdoor_pm25","Guanajuato",4653,1996,22,"All Ages",3,"Both",22.543085516854
+"pollution_outdoor_pm25","Guerrero",4654,1996,22,"All Ages",3,"Both",20.3173789648341
+"pollution_outdoor_pm25","Hidalgo",4655,1996,22,"All Ages",3,"Both",19.5743250977198
+"pollution_outdoor_pm25","Jalisco",4656,1996,22,"All Ages",3,"Both",27.7021375359141
+"pollution_outdoor_pm25","México",4657,1996,22,"All Ages",3,"Both",25.1984637001949
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1996,22,"All Ages",3,"Both",20.7831829180372
+"pollution_outdoor_pm25","Morelos",4659,1996,22,"All Ages",3,"Both",23.5431018152151
+"pollution_outdoor_pm25","Nayarit",4660,1996,22,"All Ages",3,"Both",22.8054129986213
+"pollution_outdoor_pm25","Nuevo León",4661,1996,22,"All Ages",3,"Both",29.6676876562531
+"pollution_outdoor_pm25","Oaxaca",4662,1996,22,"All Ages",3,"Both",21.5896189939963
+"pollution_outdoor_pm25","Puebla",4663,1996,22,"All Ages",3,"Both",23.0705947579442
+"pollution_outdoor_pm25","Querétaro",4664,1996,22,"All Ages",3,"Both",20.8262221338334
+"pollution_outdoor_pm25","Quintana Roo",4665,1996,22,"All Ages",3,"Both",32.802603144639
+"pollution_outdoor_pm25","San Luis Potosí",4666,1996,22,"All Ages",3,"Both",20.037991037977
+"pollution_outdoor_pm25","Sinaloa",4667,1996,22,"All Ages",3,"Both",26.1317318627782
+"pollution_outdoor_pm25","Sonora",4668,1996,22,"All Ages",3,"Both",24.0854276374395
+"pollution_outdoor_pm25","Tabasco",4669,1996,22,"All Ages",3,"Both",30.489632649331
+"pollution_outdoor_pm25","Tamaulipas",4670,1996,22,"All Ages",3,"Both",22.3119263125438
+"pollution_outdoor_pm25","Tlaxcala",4671,1996,22,"All Ages",3,"Both",22.3747916298439
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1996,22,"All Ages",3,"Both",24.1692501887116
+"pollution_outdoor_pm25","Yucatán",4673,1996,22,"All Ages",3,"Both",33.4063693578455
+"pollution_outdoor_pm25","Zacatecas",4674,1996,22,"All Ages",3,"Both",18.5466892290229
+"pollution_outdoor_pm25","Mexico",130,1997,22,"All Ages",3,"Both",25.1436265435132
+"pollution_outdoor_pm25","Aguascalientes",4643,1997,22,"All Ages",3,"Both",24.1088989927547
+"pollution_outdoor_pm25","Baja California",4644,1997,22,"All Ages",3,"Both",28.0799239383217
+"pollution_outdoor_pm25","Baja California Sur",4645,1997,22,"All Ages",3,"Both",24.1541366120059
+"pollution_outdoor_pm25","Campeche",4646,1997,22,"All Ages",3,"Both",26.9293576998145
+"pollution_outdoor_pm25","Coahuila",4647,1997,22,"All Ages",3,"Both",22.3029451609665
+"pollution_outdoor_pm25","Colima",4648,1997,22,"All Ages",3,"Both",24.6415864392199
+"pollution_outdoor_pm25","Chiapas",4649,1997,22,"All Ages",3,"Both",28.7024307029262
+"pollution_outdoor_pm25","Chihuahua",4650,1997,22,"All Ages",3,"Both",21.2771972165875
+"pollution_outdoor_pm25","Mexico City",4651,1997,22,"All Ages",3,"Both",27.9354813873018
+"pollution_outdoor_pm25","Durango",4652,1997,22,"All Ages",3,"Both",22.2714339230016
+"pollution_outdoor_pm25","Guanajuato",4653,1997,22,"All Ages",3,"Both",23.0979608596712
+"pollution_outdoor_pm25","Guerrero",4654,1997,22,"All Ages",3,"Both",20.9327599468862
+"pollution_outdoor_pm25","Hidalgo",4655,1997,22,"All Ages",3,"Both",19.8004893780069
+"pollution_outdoor_pm25","Jalisco",4656,1997,22,"All Ages",3,"Both",28.4439288222638
+"pollution_outdoor_pm25","México",4657,1997,22,"All Ages",3,"Both",25.5989538143449
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1997,22,"All Ages",3,"Both",21.0140905632914
+"pollution_outdoor_pm25","Morelos",4659,1997,22,"All Ages",3,"Both",23.9473342881609
+"pollution_outdoor_pm25","Nayarit",4660,1997,22,"All Ages",3,"Both",23.4396464543896
+"pollution_outdoor_pm25","Nuevo León",4661,1997,22,"All Ages",3,"Both",31.0000658823409
+"pollution_outdoor_pm25","Oaxaca",4662,1997,22,"All Ages",3,"Both",22.0407514091268
+"pollution_outdoor_pm25","Puebla",4663,1997,22,"All Ages",3,"Both",23.3926418950736
+"pollution_outdoor_pm25","Querétaro",4664,1997,22,"All Ages",3,"Both",21.39014252087
+"pollution_outdoor_pm25","Quintana Roo",4665,1997,22,"All Ages",3,"Both",34.7838055530986
+"pollution_outdoor_pm25","San Luis Potosí",4666,1997,22,"All Ages",3,"Both",20.3667677903656
+"pollution_outdoor_pm25","Sinaloa",4667,1997,22,"All Ages",3,"Both",27.5898357487498
+"pollution_outdoor_pm25","Sonora",4668,1997,22,"All Ages",3,"Both",26.1995987435448
+"pollution_outdoor_pm25","Tabasco",4669,1997,22,"All Ages",3,"Both",31.11007733049
+"pollution_outdoor_pm25","Tamaulipas",4670,1997,22,"All Ages",3,"Both",23.250890868376
+"pollution_outdoor_pm25","Tlaxcala",4671,1997,22,"All Ages",3,"Both",22.3291717564874
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1997,22,"All Ages",3,"Both",24.4336413381933
+"pollution_outdoor_pm25","Yucatán",4673,1997,22,"All Ages",3,"Both",33.9146242681222
+"pollution_outdoor_pm25","Zacatecas",4674,1997,22,"All Ages",3,"Both",19.2203344845249
+"pollution_outdoor_pm25","Mexico",130,1998,22,"All Ages",3,"Both",25.8652886221613
+"pollution_outdoor_pm25","Aguascalientes",4643,1998,22,"All Ages",3,"Both",25.5520930569539
+"pollution_outdoor_pm25","Baja California",4644,1998,22,"All Ages",3,"Both",30.6872126037473
+"pollution_outdoor_pm25","Baja California Sur",4645,1998,22,"All Ages",3,"Both",25.8041775253856
+"pollution_outdoor_pm25","Campeche",4646,1998,22,"All Ages",3,"Both",27.594480145135
+"pollution_outdoor_pm25","Coahuila",4647,1998,22,"All Ages",3,"Both",23.407039408732
+"pollution_outdoor_pm25","Colima",4648,1998,22,"All Ages",3,"Both",25.9758285689362
+"pollution_outdoor_pm25","Chiapas",4649,1998,22,"All Ages",3,"Both",29.2655866335111
+"pollution_outdoor_pm25","Chihuahua",4650,1998,22,"All Ages",3,"Both",22.7099570684249
+"pollution_outdoor_pm25","Mexico City",4651,1998,22,"All Ages",3,"Both",28.0908680027432
+"pollution_outdoor_pm25","Durango",4652,1998,22,"All Ages",3,"Both",23.0349227110681
+"pollution_outdoor_pm25","Guanajuato",4653,1998,22,"All Ages",3,"Both",23.6523551590444
+"pollution_outdoor_pm25","Guerrero",4654,1998,22,"All Ages",3,"Both",21.6275403914791
+"pollution_outdoor_pm25","Hidalgo",4655,1998,22,"All Ages",3,"Both",20.0277520747043
+"pollution_outdoor_pm25","Jalisco",4656,1998,22,"All Ages",3,"Both",29.2102922778826
+"pollution_outdoor_pm25","México",4657,1998,22,"All Ages",3,"Both",26.0134020955606
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1998,22,"All Ages",3,"Both",21.2417193398825
+"pollution_outdoor_pm25","Morelos",4659,1998,22,"All Ages",3,"Both",24.3555952608877
+"pollution_outdoor_pm25","Nayarit",4660,1998,22,"All Ages",3,"Both",24.1623950130058
+"pollution_outdoor_pm25","Nuevo León",4661,1998,22,"All Ages",3,"Both",32.5902332233294
+"pollution_outdoor_pm25","Oaxaca",4662,1998,22,"All Ages",3,"Both",22.5501511660578
+"pollution_outdoor_pm25","Puebla",4663,1998,22,"All Ages",3,"Both",23.728174354633
+"pollution_outdoor_pm25","Querétaro",4664,1998,22,"All Ages",3,"Both",22.0150977866404
+"pollution_outdoor_pm25","Quintana Roo",4665,1998,22,"All Ages",3,"Both",36.9665216361999
+"pollution_outdoor_pm25","San Luis Potosí",4666,1998,22,"All Ages",3,"Both",20.7615420308826
+"pollution_outdoor_pm25","Sinaloa",4667,1998,22,"All Ages",3,"Both",29.3249987433206
+"pollution_outdoor_pm25","Sonora",4668,1998,22,"All Ages",3,"Both",28.720095599179
+"pollution_outdoor_pm25","Tabasco",4669,1998,22,"All Ages",3,"Both",31.8029163963293
+"pollution_outdoor_pm25","Tamaulipas",4670,1998,22,"All Ages",3,"Both",24.3287930199314
+"pollution_outdoor_pm25","Tlaxcala",4671,1998,22,"All Ages",3,"Both",22.2740616622154
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1998,22,"All Ages",3,"Both",24.7351570893078
+"pollution_outdoor_pm25","Yucatán",4673,1998,22,"All Ages",3,"Both",34.5213940849054
+"pollution_outdoor_pm25","Zacatecas",4674,1998,22,"All Ages",3,"Both",20.0196311873926
+"pollution_outdoor_pm25","Mexico",130,1999,22,"All Ages",3,"Both",26.4757455876836
+"pollution_outdoor_pm25","Aguascalientes",4643,1999,22,"All Ages",3,"Both",26.7929185797595
+"pollution_outdoor_pm25","Baja California",4644,1999,22,"All Ages",3,"Both",32.8714298786848
+"pollution_outdoor_pm25","Baja California Sur",4645,1999,22,"All Ages",3,"Both",27.2394361380709
+"pollution_outdoor_pm25","Campeche",4646,1999,22,"All Ages",3,"Both",28.1724377117723
+"pollution_outdoor_pm25","Coahuila",4647,1999,22,"All Ages",3,"Both",24.3303963897649
+"pollution_outdoor_pm25","Colima",4648,1999,22,"All Ages",3,"Both",27.0664617458401
+"pollution_outdoor_pm25","Chiapas",4649,1999,22,"All Ages",3,"Both",29.7365833019693
+"pollution_outdoor_pm25","Chihuahua",4650,1999,22,"All Ages",3,"Both",23.9322334136547
+"pollution_outdoor_pm25","Mexico City",4651,1999,22,"All Ages",3,"Both",28.2144554200802
+"pollution_outdoor_pm25","Durango",4652,1999,22,"All Ages",3,"Both",23.7266826250733
+"pollution_outdoor_pm25","Guanajuato",4653,1999,22,"All Ages",3,"Both",24.0887470763565
+"pollution_outdoor_pm25","Guerrero",4654,1999,22,"All Ages",3,"Both",22.1978588909995
+"pollution_outdoor_pm25","Hidalgo",4655,1999,22,"All Ages",3,"Both",20.2290637134342
+"pollution_outdoor_pm25","Jalisco",4656,1999,22,"All Ages",3,"Both",29.8189351467805
+"pollution_outdoor_pm25","México",4657,1999,22,"All Ages",3,"Both",26.3452767272582
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,1999,22,"All Ages",3,"Both",21.4204590659874
+"pollution_outdoor_pm25","Morelos",4659,1999,22,"All Ages",3,"Both",24.672463764038
+"pollution_outdoor_pm25","Nayarit",4660,1999,22,"All Ages",3,"Both",24.7591815551583
+"pollution_outdoor_pm25","Nuevo León",4661,1999,22,"All Ages",3,"Both",33.9280249055677
+"pollution_outdoor_pm25","Oaxaca",4662,1999,22,"All Ages",3,"Both",22.9713948102159
+"pollution_outdoor_pm25","Puebla",4663,1999,22,"All Ages",3,"Both",24.0336037454615
+"pollution_outdoor_pm25","Querétaro",4664,1999,22,"All Ages",3,"Both",22.5764420855062
+"pollution_outdoor_pm25","Quintana Roo",4665,1999,22,"All Ages",3,"Both",38.7341285618035
+"pollution_outdoor_pm25","San Luis Potosí",4666,1999,22,"All Ages",3,"Both",21.1537146808204
+"pollution_outdoor_pm25","Sinaloa",4667,1999,22,"All Ages",3,"Both",30.7770709213894
+"pollution_outdoor_pm25","Sonora",4668,1999,22,"All Ages",3,"Both",30.8413472106366
+"pollution_outdoor_pm25","Tabasco",4669,1999,22,"All Ages",3,"Both",32.3712666748912
+"pollution_outdoor_pm25","Tamaulipas",4670,1999,22,"All Ages",3,"Both",25.2213175164007
+"pollution_outdoor_pm25","Tlaxcala",4671,1999,22,"All Ages",3,"Both",22.229437910667
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,1999,22,"All Ages",3,"Both",25.0195853252649
+"pollution_outdoor_pm25","Yucatán",4673,1999,22,"All Ages",3,"Both",35.0754581439637
+"pollution_outdoor_pm25","Zacatecas",4674,1999,22,"All Ages",3,"Both",20.7331148231405
+"pollution_outdoor_pm25","Mexico",130,2000,22,"All Ages",3,"Both",26.7791821594009
+"pollution_outdoor_pm25","Aguascalientes",4643,2000,22,"All Ages",3,"Both",27.4379878871538
+"pollution_outdoor_pm25","Baja California",4644,2000,22,"All Ages",3,"Both",33.8253641634465
+"pollution_outdoor_pm25","Baja California Sur",4645,2000,22,"All Ages",3,"Both",27.9656284287711
+"pollution_outdoor_pm25","Campeche",4646,2000,22,"All Ages",3,"Both",28.4650907321655
+"pollution_outdoor_pm25","Coahuila",4647,2000,22,"All Ages",3,"Both",24.7960938022321
+"pollution_outdoor_pm25","Colima",4648,2000,22,"All Ages",3,"Both",27.528255059305
+"pollution_outdoor_pm25","Chiapas",4649,2000,22,"All Ages",3,"Both",29.9413656140474
+"pollution_outdoor_pm25","Chihuahua",4650,2000,22,"All Ages",3,"Both",24.5086117671824
+"pollution_outdoor_pm25","Mexico City",4651,2000,22,"All Ages",3,"Both",28.2848992398167
+"pollution_outdoor_pm25","Durango",4652,2000,22,"All Ages",3,"Both",24.1926120380088
+"pollution_outdoor_pm25","Guanajuato",4653,2000,22,"All Ages",3,"Both",24.2896152729901
+"pollution_outdoor_pm25","Guerrero",4654,2000,22,"All Ages",3,"Both",22.4398540378342
+"pollution_outdoor_pm25","Hidalgo",4655,2000,22,"All Ages",3,"Both",20.3773748198187
+"pollution_outdoor_pm25","Jalisco",4656,2000,22,"All Ages",3,"Both",30.0875646729672
+"pollution_outdoor_pm25","México",4657,2000,22,"All Ages",3,"Both",26.498045892854
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2000,22,"All Ages",3,"Both",21.5046995597831
+"pollution_outdoor_pm25","Morelos",4659,2000,22,"All Ages",3,"Both",24.8025188282548
+"pollution_outdoor_pm25","Nayarit",4660,2000,22,"All Ages",3,"Both",25.0155289615351
+"pollution_outdoor_pm25","Nuevo León",4661,2000,22,"All Ages",3,"Both",34.5032761554049
+"pollution_outdoor_pm25","Oaxaca",4662,2000,22,"All Ages",3,"Both",23.1580588870273
+"pollution_outdoor_pm25","Puebla",4663,2000,22,"All Ages",3,"Both",24.2653416763983
+"pollution_outdoor_pm25","Querétaro",4664,2000,22,"All Ages",3,"Both",22.9495295718289
+"pollution_outdoor_pm25","Quintana Roo",4665,2000,22,"All Ages",3,"Both",39.4700034977696
+"pollution_outdoor_pm25","San Luis Potosí",4666,2000,22,"All Ages",3,"Both",21.4746866614717
+"pollution_outdoor_pm25","Sinaloa",4667,2000,22,"All Ages",3,"Both",31.3859023578549
+"pollution_outdoor_pm25","Sonora",4668,2000,22,"All Ages",3,"Both",31.7577825842119
+"pollution_outdoor_pm25","Tabasco",4669,2000,22,"All Ages",3,"Both",32.618244994218
+"pollution_outdoor_pm25","Tamaulipas",4670,2000,22,"All Ages",3,"Both",25.6041491069743
+"pollution_outdoor_pm25","Tlaxcala",4671,2000,22,"All Ages",3,"Both",22.2152770654814
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2000,22,"All Ages",3,"Both",25.2327139292742
+"pollution_outdoor_pm25","Yucatán",4673,2000,22,"All Ages",3,"Both",35.4255957810662
+"pollution_outdoor_pm25","Zacatecas",4674,2000,22,"All Ages",3,"Both",21.149320877283
+"pollution_outdoor_pm25","Mexico",130,2001,22,"All Ages",3,"Both",26.8437758467635
+"pollution_outdoor_pm25","Aguascalientes",4643,2001,22,"All Ages",3,"Both",27.6366075468038
+"pollution_outdoor_pm25","Baja California",4644,2001,22,"All Ages",3,"Both",33.8664149788325
+"pollution_outdoor_pm25","Baja California Sur",4645,2001,22,"All Ages",3,"Both",28.1509534398014
+"pollution_outdoor_pm25","Campeche",4646,2001,22,"All Ages",3,"Both",28.545098468844
+"pollution_outdoor_pm25","Coahuila",4647,2001,22,"All Ages",3,"Both",24.9227187363807
+"pollution_outdoor_pm25","Colima",4648,2001,22,"All Ages",3,"Both",27.4617710399974
+"pollution_outdoor_pm25","Chiapas",4649,2001,22,"All Ages",3,"Both",29.9019470625586
+"pollution_outdoor_pm25","Chihuahua",4650,2001,22,"All Ages",3,"Both",24.5946882620264
+"pollution_outdoor_pm25","Mexico City",4651,2001,22,"All Ages",3,"Both",28.3183328338307
+"pollution_outdoor_pm25","Durango",4652,2001,22,"All Ages",3,"Both",24.4796638962804
+"pollution_outdoor_pm25","Guanajuato",4653,2001,22,"All Ages",3,"Both",24.311425585904
+"pollution_outdoor_pm25","Guerrero",4654,2001,22,"All Ages",3,"Both",22.3792394096419
+"pollution_outdoor_pm25","Hidalgo",4655,2001,22,"All Ages",3,"Both",20.5031663229696
+"pollution_outdoor_pm25","Jalisco",4656,2001,22,"All Ages",3,"Both",30.1046708222525
+"pollution_outdoor_pm25","México",4657,2001,22,"All Ages",3,"Both",26.5238784613887
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2001,22,"All Ages",3,"Both",21.5219865354136
+"pollution_outdoor_pm25","Morelos",4659,2001,22,"All Ages",3,"Both",24.7880419695286
+"pollution_outdoor_pm25","Nayarit",4660,2001,22,"All Ages",3,"Both",24.9992476514621
+"pollution_outdoor_pm25","Nuevo León",4661,2001,22,"All Ages",3,"Both",34.4589105070148
+"pollution_outdoor_pm25","Oaxaca",4662,2001,22,"All Ages",3,"Both",23.1450964999099
+"pollution_outdoor_pm25","Puebla",4663,2001,22,"All Ages",3,"Both",24.4589647968994
+"pollution_outdoor_pm25","Querétaro",4664,2001,22,"All Ages",3,"Both",23.1860935801939
+"pollution_outdoor_pm25","Quintana Roo",4665,2001,22,"All Ages",3,"Both",39.3831520111878
+"pollution_outdoor_pm25","San Luis Potosí",4666,2001,22,"All Ages",3,"Both",21.7703827698009
+"pollution_outdoor_pm25","Sinaloa",4667,2001,22,"All Ages",3,"Both",31.2696539876642
+"pollution_outdoor_pm25","Sonora",4668,2001,22,"All Ages",3,"Both",31.6685459071933
+"pollution_outdoor_pm25","Tabasco",4669,2001,22,"All Ages",3,"Both",32.582043435306
+"pollution_outdoor_pm25","Tamaulipas",4670,2001,22,"All Ages",3,"Both",25.6061381739392
+"pollution_outdoor_pm25","Tlaxcala",4671,2001,22,"All Ages",3,"Both",22.3023824607114
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2001,22,"All Ages",3,"Both",25.4148579000947
+"pollution_outdoor_pm25","Yucatán",4673,2001,22,"All Ages",3,"Both",35.6400992408992
+"pollution_outdoor_pm25","Zacatecas",4674,2001,22,"All Ages",3,"Both",21.3380224740271
+"pollution_outdoor_pm25","Mexico",130,2002,22,"All Ages",3,"Both",26.8753699182928
+"pollution_outdoor_pm25","Aguascalientes",4643,2002,22,"All Ages",3,"Both",27.7987310421786
+"pollution_outdoor_pm25","Baja California",4644,2002,22,"All Ages",3,"Both",33.8635616337088
+"pollution_outdoor_pm25","Baja California Sur",4645,2002,22,"All Ages",3,"Both",28.2963799563476
+"pollution_outdoor_pm25","Campeche",4646,2002,22,"All Ages",3,"Both",28.6131769387921
+"pollution_outdoor_pm25","Coahuila",4647,2002,22,"All Ages",3,"Both",25.0170566895532
+"pollution_outdoor_pm25","Colima",4648,2002,22,"All Ages",3,"Both",27.2682283609024
+"pollution_outdoor_pm25","Chiapas",4649,2002,22,"All Ages",3,"Both",29.7841346978268
+"pollution_outdoor_pm25","Chihuahua",4650,2002,22,"All Ages",3,"Both",24.6443753466578
+"pollution_outdoor_pm25","Mexico City",4651,2002,22,"All Ages",3,"Both",28.3444864991499
+"pollution_outdoor_pm25","Durango",4652,2002,22,"All Ages",3,"Both",24.7323689130241
+"pollution_outdoor_pm25","Guanajuato",4653,2002,22,"All Ages",3,"Both",24.2985520043385
+"pollution_outdoor_pm25","Guerrero",4654,2002,22,"All Ages",3,"Both",22.218798493845
+"pollution_outdoor_pm25","Hidalgo",4655,2002,22,"All Ages",3,"Both",20.639862956257
+"pollution_outdoor_pm25","Jalisco",4656,2002,22,"All Ages",3,"Both",30.0873752299617
+"pollution_outdoor_pm25","México",4657,2002,22,"All Ages",3,"Both",26.5394999724913
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2002,22,"All Ages",3,"Both",21.5294445536627
+"pollution_outdoor_pm25","Morelos",4659,2002,22,"All Ages",3,"Both",24.7446504122758
+"pollution_outdoor_pm25","Nayarit",4660,2002,22,"All Ages",3,"Both",24.9364153896294
+"pollution_outdoor_pm25","Nuevo León",4661,2002,22,"All Ages",3,"Both",34.3135666636914
+"pollution_outdoor_pm25","Oaxaca",4662,2002,22,"All Ages",3,"Both",23.0834044100648
+"pollution_outdoor_pm25","Puebla",4663,2002,22,"All Ages",3,"Both",24.6605942454068
+"pollution_outdoor_pm25","Querétaro",4664,2002,22,"All Ages",3,"Both",23.4068301292753
+"pollution_outdoor_pm25","Quintana Roo",4665,2002,22,"All Ages",3,"Both",39.1502212447335
+"pollution_outdoor_pm25","San Luis Potosí",4666,2002,22,"All Ages",3,"Both",22.0965721957843
+"pollution_outdoor_pm25","Sinaloa",4667,2002,22,"All Ages",3,"Both",30.9890263096267
+"pollution_outdoor_pm25","Sonora",4668,2002,22,"All Ages",3,"Both",31.3895237245514
+"pollution_outdoor_pm25","Tabasco",4669,2002,22,"All Ages",3,"Both",32.4534855287674
+"pollution_outdoor_pm25","Tamaulipas",4670,2002,22,"All Ages",3,"Both",25.5797693496557
+"pollution_outdoor_pm25","Tlaxcala",4671,2002,22,"All Ages",3,"Both",22.4992707401074
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2002,22,"All Ages",3,"Both",25.6182754464242
+"pollution_outdoor_pm25","Yucatán",4673,2002,22,"All Ages",3,"Both",35.8650339965269
+"pollution_outdoor_pm25","Zacatecas",4674,2002,22,"All Ages",3,"Both",21.5041555281996
+"pollution_outdoor_pm25","Mexico",130,2003,22,"All Ages",3,"Both",26.882919325607
+"pollution_outdoor_pm25","Aguascalientes",4643,2003,22,"All Ages",3,"Both",27.9219410729626
+"pollution_outdoor_pm25","Baja California",4644,2003,22,"All Ages",3,"Both",33.8369622104864
+"pollution_outdoor_pm25","Baja California Sur",4645,2003,22,"All Ages",3,"Both",28.406778571426
+"pollution_outdoor_pm25","Campeche",4646,2003,22,"All Ages",3,"Both",28.6632716061316
+"pollution_outdoor_pm25","Coahuila",4647,2003,22,"All Ages",3,"Both",25.0844829705601
+"pollution_outdoor_pm25","Colima",4648,2003,22,"All Ages",3,"Both",27.013380324872
+"pollution_outdoor_pm25","Chiapas",4649,2003,22,"All Ages",3,"Both",29.6295637618651
+"pollution_outdoor_pm25","Chihuahua",4650,2003,22,"All Ages",3,"Both",24.6697330091612
+"pollution_outdoor_pm25","Mexico City",4651,2003,22,"All Ages",3,"Both",28.3624112240029
+"pollution_outdoor_pm25","Durango",4652,2003,22,"All Ages",3,"Both",24.9429921113271
+"pollution_outdoor_pm25","Guanajuato",4653,2003,22,"All Ages",3,"Both",24.2653354180993
+"pollution_outdoor_pm25","Guerrero",4654,2003,22,"All Ages",3,"Both",22.0202747474762
+"pollution_outdoor_pm25","Hidalgo",4655,2003,22,"All Ages",3,"Both",20.7648309516896
+"pollution_outdoor_pm25","Jalisco",4656,2003,22,"All Ages",3,"Both",30.0463326443778
+"pollution_outdoor_pm25","México",4657,2003,22,"All Ages",3,"Both",26.5452136154602
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2003,22,"All Ages",3,"Both",21.5258317026663
+"pollution_outdoor_pm25","Morelos",4659,2003,22,"All Ages",3,"Both",24.6869267497781
+"pollution_outdoor_pm25","Nayarit",4660,2003,22,"All Ages",3,"Both",24.8499560747718
+"pollution_outdoor_pm25","Nuevo León",4661,2003,22,"All Ages",3,"Both",34.120652605464
+"pollution_outdoor_pm25","Oaxaca",4662,2003,22,"All Ages",3,"Both",23.0004746495935
+"pollution_outdoor_pm25","Puebla",4663,2003,22,"All Ages",3,"Both",24.8424583642385
+"pollution_outdoor_pm25","Querétaro",4664,2003,22,"All Ages",3,"Both",23.5905373995675
+"pollution_outdoor_pm25","Quintana Roo",4665,2003,22,"All Ages",3,"Both",38.8560507296456
+"pollution_outdoor_pm25","San Luis Potosí",4666,2003,22,"All Ages",3,"Both",22.3994224502317
+"pollution_outdoor_pm25","Sinaloa",4667,2003,22,"All Ages",3,"Both",30.6476787444349
+"pollution_outdoor_pm25","Sonora",4668,2003,22,"All Ages",3,"Both",31.0402585791041
+"pollution_outdoor_pm25","Tabasco",4669,2003,22,"All Ages",3,"Both",32.2646352770683
+"pollution_outdoor_pm25","Tamaulipas",4670,2003,22,"All Ages",3,"Both",25.5361787584248
+"pollution_outdoor_pm25","Tlaxcala",4671,2003,22,"All Ages",3,"Both",22.7324884318553
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2003,22,"All Ages",3,"Both",25.8066692663804
+"pollution_outdoor_pm25","Yucatán",4673,2003,22,"All Ages",3,"Both",36.0658392262851
+"pollution_outdoor_pm25","Zacatecas",4674,2003,22,"All Ages",3,"Both",21.6389997112454
+"pollution_outdoor_pm25","Mexico",130,2004,22,"All Ages",3,"Both",26.8756206017469
+"pollution_outdoor_pm25","Aguascalientes",4643,2004,22,"All Ages",3,"Both",28.0038203388406
+"pollution_outdoor_pm25","Baja California",4644,2004,22,"All Ages",3,"Both",33.8067747915764
+"pollution_outdoor_pm25","Baja California Sur",4645,2004,22,"All Ages",3,"Both",28.4870198780529
+"pollution_outdoor_pm25","Campeche",4646,2004,22,"All Ages",3,"Both",28.6893279349841
+"pollution_outdoor_pm25","Coahuila",4647,2004,22,"All Ages",3,"Both",25.1303728882118
+"pollution_outdoor_pm25","Colima",4648,2004,22,"All Ages",3,"Both",26.7629802347579
+"pollution_outdoor_pm25","Chiapas",4649,2004,22,"All Ages",3,"Both",29.4798694966861
+"pollution_outdoor_pm25","Chihuahua",4650,2004,22,"All Ages",3,"Both",24.682821237621
+"pollution_outdoor_pm25","Mexico City",4651,2004,22,"All Ages",3,"Both",28.3711579966179
+"pollution_outdoor_pm25","Durango",4652,2004,22,"All Ages",3,"Both",25.1037985142763
+"pollution_outdoor_pm25","Guanajuato",4653,2004,22,"All Ages",3,"Both",24.226116716992
+"pollution_outdoor_pm25","Guerrero",4654,2004,22,"All Ages",3,"Both",21.845411627568
+"pollution_outdoor_pm25","Hidalgo",4655,2004,22,"All Ages",3,"Both",20.8554365412762
+"pollution_outdoor_pm25","Jalisco",4656,2004,22,"All Ages",3,"Both",29.992197813784
+"pollution_outdoor_pm25","México",4657,2004,22,"All Ages",3,"Both",26.541322579594
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2004,22,"All Ages",3,"Both",21.5099060705604
+"pollution_outdoor_pm25","Morelos",4659,2004,22,"All Ages",3,"Both",24.6294535753167
+"pollution_outdoor_pm25","Nayarit",4660,2004,22,"All Ages",3,"Both",24.7627936056243
+"pollution_outdoor_pm25","Nuevo León",4661,2004,22,"All Ages",3,"Both",33.9335763123622
+"pollution_outdoor_pm25","Oaxaca",4662,2004,22,"All Ages",3,"Both",22.9237992505976
+"pollution_outdoor_pm25","Puebla",4663,2004,22,"All Ages",3,"Both",24.9767854957124
+"pollution_outdoor_pm25","Querétaro",4664,2004,22,"All Ages",3,"Both",23.7160135715649
+"pollution_outdoor_pm25","Quintana Roo",4665,2004,22,"All Ages",3,"Both",38.5854799971633
+"pollution_outdoor_pm25","San Luis Potosí",4666,2004,22,"All Ages",3,"Both",22.6251010439528
+"pollution_outdoor_pm25","Sinaloa",4667,2004,22,"All Ages",3,"Both",30.3492707127812
+"pollution_outdoor_pm25","Sonora",4668,2004,22,"All Ages",3,"Both",30.740293013669
+"pollution_outdoor_pm25","Tabasco",4669,2004,22,"All Ages",3,"Both",32.0475566826748
+"pollution_outdoor_pm25","Tamaulipas",4670,2004,22,"All Ages",3,"Both",25.4865025245474
+"pollution_outdoor_pm25","Tlaxcala",4671,2004,22,"All Ages",3,"Both",22.9285820641409
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2004,22,"All Ages",3,"Both",25.9437420580812
+"pollution_outdoor_pm25","Yucatán",4673,2004,22,"All Ages",3,"Both",36.2079541085092
+"pollution_outdoor_pm25","Zacatecas",4674,2004,22,"All Ages",3,"Both",21.7338346946092
+"pollution_outdoor_pm25","Mexico",130,2005,22,"All Ages",3,"Both",26.8628999158892
+"pollution_outdoor_pm25","Aguascalientes",4643,2005,22,"All Ages",3,"Both",28.041951539497
+"pollution_outdoor_pm25","Baja California",4644,2005,22,"All Ages",3,"Both",33.7931574593898
+"pollution_outdoor_pm25","Baja California Sur",4645,2005,22,"All Ages",3,"Both",28.5419744692443
+"pollution_outdoor_pm25","Campeche",4646,2005,22,"All Ages",3,"Both",28.6852913894715
+"pollution_outdoor_pm25","Coahuila",4647,2005,22,"All Ages",3,"Both",25.1601017513187
+"pollution_outdoor_pm25","Colima",4648,2005,22,"All Ages",3,"Both",26.5827813934119
+"pollution_outdoor_pm25","Chiapas",4649,2005,22,"All Ages",3,"Both",29.376687144303
+"pollution_outdoor_pm25","Chihuahua",4650,2005,22,"All Ages",3,"Both",24.6957000201218
+"pollution_outdoor_pm25","Mexico City",4651,2005,22,"All Ages",3,"Both",28.3697778052235
+"pollution_outdoor_pm25","Durango",4652,2005,22,"All Ages",3,"Both",25.2070531449588
+"pollution_outdoor_pm25","Guanajuato",4653,2005,22,"All Ages",3,"Both",24.1952367908221
+"pollution_outdoor_pm25","Guerrero",4654,2005,22,"All Ages",3,"Both",21.7559525911531
+"pollution_outdoor_pm25","Hidalgo",4655,2005,22,"All Ages",3,"Both",20.8890459570258
+"pollution_outdoor_pm25","Jalisco",4656,2005,22,"All Ages",3,"Both",29.9356254864631
+"pollution_outdoor_pm25","México",4657,2005,22,"All Ages",3,"Both",26.5281300541912
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2005,22,"All Ages",3,"Both",21.480425745481
+"pollution_outdoor_pm25","Morelos",4659,2005,22,"All Ages",3,"Both",24.5868134821733
+"pollution_outdoor_pm25","Nayarit",4660,2005,22,"All Ages",3,"Both",24.6978518809217
+"pollution_outdoor_pm25","Nuevo León",4661,2005,22,"All Ages",3,"Both",33.8057457644151
+"pollution_outdoor_pm25","Oaxaca",4662,2005,22,"All Ages",3,"Both",22.8808702451785
+"pollution_outdoor_pm25","Puebla",4663,2005,22,"All Ages",3,"Both",25.0358039821463
+"pollution_outdoor_pm25","Querétaro",4664,2005,22,"All Ages",3,"Both",23.7620568257619
+"pollution_outdoor_pm25","Quintana Roo",4665,2005,22,"All Ages",3,"Both",38.4233485785255
+"pollution_outdoor_pm25","San Luis Potosí",4666,2005,22,"All Ages",3,"Both",22.7197754877573
+"pollution_outdoor_pm25","Sinaloa",4667,2005,22,"All Ages",3,"Both",30.1974616353581
+"pollution_outdoor_pm25","Sonora",4668,2005,22,"All Ages",3,"Both",30.6091695710639
+"pollution_outdoor_pm25","Tabasco",4669,2005,22,"All Ages",3,"Both",31.834313748053
+"pollution_outdoor_pm25","Tamaulipas",4670,2005,22,"All Ages",3,"Both",25.4418767723246
+"pollution_outdoor_pm25","Tlaxcala",4671,2005,22,"All Ages",3,"Both",23.0140981651499
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2005,22,"All Ages",3,"Both",25.9931965196444
+"pollution_outdoor_pm25","Yucatán",4673,2005,22,"All Ages",3,"Both",36.2568178215349
+"pollution_outdoor_pm25","Zacatecas",4674,2005,22,"All Ages",3,"Both",21.7799401497356
+"pollution_outdoor_pm25","Mexico",130,2006,22,"All Ages",3,"Both",26.828475978674
+"pollution_outdoor_pm25","Aguascalientes",4643,2006,22,"All Ages",3,"Both",28.0515830833582
+"pollution_outdoor_pm25","Baja California",4644,2006,22,"All Ages",3,"Both",33.8018205393678
+"pollution_outdoor_pm25","Baja California Sur",4645,2006,22,"All Ages",3,"Both",28.5950798637671
+"pollution_outdoor_pm25","Campeche",4646,2006,22,"All Ages",3,"Both",28.6218170915112
+"pollution_outdoor_pm25","Coahuila",4647,2006,22,"All Ages",3,"Both",25.1947690207008
+"pollution_outdoor_pm25","Colima",4648,2006,22,"All Ages",3,"Both",26.4451534226896
+"pollution_outdoor_pm25","Chiapas",4649,2006,22,"All Ages",3,"Both",29.2895406488963
+"pollution_outdoor_pm25","Chihuahua",4650,2006,22,"All Ages",3,"Both",24.7183269285082
+"pollution_outdoor_pm25","Mexico City",4651,2006,22,"All Ages",3,"Both",28.3300116834572
+"pollution_outdoor_pm25","Durango",4652,2006,22,"All Ages",3,"Both",25.2835502506131
+"pollution_outdoor_pm25","Guanajuato",4653,2006,22,"All Ages",3,"Both",24.168873716772
+"pollution_outdoor_pm25","Guerrero",4654,2006,22,"All Ages",3,"Both",21.737569129997
+"pollution_outdoor_pm25","Hidalgo",4655,2006,22,"All Ages",3,"Both",20.8715806164898
+"pollution_outdoor_pm25","Jalisco",4656,2006,22,"All Ages",3,"Both",29.813820671644
+"pollution_outdoor_pm25","México",4657,2006,22,"All Ages",3,"Both",26.4811389959559
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2006,22,"All Ages",3,"Both",21.4091457374906
+"pollution_outdoor_pm25","Morelos",4659,2006,22,"All Ages",3,"Both",24.5487783829289
+"pollution_outdoor_pm25","Nayarit",4660,2006,22,"All Ages",3,"Both",24.6409258533685
+"pollution_outdoor_pm25","Nuevo León",4661,2006,22,"All Ages",3,"Both",33.7190813058172
+"pollution_outdoor_pm25","Oaxaca",4662,2006,22,"All Ages",3,"Both",22.8623998113236
+"pollution_outdoor_pm25","Puebla",4663,2006,22,"All Ages",3,"Both",25.0311457819374
+"pollution_outdoor_pm25","Querétaro",4664,2006,22,"All Ages",3,"Both",23.7171183086601
+"pollution_outdoor_pm25","Quintana Roo",4665,2006,22,"All Ages",3,"Both",38.3460888693783
+"pollution_outdoor_pm25","San Luis Potosí",4666,2006,22,"All Ages",3,"Both",22.7179442612548
+"pollution_outdoor_pm25","Sinaloa",4667,2006,22,"All Ages",3,"Both",30.1876020690204
+"pollution_outdoor_pm25","Sonora",4668,2006,22,"All Ages",3,"Both",30.6231155316899
+"pollution_outdoor_pm25","Tabasco",4669,2006,22,"All Ages",3,"Both",31.6015294782507
+"pollution_outdoor_pm25","Tamaulipas",4670,2006,22,"All Ages",3,"Both",25.3831563764914
+"pollution_outdoor_pm25","Tlaxcala",4671,2006,22,"All Ages",3,"Both",23.0138017575933
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2006,22,"All Ages",3,"Both",25.916299390152
+"pollution_outdoor_pm25","Yucatán",4673,2006,22,"All Ages",3,"Both",36.1658177064448
+"pollution_outdoor_pm25","Zacatecas",4674,2006,22,"All Ages",3,"Both",21.7839050189435
+"pollution_outdoor_pm25","Mexico",130,2007,22,"All Ages",3,"Both",26.7544486528154
+"pollution_outdoor_pm25","Aguascalientes",4643,2007,22,"All Ages",3,"Both",28.0469755123583
+"pollution_outdoor_pm25","Baja California",4644,2007,22,"All Ages",3,"Both",33.8234851186394
+"pollution_outdoor_pm25","Baja California Sur",4645,2007,22,"All Ages",3,"Both",28.6609077937788
+"pollution_outdoor_pm25","Campeche",4646,2007,22,"All Ages",3,"Both",28.4816883894848
+"pollution_outdoor_pm25","Coahuila",4647,2007,22,"All Ages",3,"Both",25.2470628946586
+"pollution_outdoor_pm25","Colima",4648,2007,22,"All Ages",3,"Both",26.2849018276038
+"pollution_outdoor_pm25","Chiapas",4649,2007,22,"All Ages",3,"Both",29.1676018453615
+"pollution_outdoor_pm25","Chihuahua",4650,2007,22,"All Ages",3,"Both",24.7505631533598
+"pollution_outdoor_pm25","Mexico City",4651,2007,22,"All Ages",3,"Both",28.2322316124132
+"pollution_outdoor_pm25","Durango",4652,2007,22,"All Ages",3,"Both",25.3645001106102
+"pollution_outdoor_pm25","Guanajuato",4653,2007,22,"All Ages",3,"Both",24.1345664028218
+"pollution_outdoor_pm25","Guerrero",4654,2007,22,"All Ages",3,"Both",21.7382076847093
+"pollution_outdoor_pm25","Hidalgo",4655,2007,22,"All Ages",3,"Both",20.8224589259314
+"pollution_outdoor_pm25","Jalisco",4656,2007,22,"All Ages",3,"Both",29.5747392050424
+"pollution_outdoor_pm25","México",4657,2007,22,"All Ages",3,"Both",26.3826273789142
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2007,22,"All Ages",3,"Both",21.2767185860881
+"pollution_outdoor_pm25","Morelos",4659,2007,22,"All Ages",3,"Both",24.4976357426479
+"pollution_outdoor_pm25","Nayarit",4660,2007,22,"All Ages",3,"Both",24.5659995930572
+"pollution_outdoor_pm25","Nuevo León",4661,2007,22,"All Ages",3,"Both",33.6233553820208
+"pollution_outdoor_pm25","Oaxaca",4662,2007,22,"All Ages",3,"Both",22.8422028874463
+"pollution_outdoor_pm25","Puebla",4663,2007,22,"All Ages",3,"Both",24.990383452105
+"pollution_outdoor_pm25","Querétaro",4664,2007,22,"All Ages",3,"Both",23.587082812464
+"pollution_outdoor_pm25","Quintana Roo",4665,2007,22,"All Ages",3,"Both",38.2771900355038
+"pollution_outdoor_pm25","San Luis Potosí",4666,2007,22,"All Ages",3,"Both",22.6847521615662
+"pollution_outdoor_pm25","Sinaloa",4667,2007,22,"All Ages",3,"Both",30.2449126151639
+"pollution_outdoor_pm25","Sonora",4668,2007,22,"All Ages",3,"Both",30.684030974378
+"pollution_outdoor_pm25","Tabasco",4669,2007,22,"All Ages",3,"Both",31.3115317584213
+"pollution_outdoor_pm25","Tamaulipas",4670,2007,22,"All Ages",3,"Both",25.2887827825443
+"pollution_outdoor_pm25","Tlaxcala",4671,2007,22,"All Ages",3,"Both",22.995398041099
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2007,22,"All Ages",3,"Both",25.7098215381097
+"pollution_outdoor_pm25","Yucatán",4673,2007,22,"All Ages",3,"Both",35.9246656343138
+"pollution_outdoor_pm25","Zacatecas",4674,2007,22,"All Ages",3,"Both",21.7571861319154
+"pollution_outdoor_pm25","Mexico",130,2008,22,"All Ages",3,"Both",26.647937031251
+"pollution_outdoor_pm25","Aguascalientes",4643,2008,22,"All Ages",3,"Both",28.0242297264442
+"pollution_outdoor_pm25","Baja California",4644,2008,22,"All Ages",3,"Both",33.8558254221474
+"pollution_outdoor_pm25","Baja California Sur",4645,2008,22,"All Ages",3,"Both",28.7310301723818
+"pollution_outdoor_pm25","Campeche",4646,2008,22,"All Ages",3,"Both",28.2770430872104
+"pollution_outdoor_pm25","Coahuila",4647,2008,22,"All Ages",3,"Both",25.3097417882228
+"pollution_outdoor_pm25","Colima",4648,2008,22,"All Ages",3,"Both",26.1114337357422
+"pollution_outdoor_pm25","Chiapas",4649,2008,22,"All Ages",3,"Both",29.0219778117835
+"pollution_outdoor_pm25","Chihuahua",4650,2008,22,"All Ages",3,"Both",24.7893241108636
+"pollution_outdoor_pm25","Mexico City",4651,2008,22,"All Ages",3,"Both",28.0884350015044
+"pollution_outdoor_pm25","Durango",4652,2008,22,"All Ages",3,"Both",25.4427917962357
+"pollution_outdoor_pm25","Guanajuato",4653,2008,22,"All Ages",3,"Both",24.0936969849739
+"pollution_outdoor_pm25","Guerrero",4654,2008,22,"All Ages",3,"Both",21.7630241355883
+"pollution_outdoor_pm25","Hidalgo",4655,2008,22,"All Ages",3,"Both",20.7392926004273
+"pollution_outdoor_pm25","Jalisco",4656,2008,22,"All Ages",3,"Both",29.2451620746717
+"pollution_outdoor_pm25","México",4657,2008,22,"All Ages",3,"Both",26.2430609183471
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2008,22,"All Ages",3,"Both",21.0952486735648
+"pollution_outdoor_pm25","Morelos",4659,2008,22,"All Ages",3,"Both",24.4367414833366
+"pollution_outdoor_pm25","Nayarit",4660,2008,22,"All Ages",3,"Both",24.4782806748044
+"pollution_outdoor_pm25","Nuevo León",4661,2008,22,"All Ages",3,"Both",33.5237541249431
+"pollution_outdoor_pm25","Oaxaca",4662,2008,22,"All Ages",3,"Both",22.8224256462874
+"pollution_outdoor_pm25","Puebla",4663,2008,22,"All Ages",3,"Both",24.9096562329007
+"pollution_outdoor_pm25","Querétaro",4664,2008,22,"All Ages",3,"Both",23.3768989862226
+"pollution_outdoor_pm25","Quintana Roo",4665,2008,22,"All Ages",3,"Both",38.2220767633456
+"pollution_outdoor_pm25","San Luis Potosí",4666,2008,22,"All Ages",3,"Both",22.6123361757691
+"pollution_outdoor_pm25","Sinaloa",4667,2008,22,"All Ages",3,"Both",30.3678577612917
+"pollution_outdoor_pm25","Sonora",4668,2008,22,"All Ages",3,"Both",30.7999676395908
+"pollution_outdoor_pm25","Tabasco",4669,2008,22,"All Ages",3,"Both",30.974941911189
+"pollution_outdoor_pm25","Tamaulipas",4670,2008,22,"All Ages",3,"Both",25.166271970926
+"pollution_outdoor_pm25","Tlaxcala",4671,2008,22,"All Ages",3,"Both",22.9498438092287
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2008,22,"All Ages",3,"Both",25.3907218557706
+"pollution_outdoor_pm25","Yucatán",4673,2008,22,"All Ages",3,"Both",35.5532875784657
+"pollution_outdoor_pm25","Zacatecas",4674,2008,22,"All Ages",3,"Both",21.6983649911424
+"pollution_outdoor_pm25","Mexico",130,2009,22,"All Ages",3,"Both",26.5159700072352
+"pollution_outdoor_pm25","Aguascalientes",4643,2009,22,"All Ages",3,"Both",27.9794466255628
+"pollution_outdoor_pm25","Baja California",4644,2009,22,"All Ages",3,"Both",33.8965156748348
+"pollution_outdoor_pm25","Baja California Sur",4645,2009,22,"All Ages",3,"Both",28.7970189126789
+"pollution_outdoor_pm25","Campeche",4646,2009,22,"All Ages",3,"Both",28.0200189885059
+"pollution_outdoor_pm25","Coahuila",4647,2009,22,"All Ages",3,"Both",25.3755641164243
+"pollution_outdoor_pm25","Colima",4648,2009,22,"All Ages",3,"Both",25.9341562746923
+"pollution_outdoor_pm25","Chiapas",4649,2009,22,"All Ages",3,"Both",28.8637756262473
+"pollution_outdoor_pm25","Chihuahua",4650,2009,22,"All Ages",3,"Both",24.8315252172068
+"pollution_outdoor_pm25","Mexico City",4651,2009,22,"All Ages",3,"Both",27.9106192601436
+"pollution_outdoor_pm25","Durango",4652,2009,22,"All Ages",3,"Both",25.5113143787751
+"pollution_outdoor_pm25","Guanajuato",4653,2009,22,"All Ages",3,"Both",24.0476475992307
+"pollution_outdoor_pm25","Guerrero",4654,2009,22,"All Ages",3,"Both",21.8171743629327
+"pollution_outdoor_pm25","Hidalgo",4655,2009,22,"All Ages",3,"Both",20.6196933550542
+"pollution_outdoor_pm25","Jalisco",4656,2009,22,"All Ages",3,"Both",28.8518702685455
+"pollution_outdoor_pm25","México",4657,2009,22,"All Ages",3,"Both",26.0729053295354
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2009,22,"All Ages",3,"Both",20.8768403822117
+"pollution_outdoor_pm25","Morelos",4659,2009,22,"All Ages",3,"Both",24.369451527001
+"pollution_outdoor_pm25","Nayarit",4660,2009,22,"All Ages",3,"Both",24.3829766734266
+"pollution_outdoor_pm25","Nuevo León",4661,2009,22,"All Ages",3,"Both",33.425463666501
+"pollution_outdoor_pm25","Oaxaca",4662,2009,22,"All Ages",3,"Both",22.8052142605878
+"pollution_outdoor_pm25","Puebla",4663,2009,22,"All Ages",3,"Both",24.785103364576
+"pollution_outdoor_pm25","Querétaro",4664,2009,22,"All Ages",3,"Both",23.0915154789851
+"pollution_outdoor_pm25","Quintana Roo",4665,2009,22,"All Ages",3,"Both",38.1861737393472
+"pollution_outdoor_pm25","San Luis Potosí",4666,2009,22,"All Ages",3,"Both",22.492833290941
+"pollution_outdoor_pm25","Sinaloa",4667,2009,22,"All Ages",3,"Both",30.554901994907
+"pollution_outdoor_pm25","Sonora",4668,2009,22,"All Ages",3,"Both",30.9789772677909
+"pollution_outdoor_pm25","Tabasco",4669,2009,22,"All Ages",3,"Both",30.6023812591781
+"pollution_outdoor_pm25","Tamaulipas",4670,2009,22,"All Ages",3,"Both",25.023139922079
+"pollution_outdoor_pm25","Tlaxcala",4671,2009,22,"All Ages",3,"Both",22.8680958555439
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2009,22,"All Ages",3,"Both",24.9759592353877
+"pollution_outdoor_pm25","Yucatán",4673,2009,22,"All Ages",3,"Both",35.0716095122245
+"pollution_outdoor_pm25","Zacatecas",4674,2009,22,"All Ages",3,"Both",21.6060230991153
+"pollution_outdoor_pm25","Mexico",130,2010,22,"All Ages",3,"Both",26.3654389998875
+"pollution_outdoor_pm25","Aguascalientes",4643,2010,22,"All Ages",3,"Both",27.9087271096607
+"pollution_outdoor_pm25","Baja California",4644,2010,22,"All Ages",3,"Both",33.9432301016441
+"pollution_outdoor_pm25","Baja California Sur",4645,2010,22,"All Ages",3,"Both",28.8504459277725
+"pollution_outdoor_pm25","Campeche",4646,2010,22,"All Ages",3,"Both",27.7227538971893
+"pollution_outdoor_pm25","Coahuila",4647,2010,22,"All Ages",3,"Both",25.4372882942938
+"pollution_outdoor_pm25","Colima",4648,2010,22,"All Ages",3,"Both",25.7624765720418
+"pollution_outdoor_pm25","Chiapas",4649,2010,22,"All Ages",3,"Both",28.7041023668378
+"pollution_outdoor_pm25","Chihuahua",4650,2010,22,"All Ages",3,"Both",24.8740818885761
+"pollution_outdoor_pm25","Mexico City",4651,2010,22,"All Ages",3,"Both",27.7107817977437
+"pollution_outdoor_pm25","Durango",4652,2010,22,"All Ages",3,"Both",25.5629569295141
+"pollution_outdoor_pm25","Guanajuato",4653,2010,22,"All Ages",3,"Both",23.9978003815947
+"pollution_outdoor_pm25","Guerrero",4654,2010,22,"All Ages",3,"Both",21.9058142470407
+"pollution_outdoor_pm25","Hidalgo",4655,2010,22,"All Ages",3,"Both",20.4612729048888
+"pollution_outdoor_pm25","Jalisco",4656,2010,22,"All Ages",3,"Both",28.4216447746772
+"pollution_outdoor_pm25","México",4657,2010,22,"All Ages",3,"Both",25.8826263277602
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2010,22,"All Ages",3,"Both",20.6335980943201
+"pollution_outdoor_pm25","Morelos",4659,2010,22,"All Ages",3,"Both",24.2991217956472
+"pollution_outdoor_pm25","Nayarit",4660,2010,22,"All Ages",3,"Both",24.2852951637407
+"pollution_outdoor_pm25","Nuevo León",4661,2010,22,"All Ages",3,"Both",33.3336701386113
+"pollution_outdoor_pm25","Oaxaca",4662,2010,22,"All Ages",3,"Both",22.792714903088
+"pollution_outdoor_pm25","Puebla",4663,2010,22,"All Ages",3,"Both",24.6128640873823
+"pollution_outdoor_pm25","Querétaro",4664,2010,22,"All Ages",3,"Both",22.7358809398006
+"pollution_outdoor_pm25","Quintana Roo",4665,2010,22,"All Ages",3,"Both",38.1749056499521
+"pollution_outdoor_pm25","San Luis Potosí",4666,2010,22,"All Ages",3,"Both",22.3183804941592
+"pollution_outdoor_pm25","Sinaloa",4667,2010,22,"All Ages",3,"Both",30.804509803513
+"pollution_outdoor_pm25","Sonora",4668,2010,22,"All Ages",3,"Both",31.2291115994408
+"pollution_outdoor_pm25","Tabasco",4669,2010,22,"All Ages",3,"Both",30.2044711250129
+"pollution_outdoor_pm25","Tamaulipas",4670,2010,22,"All Ages",3,"Both",24.866902616446
+"pollution_outdoor_pm25","Tlaxcala",4671,2010,22,"All Ages",3,"Both",22.7411109736062
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2010,22,"All Ages",3,"Both",24.4824925692139
+"pollution_outdoor_pm25","Yucatán",4673,2010,22,"All Ages",3,"Both",34.4995574089143
+"pollution_outdoor_pm25","Zacatecas",4674,2010,22,"All Ages",3,"Both",21.4787419583249
+"pollution_outdoor_pm25","Mexico",130,2011,22,"All Ages",3,"Both",27.7412967942738
+"pollution_outdoor_pm25","Aguascalientes",4643,2011,22,"All Ages",3,"Both",28.3776189249906
+"pollution_outdoor_pm25","Baja California",4644,2011,22,"All Ages",3,"Both",35.224019143153
+"pollution_outdoor_pm25","Baja California Sur",4645,2011,22,"All Ages",3,"Both",30.7143200616218
+"pollution_outdoor_pm25","Campeche",4646,2011,22,"All Ages",3,"Both",29.0106754027614
+"pollution_outdoor_pm25","Coahuila",4647,2011,22,"All Ages",3,"Both",26.6505623050506
+"pollution_outdoor_pm25","Colima",4648,2011,22,"All Ages",3,"Both",27.171076181087
+"pollution_outdoor_pm25","Chiapas",4649,2011,22,"All Ages",3,"Both",30.2647826535933
+"pollution_outdoor_pm25","Chihuahua",4650,2011,22,"All Ages",3,"Both",26.1526622876898
+"pollution_outdoor_pm25","Mexico City",4651,2011,22,"All Ages",3,"Both",28.8257306041679
+"pollution_outdoor_pm25","Durango",4652,2011,22,"All Ages",3,"Both",27.4491184040179
+"pollution_outdoor_pm25","Guanajuato",4653,2011,22,"All Ages",3,"Both",25.1445969251363
+"pollution_outdoor_pm25","Guerrero",4654,2011,22,"All Ages",3,"Both",22.0835737349511
+"pollution_outdoor_pm25","Hidalgo",4655,2011,22,"All Ages",3,"Both",21.7911568497713
+"pollution_outdoor_pm25","Jalisco",4656,2011,22,"All Ages",3,"Both",30.3951164108764
+"pollution_outdoor_pm25","México",4657,2011,22,"All Ages",3,"Both",27.2059130912161
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2011,22,"All Ages",3,"Both",21.9587547245393
+"pollution_outdoor_pm25","Morelos",4659,2011,22,"All Ages",3,"Both",25.3964033188281
+"pollution_outdoor_pm25","Nayarit",4660,2011,22,"All Ages",3,"Both",26.2396294071463
+"pollution_outdoor_pm25","Nuevo León",4661,2011,22,"All Ages",3,"Both",34.7942158476428
+"pollution_outdoor_pm25","Oaxaca",4662,2011,22,"All Ages",3,"Both",24.260136689767
+"pollution_outdoor_pm25","Puebla",4663,2011,22,"All Ages",3,"Both",25.4919259084093
+"pollution_outdoor_pm25","Querétaro",4664,2011,22,"All Ages",3,"Both",24.3230221706421
+"pollution_outdoor_pm25","Quintana Roo",4665,2011,22,"All Ages",3,"Both",38.8455196545825
+"pollution_outdoor_pm25","San Luis Potosí",4666,2011,22,"All Ages",3,"Both",23.5721525035166
+"pollution_outdoor_pm25","Sinaloa",4667,2011,22,"All Ages",3,"Both",33.4504750793039
+"pollution_outdoor_pm25","Sonora",4668,2011,22,"All Ages",3,"Both",32.4317998850469
+"pollution_outdoor_pm25","Tabasco",4669,2011,22,"All Ages",3,"Both",32.4119014354875
+"pollution_outdoor_pm25","Tamaulipas",4670,2011,22,"All Ages",3,"Both",26.4755081074268
+"pollution_outdoor_pm25","Tlaxcala",4671,2011,22,"All Ages",3,"Both",23.3446743803378
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2011,22,"All Ages",3,"Both",26.0641645427659
+"pollution_outdoor_pm25","Yucatán",4673,2011,22,"All Ages",3,"Both",35.953613876663
+"pollution_outdoor_pm25","Zacatecas",4674,2011,22,"All Ages",3,"Both",22.804485670157
+"pollution_outdoor_pm25","Mexico",130,2012,22,"All Ages",3,"Both",25.9816588282646
+"pollution_outdoor_pm25","Aguascalientes",4643,2012,22,"All Ages",3,"Both",27.1730733345337
+"pollution_outdoor_pm25","Baja California",4644,2012,22,"All Ages",3,"Both",33.0896266252171
+"pollution_outdoor_pm25","Baja California Sur",4645,2012,22,"All Ages",3,"Both",28.7536082708129
+"pollution_outdoor_pm25","Campeche",4646,2012,22,"All Ages",3,"Both",27.6666373333212
+"pollution_outdoor_pm25","Coahuila",4647,2012,22,"All Ages",3,"Both",24.564420713339
+"pollution_outdoor_pm25","Colima",4648,2012,22,"All Ages",3,"Both",26.5188496172618
+"pollution_outdoor_pm25","Chiapas",4649,2012,22,"All Ages",3,"Both",28.0915349737263
+"pollution_outdoor_pm25","Chihuahua",4650,2012,22,"All Ages",3,"Both",24.231505810179
+"pollution_outdoor_pm25","Mexico City",4651,2012,22,"All Ages",3,"Both",27.0913222936357
+"pollution_outdoor_pm25","Durango",4652,2012,22,"All Ages",3,"Both",24.8904307491484
+"pollution_outdoor_pm25","Guanajuato",4653,2012,22,"All Ages",3,"Both",23.8520273640422
+"pollution_outdoor_pm25","Guerrero",4654,2012,22,"All Ages",3,"Both",21.4744969687446
+"pollution_outdoor_pm25","Hidalgo",4655,2012,22,"All Ages",3,"Both",20.3554415252828
+"pollution_outdoor_pm25","Jalisco",4656,2012,22,"All Ages",3,"Both",28.4620380529867
+"pollution_outdoor_pm25","México",4657,2012,22,"All Ages",3,"Both",25.2523367940784
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2012,22,"All Ages",3,"Both",20.5806502790102
+"pollution_outdoor_pm25","Morelos",4659,2012,22,"All Ages",3,"Both",23.6011139637021
+"pollution_outdoor_pm25","Nayarit",4660,2012,22,"All Ages",3,"Both",23.6029937802596
+"pollution_outdoor_pm25","Nuevo León",4661,2012,22,"All Ages",3,"Both",32.3269988634653
+"pollution_outdoor_pm25","Oaxaca",4662,2012,22,"All Ages",3,"Both",22.4493538322222
+"pollution_outdoor_pm25","Puebla",4663,2012,22,"All Ages",3,"Both",23.8396727109094
+"pollution_outdoor_pm25","Querétaro",4664,2012,22,"All Ages",3,"Both",22.3490487310722
+"pollution_outdoor_pm25","Quintana Roo",4665,2012,22,"All Ages",3,"Both",36.9234964452474
+"pollution_outdoor_pm25","San Luis Potosí",4666,2012,22,"All Ages",3,"Both",22.3068928302327
+"pollution_outdoor_pm25","Sinaloa",4667,2012,22,"All Ages",3,"Both",31.0420454577608
+"pollution_outdoor_pm25","Sonora",4668,2012,22,"All Ages",3,"Both",30.3449052384154
+"pollution_outdoor_pm25","Tabasco",4669,2012,22,"All Ages",3,"Both",30.6734035616825
+"pollution_outdoor_pm25","Tamaulipas",4670,2012,22,"All Ages",3,"Both",24.9301844477897
+"pollution_outdoor_pm25","Tlaxcala",4671,2012,22,"All Ages",3,"Both",22.0037756670649
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2012,22,"All Ages",3,"Both",24.9148146719093
+"pollution_outdoor_pm25","Yucatán",4673,2012,22,"All Ages",3,"Both",33.840672016152
+"pollution_outdoor_pm25","Zacatecas",4674,2012,22,"All Ages",3,"Both",20.3927487745654
+"pollution_outdoor_pm25","Mexico",130,2013,22,"All Ages",3,"Both",25.4490896722485
+"pollution_outdoor_pm25","Aguascalientes",4643,2013,22,"All Ages",3,"Both",25.5975998918842
+"pollution_outdoor_pm25","Baja California",4644,2013,22,"All Ages",3,"Both",32.1960454478198
+"pollution_outdoor_pm25","Baja California Sur",4645,2013,22,"All Ages",3,"Both",27.5538566770701
+"pollution_outdoor_pm25","Campeche",4646,2013,22,"All Ages",3,"Both",28.4262909315342
+"pollution_outdoor_pm25","Coahuila",4647,2013,22,"All Ages",3,"Both",24.3882086740728
+"pollution_outdoor_pm25","Colima",4648,2013,22,"All Ages",3,"Both",25.4996973919952
+"pollution_outdoor_pm25","Chiapas",4649,2013,22,"All Ages",3,"Both",28.2559959520963
+"pollution_outdoor_pm25","Chihuahua",4650,2013,22,"All Ages",3,"Both",23.7935960706347
+"pollution_outdoor_pm25","Mexico City",4651,2013,22,"All Ages",3,"Both",26.3404546332466
+"pollution_outdoor_pm25","Durango",4652,2013,22,"All Ages",3,"Both",23.1157956909778
+"pollution_outdoor_pm25","Guanajuato",4653,2013,22,"All Ages",3,"Both",23.2479081396238
+"pollution_outdoor_pm25","Guerrero",4654,2013,22,"All Ages",3,"Both",20.7089959863773
+"pollution_outdoor_pm25","Hidalgo",4655,2013,22,"All Ages",3,"Both",19.8167460218312
+"pollution_outdoor_pm25","Jalisco",4656,2013,22,"All Ages",3,"Both",27.6843607029272
+"pollution_outdoor_pm25","México",4657,2013,22,"All Ages",3,"Both",24.4737485604348
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2013,22,"All Ages",3,"Both",19.9019080038183
+"pollution_outdoor_pm25","Morelos",4659,2013,22,"All Ages",3,"Both",23.1840883499795
+"pollution_outdoor_pm25","Nayarit",4660,2013,22,"All Ages",3,"Both",23.7544524869494
+"pollution_outdoor_pm25","Nuevo León",4661,2013,22,"All Ages",3,"Both",31.1335749366123
+"pollution_outdoor_pm25","Oaxaca",4662,2013,22,"All Ages",3,"Both",22.1822286051131
+"pollution_outdoor_pm25","Puebla",4663,2013,22,"All Ages",3,"Both",23.0618407263215
+"pollution_outdoor_pm25","Querétaro",4664,2013,22,"All Ages",3,"Both",22.006600756997
+"pollution_outdoor_pm25","Quintana Roo",4665,2013,22,"All Ages",3,"Both",37.4107610485713
+"pollution_outdoor_pm25","San Luis Potosí",4666,2013,22,"All Ages",3,"Both",21.4064511893147
+"pollution_outdoor_pm25","Sinaloa",4667,2013,22,"All Ages",3,"Both",29.7601195252496
+"pollution_outdoor_pm25","Sonora",4668,2013,22,"All Ages",3,"Both",29.354057834161
+"pollution_outdoor_pm25","Tabasco",4669,2013,22,"All Ages",3,"Both",31.9018639679872
+"pollution_outdoor_pm25","Tamaulipas",4670,2013,22,"All Ages",3,"Both",24.3408715547363
+"pollution_outdoor_pm25","Tlaxcala",4671,2013,22,"All Ages",3,"Both",21.4255149477296
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2013,22,"All Ages",3,"Both",25.2980596666836
+"pollution_outdoor_pm25","Yucatán",4673,2013,22,"All Ages",3,"Both",34.1773111609602
+"pollution_outdoor_pm25","Zacatecas",4674,2013,22,"All Ages",3,"Both",20.1058052363145
+"pollution_outdoor_pm25","Mexico",130,2014,22,"All Ages",3,"Both",23.0996897467602
+"pollution_outdoor_pm25","Aguascalientes",4643,2014,22,"All Ages",3,"Both",23.631841149754
+"pollution_outdoor_pm25","Baja California",4644,2014,22,"All Ages",3,"Both",29.8388347885794
+"pollution_outdoor_pm25","Baja California Sur",4645,2014,22,"All Ages",3,"Both",25.8814818935764
+"pollution_outdoor_pm25","Campeche",4646,2014,22,"All Ages",3,"Both",25.2139509621274
+"pollution_outdoor_pm25","Coahuila",4647,2014,22,"All Ages",3,"Both",22.3208931652753
+"pollution_outdoor_pm25","Colima",4648,2014,22,"All Ages",3,"Both",23.4655149400903
+"pollution_outdoor_pm25","Chiapas",4649,2014,22,"All Ages",3,"Both",25.2719037804581
+"pollution_outdoor_pm25","Chihuahua",4650,2014,22,"All Ages",3,"Both",21.6531774664013
+"pollution_outdoor_pm25","Mexico City",4651,2014,22,"All Ages",3,"Both",24.0322564145627
+"pollution_outdoor_pm25","Durango",4652,2014,22,"All Ages",3,"Both",22.1440938684999
+"pollution_outdoor_pm25","Guanajuato",4653,2014,22,"All Ages",3,"Both",20.6442668293955
+"pollution_outdoor_pm25","Guerrero",4654,2014,22,"All Ages",3,"Both",18.9689791471057
+"pollution_outdoor_pm25","Hidalgo",4655,2014,22,"All Ages",3,"Both",18.0851551993748
+"pollution_outdoor_pm25","Jalisco",4656,2014,22,"All Ages",3,"Both",24.278117868989
+"pollution_outdoor_pm25","México",4657,2014,22,"All Ages",3,"Both",22.4791690791901
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2014,22,"All Ages",3,"Both",18.585388203468
+"pollution_outdoor_pm25","Morelos",4659,2014,22,"All Ages",3,"Both",20.9503222358593
+"pollution_outdoor_pm25","Nayarit",4660,2014,22,"All Ages",3,"Both",21.9650269692896
+"pollution_outdoor_pm25","Nuevo León",4661,2014,22,"All Ages",3,"Both",28.6943190445753
+"pollution_outdoor_pm25","Oaxaca",4662,2014,22,"All Ages",3,"Both",20.0504988971921
+"pollution_outdoor_pm25","Puebla",4663,2014,22,"All Ages",3,"Both",20.7912170993455
+"pollution_outdoor_pm25","Querétaro",4664,2014,22,"All Ages",3,"Both",20.1824601485795
+"pollution_outdoor_pm25","Quintana Roo",4665,2014,22,"All Ages",3,"Both",34.7399364705816
+"pollution_outdoor_pm25","San Luis Potosí",4666,2014,22,"All Ages",3,"Both",19.5152926693549
+"pollution_outdoor_pm25","Sinaloa",4667,2014,22,"All Ages",3,"Both",28.5089653205606
+"pollution_outdoor_pm25","Sonora",4668,2014,22,"All Ages",3,"Both",27.4993284933894
+"pollution_outdoor_pm25","Tabasco",4669,2014,22,"All Ages",3,"Both",27.6258405073436
+"pollution_outdoor_pm25","Tamaulipas",4670,2014,22,"All Ages",3,"Both",22.1658267053987
+"pollution_outdoor_pm25","Tlaxcala",4671,2014,22,"All Ages",3,"Both",19.4198079777514
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2014,22,"All Ages",3,"Both",21.9349528166968
+"pollution_outdoor_pm25","Yucatán",4673,2014,22,"All Ages",3,"Both",29.7077626694829
+"pollution_outdoor_pm25","Zacatecas",4674,2014,22,"All Ages",3,"Both",18.3542870425988
+"pollution_outdoor_pm25","Mexico",130,2015,22,"All Ages",3,"Both",22.132995848429
+"pollution_outdoor_pm25","Aguascalientes",4643,2015,22,"All Ages",3,"Both",22.4722451195147
+"pollution_outdoor_pm25","Baja California",4644,2015,22,"All Ages",3,"Both",30.014999929246
+"pollution_outdoor_pm25","Baja California Sur",4645,2015,22,"All Ages",3,"Both",25.1345575946635
+"pollution_outdoor_pm25","Campeche",4646,2015,22,"All Ages",3,"Both",24.0080125353479
+"pollution_outdoor_pm25","Coahuila",4647,2015,22,"All Ages",3,"Both",22.2515441879656
+"pollution_outdoor_pm25","Colima",4648,2015,22,"All Ages",3,"Both",21.7524861955418
+"pollution_outdoor_pm25","Chiapas",4649,2015,22,"All Ages",3,"Both",24.092215894974
+"pollution_outdoor_pm25","Chihuahua",4650,2015,22,"All Ages",3,"Both",21.0146833035641
+"pollution_outdoor_pm25","Mexico City",4651,2015,22,"All Ages",3,"Both",22.980787418802
+"pollution_outdoor_pm25","Durango",4652,2015,22,"All Ages",3,"Both",20.7513582086606
+"pollution_outdoor_pm25","Guanajuato",4653,2015,22,"All Ages",3,"Both",19.5566388587585
+"pollution_outdoor_pm25","Guerrero",4654,2015,22,"All Ages",3,"Both",17.713612147152
+"pollution_outdoor_pm25","Hidalgo",4655,2015,22,"All Ages",3,"Both",17.0986985891471
+"pollution_outdoor_pm25","Jalisco",4656,2015,22,"All Ages",3,"Both",23.7068523429148
+"pollution_outdoor_pm25","México",4657,2015,22,"All Ages",3,"Both",21.2158857516249
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2015,22,"All Ages",3,"Both",17.0643638405681
+"pollution_outdoor_pm25","Morelos",4659,2015,22,"All Ages",3,"Both",19.7914748796817
+"pollution_outdoor_pm25","Nayarit",4660,2015,22,"All Ages",3,"Both",21.0868131034998
+"pollution_outdoor_pm25","Nuevo León",4661,2015,22,"All Ages",3,"Both",27.8388997607163
+"pollution_outdoor_pm25","Oaxaca",4662,2015,22,"All Ages",3,"Both",18.7221019961439
+"pollution_outdoor_pm25","Puebla",4663,2015,22,"All Ages",3,"Both",19.6162469786064
+"pollution_outdoor_pm25","Querétaro",4664,2015,22,"All Ages",3,"Both",19.0376643107085
+"pollution_outdoor_pm25","Quintana Roo",4665,2015,22,"All Ages",3,"Both",33.7473305295406
+"pollution_outdoor_pm25","San Luis Potosí",4666,2015,22,"All Ages",3,"Both",18.5711373739572
+"pollution_outdoor_pm25","Sinaloa",4667,2015,22,"All Ages",3,"Both",26.7666476141116
+"pollution_outdoor_pm25","Sonora",4668,2015,22,"All Ages",3,"Both",27.3640242229519
+"pollution_outdoor_pm25","Tabasco",4669,2015,22,"All Ages",3,"Both",26.5515558301016
+"pollution_outdoor_pm25","Tamaulipas",4670,2015,22,"All Ages",3,"Both",21.5423149416646
+"pollution_outdoor_pm25","Tlaxcala",4671,2015,22,"All Ages",3,"Both",18.396649742932
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2015,22,"All Ages",3,"Both",21.1036027713607
+"pollution_outdoor_pm25","Yucatán",4673,2015,22,"All Ages",3,"Both",29.250951449405
+"pollution_outdoor_pm25","Zacatecas",4674,2015,22,"All Ages",3,"Both",17.7383033284918
+"pollution_outdoor_pm25","Mexico",130,2016,22,"All Ages",3,"Both",20.7068285436195
+"pollution_outdoor_pm25","Aguascalientes",4643,2016,22,"All Ages",3,"Both",21.3881389780491
+"pollution_outdoor_pm25","Baja California",4644,2016,22,"All Ages",3,"Both",28.4503650482063
+"pollution_outdoor_pm25","Baja California Sur",4645,2016,22,"All Ages",3,"Both",24.4106209313393
+"pollution_outdoor_pm25","Campeche",4646,2016,22,"All Ages",3,"Both",21.4021212644384
+"pollution_outdoor_pm25","Coahuila",4647,2016,22,"All Ages",3,"Both",20.0232021695374
+"pollution_outdoor_pm25","Colima",4648,2016,22,"All Ages",3,"Both",21.2196893803403
+"pollution_outdoor_pm25","Chiapas",4649,2016,22,"All Ages",3,"Both",22.4631882110657
+"pollution_outdoor_pm25","Chihuahua",4650,2016,22,"All Ages",3,"Both",19.8453350038174
+"pollution_outdoor_pm25","Mexico City",4651,2016,22,"All Ages",3,"Both",21.6776872433089
+"pollution_outdoor_pm25","Durango",4652,2016,22,"All Ages",3,"Both",19.202138102883
+"pollution_outdoor_pm25","Guanajuato",4653,2016,22,"All Ages",3,"Both",18.3491057605886
+"pollution_outdoor_pm25","Guerrero",4654,2016,22,"All Ages",3,"Both",16.7964683466371
+"pollution_outdoor_pm25","Hidalgo",4655,2016,22,"All Ages",3,"Both",16.2013431855404
+"pollution_outdoor_pm25","Jalisco",4656,2016,22,"All Ages",3,"Both",21.3606967314127
+"pollution_outdoor_pm25","México",4657,2016,22,"All Ages",3,"Both",19.9861160348463
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2016,22,"All Ages",3,"Both",16.1045587717011
+"pollution_outdoor_pm25","Morelos",4659,2016,22,"All Ages",3,"Both",18.888666103952
+"pollution_outdoor_pm25","Nayarit",4660,2016,22,"All Ages",3,"Both",19.7396519537963
+"pollution_outdoor_pm25","Nuevo León",4661,2016,22,"All Ages",3,"Both",25.1520753432251
+"pollution_outdoor_pm25","Oaxaca",4662,2016,22,"All Ages",3,"Both",17.514249738575
+"pollution_outdoor_pm25","Puebla",4663,2016,22,"All Ages",3,"Both",18.7752328657866
+"pollution_outdoor_pm25","Querétaro",4664,2016,22,"All Ages",3,"Both",18.0700119632973
+"pollution_outdoor_pm25","Quintana Roo",4665,2016,22,"All Ages",3,"Both",30.6315835906941
+"pollution_outdoor_pm25","San Luis Potosí",4666,2016,22,"All Ages",3,"Both",17.0652994225827
+"pollution_outdoor_pm25","Sinaloa",4667,2016,22,"All Ages",3,"Both",25.4343042929103
+"pollution_outdoor_pm25","Sonora",4668,2016,22,"All Ages",3,"Both",26.2271242621341
+"pollution_outdoor_pm25","Tabasco",4669,2016,22,"All Ages",3,"Both",25.4077123959881
+"pollution_outdoor_pm25","Tamaulipas",4670,2016,22,"All Ages",3,"Both",20.1509878675321
+"pollution_outdoor_pm25","Tlaxcala",4671,2016,22,"All Ages",3,"Both",17.5244594391965
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2016,22,"All Ages",3,"Both",19.6851371356151
+"pollution_outdoor_pm25","Yucatán",4673,2016,22,"All Ages",3,"Both",26.9490012156934
+"pollution_outdoor_pm25","Zacatecas",4674,2016,22,"All Ages",3,"Both",16.2226376275891
+"pollution_outdoor_pm25","Mexico",130,2017,22,"All Ages",3,"Both",20.9211157874081
+"pollution_outdoor_pm25","Aguascalientes",4643,2017,22,"All Ages",3,"Both",21.1591465074807
+"pollution_outdoor_pm25","Baja California",4644,2017,22,"All Ages",3,"Both",28.5079111078828
+"pollution_outdoor_pm25","Baja California Sur",4645,2017,22,"All Ages",3,"Both",24.8831383515979
+"pollution_outdoor_pm25","Campeche",4646,2017,22,"All Ages",3,"Both",22.1232063368891
+"pollution_outdoor_pm25","Coahuila",4647,2017,22,"All Ages",3,"Both",20.1668984899415
+"pollution_outdoor_pm25","Colima",4648,2017,22,"All Ages",3,"Both",21.2449687757075
+"pollution_outdoor_pm25","Chiapas",4649,2017,22,"All Ages",3,"Both",23.0215843790304
+"pollution_outdoor_pm25","Chihuahua",4650,2017,22,"All Ages",3,"Both",19.9973124637052
+"pollution_outdoor_pm25","Mexico City",4651,2017,22,"All Ages",3,"Both",21.7554672782831
+"pollution_outdoor_pm25","Durango",4652,2017,22,"All Ages",3,"Both",19.5739167635367
+"pollution_outdoor_pm25","Guanajuato",4653,2017,22,"All Ages",3,"Both",18.8688612008077
+"pollution_outdoor_pm25","Guerrero",4654,2017,22,"All Ages",3,"Both",16.7610208782795
+"pollution_outdoor_pm25","Hidalgo",4655,2017,22,"All Ages",3,"Both",16.3027519896088
+"pollution_outdoor_pm25","Jalisco",4656,2017,22,"All Ages",3,"Both",22.4686279009839
+"pollution_outdoor_pm25","México",4657,2017,22,"All Ages",3,"Both",20.1117978745167
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2017,22,"All Ages",3,"Both",16.6939127631088
+"pollution_outdoor_pm25","Morelos",4659,2017,22,"All Ages",3,"Both",18.8063096540137
+"pollution_outdoor_pm25","Nayarit",4660,2017,22,"All Ages",3,"Both",19.7249938685861
+"pollution_outdoor_pm25","Nuevo León",4661,2017,22,"All Ages",3,"Both",26.0358237150763
+"pollution_outdoor_pm25","Oaxaca",4662,2017,22,"All Ages",3,"Both",17.5272772119536
+"pollution_outdoor_pm25","Puebla",4663,2017,22,"All Ages",3,"Both",19.0432099665674
+"pollution_outdoor_pm25","Querétaro",4664,2017,22,"All Ages",3,"Both",17.4430860849631
+"pollution_outdoor_pm25","Quintana Roo",4665,2017,22,"All Ages",3,"Both",30.3332901280307
+"pollution_outdoor_pm25","San Luis Potosí",4666,2017,22,"All Ages",3,"Both",17.1069927366628
+"pollution_outdoor_pm25","Sinaloa",4667,2017,22,"All Ages",3,"Both",25.4132777962892
+"pollution_outdoor_pm25","Sonora",4668,2017,22,"All Ages",3,"Both",26.4435316006406
+"pollution_outdoor_pm25","Tabasco",4669,2017,22,"All Ages",3,"Both",24.7412026151311
+"pollution_outdoor_pm25","Tamaulipas",4670,2017,22,"All Ages",3,"Both",20.1137685810394
+"pollution_outdoor_pm25","Tlaxcala",4671,2017,22,"All Ages",3,"Both",17.5814866336829
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2017,22,"All Ages",3,"Both",19.5435502449043
+"pollution_outdoor_pm25","Yucatán",4673,2017,22,"All Ages",3,"Both",27.0030774923101
+"pollution_outdoor_pm25","Zacatecas",4674,2017,22,"All Ages",3,"Both",16.0645044043273
+"pollution_outdoor_pm25","Mexico",130,2018,22,"All Ages",3,"Both",20.8755855762011
+"pollution_outdoor_pm25","Aguascalientes",4643,2018,22,"All Ages",3,"Both",21.1158252558507
+"pollution_outdoor_pm25","Baja California",4644,2018,22,"All Ages",3,"Both",28.4656003374324
+"pollution_outdoor_pm25","Baja California Sur",4645,2018,22,"All Ages",3,"Both",24.8402710303178
+"pollution_outdoor_pm25","Campeche",4646,2018,22,"All Ages",3,"Both",22.0670046569136
+"pollution_outdoor_pm25","Coahuila",4647,2018,22,"All Ages",3,"Both",20.125892744861
+"pollution_outdoor_pm25","Colima",4648,2018,22,"All Ages",3,"Both",21.2004752987824
+"pollution_outdoor_pm25","Chiapas",4649,2018,22,"All Ages",3,"Both",22.957741559086
+"pollution_outdoor_pm25","Chihuahua",4650,2018,22,"All Ages",3,"Both",19.9564491000862
+"pollution_outdoor_pm25","Mexico City",4651,2018,22,"All Ages",3,"Both",21.7183505491814
+"pollution_outdoor_pm25","Durango",4652,2018,22,"All Ages",3,"Both",19.524912262959
+"pollution_outdoor_pm25","Guanajuato",4653,2018,22,"All Ages",3,"Both",18.8235349924416
+"pollution_outdoor_pm25","Guerrero",4654,2018,22,"All Ages",3,"Both",16.718408736905
+"pollution_outdoor_pm25","Hidalgo",4655,2018,22,"All Ages",3,"Both",16.2666873654142
+"pollution_outdoor_pm25","Jalisco",4656,2018,22,"All Ages",3,"Both",22.4192250450926
+"pollution_outdoor_pm25","México",4657,2018,22,"All Ages",3,"Both",20.0679961092081
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2018,22,"All Ages",3,"Both",16.6511309434169
+"pollution_outdoor_pm25","Morelos",4659,2018,22,"All Ages",3,"Both",18.7678791820506
+"pollution_outdoor_pm25","Nayarit",4660,2018,22,"All Ages",3,"Both",19.674137050436
+"pollution_outdoor_pm25","Nuevo León",4661,2018,22,"All Ages",3,"Both",25.9961873675114
+"pollution_outdoor_pm25","Oaxaca",4662,2018,22,"All Ages",3,"Both",17.4793557372742
+"pollution_outdoor_pm25","Puebla",4663,2018,22,"All Ages",3,"Both",19.0009534133309
+"pollution_outdoor_pm25","Querétaro",4664,2018,22,"All Ages",3,"Both",17.4145589593893
+"pollution_outdoor_pm25","Quintana Roo",4665,2018,22,"All Ages",3,"Both",30.2873246243613
+"pollution_outdoor_pm25","San Luis Potosí",4666,2018,22,"All Ages",3,"Both",17.06541075146
+"pollution_outdoor_pm25","Sinaloa",4667,2018,22,"All Ages",3,"Both",25.3585112294756
+"pollution_outdoor_pm25","Sonora",4668,2018,22,"All Ages",3,"Both",26.3943555026991
+"pollution_outdoor_pm25","Tabasco",4669,2018,22,"All Ages",3,"Both",24.6788020287964
+"pollution_outdoor_pm25","Tamaulipas",4670,2018,22,"All Ages",3,"Both",20.0757258424571
+"pollution_outdoor_pm25","Tlaxcala",4671,2018,22,"All Ages",3,"Both",17.5509212771764
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2018,22,"All Ages",3,"Both",19.4930995311207
+"pollution_outdoor_pm25","Yucatán",4673,2018,22,"All Ages",3,"Both",26.9390904449401
+"pollution_outdoor_pm25","Zacatecas",4674,2018,22,"All Ages",3,"Both",16.0170385875379
+"pollution_outdoor_pm25","Mexico",130,2019,22,"All Ages",3,"Both",20.8334387700907
+"pollution_outdoor_pm25","Aguascalientes",4643,2019,22,"All Ages",3,"Both",21.0747063477264
+"pollution_outdoor_pm25","Baja California",4644,2019,22,"All Ages",3,"Both",28.424785777018
+"pollution_outdoor_pm25","Baja California Sur",4645,2019,22,"All Ages",3,"Both",24.7990918269027
+"pollution_outdoor_pm25","Campeche",4646,2019,22,"All Ages",3,"Both",22.0158067947481
+"pollution_outdoor_pm25","Coahuila",4647,2019,22,"All Ages",3,"Both",20.0869834682485
+"pollution_outdoor_pm25","Colima",4648,2019,22,"All Ages",3,"Both",21.159318819354
+"pollution_outdoor_pm25","Chiapas",4649,2019,22,"All Ages",3,"Both",22.9018792648701
+"pollution_outdoor_pm25","Chihuahua",4650,2019,22,"All Ages",3,"Both",19.9193404757216
+"pollution_outdoor_pm25","Mexico City",4651,2019,22,"All Ages",3,"Both",21.6817468999445
+"pollution_outdoor_pm25","Durango",4652,2019,22,"All Ages",3,"Both",19.4808163492792
+"pollution_outdoor_pm25","Guanajuato",4653,2019,22,"All Ages",3,"Both",18.7812848097231
+"pollution_outdoor_pm25","Guerrero",4654,2019,22,"All Ages",3,"Both",16.6805864055314
+"pollution_outdoor_pm25","Hidalgo",4655,2019,22,"All Ages",3,"Both",16.2332495327889
+"pollution_outdoor_pm25","Jalisco",4656,2019,22,"All Ages",3,"Both",22.3734118751812
+"pollution_outdoor_pm25","México",4657,2019,22,"All Ages",3,"Both",20.0280489159955
+"pollution_outdoor_pm25","Michoacán de Ocampo",4658,2019,22,"All Ages",3,"Both",16.6121314053385
+"pollution_outdoor_pm25","Morelos",4659,2019,22,"All Ages",3,"Both",18.7312995178161
+"pollution_outdoor_pm25","Nayarit",4660,2019,22,"All Ages",3,"Both",19.6275505231388
+"pollution_outdoor_pm25","Nuevo León",4661,2019,22,"All Ages",3,"Both",25.9570062279938
+"pollution_outdoor_pm25","Oaxaca",4662,2019,22,"All Ages",3,"Both",17.4360924324435
+"pollution_outdoor_pm25","Puebla",4663,2019,22,"All Ages",3,"Both",18.9614590282438
+"pollution_outdoor_pm25","Querétaro",4664,2019,22,"All Ages",3,"Both",17.3858756031429
+"pollution_outdoor_pm25","Quintana Roo",4665,2019,22,"All Ages",3,"Both",30.2418060536638
+"pollution_outdoor_pm25","San Luis Potosí",4666,2019,22,"All Ages",3,"Both",17.0272513653187
+"pollution_outdoor_pm25","Sinaloa",4667,2019,22,"All Ages",3,"Both",25.3068597366885
+"pollution_outdoor_pm25","Sonora",4668,2019,22,"All Ages",3,"Both",26.3474539112932
+"pollution_outdoor_pm25","Tabasco",4669,2019,22,"All Ages",3,"Both",24.6214268590085
+"pollution_outdoor_pm25","Tamaulipas",4670,2019,22,"All Ages",3,"Both",20.039041775153
+"pollution_outdoor_pm25","Tlaxcala",4671,2019,22,"All Ages",3,"Both",17.5200949643808
+"pollution_outdoor_pm25","Veracruz de Ignacio de la Llave",4672,2019,22,"All Ages",3,"Both",19.4473497884932
+"pollution_outdoor_pm25","Yucatán",4673,2019,22,"All Ages",3,"Both",26.8783769522931
+"pollution_outdoor_pm25","Zacatecas",4674,2019,22,"All Ages",3,"Both",15.9746819053678
