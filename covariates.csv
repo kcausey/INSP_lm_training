@@ -1,0 +1,41 @@
+covariate_id,covariate_name,definition
+1087,agriculture,proportion of population involved in agricultural activities
+105,air_pollution_indoor,proportion of individuals who use solid fuel for cooking
+106,air_pollution_outdoor,"Population weighted average of particulate matter 2.5, migrograms per cubic meter"
+273,alcohol_binge_proportion,age-standardized prevalence of binge drinking
+1212,alcohol_drinker_proportion,age-standardized prevalence of drinking (in the past year)
+1211,alcohol_grams_per_day,age-standardized mean alochol consumption in g/day
+1185,asbestos,asbestos consumption (metric tons per year per capita)
+16,costal_proportion,percent of location area within 10 km of the coast
+902,diet_fiber,fiber grams per person per day
+914,diet_fruit,fruit grams per person per day
+920,diet_milk,milk grams per person per day
+941,diet_red_meat,red meat grams per person per day
+1163,diet_sodium,proportion of population with diet high in sodium
+962,diet_sugar,sugar grams per person per day
+1162,diet_trans_fatty_acids,proportion of population with diet high in trans fatty acids
+968,diet_vegetables,vegetables grams per person per day
+1209,drug_use_intravenous,age-standardized prevalence of IV drug use
+463,education_maternal_years_per_capita,mean level of maternal education attainment
+845,education_years_per_capita,age-standardized level of educational attainment
+28,fasting_plasma_glucose,"Mean diabetes fasting plasma glucose (mmol/L), age-standardized for ages 25+"
+1098,health_expenditure_per_capita,health expenditure per capita in 2018 USD
+57,ldi_per_capita,Lag distributed income per capita (I$): gross domestic product smoothed over past 10 years
+68,mean_bmi,Mean body mass index (kg/m^2) for males and females above age 20
+69,mean_cholesterol,Mean serum total cholesterol (mmol/L) for individuals above age 25
+70,mean_systolic_blood_pressure,Mean systolic blood pressure (mmHg) for individuals above age 25
+71,mean_temperature,population-weighted mean termperature
+455,obesity_prev,prevalence of obesity (age-standardized)
+1102,oral_rehydration_solution,percent coverage of children (0-5 years) with diarrhea within the past 2 weeks that received  oral rehydration solution
+1978,physical_activity,"Total Physical Activity (MET-min/week) for individuals above age 25, age-standardized"
+127,rainfall,population-weighted rainfall (mm/year)
+1156,residential_radon,"average exposure to radon in home, Bq/m^3"
+14,smoking_cigarettes_per_capita,"number of cigarettes consumed per adult 15+ per year, both sexes"
+282,smoking_prevalence,"age-standardized smoking prevalence, both sexes combined"
+256,smoking_prevalence_female,"age-standardized smoking prevalence, females"
+257,smoking_prevalence_male,"age-standardized smoking prevalence, males"
+881,socio_demographic_index,"A measure of development estimated via principal component analysis using log-transformed lag distributed income, total fertility rate (ages 25+), and education years per capita over age 15"
+854,urbanicity,proportion of the population living in urban areas
+1155,wash_handwashing,proportion of the population with no access to a handwashing facility
+142,wash_sanitation,proportion of the population with access to improved toilet types
+160,wash_water,proportion of the population with access to improved water sources

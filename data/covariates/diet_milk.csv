@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+920,"milk_g_unadj",130,"Mexico",1990,22,"All Ages",3,"Both",254.91122
+920,"milk_g_unadj",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",301.9082
+920,"milk_g_unadj",4644,"Baja California",1990,22,"All Ages",3,"Both",285.29626
+920,"milk_g_unadj",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",316.32513
+920,"milk_g_unadj",4646,"Campeche",1990,22,"All Ages",3,"Both",231.68254
+920,"milk_g_unadj",4647,"Coahuila",1990,22,"All Ages",3,"Both",273.8905
+920,"milk_g_unadj",4648,"Colima",1990,22,"All Ages",3,"Both",265.13565
+920,"milk_g_unadj",4649,"Chiapas",1990,22,"All Ages",3,"Both",167.38942
+920,"milk_g_unadj",4650,"Chihuahua",1990,22,"All Ages",3,"Both",251.48314
+920,"milk_g_unadj",4651,"Mexico City",1990,22,"All Ages",3,"Both",294.08765
+920,"milk_g_unadj",4652,"Durango",1990,22,"All Ages",3,"Both",269.44812
+920,"milk_g_unadj",4653,"Guanajuato",1990,22,"All Ages",3,"Both",246.22878
+920,"milk_g_unadj",4654,"Guerrero",1990,22,"All Ages",3,"Both",196.39302
+920,"milk_g_unadj",4655,"Hidalgo",1990,22,"All Ages",3,"Both",216.69267
+920,"milk_g_unadj",4656,"Jalisco",1990,22,"All Ages",3,"Both",289.35107
+920,"milk_g_unadj",4657,"México",1990,22,"All Ages",3,"Both",274.37222
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",236.36371
+920,"milk_g_unadj",4659,"Morelos",1990,22,"All Ages",3,"Both",257.11139
+920,"milk_g_unadj",4660,"Nayarit",1990,22,"All Ages",3,"Both",241.13712
+920,"milk_g_unadj",4661,"Nuevo León",1990,22,"All Ages",3,"Both",322.24698
+920,"milk_g_unadj",4662,"Oaxaca",1990,22,"All Ages",3,"Both",202.00108
+920,"milk_g_unadj",4663,"Puebla",1990,22,"All Ages",3,"Both",228.51369
+920,"milk_g_unadj",4664,"Querétaro",1990,22,"All Ages",3,"Both",261.76877
+920,"milk_g_unadj",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",250.38754
+920,"milk_g_unadj",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",218.86047
+920,"milk_g_unadj",4667,"Sinaloa",1990,22,"All Ages",3,"Both",288.33163
+920,"milk_g_unadj",4668,"Sonora",1990,22,"All Ages",3,"Both",277.2894
+920,"milk_g_unadj",4669,"Tabasco",1990,22,"All Ages",3,"Both",231.87099
+920,"milk_g_unadj",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",285.94003
+920,"milk_g_unadj",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",213.71571
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",224.44232
+920,"milk_g_unadj",4673,"Yucatán",1990,22,"All Ages",3,"Both",261.33704
+920,"milk_g_unadj",4674,"Zacatecas",1990,22,"All Ages",3,"Both",224.49791
+920,"milk_g_unadj",130,"Mexico",1991,22,"All Ages",3,"Both",255.14171
+920,"milk_g_unadj",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",301.20282
+920,"milk_g_unadj",4644,"Baja California",1991,22,"All Ages",3,"Both",285.12531
+920,"milk_g_unadj",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",314.56973
+920,"milk_g_unadj",4646,"Campeche",1991,22,"All Ages",3,"Both",232.30688
+920,"milk_g_unadj",4647,"Coahuila",1991,22,"All Ages",3,"Both",275.04138
+920,"milk_g_unadj",4648,"Colima",1991,22,"All Ages",3,"Both",265.58502
+920,"milk_g_unadj",4649,"Chiapas",1991,22,"All Ages",3,"Both",169.31189
+920,"milk_g_unadj",4650,"Chihuahua",1991,22,"All Ages",3,"Both",253.12561
+920,"milk_g_unadj",4651,"Mexico City",1991,22,"All Ages",3,"Both",294.84641
+920,"milk_g_unadj",4652,"Durango",1991,22,"All Ages",3,"Both",268.90558
+920,"milk_g_unadj",4653,"Guanajuato",1991,22,"All Ages",3,"Both",247.0509
+920,"milk_g_unadj",4654,"Guerrero",1991,22,"All Ages",3,"Both",197.23515
+920,"milk_g_unadj",4655,"Hidalgo",1991,22,"All Ages",3,"Both",216.78558
+920,"milk_g_unadj",4656,"Jalisco",1991,22,"All Ages",3,"Both",288.87286
+920,"milk_g_unadj",4657,"México",1991,22,"All Ages",3,"Both",273.58878
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",236.71426
+920,"milk_g_unadj",4659,"Morelos",1991,22,"All Ages",3,"Both",256.86664
+920,"milk_g_unadj",4660,"Nayarit",1991,22,"All Ages",3,"Both",242.17798
+920,"milk_g_unadj",4661,"Nuevo León",1991,22,"All Ages",3,"Both",321.81717
+920,"milk_g_unadj",4662,"Oaxaca",1991,22,"All Ages",3,"Both",201.81078
+920,"milk_g_unadj",4663,"Puebla",1991,22,"All Ages",3,"Both",228.67511
+920,"milk_g_unadj",4664,"Querétaro",1991,22,"All Ages",3,"Both",262.50296
+920,"milk_g_unadj",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",251.44032
+920,"milk_g_unadj",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",221.22578
+920,"milk_g_unadj",4667,"Sinaloa",1991,22,"All Ages",3,"Both",287.31903
+920,"milk_g_unadj",4668,"Sonora",1991,22,"All Ages",3,"Both",278.08765
+920,"milk_g_unadj",4669,"Tabasco",1991,22,"All Ages",3,"Both",231.46416
+920,"milk_g_unadj",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",285.68341
+920,"milk_g_unadj",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",214.52992
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",224.66684
+920,"milk_g_unadj",4673,"Yucatán",1991,22,"All Ages",3,"Both",260.52524
+920,"milk_g_unadj",4674,"Zacatecas",1991,22,"All Ages",3,"Both",226.04837
+920,"milk_g_unadj",130,"Mexico",1992,22,"All Ages",3,"Both",257.651
+920,"milk_g_unadj",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",303.14478
+920,"milk_g_unadj",4644,"Baja California",1992,22,"All Ages",3,"Both",287.45187
+920,"milk_g_unadj",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",315.70267
+920,"milk_g_unadj",4646,"Campeche",1992,22,"All Ages",3,"Both",235.0188
+920,"milk_g_unadj",4647,"Coahuila",1992,22,"All Ages",3,"Both",278.68124
+920,"milk_g_unadj",4648,"Colima",1992,22,"All Ages",3,"Both",268.37668
+920,"milk_g_unadj",4649,"Chiapas",1992,22,"All Ages",3,"Both",172.77277
+920,"milk_g_unadj",4650,"Chihuahua",1992,22,"All Ages",3,"Both",257.04919
+920,"milk_g_unadj",4651,"Mexico City",1992,22,"All Ages",3,"Both",298.24057
+920,"milk_g_unadj",4652,"Durango",1992,22,"All Ages",3,"Both",270.76953
+920,"milk_g_unadj",4653,"Guanajuato",1992,22,"All Ages",3,"Both",250.08389
+920,"milk_g_unadj",4654,"Guerrero",1992,22,"All Ages",3,"Both",199.84314
+920,"milk_g_unadj",4655,"Hidalgo",1992,22,"All Ages",3,"Both",218.81372
+920,"milk_g_unadj",4656,"Jalisco",1992,22,"All Ages",3,"Both",290.9541
+920,"milk_g_unadj",4657,"México",1992,22,"All Ages",3,"Both",275.20938
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",239.16371
+920,"milk_g_unadj",4659,"Morelos",1992,22,"All Ages",3,"Both",258.89465
+920,"milk_g_unadj",4660,"Nayarit",1992,22,"All Ages",3,"Both",245.40048
+920,"milk_g_unadj",4661,"Nuevo León",1992,22,"All Ages",3,"Both",324.2941
+920,"milk_g_unadj",4662,"Oaxaca",1992,22,"All Ages",3,"Both",203.42044
+920,"milk_g_unadj",4663,"Puebla",1992,22,"All Ages",3,"Both",230.86458
+920,"milk_g_unadj",4664,"Querétaro",1992,22,"All Ages",3,"Both",265.57199
+920,"milk_g_unadj",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",254.77693
+920,"milk_g_unadj",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",225.56818
+920,"milk_g_unadj",4667,"Sinaloa",1992,22,"All Ages",3,"Both",288.94507
+920,"milk_g_unadj",4668,"Sonora",1992,22,"All Ages",3,"Both",281.40836
+920,"milk_g_unadj",4669,"Tabasco",1992,22,"All Ages",3,"Both",233.10178
+920,"milk_g_unadj",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",288.04843
+920,"milk_g_unadj",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",217.26501
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",226.87703
+920,"milk_g_unadj",4673,"Yucatán",1992,22,"All Ages",3,"Both",262.07181
+920,"milk_g_unadj",4674,"Zacatecas",1992,22,"All Ages",3,"Both",229.66139
+920,"milk_g_unadj",130,"Mexico",1993,22,"All Ages",3,"Both",260.01218
+920,"milk_g_unadj",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",304.87576
+920,"milk_g_unadj",4644,"Baja California",1993,22,"All Ages",3,"Both",289.5791
+920,"milk_g_unadj",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",316.71671
+920,"milk_g_unadj",4646,"Campeche",1993,22,"All Ages",3,"Both",237.60278
+920,"milk_g_unadj",4647,"Coahuila",1993,22,"All Ages",3,"Both",282.18137
+920,"milk_g_unadj",4648,"Colima",1993,22,"All Ages",3,"Both",270.99203
+920,"milk_g_unadj",4649,"Chiapas",1993,22,"All Ages",3,"Both",176.16103
+920,"milk_g_unadj",4650,"Chihuahua",1993,22,"All Ages",3,"Both",260.84625
+920,"milk_g_unadj",4651,"Mexico City",1993,22,"All Ages",3,"Both",301.4711
+920,"milk_g_unadj",4652,"Durango",1993,22,"All Ages",3,"Both",272.47803
+920,"milk_g_unadj",4653,"Guanajuato",1993,22,"All Ages",3,"Both",252.96869
+920,"milk_g_unadj",4654,"Guerrero",1993,22,"All Ages",3,"Both",202.33719
+920,"milk_g_unadj",4655,"Hidalgo",1993,22,"All Ages",3,"Both",220.71439
+920,"milk_g_unadj",4656,"Jalisco",1993,22,"All Ages",3,"Both",292.84912
+920,"milk_g_unadj",4657,"México",1993,22,"All Ages",3,"Both",276.6424
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",241.45911
+920,"milk_g_unadj",4659,"Morelos",1993,22,"All Ages",3,"Both",260.75491
+920,"milk_g_unadj",4660,"Nayarit",1993,22,"All Ages",3,"Both",248.49568
+920,"milk_g_unadj",4661,"Nuevo León",1993,22,"All Ages",3,"Both",326.60635
+920,"milk_g_unadj",4662,"Oaxaca",1993,22,"All Ages",3,"Both",204.91078
+920,"milk_g_unadj",4663,"Puebla",1993,22,"All Ages",3,"Both",232.9111
+920,"milk_g_unadj",4664,"Querétaro",1993,22,"All Ages",3,"Both",268.47559
+920,"milk_g_unadj",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",257.99176
+920,"milk_g_unadj",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",229.78529
+920,"milk_g_unadj",4667,"Sinaloa",1993,22,"All Ages",3,"Both",290.45703
+920,"milk_g_unadj",4668,"Sonora",1993,22,"All Ages",3,"Both",284.59354
+920,"milk_g_unadj",4669,"Tabasco",1993,22,"All Ages",3,"Both",234.58705
+920,"milk_g_unadj",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",290.2912
+920,"milk_g_unadj",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",219.87544
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",228.94202
+920,"milk_g_unadj",4673,"Yucatán",1993,22,"All Ages",3,"Both",263.49124
+920,"milk_g_unadj",4674,"Zacatecas",1993,22,"All Ages",3,"Both",233.16809
+920,"milk_g_unadj",130,"Mexico",1994,22,"All Ages",3,"Both",261.44098
+920,"milk_g_unadj",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",305.47623
+920,"milk_g_unadj",4644,"Baja California",1994,22,"All Ages",3,"Both",290.64392
+920,"milk_g_unadj",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",316.61115
+920,"milk_g_unadj",4646,"Campeche",1994,22,"All Ages",3,"Both",239.34309
+920,"milk_g_unadj",4647,"Coahuila",1994,22,"All Ages",3,"Both",284.69135
+920,"milk_g_unadj",4648,"Colima",1994,22,"All Ages",3,"Both",272.62427
+920,"milk_g_unadj",4649,"Chiapas",1994,22,"All Ages",3,"Both",178.96815
+920,"milk_g_unadj",4650,"Chihuahua",1994,22,"All Ages",3,"Both",263.74896
+920,"milk_g_unadj",4651,"Mexico City",1994,22,"All Ages",3,"Both",303.64294
+920,"milk_g_unadj",4652,"Durango",1994,22,"All Ages",3,"Both",273.19748
+920,"milk_g_unadj",4653,"Guanajuato",1994,22,"All Ages",3,"Both",254.94365
+920,"milk_g_unadj",4654,"Guerrero",1994,22,"All Ages",3,"Both",204.11269
+920,"milk_g_unadj",4655,"Hidalgo",1994,22,"All Ages",3,"Both",221.82121
+920,"milk_g_unadj",4656,"Jalisco",1994,22,"All Ages",3,"Both",293.66904
+920,"milk_g_unadj",4657,"México",1994,22,"All Ages",3,"Both",277.05124
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",242.87454
+920,"milk_g_unadj",4659,"Morelos",1994,22,"All Ages",3,"Both",261.65884
+920,"milk_g_unadj",4660,"Nayarit",1994,22,"All Ages",3,"Both",250.72105
+920,"milk_g_unadj",4661,"Nuevo León",1994,22,"All Ages",3,"Both",327.75061
+920,"milk_g_unadj",4662,"Oaxaca",1994,22,"All Ages",3,"Both",205.66
+920,"milk_g_unadj",4663,"Puebla",1994,22,"All Ages",3,"Both",234.11662
+920,"milk_g_unadj",4664,"Querétaro",1994,22,"All Ages",3,"Both",270.4093
+920,"milk_g_unadj",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",260.30301
+920,"milk_g_unadj",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",233.21597
+920,"milk_g_unadj",4667,"Sinaloa",1994,22,"All Ages",3,"Both",290.944
+920,"milk_g_unadj",4668,"Sonora",1994,22,"All Ages",3,"Both",286.78079
+920,"milk_g_unadj",4669,"Tabasco",1994,22,"All Ages",3,"Both",235.21077
+920,"milk_g_unadj",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",291.50476
+920,"milk_g_unadj",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",221.70265
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",230.17867
+920,"milk_g_unadj",4673,"Yucatán",1994,22,"All Ages",3,"Both",263.96976
+920,"milk_g_unadj",4674,"Zacatecas",1994,22,"All Ages",3,"Both",235.86633
+920,"milk_g_unadj",130,"Mexico",1995,22,"All Ages",3,"Both",260.91791
+920,"milk_g_unadj",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",303.85056
+920,"milk_g_unadj",4644,"Baja California",1995,22,"All Ages",3,"Both",289.5661
+920,"milk_g_unadj",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",314.26141
+920,"milk_g_unadj",4646,"Campeche",1995,22,"All Ages",3,"Both",239.26425
+920,"milk_g_unadj",4647,"Coahuila",1995,22,"All Ages",3,"Both",285.01135
+920,"milk_g_unadj",4648,"Colima",1995,22,"All Ages",3,"Both",272.20694
+920,"milk_g_unadj",4649,"Chiapas",1995,22,"All Ages",3,"Both",180.34557
+920,"milk_g_unadj",4650,"Chihuahua",1995,22,"All Ages",3,"Both",264.60461
+920,"milk_g_unadj",4651,"Mexico City",1995,22,"All Ages",3,"Both",303.53015
+920,"milk_g_unadj",4652,"Durango",1995,22,"All Ages",3,"Both",271.91962
+920,"milk_g_unadj",4653,"Guanajuato",1995,22,"All Ages",3,"Both",254.96506
+920,"milk_g_unadj",4654,"Guerrero",1995,22,"All Ages",3,"Both",204.31793
+920,"milk_g_unadj",4655,"Hidalgo",1995,22,"All Ages",3,"Both",221.27672
+920,"milk_g_unadj",4656,"Jalisco",1995,22,"All Ages",3,"Both",292.33441
+920,"milk_g_unadj",4657,"México",1995,22,"All Ages",3,"Both",275.45505
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",242.45969
+920,"milk_g_unadj",4659,"Morelos",1995,22,"All Ages",3,"Both",260.63214
+920,"milk_g_unadj",4660,"Nayarit",1995,22,"All Ages",3,"Both",251.02405
+920,"milk_g_unadj",4661,"Nuevo León",1995,22,"All Ages",3,"Both",326.483
+920,"milk_g_unadj",4662,"Oaxaca",1995,22,"All Ages",3,"Both",204.89499
+920,"milk_g_unadj",4663,"Puebla",1995,22,"All Ages",3,"Both",233.5771
+920,"milk_g_unadj",4664,"Querétaro",1995,22,"All Ages",3,"Both",270.28375
+920,"milk_g_unadj",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",260.60425
+920,"milk_g_unadj",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",234.78299
+920,"milk_g_unadj",4667,"Sinaloa",1995,22,"All Ages",3,"Both",289.32986
+920,"milk_g_unadj",4668,"Sonora",1995,22,"All Ages",3,"Both",286.7854
+920,"milk_g_unadj",4669,"Tabasco",1995,22,"All Ages",3,"Both",234.11398
+920,"milk_g_unadj",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",290.55139
+920,"milk_g_unadj",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",221.83061
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",229.69699
+920,"milk_g_unadj",4673,"Yucatán",1995,22,"All Ages",3,"Both",262.54156
+920,"milk_g_unadj",4674,"Zacatecas",1995,22,"All Ages",3,"Both",236.70972
+920,"milk_g_unadj",130,"Mexico",1996,22,"All Ages",3,"Both",262.26459
+920,"milk_g_unadj",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",304.37283
+920,"milk_g_unadj",4644,"Baja California",1996,22,"All Ages",3,"Both",290.547
+920,"milk_g_unadj",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",314.11688
+920,"milk_g_unadj",4646,"Campeche",1996,22,"All Ages",3,"Both",240.90259
+920,"milk_g_unadj",4647,"Coahuila",1996,22,"All Ages",3,"Both",287.37875
+920,"milk_g_unadj",4648,"Colima",1996,22,"All Ages",3,"Both",273.75259
+920,"milk_g_unadj",4649,"Chiapas",1996,22,"All Ages",3,"Both",183.07094
+920,"milk_g_unadj",4650,"Chihuahua",1996,22,"All Ages",3,"Both",267.38461
+920,"milk_g_unadj",4651,"Mexico City",1996,22,"All Ages",3,"Both",305.63782
+920,"milk_g_unadj",4652,"Durango",1996,22,"All Ages",3,"Both",272.57294
+920,"milk_g_unadj",4653,"Guanajuato",1996,22,"All Ages",3,"Both",256.81293
+920,"milk_g_unadj",4654,"Guerrero",1996,22,"All Ages",3,"Both",205.98907
+920,"milk_g_unadj",4655,"Hidalgo",1996,22,"All Ages",3,"Both",222.31039
+920,"milk_g_unadj",4656,"Jalisco",1996,22,"All Ages",3,"Both",293.07318
+920,"milk_g_unadj",4657,"México",1996,22,"All Ages",3,"Both",275.80994
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",243.77917
+920,"milk_g_unadj",4659,"Morelos",1996,22,"All Ages",3,"Both",261.46039
+920,"milk_g_unadj",4660,"Nayarit",1996,22,"All Ages",3,"Both",253.15135
+920,"milk_g_unadj",4661,"Nuevo León",1996,22,"All Ages",3,"Both",327.53329
+920,"milk_g_unadj",4662,"Oaxaca",1996,22,"All Ages",3,"Both",205.58447
+920,"milk_g_unadj",4663,"Puebla",1996,22,"All Ages",3,"Both",234.70476
+920,"milk_g_unadj",4664,"Querétaro",1996,22,"All Ages",3,"Both",272.09384
+920,"milk_g_unadj",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",262.75797
+920,"milk_g_unadj",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",238.09447
+920,"milk_g_unadj",4667,"Sinaloa",1996,22,"All Ages",3,"Both",289.74863
+920,"milk_g_unadj",4668,"Sonora",1996,22,"All Ages",3,"Both",288.8479
+920,"milk_g_unadj",4669,"Tabasco",1996,22,"All Ages",3,"Both",234.68291
+920,"milk_g_unadj",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",291.63715
+920,"milk_g_unadj",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",223.5554
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",230.86046
+920,"milk_g_unadj",4673,"Yucatán",1996,22,"All Ages",3,"Both",262.97006
+920,"milk_g_unadj",4674,"Zacatecas",1996,22,"All Ages",3,"Both",239.27745
+920,"milk_g_unadj",130,"Mexico",1997,22,"All Ages",3,"Both",266.22781
+920,"milk_g_unadj",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",307.88632
+920,"milk_g_unadj",4644,"Baja California",1997,22,"All Ages",3,"Both",294.40729
+920,"milk_g_unadj",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",316.99438
+920,"milk_g_unadj",4646,"Campeche",1997,22,"All Ages",3,"Both",244.95555
+920,"milk_g_unadj",4647,"Coahuila",1997,22,"All Ages",3,"Both",292.63156
+920,"milk_g_unadj",4648,"Colima",1997,22,"All Ages",3,"Both",278.06375
+920,"milk_g_unadj",4649,"Chiapas",1997,22,"All Ages",3,"Both",187.71875
+920,"milk_g_unadj",4650,"Chihuahua",1997,22,"All Ages",3,"Both",272.88312
+920,"milk_g_unadj",4651,"Mexico City",1997,22,"All Ages",3,"Both",310.86581
+920,"milk_g_unadj",4652,"Durango",1997,22,"All Ages",3,"Both",275.90881
+920,"milk_g_unadj",4653,"Guanajuato",1997,22,"All Ages",3,"Both",261.23465
+920,"milk_g_unadj",4654,"Guerrero",1997,22,"All Ages",3,"Both",209.7278
+920,"milk_g_unadj",4655,"Hidalgo",1997,22,"All Ages",3,"Both",225.54736
+920,"milk_g_unadj",4656,"Jalisco",1997,22,"All Ages",3,"Both",296.70056
+920,"milk_g_unadj",4657,"México",1997,22,"All Ages",3,"Both",278.87634
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",247.53302
+920,"milk_g_unadj",4659,"Morelos",1997,22,"All Ages",3,"Both",264.8822
+920,"milk_g_unadj",4660,"Nayarit",1997,22,"All Ages",3,"Both",257.84888
+920,"milk_g_unadj",4661,"Nuevo León",1997,22,"All Ages",3,"Both",331.80627
+920,"milk_g_unadj",4662,"Oaxaca",1997,22,"All Ages",3,"Both",208.29683
+920,"milk_g_unadj",4663,"Puebla",1997,22,"All Ages",3,"Both",238.16277
+920,"milk_g_unadj",4664,"Querétaro",1997,22,"All Ages",3,"Both",276.6315
+920,"milk_g_unadj",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",267.52478
+920,"milk_g_unadj",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",243.90048
+920,"milk_g_unadj",4667,"Sinaloa",1997,22,"All Ages",3,"Both",292.96286
+920,"milk_g_unadj",4668,"Sonora",1997,22,"All Ages",3,"Both",293.79968
+920,"milk_g_unadj",4669,"Tabasco",1997,22,"All Ages",3,"Both",237.57538
+920,"milk_g_unadj",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",295.55524
+920,"milk_g_unadj",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",227.53421
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",234.32916
+920,"milk_g_unadj",4673,"Yucatán",1997,22,"All Ages",3,"Both",265.95914
+920,"milk_g_unadj",4674,"Zacatecas",1997,22,"All Ages",3,"Both",244.2917
+920,"milk_g_unadj",130,"Mexico",1998,22,"All Ages",3,"Both",272.31848
+920,"milk_g_unadj",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",313.83096
+920,"milk_g_unadj",4644,"Baja California",1998,22,"All Ages",3,"Both",300.61725
+920,"milk_g_unadj",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",322.26755
+920,"milk_g_unadj",4646,"Campeche",1998,22,"All Ages",3,"Both",250.96808
+920,"milk_g_unadj",4647,"Coahuila",1998,22,"All Ages",3,"Both",300.23224
+920,"milk_g_unadj",4648,"Colima",1998,22,"All Ages",3,"Both",284.6369
+920,"milk_g_unadj",4649,"Chiapas",1998,22,"All Ages",3,"Both",193.9574
+920,"milk_g_unadj",4650,"Chihuahua",1998,22,"All Ages",3,"Both",280.60651
+920,"milk_g_unadj",4651,"Mexico City",1998,22,"All Ages",3,"Both",318.62659
+920,"milk_g_unadj",4652,"Durango",1998,22,"All Ages",3,"Both",281.40421
+920,"milk_g_unadj",4653,"Guanajuato",1998,22,"All Ages",3,"Both",267.74899
+920,"milk_g_unadj",4654,"Guerrero",1998,22,"All Ages",3,"Both",215.15547
+920,"milk_g_unadj",4655,"Hidalgo",1998,22,"All Ages",3,"Both",230.57201
+920,"milk_g_unadj",4656,"Jalisco",1998,22,"All Ages",3,"Both",302.66864
+920,"milk_g_unadj",4657,"México",1998,22,"All Ages",3,"Both",284.14624
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",253.26836
+920,"milk_g_unadj",4659,"Morelos",1998,22,"All Ages",3,"Both",270.41412
+920,"milk_g_unadj",4660,"Nayarit",1998,22,"All Ages",3,"Both",264.63474
+920,"milk_g_unadj",4661,"Nuevo León",1998,22,"All Ages",3,"Both",338.66467
+920,"milk_g_unadj",4662,"Oaxaca",1998,22,"All Ages",3,"Both",212.64531
+920,"milk_g_unadj",4663,"Puebla",1998,22,"All Ages",3,"Both",243.51706
+920,"milk_g_unadj",4664,"Querétaro",1998,22,"All Ages",3,"Both",283.39511
+920,"milk_g_unadj",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",274.41223
+920,"milk_g_unadj",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",251.77744
+920,"milk_g_unadj",4667,"Sinaloa",1998,22,"All Ages",3,"Both",298.40109
+920,"milk_g_unadj",4668,"Sonora",1998,22,"All Ages",3,"Both",301.0878
+920,"milk_g_unadj",4669,"Tabasco",1998,22,"All Ages",3,"Both",242.35651
+920,"milk_g_unadj",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",301.7373
+920,"milk_g_unadj",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",233.35646
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",239.68082
+920,"milk_g_unadj",4673,"Yucatán",1998,22,"All Ages",3,"Both",271.00204
+920,"milk_g_unadj",4674,"Zacatecas",1998,22,"All Ages",3,"Both",251.29829
+920,"milk_g_unadj",130,"Mexico",1999,22,"All Ages",3,"Both",279.78458
+920,"milk_g_unadj",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",321.33817
+920,"milk_g_unadj",4644,"Baja California",1999,22,"All Ages",3,"Both",308.35547
+920,"milk_g_unadj",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",328.99463
+920,"milk_g_unadj",4646,"Campeche",1999,22,"All Ages",3,"Both",258.24881
+920,"milk_g_unadj",4647,"Coahuila",1999,22,"All Ages",3,"Both",309.3624
+920,"milk_g_unadj",4648,"Colima",1999,22,"All Ages",3,"Both",292.69492
+920,"milk_g_unadj",4649,"Chiapas",1999,22,"All Ages",3,"Both",201.28238
+920,"milk_g_unadj",4650,"Chihuahua",1999,22,"All Ages",3,"Both",289.80292
+920,"milk_g_unadj",4651,"Mexico City",1999,22,"All Ages",3,"Both",328.02875
+920,"milk_g_unadj",4652,"Durango",1999,22,"All Ages",3,"Both",288.2616
+920,"milk_g_unadj",4653,"Guanajuato",1999,22,"All Ages",3,"Both",275.62042
+920,"milk_g_unadj",4654,"Guerrero",1999,22,"All Ages",3,"Both",221.69319
+920,"milk_g_unadj",4655,"Hidalgo",1999,22,"All Ages",3,"Both",236.74684
+920,"milk_g_unadj",4656,"Jalisco",1999,22,"All Ages",3,"Both",310.13385
+920,"milk_g_unadj",4657,"México",1999,22,"All Ages",3,"Both",290.83017
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",260.28946
+920,"milk_g_unadj",4659,"Morelos",1999,22,"All Ages",3,"Both",277.30911
+920,"milk_g_unadj",4660,"Nayarit",1999,22,"All Ages",3,"Both",272.77924
+920,"milk_g_unadj",4661,"Nuevo León",1999,22,"All Ages",3,"Both",347.14377
+920,"milk_g_unadj",4662,"Oaxaca",1999,22,"All Ages",3,"Both",218.03781
+920,"milk_g_unadj",4663,"Puebla",1999,22,"All Ages",3,"Both",250.09991
+920,"milk_g_unadj",4664,"Querétaro",1999,22,"All Ages",3,"Both",291.61401
+920,"milk_g_unadj",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",282.67252
+920,"milk_g_unadj",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",261.07428
+920,"milk_g_unadj",4667,"Sinaloa",1999,22,"All Ages",3,"Both",305.202
+920,"milk_g_unadj",4668,"Sonora",1999,22,"All Ages",3,"Both",309.87668
+920,"milk_g_unadj",4669,"Tabasco",1999,22,"All Ages",3,"Both",248.35356
+920,"milk_g_unadj",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",309.32693
+920,"milk_g_unadj",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",240.39058
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",246.26212
+920,"milk_g_unadj",4673,"Yucatán",1999,22,"All Ages",3,"Both",277.32782
+920,"milk_g_unadj",4674,"Zacatecas",1999,22,"All Ages",3,"Both",259.61026
+920,"milk_g_unadj",130,"Mexico",2000,22,"All Ages",3,"Both",287.41672
+920,"milk_g_unadj",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",328.99554
+920,"milk_g_unadj",4644,"Baja California",2000,22,"All Ages",3,"Both",316.28711
+920,"milk_g_unadj",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",335.67084
+920,"milk_g_unadj",4646,"Campeche",2000,22,"All Ages",3,"Both",265.67667
+920,"milk_g_unadj",4647,"Coahuila",2000,22,"All Ages",3,"Both",318.69583
+920,"milk_g_unadj",4648,"Colima",2000,22,"All Ages",3,"Both",300.97485
+920,"milk_g_unadj",4649,"Chiapas",2000,22,"All Ages",3,"Both",208.87016
+920,"milk_g_unadj",4650,"Chihuahua",2000,22,"All Ages",3,"Both",299.25165
+920,"milk_g_unadj",4651,"Mexico City",2000,22,"All Ages",3,"Both",337.65637
+920,"milk_g_unadj",4652,"Durango",2000,22,"All Ages",3,"Both",295.20059
+920,"milk_g_unadj",4653,"Guanajuato",2000,22,"All Ages",3,"Both",283.66751
+920,"milk_g_unadj",4654,"Guerrero",2000,22,"All Ages",3,"Both",228.39175
+920,"milk_g_unadj",4655,"Hidalgo",2000,22,"All Ages",3,"Both",243.04584
+920,"milk_g_unadj",4656,"Jalisco",2000,22,"All Ages",3,"Both",317.74872
+920,"milk_g_unadj",4657,"México",2000,22,"All Ages",3,"Both",297.66544
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",267.47757
+920,"milk_g_unadj",4659,"Morelos",2000,22,"All Ages",3,"Both",284.35468
+920,"milk_g_unadj",4660,"Nayarit",2000,22,"All Ages",3,"Both",281.11182
+920,"milk_g_unadj",4661,"Nuevo León",2000,22,"All Ages",3,"Both",355.70709
+920,"milk_g_unadj",4662,"Oaxaca",2000,22,"All Ages",3,"Both",223.5206
+920,"milk_g_unadj",4663,"Puebla",2000,22,"All Ages",3,"Both",256.83261
+920,"milk_g_unadj",4664,"Querétaro",2000,22,"All Ages",3,"Both",300.03806
+920,"milk_g_unadj",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",291.07101
+920,"milk_g_unadj",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",270.72754
+920,"milk_g_unadj",4667,"Sinaloa",2000,22,"All Ages",3,"Both",311.9892
+920,"milk_g_unadj",4668,"Sonora",2000,22,"All Ages",3,"Both",318.82224
+920,"milk_g_unadj",4669,"Tabasco",2000,22,"All Ages",3,"Both",254.48203
+920,"milk_g_unadj",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",316.94968
+920,"milk_g_unadj",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",247.60733
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",253.01958
+920,"milk_g_unadj",4673,"Yucatán",2000,22,"All Ages",3,"Both",283.70682
+920,"milk_g_unadj",4674,"Zacatecas",2000,22,"All Ages",3,"Both",268.12549
+920,"milk_g_unadj",130,"Mexico",2001,22,"All Ages",3,"Both",293.22348
+920,"milk_g_unadj",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",334.56781
+920,"milk_g_unadj",4644,"Baja California",2001,22,"All Ages",3,"Both",322.23453
+920,"milk_g_unadj",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",340.0632
+920,"milk_g_unadj",4646,"Campeche",2001,22,"All Ages",3,"Both",271.38544
+920,"milk_g_unadj",4647,"Coahuila",2001,22,"All Ages",3,"Both",325.97864
+920,"milk_g_unadj",4648,"Colima",2001,22,"All Ages",3,"Both",307.36304
+920,"milk_g_unadj",4649,"Chiapas",2001,22,"All Ages",3,"Both",215.17557
+920,"milk_g_unadj",4650,"Chihuahua",2001,22,"All Ages",3,"Both",306.80753
+920,"milk_g_unadj",4651,"Mexico City",2001,22,"All Ages",3,"Both",345.12323
+920,"milk_g_unadj",4652,"Durango",2001,22,"All Ages",3,"Both",300.21307
+920,"milk_g_unadj",4653,"Guanajuato",2001,22,"All Ages",3,"Both",289.90521
+920,"milk_g_unadj",4654,"Guerrero",2001,22,"All Ages",3,"Both",233.63608
+920,"milk_g_unadj",4655,"Hidalgo",2001,22,"All Ages",3,"Both",247.79282
+920,"milk_g_unadj",4656,"Jalisco",2001,22,"All Ages",3,"Both",323.35428
+920,"milk_g_unadj",4657,"México",2001,22,"All Ages",3,"Both",302.6449
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",272.97891
+920,"milk_g_unadj",4659,"Morelos",2001,22,"All Ages",3,"Both",289.59409
+920,"milk_g_unadj",4660,"Nayarit",2001,22,"All Ages",3,"Both",287.64087
+920,"milk_g_unadj",4661,"Nuevo León",2001,22,"All Ages",3,"Both",361.92831
+920,"milk_g_unadj",4662,"Oaxaca",2001,22,"All Ages",3,"Both",227.56906
+920,"milk_g_unadj",4663,"Puebla",2001,22,"All Ages",3,"Both",261.94171
+920,"milk_g_unadj",4664,"Querétaro",2001,22,"All Ages",3,"Both",306.56689
+920,"milk_g_unadj",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",297.55017
+920,"milk_g_unadj",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",278.75143
+920,"milk_g_unadj",4667,"Sinaloa",2001,22,"All Ages",3,"Both",316.67038
+920,"milk_g_unadj",4668,"Sonora",2001,22,"All Ages",3,"Both",325.6857
+920,"milk_g_unadj",4669,"Tabasco",2001,22,"All Ages",3,"Both",259.00372
+920,"milk_g_unadj",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",322.44757
+920,"milk_g_unadj",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",253.25378
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",258.19958
+920,"milk_g_unadj",4673,"Yucatán",2001,22,"All Ages",3,"Both",288.22894
+920,"milk_g_unadj",4674,"Zacatecas",2001,22,"All Ages",3,"Both",274.91745
+920,"milk_g_unadj",130,"Mexico",2002,22,"All Ages",3,"Both",296.69019
+920,"milk_g_unadj",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",337.48749
+920,"milk_g_unadj",4644,"Baja California",2002,22,"All Ages",3,"Both",325.64545
+920,"milk_g_unadj",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",341.62332
+920,"milk_g_unadj",4646,"Campeche",2002,22,"All Ages",3,"Both",274.90811
+920,"milk_g_unadj",4647,"Coahuila",2002,22,"All Ages",3,"Both",330.64297
+920,"milk_g_unadj",4648,"Colima",2002,22,"All Ages",3,"Both",311.31259
+920,"milk_g_unadj",4649,"Chiapas",2002,22,"All Ages",3,"Both",219.81078
+920,"milk_g_unadj",4650,"Chihuahua",2002,22,"All Ages",3,"Both",311.92654
+920,"milk_g_unadj",4651,"Mexico City",2002,22,"All Ages",3,"Both",349.79742
+920,"milk_g_unadj",4652,"Durango",2002,22,"All Ages",3,"Both",302.79053
+920,"milk_g_unadj",4653,"Guanajuato",2002,22,"All Ages",3,"Both",293.8327
+920,"milk_g_unadj",4654,"Guerrero",2002,22,"All Ages",3,"Both",237.02034
+920,"milk_g_unadj",4655,"Hidalgo",2002,22,"All Ages",3,"Both",250.55708
+920,"milk_g_unadj",4656,"Jalisco",2002,22,"All Ages",3,"Both",326.38641
+920,"milk_g_unadj",4657,"México",2002,22,"All Ages",3,"Both",305.24185
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",276.31766
+920,"milk_g_unadj",4659,"Morelos",2002,22,"All Ages",3,"Both",292.52414
+920,"milk_g_unadj",4660,"Nayarit",2002,22,"All Ages",3,"Both",291.85715
+920,"milk_g_unadj",4661,"Nuevo León",2002,22,"All Ages",3,"Both",365.18881
+920,"milk_g_unadj",4662,"Oaxaca",2002,22,"All Ages",3,"Both",229.79309
+920,"milk_g_unadj",4663,"Puebla",2002,22,"All Ages",3,"Both",264.97192
+920,"milk_g_unadj",4664,"Querétaro",2002,22,"All Ages",3,"Both",310.67053
+920,"milk_g_unadj",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",301.62521
+920,"milk_g_unadj",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",284.64951
+920,"milk_g_unadj",4667,"Sinaloa",2002,22,"All Ages",3,"Both",318.72409
+920,"milk_g_unadj",4668,"Sonora",2002,22,"All Ages",3,"Both",329.90332
+920,"milk_g_unadj",4669,"Tabasco",2002,22,"All Ages",3,"Both",261.4675
+920,"milk_g_unadj",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",325.28394
+920,"milk_g_unadj",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",256.88531
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",261.3443
+920,"milk_g_unadj",4673,"Yucatán",2002,22,"All Ages",3,"Both",290.39993
+920,"milk_g_unadj",4674,"Zacatecas",2002,22,"All Ages",3,"Both",279.49887
+920,"milk_g_unadj",130,"Mexico",2003,22,"All Ages",3,"Both",298.22922
+920,"milk_g_unadj",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",338.2395
+920,"milk_g_unadj",4644,"Baja California",2003,22,"All Ages",3,"Both",326.98672
+920,"milk_g_unadj",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",340.87579
+920,"milk_g_unadj",4646,"Campeche",2003,22,"All Ages",3,"Both",276.63562
+920,"milk_g_unadj",4647,"Coahuila",2003,22,"All Ages",3,"Both",333.14877
+920,"milk_g_unadj",4648,"Colima",2003,22,"All Ages",3,"Both",313.24692
+920,"milk_g_unadj",4649,"Chiapas",2003,22,"All Ages",3,"Both",223.0696
+920,"milk_g_unadj",4650,"Chihuahua",2003,22,"All Ages",3,"Both",315.03302
+920,"milk_g_unadj",4651,"Mexico City",2003,22,"All Ages",3,"Both",352.13922
+920,"milk_g_unadj",4652,"Durango",2003,22,"All Ages",3,"Both",303.37198
+920,"milk_g_unadj",4653,"Guanajuato",2003,22,"All Ages",3,"Both",295.8645
+920,"milk_g_unadj",4654,"Guerrero",2003,22,"All Ages",3,"Both",238.87706
+920,"milk_g_unadj",4655,"Hidalgo",2003,22,"All Ages",3,"Both",251.68817
+920,"milk_g_unadj",4656,"Jalisco",2003,22,"All Ages",3,"Both",327.30148
+920,"milk_g_unadj",4657,"México",2003,22,"All Ages",3,"Both",305.88013
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",277.87686
+920,"milk_g_unadj",4659,"Morelos",2003,22,"All Ages",3,"Both",293.55408
+920,"milk_g_unadj",4660,"Nayarit",2003,22,"All Ages",3,"Both",294.15985
+920,"milk_g_unadj",4661,"Nuevo León",2003,22,"All Ages",3,"Both",366.01419
+920,"milk_g_unadj",4662,"Oaxaca",2003,22,"All Ages",3,"Both",230.51932
+920,"milk_g_unadj",4663,"Puebla",2003,22,"All Ages",3,"Both",266.29221
+920,"milk_g_unadj",4664,"Querétaro",2003,22,"All Ages",3,"Both",312.78165
+920,"milk_g_unadj",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",303.74655
+920,"milk_g_unadj",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",288.80341
+920,"milk_g_unadj",4667,"Sinaloa",2003,22,"All Ages",3,"Both",318.62558
+920,"milk_g_unadj",4668,"Sonora",2003,22,"All Ages",3,"Both",331.94116
+920,"milk_g_unadj",4669,"Tabasco",2003,22,"All Ages",3,"Both",262.23804
+920,"milk_g_unadj",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",325.93539
+920,"milk_g_unadj",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",258.85583
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",262.8096
+920,"milk_g_unadj",4673,"Yucatán",2003,22,"All Ages",3,"Both",290.63208
+920,"milk_g_unadj",4674,"Zacatecas",2003,22,"All Ages",3,"Both",282.25229
+920,"milk_g_unadj",130,"Mexico",2004,22,"All Ages",3,"Both",298.78891
+920,"milk_g_unadj",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",337.90558
+920,"milk_g_unadj",4644,"Baja California",2004,22,"All Ages",3,"Both",327.30795
+920,"milk_g_unadj",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",338.93106
+920,"milk_g_unadj",4646,"Campeche",2004,22,"All Ages",3,"Both",277.46036
+920,"milk_g_unadj",4647,"Coahuila",2004,22,"All Ages",3,"Both",334.5654
+920,"milk_g_unadj",4648,"Colima",2004,22,"All Ages",3,"Both",314.15945
+920,"milk_g_unadj",4649,"Chiapas",2004,22,"All Ages",3,"Both",225.67386
+920,"milk_g_unadj",4650,"Chihuahua",2004,22,"All Ages",3,"Both",317.13956
+920,"milk_g_unadj",4651,"Mexico City",2004,22,"All Ages",3,"Both",353.25275
+920,"milk_g_unadj",4652,"Durango",2004,22,"All Ages",3,"Both",302.92978
+920,"milk_g_unadj",4653,"Guanajuato",2004,22,"All Ages",3,"Both",296.9523
+920,"milk_g_unadj",4654,"Guerrero",2004,22,"All Ages",3,"Both",239.97792
+920,"milk_g_unadj",4655,"Hidalgo",2004,22,"All Ages",3,"Both",251.98697
+920,"milk_g_unadj",4656,"Jalisco",2004,22,"All Ages",3,"Both",327.13635
+920,"milk_g_unadj",4657,"México",2004,22,"All Ages",3,"Both",305.52402
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",278.5419
+920,"milk_g_unadj",4659,"Morelos",2004,22,"All Ages",3,"Both",293.61554
+920,"milk_g_unadj",4660,"Nayarit",2004,22,"All Ages",3,"Both",295.48795
+920,"milk_g_unadj",4661,"Nuevo León",2004,22,"All Ages",3,"Both",365.57761
+920,"milk_g_unadj",4662,"Oaxaca",2004,22,"All Ages",3,"Both",230.48207
+920,"milk_g_unadj",4663,"Puebla",2004,22,"All Ages",3,"Both",266.74808
+920,"milk_g_unadj",4664,"Querétaro",2004,22,"All Ages",3,"Both",313.90118
+920,"milk_g_unadj",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",304.91803
+920,"milk_g_unadj",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",292.14456
+920,"milk_g_unadj",4667,"Sinaloa",2004,22,"All Ages",3,"Both",317.40005
+920,"milk_g_unadj",4668,"Sonora",2004,22,"All Ages",3,"Both",332.86676
+920,"milk_g_unadj",4669,"Tabasco",2004,22,"All Ages",3,"Both",262.1442
+920,"milk_g_unadj",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",325.4534
+920,"milk_g_unadj",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",259.99161
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",263.42383
+920,"milk_g_unadj",4673,"Yucatán",2004,22,"All Ages",3,"Both",289.84555
+920,"milk_g_unadj",4674,"Zacatecas",2004,22,"All Ages",3,"Both",284.08759
+920,"milk_g_unadj",130,"Mexico",2005,22,"All Ages",3,"Both",298.52942
+920,"milk_g_unadj",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",336.69339
+920,"milk_g_unadj",4644,"Baja California",2005,22,"All Ages",3,"Both",326.79593
+920,"milk_g_unadj",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",336.06567
+920,"milk_g_unadj",4646,"Campeche",2005,22,"All Ages",3,"Both",277.52927
+920,"milk_g_unadj",4647,"Coahuila",2005,22,"All Ages",3,"Both",335.0564
+920,"milk_g_unadj",4648,"Colima",2005,22,"All Ages",3,"Both",314.20126
+920,"milk_g_unadj",4649,"Chiapas",2005,22,"All Ages",3,"Both",227.68903
+920,"milk_g_unadj",4650,"Chihuahua",2005,22,"All Ages",3,"Both",318.38208
+920,"milk_g_unadj",4651,"Mexico City",2005,22,"All Ages",3,"Both",353.30374
+920,"milk_g_unadj",4652,"Durango",2005,22,"All Ages",3,"Both",301.65811
+920,"milk_g_unadj",4653,"Guanajuato",2005,22,"All Ages",3,"Both",297.24673
+920,"milk_g_unadj",4654,"Guerrero",2005,22,"All Ages",3,"Both",240.43988
+920,"milk_g_unadj",4655,"Hidalgo",2005,22,"All Ages",3,"Both",251.59219
+920,"milk_g_unadj",4656,"Jalisco",2005,22,"All Ages",3,"Both",326.08136
+920,"milk_g_unadj",4657,"México",2005,22,"All Ages",3,"Both",304.354
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",278.45703
+920,"milk_g_unadj",4659,"Morelos",2005,22,"All Ages",3,"Both",292.87503
+920,"milk_g_unadj",4660,"Nayarit",2005,22,"All Ages",3,"Both",295.97891
+920,"milk_g_unadj",4661,"Nuevo León",2005,22,"All Ages",3,"Both",364.11502
+920,"milk_g_unadj",4662,"Oaxaca",2005,22,"All Ages",3,"Both",229.8165
+920,"milk_g_unadj",4663,"Puebla",2005,22,"All Ages",3,"Both",266.4791
+920,"milk_g_unadj",4664,"Querétaro",2005,22,"All Ages",3,"Both",314.18405
+920,"milk_g_unadj",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",305.31363
+920,"milk_g_unadj",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",294.75378
+920,"milk_g_unadj",4667,"Sinaloa",2005,22,"All Ages",3,"Both",315.27805
+920,"milk_g_unadj",4668,"Sonora",2005,22,"All Ages",3,"Both",332.85968
+920,"milk_g_unadj",4669,"Tabasco",2005,22,"All Ages",3,"Both",261.33487
+920,"milk_g_unadj",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",324.05792
+920,"milk_g_unadj",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",260.41238
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",263.31439
+920,"milk_g_unadj",4673,"Yucatán",2005,22,"All Ages",3,"Both",288.22925
+920,"milk_g_unadj",4674,"Zacatecas",2005,22,"All Ages",3,"Both",285.13028
+920,"milk_g_unadj",130,"Mexico",2006,22,"All Ages",3,"Both",298.31354
+920,"milk_g_unadj",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",335.55753
+920,"milk_g_unadj",4644,"Baja California",2006,22,"All Ages",3,"Both",326.38962
+920,"milk_g_unadj",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",333.22119
+920,"milk_g_unadj",4646,"Campeche",2006,22,"All Ages",3,"Both",277.6535
+920,"milk_g_unadj",4647,"Coahuila",2006,22,"All Ages",3,"Both",335.60995
+920,"milk_g_unadj",4648,"Colima",2006,22,"All Ages",3,"Both",314.27792
+920,"milk_g_unadj",4649,"Chiapas",2006,22,"All Ages",3,"Both",229.81203
+920,"milk_g_unadj",4650,"Chihuahua",2006,22,"All Ages",3,"Both",319.71405
+920,"milk_g_unadj",4651,"Mexico City",2006,22,"All Ages",3,"Both",353.3161
+920,"milk_g_unadj",4652,"Durango",2006,22,"All Ages",3,"Both",300.41629
+920,"milk_g_unadj",4653,"Guanajuato",2006,22,"All Ages",3,"Both",297.6207
+920,"milk_g_unadj",4654,"Guerrero",2006,22,"All Ages",3,"Both",240.97635
+920,"milk_g_unadj",4655,"Hidalgo",2006,22,"All Ages",3,"Both",251.22769
+920,"milk_g_unadj",4656,"Jalisco",2006,22,"All Ages",3,"Both",325.06183
+920,"milk_g_unadj",4657,"México",2006,22,"All Ages",3,"Both",303.22314
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",278.4267
+920,"milk_g_unadj",4659,"Morelos",2006,22,"All Ages",3,"Both",292.16772
+920,"milk_g_unadj",4660,"Nayarit",2006,22,"All Ages",3,"Both",296.50424
+920,"milk_g_unadj",4661,"Nuevo León",2006,22,"All Ages",3,"Both",362.66852
+920,"milk_g_unadj",4662,"Oaxaca",2006,22,"All Ages",3,"Both",229.17915
+920,"milk_g_unadj",4663,"Puebla",2006,22,"All Ages",3,"Both",266.25229
+920,"milk_g_unadj",4664,"Querétaro",2006,22,"All Ages",3,"Both",314.54306
+920,"milk_g_unadj",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",305.83789
+920,"milk_g_unadj",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",297.53409
+920,"milk_g_unadj",4667,"Sinaloa",2006,22,"All Ages",3,"Both",313.15042
+920,"milk_g_unadj",4668,"Sonora",2006,22,"All Ages",3,"Both",332.89658
+920,"milk_g_unadj",4669,"Tabasco",2006,22,"All Ages",3,"Both",260.54544
+920,"milk_g_unadj",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",322.67798
+920,"milk_g_unadj",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",260.87811
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",263.23978
+920,"milk_g_unadj",4673,"Yucatán",2006,22,"All Ages",3,"Both",286.59232
+920,"milk_g_unadj",4674,"Zacatecas",2006,22,"All Ages",3,"Both",286.23465
+920,"milk_g_unadj",130,"Mexico",2007,22,"All Ages",3,"Both",298.56143
+920,"milk_g_unadj",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",334.98639
+920,"milk_g_unadj",4644,"Baja California",2007,22,"All Ages",3,"Both",326.5553
+920,"milk_g_unadj",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",330.93179
+920,"milk_g_unadj",4646,"Campeche",2007,22,"All Ages",3,"Both",278.22232
+920,"milk_g_unadj",4647,"Coahuila",2007,22,"All Ages",3,"Both",336.68948
+920,"milk_g_unadj",4648,"Colima",2007,22,"All Ages",3,"Both",314.82382
+920,"milk_g_unadj",4649,"Chiapas",2007,22,"All Ages",3,"Both",232.32703
+920,"milk_g_unadj",4650,"Chihuahua",2007,22,"All Ages",3,"Both",321.56281
+920,"milk_g_unadj",4651,"Mexico City",2007,22,"All Ages",3,"Both",353.78391
+920,"milk_g_unadj",4652,"Durango",2007,22,"All Ages",3,"Both",299.6485
+920,"milk_g_unadj",4653,"Guanajuato",2007,22,"All Ages",3,"Both",298.48364
+920,"milk_g_unadj",4654,"Guerrero",2007,22,"All Ages",3,"Both",241.91501
+920,"milk_g_unadj",4655,"Hidalgo",2007,22,"All Ages",3,"Both",251.24927
+920,"milk_g_unadj",4656,"Jalisco",2007,22,"All Ages",3,"Both",324.54941
+920,"milk_g_unadj",4657,"México",2007,22,"All Ages",3,"Both",302.57306
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",278.83624
+920,"milk_g_unadj",4659,"Morelos",2007,22,"All Ages",3,"Both",291.91287
+920,"milk_g_unadj",4660,"Nayarit",2007,22,"All Ages",3,"Both",297.47021
+920,"milk_g_unadj",4661,"Nuevo León",2007,22,"All Ages",3,"Both",361.78021
+920,"milk_g_unadj",4662,"Oaxaca",2007,22,"All Ages",3,"Both",228.90097
+920,"milk_g_unadj",4663,"Puebla",2007,22,"All Ages",3,"Both",266.44135
+920,"milk_g_unadj",4664,"Querétaro",2007,22,"All Ages",3,"Both",315.41135
+920,"milk_g_unadj",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",306.92404
+920,"milk_g_unadj",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",300.84436
+920,"milk_g_unadj",4667,"Sinaloa",2007,22,"All Ages",3,"Both",311.5022
+920,"milk_g_unadj",4668,"Sonora",2007,22,"All Ages",3,"Both",333.44962
+920,"milk_g_unadj",4669,"Tabasco",2007,22,"All Ages",3,"Both",260.15182
+920,"milk_g_unadj",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",321.7998
+920,"milk_g_unadj",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",261.74445
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",263.56387
+920,"milk_g_unadj",4673,"Yucatán",2007,22,"All Ages",3,"Both",285.36807
+920,"milk_g_unadj",4674,"Zacatecas",2007,22,"All Ages",3,"Both",287.78302
+920,"milk_g_unadj",130,"Mexico",2008,22,"All Ages",3,"Both",299.00064
+920,"milk_g_unadj",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",334.67645
+920,"milk_g_unadj",4644,"Baja California",2008,22,"All Ages",3,"Both",326.99072
+920,"milk_g_unadj",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",328.93015
+920,"milk_g_unadj",4646,"Campeche",2008,22,"All Ages",3,"Both",278.9783
+920,"milk_g_unadj",4647,"Coahuila",2008,22,"All Ages",3,"Both",337.98083
+920,"milk_g_unadj",4648,"Colima",2008,22,"All Ages",3,"Both",315.54892
+920,"milk_g_unadj",4649,"Chiapas",2008,22,"All Ages",3,"Both",234.99872
+920,"milk_g_unadj",4650,"Chihuahua",2008,22,"All Ages",3,"Both",323.62042
+920,"milk_g_unadj",4651,"Mexico City",2008,22,"All Ages",3,"Both",354.39026
+920,"milk_g_unadj",4652,"Durango",2008,22,"All Ages",3,"Both",299.08945
+920,"milk_g_unadj",4653,"Guanajuato",2008,22,"All Ages",3,"Both",299.55261
+920,"milk_g_unadj",4654,"Guerrero",2008,22,"All Ages",3,"Both",243.02464
+920,"milk_g_unadj",4655,"Hidalgo",2008,22,"All Ages",3,"Both",251.42802
+920,"milk_g_unadj",4656,"Jalisco",2008,22,"All Ages",3,"Both",324.25302
+920,"milk_g_unadj",4657,"México",2008,22,"All Ages",3,"Both",302.1344
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",279.42392
+920,"milk_g_unadj",4659,"Morelos",2008,22,"All Ages",3,"Both",291.84689
+920,"milk_g_unadj",4660,"Nayarit",2008,22,"All Ages",3,"Both",298.60095
+920,"milk_g_unadj",4661,"Nuevo León",2008,22,"All Ages",3,"Both",361.13715
+920,"milk_g_unadj",4662,"Oaxaca",2008,22,"All Ages",3,"Both",228.77556
+920,"milk_g_unadj",4663,"Puebla",2008,22,"All Ages",3,"Both",266.7999
+920,"milk_g_unadj",4664,"Querétaro",2008,22,"All Ages",3,"Both",316.49292
+920,"milk_g_unadj",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",308.29068
+920,"milk_g_unadj",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",304.36667
+920,"milk_g_unadj",4667,"Sinaloa",2008,22,"All Ages",3,"Both",310.07166
+920,"milk_g_unadj",4668,"Sonora",2008,22,"All Ages",3,"Both",334.21527
+920,"milk_g_unadj",4669,"Tabasco",2008,22,"All Ages",3,"Both",259.92154
+920,"milk_g_unadj",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",321.14725
+920,"milk_g_unadj",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",262.7652
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",264.04004
+920,"milk_g_unadj",4673,"Yucatán",2008,22,"All Ages",3,"Both",284.31323
+920,"milk_g_unadj",4674,"Zacatecas",2008,22,"All Ages",3,"Both",289.50256
+920,"milk_g_unadj",130,"Mexico",2009,22,"All Ages",3,"Both",298.47437
+920,"milk_g_unadj",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",333.28766
+920,"milk_g_unadj",4644,"Baja California",2009,22,"All Ages",3,"Both",326.32007
+920,"milk_g_unadj",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",326.0354
+920,"milk_g_unadj",4646,"Campeche",2009,22,"All Ages",3,"Both",278.82227
+920,"milk_g_unadj",4647,"Coahuila",2009,22,"All Ages",3,"Both",338.16046
+920,"milk_g_unadj",4648,"Colima",2009,22,"All Ages",3,"Both",315.22766
+920,"milk_g_unadj",4649,"Chiapas",2009,22,"All Ages",3,"Both",236.81966
+920,"milk_g_unadj",4650,"Chihuahua",2009,22,"All Ages",3,"Both",324.57132
+920,"milk_g_unadj",4651,"Mexico City",2009,22,"All Ages",3,"Both",353.88391
+920,"milk_g_unadj",4652,"Durango",2009,22,"All Ages",3,"Both",297.61945
+920,"milk_g_unadj",4653,"Guanajuato",2009,22,"All Ages",3,"Both",299.62054
+920,"milk_g_unadj",4654,"Guerrero",2009,22,"All Ages",3,"Both",243.30991
+920,"milk_g_unadj",4655,"Hidalgo",2009,22,"All Ages",3,"Both",250.80185
+920,"milk_g_unadj",4656,"Jalisco",2009,22,"All Ages",3,"Both",322.93042
+920,"milk_g_unadj",4657,"México",2009,22,"All Ages",3,"Both",300.72983
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",279.08655
+920,"milk_g_unadj",4659,"Morelos",2009,22,"All Ages",3,"Both",290.84708
+920,"milk_g_unadj",4660,"Nayarit",2009,22,"All Ages",3,"Both",298.75555
+920,"milk_g_unadj",4661,"Nuevo León",2009,22,"All Ages",3,"Both",359.41293
+920,"milk_g_unadj",4662,"Oaxaca",2009,22,"All Ages",3,"Both",227.93063
+920,"milk_g_unadj",4663,"Puebla",2009,22,"All Ages",3,"Both",266.2861
+920,"milk_g_unadj",4664,"Querétaro",2009,22,"All Ages",3,"Both",316.50726
+920,"milk_g_unadj",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",308.62006
+920,"milk_g_unadj",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",306.7529
+920,"milk_g_unadj",4667,"Sinaloa",2009,22,"All Ages",3,"Both",307.78241
+920,"milk_g_unadj",4668,"Sonora",2009,22,"All Ages",3,"Both",333.91492
+920,"milk_g_unadj",4669,"Tabasco",2009,22,"All Ages",3,"Both",258.86542
+920,"milk_g_unadj",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",319.55688
+920,"milk_g_unadj",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",262.90787
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",263.642
+920,"milk_g_unadj",4673,"Yucatán",2009,22,"All Ages",3,"Both",282.43958
+920,"milk_g_unadj",4674,"Zacatecas",2009,22,"All Ages",3,"Both",290.25839
+920,"milk_g_unadj",130,"Mexico",2010,22,"All Ages",3,"Both",299.68387
+920,"milk_g_unadj",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",333.78079
+920,"milk_g_unadj",4644,"Baja California",2010,22,"All Ages",3,"Both",327.49637
+920,"milk_g_unadj",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",325.0231
+920,"milk_g_unadj",4646,"Campeche",2010,22,"All Ages",3,"Both",280.3063
+920,"milk_g_unadj",4647,"Coahuila",2010,22,"All Ages",3,"Both",340.35089
+920,"milk_g_unadj",4648,"Colima",2010,22,"All Ages",3,"Both",316.73605
+920,"milk_g_unadj",4649,"Chiapas",2010,22,"All Ages",3,"Both",240.11206
+920,"milk_g_unadj",4650,"Chihuahua",2010,22,"All Ages",3,"Both",327.4743
+920,"milk_g_unadj",4651,"Mexico City",2010,22,"All Ages",3,"Both",355.47855
+920,"milk_g_unadj",4652,"Durango",2010,22,"All Ages",3,"Both",297.86218
+920,"milk_g_unadj",4653,"Guanajuato",2010,22,"All Ages",3,"Both",301.44778
+920,"milk_g_unadj",4654,"Guerrero",2010,22,"All Ages",3,"Both",245.03134
+920,"milk_g_unadj",4655,"Hidalgo",2010,22,"All Ages",3,"Both",251.62822
+920,"milk_g_unadj",4656,"Jalisco",2010,22,"All Ages",3,"Both",323.44934
+920,"milk_g_unadj",4657,"México",2010,22,"All Ages",3,"Both",301.01776
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",280.36475
+920,"milk_g_unadj",4659,"Morelos",2010,22,"All Ages",3,"Both",291.5126
+920,"milk_g_unadj",4660,"Nayarit",2010,22,"All Ages",3,"Both",300.69214
+920,"milk_g_unadj",4661,"Nuevo León",2010,22,"All Ages",3,"Both",359.77814
+920,"milk_g_unadj",4662,"Oaxaca",2010,22,"All Ages",3,"Both",228.39658
+920,"milk_g_unadj",4663,"Puebla",2010,22,"All Ages",3,"Both",267.30902
+920,"milk_g_unadj",4664,"Querétaro",2010,22,"All Ages",3,"Both",318.367
+920,"milk_g_unadj",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",310.77716
+920,"milk_g_unadj",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",311.01498
+920,"milk_g_unadj",4667,"Sinaloa",2010,22,"All Ages",3,"Both",307.28595
+920,"milk_g_unadj",4668,"Sonora",2010,22,"All Ages",3,"Both",335.59436
+920,"milk_g_unadj",4669,"Tabasco",2010,22,"All Ages",3,"Both",259.28348
+920,"milk_g_unadj",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",319.84143
+920,"milk_g_unadj",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",264.60165
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",264.76373
+920,"milk_g_unadj",4673,"Yucatán",2010,22,"All Ages",3,"Both",282.19806
+920,"milk_g_unadj",4674,"Zacatecas",2010,22,"All Ages",3,"Both",292.77713
+920,"milk_g_unadj",130,"Mexico",2011,22,"All Ages",3,"Both",302.48108
+920,"milk_g_unadj",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",335.98901
+920,"milk_g_unadj",4644,"Baja California",2011,22,"All Ages",3,"Both",330.35605
+920,"milk_g_unadj",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",325.72629
+920,"milk_g_unadj",4646,"Campeche",2011,22,"All Ages",3,"Both",283.29117
+920,"milk_g_unadj",4647,"Coahuila",2011,22,"All Ages",3,"Both",344.38449
+920,"milk_g_unadj",4648,"Colima",2011,22,"All Ages",3,"Both",319.92053
+920,"milk_g_unadj",4649,"Chiapas",2011,22,"All Ages",3,"Both",244.76088
+920,"milk_g_unadj",4650,"Chihuahua",2011,22,"All Ages",3,"Both",332.16916
+920,"milk_g_unadj",4651,"Mexico City",2011,22,"All Ages",3,"Both",359.00421
+920,"milk_g_unadj",4652,"Durango",2011,22,"All Ages",3,"Both",299.66837
+920,"milk_g_unadj",4653,"Guanajuato",2011,22,"All Ages",3,"Both",304.88437
+920,"milk_g_unadj",4654,"Guerrero",2011,22,"All Ages",3,"Both",248.06767
+920,"milk_g_unadj",4655,"Hidalgo",2011,22,"All Ages",3,"Both",253.78279
+920,"milk_g_unadj",4656,"Jalisco",2011,22,"All Ages",3,"Both",325.64996
+920,"milk_g_unadj",4657,"México",2011,22,"All Ages",3,"Both",302.84949
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",283.12006
+920,"milk_g_unadj",4659,"Morelos",2011,22,"All Ages",3,"Both",293.70007
+920,"milk_g_unadj",4660,"Nayarit",2011,22,"All Ages",3,"Both",304.26361
+920,"milk_g_unadj",4661,"Nuevo León",2011,22,"All Ages",3,"Both",362.05286
+920,"milk_g_unadj",4662,"Oaxaca",2011,22,"All Ages",3,"Both",230.05959
+920,"milk_g_unadj",4663,"Puebla",2011,22,"All Ages",3,"Both",269.73669
+920,"milk_g_unadj",4664,"Querétaro",2011,22,"All Ages",3,"Both",321.91483
+920,"milk_g_unadj",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",314.60342
+920,"milk_g_unadj",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",317.0036
+920,"milk_g_unadj",4667,"Sinaloa",2011,22,"All Ages",3,"Both",308.4267
+920,"milk_g_unadj",4668,"Sonora",2011,22,"All Ages",3,"Both",339.08722
+920,"milk_g_unadj",4669,"Tabasco",2011,22,"All Ages",3,"Both",261.04834
+920,"milk_g_unadj",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",321.83945
+920,"milk_g_unadj",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",267.71722
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",267.27609
+920,"milk_g_unadj",4673,"Yucatán",2011,22,"All Ages",3,"Both",283.44904
+920,"milk_g_unadj",4674,"Zacatecas",2011,22,"All Ages",3,"Both",296.91553
+920,"milk_g_unadj",130,"Mexico",2012,22,"All Ages",3,"Both",305.50012
+920,"milk_g_unadj",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",338.39252
+920,"milk_g_unadj",4644,"Baja California",2012,22,"All Ages",3,"Both",333.40613
+920,"milk_g_unadj",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",326.66095
+920,"milk_g_unadj",4646,"Campeche",2012,22,"All Ages",3,"Both",286.49457
+920,"milk_g_unadj",4647,"Coahuila",2012,22,"All Ages",3,"Both",348.7037
+920,"milk_g_unadj",4648,"Colima",2012,22,"All Ages",3,"Both",323.33759
+920,"milk_g_unadj",4649,"Chiapas",2012,22,"All Ages",3,"Both",249.6627
+920,"milk_g_unadj",4650,"Chihuahua",2012,22,"All Ages",3,"Both",337.15564
+920,"milk_g_unadj",4651,"Mexico City",2012,22,"All Ages",3,"Both",362.84119
+920,"milk_g_unadj",4652,"Durango",2012,22,"All Ages",3,"Both",301.68005
+920,"milk_g_unadj",4653,"Guanajuato",2012,22,"All Ages",3,"Both",308.55164
+920,"milk_g_unadj",4654,"Guerrero",2012,22,"All Ages",3,"Both",251.29726
+920,"milk_g_unadj",4655,"Hidalgo",2012,22,"All Ages",3,"Both",256.11865
+920,"milk_g_unadj",4656,"Jalisco",2012,22,"All Ages",3,"Both",328.06146
+920,"milk_g_unadj",4657,"México",2012,22,"All Ages",3,"Both",304.85855
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",286.07401
+920,"milk_g_unadj",4659,"Morelos",2012,22,"All Ages",3,"Both",296.08243
+920,"milk_g_unadj",4660,"Nayarit",2012,22,"All Ages",3,"Both",308.09497
+920,"milk_g_unadj",4661,"Nuevo León",2012,22,"All Ages",3,"Both",364.59592
+920,"milk_g_unadj",4662,"Oaxaca",2012,22,"All Ages",3,"Both",231.87904
+920,"milk_g_unadj",4663,"Puebla",2012,22,"All Ages",3,"Both",272.35095
+920,"milk_g_unadj",4664,"Querétaro",2012,22,"All Ages",3,"Both",325.69644
+920,"milk_g_unadj",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",318.6702
+920,"milk_g_unadj",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",323.29129
+920,"milk_g_unadj",4667,"Sinaloa",2012,22,"All Ages",3,"Both",309.8028
+920,"milk_g_unadj",4668,"Sonora",2012,22,"All Ages",3,"Both",342.85797
+920,"milk_g_unadj",4669,"Tabasco",2012,22,"All Ages",3,"Both",262.98135
+920,"milk_g_unadj",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",324.08917
+920,"milk_g_unadj",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",271.0455
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",269.974
+920,"milk_g_unadj",4673,"Yucatán",2012,22,"All Ages",3,"Both",284.90933
+920,"milk_g_unadj",4674,"Zacatecas",2012,22,"All Ages",3,"Both",301.33105
+920,"milk_g_unadj",130,"Mexico",2013,22,"All Ages",3,"Both",308.12518
+920,"milk_g_unadj",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",340.32236
+920,"milk_g_unadj",4644,"Baja California",2013,22,"All Ages",3,"Both",335.9805
+920,"milk_g_unadj",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",327.18692
+920,"milk_g_unadj",4646,"Campeche",2013,22,"All Ages",3,"Both",289.33228
+920,"milk_g_unadj",4647,"Coahuila",2013,22,"All Ages",3,"Both",352.59253
+920,"milk_g_unadj",4648,"Colima",2013,22,"All Ages",3,"Both",326.33432
+920,"milk_g_unadj",4649,"Chiapas",2013,22,"All Ages",3,"Both",254.28468
+920,"milk_g_unadj",4650,"Chihuahua",2013,22,"All Ages",3,"Both",341.73267
+920,"milk_g_unadj",4651,"Mexico City",2013,22,"All Ages",3,"Both",366.25296
+920,"milk_g_unadj",4652,"Durango",2013,22,"All Ages",3,"Both",303.29819
+920,"milk_g_unadj",4653,"Guanajuato",2013,22,"All Ages",3,"Both",311.81937
+920,"milk_g_unadj",4654,"Guerrero",2013,22,"All Ages",3,"Both",254.20374
+920,"milk_g_unadj",4655,"Hidalgo",2013,22,"All Ages",3,"Both",258.12177
+920,"milk_g_unadj",4656,"Jalisco",2013,22,"All Ages",3,"Both",330.03397
+920,"milk_g_unadj",4657,"México",2013,22,"All Ages",3,"Both",306.44623
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",288.64954
+920,"milk_g_unadj",4659,"Morelos",2013,22,"All Ages",3,"Both",298.07028
+920,"milk_g_unadj",4660,"Nayarit",2013,22,"All Ages",3,"Both",311.55344
+920,"milk_g_unadj",4661,"Nuevo León",2013,22,"All Ages",3,"Both",366.68008
+920,"milk_g_unadj",4662,"Oaxaca",2013,22,"All Ages",3,"Both",233.39299
+920,"milk_g_unadj",4663,"Puebla",2013,22,"All Ages",3,"Both",274.60486
+920,"milk_g_unadj",4664,"Querétaro",2013,22,"All Ages",3,"Both",329.04959
+920,"milk_g_unadj",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",322.31958
+920,"milk_g_unadj",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",329.19217
+920,"milk_g_unadj",4667,"Sinaloa",2013,22,"All Ages",3,"Both",310.80276
+920,"milk_g_unadj",4668,"Sonora",2013,22,"All Ages",3,"Both",346.20657
+920,"milk_g_unadj",4669,"Tabasco",2013,22,"All Ages",3,"Both",264.56207
+920,"milk_g_unadj",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",325.94189
+920,"milk_g_unadj",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",274.03214
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",272.31537
+920,"milk_g_unadj",4673,"Yucatán",2013,22,"All Ages",3,"Both",286.01822
+920,"milk_g_unadj",4674,"Zacatecas",2013,22,"All Ages",3,"Both",305.39529
+920,"milk_g_unadj",130,"Mexico",2014,22,"All Ages",3,"Both",310.99634
+920,"milk_g_unadj",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",342.47543
+920,"milk_g_unadj",4644,"Baja California",2014,22,"All Ages",3,"Both",338.77597
+920,"milk_g_unadj",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",327.95056
+920,"milk_g_unadj",4646,"Campeche",2014,22,"All Ages",3,"Both",292.40747
+920,"milk_g_unadj",4647,"Coahuila",2014,22,"All Ages",3,"Both",356.79062
+920,"milk_g_unadj",4648,"Colima",2014,22,"All Ages",3,"Both",329.59143
+920,"milk_g_unadj",4649,"Chiapas",2014,22,"All Ages",3,"Both",259.18393
+920,"milk_g_unadj",4650,"Chihuahua",2014,22,"All Ages",3,"Both",346.62759
+920,"milk_g_unadj",4651,"Mexico City",2014,22,"All Ages",3,"Both",370.00015
+920,"milk_g_unadj",4652,"Durango",2014,22,"All Ages",3,"Both",305.13928
+920,"milk_g_unadj",4653,"Guanajuato",2014,22,"All Ages",3,"Both",315.34119
+920,"milk_g_unadj",4654,"Guerrero",2014,22,"All Ages",3,"Both",257.32266
+920,"milk_g_unadj",4655,"Hidalgo",2014,22,"All Ages",3,"Both",260.32532
+920,"milk_g_unadj",4656,"Jalisco",2014,22,"All Ages",3,"Both",332.24365
+920,"milk_g_unadj",4657,"México",2014,22,"All Ages",3,"Both",308.23941
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",291.44785
+920,"milk_g_unadj",4659,"Morelos",2014,22,"All Ages",3,"Both",300.27643
+920,"milk_g_unadj",4660,"Nayarit",2014,22,"All Ages",3,"Both",315.29288
+920,"milk_g_unadj",4661,"Nuevo León",2014,22,"All Ages",3,"Both",369.05011
+920,"milk_g_unadj",4662,"Oaxaca",2014,22,"All Ages",3,"Both",235.08017
+920,"milk_g_unadj",4663,"Puebla",2014,22,"All Ages",3,"Both",277.06824
+920,"milk_g_unadj",4664,"Querétaro",2014,22,"All Ages",3,"Both",332.66431
+920,"milk_g_unadj",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",326.22827
+920,"milk_g_unadj",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",335.42923
+920,"milk_g_unadj",4667,"Sinaloa",2014,22,"All Ages",3,"Both",312.04718
+920,"milk_g_unadj",4668,"Sonora",2014,22,"All Ages",3,"Both",349.85245
+920,"milk_g_unadj",4669,"Tabasco",2014,22,"All Ages",3,"Both",266.3331
+920,"milk_g_unadj",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",328.05765
+920,"milk_g_unadj",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",277.25317
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",274.86743
+920,"milk_g_unadj",4673,"Yucatán",2014,22,"All Ages",3,"Both",287.35165
+920,"milk_g_unadj",4674,"Zacatecas",2014,22,"All Ages",3,"Both",309.75592
+920,"milk_g_unadj",130,"Mexico",2015,22,"All Ages",3,"Both",313.53378
+920,"milk_g_unadj",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",344.21762
+920,"milk_g_unadj",4644,"Baja California",2015,22,"All Ages",3,"Both",341.16583
+920,"milk_g_unadj",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",328.33859
+920,"milk_g_unadj",4646,"Campeche",2015,22,"All Ages",3,"Both",295.17453
+920,"milk_g_unadj",4647,"Coahuila",2015,22,"All Ages",3,"Both",360.63101
+920,"milk_g_unadj",4648,"Colima",2015,22,"All Ages",3,"Both",332.49594
+920,"milk_g_unadj",4649,"Chiapas",2015,22,"All Ages",3,"Both",263.87726
+920,"milk_g_unadj",4650,"Chihuahua",2015,22,"All Ages",3,"Both",351.19278
+920,"milk_g_unadj",4651,"Mexico City",2015,22,"All Ages",3,"Both",373.38953
+920,"milk_g_unadj",4652,"Durango",2015,22,"All Ages",3,"Both",306.63492
+920,"milk_g_unadj",4653,"Guanajuato",2015,22,"All Ages",3,"Both",318.52948
+920,"milk_g_unadj",4654,"Guerrero",2015,22,"All Ages",3,"Both",260.17438
+920,"milk_g_unadj",4655,"Hidalgo",2015,22,"All Ages",3,"Both",262.24451
+920,"milk_g_unadj",4656,"Jalisco",2015,22,"All Ages",3,"Both",334.07355
+920,"milk_g_unadj",4657,"México",2015,22,"All Ages",3,"Both",309.66779
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",293.92706
+920,"milk_g_unadj",4659,"Morelos",2015,22,"All Ages",3,"Both",302.14297
+920,"milk_g_unadj",4660,"Nayarit",2015,22,"All Ages",3,"Both",318.72354
+920,"milk_g_unadj",4661,"Nuevo León",2015,22,"All Ages",3,"Both",371.01596
+920,"milk_g_unadj",4662,"Oaxaca",2015,22,"All Ages",3,"Both",236.50328
+920,"milk_g_unadj",4663,"Puebla",2015,22,"All Ages",3,"Both",279.22617
+920,"milk_g_unadj",4664,"Querétaro",2015,22,"All Ages",3,"Both",335.92194
+920,"milk_g_unadj",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",329.78754
+920,"milk_g_unadj",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",341.38
+920,"milk_g_unadj",4667,"Sinaloa",2015,22,"All Ages",3,"Both",312.95169
+920,"milk_g_unadj",4668,"Sonora",2015,22,"All Ages",3,"Both",353.14063
+920,"milk_g_unadj",4669,"Tabasco",2015,22,"All Ages",3,"Both",267.80035
+920,"milk_g_unadj",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",329.82126
+920,"milk_g_unadj",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",280.19177
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",277.11966
+920,"milk_g_unadj",4673,"Yucatán",2015,22,"All Ages",3,"Both",288.37302
+920,"milk_g_unadj",4674,"Zacatecas",2015,22,"All Ages",3,"Both",313.83231
+920,"milk_g_unadj",130,"Mexico",2016,22,"All Ages",3,"Both",315.85263
+920,"milk_g_unadj",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",345.92053
+920,"milk_g_unadj",4644,"Baja California",2016,22,"All Ages",3,"Both",343.39865
+920,"milk_g_unadj",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",328.91882
+920,"milk_g_unadj",4646,"Campeche",2016,22,"All Ages",3,"Both",297.69836
+920,"milk_g_unadj",4647,"Coahuila",2016,22,"All Ages",3,"Both",364.09738
+920,"milk_g_unadj",4648,"Colima",2016,22,"All Ages",3,"Both",335.16354
+920,"milk_g_unadj",4649,"Chiapas",2016,22,"All Ages",3,"Both",267.95694
+920,"milk_g_unadj",4650,"Chihuahua",2016,22,"All Ages",3,"Both",355.24573
+920,"milk_g_unadj",4651,"Mexico City",2016,22,"All Ages",3,"Both",376.5079
+920,"milk_g_unadj",4652,"Durango",2016,22,"All Ages",3,"Both",308.11569
+920,"milk_g_unadj",4653,"Guanajuato",2016,22,"All Ages",3,"Both",321.41714
+920,"milk_g_unadj",4654,"Guerrero",2016,22,"All Ages",3,"Both",262.73651
+920,"milk_g_unadj",4655,"Hidalgo",2016,22,"All Ages",3,"Both",264.04175
+920,"milk_g_unadj",4656,"Jalisco",2016,22,"All Ages",3,"Both",335.85013
+920,"milk_g_unadj",4657,"México",2016,22,"All Ages",3,"Both",311.0882
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",296.20938
+920,"milk_g_unadj",4659,"Morelos",2016,22,"All Ages",3,"Both",303.92532
+920,"milk_g_unadj",4660,"Nayarit",2016,22,"All Ages",3,"Both",321.8205
+920,"milk_g_unadj",4661,"Nuevo León",2016,22,"All Ages",3,"Both",372.94296
+920,"milk_g_unadj",4662,"Oaxaca",2016,22,"All Ages",3,"Both",237.86818
+920,"milk_g_unadj",4663,"Puebla",2016,22,"All Ages",3,"Both",281.23209
+920,"milk_g_unadj",4664,"Querétaro",2016,22,"All Ages",3,"Both",338.87979
+920,"milk_g_unadj",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",332.98489
+920,"milk_g_unadj",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",346.55185
+920,"milk_g_unadj",4667,"Sinaloa",2016,22,"All Ages",3,"Both",313.95657
+920,"milk_g_unadj",4668,"Sonora",2016,22,"All Ages",3,"Both",356.14722
+920,"milk_g_unadj",4669,"Tabasco",2016,22,"All Ages",3,"Both",269.22549
+920,"milk_g_unadj",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",331.5509
+920,"milk_g_unadj",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",282.84641
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",279.20251
+920,"milk_g_unadj",4673,"Yucatán",2016,22,"All Ages",3,"Both",289.45514
+920,"milk_g_unadj",4674,"Zacatecas",2016,22,"All Ages",3,"Both",317.45642
+920,"milk_g_unadj",130,"Mexico",2017,22,"All Ages",3,"Both",315.85263
+920,"milk_g_unadj",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",345.92053
+920,"milk_g_unadj",4644,"Baja California",2017,22,"All Ages",3,"Both",343.39865
+920,"milk_g_unadj",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",328.91882
+920,"milk_g_unadj",4646,"Campeche",2017,22,"All Ages",3,"Both",297.69836
+920,"milk_g_unadj",4647,"Coahuila",2017,22,"All Ages",3,"Both",364.09738
+920,"milk_g_unadj",4648,"Colima",2017,22,"All Ages",3,"Both",335.16354
+920,"milk_g_unadj",4649,"Chiapas",2017,22,"All Ages",3,"Both",267.95694
+920,"milk_g_unadj",4650,"Chihuahua",2017,22,"All Ages",3,"Both",355.24573
+920,"milk_g_unadj",4651,"Mexico City",2017,22,"All Ages",3,"Both",376.5079
+920,"milk_g_unadj",4652,"Durango",2017,22,"All Ages",3,"Both",308.11569
+920,"milk_g_unadj",4653,"Guanajuato",2017,22,"All Ages",3,"Both",321.41714
+920,"milk_g_unadj",4654,"Guerrero",2017,22,"All Ages",3,"Both",262.73651
+920,"milk_g_unadj",4655,"Hidalgo",2017,22,"All Ages",3,"Both",264.04175
+920,"milk_g_unadj",4656,"Jalisco",2017,22,"All Ages",3,"Both",335.85013
+920,"milk_g_unadj",4657,"México",2017,22,"All Ages",3,"Both",311.0882
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",296.20938
+920,"milk_g_unadj",4659,"Morelos",2017,22,"All Ages",3,"Both",303.92532
+920,"milk_g_unadj",4660,"Nayarit",2017,22,"All Ages",3,"Both",321.8205
+920,"milk_g_unadj",4661,"Nuevo León",2017,22,"All Ages",3,"Both",372.94296
+920,"milk_g_unadj",4662,"Oaxaca",2017,22,"All Ages",3,"Both",237.86818
+920,"milk_g_unadj",4663,"Puebla",2017,22,"All Ages",3,"Both",281.23209
+920,"milk_g_unadj",4664,"Querétaro",2017,22,"All Ages",3,"Both",338.87979
+920,"milk_g_unadj",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",332.98489
+920,"milk_g_unadj",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",346.55185
+920,"milk_g_unadj",4667,"Sinaloa",2017,22,"All Ages",3,"Both",313.95657
+920,"milk_g_unadj",4668,"Sonora",2017,22,"All Ages",3,"Both",356.14722
+920,"milk_g_unadj",4669,"Tabasco",2017,22,"All Ages",3,"Both",269.22549
+920,"milk_g_unadj",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",331.5509
+920,"milk_g_unadj",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",282.84641
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",279.20251
+920,"milk_g_unadj",4673,"Yucatán",2017,22,"All Ages",3,"Both",289.45514
+920,"milk_g_unadj",4674,"Zacatecas",2017,22,"All Ages",3,"Both",317.45642
+920,"milk_g_unadj",130,"Mexico",2018,22,"All Ages",3,"Both",316.952111121494
+920,"milk_g_unadj",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",347.053177714377
+920,"milk_g_unadj",4644,"Baja California",2018,22,"All Ages",3,"Both",344.21313256858
+920,"milk_g_unadj",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",329.824640736394
+920,"milk_g_unadj",4646,"Campeche",2018,22,"All Ages",3,"Both",298.908600934125
+920,"milk_g_unadj",4647,"Coahuila",2018,22,"All Ages",3,"Both",365.281323184035
+920,"milk_g_unadj",4648,"Colima",2018,22,"All Ages",3,"Both",336.286176539047
+920,"milk_g_unadj",4649,"Chiapas",2018,22,"All Ages",3,"Both",269.146448593072
+920,"milk_g_unadj",4650,"Chihuahua",2018,22,"All Ages",3,"Both",356.40665663684
+920,"milk_g_unadj",4651,"Mexico City",2018,22,"All Ages",3,"Both",377.534729443432
+920,"milk_g_unadj",4652,"Durango",2018,22,"All Ages",3,"Both",309.350060117173
+920,"milk_g_unadj",4653,"Guanajuato",2018,22,"All Ages",3,"Both",322.652486531098
+920,"milk_g_unadj",4654,"Guerrero",2018,22,"All Ages",3,"Both",263.805438320991
+920,"milk_g_unadj",4655,"Hidalgo",2018,22,"All Ages",3,"Both",264.976083300074
+920,"milk_g_unadj",4656,"Jalisco",2018,22,"All Ages",3,"Both",337.031326557924
+920,"milk_g_unadj",4657,"México",2018,22,"All Ages",3,"Both",312.171911386471
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",297.424185372518
+920,"milk_g_unadj",4659,"Morelos",2018,22,"All Ages",3,"Both",304.918556048816
+920,"milk_g_unadj",4660,"Nayarit",2018,22,"All Ages",3,"Both",323.148388462358
+920,"milk_g_unadj",4661,"Nuevo León",2018,22,"All Ages",3,"Both",373.850329033555
+920,"milk_g_unadj",4662,"Oaxaca",2018,22,"All Ages",3,"Both",238.909191939662
+920,"milk_g_unadj",4663,"Puebla",2018,22,"All Ages",3,"Both",282.230321721657
+920,"milk_g_unadj",4664,"Querétaro",2018,22,"All Ages",3,"Both",339.765646579197
+920,"milk_g_unadj",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",333.791293303535
+920,"milk_g_unadj",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",347.899670187193
+920,"milk_g_unadj",4667,"Sinaloa",2018,22,"All Ages",3,"Both",315.038753398994
+920,"milk_g_unadj",4668,"Sonora",2018,22,"All Ages",3,"Both",357.206166006262
+920,"milk_g_unadj",4669,"Tabasco",2018,22,"All Ages",3,"Both",270.312085467523
+920,"milk_g_unadj",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",332.553565544647
+920,"milk_g_unadj",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",283.63248824563
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",280.355964697219
+920,"milk_g_unadj",4673,"Yucatán",2018,22,"All Ages",3,"Both",290.552521793579
+920,"milk_g_unadj",4674,"Zacatecas",2018,22,"All Ages",3,"Both",318.958268332964
+920,"milk_g_unadj",130,"Mexico",2019,22,"All Ages",3,"Both",317.975449472266
+920,"milk_g_unadj",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",348.133836717808
+920,"milk_g_unadj",4644,"Baja California",2019,22,"All Ages",3,"Both",345.001795563117
+920,"milk_g_unadj",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",330.698618463437
+920,"milk_g_unadj",4646,"Campeche",2019,22,"All Ages",3,"Both",300.0180734733
+920,"milk_g_unadj",4647,"Coahuila",2019,22,"All Ages",3,"Both",366.410538332953
+920,"milk_g_unadj",4648,"Colima",2019,22,"All Ages",3,"Both",337.33007289581
+920,"milk_g_unadj",4649,"Chiapas",2019,22,"All Ages",3,"Both",270.19432942156
+920,"milk_g_unadj",4650,"Chihuahua",2019,22,"All Ages",3,"Both",357.466268807625
+920,"milk_g_unadj",4651,"Mexico City",2019,22,"All Ages",3,"Both",378.551834240356
+920,"milk_g_unadj",4652,"Durango",2019,22,"All Ages",3,"Both",310.467680538916
+920,"milk_g_unadj",4653,"Guanajuato",2019,22,"All Ages",3,"Both",323.810968923939
+920,"milk_g_unadj",4654,"Guerrero",2019,22,"All Ages",3,"Both",264.760154226336
+920,"milk_g_unadj",4655,"Hidalgo",2019,22,"All Ages",3,"Both",265.847179206812
+920,"milk_g_unadj",4656,"Jalisco",2019,22,"All Ages",3,"Both",338.132747843277
+920,"milk_g_unadj",4657,"México",2019,22,"All Ages",3,"Both",313.165621404184
+920,"milk_g_unadj",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",298.538670219812
+920,"milk_g_unadj",4659,"Morelos",2019,22,"All Ages",3,"Both",305.868873046
+920,"milk_g_unadj",4660,"Nayarit",2019,22,"All Ages",3,"Both",324.372619395933
+920,"milk_g_unadj",4661,"Nuevo León",2019,22,"All Ages",3,"Both",374.750812684872
+920,"milk_g_unadj",4662,"Oaxaca",2019,22,"All Ages",3,"Both",239.85539512925
+920,"milk_g_unadj",4663,"Puebla",2019,22,"All Ages",3,"Both",283.16852487944
+920,"milk_g_unadj",4664,"Querétaro",2019,22,"All Ages",3,"Both",340.660159432235
+920,"milk_g_unadj",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",334.592991570226
+920,"milk_g_unadj",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",349.144072699776
+920,"milk_g_unadj",4667,"Sinaloa",2019,22,"All Ages",3,"Both",316.064955292623
+920,"milk_g_unadj",4668,"Sonora",2019,22,"All Ages",3,"Both",358.220914494831
+920,"milk_g_unadj",4669,"Tabasco",2019,22,"All Ages",3,"Both",271.317482899079
+920,"milk_g_unadj",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",333.525102219925
+920,"milk_g_unadj",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",284.428884075485
+920,"milk_g_unadj",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",281.408659396731
+920,"milk_g_unadj",4673,"Yucatán",2019,22,"All Ages",3,"Both",291.600034128607
+920,"milk_g_unadj",4674,"Zacatecas",2019,22,"All Ages",3,"Both",320.308245933441

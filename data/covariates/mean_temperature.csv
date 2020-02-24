@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+71,"mean_temperature",130,"Mexico",1990,22,"All Ages",3,"Both",19.253416971
+71,"mean_temperature",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",18.3275099898
+71,"mean_temperature",4644,"Baja California",1990,22,"All Ages",3,"Both",17.7779348807
+71,"mean_temperature",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",21.8281082052
+71,"mean_temperature",4646,"Campeche",1990,22,"All Ages",3,"Both",23.1053557661
+71,"mean_temperature",4647,"Coahuila",1990,22,"All Ages",3,"Both",20.8134543367
+71,"mean_temperature",4648,"Colima",1990,22,"All Ages",3,"Both",24.0663974876
+71,"mean_temperature",4649,"Chiapas",1990,22,"All Ages",3,"Both",23.0591213018
+71,"mean_temperature",4650,"Chihuahua",1990,22,"All Ages",3,"Both",17.3566165659
+71,"mean_temperature",4651,"Mexico City",1990,22,"All Ages",3,"Both",14.1476648599
+71,"mean_temperature",4652,"Durango",1990,22,"All Ages",3,"Both",17.5653185436
+71,"mean_temperature",4653,"Guanajuato",1990,22,"All Ages",3,"Both",18.7180665213
+71,"mean_temperature",4654,"Guerrero",1990,22,"All Ages",3,"Both",24.1768896113
+71,"mean_temperature",4655,"Hidalgo",1990,22,"All Ages",3,"Both",17.4693305552
+71,"mean_temperature",4656,"Jalisco",1990,22,"All Ages",3,"Both",20.6442333118
+71,"mean_temperature",4657,"México",1990,22,"All Ages",3,"Both",14.8176881857
+71,"mean_temperature",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",19.6687797353
+71,"mean_temperature",4659,"Morelos",1990,22,"All Ages",3,"Both",21.2593576981
+71,"mean_temperature",4660,"Nayarit",1990,22,"All Ages",3,"Both",22.8416243556
+71,"mean_temperature",4661,"Nuevo León",1990,22,"All Ages",3,"Both",22.0729500193
+71,"mean_temperature",4662,"Oaxaca",1990,22,"All Ages",3,"Both",20.8388108021
+71,"mean_temperature",4663,"Puebla",1990,22,"All Ages",3,"Both",18.1438237911
+71,"mean_temperature",4664,"Querétaro",1990,22,"All Ages",3,"Both",17.7539932421
+71,"mean_temperature",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",26.053313534
+71,"mean_temperature",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",19.9558038756
+71,"mean_temperature",4667,"Sinaloa",1990,22,"All Ages",3,"Both",23.227624089
+71,"mean_temperature",4668,"Sonora",1990,22,"All Ages",3,"Both",22.7626063598
+71,"mean_temperature",4669,"Tabasco",1990,22,"All Ages",3,"Both",24.4536695621
+71,"mean_temperature",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",23.9842405321
+71,"mean_temperature",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",15.4743100331
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",20.9497219052
+71,"mean_temperature",4673,"Yucatán",1990,22,"All Ages",3,"Both",25.9400342628
+71,"mean_temperature",4674,"Zacatecas",1990,22,"All Ages",3,"Both",17.3797363646
+71,"mean_temperature",130,"Mexico",1991,22,"All Ages",3,"Both",19.3795040769
+71,"mean_temperature",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",18.5184118988
+71,"mean_temperature",4644,"Baja California",1991,22,"All Ages",3,"Both",17.4579828924
+71,"mean_temperature",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",21.6663280661
+71,"mean_temperature",4646,"Campeche",1991,22,"All Ages",3,"Both",23.1274741263
+71,"mean_temperature",4647,"Coahuila",1991,22,"All Ages",3,"Both",20.7627857329
+71,"mean_temperature",4648,"Colima",1991,22,"All Ages",3,"Both",24.1869083852
+71,"mean_temperature",4649,"Chiapas",1991,22,"All Ages",3,"Both",23.1326498176
+71,"mean_temperature",4650,"Chihuahua",1991,22,"All Ages",3,"Both",16.8460698761
+71,"mean_temperature",4651,"Mexico City",1991,22,"All Ages",3,"Both",14.3950997505
+71,"mean_temperature",4652,"Durango",1991,22,"All Ages",3,"Both",17.6003011613
+71,"mean_temperature",4653,"Guanajuato",1991,22,"All Ages",3,"Both",18.8873468992
+71,"mean_temperature",4654,"Guerrero",1991,22,"All Ages",3,"Both",24.3746148014
+71,"mean_temperature",4655,"Hidalgo",1991,22,"All Ages",3,"Both",17.7571589775
+71,"mean_temperature",4656,"Jalisco",1991,22,"All Ages",3,"Both",20.7918252311
+71,"mean_temperature",4657,"México",1991,22,"All Ages",3,"Both",15.0818180136
+71,"mean_temperature",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",19.806310301
+71,"mean_temperature",4659,"Morelos",1991,22,"All Ages",3,"Both",21.4985240999
+71,"mean_temperature",4660,"Nayarit",1991,22,"All Ages",3,"Both",22.9685150973
+71,"mean_temperature",4661,"Nuevo León",1991,22,"All Ages",3,"Both",21.9951585372
+71,"mean_temperature",4662,"Oaxaca",1991,22,"All Ages",3,"Both",21.0967922013
+71,"mean_temperature",4663,"Puebla",1991,22,"All Ages",3,"Both",18.4025246604
+71,"mean_temperature",4664,"Querétaro",1991,22,"All Ages",3,"Both",18.0208624493
+71,"mean_temperature",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",26.182231455
+71,"mean_temperature",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",20.1656041276
+71,"mean_temperature",4667,"Sinaloa",1991,22,"All Ages",3,"Both",23.0769501698
+71,"mean_temperature",4668,"Sonora",1991,22,"All Ages",3,"Both",22.4524327094
+71,"mean_temperature",4669,"Tabasco",1991,22,"All Ages",3,"Both",24.5372621234
+71,"mean_temperature",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",23.8959823902
+71,"mean_temperature",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",15.7210700087
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",21.196563957
+71,"mean_temperature",4673,"Yucatán",1991,22,"All Ages",3,"Both",25.9634715324
+71,"mean_temperature",4674,"Zacatecas",1991,22,"All Ages",3,"Both",17.5428694524
+71,"mean_temperature",130,"Mexico",1992,22,"All Ages",3,"Both",18.9695496674
+71,"mean_temperature",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",18.064663562
+71,"mean_temperature",4644,"Baja California",1992,22,"All Ages",3,"Both",18.3994997961
+71,"mean_temperature",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",21.7813838855
+71,"mean_temperature",4646,"Campeche",1992,22,"All Ages",3,"Both",22.832556602
+71,"mean_temperature",4647,"Coahuila",1992,22,"All Ages",3,"Both",20.2983009804
+71,"mean_temperature",4648,"Colima",1992,22,"All Ages",3,"Both",23.8636843864
+71,"mean_temperature",4649,"Chiapas",1992,22,"All Ages",3,"Both",22.8285192211
+71,"mean_temperature",4650,"Chihuahua",1992,22,"All Ages",3,"Both",17.0106578621
+71,"mean_temperature",4651,"Mexico City",1992,22,"All Ages",3,"Both",13.8325465886
+71,"mean_temperature",4652,"Durango",1992,22,"All Ages",3,"Both",17.3917986761
+71,"mean_temperature",4653,"Guanajuato",1992,22,"All Ages",3,"Both",18.3996036104
+71,"mean_temperature",4654,"Guerrero",1992,22,"All Ages",3,"Both",23.8599461605
+71,"mean_temperature",4655,"Hidalgo",1992,22,"All Ages",3,"Both",17.1325456424
+71,"mean_temperature",4656,"Jalisco",1992,22,"All Ages",3,"Both",20.4289913436
+71,"mean_temperature",4657,"México",1992,22,"All Ages",3,"Both",14.5123729116
+71,"mean_temperature",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",19.3570238127
+71,"mean_temperature",4659,"Morelos",1992,22,"All Ages",3,"Both",20.9261444444
+71,"mean_temperature",4660,"Nayarit",1992,22,"All Ages",3,"Both",22.7180891369
+71,"mean_temperature",4661,"Nuevo León",1992,22,"All Ages",3,"Both",21.3838106317
+71,"mean_temperature",4662,"Oaxaca",1992,22,"All Ages",3,"Both",20.5793722245
+71,"mean_temperature",4663,"Puebla",1992,22,"All Ages",3,"Both",17.7953180116
+71,"mean_temperature",4664,"Querétaro",1992,22,"All Ages",3,"Both",17.4038305402
+71,"mean_temperature",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",25.7962005198
+71,"mean_temperature",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",19.5693684719
+71,"mean_temperature",4667,"Sinaloa",1992,22,"All Ages",3,"Both",23.1116136853
+71,"mean_temperature",4668,"Sonora",1992,22,"All Ages",3,"Both",22.667361304
+71,"mean_temperature",4669,"Tabasco",1992,22,"All Ages",3,"Both",24.1839877424
+71,"mean_temperature",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",23.3113282046
+71,"mean_temperature",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",15.1164065711
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",20.6316728572
+71,"mean_temperature",4673,"Yucatán",1992,22,"All Ages",3,"Both",25.6039981084
+71,"mean_temperature",4674,"Zacatecas",1992,22,"All Ages",3,"Both",17.1021440212
+71,"mean_temperature",130,"Mexico",1993,22,"All Ages",3,"Both",19.245035368
+71,"mean_temperature",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",18.3144530721
+71,"mean_temperature",4644,"Baja California",1993,22,"All Ages",3,"Both",18.0607561795
+71,"mean_temperature",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",21.9111123568
+71,"mean_temperature",4646,"Campeche",1993,22,"All Ages",3,"Both",22.8526355182
+71,"mean_temperature",4647,"Coahuila",1993,22,"All Ages",3,"Both",20.5862333223
+71,"mean_temperature",4648,"Colima",1993,22,"All Ages",3,"Both",24.052901248
+71,"mean_temperature",4649,"Chiapas",1993,22,"All Ages",3,"Both",22.8986194848
+71,"mean_temperature",4650,"Chihuahua",1993,22,"All Ages",3,"Both",17.5343608119
+71,"mean_temperature",4651,"Mexico City",1993,22,"All Ages",3,"Both",14.1679817909
+71,"mean_temperature",4652,"Durango",1993,22,"All Ages",3,"Both",17.6682389389
+71,"mean_temperature",4653,"Guanajuato",1993,22,"All Ages",3,"Both",18.7205890651
+71,"mean_temperature",4654,"Guerrero",1993,22,"All Ages",3,"Both",24.1697826961
+71,"mean_temperature",4655,"Hidalgo",1993,22,"All Ages",3,"Both",17.4824322846
+71,"mean_temperature",4656,"Jalisco",1993,22,"All Ages",3,"Both",20.6364108817
+71,"mean_temperature",4657,"México",1993,22,"All Ages",3,"Both",14.8506729245
+71,"mean_temperature",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",19.6183013587
+71,"mean_temperature",4659,"Morelos",1993,22,"All Ages",3,"Both",21.2658067028
+71,"mean_temperature",4660,"Nayarit",1993,22,"All Ages",3,"Both",22.8409273932
+71,"mean_temperature",4661,"Nuevo León",1993,22,"All Ages",3,"Both",21.5611075692
+71,"mean_temperature",4662,"Oaxaca",1993,22,"All Ages",3,"Both",20.8904484825
+71,"mean_temperature",4663,"Puebla",1993,22,"All Ages",3,"Both",18.1631694131
+71,"mean_temperature",4664,"Querétaro",1993,22,"All Ages",3,"Both",17.7755457133
+71,"mean_temperature",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",25.776514523
+71,"mean_temperature",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",19.9112629293
+71,"mean_temperature",4667,"Sinaloa",1993,22,"All Ages",3,"Both",23.3580019118
+71,"mean_temperature",4668,"Sonora",1993,22,"All Ages",3,"Both",22.979995736
+71,"mean_temperature",4669,"Tabasco",1993,22,"All Ages",3,"Both",24.3076375411
+71,"mean_temperature",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",23.4960149983
+71,"mean_temperature",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",15.5060847675
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",20.946565128
+71,"mean_temperature",4673,"Yucatán",1993,22,"All Ages",3,"Both",25.6089393712
+71,"mean_temperature",4674,"Zacatecas",1993,22,"All Ages",3,"Both",17.3762973366
+71,"mean_temperature",130,"Mexico",1994,22,"All Ages",3,"Both",19.6211369531
+71,"mean_temperature",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",18.66143347
+71,"mean_temperature",4644,"Baja California",1994,22,"All Ages",3,"Both",18.0285292797
+71,"mean_temperature",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",22.2919849378
+71,"mean_temperature",4646,"Campeche",1994,22,"All Ages",3,"Both",23.1129099354
+71,"mean_temperature",4647,"Coahuila",1994,22,"All Ages",3,"Both",21.2052740478
+71,"mean_temperature",4648,"Colima",1994,22,"All Ages",3,"Both",24.3467454919
+71,"mean_temperature",4649,"Chiapas",1994,22,"All Ages",3,"Both",23.1842176914
+71,"mean_temperature",4650,"Chihuahua",1994,22,"All Ages",3,"Both",18.3759495896
+71,"mean_temperature",4651,"Mexico City",1994,22,"All Ages",3,"Both",14.5034020708
+71,"mean_temperature",4652,"Durango",1994,22,"All Ages",3,"Both",18.1266038229
+71,"mean_temperature",4653,"Guanajuato",1994,22,"All Ages",3,"Both",19.0303982847
+71,"mean_temperature",4654,"Guerrero",1994,22,"All Ages",3,"Both",24.4921797866
+71,"mean_temperature",4655,"Hidalgo",1994,22,"All Ages",3,"Both",17.7884302027
+71,"mean_temperature",4656,"Jalisco",1994,22,"All Ages",3,"Both",20.9572387778
+71,"mean_temperature",4657,"México",1994,22,"All Ages",3,"Both",15.1847279013
+71,"mean_temperature",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",19.9471898053
+71,"mean_temperature",4659,"Morelos",1994,22,"All Ages",3,"Both",21.5999644267
+71,"mean_temperature",4660,"Nayarit",1994,22,"All Ages",3,"Both",23.1092335152
+71,"mean_temperature",4661,"Nuevo León",1994,22,"All Ages",3,"Both",22.160818586
+71,"mean_temperature",4662,"Oaxaca",1994,22,"All Ages",3,"Both",21.2193221073
+71,"mean_temperature",4663,"Puebla",1994,22,"All Ages",3,"Both",18.4832344028
+71,"mean_temperature",4664,"Querétaro",1994,22,"All Ages",3,"Both",18.0914780072
+71,"mean_temperature",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",26.09495257
+71,"mean_temperature",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",20.2965397514
+71,"mean_temperature",4667,"Sinaloa",1994,22,"All Ages",3,"Both",23.848886374
+71,"mean_temperature",4668,"Sonora",1994,22,"All Ages",3,"Both",23.397816297
+71,"mean_temperature",4669,"Tabasco",1994,22,"All Ages",3,"Both",24.5542631439
+71,"mean_temperature",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",24.079498537
+71,"mean_temperature",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",15.8018487697
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",21.286914596
+71,"mean_temperature",4673,"Yucatán",1994,22,"All Ages",3,"Both",25.9152758197
+71,"mean_temperature",4674,"Zacatecas",1994,22,"All Ages",3,"Both",17.8012569391
+71,"mean_temperature",130,"Mexico",1995,22,"All Ages",3,"Both",19.5934907523
+71,"mean_temperature",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",18.5772833413
+71,"mean_temperature",4644,"Baja California",1995,22,"All Ages",3,"Both",18.4114905648
+71,"mean_temperature",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",22.1101162956
+71,"mean_temperature",4646,"Campeche",1995,22,"All Ages",3,"Both",23.0160237581
+71,"mean_temperature",4647,"Coahuila",1995,22,"All Ages",3,"Both",21.1063038827
+71,"mean_temperature",4648,"Colima",1995,22,"All Ages",3,"Both",24.3144984085
+71,"mean_temperature",4649,"Chiapas",1995,22,"All Ages",3,"Both",23.1176831816
+71,"mean_temperature",4650,"Chihuahua",1995,22,"All Ages",3,"Both",18.1389088705
+71,"mean_temperature",4651,"Mexico City",1995,22,"All Ages",3,"Both",14.5128174645
+71,"mean_temperature",4652,"Durango",1995,22,"All Ages",3,"Both",17.9847146445
+71,"mean_temperature",4653,"Guanajuato",1995,22,"All Ages",3,"Both",18.9677610124
+71,"mean_temperature",4654,"Guerrero",1995,22,"All Ages",3,"Both",24.5219681263
+71,"mean_temperature",4655,"Hidalgo",1995,22,"All Ages",3,"Both",17.7747896006
+71,"mean_temperature",4656,"Jalisco",1995,22,"All Ages",3,"Both",20.9118493366
+71,"mean_temperature",4657,"México",1995,22,"All Ages",3,"Both",15.1855805066
+71,"mean_temperature",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",19.9152238953
+71,"mean_temperature",4659,"Morelos",1995,22,"All Ages",3,"Both",21.6166161425
+71,"mean_temperature",4660,"Nayarit",1995,22,"All Ages",3,"Both",22.9192434328
+71,"mean_temperature",4661,"Nuevo León",1995,22,"All Ages",3,"Both",22.0383686256
+71,"mean_temperature",4662,"Oaxaca",1995,22,"All Ages",3,"Both",21.2028392985
+71,"mean_temperature",4663,"Puebla",1995,22,"All Ages",3,"Both",18.5450258902
+71,"mean_temperature",4664,"Querétaro",1995,22,"All Ages",3,"Both",18.042357143
+71,"mean_temperature",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",25.8195812896
+71,"mean_temperature",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",20.2323904783
+71,"mean_temperature",4667,"Sinaloa",1995,22,"All Ages",3,"Both",23.6110986788
+71,"mean_temperature",4668,"Sonora",1995,22,"All Ages",3,"Both",23.3227907947
+71,"mean_temperature",4669,"Tabasco",1995,22,"All Ages",3,"Both",24.5383061324
+71,"mean_temperature",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",23.9743140303
+71,"mean_temperature",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",15.8773679572
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",21.2983904828
+71,"mean_temperature",4673,"Yucatán",1995,22,"All Ages",3,"Both",25.7365624497
+71,"mean_temperature",4674,"Zacatecas",1995,22,"All Ages",3,"Both",17.7123319616
+71,"mean_temperature",130,"Mexico",1996,22,"All Ages",3,"Both",19.2919052435
+71,"mean_temperature",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",18.3127642519
+71,"mean_temperature",4644,"Baja California",1996,22,"All Ages",3,"Both",18.9059170184
+71,"mean_temperature",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",22.2295003364
+71,"mean_temperature",4646,"Campeche",1996,22,"All Ages",3,"Both",22.7588319343
+71,"mean_temperature",4647,"Coahuila",1996,22,"All Ages",3,"Both",21.0448230801
+71,"mean_temperature",4648,"Colima",1996,22,"All Ages",3,"Both",23.9401223918
+71,"mean_temperature",4649,"Chiapas",1996,22,"All Ages",3,"Both",22.7599624965
+71,"mean_temperature",4650,"Chihuahua",1996,22,"All Ages",3,"Both",18.1242628742
+71,"mean_temperature",4651,"Mexico City",1996,22,"All Ages",3,"Both",14.0449015393
+71,"mean_temperature",4652,"Durango",1996,22,"All Ages",3,"Both",17.8440647801
+71,"mean_temperature",4653,"Guanajuato",1996,22,"All Ages",3,"Both",18.5941708374
+71,"mean_temperature",4654,"Guerrero",1996,22,"All Ages",3,"Both",24.0562470125
+71,"mean_temperature",4655,"Hidalgo",1996,22,"All Ages",3,"Both",17.293890779
+71,"mean_temperature",4656,"Jalisco",1996,22,"All Ages",3,"Both",20.5404164197
+71,"mean_temperature",4657,"México",1996,22,"All Ages",3,"Both",14.7168973869
+71,"mean_temperature",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",19.4963631005
+71,"mean_temperature",4659,"Morelos",1996,22,"All Ages",3,"Both",21.1454830314
+71,"mean_temperature",4660,"Nayarit",1996,22,"All Ages",3,"Both",22.7290889414
+71,"mean_temperature",4661,"Nuevo León",1996,22,"All Ages",3,"Both",22.0083668736
+71,"mean_temperature",4662,"Oaxaca",1996,22,"All Ages",3,"Both",20.7882605396
+71,"mean_temperature",4663,"Puebla",1996,22,"All Ages",3,"Both",18.037292044
+71,"mean_temperature",4664,"Querétaro",1996,22,"All Ages",3,"Both",17.6155303496
+71,"mean_temperature",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",25.5286993501
+71,"mean_temperature",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",19.9415880498
+71,"mean_temperature",4667,"Sinaloa",1996,22,"All Ages",3,"Both",23.6180643735
+71,"mean_temperature",4668,"Sonora",1996,22,"All Ages",3,"Both",23.6320608181
+71,"mean_temperature",4669,"Tabasco",1996,22,"All Ages",3,"Both",24.2027259336
+71,"mean_temperature",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",23.9531439707
+71,"mean_temperature",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",15.3566595067
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",20.8875412922
+71,"mean_temperature",4673,"Yucatán",1996,22,"All Ages",3,"Both",25.4705194001
+71,"mean_temperature",4674,"Zacatecas",1996,22,"All Ages",3,"Both",17.4823433738
+71,"mean_temperature",130,"Mexico",1997,22,"All Ages",3,"Both",19.3379655215
+71,"mean_temperature",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",18.3354847811
+71,"mean_temperature",4644,"Baja California",1997,22,"All Ages",3,"Both",18.1605602246
+71,"mean_temperature",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",22.0215458167
+71,"mean_temperature",4646,"Campeche",1997,22,"All Ages",3,"Both",23.1422824535
+71,"mean_temperature",4647,"Coahuila",1997,22,"All Ages",3,"Both",20.2699889441
+71,"mean_temperature",4648,"Colima",1997,22,"All Ages",3,"Both",24.2000972519
+71,"mean_temperature",4649,"Chiapas",1997,22,"All Ages",3,"Both",23.2177940223
+71,"mean_temperature",4650,"Chihuahua",1997,22,"All Ages",3,"Both",17.1069970482
+71,"mean_temperature",4651,"Mexico City",1997,22,"All Ages",3,"Both",14.2812139418
+71,"mean_temperature",4652,"Durango",1997,22,"All Ages",3,"Both",17.5242495172
+71,"mean_temperature",4653,"Guanajuato",1997,22,"All Ages",3,"Both",18.7829840815
+71,"mean_temperature",4654,"Guerrero",1997,22,"All Ages",3,"Both",24.3271466594
+71,"mean_temperature",4655,"Hidalgo",1997,22,"All Ages",3,"Both",17.4657769979
+71,"mean_temperature",4656,"Jalisco",1997,22,"All Ages",3,"Both",20.7801335859
+71,"mean_temperature",4657,"México",1997,22,"All Ages",3,"Both",14.9637210657
+71,"mean_temperature",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",19.7536110432
+71,"mean_temperature",4659,"Morelos",1997,22,"All Ages",3,"Both",21.4085471169
+71,"mean_temperature",4660,"Nayarit",1997,22,"All Ages",3,"Both",22.8341591992
+71,"mean_temperature",4661,"Nuevo León",1997,22,"All Ages",3,"Both",21.3791036805
+71,"mean_temperature",4662,"Oaxaca",1997,22,"All Ages",3,"Both",21.1223468339
+71,"mean_temperature",4663,"Puebla",1997,22,"All Ages",3,"Both",18.2583743191
+71,"mean_temperature",4664,"Querétaro",1997,22,"All Ages",3,"Both",17.7961511256
+71,"mean_temperature",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",26.0546147856
+71,"mean_temperature",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",19.7924285898
+71,"mean_temperature",4667,"Sinaloa",1997,22,"All Ages",3,"Both",23.3303370918
+71,"mean_temperature",4668,"Sonora",1997,22,"All Ages",3,"Both",22.9351099988
+71,"mean_temperature",4669,"Tabasco",1997,22,"All Ages",3,"Both",24.6244080138
+71,"mean_temperature",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",23.2740850053
+71,"mean_temperature",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",15.5858134882
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",21.0793976842
+71,"mean_temperature",4673,"Yucatán",1997,22,"All Ages",3,"Both",25.8942735381
+71,"mean_temperature",4674,"Zacatecas",1997,22,"All Ages",3,"Both",17.3442590099
+71,"mean_temperature",130,"Mexico",1998,22,"All Ages",3,"Both",19.8329740736
+71,"mean_temperature",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",18.9733061933
+71,"mean_temperature",4644,"Baja California",1998,22,"All Ages",3,"Both",16.9527412932
+71,"mean_temperature",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",22.1482221741
+71,"mean_temperature",4646,"Campeche",1998,22,"All Ages",3,"Both",23.3585562807
+71,"mean_temperature",4647,"Coahuila",1998,22,"All Ages",3,"Both",21.5661641069
+71,"mean_temperature",4648,"Colima",1998,22,"All Ages",3,"Both",24.4156868373
+71,"mean_temperature",4649,"Chiapas",1998,22,"All Ages",3,"Both",23.4218557993
+71,"mean_temperature",4650,"Chihuahua",1998,22,"All Ages",3,"Both",17.9573957651
+71,"mean_temperature",4651,"Mexico City",1998,22,"All Ages",3,"Both",14.7456124198
+71,"mean_temperature",4652,"Durango",1998,22,"All Ages",3,"Both",18.2843069725
+71,"mean_temperature",4653,"Guanajuato",1998,22,"All Ages",3,"Both",19.2821979717
+71,"mean_temperature",4654,"Guerrero",1998,22,"All Ages",3,"Both",24.6835420403
+71,"mean_temperature",4655,"Hidalgo",1998,22,"All Ages",3,"Both",18.0325937901
+71,"mean_temperature",4656,"Jalisco",1998,22,"All Ages",3,"Both",21.1075238095
+71,"mean_temperature",4657,"México",1998,22,"All Ages",3,"Both",15.438699027
+71,"mean_temperature",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",20.0802422153
+71,"mean_temperature",4659,"Morelos",1998,22,"All Ages",3,"Both",21.8461727642
+71,"mean_temperature",4660,"Nayarit",1998,22,"All Ages",3,"Both",23.2174205891
+71,"mean_temperature",4661,"Nuevo León",1998,22,"All Ages",3,"Both",22.7829222356
+71,"mean_temperature",4662,"Oaxaca",1998,22,"All Ages",3,"Both",21.5019214423
+71,"mean_temperature",4663,"Puebla",1998,22,"All Ages",3,"Both",18.7722567834
+71,"mean_temperature",4664,"Querétaro",1998,22,"All Ages",3,"Both",18.3688403566
+71,"mean_temperature",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",26.0876293956
+71,"mean_temperature",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",20.633675142
+71,"mean_temperature",4667,"Sinaloa",1998,22,"All Ages",3,"Both",23.8208022879
+71,"mean_temperature",4668,"Sonora",1998,22,"All Ages",3,"Both",22.7804616093
+71,"mean_temperature",4669,"Tabasco",1998,22,"All Ages",3,"Both",24.8776950221
+71,"mean_temperature",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",24.5271019336
+71,"mean_temperature",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",16.0960411873
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",21.6215081366
+71,"mean_temperature",4673,"Yucatán",1998,22,"All Ages",3,"Both",26.0412680151
+71,"mean_temperature",4674,"Zacatecas",1998,22,"All Ages",3,"Both",18.0447613607
+71,"mean_temperature",130,"Mexico",1999,22,"All Ages",3,"Both",19.2859842088
+71,"mean_temperature",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",18.2771472751
+71,"mean_temperature",4644,"Baja California",1999,22,"All Ages",3,"Both",17.2399818408
+71,"mean_temperature",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",21.7862072273
+71,"mean_temperature",4646,"Campeche",1999,22,"All Ages",3,"Both",22.7772374732
+71,"mean_temperature",4647,"Coahuila",1999,22,"All Ages",3,"Both",21.1244785967
+71,"mean_temperature",4648,"Colima",1999,22,"All Ages",3,"Both",23.77705943
+71,"mean_temperature",4649,"Chiapas",1999,22,"All Ages",3,"Both",22.7515692063
+71,"mean_temperature",4650,"Chihuahua",1999,22,"All Ages",3,"Both",17.8503724791
+71,"mean_temperature",4651,"Mexico City",1999,22,"All Ages",3,"Both",14.1090234313
+71,"mean_temperature",4652,"Durango",1999,22,"All Ages",3,"Both",17.7078087123
+71,"mean_temperature",4653,"Guanajuato",1999,22,"All Ages",3,"Both",18.6126978006
+71,"mean_temperature",4654,"Guerrero",1999,22,"All Ages",3,"Both",24.0773590538
+71,"mean_temperature",4655,"Hidalgo",1999,22,"All Ages",3,"Both",17.3752675234
+71,"mean_temperature",4656,"Jalisco",1999,22,"All Ages",3,"Both",20.4144844283
+71,"mean_temperature",4657,"México",1999,22,"All Ages",3,"Both",14.7987505389
+71,"mean_temperature",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",19.4196853553
+71,"mean_temperature",4659,"Morelos",1999,22,"All Ages",3,"Both",21.2204643349
+71,"mean_temperature",4660,"Nayarit",1999,22,"All Ages",3,"Both",22.5201430268
+71,"mean_temperature",4661,"Nuevo León",1999,22,"All Ages",3,"Both",22.2971188251
+71,"mean_temperature",4662,"Oaxaca",1999,22,"All Ages",3,"Both",20.8752763036
+71,"mean_temperature",4663,"Puebla",1999,22,"All Ages",3,"Both",18.169369045
+71,"mean_temperature",4664,"Querétaro",1999,22,"All Ages",3,"Both",17.677942589
+71,"mean_temperature",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",25.5457033868
+71,"mean_temperature",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",20.04138104
+71,"mean_temperature",4667,"Sinaloa",1999,22,"All Ages",3,"Both",23.3445705787
+71,"mean_temperature",4668,"Sonora",1999,22,"All Ages",3,"Both",22.8704043016
+71,"mean_temperature",4669,"Tabasco",1999,22,"All Ages",3,"Both",24.2579849314
+71,"mean_temperature",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",24.0610813941
+71,"mean_temperature",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",15.4871868228
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",21.0506203611
+71,"mean_temperature",4673,"Yucatán",1999,22,"All Ages",3,"Both",25.4952975573
+71,"mean_temperature",4674,"Zacatecas",1999,22,"All Ages",3,"Both",17.4364126396
+71,"mean_temperature",130,"Mexico",2000,22,"All Ages",3,"Both",19.5077410392
+71,"mean_temperature",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",18.52560007
+71,"mean_temperature",4644,"Baja California",2000,22,"All Ages",3,"Both",17.7949292461
+71,"mean_temperature",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",21.9644661156
+71,"mean_temperature",4646,"Campeche",2000,22,"All Ages",3,"Both",23.0272110131
+71,"mean_temperature",4647,"Coahuila",2000,22,"All Ages",3,"Both",21.2113630976
+71,"mean_temperature",4648,"Colima",2000,22,"All Ages",3,"Both",23.9785410524
+71,"mean_temperature",4649,"Chiapas",2000,22,"All Ages",3,"Both",23.0200066036
+71,"mean_temperature",4650,"Chihuahua",2000,22,"All Ages",3,"Both",18.0656596597
+71,"mean_temperature",4651,"Mexico City",2000,22,"All Ages",3,"Both",14.3250247539
+71,"mean_temperature",4652,"Durango",2000,22,"All Ages",3,"Both",17.8390745692
+71,"mean_temperature",4653,"Guanajuato",2000,22,"All Ages",3,"Both",18.8436184967
+71,"mean_temperature",4654,"Guerrero",2000,22,"All Ages",3,"Both",24.2937086241
+71,"mean_temperature",4655,"Hidalgo",2000,22,"All Ages",3,"Both",17.5842111495
+71,"mean_temperature",4656,"Jalisco",2000,22,"All Ages",3,"Both",20.6399584062
+71,"mean_temperature",4657,"México",2000,22,"All Ages",3,"Both",15.0177520645
+71,"mean_temperature",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",19.6487346318
+71,"mean_temperature",4659,"Morelos",2000,22,"All Ages",3,"Both",21.4335715804
+71,"mean_temperature",4660,"Nayarit",2000,22,"All Ages",3,"Both",22.726124588
+71,"mean_temperature",4661,"Nuevo León",2000,22,"All Ages",3,"Both",22.3747051049
+71,"mean_temperature",4662,"Oaxaca",2000,22,"All Ages",3,"Both",21.1355873379
+71,"mean_temperature",4663,"Puebla",2000,22,"All Ages",3,"Both",18.3708608903
+71,"mean_temperature",4664,"Querétaro",2000,22,"All Ages",3,"Both",17.909510194
+71,"mean_temperature",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",25.7002205419
+71,"mean_temperature",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",20.2041994988
+71,"mean_temperature",4667,"Sinaloa",2000,22,"All Ages",3,"Both",23.4769800659
+71,"mean_temperature",4668,"Sonora",2000,22,"All Ages",3,"Both",23.2079223902
+71,"mean_temperature",4669,"Tabasco",2000,22,"All Ages",3,"Both",24.5013056171
+71,"mean_temperature",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",24.1424924811
+71,"mean_temperature",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",15.6891870841
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",21.2644878666
+71,"mean_temperature",4673,"Yucatán",2000,22,"All Ages",3,"Both",25.7164847915
+71,"mean_temperature",4674,"Zacatecas",2000,22,"All Ages",3,"Both",17.6020462077
+71,"mean_temperature",130,"Mexico",2001,22,"All Ages",3,"Both",19.1867352189
+71,"mean_temperature",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",17.99311388
+71,"mean_temperature",4644,"Baja California",2001,22,"All Ages",3,"Both",17.9328389659
+71,"mean_temperature",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",21.8755009153
+71,"mean_temperature",4646,"Campeche",2001,22,"All Ages",3,"Both",23.3549300033
+71,"mean_temperature",4647,"Coahuila",2001,22,"All Ages",3,"Both",20.5545725398
+71,"mean_temperature",4648,"Colima",2001,22,"All Ages",3,"Both",23.6195168659
+71,"mean_temperature",4649,"Chiapas",2001,22,"All Ages",3,"Both",23.2632337435
+71,"mean_temperature",4650,"Chihuahua",2001,22,"All Ages",3,"Both",17.8319594249
+71,"mean_temperature",4651,"Mexico City",2001,22,"All Ages",3,"Both",13.9059647678
+71,"mean_temperature",4652,"Durango",2001,22,"All Ages",3,"Both",17.3927591076
+71,"mean_temperature",4653,"Guanajuato",2001,22,"All Ages",3,"Both",18.3720414297
+71,"mean_temperature",4654,"Guerrero",2001,22,"All Ages",3,"Both",23.9188755404
+71,"mean_temperature",4655,"Hidalgo",2001,22,"All Ages",3,"Both",17.1159119063
+71,"mean_temperature",4656,"Jalisco",2001,22,"All Ages",3,"Both",20.2416826566
+71,"mean_temperature",4657,"México",2001,22,"All Ages",3,"Both",14.5883484458
+71,"mean_temperature",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",19.2491344833
+71,"mean_temperature",4659,"Morelos",2001,22,"All Ages",3,"Both",21.0239222386
+71,"mean_temperature",4660,"Nayarit",2001,22,"All Ages",3,"Both",22.2731980806
+71,"mean_temperature",4661,"Nuevo León",2001,22,"All Ages",3,"Both",21.625876969
+71,"mean_temperature",4662,"Oaxaca",2001,22,"All Ages",3,"Both",20.9731141858
+71,"mean_temperature",4663,"Puebla",2001,22,"All Ages",3,"Both",17.9940176332
+71,"mean_temperature",4664,"Querétaro",2001,22,"All Ages",3,"Both",17.4318939956
+71,"mean_temperature",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",26.114936334
+71,"mean_temperature",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",19.6200590389
+71,"mean_temperature",4667,"Sinaloa",2001,22,"All Ages",3,"Both",23.2572413013
+71,"mean_temperature",4668,"Sonora",2001,22,"All Ages",3,"Both",23.1232566008
+71,"mean_temperature",4669,"Tabasco",2001,22,"All Ages",3,"Both",24.7289867384
+71,"mean_temperature",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",23.5055508719
+71,"mean_temperature",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",15.3113243281
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",21.0240091657
+71,"mean_temperature",4673,"Yucatán",2001,22,"All Ages",3,"Both",26.0817856108
+71,"mean_temperature",4674,"Zacatecas",2001,22,"All Ages",3,"Both",17.0751829255
+71,"mean_temperature",130,"Mexico",2002,22,"All Ages",3,"Both",19.4642641332
+71,"mean_temperature",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",18.4673197979
+71,"mean_temperature",4644,"Baja California",2002,22,"All Ages",3,"Both",17.8283455656
+71,"mean_temperature",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",22.1335760026
+71,"mean_temperature",4646,"Campeche",2002,22,"All Ages",3,"Both",23.4413398846
+71,"mean_temperature",4647,"Coahuila",2002,22,"All Ages",3,"Both",20.7292166359
+71,"mean_temperature",4648,"Colima",2002,22,"All Ages",3,"Both",24.1262371221
+71,"mean_temperature",4649,"Chiapas",2002,22,"All Ages",3,"Both",23.3823289087
+71,"mean_temperature",4650,"Chihuahua",2002,22,"All Ages",3,"Both",17.8133565883
+71,"mean_temperature",4651,"Mexico City",2002,22,"All Ages",3,"Both",14.2155287795
+71,"mean_temperature",4652,"Durango",2002,22,"All Ages",3,"Both",17.7033304683
+71,"mean_temperature",4653,"Guanajuato",2002,22,"All Ages",3,"Both",18.7464544304
+71,"mean_temperature",4654,"Guerrero",2002,22,"All Ages",3,"Both",24.2614373024
+71,"mean_temperature",4655,"Hidalgo",2002,22,"All Ages",3,"Both",17.3722929613
+71,"mean_temperature",4656,"Jalisco",2002,22,"All Ages",3,"Both",20.7694899469
+71,"mean_temperature",4657,"México",2002,22,"All Ages",3,"Both",14.8965922311
+71,"mean_temperature",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",19.6518958032
+71,"mean_temperature",4659,"Morelos",2002,22,"All Ages",3,"Both",21.3486482504
+71,"mean_temperature",4660,"Nayarit",2002,22,"All Ages",3,"Both",22.6983119475
+71,"mean_temperature",4661,"Nuevo León",2002,22,"All Ages",3,"Both",21.8363550236
+71,"mean_temperature",4662,"Oaxaca",2002,22,"All Ages",3,"Both",21.2151747802
+71,"mean_temperature",4663,"Puebla",2002,22,"All Ages",3,"Both",18.2674122538
+71,"mean_temperature",4664,"Querétaro",2002,22,"All Ages",3,"Both",17.7471692156
+71,"mean_temperature",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",26.2865845229
+71,"mean_temperature",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",19.9508483996
+71,"mean_temperature",4667,"Sinaloa",2002,22,"All Ages",3,"Both",23.5504100401
+71,"mean_temperature",4668,"Sonora",2002,22,"All Ages",3,"Both",23.1762775514
+71,"mean_temperature",4669,"Tabasco",2002,22,"All Ages",3,"Both",24.8512233906
+71,"mean_temperature",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",23.6844270516
+71,"mean_temperature",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",15.582846442
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",21.2382550118
+71,"mean_temperature",4673,"Yucatán",2002,22,"All Ages",3,"Both",26.2099948338
+71,"mean_temperature",4674,"Zacatecas",2002,22,"All Ages",3,"Both",17.5263957748
+71,"mean_temperature",130,"Mexico",2003,22,"All Ages",3,"Both",19.5784323621
+71,"mean_temperature",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",18.4231808682
+71,"mean_temperature",4644,"Baja California",2003,22,"All Ages",3,"Both",18.3265956011
+71,"mean_temperature",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",22.2239354102
+71,"mean_temperature",4646,"Campeche",2003,22,"All Ages",3,"Both",23.5937286889
+71,"mean_temperature",4647,"Coahuila",2003,22,"All Ages",3,"Both",20.626791452
+71,"mean_temperature",4648,"Colima",2003,22,"All Ages",3,"Both",24.1449663693
+71,"mean_temperature",4649,"Chiapas",2003,22,"All Ages",3,"Both",23.5168412372
+71,"mean_temperature",4650,"Chihuahua",2003,22,"All Ages",3,"Both",18.0466165801
+71,"mean_temperature",4651,"Mexico City",2003,22,"All Ages",3,"Both",14.386538376
+71,"mean_temperature",4652,"Durango",2003,22,"All Ages",3,"Both",17.63319968
+71,"mean_temperature",4653,"Guanajuato",2003,22,"All Ages",3,"Both",18.7923150558
+71,"mean_temperature",4654,"Guerrero",2003,22,"All Ages",3,"Both",24.3945540941
+71,"mean_temperature",4655,"Hidalgo",2003,22,"All Ages",3,"Both",17.522132817
+71,"mean_temperature",4656,"Jalisco",2003,22,"All Ages",3,"Both",20.741212952
+71,"mean_temperature",4657,"México",2003,22,"All Ages",3,"Both",15.0705917748
+71,"mean_temperature",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",19.7438200666
+71,"mean_temperature",4659,"Morelos",2003,22,"All Ages",3,"Both",21.5073151316
+71,"mean_temperature",4660,"Nayarit",2003,22,"All Ages",3,"Both",22.6249749801
+71,"mean_temperature",4661,"Nuevo León",2003,22,"All Ages",3,"Both",21.7018948445
+71,"mean_temperature",4662,"Oaxaca",2003,22,"All Ages",3,"Both",21.3752419833
+71,"mean_temperature",4663,"Puebla",2003,22,"All Ages",3,"Both",18.425210538
+71,"mean_temperature",4664,"Querétaro",2003,22,"All Ages",3,"Both",17.8787797931
+71,"mean_temperature",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",26.2815330465
+71,"mean_temperature",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",19.9209829277
+71,"mean_temperature",4667,"Sinaloa",2003,22,"All Ages",3,"Both",23.5747685326
+71,"mean_temperature",4668,"Sonora",2003,22,"All Ages",3,"Both",23.4579836308
+71,"mean_temperature",4669,"Tabasco",2003,22,"All Ages",3,"Both",25.0175004677
+71,"mean_temperature",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",23.6021268651
+71,"mean_temperature",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",15.7490614156
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",21.3912751081
+71,"mean_temperature",4673,"Yucatán",2003,22,"All Ages",3,"Both",26.2865217923
+71,"mean_temperature",4674,"Zacatecas",2003,22,"All Ages",3,"Both",17.4320436662
+71,"mean_temperature",130,"Mexico",2004,22,"All Ages",3,"Both",19.3384991104
+71,"mean_temperature",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",18.0323719038
+71,"mean_temperature",4644,"Baja California",2004,22,"All Ages",3,"Both",18.078076873
+71,"mean_temperature",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",21.9616774698
+71,"mean_temperature",4646,"Campeche",2004,22,"All Ages",3,"Both",23.5723897707
+71,"mean_temperature",4647,"Coahuila",2004,22,"All Ages",3,"Both",20.4741060505
+71,"mean_temperature",4648,"Colima",2004,22,"All Ages",3,"Both",23.8565552736
+71,"mean_temperature",4649,"Chiapas",2004,22,"All Ages",3,"Both",23.5203907746
+71,"mean_temperature",4650,"Chihuahua",2004,22,"All Ages",3,"Both",17.4895789171
+71,"mean_temperature",4651,"Mexico City",2004,22,"All Ages",3,"Both",14.103071368
+71,"mean_temperature",4652,"Durango",2004,22,"All Ages",3,"Both",17.3909525245
+71,"mean_temperature",4653,"Guanajuato",2004,22,"All Ages",3,"Both",18.4568115841
+71,"mean_temperature",4654,"Guerrero",2004,22,"All Ages",3,"Both",24.1619131438
+71,"mean_temperature",4655,"Hidalgo",2004,22,"All Ages",3,"Both",17.183551101
+71,"mean_temperature",4656,"Jalisco",2004,22,"All Ages",3,"Both",20.4338432172
+71,"mean_temperature",4657,"México",2004,22,"All Ages",3,"Both",14.7699200749
+71,"mean_temperature",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",19.4472389863
+71,"mean_temperature",4659,"Morelos",2004,22,"All Ages",3,"Both",21.2436512525
+71,"mean_temperature",4660,"Nayarit",2004,22,"All Ages",3,"Both",22.2523149812
+71,"mean_temperature",4661,"Nuevo León",2004,22,"All Ages",3,"Both",21.6119521477
+71,"mean_temperature",4662,"Oaxaca",2004,22,"All Ages",3,"Both",21.2378475514
+71,"mean_temperature",4663,"Puebla",2004,22,"All Ages",3,"Both",18.1657517676
+71,"mean_temperature",4664,"Querétaro",2004,22,"All Ages",3,"Both",17.5305265125
+71,"mean_temperature",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",26.2095393763
+71,"mean_temperature",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",19.5511058909
+71,"mean_temperature",4667,"Sinaloa",2004,22,"All Ages",3,"Both",23.2970296534
+71,"mean_temperature",4668,"Sonora",2004,22,"All Ages",3,"Both",23.026309368
+71,"mean_temperature",4669,"Tabasco",2004,22,"All Ages",3,"Both",24.9749537175
+71,"mean_temperature",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",23.5755016045
+71,"mean_temperature",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",15.4776819905
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",21.2031403573
+71,"mean_temperature",4673,"Yucatán",2004,22,"All Ages",3,"Both",26.2597201931
+71,"mean_temperature",4674,"Zacatecas",2004,22,"All Ages",3,"Both",17.1152315996
+71,"mean_temperature",130,"Mexico",2005,22,"All Ages",3,"Both",19.5620779799
+71,"mean_temperature",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",18.2285483614
+71,"mean_temperature",4644,"Baja California",2005,22,"All Ages",3,"Both",18.2915960337
+71,"mean_temperature",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",22.1675187127
+71,"mean_temperature",4646,"Campeche",2005,22,"All Ages",3,"Both",23.5909406571
+71,"mean_temperature",4647,"Coahuila",2005,22,"All Ages",3,"Both",20.9418172572
+71,"mean_temperature",4648,"Colima",2005,22,"All Ages",3,"Both",23.9387539551
+71,"mean_temperature",4649,"Chiapas",2005,22,"All Ages",3,"Both",23.5586535363
+71,"mean_temperature",4650,"Chihuahua",2005,22,"All Ages",3,"Both",18.0623564314
+71,"mean_temperature",4651,"Mexico City",2005,22,"All Ages",3,"Both",14.2775348973
+71,"mean_temperature",4652,"Durango",2005,22,"All Ages",3,"Both",17.6906038383
+71,"mean_temperature",4653,"Guanajuato",2005,22,"All Ages",3,"Both",18.6501552029
+71,"mean_temperature",4654,"Guerrero",2005,22,"All Ages",3,"Both",24.3032820684
+71,"mean_temperature",4655,"Hidalgo",2005,22,"All Ages",3,"Both",17.4013749758
+71,"mean_temperature",4656,"Jalisco",2005,22,"All Ages",3,"Both",20.5364110453
+71,"mean_temperature",4657,"México",2005,22,"All Ages",3,"Both",14.9584091988
+71,"mean_temperature",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",19.5650739063
+71,"mean_temperature",4659,"Morelos",2005,22,"All Ages",3,"Both",21.400212505
+71,"mean_temperature",4660,"Nayarit",2005,22,"All Ages",3,"Both",22.3276106007
+71,"mean_temperature",4661,"Nuevo León",2005,22,"All Ages",3,"Both",22.1091814091
+71,"mean_temperature",4662,"Oaxaca",2005,22,"All Ages",3,"Both",21.3542697479
+71,"mean_temperature",4663,"Puebla",2005,22,"All Ages",3,"Both",18.3759364982
+71,"mean_temperature",4664,"Querétaro",2005,22,"All Ages",3,"Both",17.7299383579
+71,"mean_temperature",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",26.1690735612
+71,"mean_temperature",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",19.8823298921
+71,"mean_temperature",4667,"Sinaloa",2005,22,"All Ages",3,"Both",23.6510722017
+71,"mean_temperature",4668,"Sonora",2005,22,"All Ages",3,"Both",23.4642696552
+71,"mean_temperature",4669,"Tabasco",2005,22,"All Ages",3,"Both",25.0576288099
+71,"mean_temperature",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",23.959419178
+71,"mean_temperature",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",15.6977359965
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",21.4030529095
+71,"mean_temperature",4673,"Yucatán",2005,22,"All Ages",3,"Both",26.2271570284
+71,"mean_temperature",4674,"Zacatecas",2005,22,"All Ages",3,"Both",17.3527970916
+71,"mean_temperature",130,"Mexico",2006,22,"All Ages",3,"Both",19.6738983361
+71,"mean_temperature",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",18.4518007692
+71,"mean_temperature",4644,"Baja California",2006,22,"All Ages",3,"Both",18.2903347784
+71,"mean_temperature",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",22.4850930891
+71,"mean_temperature",4646,"Campeche",2006,22,"All Ages",3,"Both",23.492577787
+71,"mean_temperature",4647,"Coahuila",2006,22,"All Ages",3,"Both",21.2849965663
+71,"mean_temperature",4648,"Colima",2006,22,"All Ages",3,"Both",24.0924836615
+71,"mean_temperature",4649,"Chiapas",2006,22,"All Ages",3,"Both",23.371894016
+71,"mean_temperature",4650,"Chihuahua",2006,22,"All Ages",3,"Both",18.3526177223
+71,"mean_temperature",4651,"Mexico City",2006,22,"All Ages",3,"Both",14.387716932
+71,"mean_temperature",4652,"Durango",2006,22,"All Ages",3,"Both",17.9929232678
+71,"mean_temperature",4653,"Guanajuato",2006,22,"All Ages",3,"Both",18.8020363309
+71,"mean_temperature",4654,"Guerrero",2006,22,"All Ages",3,"Both",24.3092819914
+71,"mean_temperature",4655,"Hidalgo",2006,22,"All Ages",3,"Both",17.4769540313
+71,"mean_temperature",4656,"Jalisco",2006,22,"All Ages",3,"Both",20.71621049
+71,"mean_temperature",4657,"México",2006,22,"All Ages",3,"Both",15.0724245223
+71,"mean_temperature",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",19.7156068962
+71,"mean_temperature",4659,"Morelos",2006,22,"All Ages",3,"Both",21.4792124878
+71,"mean_temperature",4660,"Nayarit",2006,22,"All Ages",3,"Both",22.5617748966
+71,"mean_temperature",4661,"Nuevo León",2006,22,"All Ages",3,"Both",22.4733230125
+71,"mean_temperature",4662,"Oaxaca",2006,22,"All Ages",3,"Both",21.2568870686
+71,"mean_temperature",4663,"Puebla",2006,22,"All Ages",3,"Both",18.3698202349
+71,"mean_temperature",4664,"Querétaro",2006,22,"All Ages",3,"Both",17.8439371096
+71,"mean_temperature",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",26.1431651701
+71,"mean_temperature",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",20.0337546496
+71,"mean_temperature",4667,"Sinaloa",2006,22,"All Ages",3,"Both",23.9358686658
+71,"mean_temperature",4668,"Sonora",2006,22,"All Ages",3,"Both",23.5718959976
+71,"mean_temperature",4669,"Tabasco",2006,22,"All Ages",3,"Both",24.9180760128
+71,"mean_temperature",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",24.223518451
+71,"mean_temperature",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",15.7371290524
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",21.3429192172
+71,"mean_temperature",4673,"Yucatán",2006,22,"All Ages",3,"Both",26.1865707148
+71,"mean_temperature",4674,"Zacatecas",2006,22,"All Ages",3,"Both",17.6119991236
+71,"mean_temperature",130,"Mexico",2007,22,"All Ages",3,"Both",19.4888421696
+71,"mean_temperature",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",18.1515668846
+71,"mean_temperature",4644,"Baja California",2007,22,"All Ages",3,"Both",18.2616263208
+71,"mean_temperature",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",22.0616352962
+71,"mean_temperature",4646,"Campeche",2007,22,"All Ages",3,"Both",23.4790787023
+71,"mean_temperature",4647,"Coahuila",2007,22,"All Ages",3,"Both",20.4497195274
+71,"mean_temperature",4648,"Colima",2007,22,"All Ages",3,"Both",23.9712172776
+71,"mean_temperature",4649,"Chiapas",2007,22,"All Ages",3,"Both",23.3618803008
+71,"mean_temperature",4650,"Chihuahua",2007,22,"All Ages",3,"Both",17.7003798724
+71,"mean_temperature",4651,"Mexico City",2007,22,"All Ages",3,"Both",14.3303044911
+71,"mean_temperature",4652,"Durango",2007,22,"All Ages",3,"Both",17.4541559753
+71,"mean_temperature",4653,"Guanajuato",2007,22,"All Ages",3,"Both",18.6317242754
+71,"mean_temperature",4654,"Guerrero",2007,22,"All Ages",3,"Both",24.2801332212
+71,"mean_temperature",4655,"Hidalgo",2007,22,"All Ages",3,"Both",17.3655666084
+71,"mean_temperature",4656,"Jalisco",2007,22,"All Ages",3,"Both",20.5672692556
+71,"mean_temperature",4657,"México",2007,22,"All Ages",3,"Both",15.0053065756
+71,"mean_temperature",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",19.5998381667
+71,"mean_temperature",4659,"Morelos",2007,22,"All Ages",3,"Both",21.4584256711
+71,"mean_temperature",4660,"Nayarit",2007,22,"All Ages",3,"Both",22.2573813212
+71,"mean_temperature",4661,"Nuevo León",2007,22,"All Ages",3,"Both",21.6391882604
+71,"mean_temperature",4662,"Oaxaca",2007,22,"All Ages",3,"Both",21.242314457
+71,"mean_temperature",4663,"Puebla",2007,22,"All Ages",3,"Both",18.3060705441
+71,"mean_temperature",4664,"Querétaro",2007,22,"All Ages",3,"Both",17.7713561319
+71,"mean_temperature",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",26.3282555038
+71,"mean_temperature",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",19.6905231142
+71,"mean_temperature",4667,"Sinaloa",2007,22,"All Ages",3,"Both",23.4541497829
+71,"mean_temperature",4668,"Sonora",2007,22,"All Ages",3,"Both",23.2794902968
+71,"mean_temperature",4669,"Tabasco",2007,22,"All Ages",3,"Both",24.928169236
+71,"mean_temperature",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",23.4853347142
+71,"mean_temperature",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",15.6794972143
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",21.273418906
+71,"mean_temperature",4673,"Yucatán",2007,22,"All Ages",3,"Both",26.2607425624
+71,"mean_temperature",4674,"Zacatecas",2007,22,"All Ages",3,"Both",17.224712602
+71,"mean_temperature",130,"Mexico",2008,22,"All Ages",3,"Both",19.3825485055
+71,"mean_temperature",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",18.0261003716
+71,"mean_temperature",4644,"Baja California",2008,22,"All Ages",3,"Both",18.1148933571
+71,"mean_temperature",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",21.9744949357
+71,"mean_temperature",4646,"Campeche",2008,22,"All Ages",3,"Both",23.4355113101
+71,"mean_temperature",4647,"Coahuila",2008,22,"All Ages",3,"Both",20.6623007207
+71,"mean_temperature",4648,"Colima",2008,22,"All Ages",3,"Both",23.6451295786
+71,"mean_temperature",4649,"Chiapas",2008,22,"All Ages",3,"Both",23.2985450875
+71,"mean_temperature",4650,"Chihuahua",2008,22,"All Ages",3,"Both",17.7984496799
+71,"mean_temperature",4651,"Mexico City",2008,22,"All Ages",3,"Both",14.1544695559
+71,"mean_temperature",4652,"Durango",2008,22,"All Ages",3,"Both",17.4282723283
+71,"mean_temperature",4653,"Guanajuato",2008,22,"All Ages",3,"Both",18.4366746355
+71,"mean_temperature",4654,"Guerrero",2008,22,"All Ages",3,"Both",24.03110364
+71,"mean_temperature",4655,"Hidalgo",2008,22,"All Ages",3,"Both",17.2110473561
+71,"mean_temperature",4656,"Jalisco",2008,22,"All Ages",3,"Both",20.3139297879
+71,"mean_temperature",4657,"México",2008,22,"All Ages",3,"Both",14.8371563225
+71,"mean_temperature",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",19.3365348399
+71,"mean_temperature",4659,"Morelos",2008,22,"All Ages",3,"Both",21.2567727324
+71,"mean_temperature",4660,"Nayarit",2008,22,"All Ages",3,"Both",22.0646313715
+71,"mean_temperature",4661,"Nuevo León",2008,22,"All Ages",3,"Both",21.913278792
+71,"mean_temperature",4662,"Oaxaca",2008,22,"All Ages",3,"Both",21.037873218
+71,"mean_temperature",4663,"Puebla",2008,22,"All Ages",3,"Both",18.1335719283
+71,"mean_temperature",4664,"Querétaro",2008,22,"All Ages",3,"Both",17.5504940266
+71,"mean_temperature",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",26.1831253459
+71,"mean_temperature",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",19.6433335758
+71,"mean_temperature",4667,"Sinaloa",2008,22,"All Ages",3,"Both",23.4296544358
+71,"mean_temperature",4668,"Sonora",2008,22,"All Ages",3,"Both",23.1946223338
+71,"mean_temperature",4669,"Tabasco",2008,22,"All Ages",3,"Both",24.8348084102
+71,"mean_temperature",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",23.6965445555
+71,"mean_temperature",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",15.5184179121
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",21.1340432757
+71,"mean_temperature",4673,"Yucatán",2008,22,"All Ages",3,"Both",26.1501074146
+71,"mean_temperature",4674,"Zacatecas",2008,22,"All Ages",3,"Both",17.1338800193
+71,"mean_temperature",130,"Mexico",2009,22,"All Ages",3,"Both",19.9245260234
+71,"mean_temperature",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",18.7398070637
+71,"mean_temperature",4644,"Baja California",2009,22,"All Ages",3,"Both",18.2245680023
+71,"mean_temperature",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",22.4935945465
+71,"mean_temperature",4646,"Campeche",2009,22,"All Ages",3,"Both",23.7348484975
+71,"mean_temperature",4647,"Coahuila",2009,22,"All Ages",3,"Both",21.1570671311
+71,"mean_temperature",4648,"Colima",2009,22,"All Ages",3,"Both",24.4774648508
+71,"mean_temperature",4649,"Chiapas",2009,22,"All Ages",3,"Both",23.6686549992
+71,"mean_temperature",4650,"Chihuahua",2009,22,"All Ages",3,"Both",18.217329587
+71,"mean_temperature",4651,"Mexico City",2009,22,"All Ages",3,"Both",14.7029556949
+71,"mean_temperature",4652,"Durango",2009,22,"All Ages",3,"Both",18.0413109558
+71,"mean_temperature",4653,"Guanajuato",2009,22,"All Ages",3,"Both",19.1606323786
+71,"mean_temperature",4654,"Guerrero",2009,22,"All Ages",3,"Both",24.6740659745
+71,"mean_temperature",4655,"Hidalgo",2009,22,"All Ages",3,"Both",17.7022280594
+71,"mean_temperature",4656,"Jalisco",2009,22,"All Ages",3,"Both",21.082954477
+71,"mean_temperature",4657,"México",2009,22,"All Ages",3,"Both",15.3867986313
+71,"mean_temperature",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",20.0609587943
+71,"mean_temperature",4659,"Morelos",2009,22,"All Ages",3,"Both",21.8473086419
+71,"mean_temperature",4660,"Nayarit",2009,22,"All Ages",3,"Both",22.7263267123
+71,"mean_temperature",4661,"Nuevo León",2009,22,"All Ages",3,"Both",22.3761102579
+71,"mean_temperature",4662,"Oaxaca",2009,22,"All Ages",3,"Both",21.5474501122
+71,"mean_temperature",4663,"Puebla",2009,22,"All Ages",3,"Both",18.669477614
+71,"mean_temperature",4664,"Querétaro",2009,22,"All Ages",3,"Both",18.208273608
+71,"mean_temperature",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",26.4149117337
+71,"mean_temperature",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",20.2391252559
+71,"mean_temperature",4667,"Sinaloa",2009,22,"All Ages",3,"Both",23.9621988415
+71,"mean_temperature",4668,"Sonora",2009,22,"All Ages",3,"Both",23.5526841289
+71,"mean_temperature",4669,"Tabasco",2009,22,"All Ages",3,"Both",25.2119331922
+71,"mean_temperature",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",24.1616598103
+71,"mean_temperature",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",16.0416352095
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",21.6130316031
+71,"mean_temperature",4673,"Yucatán",2009,22,"All Ages",3,"Both",26.3946238333
+71,"mean_temperature",4674,"Zacatecas",2009,22,"All Ages",3,"Both",17.8051374494
+71,"mean_temperature",130,"Mexico",2010,22,"All Ages",3,"Both",19.0945124984
+71,"mean_temperature",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",17.7046708217
+71,"mean_temperature",4644,"Baja California",2010,22,"All Ages",3,"Both",17.7906199214
+71,"mean_temperature",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",21.8168459396
+71,"mean_temperature",4646,"Campeche",2010,22,"All Ages",3,"Both",23.0670011126
+71,"mean_temperature",4647,"Coahuila",2010,22,"All Ages",3,"Both",20.1789523578
+71,"mean_temperature",4648,"Colima",2010,22,"All Ages",3,"Both",23.6093635384
+71,"mean_temperature",4649,"Chiapas",2010,22,"All Ages",3,"Both",23.0986838697
+71,"mean_temperature",4650,"Chihuahua",2010,22,"All Ages",3,"Both",17.7257832918
+71,"mean_temperature",4651,"Mexico City",2010,22,"All Ages",3,"Both",13.8343179047
+71,"mean_temperature",4652,"Durango",2010,22,"All Ages",3,"Both",17.0332172382
+71,"mean_temperature",4653,"Guanajuato",2010,22,"All Ages",3,"Both",18.0993339321
+71,"mean_temperature",4654,"Guerrero",2010,22,"All Ages",3,"Both",23.8598892684
+71,"mean_temperature",4655,"Hidalgo",2010,22,"All Ages",3,"Both",16.78683428
+71,"mean_temperature",4656,"Jalisco",2010,22,"All Ages",3,"Both",20.1938200177
+71,"mean_temperature",4657,"México",2010,22,"All Ages",3,"Both",14.5124584398
+71,"mean_temperature",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",19.1281406937
+71,"mean_temperature",4659,"Morelos",2010,22,"All Ages",3,"Both",20.9923084179
+71,"mean_temperature",4660,"Nayarit",2010,22,"All Ages",3,"Both",21.7312603031
+71,"mean_temperature",4661,"Nuevo León",2010,22,"All Ages",3,"Both",21.257383916
+71,"mean_temperature",4662,"Oaxaca",2010,22,"All Ages",3,"Both",20.8850356844
+71,"mean_temperature",4663,"Puebla",2010,22,"All Ages",3,"Both",17.8411564574
+71,"mean_temperature",4664,"Querétaro",2010,22,"All Ages",3,"Both",17.1997318104
+71,"mean_temperature",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",25.6222718679
+71,"mean_temperature",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",19.1447108643
+71,"mean_temperature",4667,"Sinaloa",2010,22,"All Ages",3,"Both",23.1578241455
+71,"mean_temperature",4668,"Sonora",2010,22,"All Ages",3,"Both",23.1204676396
+71,"mean_temperature",4669,"Tabasco",2010,22,"All Ages",3,"Both",24.6085133299
+71,"mean_temperature",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",23.1205837841
+71,"mean_temperature",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",15.1975964319
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",20.8721287025
+71,"mean_temperature",4673,"Yucatán",2010,22,"All Ages",3,"Both",25.6348901387
+71,"mean_temperature",4674,"Zacatecas",2010,22,"All Ages",3,"Both",16.725595518
+71,"mean_temperature",130,"Mexico",2011,22,"All Ages",3,"Both",19.8710313162
+71,"mean_temperature",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",18.5933190945
+71,"mean_temperature",4644,"Baja California",2011,22,"All Ages",3,"Both",17.5718507583
+71,"mean_temperature",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",22.2972201152
+71,"mean_temperature",4646,"Campeche",2011,22,"All Ages",3,"Both",23.7462587551
+71,"mean_temperature",4647,"Coahuila",2011,22,"All Ages",3,"Both",21.5605867336
+71,"mean_temperature",4648,"Colima",2011,22,"All Ages",3,"Both",24.2543763763
+71,"mean_temperature",4649,"Chiapas",2011,22,"All Ages",3,"Both",23.5824097975
+71,"mean_temperature",4650,"Chihuahua",2011,22,"All Ages",3,"Both",18.4277831473
+71,"mean_temperature",4651,"Mexico City",2011,22,"All Ages",3,"Both",14.5875696337
+71,"mean_temperature",4652,"Durango",2011,22,"All Ages",3,"Both",18.0616785631
+71,"mean_temperature",4653,"Guanajuato",2011,22,"All Ages",3,"Both",18.9462533086
+71,"mean_temperature",4654,"Guerrero",2011,22,"All Ages",3,"Both",24.5068355829
+71,"mean_temperature",4655,"Hidalgo",2011,22,"All Ages",3,"Both",17.5701884123
+71,"mean_temperature",4656,"Jalisco",2011,22,"All Ages",3,"Both",20.8969512289
+71,"mean_temperature",4657,"México",2011,22,"All Ages",3,"Both",15.2743348065
+71,"mean_temperature",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",19.83795138
+71,"mean_temperature",4659,"Morelos",2011,22,"All Ages",3,"Both",21.7152752455
+71,"mean_temperature",4660,"Nayarit",2011,22,"All Ages",3,"Both",22.3889898793
+71,"mean_temperature",4661,"Nuevo León",2011,22,"All Ages",3,"Both",22.7937592729
+71,"mean_temperature",4662,"Oaxaca",2011,22,"All Ages",3,"Both",21.4134449031
+71,"mean_temperature",4663,"Puebla",2011,22,"All Ages",3,"Both",18.5839029856
+71,"mean_temperature",4664,"Querétaro",2011,22,"All Ages",3,"Both",18.045001405
+71,"mean_temperature",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",26.4925750485
+71,"mean_temperature",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",20.2397679087
+71,"mean_temperature",4667,"Sinaloa",2011,22,"All Ages",3,"Both",23.9081941041
+71,"mean_temperature",4668,"Sonora",2011,22,"All Ages",3,"Both",23.3264898038
+71,"mean_temperature",4669,"Tabasco",2011,22,"All Ages",3,"Both",25.175350216
+71,"mean_temperature",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",24.413721384
+71,"mean_temperature",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",15.9529603862
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",21.6057220328
+71,"mean_temperature",4673,"Yucatán",2011,22,"All Ages",3,"Both",26.4571697419
+71,"mean_temperature",4674,"Zacatecas",2011,22,"All Ages",3,"Both",17.7623561282
+71,"mean_temperature",130,"Mexico",2012,22,"All Ages",3,"Both",19.8154612616
+71,"mean_temperature",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",18.4574905547
+71,"mean_temperature",4644,"Baja California",2012,22,"All Ages",3,"Both",18.5087662857
+71,"mean_temperature",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",22.5553168276
+71,"mean_temperature",4646,"Campeche",2012,22,"All Ages",3,"Both",23.7945215929
+71,"mean_temperature",4647,"Coahuila",2012,22,"All Ages",3,"Both",21.530668336
+71,"mean_temperature",4648,"Colima",2012,22,"All Ages",3,"Both",24.1333729988
+71,"mean_temperature",4649,"Chiapas",2012,22,"All Ages",3,"Both",23.5693855505
+71,"mean_temperature",4650,"Chihuahua",2012,22,"All Ages",3,"Both",18.8625623826
+71,"mean_temperature",4651,"Mexico City",2012,22,"All Ages",3,"Both",14.3553095511
+71,"mean_temperature",4652,"Durango",2012,22,"All Ages",3,"Both",18.0445756772
+71,"mean_temperature",4653,"Guanajuato",2012,22,"All Ages",3,"Both",18.7390865
+71,"mean_temperature",4654,"Guerrero",2012,22,"All Ages",3,"Both",24.3514384497
+71,"mean_temperature",4655,"Hidalgo",2012,22,"All Ages",3,"Both",17.3254633642
+71,"mean_temperature",4656,"Jalisco",2012,22,"All Ages",3,"Both",20.7640567665
+71,"mean_temperature",4657,"México",2012,22,"All Ages",3,"Both",15.0443335471
+71,"mean_temperature",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",19.6657727436
+71,"mean_temperature",4659,"Morelos",2012,22,"All Ages",3,"Both",21.491755342
+71,"mean_temperature",4660,"Nayarit",2012,22,"All Ages",3,"Both",22.3156443316
+71,"mean_temperature",4661,"Nuevo León",2012,22,"All Ages",3,"Both",22.7216442594
+71,"mean_temperature",4662,"Oaxaca",2012,22,"All Ages",3,"Both",21.4066834843
+71,"mean_temperature",4663,"Puebla",2012,22,"All Ages",3,"Both",18.4367173319
+71,"mean_temperature",4664,"Querétaro",2012,22,"All Ages",3,"Both",17.7996033075
+71,"mean_temperature",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",26.399176259
+71,"mean_temperature",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",19.9832698136
+71,"mean_temperature",4667,"Sinaloa",2012,22,"All Ages",3,"Both",24.0506601846
+71,"mean_temperature",4668,"Sonora",2012,22,"All Ages",3,"Both",23.8763906791
+71,"mean_temperature",4669,"Tabasco",2012,22,"All Ages",3,"Both",25.1975295947
+71,"mean_temperature",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",24.4033927246
+71,"mean_temperature",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",15.773551691
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",21.5478333218
+71,"mean_temperature",4673,"Yucatán",2012,22,"All Ages",3,"Both",26.476273961
+71,"mean_temperature",4674,"Zacatecas",2012,22,"All Ages",3,"Both",17.6396291236
+71,"mean_temperature",130,"Mexico",2013,22,"All Ages",3,"Both",19.5192308211
+71,"mean_temperature",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",18.1574677925
+71,"mean_temperature",4644,"Baja California",2013,22,"All Ages",3,"Both",18.3029436041
+71,"mean_temperature",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",22.1690010273
+71,"mean_temperature",4646,"Campeche",2013,22,"All Ages",3,"Both",23.5519644057
+71,"mean_temperature",4647,"Coahuila",2013,22,"All Ages",3,"Both",20.5861596346
+71,"mean_temperature",4648,"Colima",2013,22,"All Ages",3,"Both",24.0608320494
+71,"mean_temperature",4649,"Chiapas",2013,22,"All Ages",3,"Both",23.3745526851
+71,"mean_temperature",4650,"Chihuahua",2013,22,"All Ages",3,"Both",17.8786178343
+71,"mean_temperature",4651,"Mexico City",2013,22,"All Ages",3,"Both",14.2314833671
+71,"mean_temperature",4652,"Durango",2013,22,"All Ages",3,"Both",17.3792326461
+71,"mean_temperature",4653,"Guanajuato",2013,22,"All Ages",3,"Both",18.5671471448
+71,"mean_temperature",4654,"Guerrero",2013,22,"All Ages",3,"Both",24.2406279198
+71,"mean_temperature",4655,"Hidalgo",2013,22,"All Ages",3,"Both",17.0838663875
+71,"mean_temperature",4656,"Jalisco",2013,22,"All Ages",3,"Both",20.6307135036
+71,"mean_temperature",4657,"México",2013,22,"All Ages",3,"Both",14.9174446029
+71,"mean_temperature",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",19.5812616412
+71,"mean_temperature",4659,"Morelos",2013,22,"All Ages",3,"Both",21.3712365007
+71,"mean_temperature",4660,"Nayarit",2013,22,"All Ages",3,"Both",22.0308736093
+71,"mean_temperature",4661,"Nuevo León",2013,22,"All Ages",3,"Both",21.7330396068
+71,"mean_temperature",4662,"Oaxaca",2013,22,"All Ages",3,"Both",21.2422270568
+71,"mean_temperature",4663,"Puebla",2013,22,"All Ages",3,"Both",18.2036161653
+71,"mean_temperature",4664,"Querétaro",2013,22,"All Ages",3,"Both",17.6460575263
+71,"mean_temperature",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",26.4080715907
+71,"mean_temperature",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",19.5406363129
+71,"mean_temperature",4667,"Sinaloa",2013,22,"All Ages",3,"Both",23.5160995093
+71,"mean_temperature",4668,"Sonora",2013,22,"All Ages",3,"Both",23.2975817837
+71,"mean_temperature",4669,"Tabasco",2013,22,"All Ages",3,"Both",25.0054327493
+71,"mean_temperature",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",23.5326255718
+71,"mean_temperature",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",15.574097492
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",21.2508738646
+71,"mean_temperature",4673,"Yucatán",2013,22,"All Ages",3,"Both",26.2761997891
+71,"mean_temperature",4674,"Zacatecas",2013,22,"All Ages",3,"Both",17.1456019651
+71,"mean_temperature",130,"Mexico",2014,22,"All Ages",3,"Both",19.5224846313
+71,"mean_temperature",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",18.2111305348
+71,"mean_temperature",4644,"Baja California",2014,22,"All Ages",3,"Both",19.6188499404
+71,"mean_temperature",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",22.8410490073
+71,"mean_temperature",4646,"Campeche",2014,22,"All Ages",3,"Both",23.376138327
+71,"mean_temperature",4647,"Coahuila",2014,22,"All Ages",3,"Both",20.5652235297
+71,"mean_temperature",4648,"Colima",2014,22,"All Ages",3,"Both",24.2470440501
+71,"mean_temperature",4649,"Chiapas",2014,22,"All Ages",3,"Both",23.3257844291
+71,"mean_temperature",4650,"Chihuahua",2014,22,"All Ages",3,"Both",18.3303553137
+71,"mean_temperature",4651,"Mexico City",2014,22,"All Ages",3,"Both",14.0849098919
+71,"mean_temperature",4652,"Durango",2014,22,"All Ages",3,"Both",17.6343034529
+71,"mean_temperature",4653,"Guanajuato",2014,22,"All Ages",3,"Both",18.4653366967
+71,"mean_temperature",4654,"Guerrero",2014,22,"All Ages",3,"Both",24.1712637653
+71,"mean_temperature",4655,"Hidalgo",2014,22,"All Ages",3,"Both",16.869014738
+71,"mean_temperature",4656,"Jalisco",2014,22,"All Ages",3,"Both",20.7908747321
+71,"mean_temperature",4657,"México",2014,22,"All Ages",3,"Both",14.7621651945
+71,"mean_temperature",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",19.5507029107
+71,"mean_temperature",4659,"Morelos",2014,22,"All Ages",3,"Both",21.2446325753
+71,"mean_temperature",4660,"Nayarit",2014,22,"All Ages",3,"Both",22.2318593202
+71,"mean_temperature",4661,"Nuevo León",2014,22,"All Ages",3,"Both",21.524655342
+71,"mean_temperature",4662,"Oaxaca",2014,22,"All Ages",3,"Both",21.1497980262
+71,"mean_temperature",4663,"Puebla",2014,22,"All Ages",3,"Both",18.0645715438
+71,"mean_temperature",4664,"Querétaro",2014,22,"All Ages",3,"Both",17.4833058492
+71,"mean_temperature",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",26.1226085619
+71,"mean_temperature",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",19.2997230614
+71,"mean_temperature",4667,"Sinaloa",2014,22,"All Ages",3,"Both",24.0497459555
+71,"mean_temperature",4668,"Sonora",2014,22,"All Ages",3,"Both",24.1835075389
+71,"mean_temperature",4669,"Tabasco",2014,22,"All Ages",3,"Both",24.8605560349
+71,"mean_temperature",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",23.2095180252
+71,"mean_temperature",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",15.4083625882
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",21.0732258243
+71,"mean_temperature",4673,"Yucatán",2014,22,"All Ages",3,"Both",26.0619621096
+71,"mean_temperature",4674,"Zacatecas",2014,22,"All Ages",3,"Both",17.1618469585
+71,"mean_temperature",130,"Mexico",2015,22,"All Ages",3,"Both",19.8590431193
+71,"mean_temperature",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",18.4465981168
+71,"mean_temperature",4644,"Baja California",2015,22,"All Ages",3,"Both",19.2345654335
+71,"mean_temperature",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",22.8251054471
+71,"mean_temperature",4646,"Campeche",2015,22,"All Ages",3,"Both",23.9191208967
+71,"mean_temperature",4647,"Coahuila",2015,22,"All Ages",3,"Both",20.6795782839
+71,"mean_temperature",4648,"Colima",2015,22,"All Ages",3,"Both",24.5363684714
+71,"mean_temperature",4649,"Chiapas",2015,22,"All Ages",3,"Both",23.7818223138
+71,"mean_temperature",4650,"Chihuahua",2015,22,"All Ages",3,"Both",18.3203753778
+71,"mean_temperature",4651,"Mexico City",2015,22,"All Ages",3,"Both",14.5285346702
+71,"mean_temperature",4652,"Durango",2015,22,"All Ages",3,"Both",17.6922236041
+71,"mean_temperature",4653,"Guanajuato",2015,22,"All Ages",3,"Both",18.8466765186
+71,"mean_temperature",4654,"Guerrero",2015,22,"All Ages",3,"Both",24.5223051108
+71,"mean_temperature",4655,"Hidalgo",2015,22,"All Ages",3,"Both",17.3008870888
+71,"mean_temperature",4656,"Jalisco",2015,22,"All Ages",3,"Both",21.0477554098
+71,"mean_temperature",4657,"México",2015,22,"All Ages",3,"Both",15.2143395895
+71,"mean_temperature",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",19.9247028614
+71,"mean_temperature",4659,"Morelos",2015,22,"All Ages",3,"Both",21.6727830753
+71,"mean_temperature",4660,"Nayarit",2015,22,"All Ages",3,"Both",22.304748497
+71,"mean_temperature",4661,"Nuevo León",2015,22,"All Ages",3,"Both",21.7845418594
+71,"mean_temperature",4662,"Oaxaca",2015,22,"All Ages",3,"Both",21.5380763482
+71,"mean_temperature",4663,"Puebla",2015,22,"All Ages",3,"Both",18.4618454104
+71,"mean_temperature",4664,"Querétaro",2015,22,"All Ages",3,"Both",17.9039864455
+71,"mean_temperature",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",26.7832054824
+71,"mean_temperature",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",19.6326244279
+71,"mean_temperature",4667,"Sinaloa",2015,22,"All Ages",3,"Both",24.0780824877
+71,"mean_temperature",4668,"Sonora",2015,22,"All Ages",3,"Both",24.0285076605
+71,"mean_temperature",4669,"Tabasco",2015,22,"All Ages",3,"Both",25.3679719885
+71,"mean_temperature",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",23.5803863839
+71,"mean_temperature",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",15.854559965
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",21.4910451019
+71,"mean_temperature",4673,"Yucatán",2015,22,"All Ages",3,"Both",26.6756861495
+71,"mean_temperature",4674,"Zacatecas",2015,22,"All Ages",3,"Both",17.3836471426
+71,"mean_temperature",130,"Mexico",2016,22,"All Ages",3,"Both",20.0474843083
+71,"mean_temperature",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",18.5914048972
+71,"mean_temperature",4644,"Baja California",2016,22,"All Ages",3,"Both",19.0054194565
+71,"mean_temperature",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",22.822487611
+71,"mean_temperature",4646,"Campeche",2016,22,"All Ages",3,"Both",24.0310915408
+71,"mean_temperature",4647,"Coahuila",2016,22,"All Ages",3,"Both",21.1900208461
+71,"mean_temperature",4648,"Colima",2016,22,"All Ages",3,"Both",24.5003284857
+71,"mean_temperature",4649,"Chiapas",2016,22,"All Ages",3,"Both",23.9156034707
+71,"mean_temperature",4650,"Chihuahua",2016,22,"All Ages",3,"Both",18.6679843618
+71,"mean_temperature",4651,"Mexico City",2016,22,"All Ages",3,"Both",14.6854410223
+71,"mean_temperature",4652,"Durango",2016,22,"All Ages",3,"Both",18.011323028
+71,"mean_temperature",4653,"Guanajuato",2016,22,"All Ages",3,"Both",18.9716354312
+71,"mean_temperature",4654,"Guerrero",2016,22,"All Ages",3,"Both",24.5984571407
+71,"mean_temperature",4655,"Hidalgo",2016,22,"All Ages",3,"Both",17.497712858
+71,"mean_temperature",4656,"Jalisco",2016,22,"All Ages",3,"Both",21.0550378563
+71,"mean_temperature",4657,"México",2016,22,"All Ages",3,"Both",15.3770494246
+71,"mean_temperature",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",19.9646336001
+71,"mean_temperature",4659,"Morelos",2016,22,"All Ages",3,"Both",21.8115709232
+71,"mean_temperature",4660,"Nayarit",2016,22,"All Ages",3,"Both",22.3087639155
+71,"mean_temperature",4661,"Nuevo León",2016,22,"All Ages",3,"Both",22.3787015749
+71,"mean_temperature",4662,"Oaxaca",2016,22,"All Ages",3,"Both",21.6792773939
+71,"mean_temperature",4663,"Puebla",2016,22,"All Ages",3,"Both",18.6413741508
+71,"mean_temperature",4664,"Querétaro",2016,22,"All Ages",3,"Both",18.0433129632
+71,"mean_temperature",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",26.6859696912
+71,"mean_temperature",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",19.9879069398
+71,"mean_temperature",4667,"Sinaloa",2016,22,"All Ages",3,"Both",24.1871674552
+71,"mean_temperature",4668,"Sonora",2016,22,"All Ages",3,"Both",24.0720052888
+71,"mean_temperature",4669,"Tabasco",2016,22,"All Ages",3,"Both",25.5137880754
+71,"mean_temperature",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",24.2151920486
+71,"mean_temperature",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",16.0450374659
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",21.6947659938
+71,"mean_temperature",4673,"Yucatán",2016,22,"All Ages",3,"Both",26.7056926517
+71,"mean_temperature",4674,"Zacatecas",2016,22,"All Ages",3,"Both",17.6664183455
+71,"mean_temperature",130,"Mexico",2017,22,"All Ages",3,"Both",20.2413122157
+71,"mean_temperature",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",18.97983093
+71,"mean_temperature",4644,"Baja California",2017,22,"All Ages",3,"Both",19.1597177469
+71,"mean_temperature",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",22.9279194721
+71,"mean_temperature",4646,"Campeche",2017,22,"All Ages",3,"Both",23.8630325878
+71,"mean_temperature",4647,"Coahuila",2017,22,"All Ages",3,"Both",21.6735098263
+71,"mean_temperature",4648,"Colima",2017,22,"All Ages",3,"Both",24.5716341549
+71,"mean_temperature",4649,"Chiapas",2017,22,"All Ages",3,"Both",23.6931844455
+71,"mean_temperature",4650,"Chihuahua",2017,22,"All Ages",3,"Both",18.9668251901
+71,"mean_temperature",4651,"Mexico City",2017,22,"All Ages",3,"Both",14.809431665
+71,"mean_temperature",4652,"Durango",2017,22,"All Ages",3,"Both",18.4517894054
+71,"mean_temperature",4653,"Guanajuato",2017,22,"All Ages",3,"Both",19.345564377
+71,"mean_temperature",4654,"Guerrero",2017,22,"All Ages",3,"Both",24.6910702198
+71,"mean_temperature",4655,"Hidalgo",2017,22,"All Ages",3,"Both",17.6525106755
+71,"mean_temperature",4656,"Jalisco",2017,22,"All Ages",3,"Both",21.2551875665
+71,"mean_temperature",4657,"México",2017,22,"All Ages",3,"Both",15.514012312
+71,"mean_temperature",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",20.1256745001
+71,"mean_temperature",4659,"Morelos",2017,22,"All Ages",3,"Both",21.9228439854
+71,"mean_temperature",4660,"Nayarit",2017,22,"All Ages",3,"Both",22.5098302485
+71,"mean_temperature",4661,"Nuevo León",2017,22,"All Ages",3,"Both",22.9204379231
+71,"mean_temperature",4662,"Oaxaca",2017,22,"All Ages",3,"Both",21.6177388262
+71,"mean_temperature",4663,"Puebla",2017,22,"All Ages",3,"Both",18.7686733621
+71,"mean_temperature",4664,"Querétaro",2017,22,"All Ages",3,"Both",18.3356558063
+71,"mean_temperature",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",26.5764782232
+71,"mean_temperature",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",20.4862054269
+71,"mean_temperature",4667,"Sinaloa",2017,22,"All Ages",3,"Both",24.4575942944
+71,"mean_temperature",4668,"Sonora",2017,22,"All Ages",3,"Both",24.3196936166
+71,"mean_temperature",4669,"Tabasco",2017,22,"All Ages",3,"Both",25.3521388955
+71,"mean_temperature",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",24.6891013181
+71,"mean_temperature",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",16.1768989983
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",21.7461200398
+71,"mean_temperature",4673,"Yucatán",2017,22,"All Ages",3,"Both",26.5344144884
+71,"mean_temperature",4674,"Zacatecas",2017,22,"All Ages",3,"Both",18.1130186846
+71,"mean_temperature",130,"Mexico",2018,22,"All Ages",3,"Both",20.2591535104
+71,"mean_temperature",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",18.9797508887
+71,"mean_temperature",4644,"Baja California",2018,22,"All Ages",3,"Both",19.154968331
+71,"mean_temperature",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",22.9265854786
+71,"mean_temperature",4646,"Campeche",2018,22,"All Ages",3,"Both",23.8668335065
+71,"mean_temperature",4647,"Coahuila",2018,22,"All Ages",3,"Both",21.6690969533
+71,"mean_temperature",4648,"Colima",2018,22,"All Ages",3,"Both",24.5690558584
+71,"mean_temperature",4649,"Chiapas",2018,22,"All Ages",3,"Both",23.6900265913
+71,"mean_temperature",4650,"Chihuahua",2018,22,"All Ages",3,"Both",18.9657410154
+71,"mean_temperature",4651,"Mexico City",2018,22,"All Ages",3,"Both",14.8091063562
+71,"mean_temperature",4652,"Durango",2018,22,"All Ages",3,"Both",18.4481747449
+71,"mean_temperature",4653,"Guanajuato",2018,22,"All Ages",3,"Both",19.345790192
+71,"mean_temperature",4654,"Guerrero",2018,22,"All Ages",3,"Both",24.684426674
+71,"mean_temperature",4655,"Hidalgo",2018,22,"All Ages",3,"Both",17.6190707509
+71,"mean_temperature",4656,"Jalisco",2018,22,"All Ages",3,"Both",21.2547796893
+71,"mean_temperature",4657,"México",2018,22,"All Ages",3,"Both",15.5149750114
+71,"mean_temperature",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",20.1183852698
+71,"mean_temperature",4659,"Morelos",2018,22,"All Ages",3,"Both",21.9230421643
+71,"mean_temperature",4660,"Nayarit",2018,22,"All Ages",3,"Both",22.4436544368
+71,"mean_temperature",4661,"Nuevo León",2018,22,"All Ages",3,"Both",22.9527881093
+71,"mean_temperature",4662,"Oaxaca",2018,22,"All Ages",3,"Both",21.6110392041
+71,"mean_temperature",4663,"Puebla",2018,22,"All Ages",3,"Both",18.763067885
+71,"mean_temperature",4664,"Querétaro",2018,22,"All Ages",3,"Both",18.3323496271
+71,"mean_temperature",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",26.5735910972
+71,"mean_temperature",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",20.4772332943
+71,"mean_temperature",4667,"Sinaloa",2018,22,"All Ages",3,"Both",24.463365856
+71,"mean_temperature",4668,"Sonora",2018,22,"All Ages",3,"Both",24.3165017938
+71,"mean_temperature",4669,"Tabasco",2018,22,"All Ages",3,"Both",25.3617866539
+71,"mean_temperature",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",24.6896326131
+71,"mean_temperature",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",16.1768353714
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",21.7402622242
+71,"mean_temperature",4673,"Yucatán",2018,22,"All Ages",3,"Both",26.5352352589
+71,"mean_temperature",4674,"Zacatecas",2018,22,"All Ages",3,"Both",18.1116044986
+71,"mean_temperature",130,"Mexico",2019,22,"All Ages",3,"Both",20.2827425567
+71,"mean_temperature",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",18.979668286
+71,"mean_temperature",4644,"Baja California",2019,22,"All Ages",3,"Both",19.150201099
+71,"mean_temperature",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",22.9252055255
+71,"mean_temperature",4646,"Campeche",2019,22,"All Ages",3,"Both",23.8706686773
+71,"mean_temperature",4647,"Coahuila",2019,22,"All Ages",3,"Both",21.6646275474
+71,"mean_temperature",4648,"Colima",2019,22,"All Ages",3,"Both",24.5664763443
+71,"mean_temperature",4649,"Chiapas",2019,22,"All Ages",3,"Both",23.6868602126
+71,"mean_temperature",4650,"Chihuahua",2019,22,"All Ages",3,"Both",18.9646956041
+71,"mean_temperature",4651,"Mexico City",2019,22,"All Ages",3,"Both",14.8087848826
+71,"mean_temperature",4652,"Durango",2019,22,"All Ages",3,"Both",18.4445848172
+71,"mean_temperature",4653,"Guanajuato",2019,22,"All Ages",3,"Both",19.346012695
+71,"mean_temperature",4654,"Guerrero",2019,22,"All Ages",3,"Both",24.6776858012
+71,"mean_temperature",4655,"Hidalgo",2019,22,"All Ages",3,"Both",17.584379954
+71,"mean_temperature",4656,"Jalisco",2019,22,"All Ages",3,"Both",21.2542222265
+71,"mean_temperature",4657,"México",2019,22,"All Ages",3,"Both",15.5159924443
+71,"mean_temperature",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",20.1108787615
+71,"mean_temperature",4659,"Morelos",2019,22,"All Ages",3,"Both",21.9231837799
+71,"mean_temperature",4660,"Nayarit",2019,22,"All Ages",3,"Both",22.3745643216
+71,"mean_temperature",4661,"Nuevo León",2019,22,"All Ages",3,"Both",22.9945168754
+71,"mean_temperature",4662,"Oaxaca",2019,22,"All Ages",3,"Both",21.6039849261
+71,"mean_temperature",4663,"Puebla",2019,22,"All Ages",3,"Both",18.7574223506
+71,"mean_temperature",4664,"Querétaro",2019,22,"All Ages",3,"Both",18.3290569034
+71,"mean_temperature",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",26.5706483309
+71,"mean_temperature",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",20.468217139
+71,"mean_temperature",4667,"Sinaloa",2019,22,"All Ages",3,"Both",24.4689765048
+71,"mean_temperature",4668,"Sonora",2019,22,"All Ages",3,"Both",24.3132635236
+71,"mean_temperature",4669,"Tabasco",2019,22,"All Ages",3,"Both",25.3716066266
+71,"mean_temperature",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",24.6902740258
+71,"mean_temperature",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",16.1767707245
+71,"mean_temperature",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",21.733801007
+71,"mean_temperature",4673,"Yucatán",2019,22,"All Ages",3,"Both",26.5361966484
+71,"mean_temperature",4674,"Zacatecas",2019,22,"All Ages",3,"Both",18.110179444

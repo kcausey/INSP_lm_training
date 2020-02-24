@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+1098,"maternal_preg_alc_consump",130,"Mexico",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1990,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1990,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1991,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1991,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1992,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1992,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1993,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1993,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1994,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1994,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1995,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1995,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1996,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1996,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1997,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1997,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1998,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1998,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1999,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",1999,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2000,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2000,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2001,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2001,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2002,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2002,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2003,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2003,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2004,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2004,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2005,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2005,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2006,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2006,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2007,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2007,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2008,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2008,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2009,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2009,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2010,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2010,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2011,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2011,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2012,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2012,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2013,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2013,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2014,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2014,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2015,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2015,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2016,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2016,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2017,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2017,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2018,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2018,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",130,"Mexico",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4643,"Aguascalientes",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4644,"Baja California",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4645,"Baja California Sur",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4646,"Campeche",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4647,"Coahuila",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4648,"Colima",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4649,"Chiapas",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4650,"Chihuahua",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4651,"Mexico City",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4652,"Durango",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4653,"Guanajuato",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4654,"Guerrero",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4655,"Hidalgo",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4656,"Jalisco",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4657,"México",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4658,"Michoacán de Ocampo",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4659,"Morelos",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4660,"Nayarit",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4661,"Nuevo León",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4662,"Oaxaca",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4663,"Puebla",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4664,"Querétaro",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4665,"Quintana Roo",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4666,"San Luis Potosí",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4667,"Sinaloa",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4668,"Sonora",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4669,"Tabasco",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4670,"Tamaulipas",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4671,"Tlaxcala",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4673,"Yucatán",2019,22,"All Ages",2,"Female",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2019,22,"All Ages",1,"Male",0.012
+1098,"maternal_preg_alc_consump",4674,"Zacatecas",2019,22,"All Ages",2,"Female",0.012

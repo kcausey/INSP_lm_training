@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+68,"mean_BMI",130,"Mexico",1990,22,"All Ages",1,"Male",24.439715102263
+68,"mean_BMI",130,"Mexico",1990,22,"All Ages",2,"Female",25.1821931348814
+68,"mean_BMI",4643,"Aguascalientes",1990,22,"All Ages",1,"Male",26.0594890381397
+68,"mean_BMI",4643,"Aguascalientes",1990,22,"All Ages",2,"Female",26.8800550108159
+68,"mean_BMI",4644,"Baja California",1990,22,"All Ages",1,"Male",26.90798498145
+68,"mean_BMI",4644,"Baja California",1990,22,"All Ages",2,"Female",27.5015285289484
+68,"mean_BMI",4645,"Baja California Sur",1990,22,"All Ages",1,"Male",26.9380468246419
+68,"mean_BMI",4645,"Baja California Sur",1990,22,"All Ages",2,"Female",27.1112018015543
+68,"mean_BMI",4646,"Campeche",1990,22,"All Ages",1,"Male",26.5585851879392
+68,"mean_BMI",4646,"Campeche",1990,22,"All Ages",2,"Female",27.0982192326139
+68,"mean_BMI",4647,"Coahuila",1990,22,"All Ages",1,"Male",26.1691985810195
+68,"mean_BMI",4647,"Coahuila",1990,22,"All Ages",2,"Female",26.9762069224318
+68,"mean_BMI",4648,"Colima",1990,22,"All Ages",1,"Male",26.5087220841842
+68,"mean_BMI",4648,"Colima",1990,22,"All Ages",2,"Female",26.7153506424595
+68,"mean_BMI",4649,"Chiapas",1990,22,"All Ages",1,"Male",24.5699824879755
+68,"mean_BMI",4649,"Chiapas",1990,22,"All Ages",2,"Female",24.9001611384686
+68,"mean_BMI",4650,"Chihuahua",1990,22,"All Ages",1,"Male",26.2811210380103
+68,"mean_BMI",4650,"Chihuahua",1990,22,"All Ages",2,"Female",26.8580231618224
+68,"mean_BMI",4651,"Mexico City",1990,22,"All Ages",1,"Male",26.1098860526228
+68,"mean_BMI",4651,"Mexico City",1990,22,"All Ages",2,"Female",26.4283180210118
+68,"mean_BMI",4652,"Durango",1990,22,"All Ages",1,"Male",25.7532381065941
+68,"mean_BMI",4652,"Durango",1990,22,"All Ages",2,"Female",26.5952468945657
+68,"mean_BMI",4653,"Guanajuato",1990,22,"All Ages",1,"Male",25.4081721381409
+68,"mean_BMI",4653,"Guanajuato",1990,22,"All Ages",2,"Female",26.1667346492885
+68,"mean_BMI",4654,"Guerrero",1990,22,"All Ages",1,"Male",25.2913323888797
+68,"mean_BMI",4654,"Guerrero",1990,22,"All Ages",2,"Female",25.6317663750257
+68,"mean_BMI",4655,"Hidalgo",1990,22,"All Ages",1,"Male",25.2196852139078
+68,"mean_BMI",4655,"Hidalgo",1990,22,"All Ages",2,"Female",25.8566763011959
+68,"mean_BMI",4656,"Jalisco",1990,22,"All Ages",1,"Male",25.9926170845631
+68,"mean_BMI",4656,"Jalisco",1990,22,"All Ages",2,"Female",26.5383558098195
+68,"mean_BMI",4657,"México",1990,22,"All Ages",1,"Male",26.2320630500276
+68,"mean_BMI",4657,"México",1990,22,"All Ages",2,"Female",26.5938251516339
+68,"mean_BMI",4658,"Michoacán de Ocampo",1990,22,"All Ages",1,"Male",25.5372845031874
+68,"mean_BMI",4658,"Michoacán de Ocampo",1990,22,"All Ages",2,"Female",26.0008543232796
+68,"mean_BMI",4659,"Morelos",1990,22,"All Ages",1,"Male",25.9068743481702
+68,"mean_BMI",4659,"Morelos",1990,22,"All Ages",2,"Female",26.3155632820897
+68,"mean_BMI",4660,"Nayarit",1990,22,"All Ages",1,"Male",25.9670134387169
+68,"mean_BMI",4660,"Nayarit",1990,22,"All Ages",2,"Female",26.5576592426798
+68,"mean_BMI",4661,"Nuevo León",1990,22,"All Ages",1,"Male",26.7064341506483
+68,"mean_BMI",4661,"Nuevo León",1990,22,"All Ages",2,"Female",26.9570934564937
+68,"mean_BMI",4662,"Oaxaca",1990,22,"All Ages",1,"Male",24.4811905235585
+68,"mean_BMI",4662,"Oaxaca",1990,22,"All Ages",2,"Female",25.1191285047029
+68,"mean_BMI",4663,"Puebla",1990,22,"All Ages",1,"Male",25.4233739879814
+68,"mean_BMI",4663,"Puebla",1990,22,"All Ages",2,"Female",25.8724583909659
+68,"mean_BMI",4664,"Querétaro",1990,22,"All Ages",1,"Male",25.8790578357888
+68,"mean_BMI",4664,"Querétaro",1990,22,"All Ages",2,"Female",26.3526544971108
+68,"mean_BMI",4665,"Quintana Roo",1990,22,"All Ages",1,"Male",26.2445641092308
+68,"mean_BMI",4665,"Quintana Roo",1990,22,"All Ages",2,"Female",26.5885935824833
+68,"mean_BMI",4666,"San Luis Potosí",1990,22,"All Ages",1,"Male",25.1569255680833
+68,"mean_BMI",4666,"San Luis Potosí",1990,22,"All Ages",2,"Female",25.6824215875591
+68,"mean_BMI",4667,"Sinaloa",1990,22,"All Ages",1,"Male",26.1047412860843
+68,"mean_BMI",4667,"Sinaloa",1990,22,"All Ages",2,"Female",26.4972474402315
+68,"mean_BMI",4668,"Sonora",1990,22,"All Ages",1,"Male",26.2281645186111
+68,"mean_BMI",4668,"Sonora",1990,22,"All Ages",2,"Female",26.8443705334471
+68,"mean_BMI",4669,"Tabasco",1990,22,"All Ages",1,"Male",26.1171943530438
+68,"mean_BMI",4669,"Tabasco",1990,22,"All Ages",2,"Female",26.3554113826538
+68,"mean_BMI",4670,"Tamaulipas",1990,22,"All Ages",1,"Male",26.7870754972524
+68,"mean_BMI",4670,"Tamaulipas",1990,22,"All Ages",2,"Female",27.0735502691935
+68,"mean_BMI",4671,"Tlaxcala",1990,22,"All Ages",1,"Male",25.8718643722916
+68,"mean_BMI",4671,"Tlaxcala",1990,22,"All Ages",2,"Female",26.0941419188323
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",1,"Male",25.110776366446
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",2,"Female",25.7231314241158
+68,"mean_BMI",4673,"Yucatán",1990,22,"All Ages",1,"Male",26.4343524754168
+68,"mean_BMI",4673,"Yucatán",1990,22,"All Ages",2,"Female",27.0343572324735
+68,"mean_BMI",4674,"Zacatecas",1990,22,"All Ages",1,"Male",25.4776238050507
+68,"mean_BMI",4674,"Zacatecas",1990,22,"All Ages",2,"Female",26.290258089462
+68,"mean_BMI",130,"Mexico",1991,22,"All Ages",1,"Male",24.4868876020877
+68,"mean_BMI",130,"Mexico",1991,22,"All Ages",2,"Female",25.2386483716458
+68,"mean_BMI",4643,"Aguascalientes",1991,22,"All Ages",1,"Male",26.1307401952222
+68,"mean_BMI",4643,"Aguascalientes",1991,22,"All Ages",2,"Female",27.0669899700425
+68,"mean_BMI",4644,"Baja California",1991,22,"All Ages",1,"Male",26.9634742154409
+68,"mean_BMI",4644,"Baja California",1991,22,"All Ages",2,"Female",27.7067948083546
+68,"mean_BMI",4645,"Baja California Sur",1991,22,"All Ages",1,"Male",27.0351023180082
+68,"mean_BMI",4645,"Baja California Sur",1991,22,"All Ages",2,"Female",27.3278333886831
+68,"mean_BMI",4646,"Campeche",1991,22,"All Ages",1,"Male",26.6496643640986
+68,"mean_BMI",4646,"Campeche",1991,22,"All Ages",2,"Female",27.3269869358623
+68,"mean_BMI",4647,"Coahuila",1991,22,"All Ages",1,"Male",26.283310574591
+68,"mean_BMI",4647,"Coahuila",1991,22,"All Ages",2,"Female",27.2377581603257
+68,"mean_BMI",4648,"Colima",1991,22,"All Ages",1,"Male",26.6149074316275
+68,"mean_BMI",4648,"Colima",1991,22,"All Ages",2,"Female",26.9414730136161
+68,"mean_BMI",4649,"Chiapas",1991,22,"All Ages",1,"Male",24.6570915195232
+68,"mean_BMI",4649,"Chiapas",1991,22,"All Ages",2,"Female",25.0607781517492
+68,"mean_BMI",4650,"Chihuahua",1991,22,"All Ages",1,"Male",26.3640036837657
+68,"mean_BMI",4650,"Chihuahua",1991,22,"All Ages",2,"Female",27.0506869289482
+68,"mean_BMI",4651,"Mexico City",1991,22,"All Ages",1,"Male",26.1977825823126
+68,"mean_BMI",4651,"Mexico City",1991,22,"All Ages",2,"Female",26.6065902554647
+68,"mean_BMI",4652,"Durango",1991,22,"All Ages",1,"Male",25.8276043454537
+68,"mean_BMI",4652,"Durango",1991,22,"All Ages",2,"Female",26.7951831728558
+68,"mean_BMI",4653,"Guanajuato",1991,22,"All Ages",1,"Male",25.5233505593893
+68,"mean_BMI",4653,"Guanajuato",1991,22,"All Ages",2,"Female",26.3831290622402
+68,"mean_BMI",4654,"Guerrero",1991,22,"All Ages",1,"Male",25.3258962754084
+68,"mean_BMI",4654,"Guerrero",1991,22,"All Ages",2,"Female",25.7826923453137
+68,"mean_BMI",4655,"Hidalgo",1991,22,"All Ages",1,"Male",25.2916418154535
+68,"mean_BMI",4655,"Hidalgo",1991,22,"All Ages",2,"Female",26.0289229805165
+68,"mean_BMI",4656,"Jalisco",1991,22,"All Ages",1,"Male",26.0887717017302
+68,"mean_BMI",4656,"Jalisco",1991,22,"All Ages",2,"Female",26.7329781592807
+68,"mean_BMI",4657,"México",1991,22,"All Ages",1,"Male",26.2533710189366
+68,"mean_BMI",4657,"México",1991,22,"All Ages",2,"Female",26.7121461085029
+68,"mean_BMI",4658,"Michoacán de Ocampo",1991,22,"All Ages",1,"Male",25.6216257454568
+68,"mean_BMI",4658,"Michoacán de Ocampo",1991,22,"All Ages",2,"Female",26.1645147502594
+68,"mean_BMI",4659,"Morelos",1991,22,"All Ages",1,"Male",26.006772911181
+68,"mean_BMI",4659,"Morelos",1991,22,"All Ages",2,"Female",26.5104380397574
+68,"mean_BMI",4660,"Nayarit",1991,22,"All Ages",1,"Male",26.0594675169028
+68,"mean_BMI",4660,"Nayarit",1991,22,"All Ages",2,"Female",26.7636448537765
+68,"mean_BMI",4661,"Nuevo León",1991,22,"All Ages",1,"Male",26.8001474390606
+68,"mean_BMI",4661,"Nuevo León",1991,22,"All Ages",2,"Female",27.1623029909703
+68,"mean_BMI",4662,"Oaxaca",1991,22,"All Ages",1,"Male",24.5427793412053
+68,"mean_BMI",4662,"Oaxaca",1991,22,"All Ages",2,"Female",25.2605544424528
+68,"mean_BMI",4663,"Puebla",1991,22,"All Ages",1,"Male",25.5079658260486
+68,"mean_BMI",4663,"Puebla",1991,22,"All Ages",2,"Female",26.0488633106668
+68,"mean_BMI",4664,"Querétaro",1991,22,"All Ages",1,"Male",25.9595307368749
+68,"mean_BMI",4664,"Querétaro",1991,22,"All Ages",2,"Female",26.5404914958462
+68,"mean_BMI",4665,"Quintana Roo",1991,22,"All Ages",1,"Male",26.3370923547216
+68,"mean_BMI",4665,"Quintana Roo",1991,22,"All Ages",2,"Female",26.8291325885182
+68,"mean_BMI",4666,"San Luis Potosí",1991,22,"All Ages",1,"Male",25.2527900690347
+68,"mean_BMI",4666,"San Luis Potosí",1991,22,"All Ages",2,"Female",25.870755984094
+68,"mean_BMI",4667,"Sinaloa",1991,22,"All Ages",1,"Male",26.1828445372501
+68,"mean_BMI",4667,"Sinaloa",1991,22,"All Ages",2,"Female",26.6755968295115
+68,"mean_BMI",4668,"Sonora",1991,22,"All Ages",1,"Male",26.3115593872688
+68,"mean_BMI",4668,"Sonora",1991,22,"All Ages",2,"Female",27.0356260482856
+68,"mean_BMI",4669,"Tabasco",1991,22,"All Ages",1,"Male",26.1954509430256
+68,"mean_BMI",4669,"Tabasco",1991,22,"All Ages",2,"Female",26.5610813878825
+68,"mean_BMI",4670,"Tamaulipas",1991,22,"All Ages",1,"Male",26.886025876573
+68,"mean_BMI",4670,"Tamaulipas",1991,22,"All Ages",2,"Female",27.3045440857007
+68,"mean_BMI",4671,"Tlaxcala",1991,22,"All Ages",1,"Male",25.9353985823378
+68,"mean_BMI",4671,"Tlaxcala",1991,22,"All Ages",2,"Female",26.2541738026627
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",1,"Male",25.1877030798014
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",2,"Female",25.8979476048042
+68,"mean_BMI",4673,"Yucatán",1991,22,"All Ages",1,"Male",26.5230363187876
+68,"mean_BMI",4673,"Yucatán",1991,22,"All Ages",2,"Female",27.226714931506
+68,"mean_BMI",4674,"Zacatecas",1991,22,"All Ages",1,"Male",25.5670759709726
+68,"mean_BMI",4674,"Zacatecas",1991,22,"All Ages",2,"Female",26.4950941387901
+68,"mean_BMI",130,"Mexico",1992,22,"All Ages",1,"Male",24.5428902704153
+68,"mean_BMI",130,"Mexico",1992,22,"All Ages",2,"Female",25.3059632235024
+68,"mean_BMI",4643,"Aguascalientes",1992,22,"All Ages",1,"Male",26.1960361313591
+68,"mean_BMI",4643,"Aguascalientes",1992,22,"All Ages",2,"Female",27.2528402703524
+68,"mean_BMI",4644,"Baja California",1992,22,"All Ages",1,"Male",27.0159682045042
+68,"mean_BMI",4644,"Baja California",1992,22,"All Ages",2,"Female",27.9109856873303
+68,"mean_BMI",4645,"Baja California Sur",1992,22,"All Ages",1,"Male",27.1149290817763
+68,"mean_BMI",4645,"Baja California Sur",1992,22,"All Ages",2,"Female",27.5261507232245
+68,"mean_BMI",4646,"Campeche",1992,22,"All Ages",1,"Male",26.7373284840987
+68,"mean_BMI",4646,"Campeche",1992,22,"All Ages",2,"Female",27.5538297609678
+68,"mean_BMI",4647,"Coahuila",1992,22,"All Ages",1,"Male",26.3910482479091
+68,"mean_BMI",4647,"Coahuila",1992,22,"All Ages",2,"Female",27.4994866802811
+68,"mean_BMI",4648,"Colima",1992,22,"All Ages",1,"Male",26.7102084963847
+68,"mean_BMI",4648,"Colima",1992,22,"All Ages",2,"Female",27.1588814175882
+68,"mean_BMI",4649,"Chiapas",1992,22,"All Ages",1,"Male",24.779651814272
+68,"mean_BMI",4649,"Chiapas",1992,22,"All Ages",2,"Female",25.2649761806342
+68,"mean_BMI",4650,"Chihuahua",1992,22,"All Ages",1,"Male",26.4382742105128
+68,"mean_BMI",4650,"Chihuahua",1992,22,"All Ages",2,"Female",27.2375590585297
+68,"mean_BMI",4651,"Mexico City",1992,22,"All Ages",1,"Male",26.2502735999854
+68,"mean_BMI",4651,"Mexico City",1992,22,"All Ages",2,"Female",26.7532314200657
+68,"mean_BMI",4652,"Durango",1992,22,"All Ages",1,"Male",25.8981824501366
+68,"mean_BMI",4652,"Durango",1992,22,"All Ages",2,"Female",26.9921432800944
+68,"mean_BMI",4653,"Guanajuato",1992,22,"All Ages",1,"Male",25.6324618974
+68,"mean_BMI",4653,"Guanajuato",1992,22,"All Ages",2,"Female",26.5960497585892
+68,"mean_BMI",4654,"Guerrero",1992,22,"All Ages",1,"Male",25.3463180669836
+68,"mean_BMI",4654,"Guerrero",1992,22,"All Ages",2,"Female",25.9186295476028
+68,"mean_BMI",4655,"Hidalgo",1992,22,"All Ages",1,"Male",25.3608313556249
+68,"mean_BMI",4655,"Hidalgo",1992,22,"All Ages",2,"Female",26.199432206143
+68,"mean_BMI",4656,"Jalisco",1992,22,"All Ages",1,"Male",26.1781999913586
+68,"mean_BMI",4656,"Jalisco",1992,22,"All Ages",2,"Female",26.9248311863355
+68,"mean_BMI",4657,"México",1992,22,"All Ages",1,"Male",26.2641767688093
+68,"mean_BMI",4657,"México",1992,22,"All Ages",2,"Female",26.8186385566999
+68,"mean_BMI",4658,"Michoacán de Ocampo",1992,22,"All Ages",1,"Male",25.7024438798393
+68,"mean_BMI",4658,"Michoacán de Ocampo",1992,22,"All Ages",2,"Female",26.3262087131986
+68,"mean_BMI",4659,"Morelos",1992,22,"All Ages",1,"Male",26.0966552193241
+68,"mean_BMI",4659,"Morelos",1992,22,"All Ages",2,"Female",26.6972343307639
+68,"mean_BMI",4660,"Nayarit",1992,22,"All Ages",1,"Male",26.1475026256354
+68,"mean_BMI",4660,"Nayarit",1992,22,"All Ages",2,"Female",26.9664004566568
+68,"mean_BMI",4661,"Nuevo León",1992,22,"All Ages",1,"Male",26.8827486563459
+68,"mean_BMI",4661,"Nuevo León",1992,22,"All Ages",2,"Female",27.3594442768646
+68,"mean_BMI",4662,"Oaxaca",1992,22,"All Ages",1,"Male",24.5956146237075
+68,"mean_BMI",4662,"Oaxaca",1992,22,"All Ages",2,"Female",25.3925206373053
+68,"mean_BMI",4663,"Puebla",1992,22,"All Ages",1,"Male",25.5830037973411
+68,"mean_BMI",4663,"Puebla",1992,22,"All Ages",2,"Female",26.2168611261182
+68,"mean_BMI",4664,"Querétaro",1992,22,"All Ages",1,"Male",26.0233082899301
+68,"mean_BMI",4664,"Querétaro",1992,22,"All Ages",2,"Female",26.7132515818248
+68,"mean_BMI",4665,"Quintana Roo",1992,22,"All Ages",1,"Male",26.432418582048
+68,"mean_BMI",4665,"Quintana Roo",1992,22,"All Ages",2,"Female",27.0778297347224
+68,"mean_BMI",4666,"San Luis Potosí",1992,22,"All Ages",1,"Male",25.3409837214285
+68,"mean_BMI",4666,"San Luis Potosí",1992,22,"All Ages",2,"Female",26.0552470454361
+68,"mean_BMI",4667,"Sinaloa",1992,22,"All Ages",1,"Male",26.2522038274592
+68,"mean_BMI",4667,"Sinaloa",1992,22,"All Ages",2,"Female",26.8449932247353
+68,"mean_BMI",4668,"Sonora",1992,22,"All Ages",1,"Male",26.3903523870663
+68,"mean_BMI",4668,"Sonora",1992,22,"All Ages",2,"Female",27.2197216032465
+68,"mean_BMI",4669,"Tabasco",1992,22,"All Ages",1,"Male",26.271758765561
+68,"mean_BMI",4669,"Tabasco",1992,22,"All Ages",2,"Female",26.7669296082304
+68,"mean_BMI",4670,"Tamaulipas",1992,22,"All Ages",1,"Male",26.9746734303492
+68,"mean_BMI",4670,"Tamaulipas",1992,22,"All Ages",2,"Female",27.5312150733339
+68,"mean_BMI",4671,"Tlaxcala",1992,22,"All Ages",1,"Male",25.9696945724262
+68,"mean_BMI",4671,"Tlaxcala",1992,22,"All Ages",2,"Female",26.3848429375278
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",1,"Male",25.2623512188731
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",2,"Female",26.0716950442541
+68,"mean_BMI",4673,"Yucatán",1992,22,"All Ages",1,"Male",26.6099348940112
+68,"mean_BMI",4673,"Yucatán",1992,22,"All Ages",2,"Female",27.4193268429667
+68,"mean_BMI",4674,"Zacatecas",1992,22,"All Ages",1,"Male",25.651575650708
+68,"mean_BMI",4674,"Zacatecas",1992,22,"All Ages",2,"Female",26.6990630949408
+68,"mean_BMI",130,"Mexico",1993,22,"All Ages",1,"Male",24.5943004998867
+68,"mean_BMI",130,"Mexico",1993,22,"All Ages",2,"Female",25.3696140519212
+68,"mean_BMI",4643,"Aguascalientes",1993,22,"All Ages",1,"Male",26.2338238720558
+68,"mean_BMI",4643,"Aguascalientes",1993,22,"All Ages",2,"Female",27.3831347903263
+68,"mean_BMI",4644,"Baja California",1993,22,"All Ages",1,"Male",27.0598729535406
+68,"mean_BMI",4644,"Baja California",1993,22,"All Ages",2,"Female",28.0651873976931
+68,"mean_BMI",4645,"Baja California Sur",1993,22,"All Ages",1,"Male",27.1675279525145
+68,"mean_BMI",4645,"Baja California Sur",1993,22,"All Ages",2,"Female",27.6640021569964
+68,"mean_BMI",4646,"Campeche",1993,22,"All Ages",1,"Male",26.7964051390975
+68,"mean_BMI",4646,"Campeche",1993,22,"All Ages",2,"Female",27.7189705557797
+68,"mean_BMI",4647,"Coahuila",1993,22,"All Ages",1,"Male",26.4703787518293
+68,"mean_BMI",4647,"Coahuila",1993,22,"All Ages",2,"Female",27.6989339814361
+68,"mean_BMI",4648,"Colima",1993,22,"All Ages",1,"Male",26.7732537693283
+68,"mean_BMI",4648,"Colima",1993,22,"All Ages",2,"Female",27.3164067626866
+68,"mean_BMI",4649,"Chiapas",1993,22,"All Ages",1,"Male",24.8889179249773
+68,"mean_BMI",4649,"Chiapas",1993,22,"All Ages",2,"Female",25.4444446773073
+68,"mean_BMI",4650,"Chihuahua",1993,22,"All Ages",1,"Male",26.4855129570682
+68,"mean_BMI",4650,"Chihuahua",1993,22,"All Ages",2,"Female",27.3668160625764
+68,"mean_BMI",4651,"Mexico City",1993,22,"All Ages",1,"Male",26.2859429963757
+68,"mean_BMI",4651,"Mexico City",1993,22,"All Ages",2,"Female",26.8576269225462
+68,"mean_BMI",4652,"Durango",1993,22,"All Ages",1,"Male",25.9384589889339
+68,"mean_BMI",4652,"Durango",1993,22,"All Ages",2,"Female",27.1250197014291
+68,"mean_BMI",4653,"Guanajuato",1993,22,"All Ages",1,"Male",25.7130988316634
+68,"mean_BMI",4653,"Guanajuato",1993,22,"All Ages",2,"Female",26.7564503285635
+68,"mean_BMI",4654,"Guerrero",1993,22,"All Ages",1,"Male",25.3263081771829
+68,"mean_BMI",4654,"Guerrero",1993,22,"All Ages",2,"Female",25.9839007468139
+68,"mean_BMI",4655,"Hidalgo",1993,22,"All Ages",1,"Male",25.4046955047702
+68,"mean_BMI",4655,"Hidalgo",1993,22,"All Ages",2,"Female",26.3161551267003
+68,"mean_BMI",4656,"Jalisco",1993,22,"All Ages",1,"Male",26.2391287845254
+68,"mean_BMI",4656,"Jalisco",1993,22,"All Ages",2,"Female",27.0615904348956
+68,"mean_BMI",4657,"México",1993,22,"All Ages",1,"Male",26.3620696406794
+68,"mean_BMI",4657,"México",1993,22,"All Ages",2,"Female",26.9923862101905
+68,"mean_BMI",4658,"Michoacán de Ocampo",1993,22,"All Ages",1,"Male",25.7577468172701
+68,"mean_BMI",4658,"Michoacán de Ocampo",1993,22,"All Ages",2,"Female",26.4411860137966
+68,"mean_BMI",4659,"Morelos",1993,22,"All Ages",1,"Male",26.1604644736397
+68,"mean_BMI",4659,"Morelos",1993,22,"All Ages",2,"Female",26.8342234836387
+68,"mean_BMI",4660,"Nayarit",1993,22,"All Ages",1,"Male",26.2066165547773
+68,"mean_BMI",4660,"Nayarit",1993,22,"All Ages",2,"Female",27.1102181567376
+68,"mean_BMI",4661,"Nuevo León",1993,22,"All Ages",1,"Male",26.934744393782
+68,"mean_BMI",4661,"Nuevo León",1993,22,"All Ages",2,"Female",27.496890413339
+68,"mean_BMI",4662,"Oaxaca",1993,22,"All Ages",1,"Male",24.6184363667598
+68,"mean_BMI",4662,"Oaxaca",1993,22,"All Ages",2,"Female",25.4723321803147
+68,"mean_BMI",4663,"Puebla",1993,22,"All Ages",1,"Male",25.6270852102432
+68,"mean_BMI",4663,"Puebla",1993,22,"All Ages",2,"Female",26.3308402123646
+68,"mean_BMI",4664,"Querétaro",1993,22,"All Ages",1,"Male",26.0805711404776
+68,"mean_BMI",4664,"Querétaro",1993,22,"All Ages",2,"Female",26.8543324149948
+68,"mean_BMI",4665,"Quintana Roo",1993,22,"All Ages",1,"Male",26.5079298798785
+68,"mean_BMI",4665,"Quintana Roo",1993,22,"All Ages",2,"Female",27.2788122318237
+68,"mean_BMI",4666,"San Luis Potosí",1993,22,"All Ages",1,"Male",25.4008193182613
+68,"mean_BMI",4666,"San Luis Potosí",1993,22,"All Ages",2,"Female",26.1886417322106
+68,"mean_BMI",4667,"Sinaloa",1993,22,"All Ages",1,"Male",26.2932801640884
+68,"mean_BMI",4667,"Sinaloa",1993,22,"All Ages",2,"Female",26.9563655765271
+68,"mean_BMI",4668,"Sonora",1993,22,"All Ages",1,"Male",26.444497879955
+68,"mean_BMI",4668,"Sonora",1993,22,"All Ages",2,"Female",27.345671839715
+68,"mean_BMI",4669,"Tabasco",1993,22,"All Ages",1,"Male",26.3225845246135
+68,"mean_BMI",4669,"Tabasco",1993,22,"All Ages",2,"Female",26.9155414239269
+68,"mean_BMI",4670,"Tamaulipas",1993,22,"All Ages",1,"Male",27.0334809730733
+68,"mean_BMI",4670,"Tamaulipas",1993,22,"All Ages",2,"Female",27.6915107276042
+68,"mean_BMI",4671,"Tlaxcala",1993,22,"All Ages",1,"Male",26.0027012044223
+68,"mean_BMI",4671,"Tlaxcala",1993,22,"All Ages",2,"Female",26.4928370282589
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",1,"Male",25.3130156121672
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",2,"Female",26.1947973497096
+68,"mean_BMI",4673,"Yucatán",1993,22,"All Ages",1,"Male",26.6739041689411
+68,"mean_BMI",4673,"Yucatán",1993,22,"All Ages",2,"Female",27.5605964486741
+68,"mean_BMI",4674,"Zacatecas",1993,22,"All Ages",1,"Male",25.708947737998
+68,"mean_BMI",4674,"Zacatecas",1993,22,"All Ages",2,"Female",26.8475083785273
+68,"mean_BMI",130,"Mexico",1994,22,"All Ages",1,"Male",24.6478354767724
+68,"mean_BMI",130,"Mexico",1994,22,"All Ages",2,"Female",25.4331181251337
+68,"mean_BMI",4643,"Aguascalientes",1994,22,"All Ages",1,"Male",26.2594380645639
+68,"mean_BMI",4643,"Aguascalientes",1994,22,"All Ages",2,"Female",27.4864761421014
+68,"mean_BMI",4644,"Baja California",1994,22,"All Ages",1,"Male",27.1089554465019
+68,"mean_BMI",4644,"Baja California",1994,22,"All Ages",2,"Female",28.2069128100272
+68,"mean_BMI",4645,"Baja California Sur",1994,22,"All Ages",1,"Male",27.2145789788917
+68,"mean_BMI",4645,"Baja California Sur",1994,22,"All Ages",2,"Female",27.7792039040802
+68,"mean_BMI",4646,"Campeche",1994,22,"All Ages",1,"Male",26.8409321316906
+68,"mean_BMI",4646,"Campeche",1994,22,"All Ages",2,"Female",27.8554469214686
+68,"mean_BMI",4647,"Coahuila",1994,22,"All Ages",1,"Male",26.5316020394865
+68,"mean_BMI",4647,"Coahuila",1994,22,"All Ages",2,"Female",27.8643432134259
+68,"mean_BMI",4648,"Colima",1994,22,"All Ages",1,"Male",26.8173664098175
+68,"mean_BMI",4648,"Colima",1994,22,"All Ages",2,"Female",27.4410191049717
+68,"mean_BMI",4649,"Chiapas",1994,22,"All Ages",1,"Male",24.99102604295
+68,"mean_BMI",4649,"Chiapas",1994,22,"All Ages",2,"Female",25.6123166081168
+68,"mean_BMI",4650,"Chihuahua",1994,22,"All Ages",1,"Male",26.5161266393358
+68,"mean_BMI",4650,"Chihuahua",1994,22,"All Ages",2,"Female",27.4659231609193
+68,"mean_BMI",4651,"Mexico City",1994,22,"All Ages",1,"Male",26.3455176272154
+68,"mean_BMI",4651,"Mexico City",1994,22,"All Ages",2,"Female",26.9746529255392
+68,"mean_BMI",4652,"Durango",1994,22,"All Ages",1,"Male",25.9648431724273
+68,"mean_BMI",4652,"Durango",1994,22,"All Ages",2,"Female",27.2304197235476
+68,"mean_BMI",4653,"Guanajuato",1994,22,"All Ages",1,"Male",25.7794321871025
+68,"mean_BMI",4653,"Guanajuato",1994,22,"All Ages",2,"Female",26.8932454221915
+68,"mean_BMI",4654,"Guerrero",1994,22,"All Ages",1,"Male",25.2961812059546
+68,"mean_BMI",4654,"Guerrero",1994,22,"All Ages",2,"Female",26.0231841507159
+68,"mean_BMI",4655,"Hidalgo",1994,22,"All Ages",1,"Male",25.4360988576636
+68,"mean_BMI",4655,"Hidalgo",1994,22,"All Ages",2,"Female",26.4069026647217
+68,"mean_BMI",4656,"Jalisco",1994,22,"All Ages",1,"Male",26.2852703465776
+68,"mean_BMI",4656,"Jalisco",1994,22,"All Ages",2,"Female",27.1708924256463
+68,"mean_BMI",4657,"México",1994,22,"All Ages",1,"Male",26.4879705273326
+68,"mean_BMI",4657,"México",1994,22,"All Ages",2,"Female",27.1841942416731
+68,"mean_BMI",4658,"Michoacán de Ocampo",1994,22,"All Ages",1,"Male",25.8010050739829
+68,"mean_BMI",4658,"Michoacán de Ocampo",1994,22,"All Ages",2,"Female",26.5366540310202
+68,"mean_BMI",4659,"Morelos",1994,22,"All Ages",1,"Male",26.2101949317439
+68,"mean_BMI",4659,"Morelos",1994,22,"All Ages",2,"Female",26.9447259019127
+68,"mean_BMI",4660,"Nayarit",1994,22,"All Ages",1,"Male",26.2514883716472
+68,"mean_BMI",4660,"Nayarit",1994,22,"All Ages",2,"Female",27.227722901843
+68,"mean_BMI",4661,"Nuevo León",1994,22,"All Ages",1,"Male",26.9723817818984
+68,"mean_BMI",4661,"Nuevo León",1994,22,"All Ages",2,"Female",27.6020029936224
+68,"mean_BMI",4662,"Oaxaca",1994,22,"All Ages",1,"Male",24.6232612737827
+68,"mean_BMI",4662,"Oaxaca",1994,22,"All Ages",2,"Female",25.5230131631077
+68,"mean_BMI",4663,"Puebla",1994,22,"All Ages",1,"Male",25.6544199295192
+68,"mean_BMI",4663,"Puebla",1994,22,"All Ages",2,"Female",26.4148859470879
+68,"mean_BMI",4664,"Querétaro",1994,22,"All Ages",1,"Male",26.1640311114405
+68,"mean_BMI",4664,"Querétaro",1994,22,"All Ages",2,"Female",27.0154520151664
+68,"mean_BMI",4665,"Quintana Roo",1994,22,"All Ages",1,"Male",26.5709360597061
+68,"mean_BMI",4665,"Quintana Roo",1994,22,"All Ages",2,"Female",27.450740613142
+68,"mean_BMI",4666,"San Luis Potosí",1994,22,"All Ages",1,"Male",25.447091583514
+68,"mean_BMI",4666,"San Luis Potosí",1994,22,"All Ages",2,"Female",26.2979238833702
+68,"mean_BMI",4667,"Sinaloa",1994,22,"All Ages",1,"Male",26.3223152889543
+68,"mean_BMI",4667,"Sinaloa",1994,22,"All Ages",2,"Female",27.04387014661
+68,"mean_BMI",4668,"Sonora",1994,22,"All Ages",1,"Male",26.4842909006826
+68,"mean_BMI",4668,"Sonora",1994,22,"All Ages",2,"Female",27.441508362835
+68,"mean_BMI",4669,"Tabasco",1994,22,"All Ages",1,"Male",26.3662214998529
+68,"mean_BMI",4669,"Tabasco",1994,22,"All Ages",2,"Female",27.0414887639995
+68,"mean_BMI",4670,"Tamaulipas",1994,22,"All Ages",1,"Male",27.0742636849904
+68,"mean_BMI",4670,"Tamaulipas",1994,22,"All Ages",2,"Female",27.8183562205122
+68,"mean_BMI",4671,"Tlaxcala",1994,22,"All Ages",1,"Male",26.0759962881294
+68,"mean_BMI",4671,"Tlaxcala",1994,22,"All Ages",2,"Female",26.6375332755539
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",1,"Male",25.351789982401
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",2,"Female",26.2935311071678
+68,"mean_BMI",4673,"Yucatán",1994,22,"All Ages",1,"Male",26.7269624965928
+68,"mean_BMI",4673,"Yucatán",1994,22,"All Ages",2,"Female",27.6795393008511
+68,"mean_BMI",4674,"Zacatecas",1994,22,"All Ages",1,"Male",25.7523048988136
+68,"mean_BMI",4674,"Zacatecas",1994,22,"All Ages",2,"Female",26.9690616591414
+68,"mean_BMI",130,"Mexico",1995,22,"All Ages",1,"Male",24.7095846051454
+68,"mean_BMI",130,"Mexico",1995,22,"All Ages",2,"Female",25.5078912979766
+68,"mean_BMI",4643,"Aguascalientes",1995,22,"All Ages",1,"Male",26.2889552148385
+68,"mean_BMI",4643,"Aguascalientes",1995,22,"All Ages",2,"Female",27.5747830188563
+68,"mean_BMI",4644,"Baja California",1995,22,"All Ages",1,"Male",27.1672973942636
+68,"mean_BMI",4644,"Baja California",1995,22,"All Ages",2,"Female",28.3384676379147
+68,"mean_BMI",4645,"Baja California Sur",1995,22,"All Ages",1,"Male",27.2643204504479
+68,"mean_BMI",4645,"Baja California Sur",1995,22,"All Ages",2,"Female",27.8804213087235
+68,"mean_BMI",4646,"Campeche",1995,22,"All Ages",1,"Male",26.8873483482441
+68,"mean_BMI",4646,"Campeche",1995,22,"All Ages",2,"Female",27.9785150619908
+68,"mean_BMI",4647,"Coahuila",1995,22,"All Ages",1,"Male",26.5858520718345
+68,"mean_BMI",4647,"Coahuila",1995,22,"All Ages",2,"Female",28.0027801912454
+68,"mean_BMI",4648,"Colima",1995,22,"All Ages",1,"Male",26.853950904468
+68,"mean_BMI",4648,"Colima",1995,22,"All Ages",2,"Female",27.5413459232223
+68,"mean_BMI",4649,"Chiapas",1995,22,"All Ages",1,"Male",25.097933586239
+68,"mean_BMI",4649,"Chiapas",1995,22,"All Ages",2,"Female",25.7796028739528
+68,"mean_BMI",4650,"Chihuahua",1995,22,"All Ages",1,"Male",26.5410402303054
+68,"mean_BMI",4650,"Chihuahua",1995,22,"All Ages",2,"Female",27.5418712754677
+68,"mean_BMI",4651,"Mexico City",1995,22,"All Ages",1,"Male",26.420965200163
+68,"mean_BMI",4651,"Mexico City",1995,22,"All Ages",2,"Female",27.0918529711964
+68,"mean_BMI",4652,"Durango",1995,22,"All Ages",1,"Male",25.9994779296247
+68,"mean_BMI",4652,"Durango",1995,22,"All Ages",2,"Female",27.3308963137435
+68,"mean_BMI",4653,"Guanajuato",1995,22,"All Ages",1,"Male",25.8483945092968
+68,"mean_BMI",4653,"Guanajuato",1995,22,"All Ages",2,"Female",27.0205261194193
+68,"mean_BMI",4654,"Guerrero",1995,22,"All Ages",1,"Male",25.2999241312114
+68,"mean_BMI",4654,"Guerrero",1995,22,"All Ages",2,"Female",26.0818898153358
+68,"mean_BMI",4655,"Hidalgo",1995,22,"All Ages",1,"Male",25.470932795277
+68,"mean_BMI",4655,"Hidalgo",1995,22,"All Ages",2,"Female",26.4886741448253
+68,"mean_BMI",4656,"Jalisco",1995,22,"All Ages",1,"Male",26.3313695229418
+68,"mean_BMI",4656,"Jalisco",1995,22,"All Ages",2,"Female",27.2669961060168
+68,"mean_BMI",4657,"México",1995,22,"All Ages",1,"Male",26.5411062306829
+68,"mean_BMI",4657,"México",1995,22,"All Ages",2,"Female",27.2820899606472
+68,"mean_BMI",4658,"Michoacán de Ocampo",1995,22,"All Ages",1,"Male",25.8490655738635
+68,"mean_BMI",4658,"Michoacán de Ocampo",1995,22,"All Ages",2,"Female",26.6291575857892
+68,"mean_BMI",4659,"Morelos",1995,22,"All Ages",1,"Male",26.2552442629962
+68,"mean_BMI",4659,"Morelos",1995,22,"All Ages",2,"Female",27.0348561221539
+68,"mean_BMI",4660,"Nayarit",1995,22,"All Ages",1,"Male",26.2994341183352
+68,"mean_BMI",4660,"Nayarit",1995,22,"All Ages",2,"Female",27.3345532683137
+68,"mean_BMI",4661,"Nuevo León",1995,22,"All Ages",1,"Male",27.0058311622783
+68,"mean_BMI",4661,"Nuevo León",1995,22,"All Ages",2,"Female",27.6817654847816
+68,"mean_BMI",4662,"Oaxaca",1995,22,"All Ages",1,"Male",24.6285513757101
+68,"mean_BMI",4662,"Oaxaca",1995,22,"All Ages",2,"Female",25.5635697205553
+68,"mean_BMI",4663,"Puebla",1995,22,"All Ages",1,"Male",25.6801156690328
+68,"mean_BMI",4663,"Puebla",1995,22,"All Ages",2,"Female",26.4838049655443
+68,"mean_BMI",4664,"Querétaro",1995,22,"All Ages",1,"Male",26.2770700710918
+68,"mean_BMI",4664,"Querétaro",1995,22,"All Ages",2,"Female",27.1984229848987
+68,"mean_BMI",4665,"Quintana Roo",1995,22,"All Ages",1,"Male",26.6288890971491
+68,"mean_BMI",4665,"Quintana Roo",1995,22,"All Ages",2,"Female",27.596349535146
+68,"mean_BMI",4666,"San Luis Potosí",1995,22,"All Ages",1,"Male",25.4968692797478
+68,"mean_BMI",4666,"San Luis Potosí",1995,22,"All Ages",2,"Female",26.3987515778515
+68,"mean_BMI",4667,"Sinaloa",1995,22,"All Ages",1,"Male",26.3574555018894
+68,"mean_BMI",4667,"Sinaloa",1995,22,"All Ages",2,"Female",27.1252587619371
+68,"mean_BMI",4668,"Sonora",1995,22,"All Ages",1,"Male",26.5212450628858
+68,"mean_BMI",4668,"Sonora",1995,22,"All Ages",2,"Female",27.5183544194925
+68,"mean_BMI",4669,"Tabasco",1995,22,"All Ages",1,"Male",26.4246948649075
+68,"mean_BMI",4669,"Tabasco",1995,22,"All Ages",2,"Female",27.1651597782183
+68,"mean_BMI",4670,"Tamaulipas",1995,22,"All Ages",1,"Male",27.110338126829
+68,"mean_BMI",4670,"Tamaulipas",1995,22,"All Ages",2,"Female",27.9238571264829
+68,"mean_BMI",4671,"Tlaxcala",1995,22,"All Ages",1,"Male",26.159940598599
+68,"mean_BMI",4671,"Tlaxcala",1995,22,"All Ages",2,"Female",26.7824869726095
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",1,"Male",25.3949715809064
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",2,"Female",26.385423507919
+68,"mean_BMI",4673,"Yucatán",1995,22,"All Ages",1,"Male",26.7820063900644
+68,"mean_BMI",4673,"Yucatán",1995,22,"All Ages",2,"Female",27.7857745868258
+68,"mean_BMI",4674,"Zacatecas",1995,22,"All Ages",1,"Male",25.7956098902689
+68,"mean_BMI",4674,"Zacatecas",1995,22,"All Ages",2,"Female",27.0757988917624
+68,"mean_BMI",130,"Mexico",1996,22,"All Ages",1,"Male",24.779037919083
+68,"mean_BMI",130,"Mexico",1996,22,"All Ages",2,"Female",25.5963947951865
+68,"mean_BMI",4643,"Aguascalientes",1996,22,"All Ages",1,"Male",26.3346012030185
+68,"mean_BMI",4643,"Aguascalientes",1996,22,"All Ages",2,"Female",27.6640397586122
+68,"mean_BMI",4644,"Baja California",1996,22,"All Ages",1,"Male",27.2141584402695
+68,"mean_BMI",4644,"Baja California",1996,22,"All Ages",2,"Female",28.441500367465
+68,"mean_BMI",4645,"Baja California Sur",1996,22,"All Ages",1,"Male",27.3271531292365
+68,"mean_BMI",4645,"Baja California Sur",1996,22,"All Ages",2,"Female",27.9869831467563
+68,"mean_BMI",4646,"Campeche",1996,22,"All Ages",1,"Male",26.9527473254594
+68,"mean_BMI",4646,"Campeche",1996,22,"All Ages",2,"Female",28.1103140378082
+68,"mean_BMI",4647,"Coahuila",1996,22,"All Ages",1,"Male",26.6500820431964
+68,"mean_BMI",4647,"Coahuila",1996,22,"All Ages",2,"Female",28.1378846228384
+68,"mean_BMI",4648,"Colima",1996,22,"All Ages",1,"Male",26.9006690887103
+68,"mean_BMI",4648,"Colima",1996,22,"All Ages",2,"Female",27.6370369737134
+68,"mean_BMI",4649,"Chiapas",1996,22,"All Ages",1,"Male",25.2086174922455
+68,"mean_BMI",4649,"Chiapas",1996,22,"All Ages",2,"Female",25.9496716372403
+68,"mean_BMI",4650,"Chihuahua",1996,22,"All Ages",1,"Male",26.5771128763039
+68,"mean_BMI",4650,"Chihuahua",1996,22,"All Ages",2,"Female",27.6174761196909
+68,"mean_BMI",4651,"Mexico City",1996,22,"All Ages",1,"Male",26.4831608831002
+68,"mean_BMI",4651,"Mexico City",1996,22,"All Ages",2,"Female",27.1827853941748
+68,"mean_BMI",4652,"Durango",1996,22,"All Ages",1,"Male",26.0581104592594
+68,"mean_BMI",4652,"Durango",1996,22,"All Ages",2,"Female",27.4472100527374
+68,"mean_BMI",4653,"Guanajuato",1996,22,"All Ages",1,"Male",25.9349701194264
+68,"mean_BMI",4653,"Guanajuato",1996,22,"All Ages",2,"Female",27.1592689349516
+68,"mean_BMI",4654,"Guerrero",1996,22,"All Ages",1,"Male",25.3491233761946
+68,"mean_BMI",4654,"Guerrero",1996,22,"All Ages",2,"Female",26.1794027083065
+68,"mean_BMI",4655,"Hidalgo",1996,22,"All Ages",1,"Male",25.5228279665533
+68,"mean_BMI",4655,"Hidalgo",1996,22,"All Ages",2,"Female",26.581501009814
+68,"mean_BMI",4656,"Jalisco",1996,22,"All Ages",1,"Male",26.3864634199032
+68,"mean_BMI",4656,"Jalisco",1996,22,"All Ages",2,"Female",27.365439387903
+68,"mean_BMI",4657,"México",1996,22,"All Ages",1,"Male",26.5693079359537
+68,"mean_BMI",4657,"México",1996,22,"All Ages",2,"Female",27.3359697582498
+68,"mean_BMI",4658,"Michoacán de Ocampo",1996,22,"All Ages",1,"Male",25.9138736973973
+68,"mean_BMI",4658,"Michoacán de Ocampo",1996,22,"All Ages",2,"Female",26.7357954384722
+68,"mean_BMI",4659,"Morelos",1996,22,"All Ages",1,"Male",26.3061559353773
+68,"mean_BMI",4659,"Morelos",1996,22,"All Ages",2,"Female",27.1204195337384
+68,"mean_BMI",4660,"Nayarit",1996,22,"All Ages",1,"Male",26.3631319208522
+68,"mean_BMI",4660,"Nayarit",1996,22,"All Ages",2,"Female",27.4475928162032
+68,"mean_BMI",4661,"Nuevo León",1996,22,"All Ages",1,"Male",27.048449599137
+68,"mean_BMI",4661,"Nuevo León",1996,22,"All Ages",2,"Female",27.7571612713094
+68,"mean_BMI",4662,"Oaxaca",1996,22,"All Ages",1,"Male",24.6464229658007
+68,"mean_BMI",4662,"Oaxaca",1996,22,"All Ages",2,"Female",25.6154929237442
+68,"mean_BMI",4663,"Puebla",1996,22,"All Ages",1,"Male",25.7171453618102
+68,"mean_BMI",4663,"Puebla",1996,22,"All Ages",2,"Female",26.5586025191264
+68,"mean_BMI",4664,"Querétaro",1996,22,"All Ages",1,"Male",26.3946421826701
+68,"mean_BMI",4664,"Querétaro",1996,22,"All Ages",2,"Female",27.3749875232565
+68,"mean_BMI",4665,"Quintana Roo",1996,22,"All Ages",1,"Male",26.7005615776089
+68,"mean_BMI",4665,"Quintana Roo",1996,22,"All Ages",2,"Female",27.7407999919101
+68,"mean_BMI",4666,"San Luis Potosí",1996,22,"All Ages",1,"Male",25.5639069657677
+68,"mean_BMI",4666,"San Luis Potosí",1996,22,"All Ages",2,"Female",26.5089497300841
+68,"mean_BMI",4667,"Sinaloa",1996,22,"All Ages",1,"Male",26.4107328142298
+68,"mean_BMI",4667,"Sinaloa",1996,22,"All Ages",2,"Female",27.2190039954003
+68,"mean_BMI",4668,"Sonora",1996,22,"All Ages",1,"Male",26.5716498678719
+68,"mean_BMI",4668,"Sonora",1996,22,"All Ages",2,"Female",27.6018722725175
+68,"mean_BMI",4669,"Tabasco",1996,22,"All Ages",1,"Male",26.5114111769727
+68,"mean_BMI",4669,"Tabasco",1996,22,"All Ages",2,"Female",27.3060801753485
+68,"mean_BMI",4670,"Tamaulipas",1996,22,"All Ages",1,"Male",27.1638334180098
+68,"mean_BMI",4670,"Tamaulipas",1996,22,"All Ages",2,"Female",28.0300017232768
+68,"mean_BMI",4671,"Tlaxcala",1996,22,"All Ages",1,"Male",26.2384739678128
+68,"mean_BMI",4671,"Tlaxcala",1996,22,"All Ages",2,"Female",26.909027191695
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",1,"Male",25.456997861325
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",2,"Female",26.491279299749
+68,"mean_BMI",4673,"Yucatán",1996,22,"All Ages",1,"Male",26.8510402728491
+68,"mean_BMI",4673,"Yucatán",1996,22,"All Ages",2,"Female",27.8962998234705
+68,"mean_BMI",4674,"Zacatecas",1996,22,"All Ages",1,"Male",25.8537644707038
+68,"mean_BMI",4674,"Zacatecas",1996,22,"All Ages",2,"Female",27.188413640445
+68,"mean_BMI",130,"Mexico",1997,22,"All Ages",1,"Male",24.8494645917351
+68,"mean_BMI",130,"Mexico",1997,22,"All Ages",2,"Female",25.6894226992389
+68,"mean_BMI",4643,"Aguascalientes",1997,22,"All Ages",1,"Male",26.3934187640004
+68,"mean_BMI",4643,"Aguascalientes",1997,22,"All Ages",2,"Female",27.7446280217666
+68,"mean_BMI",4644,"Baja California",1997,22,"All Ages",1,"Male",27.2459977320591
+68,"mean_BMI",4644,"Baja California",1997,22,"All Ages",2,"Female",28.503611914124
+68,"mean_BMI",4645,"Baja California Sur",1997,22,"All Ages",1,"Male",27.3893820653382
+68,"mean_BMI",4645,"Baja California Sur",1997,22,"All Ages",2,"Female",28.0759876657672
+68,"mean_BMI",4646,"Campeche",1997,22,"All Ages",1,"Male",27.0347285497755
+68,"mean_BMI",4646,"Campeche",1997,22,"All Ages",2,"Female",28.2416518078825
+68,"mean_BMI",4647,"Coahuila",1997,22,"All Ages",1,"Male",26.725111327208
+68,"mean_BMI",4647,"Coahuila",1997,22,"All Ages",2,"Female",28.2574140603513
+68,"mean_BMI",4648,"Colima",1997,22,"All Ages",1,"Male",26.9580158421511
+68,"mean_BMI",4648,"Colima",1997,22,"All Ages",2,"Female",27.7219700807994
+68,"mean_BMI",4649,"Chiapas",1997,22,"All Ages",1,"Male",25.3131843866949
+68,"mean_BMI",4649,"Chiapas",1997,22,"All Ages",2,"Female",26.1037611490482
+68,"mean_BMI",4650,"Chihuahua",1997,22,"All Ages",1,"Male",26.6254638937154
+68,"mean_BMI",4650,"Chihuahua",1997,22,"All Ages",2,"Female",27.6905901413915
+68,"mean_BMI",4651,"Mexico City",1997,22,"All Ages",1,"Male",26.5266517237551
+68,"mean_BMI",4651,"Mexico City",1997,22,"All Ages",2,"Female",27.2318007810664
+68,"mean_BMI",4652,"Durango",1997,22,"All Ages",1,"Male",26.1360757164178
+68,"mean_BMI",4652,"Durango",1997,22,"All Ages",2,"Female",27.5649070805708
+68,"mean_BMI",4653,"Guanajuato",1997,22,"All Ages",1,"Male",26.0352468463967
+68,"mean_BMI",4653,"Guanajuato",1997,22,"All Ages",2,"Female",27.2952287711732
+68,"mean_BMI",4654,"Guerrero",1997,22,"All Ages",1,"Male",25.4251714837606
+68,"mean_BMI",4654,"Guerrero",1997,22,"All Ages",2,"Female",26.2885043288974
+68,"mean_BMI",4655,"Hidalgo",1997,22,"All Ages",1,"Male",25.586476439063
+68,"mean_BMI",4655,"Hidalgo",1997,22,"All Ages",2,"Female",26.6777967732695
+68,"mean_BMI",4656,"Jalisco",1997,22,"All Ages",1,"Male",26.4490140918751
+68,"mean_BMI",4656,"Jalisco",1997,22,"All Ages",2,"Female",27.4550787481277
+68,"mean_BMI",4657,"México",1997,22,"All Ages",1,"Male",26.6061970933887
+68,"mean_BMI",4657,"México",1997,22,"All Ages",2,"Female",27.3745382407914
+68,"mean_BMI",4658,"Michoacán de Ocampo",1997,22,"All Ages",1,"Male",25.9902602907154
+68,"mean_BMI",4658,"Michoacán de Ocampo",1997,22,"All Ages",2,"Female",26.8429140993657
+68,"mean_BMI",4659,"Morelos",1997,22,"All Ages",1,"Male",26.3643494251916
+68,"mean_BMI",4659,"Morelos",1997,22,"All Ages",2,"Female",27.194416316798
+68,"mean_BMI",4660,"Nayarit",1997,22,"All Ages",1,"Male",26.438753526311
+68,"mean_BMI",4660,"Nayarit",1997,22,"All Ages",2,"Female",27.5573458911402
+68,"mean_BMI",4661,"Nuevo León",1997,22,"All Ages",1,"Male",27.1032071646883
+68,"mean_BMI",4661,"Nuevo León",1997,22,"All Ages",2,"Female",27.8211046443749
+68,"mean_BMI",4662,"Oaxaca",1997,22,"All Ages",1,"Male",24.6729928166905
+68,"mean_BMI",4662,"Oaxaca",1997,22,"All Ages",2,"Female",25.6733193390802
+68,"mean_BMI",4663,"Puebla",1997,22,"All Ages",1,"Male",25.7657816719799
+68,"mean_BMI",4663,"Puebla",1997,22,"All Ages",2,"Female",26.6303114089744
+68,"mean_BMI",4664,"Querétaro",1997,22,"All Ages",1,"Male",26.4876558294051
+68,"mean_BMI",4664,"Querétaro",1997,22,"All Ages",2,"Female",27.504310527042
+68,"mean_BMI",4665,"Quintana Roo",1997,22,"All Ages",1,"Male",26.7815947363662
+68,"mean_BMI",4665,"Quintana Roo",1997,22,"All Ages",2,"Female",27.8755474558078
+68,"mean_BMI",4666,"San Luis Potosí",1997,22,"All Ages",1,"Male",25.6449210545785
+68,"mean_BMI",4666,"San Luis Potosí",1997,22,"All Ages",2,"Female",26.6204524771603
+68,"mean_BMI",4667,"Sinaloa",1997,22,"All Ages",1,"Male",26.4790876247728
+68,"mean_BMI",4667,"Sinaloa",1997,22,"All Ages",2,"Female",27.3134887100968
+68,"mean_BMI",4668,"Sonora",1997,22,"All Ages",1,"Male",26.6339300496155
+68,"mean_BMI",4668,"Sonora",1997,22,"All Ages",2,"Female",27.6844387983021
+68,"mean_BMI",4669,"Tabasco",1997,22,"All Ages",1,"Male",26.6158475974498
+68,"mean_BMI",4669,"Tabasco",1997,22,"All Ages",2,"Female",27.4475213118513
+68,"mean_BMI",4670,"Tamaulipas",1997,22,"All Ages",1,"Male",27.2302394395868
+68,"mean_BMI",4670,"Tamaulipas",1997,22,"All Ages",2,"Female",28.1264225075039
+68,"mean_BMI",4671,"Tlaxcala",1997,22,"All Ages",1,"Male",26.3019029594031
+68,"mean_BMI",4671,"Tlaxcala",1997,22,"All Ages",2,"Female",27.0012513549139
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",1,"Male",25.5346593432285
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",2,"Female",26.5986567844814
+68,"mean_BMI",4673,"Yucatán",1997,22,"All Ages",1,"Male",26.930614088176
+68,"mean_BMI",4673,"Yucatán",1997,22,"All Ages",2,"Female",28.0016648755858
+68,"mean_BMI",4674,"Zacatecas",1997,22,"All Ages",1,"Male",25.9258742271624
+68,"mean_BMI",4674,"Zacatecas",1997,22,"All Ages",2,"Female",27.2971347559118
+68,"mean_BMI",130,"Mexico",1998,22,"All Ages",1,"Male",24.9229763069938
+68,"mean_BMI",130,"Mexico",1998,22,"All Ages",2,"Female",25.7899120866641
+68,"mean_BMI",4643,"Aguascalientes",1998,22,"All Ages",1,"Male",26.4525894239941
+68,"mean_BMI",4643,"Aguascalientes",1998,22,"All Ages",2,"Female",27.8041074075273
+68,"mean_BMI",4644,"Baja California",1998,22,"All Ages",1,"Male",27.2832727534616
+68,"mean_BMI",4644,"Baja California",1998,22,"All Ages",2,"Female",28.5474135817
+68,"mean_BMI",4645,"Baja California Sur",1998,22,"All Ages",1,"Male",27.4260522034484
+68,"mean_BMI",4645,"Baja California Sur",1998,22,"All Ages",2,"Female",28.1180471624129
+68,"mean_BMI",4646,"Campeche",1998,22,"All Ages",1,"Male",27.1228225759969
+68,"mean_BMI",4646,"Campeche",1998,22,"All Ages",2,"Female",28.3561642979952
+68,"mean_BMI",4647,"Coahuila",1998,22,"All Ages",1,"Male",26.8002835808085
+68,"mean_BMI",4647,"Coahuila",1998,22,"All Ages",2,"Female",28.3436297192801
+68,"mean_BMI",4648,"Colima",1998,22,"All Ages",1,"Male",27.0168762409226
+68,"mean_BMI",4648,"Colima",1998,22,"All Ages",2,"Female",27.7870018724768
+68,"mean_BMI",4649,"Chiapas",1998,22,"All Ages",1,"Male",25.4041109290222
+68,"mean_BMI",4649,"Chiapas",1998,22,"All Ages",2,"Female",26.2312776298427
+68,"mean_BMI",4650,"Chihuahua",1998,22,"All Ages",1,"Male",26.6782875283212
+68,"mean_BMI",4650,"Chihuahua",1998,22,"All Ages",2,"Female",27.7526829572379
+68,"mean_BMI",4651,"Mexico City",1998,22,"All Ages",1,"Male",26.5562501690058
+68,"mean_BMI",4651,"Mexico City",1998,22,"All Ages",2,"Female",27.2417955860706
+68,"mean_BMI",4652,"Durango",1998,22,"All Ages",1,"Male",26.220484314889
+68,"mean_BMI",4652,"Durango",1998,22,"All Ages",2,"Female",27.6636973725845
+68,"mean_BMI",4653,"Guanajuato",1998,22,"All Ages",1,"Male",26.1341897913856
+68,"mean_BMI",4653,"Guanajuato",1998,22,"All Ages",2,"Female",27.4085357609259
+68,"mean_BMI",4654,"Guerrero",1998,22,"All Ages",1,"Male",25.5054817310527
+68,"mean_BMI",4654,"Guerrero",1998,22,"All Ages",2,"Female",26.3813374517472
+68,"mean_BMI",4655,"Hidalgo",1998,22,"All Ages",1,"Male",25.6509124596564
+68,"mean_BMI",4655,"Hidalgo",1998,22,"All Ages",2,"Female",26.7632920778487
+68,"mean_BMI",4656,"Jalisco",1998,22,"All Ages",1,"Male",26.5112103025469
+68,"mean_BMI",4656,"Jalisco",1998,22,"All Ages",2,"Female",27.5229514236667
+68,"mean_BMI",4657,"México",1998,22,"All Ages",1,"Male",26.6504888440887
+68,"mean_BMI",4657,"México",1998,22,"All Ages",2,"Female",27.3979215644209
+68,"mean_BMI",4658,"Michoacán de Ocampo",1998,22,"All Ages",1,"Male",26.0664809459938
+68,"mean_BMI",4658,"Michoacán de Ocampo",1998,22,"All Ages",2,"Female",26.933574163555
+68,"mean_BMI",4659,"Morelos",1998,22,"All Ages",1,"Male",26.4236595379303
+68,"mean_BMI",4659,"Morelos",1998,22,"All Ages",2,"Female",27.2494017109668
+68,"mean_BMI",4660,"Nayarit",1998,22,"All Ages",1,"Male",26.5147590581714
+68,"mean_BMI",4660,"Nayarit",1998,22,"All Ages",2,"Female",27.6496493415966
+68,"mean_BMI",4661,"Nuevo León",1998,22,"All Ages",1,"Male",27.1583742870883
+68,"mean_BMI",4661,"Nuevo León",1998,22,"All Ages",2,"Female",27.8621678276323
+68,"mean_BMI",4662,"Oaxaca",1998,22,"All Ages",1,"Male",24.7028839777173
+68,"mean_BMI",4662,"Oaxaca",1998,22,"All Ages",2,"Female",25.7274607386814
+68,"mean_BMI",4663,"Puebla",1998,22,"All Ages",1,"Male",25.8171612138577
+68,"mean_BMI",4663,"Puebla",1998,22,"All Ages",2,"Female",26.6887112093649
+68,"mean_BMI",4664,"Querétaro",1998,22,"All Ages",1,"Male",26.5517692808597
+68,"mean_BMI",4664,"Querétaro",1998,22,"All Ages",2,"Female",27.5798403471123
+68,"mean_BMI",4665,"Quintana Roo",1998,22,"All Ages",1,"Male",26.8617504237238
+68,"mean_BMI",4665,"Quintana Roo",1998,22,"All Ages",2,"Female",27.9854991021169
+68,"mean_BMI",4666,"San Luis Potosí",1998,22,"All Ages",1,"Male",25.7313383273821
+68,"mean_BMI",4666,"San Luis Potosí",1998,22,"All Ages",2,"Female",26.7236376876378
+68,"mean_BMI",4667,"Sinaloa",1998,22,"All Ages",1,"Male",26.5499000739896
+68,"mean_BMI",4667,"Sinaloa",1998,22,"All Ages",2,"Female",27.3915727048626
+68,"mean_BMI",4668,"Sonora",1998,22,"All Ages",1,"Male",26.6975858906995
+68,"mean_BMI",4668,"Sonora",1998,22,"All Ages",2,"Female",27.7527823272347
+68,"mean_BMI",4669,"Tabasco",1998,22,"All Ages",1,"Male",26.7187683254436
+68,"mean_BMI",4669,"Tabasco",1998,22,"All Ages",2,"Female",27.5688100385366
+68,"mean_BMI",4670,"Tamaulipas",1998,22,"All Ages",1,"Male",27.2929255529002
+68,"mean_BMI",4670,"Tamaulipas",1998,22,"All Ages",2,"Female",28.1946462346019
+68,"mean_BMI",4671,"Tlaxcala",1998,22,"All Ages",1,"Male",26.3548204073531
+68,"mean_BMI",4671,"Tlaxcala",1998,22,"All Ages",2,"Female",27.06523667054
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",1,"Male",25.615717881949
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",2,"Female",26.6905452292117
+68,"mean_BMI",4673,"Yucatán",1998,22,"All Ages",1,"Male",27.0109787529136
+68,"mean_BMI",4673,"Yucatán",1998,22,"All Ages",2,"Female",28.0865572764027
+68,"mean_BMI",4674,"Zacatecas",1998,22,"All Ages",1,"Male",25.9984029195983
+68,"mean_BMI",4674,"Zacatecas",1998,22,"All Ages",2,"Female",27.3875270873289
+68,"mean_BMI",130,"Mexico",1999,22,"All Ages",1,"Male",25.0039555592402
+68,"mean_BMI",130,"Mexico",1999,22,"All Ages",2,"Female",25.8970583948106
+68,"mean_BMI",4643,"Aguascalientes",1999,22,"All Ages",1,"Male",26.5276534979363
+68,"mean_BMI",4643,"Aguascalientes",1999,22,"All Ages",2,"Female",27.8341709413932
+68,"mean_BMI",4644,"Baja California",1999,22,"All Ages",1,"Male",27.3392904686418
+68,"mean_BMI",4644,"Baja California",1999,22,"All Ages",2,"Female",28.5826816324037
+68,"mean_BMI",4645,"Baja California Sur",1999,22,"All Ages",1,"Male",27.452128719806
+68,"mean_BMI",4645,"Baja California Sur",1999,22,"All Ages",2,"Female",28.1187402504207
+68,"mean_BMI",4646,"Campeche",1999,22,"All Ages",1,"Male",27.2377631126517
+68,"mean_BMI",4646,"Campeche",1999,22,"All Ages",2,"Female",28.4594489225697
+68,"mean_BMI",4647,"Coahuila",1999,22,"All Ages",1,"Male",26.8701435191446
+68,"mean_BMI",4647,"Coahuila",1999,22,"All Ages",2,"Female",28.3738856764459
+68,"mean_BMI",4648,"Colima",1999,22,"All Ages",1,"Male",27.1037093630069
+68,"mean_BMI",4648,"Colima",1999,22,"All Ages",2,"Female",27.8344620667597
+68,"mean_BMI",4649,"Chiapas",1999,22,"All Ages",1,"Male",25.4952991892351
+68,"mean_BMI",4649,"Chiapas",1999,22,"All Ages",2,"Female",26.34758346925
+68,"mean_BMI",4650,"Chihuahua",1999,22,"All Ages",1,"Male",26.7441162238151
+68,"mean_BMI",4650,"Chihuahua",1999,22,"All Ages",2,"Female",27.798190555962
+68,"mean_BMI",4651,"Mexico City",1999,22,"All Ages",1,"Male",26.5741295657536
+68,"mean_BMI",4651,"Mexico City",1999,22,"All Ages",2,"Female",27.1992810939211
+68,"mean_BMI",4652,"Durango",1999,22,"All Ages",1,"Male",26.3268806680468
+68,"mean_BMI",4652,"Durango",1999,22,"All Ages",2,"Female",27.7156581234281
+68,"mean_BMI",4653,"Guanajuato",1999,22,"All Ages",1,"Male",26.229761869688
+68,"mean_BMI",4653,"Guanajuato",1999,22,"All Ages",2,"Female",27.4673109874956
+68,"mean_BMI",4654,"Guerrero",1999,22,"All Ages",1,"Male",25.6070240314502
+68,"mean_BMI",4654,"Guerrero",1999,22,"All Ages",2,"Female",26.4338207621357
+68,"mean_BMI",4655,"Hidalgo",1999,22,"All Ages",1,"Male",25.7274401697444
+68,"mean_BMI",4655,"Hidalgo",1999,22,"All Ages",2,"Female",26.8423500672095
+68,"mean_BMI",4656,"Jalisco",1999,22,"All Ages",1,"Male",26.5747909429372
+68,"mean_BMI",4656,"Jalisco",1999,22,"All Ages",2,"Female",27.5545625463973
+68,"mean_BMI",4657,"México",1999,22,"All Ages",1,"Male",26.7212809049723
+68,"mean_BMI",4657,"México",1999,22,"All Ages",2,"Female",27.3852242779078
+68,"mean_BMI",4658,"Michoacán de Ocampo",1999,22,"All Ages",1,"Male",26.1534878309445
+68,"mean_BMI",4658,"Michoacán de Ocampo",1999,22,"All Ages",2,"Female",26.9979299825643
+68,"mean_BMI",4659,"Morelos",1999,22,"All Ages",1,"Male",26.4941775210968
+68,"mean_BMI",4659,"Morelos",1999,22,"All Ages",2,"Female",27.2664392785569
+68,"mean_BMI",4660,"Nayarit",1999,22,"All Ages",1,"Male",26.6141361511749
+68,"mean_BMI",4660,"Nayarit",1999,22,"All Ages",2,"Female",27.7192332382815
+68,"mean_BMI",4661,"Nuevo León",1999,22,"All Ages",1,"Male",27.224739535535
+68,"mean_BMI",4661,"Nuevo León",1999,22,"All Ages",2,"Female",27.8786576667182
+68,"mean_BMI",4662,"Oaxaca",1999,22,"All Ages",1,"Male",24.7845183580532
+68,"mean_BMI",4662,"Oaxaca",1999,22,"All Ages",2,"Female",25.7872854402021
+68,"mean_BMI",4663,"Puebla",1999,22,"All Ages",1,"Male",25.8851714427094
+68,"mean_BMI",4663,"Puebla",1999,22,"All Ages",2,"Female",26.7233740493608
+68,"mean_BMI",4664,"Querétaro",1999,22,"All Ages",1,"Male",26.6272534425543
+68,"mean_BMI",4664,"Querétaro",1999,22,"All Ages",2,"Female",27.6239143168584
+68,"mean_BMI",4665,"Quintana Roo",1999,22,"All Ages",1,"Male",26.9811258217409
+68,"mean_BMI",4665,"Quintana Roo",1999,22,"All Ages",2,"Female",28.0735220321265
+68,"mean_BMI",4666,"San Luis Potosí",1999,22,"All Ages",1,"Male",25.8321353276281
+68,"mean_BMI",4666,"San Luis Potosí",1999,22,"All Ages",2,"Female",26.830948921664
+68,"mean_BMI",4667,"Sinaloa",1999,22,"All Ages",1,"Male",26.6084042604998
+68,"mean_BMI",4667,"Sinaloa",1999,22,"All Ages",2,"Female",27.4320400087292
+68,"mean_BMI",4668,"Sonora",1999,22,"All Ages",1,"Male",26.7712359422516
+68,"mean_BMI",4668,"Sonora",1999,22,"All Ages",2,"Female",27.8058645250195
+68,"mean_BMI",4669,"Tabasco",1999,22,"All Ages",1,"Male",26.8470496612525
+68,"mean_BMI",4669,"Tabasco",1999,22,"All Ages",2,"Female",27.6941668594716
+68,"mean_BMI",4670,"Tamaulipas",1999,22,"All Ages",1,"Male",27.3613702081636
+68,"mean_BMI",4670,"Tamaulipas",1999,22,"All Ages",2,"Female",28.2387179080568
+68,"mean_BMI",4671,"Tlaxcala",1999,22,"All Ages",1,"Male",26.4254530026675
+68,"mean_BMI",4671,"Tlaxcala",1999,22,"All Ages",2,"Female",27.1187173078668
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",1,"Male",25.7150259614673
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",2,"Female",26.7477720557707
+68,"mean_BMI",4673,"Yucatán",1999,22,"All Ages",1,"Male",27.1197423157254
+68,"mean_BMI",4673,"Yucatán",1999,22,"All Ages",2,"Female",28.1477659289855
+68,"mean_BMI",4674,"Zacatecas",1999,22,"All Ages",1,"Male",26.0839231178653
+68,"mean_BMI",4674,"Zacatecas",1999,22,"All Ages",2,"Female",27.4484442187611
+68,"mean_BMI",130,"Mexico",2000,22,"All Ages",1,"Male",25.085000503313
+68,"mean_BMI",130,"Mexico",2000,22,"All Ages",2,"Female",26.0042497743705
+68,"mean_BMI",4643,"Aguascalientes",2000,22,"All Ages",1,"Male",26.6085737771243
+68,"mean_BMI",4643,"Aguascalientes",2000,22,"All Ages",2,"Female",27.8531661762008
+68,"mean_BMI",4644,"Baja California",2000,22,"All Ages",1,"Male",27.3865409412112
+68,"mean_BMI",4644,"Baja California",2000,22,"All Ages",2,"Female",28.6391910860383
+68,"mean_BMI",4645,"Baja California Sur",2000,22,"All Ages",1,"Male",27.4854593624802
+68,"mean_BMI",4645,"Baja California Sur",2000,22,"All Ages",2,"Female",28.1598372085507
+68,"mean_BMI",4646,"Campeche",2000,22,"All Ages",1,"Male",27.344623090889
+68,"mean_BMI",4646,"Campeche",2000,22,"All Ages",2,"Female",28.5763928111578
+68,"mean_BMI",4647,"Coahuila",2000,22,"All Ages",1,"Male",26.922156354853
+68,"mean_BMI",4647,"Coahuila",2000,22,"All Ages",2,"Female",28.3693731149327
+68,"mean_BMI",4648,"Colima",2000,22,"All Ages",1,"Male",27.204810973766
+68,"mean_BMI",4648,"Colima",2000,22,"All Ages",2,"Female",27.8730373529064
+68,"mean_BMI",4649,"Chiapas",2000,22,"All Ages",1,"Male",25.5750966830037
+68,"mean_BMI",4649,"Chiapas",2000,22,"All Ages",2,"Female",26.4823431209631
+68,"mean_BMI",4650,"Chihuahua",2000,22,"All Ages",1,"Male",26.8146298376355
+68,"mean_BMI",4650,"Chihuahua",2000,22,"All Ages",2,"Female",27.8527982542588
+68,"mean_BMI",4651,"Mexico City",2000,22,"All Ages",1,"Male",26.5987499981795
+68,"mean_BMI",4651,"Mexico City",2000,22,"All Ages",2,"Female",27.139652530758
+68,"mean_BMI",4652,"Durango",2000,22,"All Ages",1,"Male",26.4366044901905
+68,"mean_BMI",4652,"Durango",2000,22,"All Ages",2,"Female",27.7322661142286
+68,"mean_BMI",4653,"Guanajuato",2000,22,"All Ages",1,"Male",26.3025856036866
+68,"mean_BMI",4653,"Guanajuato",2000,22,"All Ages",2,"Female",27.4846687092229
+68,"mean_BMI",4654,"Guerrero",2000,22,"All Ages",1,"Male",25.7255911687942
+68,"mean_BMI",4654,"Guerrero",2000,22,"All Ages",2,"Female",26.4484492932091
+68,"mean_BMI",4655,"Hidalgo",2000,22,"All Ages",1,"Male",25.7973678703785
+68,"mean_BMI",4655,"Hidalgo",2000,22,"All Ages",2,"Female",26.9251257944902
+68,"mean_BMI",4656,"Jalisco",2000,22,"All Ages",1,"Male",26.6264770261672
+68,"mean_BMI",4656,"Jalisco",2000,22,"All Ages",2,"Female",27.5631498628897
+68,"mean_BMI",4657,"México",2000,22,"All Ages",1,"Male",26.8206131951888
+68,"mean_BMI",4657,"México",2000,22,"All Ages",2,"Female",27.3595892973645
+68,"mean_BMI",4658,"Michoacán de Ocampo",2000,22,"All Ages",1,"Male",26.2403891334395
+68,"mean_BMI",4658,"Michoacán de Ocampo",2000,22,"All Ages",2,"Female",27.0471829193977
+68,"mean_BMI",4659,"Morelos",2000,22,"All Ages",1,"Male",26.5683821152706
+68,"mean_BMI",4659,"Morelos",2000,22,"All Ages",2,"Female",27.2610084164161
+68,"mean_BMI",4660,"Nayarit",2000,22,"All Ages",1,"Male",26.7241047281375
+68,"mean_BMI",4660,"Nayarit",2000,22,"All Ages",2,"Female",27.7809743142694
+68,"mean_BMI",4661,"Nuevo León",2000,22,"All Ages",1,"Male",27.2975500710276
+68,"mean_BMI",4661,"Nuevo León",2000,22,"All Ages",2,"Female",27.8896693705723
+68,"mean_BMI",4662,"Oaxaca",2000,22,"All Ages",1,"Male",24.9105643762158
+68,"mean_BMI",4662,"Oaxaca",2000,22,"All Ages",2,"Female",25.8662826016839
+68,"mean_BMI",4663,"Puebla",2000,22,"All Ages",1,"Male",25.953674856102
+68,"mean_BMI",4663,"Puebla",2000,22,"All Ages",2,"Female",26.7452900180141
+68,"mean_BMI",4664,"Querétaro",2000,22,"All Ages",1,"Male",26.719486240395
+68,"mean_BMI",4664,"Querétaro",2000,22,"All Ages",2,"Female",27.6744465772141
+68,"mean_BMI",4665,"Quintana Roo",2000,22,"All Ages",1,"Male",27.1355240757969
+68,"mean_BMI",4665,"Quintana Roo",2000,22,"All Ages",2,"Female",28.1715411828543
+68,"mean_BMI",4666,"San Luis Potosí",2000,22,"All Ages",1,"Male",25.9351635073242
+68,"mean_BMI",4666,"San Luis Potosí",2000,22,"All Ages",2,"Female",26.9613825164736
+68,"mean_BMI",4667,"Sinaloa",2000,22,"All Ages",1,"Male",26.635950558351
+68,"mean_BMI",4667,"Sinaloa",2000,22,"All Ages",2,"Female",27.4412003699915
+68,"mean_BMI",4668,"Sonora",2000,22,"All Ages",1,"Male",26.8337852199579
+68,"mean_BMI",4668,"Sonora",2000,22,"All Ages",2,"Female",27.8620447423569
+68,"mean_BMI",4669,"Tabasco",2000,22,"All Ages",1,"Male",26.9841840676839
+68,"mean_BMI",4669,"Tabasco",2000,22,"All Ages",2,"Female",27.8531855468679
+68,"mean_BMI",4670,"Tamaulipas",2000,22,"All Ages",1,"Male",27.4282187205562
+68,"mean_BMI",4670,"Tamaulipas",2000,22,"All Ages",2,"Female",28.2887621500286
+68,"mean_BMI",4671,"Tlaxcala",2000,22,"All Ages",1,"Male",26.5051932390893
+68,"mean_BMI",4671,"Tlaxcala",2000,22,"All Ages",2,"Female",27.1930065765303
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",1,"Male",25.8213076656494
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",2,"Female",26.7701077608477
+68,"mean_BMI",4673,"Yucatán",2000,22,"All Ages",1,"Male",27.2516884557605
+68,"mean_BMI",4673,"Yucatán",2000,22,"All Ages",2,"Female",28.1942722550237
+68,"mean_BMI",4674,"Zacatecas",2000,22,"All Ages",1,"Male",26.1655333606548
+68,"mean_BMI",4674,"Zacatecas",2000,22,"All Ages",2,"Female",27.4877028628542
+68,"mean_BMI",130,"Mexico",2001,22,"All Ages",1,"Male",25.1642943230975
+68,"mean_BMI",130,"Mexico",2001,22,"All Ages",2,"Female",26.1116073319591
+68,"mean_BMI",4643,"Aguascalientes",2001,22,"All Ages",1,"Male",26.6694387082851
+68,"mean_BMI",4643,"Aguascalientes",2001,22,"All Ages",2,"Female",27.8579330706772
+68,"mean_BMI",4644,"Baja California",2001,22,"All Ages",1,"Male",27.3988585205078
+68,"mean_BMI",4644,"Baja California",2001,22,"All Ages",2,"Female",28.6831716742561
+68,"mean_BMI",4645,"Baja California Sur",2001,22,"All Ages",1,"Male",27.5359223993509
+68,"mean_BMI",4645,"Baja California Sur",2001,22,"All Ages",2,"Female",28.234415209171
+68,"mean_BMI",4646,"Campeche",2001,22,"All Ages",1,"Male",27.4327296916282
+68,"mean_BMI",4646,"Campeche",2001,22,"All Ages",2,"Female",28.6723994930487
+68,"mean_BMI",4647,"Coahuila",2001,22,"All Ages",1,"Male",26.9493660614656
+68,"mean_BMI",4647,"Coahuila",2001,22,"All Ages",2,"Female",28.3581743341785
+68,"mean_BMI",4648,"Colima",2001,22,"All Ages",1,"Male",27.2835638958183
+68,"mean_BMI",4648,"Colima",2001,22,"All Ages",2,"Female",27.8993404308512
+68,"mean_BMI",4649,"Chiapas",2001,22,"All Ages",1,"Male",25.644551769303
+68,"mean_BMI",4649,"Chiapas",2001,22,"All Ages",2,"Female",26.6090355266517
+68,"mean_BMI",4650,"Chihuahua",2001,22,"All Ages",1,"Male",26.8665630301402
+68,"mean_BMI",4650,"Chihuahua",2001,22,"All Ages",2,"Female",27.9036265807862
+68,"mean_BMI",4651,"Mexico City",2001,22,"All Ages",1,"Male",26.6135840785954
+68,"mean_BMI",4651,"Mexico City",2001,22,"All Ages",2,"Female",27.0946689848942
+68,"mean_BMI",4652,"Durango",2001,22,"All Ages",1,"Male",26.5273902807038
+68,"mean_BMI",4652,"Durango",2001,22,"All Ages",2,"Female",27.7404341509448
+68,"mean_BMI",4653,"Guanajuato",2001,22,"All Ages",1,"Male",26.3556434452935
+68,"mean_BMI",4653,"Guanajuato",2001,22,"All Ages",2,"Female",27.4889358437093
+68,"mean_BMI",4654,"Guerrero",2001,22,"All Ages",1,"Male",25.8393350783756
+68,"mean_BMI",4654,"Guerrero",2001,22,"All Ages",2,"Female",26.4609397665249
+68,"mean_BMI",4655,"Hidalgo",2001,22,"All Ages",1,"Male",25.851130651379
+68,"mean_BMI",4655,"Hidalgo",2001,22,"All Ages",2,"Female",26.9977213121802
+68,"mean_BMI",4656,"Jalisco",2001,22,"All Ages",1,"Male",26.6548756402011
+68,"mean_BMI",4656,"Jalisco",2001,22,"All Ages",2,"Female",27.5684020643633
+68,"mean_BMI",4657,"México",2001,22,"All Ages",1,"Male",26.9040301896494
+68,"mean_BMI",4657,"México",2001,22,"All Ages",2,"Female",27.3323495839037
+68,"mean_BMI",4658,"Michoacán de Ocampo",2001,22,"All Ages",1,"Male",26.3095751308526
+68,"mean_BMI",4658,"Michoacán de Ocampo",2001,22,"All Ages",2,"Female",27.0915439613968
+68,"mean_BMI",4659,"Morelos",2001,22,"All Ages",1,"Male",26.619425241898
+68,"mean_BMI",4659,"Morelos",2001,22,"All Ages",2,"Female",27.2496811895308
+68,"mean_BMI",4660,"Nayarit",2001,22,"All Ages",1,"Male",26.8144160890417
+68,"mean_BMI",4660,"Nayarit",2001,22,"All Ages",2,"Female",27.8293482016089
+68,"mean_BMI",4661,"Nuevo León",2001,22,"All Ages",1,"Male",27.3401032288891
+68,"mean_BMI",4661,"Nuevo León",2001,22,"All Ages",2,"Female",27.893182898955
+68,"mean_BMI",4662,"Oaxaca",2001,22,"All Ages",1,"Male",25.0319780097257
+68,"mean_BMI",4662,"Oaxaca",2001,22,"All Ages",2,"Female",25.9497169884171
+68,"mean_BMI",4663,"Puebla",2001,22,"All Ages",1,"Male",26.0128109569856
+68,"mean_BMI",4663,"Puebla",2001,22,"All Ages",2,"Female",26.7660370432588
+68,"mean_BMI",4664,"Querétaro",2001,22,"All Ages",1,"Male",26.7863924029912
+68,"mean_BMI",4664,"Querétaro",2001,22,"All Ages",2,"Female",27.7138090555051
+68,"mean_BMI",4665,"Quintana Roo",2001,22,"All Ages",1,"Male",27.2731910098482
+68,"mean_BMI",4665,"Quintana Roo",2001,22,"All Ages",2,"Female",28.2476608882185
+68,"mean_BMI",4666,"San Luis Potosí",2001,22,"All Ages",1,"Male",26.0181336033595
+68,"mean_BMI",4666,"San Luis Potosí",2001,22,"All Ages",2,"Female",27.0815273590654
+68,"mean_BMI",4667,"Sinaloa",2001,22,"All Ages",1,"Male",26.6441123224165
+68,"mean_BMI",4667,"Sinaloa",2001,22,"All Ages",2,"Female",27.4435399457258
+68,"mean_BMI",4668,"Sonora",2001,22,"All Ages",1,"Male",26.8818224576855
+68,"mean_BMI",4668,"Sonora",2001,22,"All Ages",2,"Female",27.9124912562213
+68,"mean_BMI",4669,"Tabasco",2001,22,"All Ages",1,"Male",27.0919632316115
+68,"mean_BMI",4669,"Tabasco",2001,22,"All Ages",2,"Female",27.9941120055927
+68,"mean_BMI",4670,"Tamaulipas",2001,22,"All Ages",1,"Male",27.4590260069984
+68,"mean_BMI",4670,"Tamaulipas",2001,22,"All Ages",2,"Female",28.3301931423242
+68,"mean_BMI",4671,"Tlaxcala",2001,22,"All Ages",1,"Male",26.587129875779
+68,"mean_BMI",4671,"Tlaxcala",2001,22,"All Ages",2,"Female",27.2730087417229
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",1,"Male",25.9064835003987
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",2,"Female",26.7881501385773
+68,"mean_BMI",4673,"Yucatán",2001,22,"All Ages",1,"Male",27.3561211428648
+68,"mean_BMI",4673,"Yucatán",2001,22,"All Ages",2,"Female",28.2326556981972
+68,"mean_BMI",4674,"Zacatecas",2001,22,"All Ages",1,"Male",26.2322152405818
+68,"mean_BMI",4674,"Zacatecas",2001,22,"All Ages",2,"Female",27.5158719076254
+68,"mean_BMI",130,"Mexico",2002,22,"All Ages",1,"Male",25.2450065132062
+68,"mean_BMI",130,"Mexico",2002,22,"All Ages",2,"Female",26.2209504201813
+68,"mean_BMI",4643,"Aguascalientes",2002,22,"All Ages",1,"Male",26.7444256612275
+68,"mean_BMI",4643,"Aguascalientes",2002,22,"All Ages",2,"Female",27.8711640809376
+68,"mean_BMI",4644,"Baja California",2002,22,"All Ages",1,"Male",27.4196921870864
+68,"mean_BMI",4644,"Baja California",2002,22,"All Ages",2,"Female",28.7161579610026
+68,"mean_BMI",4645,"Baja California Sur",2002,22,"All Ages",1,"Male",27.5899886307997
+68,"mean_BMI",4645,"Baja California Sur",2002,22,"All Ages",2,"Female",28.3000913317886
+68,"mean_BMI",4646,"Campeche",2002,22,"All Ages",1,"Male",27.5272997161005
+68,"mean_BMI",4646,"Campeche",2002,22,"All Ages",2,"Female",28.7632513143978
+68,"mean_BMI",4647,"Coahuila",2002,22,"All Ages",1,"Male",26.9936213267179
+68,"mean_BMI",4647,"Coahuila",2002,22,"All Ages",2,"Female",28.3617956039677
+68,"mean_BMI",4648,"Colima",2002,22,"All Ages",1,"Male",27.3685291302174
+68,"mean_BMI",4648,"Colima",2002,22,"All Ages",2,"Female",27.9350239984096
+68,"mean_BMI",4649,"Chiapas",2002,22,"All Ages",1,"Male",25.7248130023678
+68,"mean_BMI",4649,"Chiapas",2002,22,"All Ages",2,"Female",26.7438049238597
+68,"mean_BMI",4650,"Chihuahua",2002,22,"All Ages",1,"Male",26.9346686130973
+68,"mean_BMI",4650,"Chihuahua",2002,22,"All Ages",2,"Female",27.9632222914904
+68,"mean_BMI",4651,"Mexico City",2002,22,"All Ages",1,"Male",26.6498177051651
+68,"mean_BMI",4651,"Mexico City",2002,22,"All Ages",2,"Female",27.0703075686275
+68,"mean_BMI",4652,"Durango",2002,22,"All Ages",1,"Male",26.6247945641761
+68,"mean_BMI",4652,"Durango",2002,22,"All Ages",2,"Female",27.7592765667445
+68,"mean_BMI",4653,"Guanajuato",2002,22,"All Ages",1,"Male",26.4166712589895
+68,"mean_BMI",4653,"Guanajuato",2002,22,"All Ages",2,"Female",27.5010735206508
+68,"mean_BMI",4654,"Guerrero",2002,22,"All Ages",1,"Male",25.9637466984166
+68,"mean_BMI",4654,"Guerrero",2002,22,"All Ages",2,"Female",26.4910382010193
+68,"mean_BMI",4655,"Hidalgo",2002,22,"All Ages",1,"Male",25.9151431039491
+68,"mean_BMI",4655,"Hidalgo",2002,22,"All Ages",2,"Female",27.0742997935753
+68,"mean_BMI",4656,"Jalisco",2002,22,"All Ages",1,"Male",26.6977875924293
+68,"mean_BMI",4656,"Jalisco",2002,22,"All Ages",2,"Female",27.5849522924185
+68,"mean_BMI",4657,"México",2002,22,"All Ages",1,"Male",26.9841042614529
+68,"mean_BMI",4657,"México",2002,22,"All Ages",2,"Female",27.307583762779
+68,"mean_BMI",4658,"Michoacán de Ocampo",2002,22,"All Ages",1,"Male",26.3861269304907
+68,"mean_BMI",4658,"Michoacán de Ocampo",2002,22,"All Ages",2,"Female",27.1424075683138
+68,"mean_BMI",4659,"Morelos",2002,22,"All Ages",1,"Male",26.6817404254439
+68,"mean_BMI",4659,"Morelos",2002,22,"All Ages",2,"Female",27.2521851843343
+68,"mean_BMI",4660,"Nayarit",2002,22,"All Ages",1,"Male",26.9110947930213
+68,"mean_BMI",4660,"Nayarit",2002,22,"All Ages",2,"Female",27.87889141004
+68,"mean_BMI",4661,"Nuevo León",2002,22,"All Ages",1,"Male",27.4021868497018
+68,"mean_BMI",4661,"Nuevo León",2002,22,"All Ages",2,"Female",27.9142991189958
+68,"mean_BMI",4662,"Oaxaca",2002,22,"All Ages",1,"Male",25.1591109248356
+68,"mean_BMI",4662,"Oaxaca",2002,22,"All Ages",2,"Female",26.0459571578972
+68,"mean_BMI",4663,"Puebla",2002,22,"All Ages",1,"Male",26.0846663934471
+68,"mean_BMI",4663,"Puebla",2002,22,"All Ages",2,"Female",26.802071603248
+68,"mean_BMI",4664,"Querétaro",2002,22,"All Ages",1,"Male",26.8367437854725
+68,"mean_BMI",4664,"Querétaro",2002,22,"All Ages",2,"Female",27.7294041773258
+68,"mean_BMI",4665,"Quintana Roo",2002,22,"All Ages",1,"Male",27.4117459829022
+68,"mean_BMI",4665,"Quintana Roo",2002,22,"All Ages",2,"Female",28.3233203068482
+68,"mean_BMI",4666,"San Luis Potosí",2002,22,"All Ages",1,"Male",26.1023497375698
+68,"mean_BMI",4666,"San Luis Potosí",2002,22,"All Ages",2,"Female",27.20316561994
+68,"mean_BMI",4667,"Sinaloa",2002,22,"All Ages",1,"Male",26.6679360507073
+68,"mean_BMI",4667,"Sinaloa",2002,22,"All Ages",2,"Female",27.4561432515791
+68,"mean_BMI",4668,"Sonora",2002,22,"All Ages",1,"Male",26.9447681749999
+68,"mean_BMI",4668,"Sonora",2002,22,"All Ages",2,"Female",27.9710817664532
+68,"mean_BMI",4669,"Tabasco",2002,22,"All Ages",1,"Male",27.203571745082
+68,"mean_BMI",4669,"Tabasco",2002,22,"All Ages",2,"Female",28.1314808670816
+68,"mean_BMI",4670,"Tamaulipas",2002,22,"All Ages",1,"Male",27.5011946612858
+68,"mean_BMI",4670,"Tamaulipas",2002,22,"All Ages",2,"Female",28.3788972516223
+68,"mean_BMI",4671,"Tlaxcala",2002,22,"All Ages",1,"Male",26.6787966382827
+68,"mean_BMI",4671,"Tlaxcala",2002,22,"All Ages",2,"Female",27.3574721995103
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",1,"Male",25.9973833698496
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",2,"Female",26.8172998774276
+68,"mean_BMI",4673,"Yucatán",2002,22,"All Ages",1,"Male",27.4665400060209
+68,"mean_BMI",4673,"Yucatán",2002,22,"All Ages",2,"Female",28.2787195506598
+68,"mean_BMI",4674,"Zacatecas",2002,22,"All Ages",1,"Male",26.3065232532171
+68,"mean_BMI",4674,"Zacatecas",2002,22,"All Ages",2,"Female",27.5512599148836
+68,"mean_BMI",130,"Mexico",2003,22,"All Ages",1,"Male",25.3238131275915
+68,"mean_BMI",130,"Mexico",2003,22,"All Ages",2,"Female",26.3274140356254
+68,"mean_BMI",4643,"Aguascalientes",2003,22,"All Ages",1,"Male",26.8350990766558
+68,"mean_BMI",4643,"Aguascalientes",2003,22,"All Ages",2,"Female",27.8991210867579
+68,"mean_BMI",4644,"Baja California",2003,22,"All Ages",1,"Male",27.450354983141
+68,"mean_BMI",4644,"Baja California",2003,22,"All Ages",2,"Female",28.7419587655261
+68,"mean_BMI",4645,"Baja California Sur",2003,22,"All Ages",1,"Male",27.6705310817301
+68,"mean_BMI",4645,"Baja California Sur",2003,22,"All Ages",2,"Female",28.3635612930968
+68,"mean_BMI",4646,"Campeche",2003,22,"All Ages",1,"Male",27.6343342762801
+68,"mean_BMI",4646,"Campeche",2003,22,"All Ages",2,"Female",28.857566603822
+68,"mean_BMI",4647,"Coahuila",2003,22,"All Ages",1,"Male",27.0562743923537
+68,"mean_BMI",4647,"Coahuila",2003,22,"All Ages",2,"Female",28.3965763772651
+68,"mean_BMI",4648,"Colima",2003,22,"All Ages",1,"Male",27.4639222267985
+68,"mean_BMI",4648,"Colima",2003,22,"All Ages",2,"Female",27.9895564029236
+68,"mean_BMI",4649,"Chiapas",2003,22,"All Ages",1,"Male",25.8244335642044
+68,"mean_BMI",4649,"Chiapas",2003,22,"All Ages",2,"Female",26.8945538600628
+68,"mean_BMI",4650,"Chihuahua",2003,22,"All Ages",1,"Male",27.0171460746446
+68,"mean_BMI",4650,"Chihuahua",2003,22,"All Ages",2,"Female",28.0357855992196
+68,"mean_BMI",4651,"Mexico City",2003,22,"All Ages",1,"Male",26.6974567623242
+68,"mean_BMI",4651,"Mexico City",2003,22,"All Ages",2,"Female",27.0656907033374
+68,"mean_BMI",4652,"Durango",2003,22,"All Ages",1,"Male",26.7322982414367
+68,"mean_BMI",4652,"Durango",2003,22,"All Ages",2,"Female",27.8044643464606
+68,"mean_BMI",4653,"Guanajuato",2003,22,"All Ages",1,"Male",26.4902152100081
+68,"mean_BMI",4653,"Guanajuato",2003,22,"All Ages",2,"Female",27.532868322262
+68,"mean_BMI",4654,"Guerrero",2003,22,"All Ages",1,"Male",26.1038007571561
+68,"mean_BMI",4654,"Guerrero",2003,22,"All Ages",2,"Female",26.5529983674513
+68,"mean_BMI",4655,"Hidalgo",2003,22,"All Ages",1,"Male",25.9945382406915
+68,"mean_BMI",4655,"Hidalgo",2003,22,"All Ages",2,"Female",27.1624447310403
+68,"mean_BMI",4656,"Jalisco",2003,22,"All Ages",1,"Male",26.7579250041846
+68,"mean_BMI",4656,"Jalisco",2003,22,"All Ages",2,"Female",27.6254896380331
+68,"mean_BMI",4657,"México",2003,22,"All Ages",1,"Male",27.0468752018126
+68,"mean_BMI",4657,"México",2003,22,"All Ages",2,"Female",27.2922105492961
+68,"mean_BMI",4658,"Michoacán de Ocampo",2003,22,"All Ages",1,"Male",26.4623076199046
+68,"mean_BMI",4658,"Michoacán de Ocampo",2003,22,"All Ages",2,"Female",27.2051540530308
+68,"mean_BMI",4659,"Morelos",2003,22,"All Ages",1,"Male",26.7549027121456
+68,"mean_BMI",4659,"Morelos",2003,22,"All Ages",2,"Female",27.2759018234647
+68,"mean_BMI",4660,"Nayarit",2003,22,"All Ages",1,"Male",27.0168677000464
+68,"mean_BMI",4660,"Nayarit",2003,22,"All Ages",2,"Female",27.9379922113015
+68,"mean_BMI",4661,"Nuevo León",2003,22,"All Ages",1,"Male",27.4810035081467
+68,"mean_BMI",4661,"Nuevo León",2003,22,"All Ages",2,"Female",27.9724852382283
+68,"mean_BMI",4662,"Oaxaca",2003,22,"All Ages",1,"Male",25.2979208351007
+68,"mean_BMI",4662,"Oaxaca",2003,22,"All Ages",2,"Female",26.1560581510564
+68,"mean_BMI",4663,"Puebla",2003,22,"All Ages",1,"Male",26.1749582753186
+68,"mean_BMI",4663,"Puebla",2003,22,"All Ages",2,"Female",26.8633952567093
+68,"mean_BMI",4664,"Querétaro",2003,22,"All Ages",1,"Male",26.8791310268164
+68,"mean_BMI",4664,"Querétaro",2003,22,"All Ages",2,"Female",27.7312103730168
+68,"mean_BMI",4665,"Quintana Roo",2003,22,"All Ages",1,"Male",27.5565974048922
+68,"mean_BMI",4665,"Quintana Roo",2003,22,"All Ages",2,"Female",28.4118029461398
+68,"mean_BMI",4666,"San Luis Potosí",2003,22,"All Ages",1,"Male",26.1924486553598
+68,"mean_BMI",4666,"San Luis Potosí",2003,22,"All Ages",2,"Female",27.3311509676878
+68,"mean_BMI",4667,"Sinaloa",2003,22,"All Ages",1,"Male",26.70859721289
+68,"mean_BMI",4667,"Sinaloa",2003,22,"All Ages",2,"Female",27.5011005869519
+68,"mean_BMI",4668,"Sonora",2003,22,"All Ages",1,"Male",27.0409929824212
+68,"mean_BMI",4668,"Sonora",2003,22,"All Ages",2,"Female",28.0476492838637
+68,"mean_BMI",4669,"Tabasco",2003,22,"All Ages",1,"Male",27.3266606402906
+68,"mean_BMI",4669,"Tabasco",2003,22,"All Ages",2,"Female",28.2735639827368
+68,"mean_BMI",4670,"Tamaulipas",2003,22,"All Ages",1,"Male",27.5578601109441
+68,"mean_BMI",4670,"Tamaulipas",2003,22,"All Ages",2,"Female",28.441542031133
+68,"mean_BMI",4671,"Tlaxcala",2003,22,"All Ages",1,"Male",26.7770341587425
+68,"mean_BMI",4671,"Tlaxcala",2003,22,"All Ages",2,"Female",27.4456297028632
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",1,"Male",26.0913869976925
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",2,"Female",26.867135702005
+68,"mean_BMI",4673,"Yucatán",2003,22,"All Ages",1,"Male",27.5736750511115
+68,"mean_BMI",4673,"Yucatán",2003,22,"All Ages",2,"Female",28.3387827542405
+68,"mean_BMI",4674,"Zacatecas",2003,22,"All Ages",1,"Male",26.3918764303046
+68,"mean_BMI",4674,"Zacatecas",2003,22,"All Ages",2,"Female",27.6005749777422
+68,"mean_BMI",130,"Mexico",2004,22,"All Ages",1,"Male",25.4088307113508
+68,"mean_BMI",130,"Mexico",2004,22,"All Ages",2,"Female",26.4196627786852
+68,"mean_BMI",4643,"Aguascalientes",2004,22,"All Ages",1,"Male",26.9354706822645
+68,"mean_BMI",4643,"Aguascalientes",2004,22,"All Ages",2,"Female",27.9397193064638
+68,"mean_BMI",4644,"Baja California",2004,22,"All Ages",1,"Male",27.4892555643275
+68,"mean_BMI",4644,"Baja California",2004,22,"All Ages",2,"Female",28.7690036242079
+68,"mean_BMI",4645,"Baja California Sur",2004,22,"All Ages",1,"Male",27.7849571874273
+68,"mean_BMI",4645,"Baja California Sur",2004,22,"All Ages",2,"Female",28.4598682122698
+68,"mean_BMI",4646,"Campeche",2004,22,"All Ages",1,"Male",27.7501367755866
+68,"mean_BMI",4646,"Campeche",2004,22,"All Ages",2,"Female",28.9524337189715
+68,"mean_BMI",4647,"Coahuila",2004,22,"All Ages",1,"Male",27.1327208757163
+68,"mean_BMI",4647,"Coahuila",2004,22,"All Ages",2,"Female",28.4502559321441
+68,"mean_BMI",4648,"Colima",2004,22,"All Ages",1,"Male",27.5645739671521
+68,"mean_BMI",4648,"Colima",2004,22,"All Ages",2,"Female",28.0587219332653
+68,"mean_BMI",4649,"Chiapas",2004,22,"All Ages",1,"Male",25.9325818743293
+68,"mean_BMI",4649,"Chiapas",2004,22,"All Ages",2,"Female",27.0449562643109
+68,"mean_BMI",4650,"Chihuahua",2004,22,"All Ages",1,"Male",27.1078564958166
+68,"mean_BMI",4650,"Chihuahua",2004,22,"All Ages",2,"Female",28.116699450801
+68,"mean_BMI",4651,"Mexico City",2004,22,"All Ages",1,"Male",26.751440690293
+68,"mean_BMI",4651,"Mexico City",2004,22,"All Ages",2,"Female",27.0723729740186
+68,"mean_BMI",4652,"Durango",2004,22,"All Ages",1,"Male",26.8425045205283
+68,"mean_BMI",4652,"Durango",2004,22,"All Ages",2,"Female",27.8602572365254
+68,"mean_BMI",4653,"Guanajuato",2004,22,"All Ages",1,"Male",26.5715553986587
+68,"mean_BMI",4653,"Guanajuato",2004,22,"All Ages",2,"Female",27.578805395214
+68,"mean_BMI",4654,"Guerrero",2004,22,"All Ages",1,"Male",26.2483330198832
+68,"mean_BMI",4654,"Guerrero",2004,22,"All Ages",2,"Female",26.6374262574566
+68,"mean_BMI",4655,"Hidalgo",2004,22,"All Ages",1,"Male",26.0858772071036
+68,"mean_BMI",4655,"Hidalgo",2004,22,"All Ages",2,"Female",27.2621136952959
+68,"mean_BMI",4656,"Jalisco",2004,22,"All Ages",1,"Male",26.83029721911
+68,"mean_BMI",4656,"Jalisco",2004,22,"All Ages",2,"Female",27.67903599983
+68,"mean_BMI",4657,"México",2004,22,"All Ages",1,"Male",27.1230186403927
+68,"mean_BMI",4657,"México",2004,22,"All Ages",2,"Female",27.2975116535454
+68,"mean_BMI",4658,"Michoacán de Ocampo",2004,22,"All Ages",1,"Male",26.5461243349172
+68,"mean_BMI",4658,"Michoacán de Ocampo",2004,22,"All Ages",2,"Female",27.2779409592314
+68,"mean_BMI",4659,"Morelos",2004,22,"All Ages",1,"Male",26.8351484191717
+68,"mean_BMI",4659,"Morelos",2004,22,"All Ages",2,"Female",27.3159505159089
+68,"mean_BMI",4660,"Nayarit",2004,22,"All Ages",1,"Male",27.1274422983684
+68,"mean_BMI",4660,"Nayarit",2004,22,"All Ages",2,"Female",28.0063064509935
+68,"mean_BMI",4661,"Nuevo León",2004,22,"All Ages",1,"Male",27.5731335069966
+68,"mean_BMI",4661,"Nuevo León",2004,22,"All Ages",2,"Female",28.0453831058534
+68,"mean_BMI",4662,"Oaxaca",2004,22,"All Ages",1,"Male",25.4395886139286
+68,"mean_BMI",4662,"Oaxaca",2004,22,"All Ages",2,"Female",26.2787309168705
+68,"mean_BMI",4663,"Puebla",2004,22,"All Ages",1,"Male",26.276211472668
+68,"mean_BMI",4663,"Puebla",2004,22,"All Ages",2,"Female",26.9418415086828
+68,"mean_BMI",4664,"Querétaro",2004,22,"All Ages",1,"Male",26.9282302483286
+68,"mean_BMI",4664,"Querétaro",2004,22,"All Ages",2,"Female",27.741122250938
+68,"mean_BMI",4665,"Quintana Roo",2004,22,"All Ages",1,"Male",27.7009600390967
+68,"mean_BMI",4665,"Quintana Roo",2004,22,"All Ages",2,"Female",28.5063959874702
+68,"mean_BMI",4666,"San Luis Potosí",2004,22,"All Ages",1,"Male",26.2853511860891
+68,"mean_BMI",4666,"San Luis Potosí",2004,22,"All Ages",2,"Female",27.4610146411325
+68,"mean_BMI",4667,"Sinaloa",2004,22,"All Ages",1,"Male",26.7602649805241
+68,"mean_BMI",4667,"Sinaloa",2004,22,"All Ages",2,"Female",27.5588422581203
+68,"mean_BMI",4668,"Sonora",2004,22,"All Ages",1,"Male",27.1415325129127
+68,"mean_BMI",4668,"Sonora",2004,22,"All Ages",2,"Female",28.1335403256269
+68,"mean_BMI",4669,"Tabasco",2004,22,"All Ages",1,"Male",27.4578499163796
+68,"mean_BMI",4669,"Tabasco",2004,22,"All Ages",2,"Female",28.4186105074232
+68,"mean_BMI",4670,"Tamaulipas",2004,22,"All Ages",1,"Male",27.6264586811165
+68,"mean_BMI",4670,"Tamaulipas",2004,22,"All Ages",2,"Female",28.5196349712262
+68,"mean_BMI",4671,"Tlaxcala",2004,22,"All Ages",1,"Male",26.8932525927976
+68,"mean_BMI",4671,"Tlaxcala",2004,22,"All Ages",2,"Female",27.5478034437562
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",1,"Male",26.1910596953395
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",2,"Female",26.9338489985829
+68,"mean_BMI",4673,"Yucatán",2004,22,"All Ages",1,"Male",27.6838857758534
+68,"mean_BMI",4673,"Yucatán",2004,22,"All Ages",2,"Female",28.4093914496373
+68,"mean_BMI",4674,"Zacatecas",2004,22,"All Ages",1,"Male",26.484226480797
+68,"mean_BMI",4674,"Zacatecas",2004,22,"All Ages",2,"Female",27.6626223818576
+68,"mean_BMI",130,"Mexico",2005,22,"All Ages",1,"Male",25.4835092690762
+68,"mean_BMI",130,"Mexico",2005,22,"All Ages",2,"Female",26.5139217625967
+68,"mean_BMI",4643,"Aguascalientes",2005,22,"All Ages",1,"Male",27.0327604710357
+68,"mean_BMI",4643,"Aguascalientes",2005,22,"All Ages",2,"Female",27.987693890763
+68,"mean_BMI",4644,"Baja California",2005,22,"All Ages",1,"Male",27.5410644985172
+68,"mean_BMI",4644,"Baja California",2005,22,"All Ages",2,"Female",28.8070352525454
+68,"mean_BMI",4645,"Baja California Sur",2005,22,"All Ages",1,"Male",27.882041424557
+68,"mean_BMI",4645,"Baja California Sur",2005,22,"All Ages",2,"Female",28.5423224728446
+68,"mean_BMI",4646,"Campeche",2005,22,"All Ages",1,"Male",27.8605496484928
+68,"mean_BMI",4646,"Campeche",2005,22,"All Ages",2,"Female",29.0425434538961
+68,"mean_BMI",4647,"Coahuila",2005,22,"All Ages",1,"Male",27.2138102601666
+68,"mean_BMI",4647,"Coahuila",2005,22,"All Ages",2,"Female",28.5196724069674
+68,"mean_BMI",4648,"Colima",2005,22,"All Ages",1,"Male",27.6554447988901
+68,"mean_BMI",4648,"Colima",2005,22,"All Ages",2,"Female",28.1352291471383
+68,"mean_BMI",4649,"Chiapas",2005,22,"All Ages",1,"Male",26.0314359605337
+68,"mean_BMI",4649,"Chiapas",2005,22,"All Ages",2,"Female",27.1817568129872
+68,"mean_BMI",4650,"Chihuahua",2005,22,"All Ages",1,"Male",27.1986395259153
+68,"mean_BMI",4650,"Chihuahua",2005,22,"All Ages",2,"Female",28.1976169733503
+68,"mean_BMI",4651,"Mexico City",2005,22,"All Ages",1,"Male",26.8129371740339
+68,"mean_BMI",4651,"Mexico City",2005,22,"All Ages",2,"Female",27.0942481656512
+68,"mean_BMI",4652,"Durango",2005,22,"All Ages",1,"Male",26.9371410511945
+68,"mean_BMI",4652,"Durango",2005,22,"All Ages",2,"Female",27.918457753676
+68,"mean_BMI",4653,"Guanajuato",2005,22,"All Ages",1,"Male",26.6483699673569
+68,"mean_BMI",4653,"Guanajuato",2005,22,"All Ages",2,"Female",27.6343349926851
+68,"mean_BMI",4654,"Guerrero",2005,22,"All Ages",1,"Male",26.3722892916656
+68,"mean_BMI",4654,"Guerrero",2005,22,"All Ages",2,"Female",26.732379713493
+68,"mean_BMI",4655,"Hidalgo",2005,22,"All Ages",1,"Male",26.1764949658975
+68,"mean_BMI",4655,"Hidalgo",2005,22,"All Ages",2,"Female",27.3651149794098
+68,"mean_BMI",4656,"Jalisco",2005,22,"All Ages",1,"Male",26.9020929641173
+68,"mean_BMI",4656,"Jalisco",2005,22,"All Ages",2,"Female",27.7405297530552
+68,"mean_BMI",4657,"México",2005,22,"All Ages",1,"Male",27.2041529844896
+68,"mean_BMI",4657,"México",2005,22,"All Ages",2,"Female",27.3235237314025
+68,"mean_BMI",4658,"Michoacán de Ocampo",2005,22,"All Ages",1,"Male",26.6235363593999
+68,"mean_BMI",4658,"Michoacán de Ocampo",2005,22,"All Ages",2,"Female",27.3547321621195
+68,"mean_BMI",4659,"Morelos",2005,22,"All Ages",1,"Male",26.9088401442705
+68,"mean_BMI",4659,"Morelos",2005,22,"All Ages",2,"Female",27.3675978784354
+68,"mean_BMI",4660,"Nayarit",2005,22,"All Ages",1,"Male",27.229299636788
+68,"mean_BMI",4660,"Nayarit",2005,22,"All Ages",2,"Female",28.07397657437
+68,"mean_BMI",4661,"Nuevo León",2005,22,"All Ages",1,"Male",27.6682958426534
+68,"mean_BMI",4661,"Nuevo León",2005,22,"All Ages",2,"Female",28.1252429442321
+68,"mean_BMI",4662,"Oaxaca",2005,22,"All Ages",1,"Male",25.568101621139
+68,"mean_BMI",4662,"Oaxaca",2005,22,"All Ages",2,"Female",26.4063749621704
+68,"mean_BMI",4663,"Puebla",2005,22,"All Ages",1,"Male",26.3737388436317
+68,"mean_BMI",4663,"Puebla",2005,22,"All Ages",2,"Female",27.0305813831375
+68,"mean_BMI",4664,"Querétaro",2005,22,"All Ages",1,"Male",26.9900307349407
+68,"mean_BMI",4664,"Querétaro",2005,22,"All Ages",2,"Female",27.7714688831649
+68,"mean_BMI",4665,"Quintana Roo",2005,22,"All Ages",1,"Male",27.8294865833731
+68,"mean_BMI",4665,"Quintana Roo",2005,22,"All Ages",2,"Female",28.6000014692276
+68,"mean_BMI",4666,"San Luis Potosí",2005,22,"All Ages",1,"Male",26.3689958812399
+68,"mean_BMI",4666,"San Luis Potosí",2005,22,"All Ages",2,"Female",27.5830985507949
+68,"mean_BMI",4667,"Sinaloa",2005,22,"All Ages",1,"Male",26.8108904433913
+68,"mean_BMI",4667,"Sinaloa",2005,22,"All Ages",2,"Female",27.6228188937656
+68,"mean_BMI",4668,"Sonora",2005,22,"All Ages",1,"Male",27.2343997328198
+68,"mean_BMI",4668,"Sonora",2005,22,"All Ages",2,"Female",28.2233756675532
+68,"mean_BMI",4669,"Tabasco",2005,22,"All Ages",1,"Male",27.5802569348355
+68,"mean_BMI",4669,"Tabasco",2005,22,"All Ages",2,"Female",28.559327195428
+68,"mean_BMI",4670,"Tamaulipas",2005,22,"All Ages",1,"Male",27.697513041874
+68,"mean_BMI",4670,"Tamaulipas",2005,22,"All Ages",2,"Female",28.607661457617
+68,"mean_BMI",4671,"Tlaxcala",2005,22,"All Ages",1,"Male",27.0045390371656
+68,"mean_BMI",4671,"Tlaxcala",2005,22,"All Ages",2,"Female",27.642854883762
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",1,"Male",26.2810668184607
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",2,"Female",27.0129541847456
+68,"mean_BMI",4673,"Yucatán",2005,22,"All Ages",1,"Male",27.783464837985
+68,"mean_BMI",4673,"Yucatán",2005,22,"All Ages",2,"Female",28.4847774063079
+68,"mean_BMI",4674,"Zacatecas",2005,22,"All Ages",1,"Male",26.5659144744019
+68,"mean_BMI",4674,"Zacatecas",2005,22,"All Ages",2,"Female",27.7255343135629
+68,"mean_BMI",130,"Mexico",2006,22,"All Ages",1,"Male",25.5597841742871
+68,"mean_BMI",130,"Mexico",2006,22,"All Ages",2,"Female",26.6089065964252
+68,"mean_BMI",4643,"Aguascalientes",2006,22,"All Ages",1,"Male",27.1236821300164
+68,"mean_BMI",4643,"Aguascalientes",2006,22,"All Ages",2,"Female",28.042345143586
+68,"mean_BMI",4644,"Baja California",2006,22,"All Ages",1,"Male",27.6770488160114
+68,"mean_BMI",4644,"Baja California",2006,22,"All Ages",2,"Female",28.8805467879622
+68,"mean_BMI",4645,"Baja California Sur",2006,22,"All Ages",1,"Male",27.9398850529189
+68,"mean_BMI",4645,"Baja California Sur",2006,22,"All Ages",2,"Female",28.5776769185002
+68,"mean_BMI",4646,"Campeche",2006,22,"All Ages",1,"Male",28.0086793990972
+68,"mean_BMI",4646,"Campeche",2006,22,"All Ages",2,"Female",29.1273522253432
+68,"mean_BMI",4647,"Coahuila",2006,22,"All Ages",1,"Male",27.2994338983903
+68,"mean_BMI",4647,"Coahuila",2006,22,"All Ages",2,"Female",28.6083384391435
+68,"mean_BMI",4648,"Colima",2006,22,"All Ages",1,"Male",27.7336307472015
+68,"mean_BMI",4648,"Colima",2006,22,"All Ages",2,"Female",28.2365482773802
+68,"mean_BMI",4649,"Chiapas",2006,22,"All Ages",1,"Male",26.1230436885513
+68,"mean_BMI",4649,"Chiapas",2006,22,"All Ages",2,"Female",27.2841995275016
+68,"mean_BMI",4650,"Chihuahua",2006,22,"All Ages",1,"Male",27.2924956869092
+68,"mean_BMI",4650,"Chihuahua",2006,22,"All Ages",2,"Female",28.2625007166952
+68,"mean_BMI",4651,"Mexico City",2006,22,"All Ages",1,"Male",26.8562187606242
+68,"mean_BMI",4651,"Mexico City",2006,22,"All Ages",2,"Female",27.1029683082413
+68,"mean_BMI",4652,"Durango",2006,22,"All Ages",1,"Male",27.0131650088833
+68,"mean_BMI",4652,"Durango",2006,22,"All Ages",2,"Female",27.9717994108324
+68,"mean_BMI",4653,"Guanajuato",2006,22,"All Ages",1,"Male",26.7272272743207
+68,"mean_BMI",4653,"Guanajuato",2006,22,"All Ages",2,"Female",27.6993020475718
+68,"mean_BMI",4654,"Guerrero",2006,22,"All Ages",1,"Male",26.4621798737809
+68,"mean_BMI",4654,"Guerrero",2006,22,"All Ages",2,"Female",26.8745602031873
+68,"mean_BMI",4655,"Hidalgo",2006,22,"All Ages",1,"Male",26.2834393038465
+68,"mean_BMI",4655,"Hidalgo",2006,22,"All Ages",2,"Female",27.4723618010618
+68,"mean_BMI",4656,"Jalisco",2006,22,"All Ages",1,"Male",26.9809779751468
+68,"mean_BMI",4656,"Jalisco",2006,22,"All Ages",2,"Female",27.8104452165304
+68,"mean_BMI",4657,"México",2006,22,"All Ages",1,"Male",27.2723008061819
+68,"mean_BMI",4657,"México",2006,22,"All Ages",2,"Female",27.3428787094629
+68,"mean_BMI",4658,"Michoacán de Ocampo",2006,22,"All Ages",1,"Male",26.7100612361268
+68,"mean_BMI",4658,"Michoacán de Ocampo",2006,22,"All Ages",2,"Female",27.4419900880014
+68,"mean_BMI",4659,"Morelos",2006,22,"All Ages",1,"Male",26.9744826962425
+68,"mean_BMI",4659,"Morelos",2006,22,"All Ages",2,"Female",27.4254326943619
+68,"mean_BMI",4660,"Nayarit",2006,22,"All Ages",1,"Male",27.3262077141718
+68,"mean_BMI",4660,"Nayarit",2006,22,"All Ages",2,"Female",28.1378252984748
+68,"mean_BMI",4661,"Nuevo León",2006,22,"All Ages",1,"Male",27.7732934963914
+68,"mean_BMI",4661,"Nuevo León",2006,22,"All Ages",2,"Female",28.2050568416162
+68,"mean_BMI",4662,"Oaxaca",2006,22,"All Ages",1,"Male",25.6925083726401
+68,"mean_BMI",4662,"Oaxaca",2006,22,"All Ages",2,"Female",26.5396988885306
+68,"mean_BMI",4663,"Puebla",2006,22,"All Ages",1,"Male",26.4799378149627
+68,"mean_BMI",4663,"Puebla",2006,22,"All Ages",2,"Female",27.1344224798677
+68,"mean_BMI",4664,"Querétaro",2006,22,"All Ages",1,"Male",27.0471651476112
+68,"mean_BMI",4664,"Querétaro",2006,22,"All Ages",2,"Female",27.8027565527741
+68,"mean_BMI",4665,"Quintana Roo",2006,22,"All Ages",1,"Male",27.9392369059773
+68,"mean_BMI",4665,"Quintana Roo",2006,22,"All Ages",2,"Female",28.6988721796479
+68,"mean_BMI",4666,"San Luis Potosí",2006,22,"All Ages",1,"Male",26.4246292880649
+68,"mean_BMI",4666,"San Luis Potosí",2006,22,"All Ages",2,"Female",27.681970610502
+68,"mean_BMI",4667,"Sinaloa",2006,22,"All Ages",1,"Male",26.8553272970246
+68,"mean_BMI",4667,"Sinaloa",2006,22,"All Ages",2,"Female",27.6857936925823
+68,"mean_BMI",4668,"Sonora",2006,22,"All Ages",1,"Male",27.3155912953956
+68,"mean_BMI",4668,"Sonora",2006,22,"All Ages",2,"Female",28.3139578651082
+68,"mean_BMI",4669,"Tabasco",2006,22,"All Ages",1,"Male",27.7034739120091
+68,"mean_BMI",4669,"Tabasco",2006,22,"All Ages",2,"Female",28.7029747899947
+68,"mean_BMI",4670,"Tamaulipas",2006,22,"All Ages",1,"Male",27.7649485618866
+68,"mean_BMI",4670,"Tamaulipas",2006,22,"All Ages",2,"Female",28.7158513369887
+68,"mean_BMI",4671,"Tlaxcala",2006,22,"All Ages",1,"Male",27.1028158503419
+68,"mean_BMI",4671,"Tlaxcala",2006,22,"All Ages",2,"Female",27.7014958638432
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",1,"Male",26.3611410682737
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",2,"Female",27.1120119852663
+68,"mean_BMI",4673,"Yucatán",2006,22,"All Ages",1,"Male",27.8936069542114
+68,"mean_BMI",4673,"Yucatán",2006,22,"All Ages",2,"Female",28.5898027338036
+68,"mean_BMI",4674,"Zacatecas",2006,22,"All Ages",1,"Male",26.6448227978172
+68,"mean_BMI",4674,"Zacatecas",2006,22,"All Ages",2,"Female",27.7956878141976
+68,"mean_BMI",130,"Mexico",2007,22,"All Ages",1,"Male",25.643717397091
+68,"mean_BMI",130,"Mexico",2007,22,"All Ages",2,"Female",26.7195748035971
+68,"mean_BMI",4643,"Aguascalientes",2007,22,"All Ages",1,"Male",27.2145386310375
+68,"mean_BMI",4643,"Aguascalientes",2007,22,"All Ages",2,"Female",28.1018954153707
+68,"mean_BMI",4644,"Baja California",2007,22,"All Ages",1,"Male",27.8439486906945
+68,"mean_BMI",4644,"Baja California",2007,22,"All Ages",2,"Female",28.9887669394531
+68,"mean_BMI",4645,"Baja California Sur",2007,22,"All Ages",1,"Male",27.9788037823061
+68,"mean_BMI",4645,"Baja California Sur",2007,22,"All Ages",2,"Female",28.5965115414122
+68,"mean_BMI",4646,"Campeche",2007,22,"All Ages",1,"Male",28.154915618247
+68,"mean_BMI",4646,"Campeche",2007,22,"All Ages",2,"Female",29.2121343587352
+68,"mean_BMI",4647,"Coahuila",2007,22,"All Ages",1,"Male",27.3886941863754
+68,"mean_BMI",4647,"Coahuila",2007,22,"All Ages",2,"Female",28.7106384424085
+68,"mean_BMI",4648,"Colima",2007,22,"All Ages",1,"Male",27.803753283532
+68,"mean_BMI",4648,"Colima",2007,22,"All Ages",2,"Female",28.3447694750633
+68,"mean_BMI",4649,"Chiapas",2007,22,"All Ages",1,"Male",26.2116517617084
+68,"mean_BMI",4649,"Chiapas",2007,22,"All Ages",2,"Female",27.3805540734415
+68,"mean_BMI",4650,"Chihuahua",2007,22,"All Ages",1,"Male",27.3826921058574
+68,"mean_BMI",4650,"Chihuahua",2007,22,"All Ages",2,"Female",28.3254370897913
+68,"mean_BMI",4651,"Mexico City",2007,22,"All Ages",1,"Male",26.9043252848609
+68,"mean_BMI",4651,"Mexico City",2007,22,"All Ages",2,"Female",27.1395702277319
+68,"mean_BMI",4652,"Durango",2007,22,"All Ages",1,"Male",27.0780707756618
+68,"mean_BMI",4652,"Durango",2007,22,"All Ages",2,"Female",28.026899902226
+68,"mean_BMI",4653,"Guanajuato",2007,22,"All Ages",1,"Male",26.8058778102451
+68,"mean_BMI",4653,"Guanajuato",2007,22,"All Ages",2,"Female",27.7699732657836
+68,"mean_BMI",4654,"Guerrero",2007,22,"All Ages",1,"Male",26.5405031747957
+68,"mean_BMI",4654,"Guerrero",2007,22,"All Ages",2,"Female",27.0261343322468
+68,"mean_BMI",4655,"Hidalgo",2007,22,"All Ages",1,"Male",26.3948593089976
+68,"mean_BMI",4655,"Hidalgo",2007,22,"All Ages",2,"Female",27.5850425330549
+68,"mean_BMI",4656,"Jalisco",2007,22,"All Ages",1,"Male",27.0639890488079
+68,"mean_BMI",4656,"Jalisco",2007,22,"All Ages",2,"Female",27.8889222423178
+68,"mean_BMI",4657,"México",2007,22,"All Ages",1,"Male",27.3281169148596
+68,"mean_BMI",4657,"México",2007,22,"All Ages",2,"Female",27.3741369478623
+68,"mean_BMI",4658,"Michoacán de Ocampo",2007,22,"All Ages",1,"Male",26.7921594621899
+68,"mean_BMI",4658,"Michoacán de Ocampo",2007,22,"All Ages",2,"Female",27.5339403614963
+68,"mean_BMI",4659,"Morelos",2007,22,"All Ages",1,"Male",27.0408143870288
+68,"mean_BMI",4659,"Morelos",2007,22,"All Ages",2,"Female",27.4929703757112
+68,"mean_BMI",4660,"Nayarit",2007,22,"All Ages",1,"Male",27.4190959682471
+68,"mean_BMI",4660,"Nayarit",2007,22,"All Ages",2,"Female",28.2036934976648
+68,"mean_BMI",4661,"Nuevo León",2007,22,"All Ages",1,"Male",27.8803406444286
+68,"mean_BMI",4661,"Nuevo León",2007,22,"All Ages",2,"Female",28.2925174707757
+68,"mean_BMI",4662,"Oaxaca",2007,22,"All Ages",1,"Male",25.8167653360149
+68,"mean_BMI",4662,"Oaxaca",2007,22,"All Ages",2,"Female",26.6767742892896
+68,"mean_BMI",4663,"Puebla",2007,22,"All Ages",1,"Male",26.588694775374
+68,"mean_BMI",4663,"Puebla",2007,22,"All Ages",2,"Female",27.2493010558118
+68,"mean_BMI",4664,"Querétaro",2007,22,"All Ages",1,"Male",27.1021925044489
+68,"mean_BMI",4664,"Querétaro",2007,22,"All Ages",2,"Female",27.8369894325622
+68,"mean_BMI",4665,"Quintana Roo",2007,22,"All Ages",1,"Male",28.0440416365026
+68,"mean_BMI",4665,"Quintana Roo",2007,22,"All Ages",2,"Female",28.8023627057732
+68,"mean_BMI",4666,"San Luis Potosí",2007,22,"All Ages",1,"Male",26.4735414543116
+68,"mean_BMI",4666,"San Luis Potosí",2007,22,"All Ages",2,"Female",27.7800999572503
+68,"mean_BMI",4667,"Sinaloa",2007,22,"All Ages",1,"Male",26.899840313424
+68,"mean_BMI",4667,"Sinaloa",2007,22,"All Ages",2,"Female",27.7548437555917
+68,"mean_BMI",4668,"Sonora",2007,22,"All Ages",1,"Male",27.3944636785392
+68,"mean_BMI",4668,"Sonora",2007,22,"All Ages",2,"Female",28.4097105846265
+68,"mean_BMI",4669,"Tabasco",2007,22,"All Ages",1,"Male",27.8248779246285
+68,"mean_BMI",4669,"Tabasco",2007,22,"All Ages",2,"Female",28.8517898118328
+68,"mean_BMI",4670,"Tamaulipas",2007,22,"All Ages",1,"Male",27.8375981737278
+68,"mean_BMI",4670,"Tamaulipas",2007,22,"All Ages",2,"Female",28.8381914033693
+68,"mean_BMI",4671,"Tlaxcala",2007,22,"All Ages",1,"Male",27.2103599936974
+68,"mean_BMI",4671,"Tlaxcala",2007,22,"All Ages",2,"Female",27.7665025945649
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",1,"Male",26.441364869255
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",2,"Female",27.2252014606979
+68,"mean_BMI",4673,"Yucatán",2007,22,"All Ages",1,"Male",28.001788611829
+68,"mean_BMI",4673,"Yucatán",2007,22,"All Ages",2,"Female",28.7000833771625
+68,"mean_BMI",4674,"Zacatecas",2007,22,"All Ages",1,"Male",26.7205578462267
+68,"mean_BMI",4674,"Zacatecas",2007,22,"All Ages",2,"Female",27.8682665849198
+68,"mean_BMI",130,"Mexico",2008,22,"All Ages",1,"Male",25.7319927653259
+68,"mean_BMI",130,"Mexico",2008,22,"All Ages",2,"Female",26.8308958651486
+68,"mean_BMI",4643,"Aguascalientes",2008,22,"All Ages",1,"Male",27.3197553952781
+68,"mean_BMI",4643,"Aguascalientes",2008,22,"All Ages",2,"Female",28.1753512772369
+68,"mean_BMI",4644,"Baja California",2008,22,"All Ages",1,"Male",28.0354780616404
+68,"mean_BMI",4644,"Baja California",2008,22,"All Ages",2,"Female",29.1365633577891
+68,"mean_BMI",4645,"Baja California Sur",2008,22,"All Ages",1,"Male",28.0390943349501
+68,"mean_BMI",4645,"Baja California Sur",2008,22,"All Ages",2,"Female",28.6523564138601
+68,"mean_BMI",4646,"Campeche",2008,22,"All Ages",1,"Male",28.2969174083089
+68,"mean_BMI",4646,"Campeche",2008,22,"All Ages",2,"Female",29.3108284389254
+68,"mean_BMI",4647,"Coahuila",2008,22,"All Ages",1,"Male",27.480566501244
+68,"mean_BMI",4647,"Coahuila",2008,22,"All Ages",2,"Female",28.8344002910619
+68,"mean_BMI",4648,"Colima",2008,22,"All Ages",1,"Male",27.8670889707422
+68,"mean_BMI",4648,"Colima",2008,22,"All Ages",2,"Female",28.4676465336387
+68,"mean_BMI",4649,"Chiapas",2008,22,"All Ages",1,"Male",26.2947500820369
+68,"mean_BMI",4649,"Chiapas",2008,22,"All Ages",2,"Female",27.4890487607694
+68,"mean_BMI",4650,"Chihuahua",2008,22,"All Ages",1,"Male",27.4762612432527
+68,"mean_BMI",4650,"Chihuahua",2008,22,"All Ages",2,"Female",28.4020730397163
+68,"mean_BMI",4651,"Mexico City",2008,22,"All Ages",1,"Male",26.9864947334946
+68,"mean_BMI",4651,"Mexico City",2008,22,"All Ages",2,"Female",27.2304982072506
+68,"mean_BMI",4652,"Durango",2008,22,"All Ages",1,"Male",27.1328997962493
+68,"mean_BMI",4652,"Durango",2008,22,"All Ages",2,"Female",28.0940748240361
+68,"mean_BMI",4653,"Guanajuato",2008,22,"All Ages",1,"Male",26.8814548373095
+68,"mean_BMI",4653,"Guanajuato",2008,22,"All Ages",2,"Female",27.8549206355817
+68,"mean_BMI",4654,"Guerrero",2008,22,"All Ages",1,"Male",26.60634139379
+68,"mean_BMI",4654,"Guerrero",2008,22,"All Ages",2,"Female",27.1885469665929
+68,"mean_BMI",4655,"Hidalgo",2008,22,"All Ages",1,"Male",26.5049514222569
+68,"mean_BMI",4655,"Hidalgo",2008,22,"All Ages",2,"Female",27.7103348526564
+68,"mean_BMI",4656,"Jalisco",2008,22,"All Ages",1,"Male",27.160490813709
+68,"mean_BMI",4656,"Jalisco",2008,22,"All Ages",2,"Female",27.9822066673329
+68,"mean_BMI",4657,"México",2008,22,"All Ages",1,"Male",27.3790335336596
+68,"mean_BMI",4657,"México",2008,22,"All Ages",2,"Female",27.4560922273408
+68,"mean_BMI",4658,"Michoacán de Ocampo",2008,22,"All Ages",1,"Male",26.8707858076893
+68,"mean_BMI",4658,"Michoacán de Ocampo",2008,22,"All Ages",2,"Female",27.6364042418423
+68,"mean_BMI",4659,"Morelos",2008,22,"All Ages",1,"Male",27.1077953720593
+68,"mean_BMI",4659,"Morelos",2008,22,"All Ages",2,"Female",27.5751229142851
+68,"mean_BMI",4660,"Nayarit",2008,22,"All Ages",1,"Male",27.5081090647795
+68,"mean_BMI",4660,"Nayarit",2008,22,"All Ages",2,"Female",28.2821917346637
+68,"mean_BMI",4661,"Nuevo León",2008,22,"All Ages",1,"Male",27.9878847423408
+68,"mean_BMI",4661,"Nuevo León",2008,22,"All Ages",2,"Female",28.3960205093267
+68,"mean_BMI",4662,"Oaxaca",2008,22,"All Ages",1,"Male",25.9352782604013
+68,"mean_BMI",4662,"Oaxaca",2008,22,"All Ages",2,"Female",26.8193276585701
+68,"mean_BMI",4663,"Puebla",2008,22,"All Ages",1,"Male",26.6938753727734
+68,"mean_BMI",4663,"Puebla",2008,22,"All Ages",2,"Female",27.3760930025804
+68,"mean_BMI",4664,"Querétaro",2008,22,"All Ages",1,"Male",27.1716027492922
+68,"mean_BMI",4664,"Querétaro",2008,22,"All Ages",2,"Female",27.9000842386877
+68,"mean_BMI",4665,"Quintana Roo",2008,22,"All Ages",1,"Male",28.1427059180265
+68,"mean_BMI",4665,"Quintana Roo",2008,22,"All Ages",2,"Female",28.923871234878
+68,"mean_BMI",4666,"San Luis Potosí",2008,22,"All Ages",1,"Male",26.5182825461655
+68,"mean_BMI",4666,"San Luis Potosí",2008,22,"All Ages",2,"Female",27.8873423380669
+68,"mean_BMI",4667,"Sinaloa",2008,22,"All Ages",1,"Male",26.9455444913763
+68,"mean_BMI",4667,"Sinaloa",2008,22,"All Ages",2,"Female",27.8369222725103
+68,"mean_BMI",4668,"Sonora",2008,22,"All Ages",1,"Male",27.4721791613391
+68,"mean_BMI",4668,"Sonora",2008,22,"All Ages",2,"Female",28.5195536038695
+68,"mean_BMI",4669,"Tabasco",2008,22,"All Ages",1,"Male",27.9445987708381
+68,"mean_BMI",4669,"Tabasco",2008,22,"All Ages",2,"Female",29.0163821674238
+68,"mean_BMI",4670,"Tamaulipas",2008,22,"All Ages",1,"Male",27.9172575401426
+68,"mean_BMI",4670,"Tamaulipas",2008,22,"All Ages",2,"Female",28.9860787209155
+68,"mean_BMI",4671,"Tlaxcala",2008,22,"All Ages",1,"Male",27.3306177656132
+68,"mean_BMI",4671,"Tlaxcala",2008,22,"All Ages",2,"Female",27.8500206488106
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",1,"Male",26.5226194165452
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",2,"Female",27.3748632815301
+68,"mean_BMI",4673,"Yucatán",2008,22,"All Ages",1,"Male",28.1118193544703
+68,"mean_BMI",4673,"Yucatán",2008,22,"All Ages",2,"Female",28.8271537343936
+68,"mean_BMI",4674,"Zacatecas",2008,22,"All Ages",1,"Male",26.7920762659592
+68,"mean_BMI",4674,"Zacatecas",2008,22,"All Ages",2,"Female",27.952438484966
+68,"mean_BMI",130,"Mexico",2009,22,"All Ages",1,"Male",25.8167041749786
+68,"mean_BMI",130,"Mexico",2009,22,"All Ages",2,"Female",26.9304051387553
+68,"mean_BMI",4643,"Aguascalientes",2009,22,"All Ages",1,"Male",27.4028166129721
+68,"mean_BMI",4643,"Aguascalientes",2009,22,"All Ages",2,"Female",28.235108151798
+68,"mean_BMI",4644,"Baja California",2009,22,"All Ages",1,"Male",28.1941325953106
+68,"mean_BMI",4644,"Baja California",2009,22,"All Ages",2,"Female",29.2650350435785
+68,"mean_BMI",4645,"Baja California Sur",2009,22,"All Ages",1,"Male",28.1181716675
+68,"mean_BMI",4645,"Baja California Sur",2009,22,"All Ages",2,"Female",28.7362757682725
+68,"mean_BMI",4646,"Campeche",2009,22,"All Ages",1,"Male",28.4085201867812
+68,"mean_BMI",4646,"Campeche",2009,22,"All Ages",2,"Female",29.3897139539352
+68,"mean_BMI",4647,"Coahuila",2009,22,"All Ages",1,"Male",27.5425466158836
+68,"mean_BMI",4647,"Coahuila",2009,22,"All Ages",2,"Female",28.9355878144525
+68,"mean_BMI",4648,"Colima",2009,22,"All Ages",1,"Male",27.9052724136984
+68,"mean_BMI",4648,"Colima",2009,22,"All Ages",2,"Female",28.5731599257091
+68,"mean_BMI",4649,"Chiapas",2009,22,"All Ages",1,"Male",26.3593698870712
+68,"mean_BMI",4649,"Chiapas",2009,22,"All Ages",2,"Female",27.5785957863253
+68,"mean_BMI",4650,"Chihuahua",2009,22,"All Ages",1,"Male",27.5500621816365
+68,"mean_BMI",4650,"Chihuahua",2009,22,"All Ages",2,"Female",28.4649418411975
+68,"mean_BMI",4651,"Mexico City",2009,22,"All Ages",1,"Male",27.06106213953
+68,"mean_BMI",4651,"Mexico City",2009,22,"All Ages",2,"Female",27.3251445671659
+68,"mean_BMI",4652,"Durango",2009,22,"All Ages",1,"Male",27.1564178285783
+68,"mean_BMI",4652,"Durango",2009,22,"All Ages",2,"Female",28.139185002536
+68,"mean_BMI",4653,"Guanajuato",2009,22,"All Ages",1,"Male",26.9330082798673
+68,"mean_BMI",4653,"Guanajuato",2009,22,"All Ages",2,"Female",27.922864624435
+68,"mean_BMI",4654,"Guerrero",2009,22,"All Ages",1,"Male",26.644735942789
+68,"mean_BMI",4654,"Guerrero",2009,22,"All Ages",2,"Female",27.3325253123827
+68,"mean_BMI",4655,"Hidalgo",2009,22,"All Ages",1,"Male",26.5892557155409
+68,"mean_BMI",4655,"Hidalgo",2009,22,"All Ages",2,"Female",27.8134272801503
+68,"mean_BMI",4656,"Jalisco",2009,22,"All Ages",1,"Male",27.2280705214732
+68,"mean_BMI",4656,"Jalisco",2009,22,"All Ages",2,"Female",28.0555860545328
+68,"mean_BMI",4657,"México",2009,22,"All Ages",1,"Male",27.4212726145697
+68,"mean_BMI",4657,"México",2009,22,"All Ages",2,"Female",27.5524593423694
+68,"mean_BMI",4658,"Michoacán de Ocampo",2009,22,"All Ages",1,"Male",26.9232081568762
+68,"mean_BMI",4658,"Michoacán de Ocampo",2009,22,"All Ages",2,"Female",27.7188442382462
+68,"mean_BMI",4659,"Morelos",2009,22,"All Ages",1,"Male",27.1494039116728
+68,"mean_BMI",4659,"Morelos",2009,22,"All Ages",2,"Female",27.6407991168697
+68,"mean_BMI",4660,"Nayarit",2009,22,"All Ages",1,"Male",27.5714858144977
+68,"mean_BMI",4660,"Nayarit",2009,22,"All Ages",2,"Female",28.3463828615806
+68,"mean_BMI",4661,"Nuevo León",2009,22,"All Ages",1,"Male",28.0609590190429
+68,"mean_BMI",4661,"Nuevo León",2009,22,"All Ages",2,"Female",28.4761199119235
+68,"mean_BMI",4662,"Oaxaca",2009,22,"All Ages",1,"Male",26.0259656705586
+68,"mean_BMI",4662,"Oaxaca",2009,22,"All Ages",2,"Female",26.9342948710398
+68,"mean_BMI",4663,"Puebla",2009,22,"All Ages",1,"Male",26.7733506910028
+68,"mean_BMI",4663,"Puebla",2009,22,"All Ages",2,"Female",27.4809151959072
+68,"mean_BMI",4664,"Querétaro",2009,22,"All Ages",1,"Male",27.2215667234925
+68,"mean_BMI",4664,"Querétaro",2009,22,"All Ages",2,"Female",27.9537517859551
+68,"mean_BMI",4665,"Quintana Roo",2009,22,"All Ages",1,"Male",28.2147760940957
+68,"mean_BMI",4665,"Quintana Roo",2009,22,"All Ages",2,"Female",29.0307830145219
+68,"mean_BMI",4666,"San Luis Potosí",2009,22,"All Ages",1,"Male",26.5433027174964
+68,"mean_BMI",4666,"San Luis Potosí",2009,22,"All Ages",2,"Female",27.9786533715807
+68,"mean_BMI",4667,"Sinaloa",2009,22,"All Ages",1,"Male",26.9669756062199
+68,"mean_BMI",4667,"Sinaloa",2009,22,"All Ages",2,"Female",27.8981603337665
+68,"mean_BMI",4668,"Sonora",2009,22,"All Ages",1,"Male",27.5220061262529
+68,"mean_BMI",4668,"Sonora",2009,22,"All Ages",2,"Female",28.6071011257077
+68,"mean_BMI",4669,"Tabasco",2009,22,"All Ages",1,"Male",28.0373081718843
+68,"mean_BMI",4669,"Tabasco",2009,22,"All Ages",2,"Female",29.1595797825954
+68,"mean_BMI",4670,"Tamaulipas",2009,22,"All Ages",1,"Male",27.9724181447418
+68,"mean_BMI",4670,"Tamaulipas",2009,22,"All Ages",2,"Female",29.1185809146809
+68,"mean_BMI",4671,"Tlaxcala",2009,22,"All Ages",1,"Male",27.4192319984729
+68,"mean_BMI",4671,"Tlaxcala",2009,22,"All Ages",2,"Female",27.9059777915437
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",1,"Male",26.5791064591375
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",2,"Female",27.5035296271344
+68,"mean_BMI",4673,"Yucatán",2009,22,"All Ages",1,"Male",28.1926869350708
+68,"mean_BMI",4673,"Yucatán",2009,22,"All Ages",2,"Female",28.9348497533532
+68,"mean_BMI",4674,"Zacatecas",2009,22,"All Ages",1,"Male",26.8443263471845
+68,"mean_BMI",4674,"Zacatecas",2009,22,"All Ages",2,"Female",28.022934703
+68,"mean_BMI",130,"Mexico",2010,22,"All Ages",1,"Male",25.9067921516521
+68,"mean_BMI",130,"Mexico",2010,22,"All Ages",2,"Female",27.0282293302783
+68,"mean_BMI",4643,"Aguascalientes",2010,22,"All Ages",1,"Male",27.4971184958572
+68,"mean_BMI",4643,"Aguascalientes",2010,22,"All Ages",2,"Female",28.3153200106668
+68,"mean_BMI",4644,"Baja California",2010,22,"All Ages",1,"Male",28.3637958155606
+68,"mean_BMI",4644,"Baja California",2010,22,"All Ages",2,"Female",29.413744809043
+68,"mean_BMI",4645,"Baja California Sur",2010,22,"All Ages",1,"Male",28.2445457148103
+68,"mean_BMI",4645,"Baja California Sur",2010,22,"All Ages",2,"Female",28.873880974352
+68,"mean_BMI",4646,"Campeche",2010,22,"All Ages",1,"Male",28.5307507899931
+68,"mean_BMI",4646,"Campeche",2010,22,"All Ages",2,"Female",29.4888563602703
+68,"mean_BMI",4647,"Coahuila",2010,22,"All Ages",1,"Male",27.6133217336677
+68,"mean_BMI",4647,"Coahuila",2010,22,"All Ages",2,"Female",29.052557663309
+68,"mean_BMI",4648,"Colima",2010,22,"All Ages",1,"Male",27.9551247694563
+68,"mean_BMI",4648,"Colima",2010,22,"All Ages",2,"Female",28.6942085345478
+68,"mean_BMI",4649,"Chiapas",2010,22,"All Ages",1,"Male",26.437428394857
+68,"mean_BMI",4649,"Chiapas",2010,22,"All Ages",2,"Female",27.6852422455789
+68,"mean_BMI",4650,"Chihuahua",2010,22,"All Ages",1,"Male",27.6431846236311
+68,"mean_BMI",4650,"Chihuahua",2010,22,"All Ages",2,"Female",28.5540863458625
+68,"mean_BMI",4651,"Mexico City",2010,22,"All Ages",1,"Male",27.1761041227241
+68,"mean_BMI",4651,"Mexico City",2010,22,"All Ages",2,"Female",27.4704808482002
+68,"mean_BMI",4652,"Durango",2010,22,"All Ages",1,"Male",27.1846274544827
+68,"mean_BMI",4652,"Durango",2010,22,"All Ages",2,"Female",28.1976893833189
+68,"mean_BMI",4653,"Guanajuato",2010,22,"All Ages",1,"Male",26.9950245366561
+68,"mean_BMI",4653,"Guanajuato",2010,22,"All Ages",2,"Female",28.0071734583514
+68,"mean_BMI",4654,"Guerrero",2010,22,"All Ages",1,"Male",26.7032183627411
+68,"mean_BMI",4654,"Guerrero",2010,22,"All Ages",2,"Female",27.5000511092916
+68,"mean_BMI",4655,"Hidalgo",2010,22,"All Ages",1,"Male",26.6774532404602
+68,"mean_BMI",4655,"Hidalgo",2010,22,"All Ages",2,"Female",27.9239660414112
+68,"mean_BMI",4656,"Jalisco",2010,22,"All Ages",1,"Male",27.304876410783
+68,"mean_BMI",4656,"Jalisco",2010,22,"All Ages",2,"Female",28.1448574473373
+68,"mean_BMI",4657,"México",2010,22,"All Ages",1,"Male",27.483658367509
+68,"mean_BMI",4657,"México",2010,22,"All Ages",2,"Female",27.679519740458
+68,"mean_BMI",4658,"Michoacán de Ocampo",2010,22,"All Ages",1,"Male",26.9818546360383
+68,"mean_BMI",4658,"Michoacán de Ocampo",2010,22,"All Ages",2,"Female",27.8106331740649
+68,"mean_BMI",4659,"Morelos",2010,22,"All Ages",1,"Male",27.1997736762865
+68,"mean_BMI",4659,"Morelos",2010,22,"All Ages",2,"Female",27.7179722943948
+68,"mean_BMI",4660,"Nayarit",2010,22,"All Ages",1,"Male",27.6501289477118
+68,"mean_BMI",4660,"Nayarit",2010,22,"All Ages",2,"Female",28.4378110060553
+68,"mean_BMI",4661,"Nuevo León",2010,22,"All Ages",1,"Male",28.1405779329228
+68,"mean_BMI",4661,"Nuevo León",2010,22,"All Ages",2,"Female",28.5705826850648
+68,"mean_BMI",4662,"Oaxaca",2010,22,"All Ages",1,"Male",26.1141647667392
+68,"mean_BMI",4662,"Oaxaca",2010,22,"All Ages",2,"Female",27.0489141713219
+68,"mean_BMI",4663,"Puebla",2010,22,"All Ages",1,"Male",26.8540176751824
+68,"mean_BMI",4663,"Puebla",2010,22,"All Ages",2,"Female",27.5938497962909
+68,"mean_BMI",4664,"Querétaro",2010,22,"All Ages",1,"Male",27.2808395873807
+68,"mean_BMI",4664,"Querétaro",2010,22,"All Ages",2,"Female",28.0244365036787
+68,"mean_BMI",4665,"Quintana Roo",2010,22,"All Ages",1,"Male",28.3028635343694
+68,"mean_BMI",4665,"Quintana Roo",2010,22,"All Ages",2,"Female",29.1584870277262
+68,"mean_BMI",4666,"San Luis Potosí",2010,22,"All Ages",1,"Male",26.5872709864168
+68,"mean_BMI",4666,"San Luis Potosí",2010,22,"All Ages",2,"Female",28.0954236469454
+68,"mean_BMI",4667,"Sinaloa",2010,22,"All Ages",1,"Male",26.9960644476702
+68,"mean_BMI",4667,"Sinaloa",2010,22,"All Ages",2,"Female",27.9726413502753
+68,"mean_BMI",4668,"Sonora",2010,22,"All Ages",1,"Male",27.5820124032911
+68,"mean_BMI",4668,"Sonora",2010,22,"All Ages",2,"Female",28.7108502210501
+68,"mean_BMI",4669,"Tabasco",2010,22,"All Ages",1,"Male",28.1435055183698
+68,"mean_BMI",4669,"Tabasco",2010,22,"All Ages",2,"Female",29.3185643690369
+68,"mean_BMI",4670,"Tamaulipas",2010,22,"All Ages",1,"Male",28.0466974738786
+68,"mean_BMI",4670,"Tamaulipas",2010,22,"All Ages",2,"Female",29.2732681529047
+68,"mean_BMI",4671,"Tlaxcala",2010,22,"All Ages",1,"Male",27.5033684082939
+68,"mean_BMI",4671,"Tlaxcala",2010,22,"All Ages",2,"Female",27.9625915043393
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",1,"Male",26.6431677429293
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",2,"Female",27.6418245498117
+68,"mean_BMI",4673,"Yucatán",2010,22,"All Ages",1,"Male",28.2794553219389
+68,"mean_BMI",4673,"Yucatán",2010,22,"All Ages",2,"Female",29.0545118085917
+68,"mean_BMI",4674,"Zacatecas",2010,22,"All Ages",1,"Male",26.9114271400789
+68,"mean_BMI",4674,"Zacatecas",2010,22,"All Ages",2,"Female",28.1153233529447
+68,"mean_BMI",130,"Mexico",2011,22,"All Ages",1,"Male",25.9946402651274
+68,"mean_BMI",130,"Mexico",2011,22,"All Ages",2,"Female",27.1248782220204
+68,"mean_BMI",4643,"Aguascalientes",2011,22,"All Ages",1,"Male",27.5689067179611
+68,"mean_BMI",4643,"Aguascalientes",2011,22,"All Ages",2,"Female",28.3781558000762
+68,"mean_BMI",4644,"Baja California",2011,22,"All Ages",1,"Male",28.5016851568876
+68,"mean_BMI",4644,"Baja California",2011,22,"All Ages",2,"Female",29.5362425162595
+68,"mean_BMI",4645,"Baja California Sur",2011,22,"All Ages",1,"Male",28.3434227813635
+68,"mean_BMI",4645,"Baja California Sur",2011,22,"All Ages",2,"Female",28.996668285119
+68,"mean_BMI",4646,"Campeche",2011,22,"All Ages",1,"Male",28.617385369614
+68,"mean_BMI",4646,"Campeche",2011,22,"All Ages",2,"Female",29.5624175859372
+68,"mean_BMI",4647,"Coahuila",2011,22,"All Ages",1,"Male",27.6918876458044
+68,"mean_BMI",4647,"Coahuila",2011,22,"All Ages",2,"Female",29.1450756845608
+68,"mean_BMI",4648,"Colima",2011,22,"All Ages",1,"Male",27.9806741007208
+68,"mean_BMI",4648,"Colima",2011,22,"All Ages",2,"Female",28.7893498073767
+68,"mean_BMI",4649,"Chiapas",2011,22,"All Ages",1,"Male",26.4917860355544
+68,"mean_BMI",4649,"Chiapas",2011,22,"All Ages",2,"Female",27.767636473195
+68,"mean_BMI",4650,"Chihuahua",2011,22,"All Ages",1,"Male",27.7164520444365
+68,"mean_BMI",4650,"Chihuahua",2011,22,"All Ages",2,"Female",28.6270380590295
+68,"mean_BMI",4651,"Mexico City",2011,22,"All Ages",1,"Male",27.3121969555204
+68,"mean_BMI",4651,"Mexico City",2011,22,"All Ages",2,"Female",27.6243088096165
+68,"mean_BMI",4652,"Durango",2011,22,"All Ages",1,"Male",27.2039017739756
+68,"mean_BMI",4652,"Durango",2011,22,"All Ages",2,"Female",28.2522216542825
+68,"mean_BMI",4653,"Guanajuato",2011,22,"All Ages",1,"Male",27.0554766353927
+68,"mean_BMI",4653,"Guanajuato",2011,22,"All Ages",2,"Female",28.0865752567777
+68,"mean_BMI",4654,"Guerrero",2011,22,"All Ages",1,"Male",26.7493074932888
+68,"mean_BMI",4654,"Guerrero",2011,22,"All Ages",2,"Female",27.6510375137866
+68,"mean_BMI",4655,"Hidalgo",2011,22,"All Ages",1,"Male",26.7359543145326
+68,"mean_BMI",4655,"Hidalgo",2011,22,"All Ages",2,"Female",28.0049510717691
+68,"mean_BMI",4656,"Jalisco",2011,22,"All Ages",1,"Male",27.3577958564232
+68,"mean_BMI",4656,"Jalisco",2011,22,"All Ages",2,"Female",28.2279301145772
+68,"mean_BMI",4657,"México",2011,22,"All Ages",1,"Male",27.5322676016708
+68,"mean_BMI",4657,"México",2011,22,"All Ages",2,"Female",27.7951817693165
+68,"mean_BMI",4658,"Michoacán de Ocampo",2011,22,"All Ages",1,"Male",27.002971852684
+68,"mean_BMI",4658,"Michoacán de Ocampo",2011,22,"All Ages",2,"Female",27.8871641913111
+68,"mean_BMI",4659,"Morelos",2011,22,"All Ages",1,"Male",27.2503373118042
+68,"mean_BMI",4659,"Morelos",2011,22,"All Ages",2,"Female",27.8057168303783
+68,"mean_BMI",4660,"Nayarit",2011,22,"All Ages",1,"Male",27.7026218940488
+68,"mean_BMI",4660,"Nayarit",2011,22,"All Ages",2,"Female",28.5110246129436
+68,"mean_BMI",4661,"Nuevo León",2011,22,"All Ages",1,"Male",28.2128752197914
+68,"mean_BMI",4661,"Nuevo León",2011,22,"All Ages",2,"Female",28.6630986225382
+68,"mean_BMI",4662,"Oaxaca",2011,22,"All Ages",1,"Male",26.1363495823402
+68,"mean_BMI",4662,"Oaxaca",2011,22,"All Ages",2,"Female",27.1394538309972
+68,"mean_BMI",4663,"Puebla",2011,22,"All Ages",1,"Male",26.9122952246631
+68,"mean_BMI",4663,"Puebla",2011,22,"All Ages",2,"Female",27.692566939857
+68,"mean_BMI",4664,"Querétaro",2011,22,"All Ages",1,"Male",27.3204745016514
+68,"mean_BMI",4664,"Querétaro",2011,22,"All Ages",2,"Female",28.0790431538425
+68,"mean_BMI",4665,"Quintana Roo",2011,22,"All Ages",1,"Male",28.3621731145055
+68,"mean_BMI",4665,"Quintana Roo",2011,22,"All Ages",2,"Female",29.2572382452096
+68,"mean_BMI",4666,"San Luis Potosí",2011,22,"All Ages",1,"Male",26.6216635550168
+68,"mean_BMI",4666,"San Luis Potosí",2011,22,"All Ages",2,"Female",28.1962934226588
+68,"mean_BMI",4667,"Sinaloa",2011,22,"All Ages",1,"Male",27.0411364209364
+68,"mean_BMI",4667,"Sinaloa",2011,22,"All Ages",2,"Female",28.0408333147241
+68,"mean_BMI",4668,"Sonora",2011,22,"All Ages",1,"Male",27.6346246570938
+68,"mean_BMI",4668,"Sonora",2011,22,"All Ages",2,"Female",28.791225626633
+68,"mean_BMI",4669,"Tabasco",2011,22,"All Ages",1,"Male",28.2079999704704
+68,"mean_BMI",4669,"Tabasco",2011,22,"All Ages",2,"Female",29.4335318637517
+68,"mean_BMI",4670,"Tamaulipas",2011,22,"All Ages",1,"Male",28.0894969661737
+68,"mean_BMI",4670,"Tamaulipas",2011,22,"All Ages",2,"Female",29.3874403035194
+68,"mean_BMI",4671,"Tlaxcala",2011,22,"All Ages",1,"Male",27.5644684257477
+68,"mean_BMI",4671,"Tlaxcala",2011,22,"All Ages",2,"Female",28.0029130705496
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",1,"Male",26.7075094788894
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",2,"Female",27.7450008134803
+68,"mean_BMI",4673,"Yucatán",2011,22,"All Ages",1,"Male",28.3257215895041
+68,"mean_BMI",4673,"Yucatán",2011,22,"All Ages",2,"Female",29.1187549687436
+68,"mean_BMI",4674,"Zacatecas",2011,22,"All Ages",1,"Male",26.9586936273798
+68,"mean_BMI",4674,"Zacatecas",2011,22,"All Ages",2,"Female",28.1891595404546
+68,"mean_BMI",130,"Mexico",2012,22,"All Ages",1,"Male",26.0785672859117
+68,"mean_BMI",130,"Mexico",2012,22,"All Ages",2,"Female",27.2168601450889
+68,"mean_BMI",4643,"Aguascalientes",2012,22,"All Ages",1,"Male",27.6241148189503
+68,"mean_BMI",4643,"Aguascalientes",2012,22,"All Ages",2,"Female",28.4528255221388
+68,"mean_BMI",4644,"Baja California",2012,22,"All Ages",1,"Male",28.6093841207598
+68,"mean_BMI",4644,"Baja California",2012,22,"All Ages",2,"Female",29.6547578907866
+68,"mean_BMI",4645,"Baja California Sur",2012,22,"All Ages",1,"Male",28.4038178240853
+68,"mean_BMI",4645,"Baja California Sur",2012,22,"All Ages",2,"Female",29.0802982541519
+68,"mean_BMI",4646,"Campeche",2012,22,"All Ages",1,"Male",28.6592456887906
+68,"mean_BMI",4646,"Campeche",2012,22,"All Ages",2,"Female",29.63303180697
+68,"mean_BMI",4647,"Coahuila",2012,22,"All Ages",1,"Male",27.7416084399128
+68,"mean_BMI",4647,"Coahuila",2012,22,"All Ages",2,"Female",29.2087866517173
+68,"mean_BMI",4648,"Colima",2012,22,"All Ages",1,"Male",28.0166960822423
+68,"mean_BMI",4648,"Colima",2012,22,"All Ages",2,"Female",28.8623584897657
+68,"mean_BMI",4649,"Chiapas",2012,22,"All Ages",1,"Male",26.5424409990979
+68,"mean_BMI",4649,"Chiapas",2012,22,"All Ages",2,"Female",27.8430467491089
+68,"mean_BMI",4650,"Chihuahua",2012,22,"All Ages",1,"Male",27.7998717279407
+68,"mean_BMI",4650,"Chihuahua",2012,22,"All Ages",2,"Female",28.7280479747543
+68,"mean_BMI",4651,"Mexico City",2012,22,"All Ages",1,"Male",27.436125284661
+68,"mean_BMI",4651,"Mexico City",2012,22,"All Ages",2,"Female",27.7649996127648
+68,"mean_BMI",4652,"Durango",2012,22,"All Ages",1,"Male",27.203206768825
+68,"mean_BMI",4652,"Durango",2012,22,"All Ages",2,"Female",28.2908434837929
+68,"mean_BMI",4653,"Guanajuato",2012,22,"All Ages",1,"Male",27.1016624580329
+68,"mean_BMI",4653,"Guanajuato",2012,22,"All Ages",2,"Female",28.1525685344685
+68,"mean_BMI",4654,"Guerrero",2012,22,"All Ages",1,"Male",26.8179864663568
+68,"mean_BMI",4654,"Guerrero",2012,22,"All Ages",2,"Female",27.7746210141063
+68,"mean_BMI",4655,"Hidalgo",2012,22,"All Ages",1,"Male",26.7766034007316
+68,"mean_BMI",4655,"Hidalgo",2012,22,"All Ages",2,"Female",28.0722711925806
+68,"mean_BMI",4656,"Jalisco",2012,22,"All Ages",1,"Male",27.3938195260878
+68,"mean_BMI",4656,"Jalisco",2012,22,"All Ages",2,"Female",28.2877164038479
+68,"mean_BMI",4657,"México",2012,22,"All Ages",1,"Male",27.5746993863741
+68,"mean_BMI",4657,"México",2012,22,"All Ages",2,"Female",27.8812441393132
+68,"mean_BMI",4658,"Michoacán de Ocampo",2012,22,"All Ages",1,"Male",27.0236241081218
+68,"mean_BMI",4658,"Michoacán de Ocampo",2012,22,"All Ages",2,"Female",27.9364065620549
+68,"mean_BMI",4659,"Morelos",2012,22,"All Ages",1,"Male",27.2808627617554
+68,"mean_BMI",4659,"Morelos",2012,22,"All Ages",2,"Female",27.8573445231276
+68,"mean_BMI",4660,"Nayarit",2012,22,"All Ages",1,"Male",27.7515240327334
+68,"mean_BMI",4660,"Nayarit",2012,22,"All Ages",2,"Female",28.5945192265436
+68,"mean_BMI",4661,"Nuevo León",2012,22,"All Ages",1,"Male",28.2532187843147
+68,"mean_BMI",4661,"Nuevo León",2012,22,"All Ages",2,"Female",28.725785264434
+68,"mean_BMI",4662,"Oaxaca",2012,22,"All Ages",1,"Male",26.1584073587239
+68,"mean_BMI",4662,"Oaxaca",2012,22,"All Ages",2,"Female",27.1886721240119
+68,"mean_BMI",4663,"Puebla",2012,22,"All Ages",1,"Male",26.9405763164725
+68,"mean_BMI",4663,"Puebla",2012,22,"All Ages",2,"Female",27.754089092618
+68,"mean_BMI",4664,"Querétaro",2012,22,"All Ages",1,"Male",27.39032111367
+68,"mean_BMI",4664,"Querétaro",2012,22,"All Ages",2,"Female",28.1677560317768
+68,"mean_BMI",4665,"Quintana Roo",2012,22,"All Ages",1,"Male",28.4154170263135
+68,"mean_BMI",4665,"Quintana Roo",2012,22,"All Ages",2,"Female",29.3444944129826
+68,"mean_BMI",4666,"San Luis Potosí",2012,22,"All Ages",1,"Male",26.6950396027413
+68,"mean_BMI",4666,"San Luis Potosí",2012,22,"All Ages",2,"Female",28.301630592893
+68,"mean_BMI",4667,"Sinaloa",2012,22,"All Ages",1,"Male",27.0563826978506
+68,"mean_BMI",4667,"Sinaloa",2012,22,"All Ages",2,"Female",28.09003156705
+68,"mean_BMI",4668,"Sonora",2012,22,"All Ages",1,"Male",27.6672740698335
+68,"mean_BMI",4668,"Sonora",2012,22,"All Ages",2,"Female",28.8622571223126
+68,"mean_BMI",4669,"Tabasco",2012,22,"All Ages",1,"Male",28.246047108389
+68,"mean_BMI",4669,"Tabasco",2012,22,"All Ages",2,"Female",29.5042378687045
+68,"mean_BMI",4670,"Tamaulipas",2012,22,"All Ages",1,"Male",28.1534472044771
+68,"mean_BMI",4670,"Tamaulipas",2012,22,"All Ages",2,"Female",29.4802885196002
+68,"mean_BMI",4671,"Tlaxcala",2012,22,"All Ages",1,"Male",27.6315002315634
+68,"mean_BMI",4671,"Tlaxcala",2012,22,"All Ages",2,"Female",28.0767474607382
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",1,"Male",26.7362041456744
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",2,"Female",27.8069457870867
+68,"mean_BMI",4673,"Yucatán",2012,22,"All Ages",1,"Male",28.3373442912069
+68,"mean_BMI",4673,"Yucatán",2012,22,"All Ages",2,"Female",29.1584795174305
+68,"mean_BMI",4674,"Zacatecas",2012,22,"All Ages",1,"Male",27.0075465802881
+68,"mean_BMI",4674,"Zacatecas",2012,22,"All Ages",2,"Female",28.2669968439984
+68,"mean_BMI",130,"Mexico",2013,22,"All Ages",1,"Male",26.1582238242049
+68,"mean_BMI",130,"Mexico",2013,22,"All Ages",2,"Female",27.3043899253013
+68,"mean_BMI",4643,"Aguascalientes",2013,22,"All Ages",1,"Male",27.6700447983898
+68,"mean_BMI",4643,"Aguascalientes",2013,22,"All Ages",2,"Female",28.5163313743495
+68,"mean_BMI",4644,"Baja California",2013,22,"All Ages",1,"Male",28.6872566421854
+68,"mean_BMI",4644,"Baja California",2013,22,"All Ages",2,"Female",29.7353606796947
+68,"mean_BMI",4645,"Baja California Sur",2013,22,"All Ages",1,"Male",28.4300091486
+68,"mean_BMI",4645,"Baja California Sur",2013,22,"All Ages",2,"Female",29.1185767138048
+68,"mean_BMI",4646,"Campeche",2013,22,"All Ages",1,"Male",28.692609431294
+68,"mean_BMI",4646,"Campeche",2013,22,"All Ages",2,"Female",29.6877482532049
+68,"mean_BMI",4647,"Coahuila",2013,22,"All Ages",1,"Male",27.7793784795948
+68,"mean_BMI",4647,"Coahuila",2013,22,"All Ages",2,"Female",29.2483266012906
+68,"mean_BMI",4648,"Colima",2013,22,"All Ages",1,"Male",28.0514447648991
+68,"mean_BMI",4648,"Colima",2013,22,"All Ages",2,"Female",28.9225933085059
+68,"mean_BMI",4649,"Chiapas",2013,22,"All Ages",1,"Male",26.5908732035983
+68,"mean_BMI",4649,"Chiapas",2013,22,"All Ages",2,"Female",27.9052993285033
+68,"mean_BMI",4650,"Chihuahua",2013,22,"All Ages",1,"Male",27.8707706268053
+68,"mean_BMI",4650,"Chihuahua",2013,22,"All Ages",2,"Female",28.8142137326214
+68,"mean_BMI",4651,"Mexico City",2013,22,"All Ages",1,"Male",27.5474214708876
+68,"mean_BMI",4651,"Mexico City",2013,22,"All Ages",2,"Female",27.891246889623
+68,"mean_BMI",4652,"Durango",2013,22,"All Ages",1,"Male",27.1984912846509
+68,"mean_BMI",4652,"Durango",2013,22,"All Ages",2,"Female",28.3202380050645
+68,"mean_BMI",4653,"Guanajuato",2013,22,"All Ages",1,"Male",27.1419946070892
+68,"mean_BMI",4653,"Guanajuato",2013,22,"All Ages",2,"Female",28.2074773140552
+68,"mean_BMI",4654,"Guerrero",2013,22,"All Ages",1,"Male",26.8841611443833
+68,"mean_BMI",4654,"Guerrero",2013,22,"All Ages",2,"Female",27.8722317563117
+68,"mean_BMI",4655,"Hidalgo",2013,22,"All Ages",1,"Male",26.8101027647296
+68,"mean_BMI",4655,"Hidalgo",2013,22,"All Ages",2,"Female",28.1246117383132
+68,"mean_BMI",4656,"Jalisco",2013,22,"All Ages",1,"Male",27.4237083179592
+68,"mean_BMI",4656,"Jalisco",2013,22,"All Ages",2,"Female",28.3346737580394
+68,"mean_BMI",4657,"México",2013,22,"All Ages",1,"Male",27.6118970913444
+68,"mean_BMI",4657,"México",2013,22,"All Ages",2,"Female",27.9522135439789
+68,"mean_BMI",4658,"Michoacán de Ocampo",2013,22,"All Ages",1,"Male",27.0401959463336
+68,"mean_BMI",4658,"Michoacán de Ocampo",2013,22,"All Ages",2,"Female",27.9698489339815
+68,"mean_BMI",4659,"Morelos",2013,22,"All Ages",1,"Male",27.3019361093851
+68,"mean_BMI",4659,"Morelos",2013,22,"All Ages",2,"Female",27.8905066933019
+68,"mean_BMI",4660,"Nayarit",2013,22,"All Ages",1,"Male",27.7948668380119
+68,"mean_BMI",4660,"Nayarit",2013,22,"All Ages",2,"Female",28.6674989615876
+68,"mean_BMI",4661,"Nuevo León",2013,22,"All Ages",1,"Male",28.2804376969452
+68,"mean_BMI",4661,"Nuevo León",2013,22,"All Ages",2,"Female",28.7748983398704
+68,"mean_BMI",4662,"Oaxaca",2013,22,"All Ages",1,"Male",26.1735114068193
+68,"mean_BMI",4662,"Oaxaca",2013,22,"All Ages",2,"Female",27.2147083636118
+68,"mean_BMI",4663,"Puebla",2013,22,"All Ages",1,"Male",26.9574463022886
+68,"mean_BMI",4663,"Puebla",2013,22,"All Ages",2,"Female",27.7940057336034
+68,"mean_BMI",4664,"Querétaro",2013,22,"All Ages",1,"Male",27.4544735993692
+68,"mean_BMI",4664,"Querétaro",2013,22,"All Ages",2,"Female",28.2475885770808
+68,"mean_BMI",4665,"Quintana Roo",2013,22,"All Ages",1,"Male",28.4601394134491
+68,"mean_BMI",4665,"Quintana Roo",2013,22,"All Ages",2,"Female",29.4086479305414
+68,"mean_BMI",4666,"San Luis Potosí",2013,22,"All Ages",1,"Male",26.7692343711292
+68,"mean_BMI",4666,"San Luis Potosí",2013,22,"All Ages",2,"Female",28.3927245126542
+68,"mean_BMI",4667,"Sinaloa",2013,22,"All Ages",1,"Male",27.0637785946141
+68,"mean_BMI",4667,"Sinaloa",2013,22,"All Ages",2,"Female",28.1208341237228
+68,"mean_BMI",4668,"Sonora",2013,22,"All Ages",1,"Male",27.6938897472386
+68,"mean_BMI",4668,"Sonora",2013,22,"All Ages",2,"Female",28.9155301920297
+68,"mean_BMI",4669,"Tabasco",2013,22,"All Ages",1,"Male",28.269517981196
+68,"mean_BMI",4669,"Tabasco",2013,22,"All Ages",2,"Female",29.5449789442086
+68,"mean_BMI",4670,"Tamaulipas",2013,22,"All Ages",1,"Male",28.2069062616117
+68,"mean_BMI",4670,"Tamaulipas",2013,22,"All Ages",2,"Female",29.5458520097179
+68,"mean_BMI",4671,"Tlaxcala",2013,22,"All Ages",1,"Male",27.6974823919967
+68,"mean_BMI",4671,"Tlaxcala",2013,22,"All Ages",2,"Female",28.1531744735645
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",1,"Male",26.7522276606192
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",2,"Female",27.8416988648965
+68,"mean_BMI",4673,"Yucatán",2013,22,"All Ages",1,"Male",28.3353361225938
+68,"mean_BMI",4673,"Yucatán",2013,22,"All Ages",2,"Female",29.1750026425345
+68,"mean_BMI",4674,"Zacatecas",2013,22,"All Ages",1,"Male",27.0570650105179
+68,"mean_BMI",4674,"Zacatecas",2013,22,"All Ages",2,"Female",28.336454070801
+68,"mean_BMI",130,"Mexico",2014,22,"All Ages",1,"Male",26.2296182520337
+68,"mean_BMI",130,"Mexico",2014,22,"All Ages",2,"Female",27.3869944583882
+68,"mean_BMI",4643,"Aguascalientes",2014,22,"All Ages",1,"Male",27.7003226053224
+68,"mean_BMI",4643,"Aguascalientes",2014,22,"All Ages",2,"Female",28.5707010905134
+68,"mean_BMI",4644,"Baja California",2014,22,"All Ages",1,"Male",28.7291445842232
+68,"mean_BMI",4644,"Baja California",2014,22,"All Ages",2,"Female",29.7875771686282
+68,"mean_BMI",4645,"Baja California Sur",2014,22,"All Ages",1,"Male",28.4311127862397
+68,"mean_BMI",4645,"Baja California Sur",2014,22,"All Ages",2,"Female",29.1327642216536
+68,"mean_BMI",4646,"Campeche",2014,22,"All Ages",1,"Male",28.7157171171407
+68,"mean_BMI",4646,"Campeche",2014,22,"All Ages",2,"Female",29.7352769434224
+68,"mean_BMI",4647,"Coahuila",2014,22,"All Ages",1,"Male",27.8070354475492
+68,"mean_BMI",4647,"Coahuila",2014,22,"All Ages",2,"Female",29.2802023926614
+68,"mean_BMI",4648,"Colima",2014,22,"All Ages",1,"Male",28.0818650682334
+68,"mean_BMI",4648,"Colima",2014,22,"All Ages",2,"Female",28.9762010561555
+68,"mean_BMI",4649,"Chiapas",2014,22,"All Ages",1,"Male",26.6376469753336
+68,"mean_BMI",4649,"Chiapas",2014,22,"All Ages",2,"Female",27.9627738065312
+68,"mean_BMI",4650,"Chihuahua",2014,22,"All Ages",1,"Male",27.925150758935
+68,"mean_BMI",4650,"Chihuahua",2014,22,"All Ages",2,"Female",28.8887214940425
+68,"mean_BMI",4651,"Mexico City",2014,22,"All Ages",1,"Male",27.636808776683
+68,"mean_BMI",4651,"Mexico City",2014,22,"All Ages",2,"Female",28.0040519421608
+68,"mean_BMI",4652,"Durango",2014,22,"All Ages",1,"Male",27.1908532982945
+68,"mean_BMI",4652,"Durango",2014,22,"All Ages",2,"Female",28.3497629084824
+68,"mean_BMI",4653,"Guanajuato",2014,22,"All Ages",1,"Male",27.1756684102176
+68,"mean_BMI",4653,"Guanajuato",2014,22,"All Ages",2,"Female",28.2598057720734
+68,"mean_BMI",4654,"Guerrero",2014,22,"All Ages",1,"Male",26.9380102929476
+68,"mean_BMI",4654,"Guerrero",2014,22,"All Ages",2,"Female",27.9466611684547
+68,"mean_BMI",4655,"Hidalgo",2014,22,"All Ages",1,"Male",26.8360392807845
+68,"mean_BMI",4655,"Hidalgo",2014,22,"All Ages",2,"Female",28.1693149532422
+68,"mean_BMI",4656,"Jalisco",2014,22,"All Ages",1,"Male",27.4480047486326
+68,"mean_BMI",4656,"Jalisco",2014,22,"All Ages",2,"Female",28.3774853700316
+68,"mean_BMI",4657,"México",2014,22,"All Ages",1,"Male",27.640592935154
+68,"mean_BMI",4657,"México",2014,22,"All Ages",2,"Female",28.01613410227
+68,"mean_BMI",4658,"Michoacán de Ocampo",2014,22,"All Ages",1,"Male",27.0532326205925
+68,"mean_BMI",4658,"Michoacán de Ocampo",2014,22,"All Ages",2,"Female",27.9992569353968
+68,"mean_BMI",4659,"Morelos",2014,22,"All Ages",1,"Male",27.3120388572763
+68,"mean_BMI",4659,"Morelos",2014,22,"All Ages",2,"Female",27.913464450209
+68,"mean_BMI",4660,"Nayarit",2014,22,"All Ages",1,"Male",27.8315608403748
+68,"mean_BMI",4660,"Nayarit",2014,22,"All Ages",2,"Female",28.734028393708
+68,"mean_BMI",4661,"Nuevo León",2014,22,"All Ages",1,"Male",28.2916051536431
+68,"mean_BMI",4661,"Nuevo León",2014,22,"All Ages",2,"Female",28.8172375452704
+68,"mean_BMI",4662,"Oaxaca",2014,22,"All Ages",1,"Male",26.1825957642746
+68,"mean_BMI",4662,"Oaxaca",2014,22,"All Ages",2,"Female",27.2258751902052
+68,"mean_BMI",4663,"Puebla",2014,22,"All Ages",1,"Male",26.9650703711223
+68,"mean_BMI",4663,"Puebla",2014,22,"All Ages",2,"Female",27.8237555627349
+68,"mean_BMI",4664,"Querétaro",2014,22,"All Ages",1,"Male",27.5046160151334
+68,"mean_BMI",4664,"Querétaro",2014,22,"All Ages",2,"Female",28.3205127545176
+68,"mean_BMI",4665,"Quintana Roo",2014,22,"All Ages",1,"Male",28.4916082207412
+68,"mean_BMI",4665,"Quintana Roo",2014,22,"All Ages",2,"Female",29.4578152297195
+68,"mean_BMI",4666,"San Luis Potosí",2014,22,"All Ages",1,"Male",26.8379226308862
+68,"mean_BMI",4666,"San Luis Potosí",2014,22,"All Ages",2,"Female",28.4730089992375
+68,"mean_BMI",4667,"Sinaloa",2014,22,"All Ages",1,"Male",27.0646897268161
+68,"mean_BMI",4667,"Sinaloa",2014,22,"All Ages",2,"Female",28.1462835304049
+68,"mean_BMI",4668,"Sonora",2014,22,"All Ages",1,"Male",27.7133870595997
+68,"mean_BMI",4668,"Sonora",2014,22,"All Ages",2,"Female",28.9614692051901
+68,"mean_BMI",4669,"Tabasco",2014,22,"All Ages",1,"Male",28.2791905794403
+68,"mean_BMI",4669,"Tabasco",2014,22,"All Ages",2,"Female",29.5681517921515
+68,"mean_BMI",4670,"Tamaulipas",2014,22,"All Ages",1,"Male",28.2463029401904
+68,"mean_BMI",4670,"Tamaulipas",2014,22,"All Ages",2,"Female",29.5933973605953
+68,"mean_BMI",4671,"Tlaxcala",2014,22,"All Ages",1,"Male",27.742608460081
+68,"mean_BMI",4671,"Tlaxcala",2014,22,"All Ages",2,"Female",28.2179262959524
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",1,"Male",26.7592878010773
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",2,"Female",27.8639042516178
+68,"mean_BMI",4673,"Yucatán",2014,22,"All Ages",1,"Male",28.3210229443718
+68,"mean_BMI",4673,"Yucatán",2014,22,"All Ages",2,"Female",29.1805348458012
+68,"mean_BMI",4674,"Zacatecas",2014,22,"All Ages",1,"Male",27.1041905375872
+68,"mean_BMI",4674,"Zacatecas",2014,22,"All Ages",2,"Female",28.4032609652706
+68,"mean_BMI",130,"Mexico",2015,22,"All Ages",1,"Male",26.2875367371948
+68,"mean_BMI",130,"Mexico",2015,22,"All Ages",2,"Female",27.4613812641056
+68,"mean_BMI",4643,"Aguascalientes",2015,22,"All Ages",1,"Male",27.7114866345847
+68,"mean_BMI",4643,"Aguascalientes",2015,22,"All Ages",2,"Female",28.6146286830194
+68,"mean_BMI",4644,"Baja California",2015,22,"All Ages",1,"Male",28.7334843092167
+68,"mean_BMI",4644,"Baja California",2015,22,"All Ages",2,"Female",29.8172779001485
+68,"mean_BMI",4645,"Baja California Sur",2015,22,"All Ages",1,"Male",28.4186790565801
+68,"mean_BMI",4645,"Baja California Sur",2015,22,"All Ages",2,"Female",29.1379506762146
+68,"mean_BMI",4646,"Campeche",2015,22,"All Ages",1,"Male",28.7296163443714
+68,"mean_BMI",4646,"Campeche",2015,22,"All Ages",2,"Female",29.7762448120527
+68,"mean_BMI",4647,"Coahuila",2015,22,"All Ages",1,"Male",27.8194122198742
+68,"mean_BMI",4647,"Coahuila",2015,22,"All Ages",2,"Female",29.304626968954
+68,"mean_BMI",4648,"Colima",2015,22,"All Ages",1,"Male",28.104491802653
+68,"mean_BMI",4648,"Colima",2015,22,"All Ages",2,"Female",29.0216193949832
+68,"mean_BMI",4649,"Chiapas",2015,22,"All Ages",1,"Male",26.6829157360723
+68,"mean_BMI",4649,"Chiapas",2015,22,"All Ages",2,"Female",28.0168831577017
+68,"mean_BMI",4650,"Chihuahua",2015,22,"All Ages",1,"Male",27.9530246282031
+68,"mean_BMI",4650,"Chihuahua",2015,22,"All Ages",2,"Female",28.9473087855316
+68,"mean_BMI",4651,"Mexico City",2015,22,"All Ages",1,"Male",27.6982117222097
+68,"mean_BMI",4651,"Mexico City",2015,22,"All Ages",2,"Female",28.1028370003892
+68,"mean_BMI",4652,"Durango",2015,22,"All Ages",1,"Male",27.1814908631008
+68,"mean_BMI",4652,"Durango",2015,22,"All Ages",2,"Female",28.3798570938208
+68,"mean_BMI",4653,"Guanajuato",2015,22,"All Ages",1,"Male",27.2006021192894
+68,"mean_BMI",4653,"Guanajuato",2015,22,"All Ages",2,"Female",28.3089114391849
+68,"mean_BMI",4654,"Guerrero",2015,22,"All Ages",1,"Male",26.9754310132702
+68,"mean_BMI",4654,"Guerrero",2015,22,"All Ages",2,"Female",27.9963724841341
+68,"mean_BMI",4655,"Hidalgo",2015,22,"All Ages",1,"Male",26.8530729669791
+68,"mean_BMI",4655,"Hidalgo",2015,22,"All Ages",2,"Female",28.2062703507237
+68,"mean_BMI",4656,"Jalisco",2015,22,"All Ages",1,"Male",27.4603729475603
+68,"mean_BMI",4656,"Jalisco",2015,22,"All Ages",2,"Female",28.4139030991231
+68,"mean_BMI",4657,"México",2015,22,"All Ages",1,"Male",27.6556032765876
+68,"mean_BMI",4657,"México",2015,22,"All Ages",2,"Female",28.0711489671891
+68,"mean_BMI",4658,"Michoacán de Ocampo",2015,22,"All Ages",1,"Male",27.0637966732829
+68,"mean_BMI",4658,"Michoacán de Ocampo",2015,22,"All Ages",2,"Female",28.0252512771677
+68,"mean_BMI",4659,"Morelos",2015,22,"All Ages",1,"Male",27.3079643565872
+68,"mean_BMI",4659,"Morelos",2015,22,"All Ages",2,"Female",27.9281815751883
+68,"mean_BMI",4660,"Nayarit",2015,22,"All Ages",1,"Male",27.8577720146659
+68,"mean_BMI",4660,"Nayarit",2015,22,"All Ages",2,"Female",28.7930195302493
+68,"mean_BMI",4661,"Nuevo León",2015,22,"All Ages",1,"Male",28.2809803576602
+68,"mean_BMI",4661,"Nuevo León",2015,22,"All Ages",2,"Female",28.851167159807
+68,"mean_BMI",4662,"Oaxaca",2015,22,"All Ages",1,"Male",26.187200286501
+68,"mean_BMI",4662,"Oaxaca",2015,22,"All Ages",2,"Female",27.2264500219543
+68,"mean_BMI",4663,"Puebla",2015,22,"All Ages",1,"Male",26.9631468589763
+68,"mean_BMI",4663,"Puebla",2015,22,"All Ages",2,"Female",27.8456281414027
+68,"mean_BMI",4664,"Querétaro",2015,22,"All Ages",1,"Male",27.5383986513054
+68,"mean_BMI",4664,"Querétaro",2015,22,"All Ages",2,"Female",28.3846526535763
+68,"mean_BMI",4665,"Quintana Roo",2015,22,"All Ages",1,"Male",28.5089509834835
+68,"mean_BMI",4665,"Quintana Roo",2015,22,"All Ages",2,"Female",29.4962408195904
+68,"mean_BMI",4666,"San Luis Potosí",2015,22,"All Ages",1,"Male",26.8961773528263
+68,"mean_BMI",4666,"San Luis Potosí",2015,22,"All Ages",2,"Female",28.5427965903873
+68,"mean_BMI",4667,"Sinaloa",2015,22,"All Ages",1,"Male",27.0569351966605
+68,"mean_BMI",4667,"Sinaloa",2015,22,"All Ages",2,"Female",28.1652210213503
+68,"mean_BMI",4668,"Sonora",2015,22,"All Ages",1,"Male",27.7212696967123
+68,"mean_BMI",4668,"Sonora",2015,22,"All Ages",2,"Female",28.9981680845261
+68,"mean_BMI",4669,"Tabasco",2015,22,"All Ages",1,"Male",28.27693120011
+68,"mean_BMI",4669,"Tabasco",2015,22,"All Ages",2,"Female",29.57869771765
+68,"mean_BMI",4670,"Tamaulipas",2015,22,"All Ages",1,"Male",28.2630491104931
+68,"mean_BMI",4670,"Tamaulipas",2015,22,"All Ages",2,"Female",29.6242039270738
+68,"mean_BMI",4671,"Tlaxcala",2015,22,"All Ages",1,"Male",27.7690282350281
+68,"mean_BMI",4671,"Tlaxcala",2015,22,"All Ages",2,"Female",28.270889421367
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",1,"Male",26.757589901306
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",2,"Female",27.8776315280112
+68,"mean_BMI",4673,"Yucatán",2015,22,"All Ages",1,"Male",28.2939624315747
+68,"mean_BMI",4673,"Yucatán",2015,22,"All Ages",2,"Female",29.1762681112309
+68,"mean_BMI",4674,"Zacatecas",2015,22,"All Ages",1,"Male",27.1484028655582
+68,"mean_BMI",4674,"Zacatecas",2015,22,"All Ages",2,"Female",28.468311010277
+68,"mean_BMI",130,"Mexico",2016,22,"All Ages",1,"Male",26.3367332556884
+68,"mean_BMI",130,"Mexico",2016,22,"All Ages",2,"Female",27.5233924713681
+68,"mean_BMI",4643,"Aguascalientes",2016,22,"All Ages",1,"Male",27.7181243764969
+68,"mean_BMI",4643,"Aguascalientes",2016,22,"All Ages",2,"Female",28.6497928138201
+68,"mean_BMI",4644,"Baja California",2016,22,"All Ages",1,"Male",28.7357361247137
+68,"mean_BMI",4644,"Baja California",2016,22,"All Ages",2,"Female",29.8381703387364
+68,"mean_BMI",4645,"Baja California Sur",2016,22,"All Ages",1,"Male",28.4040547334659
+68,"mean_BMI",4645,"Baja California Sur",2016,22,"All Ages",2,"Female",29.1367439659374
+68,"mean_BMI",4646,"Campeche",2016,22,"All Ages",1,"Male",28.7396493361796
+68,"mean_BMI",4646,"Campeche",2016,22,"All Ages",2,"Female",29.8072217245858
+68,"mean_BMI",4647,"Coahuila",2016,22,"All Ages",1,"Male",27.8383991281681
+68,"mean_BMI",4647,"Coahuila",2016,22,"All Ages",2,"Female",29.3258630972834
+68,"mean_BMI",4648,"Colima",2016,22,"All Ages",1,"Male",28.1275827412349
+68,"mean_BMI",4648,"Colima",2016,22,"All Ages",2,"Female",29.0589916412973
+68,"mean_BMI",4649,"Chiapas",2016,22,"All Ages",1,"Male",26.7187560902445
+68,"mean_BMI",4649,"Chiapas",2016,22,"All Ages",2,"Female",28.0568842382898
+68,"mean_BMI",4650,"Chihuahua",2016,22,"All Ages",1,"Male",27.982583354233
+68,"mean_BMI",4650,"Chihuahua",2016,22,"All Ages",2,"Female",28.9962534828287
+68,"mean_BMI",4651,"Mexico City",2016,22,"All Ages",1,"Male",27.7595877146795
+68,"mean_BMI",4651,"Mexico City",2016,22,"All Ages",2,"Female",28.1894585766955
+68,"mean_BMI",4652,"Durango",2016,22,"All Ages",1,"Male",27.1733823673228
+68,"mean_BMI",4652,"Durango",2016,22,"All Ages",2,"Female",28.4048526394337
+68,"mean_BMI",4653,"Guanajuato",2016,22,"All Ages",1,"Male",27.2217938406933
+68,"mean_BMI",4653,"Guanajuato",2016,22,"All Ages",2,"Female",28.3484052554764
+68,"mean_BMI",4654,"Guerrero",2016,22,"All Ages",1,"Male",26.9974550929218
+68,"mean_BMI",4654,"Guerrero",2016,22,"All Ages",2,"Female",28.0188670783943
+68,"mean_BMI",4655,"Hidalgo",2016,22,"All Ages",1,"Male",26.8589495190834
+68,"mean_BMI",4655,"Hidalgo",2016,22,"All Ages",2,"Female",28.2312478668775
+68,"mean_BMI",4656,"Jalisco",2016,22,"All Ages",1,"Male",27.4736652518341
+68,"mean_BMI",4656,"Jalisco",2016,22,"All Ages",2,"Female",28.4434873338979
+68,"mean_BMI",4657,"México",2016,22,"All Ages",1,"Male",27.6657045907613
+68,"mean_BMI",4657,"México",2016,22,"All Ages",2,"Female",28.1128006581439
+68,"mean_BMI",4658,"Michoacán de Ocampo",2016,22,"All Ages",1,"Male",27.071114012465
+68,"mean_BMI",4658,"Michoacán de Ocampo",2016,22,"All Ages",2,"Female",28.042588381276
+68,"mean_BMI",4659,"Morelos",2016,22,"All Ages",1,"Male",27.3042860046883
+68,"mean_BMI",4659,"Morelos",2016,22,"All Ages",2,"Female",27.9385960411667
+68,"mean_BMI",4660,"Nayarit",2016,22,"All Ages",1,"Male",27.8803501162844
+68,"mean_BMI",4660,"Nayarit",2016,22,"All Ages",2,"Female",28.8417408636498
+68,"mean_BMI",4661,"Nuevo León",2016,22,"All Ages",1,"Male",28.2758914718163
+68,"mean_BMI",4661,"Nuevo León",2016,22,"All Ages",2,"Female",28.8825499595674
+68,"mean_BMI",4662,"Oaxaca",2016,22,"All Ages",1,"Male",26.186953531364
+68,"mean_BMI",4662,"Oaxaca",2016,22,"All Ages",2,"Female",27.2166679163798
+68,"mean_BMI",4663,"Puebla",2016,22,"All Ages",1,"Male",26.9619901925293
+68,"mean_BMI",4663,"Puebla",2016,22,"All Ages",2,"Female",27.8601378595988
+68,"mean_BMI",4664,"Querétaro",2016,22,"All Ages",1,"Male",27.565929329315
+68,"mean_BMI",4664,"Querétaro",2016,22,"All Ages",2,"Female",28.4392602522139
+68,"mean_BMI",4665,"Quintana Roo",2016,22,"All Ages",1,"Male",28.5203887914191
+68,"mean_BMI",4665,"Quintana Roo",2016,22,"All Ages",2,"Female",29.5227880500449
+68,"mean_BMI",4666,"San Luis Potosí",2016,22,"All Ages",1,"Male",26.9502813501173
+68,"mean_BMI",4666,"San Luis Potosí",2016,22,"All Ages",2,"Female",28.5983251208224
+68,"mean_BMI",4667,"Sinaloa",2016,22,"All Ages",1,"Male",27.0546465222958
+68,"mean_BMI",4667,"Sinaloa",2016,22,"All Ages",2,"Female",28.1817691510383
+68,"mean_BMI",4668,"Sonora",2016,22,"All Ages",1,"Male",27.7318889374576
+68,"mean_BMI",4668,"Sonora",2016,22,"All Ages",2,"Female",29.0271755234245
+68,"mean_BMI",4669,"Tabasco",2016,22,"All Ages",1,"Male",28.2622460320121
+68,"mean_BMI",4669,"Tabasco",2016,22,"All Ages",2,"Female",29.575590537453
+68,"mean_BMI",4670,"Tamaulipas",2016,22,"All Ages",1,"Male",28.27657721778
+68,"mean_BMI",4670,"Tamaulipas",2016,22,"All Ages",2,"Female",29.645066266237
+68,"mean_BMI",4671,"Tlaxcala",2016,22,"All Ages",1,"Male",27.7875747956468
+68,"mean_BMI",4671,"Tlaxcala",2016,22,"All Ages",2,"Female",28.3125269751496
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",1,"Male",26.7531468179593
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",2,"Female",27.8821438455393
+68,"mean_BMI",4673,"Yucatán",2016,22,"All Ages",1,"Male",28.2695221454072
+68,"mean_BMI",4673,"Yucatán",2016,22,"All Ages",2,"Female",29.1670927409116
+68,"mean_BMI",4674,"Zacatecas",2016,22,"All Ages",1,"Male",27.1874878505601
+68,"mean_BMI",4674,"Zacatecas",2016,22,"All Ages",2,"Female",28.5233061966835
+68,"mean_BMI",130,"Mexico",2017,22,"All Ages",1,"Male",26.3367332556884
+68,"mean_BMI",130,"Mexico",2017,22,"All Ages",2,"Female",27.5233924713681
+68,"mean_BMI",4643,"Aguascalientes",2017,22,"All Ages",1,"Male",27.7181243764969
+68,"mean_BMI",4643,"Aguascalientes",2017,22,"All Ages",2,"Female",28.6497928138201
+68,"mean_BMI",4644,"Baja California",2017,22,"All Ages",1,"Male",28.7357361247137
+68,"mean_BMI",4644,"Baja California",2017,22,"All Ages",2,"Female",29.8381703387364
+68,"mean_BMI",4645,"Baja California Sur",2017,22,"All Ages",1,"Male",28.4040547334659
+68,"mean_BMI",4645,"Baja California Sur",2017,22,"All Ages",2,"Female",29.1367439659374
+68,"mean_BMI",4646,"Campeche",2017,22,"All Ages",1,"Male",28.7396493361796
+68,"mean_BMI",4646,"Campeche",2017,22,"All Ages",2,"Female",29.8072217245858
+68,"mean_BMI",4647,"Coahuila",2017,22,"All Ages",1,"Male",27.8383991281681
+68,"mean_BMI",4647,"Coahuila",2017,22,"All Ages",2,"Female",29.3258630972834
+68,"mean_BMI",4648,"Colima",2017,22,"All Ages",1,"Male",28.1275827412349
+68,"mean_BMI",4648,"Colima",2017,22,"All Ages",2,"Female",29.0589916412973
+68,"mean_BMI",4649,"Chiapas",2017,22,"All Ages",1,"Male",26.7187560902445
+68,"mean_BMI",4649,"Chiapas",2017,22,"All Ages",2,"Female",28.0568842382898
+68,"mean_BMI",4650,"Chihuahua",2017,22,"All Ages",1,"Male",27.982583354233
+68,"mean_BMI",4650,"Chihuahua",2017,22,"All Ages",2,"Female",28.9962534828287
+68,"mean_BMI",4651,"Mexico City",2017,22,"All Ages",1,"Male",27.7595877146795
+68,"mean_BMI",4651,"Mexico City",2017,22,"All Ages",2,"Female",28.1894585766955
+68,"mean_BMI",4652,"Durango",2017,22,"All Ages",1,"Male",27.1733823673228
+68,"mean_BMI",4652,"Durango",2017,22,"All Ages",2,"Female",28.4048526394337
+68,"mean_BMI",4653,"Guanajuato",2017,22,"All Ages",1,"Male",27.2217938406933
+68,"mean_BMI",4653,"Guanajuato",2017,22,"All Ages",2,"Female",28.3484052554764
+68,"mean_BMI",4654,"Guerrero",2017,22,"All Ages",1,"Male",26.9974550929218
+68,"mean_BMI",4654,"Guerrero",2017,22,"All Ages",2,"Female",28.0188670783943
+68,"mean_BMI",4655,"Hidalgo",2017,22,"All Ages",1,"Male",26.8589495190834
+68,"mean_BMI",4655,"Hidalgo",2017,22,"All Ages",2,"Female",28.2312478668775
+68,"mean_BMI",4656,"Jalisco",2017,22,"All Ages",1,"Male",27.4736652518341
+68,"mean_BMI",4656,"Jalisco",2017,22,"All Ages",2,"Female",28.4434873338979
+68,"mean_BMI",4657,"México",2017,22,"All Ages",1,"Male",27.6657045907613
+68,"mean_BMI",4657,"México",2017,22,"All Ages",2,"Female",28.1128006581439
+68,"mean_BMI",4658,"Michoacán de Ocampo",2017,22,"All Ages",1,"Male",27.071114012465
+68,"mean_BMI",4658,"Michoacán de Ocampo",2017,22,"All Ages",2,"Female",28.042588381276
+68,"mean_BMI",4659,"Morelos",2017,22,"All Ages",1,"Male",27.3042860046883
+68,"mean_BMI",4659,"Morelos",2017,22,"All Ages",2,"Female",27.9385960411667
+68,"mean_BMI",4660,"Nayarit",2017,22,"All Ages",1,"Male",27.8803501162844
+68,"mean_BMI",4660,"Nayarit",2017,22,"All Ages",2,"Female",28.8417408636498
+68,"mean_BMI",4661,"Nuevo León",2017,22,"All Ages",1,"Male",28.2758914718163
+68,"mean_BMI",4661,"Nuevo León",2017,22,"All Ages",2,"Female",28.8825499595674
+68,"mean_BMI",4662,"Oaxaca",2017,22,"All Ages",1,"Male",26.186953531364
+68,"mean_BMI",4662,"Oaxaca",2017,22,"All Ages",2,"Female",27.2166679163798
+68,"mean_BMI",4663,"Puebla",2017,22,"All Ages",1,"Male",26.9619901925293
+68,"mean_BMI",4663,"Puebla",2017,22,"All Ages",2,"Female",27.8601378595988
+68,"mean_BMI",4664,"Querétaro",2017,22,"All Ages",1,"Male",27.565929329315
+68,"mean_BMI",4664,"Querétaro",2017,22,"All Ages",2,"Female",28.4392602522139
+68,"mean_BMI",4665,"Quintana Roo",2017,22,"All Ages",1,"Male",28.5203887914191
+68,"mean_BMI",4665,"Quintana Roo",2017,22,"All Ages",2,"Female",29.5227880500449
+68,"mean_BMI",4666,"San Luis Potosí",2017,22,"All Ages",1,"Male",26.9502813501173
+68,"mean_BMI",4666,"San Luis Potosí",2017,22,"All Ages",2,"Female",28.5983251208224
+68,"mean_BMI",4667,"Sinaloa",2017,22,"All Ages",1,"Male",27.0546465222958
+68,"mean_BMI",4667,"Sinaloa",2017,22,"All Ages",2,"Female",28.1817691510383
+68,"mean_BMI",4668,"Sonora",2017,22,"All Ages",1,"Male",27.7318889374576
+68,"mean_BMI",4668,"Sonora",2017,22,"All Ages",2,"Female",29.0271755234245
+68,"mean_BMI",4669,"Tabasco",2017,22,"All Ages",1,"Male",28.2622460320121
+68,"mean_BMI",4669,"Tabasco",2017,22,"All Ages",2,"Female",29.575590537453
+68,"mean_BMI",4670,"Tamaulipas",2017,22,"All Ages",1,"Male",28.27657721778
+68,"mean_BMI",4670,"Tamaulipas",2017,22,"All Ages",2,"Female",29.645066266237
+68,"mean_BMI",4671,"Tlaxcala",2017,22,"All Ages",1,"Male",27.7875747956468
+68,"mean_BMI",4671,"Tlaxcala",2017,22,"All Ages",2,"Female",28.3125269751496
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",1,"Male",26.7531468179593
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",2,"Female",27.8821438455393
+68,"mean_BMI",4673,"Yucatán",2017,22,"All Ages",1,"Male",28.2695221454072
+68,"mean_BMI",4673,"Yucatán",2017,22,"All Ages",2,"Female",29.1670927409116
+68,"mean_BMI",4674,"Zacatecas",2017,22,"All Ages",1,"Male",27.1874878505601
+68,"mean_BMI",4674,"Zacatecas",2017,22,"All Ages",2,"Female",28.5233061966835
+68,"mean_BMI",130,"Mexico",2018,22,"All Ages",1,"Male",26.3634692246747
+68,"mean_BMI",130,"Mexico",2018,22,"All Ages",2,"Female",27.5563214196966
+68,"mean_BMI",4643,"Aguascalientes",2018,22,"All Ages",1,"Male",27.7445938188887
+68,"mean_BMI",4643,"Aguascalientes",2018,22,"All Ages",2,"Female",28.682036299244
+68,"mean_BMI",4644,"Baja California",2018,22,"All Ages",1,"Male",28.7556202466438
+68,"mean_BMI",4644,"Baja California",2018,22,"All Ages",2,"Female",29.8625027774501
+68,"mean_BMI",4645,"Baja California Sur",2018,22,"All Ages",1,"Male",28.4268726573821
+68,"mean_BMI",4645,"Baja California Sur",2018,22,"All Ages",2,"Female",29.1643288063709
+68,"mean_BMI",4646,"Campeche",2018,22,"All Ages",1,"Male",28.7737150923281
+68,"mean_BMI",4646,"Campeche",2018,22,"All Ages",2,"Female",29.848861322668
+68,"mean_BMI",4647,"Coahuila",2018,22,"All Ages",1,"Male",27.8648003159161
+68,"mean_BMI",4647,"Coahuila",2018,22,"All Ages",2,"Female",29.3586401046814
+68,"mean_BMI",4648,"Colima",2018,22,"All Ages",1,"Male",28.1550595138134
+68,"mean_BMI",4648,"Colima",2018,22,"All Ages",2,"Female",29.0924461178754
+68,"mean_BMI",4649,"Chiapas",2018,22,"All Ages",1,"Male",26.7533343152618
+68,"mean_BMI",4649,"Chiapas",2018,22,"All Ages",2,"Female",28.0996778140285
+68,"mean_BMI",4650,"Chihuahua",2018,22,"All Ages",1,"Male",28.0092536067015
+68,"mean_BMI",4650,"Chihuahua",2018,22,"All Ages",2,"Female",29.0288237018853
+68,"mean_BMI",4651,"Mexico City",2018,22,"All Ages",1,"Male",27.7816720116254
+68,"mean_BMI",4651,"Mexico City",2018,22,"All Ages",2,"Female",28.2158881816259
+68,"mean_BMI",4652,"Durango",2018,22,"All Ages",1,"Male",27.2051237265899
+68,"mean_BMI",4652,"Durango",2018,22,"All Ages",2,"Female",28.4439567270235
+68,"mean_BMI",4653,"Guanajuato",2018,22,"All Ages",1,"Male",27.252301696794
+68,"mean_BMI",4653,"Guanajuato",2018,22,"All Ages",2,"Female",28.3858481610043
+68,"mean_BMI",4654,"Guerrero",2018,22,"All Ages",1,"Male",27.0294802802999
+68,"mean_BMI",4654,"Guerrero",2018,22,"All Ages",2,"Female",28.0580383725697
+68,"mean_BMI",4655,"Hidalgo",2018,22,"All Ages",1,"Male",26.8866661324092
+68,"mean_BMI",4655,"Hidalgo",2018,22,"All Ages",2,"Female",28.2655818143648
+68,"mean_BMI",4656,"Jalisco",2018,22,"All Ages",1,"Male",27.5018437908861
+68,"mean_BMI",4656,"Jalisco",2018,22,"All Ages",2,"Female",28.4778690059283
+68,"mean_BMI",4657,"México",2018,22,"All Ages",1,"Male",27.6938107936088
+68,"mean_BMI",4657,"México",2018,22,"All Ages",2,"Female",28.1464600649253
+68,"mean_BMI",4658,"Michoacán de Ocampo",2018,22,"All Ages",1,"Male",27.1034845345562
+68,"mean_BMI",4658,"Michoacán de Ocampo",2018,22,"All Ages",2,"Female",28.0821077992399
+68,"mean_BMI",4659,"Morelos",2018,22,"All Ages",1,"Male",27.330310350155
+68,"mean_BMI",4659,"Morelos",2018,22,"All Ages",2,"Female",27.969978938878
+68,"mean_BMI",4660,"Nayarit",2018,22,"All Ages",1,"Male",27.913891267344
+68,"mean_BMI",4660,"Nayarit",2018,22,"All Ages",2,"Female",28.8826339941088
+68,"mean_BMI",4661,"Nuevo León",2018,22,"All Ages",1,"Male",28.2959615627345
+68,"mean_BMI",4661,"Nuevo León",2018,22,"All Ages",2,"Female",28.9067100533736
+68,"mean_BMI",4662,"Oaxaca",2018,22,"All Ages",1,"Male",26.2203651749424
+68,"mean_BMI",4662,"Oaxaca",2018,22,"All Ages",2,"Female",27.2575939621069
+68,"mean_BMI",4663,"Puebla",2018,22,"All Ages",1,"Male",26.9898988329749
+68,"mean_BMI",4663,"Puebla",2018,22,"All Ages",2,"Female",27.8941248447499
+68,"mean_BMI",4664,"Querétaro",2018,22,"All Ages",1,"Male",27.5869503642242
+68,"mean_BMI",4664,"Querétaro",2018,22,"All Ages",2,"Female",28.4648185451601
+68,"mean_BMI",4665,"Quintana Roo",2018,22,"All Ages",1,"Male",28.5405388555952
+68,"mean_BMI",4665,"Quintana Roo",2018,22,"All Ages",2,"Female",29.5473695445113
+68,"mean_BMI",4666,"San Luis Potosí",2018,22,"All Ages",1,"Male",26.9808442951514
+68,"mean_BMI",4666,"San Luis Potosí",2018,22,"All Ages",2,"Female",28.6365476106106
+68,"mean_BMI",4667,"Sinaloa",2018,22,"All Ages",1,"Male",27.0818427785422
+68,"mean_BMI",4667,"Sinaloa",2018,22,"All Ages",2,"Female",28.2151561207503
+68,"mean_BMI",4668,"Sonora",2018,22,"All Ages",1,"Male",27.7559398913688
+68,"mean_BMI",4668,"Sonora",2018,22,"All Ages",2,"Female",29.0568438998249
+68,"mean_BMI",4669,"Tabasco",2018,22,"All Ages",1,"Male",28.29550463876
+68,"mean_BMI",4669,"Tabasco",2018,22,"All Ages",2,"Female",29.6166089582462
+68,"mean_BMI",4670,"Tamaulipas",2018,22,"All Ages",1,"Male",28.3015193465973
+68,"mean_BMI",4670,"Tamaulipas",2018,22,"All Ages",2,"Female",29.675883654197
+68,"mean_BMI",4671,"Tlaxcala",2018,22,"All Ages",1,"Male",27.810101835731
+68,"mean_BMI",4671,"Tlaxcala",2018,22,"All Ages",2,"Female",28.3395769008541
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",1,"Male",26.7853713906197
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",2,"Female",27.9217249275927
+68,"mean_BMI",4673,"Yucatán",2018,22,"All Ages",1,"Male",28.3007741687811
+68,"mean_BMI",4673,"Yucatán",2018,22,"All Ages",2,"Female",29.2050940176087
+68,"mean_BMI",4674,"Zacatecas",2018,22,"All Ages",1,"Male",27.2249808549664
+68,"mean_BMI",4674,"Zacatecas",2018,22,"All Ages",2,"Female",28.5696655094177
+68,"mean_BMI",130,"Mexico",2019,22,"All Ages",1,"Male",26.3882947012277
+68,"mean_BMI",130,"Mexico",2019,22,"All Ages",2,"Female",27.586902674722
+68,"mean_BMI",4643,"Aguascalientes",2019,22,"All Ages",1,"Male",27.76979135475
+68,"mean_BMI",4643,"Aguascalientes",2019,22,"All Ages",2,"Female",28.712735524407
+68,"mean_BMI",4644,"Baja California",2019,22,"All Ages",1,"Male",28.7748423106889
+68,"mean_BMI",4644,"Baja California",2019,22,"All Ages",2,"Female",29.8860279020298
+68,"mean_BMI",4645,"Baja California Sur",2019,22,"All Ages",1,"Male",28.4488464274071
+68,"mean_BMI",4645,"Baja California Sur",2019,22,"All Ages",2,"Female",29.1908968743284
+68,"mean_BMI",4646,"Campeche",2019,22,"All Ages",1,"Male",28.8048587381984
+68,"mean_BMI",4646,"Campeche",2019,22,"All Ages",2,"Female",29.8869368351727
+68,"mean_BMI",4647,"Coahuila",2019,22,"All Ages",1,"Male",27.8899247135247
+68,"mean_BMI",4647,"Coahuila",2019,22,"All Ages",2,"Female",29.3898371264967
+68,"mean_BMI",4648,"Colima",2019,22,"All Ages",1,"Male",28.1805508935193
+68,"mean_BMI",4648,"Colima",2019,22,"All Ages",2,"Female",29.1234884795564
+68,"mean_BMI",4649,"Chiapas",2019,22,"All Ages",1,"Male",26.7837059863814
+68,"mean_BMI",4649,"Chiapas",2019,22,"All Ages",2,"Female",28.1372735538851
+68,"mean_BMI",4650,"Chihuahua",2019,22,"All Ages",1,"Male",28.0335427002805
+68,"mean_BMI",4650,"Chihuahua",2019,22,"All Ages",2,"Female",29.0584908195482
+68,"mean_BMI",4651,"Mexico City",2019,22,"All Ages",1,"Male",27.8035052727913
+68,"mean_BMI",4651,"Mexico City",2019,22,"All Ages",2,"Female",28.2420210422084
+68,"mean_BMI",4652,"Durango",2019,22,"All Ages",1,"Male",27.23378565227
+68,"mean_BMI",4652,"Durango",2019,22,"All Ages",2,"Female",28.4792740705596
+68,"mean_BMI",4653,"Guanajuato",2019,22,"All Ages",1,"Male",27.2808362820898
+68,"mean_BMI",4653,"Guanajuato",2019,22,"All Ages",2,"Female",28.4208760013216
+68,"mean_BMI",4654,"Guerrero",2019,22,"All Ages",1,"Male",27.0580060710644
+68,"mean_BMI",4654,"Guerrero",2019,22,"All Ages",2,"Female",28.0929363881678
+68,"mean_BMI",4655,"Hidalgo",2019,22,"All Ages",1,"Male",26.9124445747947
+68,"mean_BMI",4655,"Hidalgo",2019,22,"All Ages",2,"Female",28.2975205219619
+68,"mean_BMI",4656,"Jalisco",2019,22,"All Ages",1,"Male",27.5280562888168
+68,"mean_BMI",4656,"Jalisco",2019,22,"All Ages",2,"Female",28.5098574825216
+68,"mean_BMI",4657,"México",2019,22,"All Ages",1,"Male",27.7195221490232
+68,"mean_BMI",4657,"México",2019,22,"All Ages",2,"Female",28.1772567908669
+68,"mean_BMI",4658,"Michoacán de Ocampo",2019,22,"All Ages",1,"Male",27.133099618036
+68,"mean_BMI",4658,"Michoacán de Ocampo",2019,22,"All Ages",2,"Female",28.1182706291895
+68,"mean_BMI",4659,"Morelos",2019,22,"All Ages",1,"Male",27.3551540243219
+68,"mean_BMI",4659,"Morelos",2019,22,"All Ages",2,"Female",27.9999430338315
+68,"mean_BMI",4660,"Nayarit",2019,22,"All Ages",1,"Male",27.9447277863651
+68,"mean_BMI",4660,"Nayarit",2019,22,"All Ages",2,"Female",28.920237393041
+68,"mean_BMI",4661,"Nuevo León",2019,22,"All Ages",1,"Male",28.3158452877287
+68,"mean_BMI",4661,"Nuevo León",2019,22,"All Ages",2,"Female",28.9306488178535
+68,"mean_BMI",4662,"Oaxaca",2019,22,"All Ages",1,"Male",26.2506445927325
+68,"mean_BMI",4662,"Oaxaca",2019,22,"All Ages",2,"Female",27.2946913715281
+68,"mean_BMI",4663,"Puebla",2019,22,"All Ages",1,"Male",27.0160655510467
+68,"mean_BMI",4663,"Puebla",2019,22,"All Ages",2,"Female",27.9259962230241
+68,"mean_BMI",4664,"Querétaro",2019,22,"All Ages",1,"Male",27.6081374711917
+68,"mean_BMI",4664,"Querétaro",2019,22,"All Ages",2,"Female",28.490582272191
+68,"mean_BMI",4665,"Quintana Roo",2019,22,"All Ages",1,"Male",28.5605372159779
+68,"mean_BMI",4665,"Quintana Roo",2019,22,"All Ages",2,"Female",29.571769034169
+68,"mean_BMI",4666,"San Luis Potosí",2019,22,"All Ages",1,"Male",27.0089878166403
+68,"mean_BMI",4666,"San Luis Potosí",2019,22,"All Ages",2,"Female",28.6717511651367
+68,"mean_BMI",4667,"Sinaloa",2019,22,"All Ages",1,"Male",27.1075711369017
+68,"mean_BMI",4667,"Sinaloa",2019,22,"All Ages",2,"Female",28.2467465606262
+68,"mean_BMI",4668,"Sonora",2019,22,"All Ages",1,"Male",27.7789397057875
+68,"mean_BMI",4668,"Sonora",2019,22,"All Ages",2,"Female",29.0852199200811
+68,"mean_BMI",4669,"Tabasco",2019,22,"All Ages",1,"Male",28.3261937242646
+68,"mean_BMI",4669,"Tabasco",2019,22,"All Ages",2,"Female",29.6544659758426
+68,"mean_BMI",4670,"Tamaulipas",2019,22,"All Ages",1,"Male",28.3256363807137
+68,"mean_BMI",4670,"Tamaulipas",2019,22,"All Ages",2,"Female",29.7056862002914
+68,"mean_BMI",4671,"Tlaxcala",2019,22,"All Ages",1,"Male",27.8328795197081
+68,"mean_BMI",4671,"Tlaxcala",2019,22,"All Ages",2,"Female",28.3669317690159
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",1,"Male",26.814699162417
+68,"mean_BMI",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",2,"Female",27.9577552876671
+68,"mean_BMI",4673,"Yucatán",2019,22,"All Ages",1,"Male",28.3305281104559
+68,"mean_BMI",4673,"Yucatán",2019,22,"All Ages",2,"Female",29.2412806422308
+68,"mean_BMI",4674,"Zacatecas",2019,22,"All Ages",1,"Male",27.2585759474725
+68,"mean_BMI",4674,"Zacatecas",2019,22,"All Ages",2,"Female",28.6112148140736

@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+962,"sugar_g_unadj",130,"Mexico",1990,22,"All Ages",3,"Both",261.37802
+962,"sugar_g_unadj",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",288.00754
+962,"sugar_g_unadj",4644,"Baja California",1990,22,"All Ages",3,"Both",279.0621
+962,"sugar_g_unadj",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",295.59586
+962,"sugar_g_unadj",4646,"Campeche",1990,22,"All Ages",3,"Both",248.48503
+962,"sugar_g_unadj",4647,"Coahuila",1990,22,"All Ages",3,"Both",272.7861
+962,"sugar_g_unadj",4648,"Colima",1990,22,"All Ages",3,"Both",267.88995
+962,"sugar_g_unadj",4649,"Chiapas",1990,22,"All Ages",3,"Both",207.29982
+962,"sugar_g_unadj",4650,"Chihuahua",1990,22,"All Ages",3,"Both",260.10959
+962,"sugar_g_unadj",4651,"Mexico City",1990,22,"All Ages",3,"Both",283.8241
+962,"sugar_g_unadj",4652,"Durango",1990,22,"All Ages",3,"Both",270.31049
+962,"sugar_g_unadj",4653,"Guanajuato",1990,22,"All Ages",3,"Both",257.06558
+962,"sugar_g_unadj",4654,"Guerrero",1990,22,"All Ages",3,"Both",226.61525
+962,"sugar_g_unadj",4655,"Hidalgo",1990,22,"All Ages",3,"Both",239.38947
+962,"sugar_g_unadj",4656,"Jalisco",1990,22,"All Ages",3,"Both",281.26639
+962,"sugar_g_unadj",4657,"México",1990,22,"All Ages",3,"Both",273.0535
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",251.27173
+962,"sugar_g_unadj",4659,"Morelos",1990,22,"All Ages",3,"Both",263.33914
+962,"sugar_g_unadj",4660,"Nayarit",1990,22,"All Ages",3,"Both",254.08829
+962,"sugar_g_unadj",4661,"Nuevo León",1990,22,"All Ages",3,"Both",298.66837
+962,"sugar_g_unadj",4662,"Oaxaca",1990,22,"All Ages",3,"Both",230.20047
+962,"sugar_g_unadj",4663,"Puebla",1990,22,"All Ages",3,"Both",246.58446
+962,"sugar_g_unadj",4664,"Querétaro",1990,22,"All Ages",3,"Both",265.98801
+962,"sugar_g_unadj",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",259.4772
+962,"sugar_g_unadj",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",240.72169
+962,"sugar_g_unadj",4667,"Sinaloa",1990,22,"All Ages",3,"Both",280.7135
+962,"sugar_g_unadj",4668,"Sonora",1990,22,"All Ages",3,"Both",274.66824
+962,"sugar_g_unadj",4669,"Tabasco",1990,22,"All Ages",3,"Both",248.5977
+962,"sugar_g_unadj",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",279.41299
+962,"sugar_g_unadj",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",237.55032
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",244.1254
+962,"sugar_g_unadj",4673,"Yucatán",1990,22,"All Ages",3,"Both",265.74332
+962,"sugar_g_unadj",4674,"Zacatecas",1990,22,"All Ages",3,"Both",244.1591
+962,"sugar_g_unadj",130,"Mexico",1991,22,"All Ages",3,"Both",262.32919
+962,"sugar_g_unadj",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",288.50363
+962,"sugar_g_unadj",4644,"Baja California",1991,22,"All Ages",3,"Both",279.81406
+962,"sugar_g_unadj",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",295.57303
+962,"sugar_g_unadj",4646,"Campeche",1991,22,"All Ages",3,"Both",249.61212
+962,"sugar_g_unadj",4647,"Coahuila",1991,22,"All Ages",3,"Both",274.25296
+962,"sugar_g_unadj",4648,"Colima",1991,22,"All Ages",3,"Both",268.95538
+962,"sugar_g_unadj",4649,"Chiapas",1991,22,"All Ages",3,"Both",209.25587
+962,"sugar_g_unadj",4650,"Chihuahua",1991,22,"All Ages",3,"Both",261.84625
+962,"sugar_g_unadj",4651,"Mexico City",1991,22,"All Ages",3,"Both",285.09326
+962,"sugar_g_unadj",4652,"Durango",1991,22,"All Ages",3,"Both",270.82495
+962,"sugar_g_unadj",4653,"Guanajuato",1991,22,"All Ages",3,"Both",258.32404
+962,"sugar_g_unadj",4654,"Guerrero",1991,22,"All Ages",3,"Both",227.84471
+962,"sugar_g_unadj",4655,"Hidalgo",1991,22,"All Ages",3,"Both",240.17215
+962,"sugar_g_unadj",4656,"Jalisco",1991,22,"All Ages",3,"Both",281.85852
+962,"sugar_g_unadj",4657,"México",1991,22,"All Ages",3,"Both",273.44449
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",252.24133
+962,"sugar_g_unadj",4659,"Morelos",1991,22,"All Ages",3,"Both",263.99677
+962,"sugar_g_unadj",4660,"Nayarit",1991,22,"All Ages",3,"Both",255.47083
+962,"sugar_g_unadj",4661,"Nuevo León",1991,22,"All Ages",3,"Both",299.3504
+962,"sugar_g_unadj",4662,"Oaxaca",1991,22,"All Ages",3,"Both",230.77661
+962,"sugar_g_unadj",4663,"Puebla",1991,22,"All Ages",3,"Both",247.42894
+962,"sugar_g_unadj",4664,"Querétaro",1991,22,"All Ages",3,"Both",267.21078
+962,"sugar_g_unadj",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",260.87289
+962,"sugar_g_unadj",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",242.90234
+962,"sugar_g_unadj",4667,"Sinaloa",1991,22,"All Ages",3,"Both",281.01227
+962,"sugar_g_unadj",4668,"Sonora",1991,22,"All Ages",3,"Both",275.94229
+962,"sugar_g_unadj",4669,"Tabasco",1991,22,"All Ages",3,"Both",249.10689
+962,"sugar_g_unadj",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",280.11929
+962,"sugar_g_unadj",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",238.7757
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",245.00156
+962,"sugar_g_unadj",4673,"Yucatán",1991,22,"All Ages",3,"Both",266.08655
+962,"sugar_g_unadj",4674,"Zacatecas",1991,22,"All Ages",3,"Both",245.84036
+962,"sugar_g_unadj",130,"Mexico",1992,22,"All Ages",3,"Both",262.7962
+962,"sugar_g_unadj",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",288.44931
+962,"sugar_g_unadj",4644,"Baja California",1992,22,"All Ages",3,"Both",280.02667
+962,"sugar_g_unadj",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",295.05124
+962,"sugar_g_unadj",4646,"Campeche",1992,22,"All Ages",3,"Both",250.28682
+962,"sugar_g_unadj",4647,"Coahuila",1992,22,"All Ages",3,"Both",275.23059
+962,"sugar_g_unadj",4648,"Colima",1992,22,"All Ages",3,"Both",269.50955
+962,"sugar_g_unadj",4649,"Chiapas",1992,22,"All Ages",3,"Both",210.83327
+962,"sugar_g_unadj",4650,"Chihuahua",1992,22,"All Ages",3,"Both",263.10724
+962,"sugar_g_unadj",4651,"Mexico City",1992,22,"All Ages",3,"Both",285.83832
+962,"sugar_g_unadj",4652,"Durango",1992,22,"All Ages",3,"Both",270.84662
+962,"sugar_g_unadj",4653,"Guanajuato",1992,22,"All Ages",3,"Both",259.10834
+962,"sugar_g_unadj",4654,"Guerrero",1992,22,"All Ages",3,"Both",228.65552
+962,"sugar_g_unadj",4655,"Hidalgo",1992,22,"All Ages",3,"Both",240.5135
+962,"sugar_g_unadj",4656,"Jalisco",1992,22,"All Ages",3,"Both",281.92365
+962,"sugar_g_unadj",4657,"México",1992,22,"All Ages",3,"Both",273.31366
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",252.73825
+962,"sugar_g_unadj",4659,"Morelos",1992,22,"All Ages",3,"Both",264.15869
+962,"sugar_g_unadj",4660,"Nayarit",1992,22,"All Ages",3,"Both",256.39175
+962,"sugar_g_unadj",4661,"Nuevo León",1992,22,"All Ages",3,"Both",299.50113
+962,"sugar_g_unadj",4662,"Oaxaca",1992,22,"All Ages",3,"Both",230.92848
+962,"sugar_g_unadj",4663,"Puebla",1992,22,"All Ages",3,"Both",247.81059
+962,"sugar_g_unadj",4664,"Querétaro",1992,22,"All Ages",3,"Both",267.93567
+962,"sugar_g_unadj",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",261.80801
+962,"sugar_g_unadj",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",244.62479
+962,"sugar_g_unadj",4667,"Sinaloa",1992,22,"All Ages",3,"Both",280.8367
+962,"sugar_g_unadj",4668,"Sonora",1992,22,"All Ages",3,"Both",276.72894
+962,"sugar_g_unadj",4669,"Tabasco",1992,22,"All Ages",3,"Both",249.14656
+962,"sugar_g_unadj",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",280.35052
+962,"sugar_g_unadj",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",239.56296
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",245.41512
+962,"sugar_g_unadj",4673,"Yucatán",1992,22,"All Ages",3,"Both",265.96112
+962,"sugar_g_unadj",4674,"Zacatecas",1992,22,"All Ages",3,"Both",247.08974
+962,"sugar_g_unadj",130,"Mexico",1993,22,"All Ages",3,"Both",262.54239
+962,"sugar_g_unadj",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",287.59671
+962,"sugar_g_unadj",4644,"Baja California",1993,22,"All Ages",3,"Both",279.46045
+962,"sugar_g_unadj",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",293.77151
+962,"sugar_g_unadj",4646,"Campeche",1993,22,"All Ages",3,"Both",250.27724
+962,"sugar_g_unadj",4647,"Coahuila",1993,22,"All Ages",3,"Both",275.45749
+962,"sugar_g_unadj",4648,"Colima",1993,22,"All Ages",3,"Both",269.31345
+962,"sugar_g_unadj",4649,"Chiapas",1993,22,"All Ages",3,"Both",211.82504
+962,"sugar_g_unadj",4650,"Chihuahua",1993,22,"All Ages",3,"Both",263.64468
+962,"sugar_g_unadj",4651,"Mexico City",1993,22,"All Ages",3,"Both",285.8017
+962,"sugar_g_unadj",4652,"Durango",1993,22,"All Ages",3,"Both",270.1358
+962,"sugar_g_unadj",4653,"Guanajuato",1993,22,"All Ages",3,"Both",259.17563
+962,"sugar_g_unadj",4654,"Guerrero",1993,22,"All Ages",3,"Both",228.83397
+962,"sugar_g_unadj",4655,"Hidalgo",1993,22,"All Ages",3,"Both",240.19797
+962,"sugar_g_unadj",4656,"Jalisco",1993,22,"All Ages",3,"Both",281.21545
+962,"sugar_g_unadj",4657,"México",1993,22,"All Ages",3,"Both",272.42981
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",252.5338
+962,"sugar_g_unadj",4659,"Morelos",1993,22,"All Ages",3,"Both",263.5932
+962,"sugar_g_unadj",4660,"Nayarit",1993,22,"All Ages",3,"Both",256.61063
+962,"sugar_g_unadj",4661,"Nuevo León",1993,22,"All Ages",3,"Both",298.85086
+962,"sugar_g_unadj",4662,"Oaxaca",1993,22,"All Ages",3,"Both",230.45213
+962,"sugar_g_unadj",4663,"Puebla",1993,22,"All Ages",3,"Both",247.50989
+962,"sugar_g_unadj",4664,"Querétaro",1993,22,"All Ages",3,"Both",267.91632
+962,"sugar_g_unadj",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",262.03229
+962,"sugar_g_unadj",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",245.65245
+962,"sugar_g_unadj",4667,"Sinaloa",1993,22,"All Ages",3,"Both",279.9325
+962,"sugar_g_unadj",4668,"Sonora",1993,22,"All Ages",3,"Both",276.76776
+962,"sugar_g_unadj",4669,"Tabasco",1993,22,"All Ages",3,"Both",248.50124
+962,"sugar_g_unadj",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",279.84338
+962,"sugar_g_unadj",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",239.68852
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",245.14943
+962,"sugar_g_unadj",4673,"Yucatán",1993,22,"All Ages",3,"Both",265.13181
+962,"sugar_g_unadj",4674,"Zacatecas",1993,22,"All Ages",3,"Both",247.66211
+962,"sugar_g_unadj",130,"Mexico",1994,22,"All Ages",3,"Both",261.71725
+962,"sugar_g_unadj",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",286.11063
+962,"sugar_g_unadj",4644,"Baja California",1994,22,"All Ages",3,"Both",278.28046
+962,"sugar_g_unadj",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",291.87885
+962,"sugar_g_unadj",4646,"Campeche",1994,22,"All Ages",3,"Both",249.72496
+962,"sugar_g_unadj",4647,"Coahuila",1994,22,"All Ages",3,"Both",275.08844
+962,"sugar_g_unadj",4648,"Colima",1994,22,"All Ages",3,"Both",268.5256
+962,"sugar_g_unadj",4649,"Chiapas",1994,22,"All Ages",3,"Both",212.36296
+962,"sugar_g_unadj",4650,"Chihuahua",1994,22,"All Ages",3,"Both",263.61624
+962,"sugar_g_unadj",4651,"Mexico City",1994,22,"All Ages",3,"Both",285.15204
+962,"sugar_g_unadj",4652,"Durango",1994,22,"All Ages",3,"Both",268.84021
+962,"sugar_g_unadj",4653,"Guanajuato",1994,22,"All Ages",3,"Both",258.67279
+962,"sugar_g_unadj",4654,"Guerrero",1994,22,"All Ages",3,"Both",228.51225
+962,"sugar_g_unadj",4655,"Hidalgo",1994,22,"All Ages",3,"Both",239.3614
+962,"sugar_g_unadj",4656,"Jalisco",1994,22,"All Ages",3,"Both",279.89154
+962,"sugar_g_unadj",4657,"México",1994,22,"All Ages",3,"Both",270.94791
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",251.77252
+962,"sugar_g_unadj",4659,"Morelos",1994,22,"All Ages",3,"Both",262.44952
+962,"sugar_g_unadj",4660,"Nayarit",1994,22,"All Ages",3,"Both",256.27539
+962,"sugar_g_unadj",4661,"Nuevo León",1994,22,"All Ages",3,"Both",297.56027
+962,"sugar_g_unadj",4662,"Oaxaca",1994,22,"All Ages",3,"Both",229.47641
+962,"sugar_g_unadj",4663,"Puebla",1994,22,"All Ages",3,"Both",246.66991
+962,"sugar_g_unadj",4664,"Querétaro",1994,22,"All Ages",3,"Both",267.3071
+962,"sugar_g_unadj",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",261.69046
+962,"sugar_g_unadj",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",246.14041
+962,"sugar_g_unadj",4667,"Sinaloa",1994,22,"All Ages",3,"Both",278.44058
+962,"sugar_g_unadj",4668,"Sonora",1994,22,"All Ages",3,"Both",276.21222
+962,"sugar_g_unadj",4669,"Tabasco",1994,22,"All Ages",3,"Both",247.31195
+962,"sugar_g_unadj",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",278.73965
+962,"sugar_g_unadj",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",239.29007
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",244.34805
+962,"sugar_g_unadj",4673,"Yucatán",1994,22,"All Ages",3,"Both",263.73926
+962,"sugar_g_unadj",4674,"Zacatecas",1994,22,"All Ages",3,"Both",247.696
+962,"sugar_g_unadj",130,"Mexico",1995,22,"All Ages",3,"Both",259.60074
+962,"sugar_g_unadj",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",283.25186
+962,"sugar_g_unadj",4644,"Baja California",1995,22,"All Ages",3,"Both",275.74896
+962,"sugar_g_unadj",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",288.62219
+962,"sugar_g_unadj",4646,"Campeche",1995,22,"All Ages",3,"Both",247.92079
+962,"sugar_g_unadj",4647,"Coahuila",1995,22,"All Ages",3,"Both",273.32233
+962,"sugar_g_unadj",4648,"Colima",1995,22,"All Ages",3,"Both",266.40695
+962,"sugar_g_unadj",4649,"Chiapas",1995,22,"All Ages",3,"Both",211.77072
+962,"sugar_g_unadj",4650,"Chihuahua",1995,22,"All Ages",3,"Both",262.23288
+962,"sugar_g_unadj",4651,"Mexico City",1995,22,"All Ages",3,"Both",283.0853
+962,"sugar_g_unadj",4652,"Durango",1995,22,"All Ages",3,"Both",266.25012
+962,"sugar_g_unadj",4653,"Guanajuato",1995,22,"All Ages",3,"Both",256.86319
+962,"sugar_g_unadj",4654,"Guerrero",1995,22,"All Ages",3,"Both",227.0302
+962,"sugar_g_unadj",4655,"Hidalgo",1995,22,"All Ages",3,"Both",237.35033
+962,"sugar_g_unadj",4656,"Jalisco",1995,22,"All Ages",3,"Both",277.21561
+962,"sugar_g_unadj",4657,"México",1995,22,"All Ages",3,"Both",268.17456
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",249.76132
+962,"sugar_g_unadj",4659,"Morelos",1995,22,"All Ages",3,"Both",260.03067
+962,"sugar_g_unadj",4660,"Nayarit",1995,22,"All Ages",3,"Both",254.64204
+962,"sugar_g_unadj",4661,"Nuevo León",1995,22,"All Ages",3,"Both",294.82712
+962,"sugar_g_unadj",4662,"Oaxaca",1995,22,"All Ages",3,"Both",227.38745
+962,"sugar_g_unadj",4663,"Puebla",1995,22,"All Ages",3,"Both",244.61795
+962,"sugar_g_unadj",4664,"Querétaro",1995,22,"All Ages",3,"Both",265.35596
+962,"sugar_g_unadj",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",260.01517
+962,"sugar_g_unadj",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",245.32121
+962,"sugar_g_unadj",4667,"Sinaloa",1995,22,"All Ages",3,"Both",275.62354
+962,"sugar_g_unadj",4668,"Sonora",1995,22,"All Ages",3,"Both",274.26953
+962,"sugar_g_unadj",4669,"Tabasco",1995,22,"All Ages",3,"Both",244.93126
+962,"sugar_g_unadj",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",276.27167
+962,"sugar_g_unadj",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",237.68138
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",242.3441
+962,"sugar_g_unadj",4673,"Yucatán",1995,22,"All Ages",3,"Both",261.09103
+962,"sugar_g_unadj",4674,"Zacatecas",1995,22,"All Ages",3,"Both",246.44159
+962,"sugar_g_unadj",130,"Mexico",1996,22,"All Ages",3,"Both",257.96121
+962,"sugar_g_unadj",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",280.91254
+962,"sugar_g_unadj",4644,"Baja California",1996,22,"All Ages",3,"Both",273.72549
+962,"sugar_g_unadj",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",285.89127
+962,"sugar_g_unadj",4646,"Campeche",1996,22,"All Ages",3,"Both",246.57428
+962,"sugar_g_unadj",4647,"Coahuila",1996,22,"All Ages",3,"Both",272.0574
+962,"sugar_g_unadj",4648,"Colima",1996,22,"All Ages",3,"Both",264.78845
+962,"sugar_g_unadj",4649,"Chiapas",1996,22,"All Ages",3,"Both",211.58266
+962,"sugar_g_unadj",4650,"Chihuahua",1996,22,"All Ages",3,"Both",261.33658
+962,"sugar_g_unadj",4651,"Mexico City",1996,22,"All Ages",3,"Both",281.56284
+962,"sugar_g_unadj",4652,"Durango",1996,22,"All Ages",3,"Both",264.1517
+962,"sugar_g_unadj",4653,"Guanajuato",1996,22,"All Ages",3,"Both",255.52469
+962,"sugar_g_unadj",4654,"Guerrero",1996,22,"All Ages",3,"Both",225.96359
+962,"sugar_g_unadj",4655,"Hidalgo",1996,22,"All Ages",3,"Both",235.77666
+962,"sugar_g_unadj",4656,"Jalisco",1996,22,"All Ages",3,"Both",275.04977
+962,"sugar_g_unadj",4657,"México",1996,22,"All Ages",3,"Both",265.89603
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",248.21146
+962,"sugar_g_unadj",4659,"Morelos",1996,22,"All Ages",3,"Both",258.09247
+962,"sugar_g_unadj",4660,"Nayarit",1996,22,"All Ages",3,"Both",253.48712
+962,"sugar_g_unadj",4661,"Nuevo León",1996,22,"All Ages",3,"Both",292.63593
+962,"sugar_g_unadj",4662,"Oaxaca",1996,22,"All Ages",3,"Both",225.71603
+962,"sugar_g_unadj",4663,"Puebla",1996,22,"All Ages",3,"Both",243.01717
+962,"sugar_g_unadj",4664,"Querétaro",1996,22,"All Ages",3,"Both",263.89273
+962,"sugar_g_unadj",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",258.80582
+962,"sugar_g_unadj",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",244.9677
+962,"sugar_g_unadj",4667,"Sinaloa",1996,22,"All Ages",3,"Both",273.30591
+962,"sugar_g_unadj",4668,"Sonora",1996,22,"All Ages",3,"Both",272.83191
+962,"sugar_g_unadj",4669,"Tabasco",1996,22,"All Ages",3,"Both",243.00456
+962,"sugar_g_unadj",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",274.29761
+962,"sugar_g_unadj",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",236.5119
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",240.78992
+962,"sugar_g_unadj",4673,"Yucatán",1996,22,"All Ages",3,"Both",258.92224
+962,"sugar_g_unadj",4674,"Zacatecas",1996,22,"All Ages",3,"Both",245.64552
+962,"sugar_g_unadj",130,"Mexico",1997,22,"All Ages",3,"Both",256.80457
+962,"sugar_g_unadj",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",279.09641
+962,"sugar_g_unadj",4644,"Baja California",1997,22,"All Ages",3,"Both",272.21698
+962,"sugar_g_unadj",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",283.66974
+962,"sugar_g_unadj",4646,"Campeche",1997,22,"All Ages",3,"Both",245.69232
+962,"sugar_g_unadj",4647,"Coahuila",1997,22,"All Ages",3,"Both",271.30038
+962,"sugar_g_unadj",4648,"Colima",1997,22,"All Ages",3,"Both",263.6857
+962,"sugar_g_unadj",4649,"Chiapas",1997,22,"All Ages",3,"Both",211.81396
+962,"sugar_g_unadj",4650,"Chihuahua",1997,22,"All Ages",3,"Both",260.93539
+962,"sugar_g_unadj",4651,"Mexico City",1997,22,"All Ages",3,"Both",280.59897
+962,"sugar_g_unadj",4652,"Durango",1997,22,"All Ages",3,"Both",262.54446
+962,"sugar_g_unadj",4653,"Guanajuato",1997,22,"All Ages",3,"Both",254.66568
+962,"sugar_g_unadj",4654,"Guerrero",1997,22,"All Ages",3,"Both",225.31902
+962,"sugar_g_unadj",4655,"Hidalgo",1997,22,"All Ages",3,"Both",234.64163
+962,"sugar_g_unadj",4656,"Jalisco",1997,22,"All Ages",3,"Both",273.39713
+962,"sugar_g_unadj",4657,"México",1997,22,"All Ages",3,"Both",264.11502
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",247.13028
+962,"sugar_g_unadj",4659,"Morelos",1997,22,"All Ages",3,"Both",256.642
+962,"sugar_g_unadj",4660,"Nayarit",1997,22,"All Ages",3,"Both",252.82024
+962,"sugar_g_unadj",4661,"Nuevo León",1997,22,"All Ages",3,"Both",290.98471
+962,"sugar_g_unadj",4662,"Oaxaca",1997,22,"All Ages",3,"Both",224.46063
+962,"sugar_g_unadj",4663,"Puebla",1997,22,"All Ages",3,"Both",241.87025
+962,"sugar_g_unadj",4664,"Querétaro",1997,22,"All Ages",3,"Both",262.92761
+962,"sugar_g_unadj",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",258.06631
+962,"sugar_g_unadj",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",245.10178
+962,"sugar_g_unadj",4667,"Sinaloa",1997,22,"All Ages",3,"Both",271.47156
+962,"sugar_g_unadj",4668,"Sonora",1997,22,"All Ages",3,"Both",271.90363
+962,"sugar_g_unadj",4669,"Tabasco",1997,22,"All Ages",3,"Both",241.53751
+962,"sugar_g_unadj",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",272.80823
+962,"sugar_g_unadj",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",235.79175
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",239.69193
+962,"sugar_g_unadj",4673,"Yucatán",1997,22,"All Ages",3,"Both",257.22324
+962,"sugar_g_unadj",4674,"Zacatecas",1997,22,"All Ages",3,"Both",245.32089
+962,"sugar_g_unadj",130,"Mexico",1998,22,"All Ages",3,"Both",257.04776
+962,"sugar_g_unadj",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",278.80826
+962,"sugar_g_unadj",4644,"Baja California",1998,22,"All Ages",3,"Both",272.20132
+962,"sugar_g_unadj",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",282.96231
+962,"sugar_g_unadj",4646,"Campeche",1998,22,"All Ages",3,"Both",246.14095
+962,"sugar_g_unadj",4647,"Coahuila",1998,22,"All Ages",3,"Both",272.00693
+962,"sugar_g_unadj",4648,"Colima",1998,22,"All Ages",3,"Both",264.03687
+962,"sugar_g_unadj",4649,"Chiapas",1998,22,"All Ages",3,"Both",213.20212
+962,"sugar_g_unadj",4650,"Chihuahua",1998,22,"All Ages",3,"Both",261.94592
+962,"sugar_g_unadj",4651,"Mexico City",1998,22,"All Ages",3,"Both",281.17554
+962,"sugar_g_unadj",4652,"Durango",1998,22,"All Ages",3,"Both",262.36081
+962,"sugar_g_unadj",4653,"Guanajuato",1998,22,"All Ages",3,"Both",255.18501
+962,"sugar_g_unadj",4654,"Guerrero",1998,22,"All Ages",3,"Both",225.89427
+962,"sugar_g_unadj",4655,"Hidalgo",1998,22,"All Ages",3,"Both",234.77983
+962,"sugar_g_unadj",4656,"Jalisco",1998,22,"All Ages",3,"Both",273.23532
+962,"sugar_g_unadj",4657,"México",1998,22,"All Ages",3,"Both",263.78299
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",247.39616
+962,"sugar_g_unadj",4659,"Morelos",1998,22,"All Ages",3,"Both",256.59802
+962,"sugar_g_unadj",4660,"Nayarit",1998,22,"All Ages",3,"Both",253.52597
+962,"sugar_g_unadj",4661,"Nuevo León",1998,22,"All Ages",3,"Both",290.90073
+962,"sugar_g_unadj",4662,"Oaxaca",1998,22,"All Ages",3,"Both",224.42117
+962,"sugar_g_unadj",4663,"Puebla",1998,22,"All Ages",3,"Both",242.03966
+962,"sugar_g_unadj",4664,"Querétaro",1998,22,"All Ages",3,"Both",263.39401
+962,"sugar_g_unadj",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",258.70627
+962,"sugar_g_unadj",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",246.58318
+962,"sugar_g_unadj",4667,"Sinaloa",1998,22,"All Ages",3,"Both",271.08075
+962,"sugar_g_unadj",4668,"Sonora",1998,22,"All Ages",3,"Both",272.43878
+962,"sugar_g_unadj",4669,"Tabasco",1998,22,"All Ages",3,"Both",241.39589
+962,"sugar_g_unadj",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",272.76627
+962,"sugar_g_unadj",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",236.35632
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",239.90642
+962,"sugar_g_unadj",4673,"Yucatán",1998,22,"All Ages",3,"Both",256.90891
+962,"sugar_g_unadj",4674,"Zacatecas",1998,22,"All Ages",3,"Both",246.32144
+962,"sugar_g_unadj",130,"Mexico",1999,22,"All Ages",3,"Both",258.17358
+962,"sugar_g_unadj",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",279.48862
+962,"sugar_g_unadj",4644,"Baja California",1999,22,"All Ages",3,"Both",273.13586
+962,"sugar_g_unadj",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",283.18192
+962,"sugar_g_unadj",4646,"Campeche",1999,22,"All Ages",3,"Both",247.42461
+962,"sugar_g_unadj",4647,"Coahuila",1999,22,"All Ages",3,"Both",273.63275
+962,"sugar_g_unadj",4648,"Colima",1999,22,"All Ages",3,"Both",265.31305
+962,"sugar_g_unadj",4649,"Chiapas",1999,22,"All Ages",3,"Both",215.32872
+962,"sugar_g_unadj",4650,"Chihuahua",1999,22,"All Ages",3,"Both",263.84836
+962,"sugar_g_unadj",4651,"Mexico City",1999,22,"All Ages",3,"Both",282.71811
+962,"sugar_g_unadj",4652,"Durango",1999,22,"All Ages",3,"Both",263.06509
+962,"sugar_g_unadj",4653,"Guanajuato",1999,22,"All Ages",3,"Both",256.56976
+962,"sugar_g_unadj",4654,"Guerrero",1999,22,"All Ages",3,"Both",227.24152
+962,"sugar_g_unadj",4655,"Hidalgo",1999,22,"All Ages",3,"Both",235.71895
+962,"sugar_g_unadj",4656,"Jalisco",1999,22,"All Ages",3,"Both",274.01297
+962,"sugar_g_unadj",4657,"México",1999,22,"All Ages",3,"Both",264.36935
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",248.51271
+962,"sugar_g_unadj",4659,"Morelos",1999,22,"All Ages",3,"Both",257.44495
+962,"sugar_g_unadj",4660,"Nayarit",1999,22,"All Ages",3,"Both",255.09186
+962,"sugar_g_unadj",4661,"Nuevo León",1999,22,"All Ages",3,"Both",291.78772
+962,"sugar_g_unadj",4662,"Oaxaca",1999,22,"All Ages",3,"Both",225.14491
+962,"sugar_g_unadj",4663,"Puebla",1999,22,"All Ages",3,"Both",243.04106
+962,"sugar_g_unadj",4664,"Querétaro",1999,22,"All Ages",3,"Both",264.76636
+962,"sugar_g_unadj",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",260.20917
+962,"sugar_g_unadj",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",248.93019
+962,"sugar_g_unadj",4667,"Sinaloa",1999,22,"All Ages",3,"Both",271.57504
+962,"sugar_g_unadj",4668,"Sonora",1999,22,"All Ages",3,"Both",273.88626
+962,"sugar_g_unadj",4669,"Tabasco",1999,22,"All Ages",3,"Both",242.09346
+962,"sugar_g_unadj",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",273.61526
+962,"sugar_g_unadj",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",237.73473
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",240.95471
+962,"sugar_g_unadj",4673,"Yucatán",1999,22,"All Ages",3,"Both",257.45462
+962,"sugar_g_unadj",4674,"Zacatecas",1999,22,"All Ages",3,"Both",248.15097
+962,"sugar_g_unadj",130,"Mexico",2000,22,"All Ages",3,"Both",260.20334
+962,"sugar_g_unadj",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",281.15051
+962,"sugar_g_unadj",4644,"Baja California",2000,22,"All Ages",3,"Both",275.04306
+962,"sugar_g_unadj",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",284.31671
+962,"sugar_g_unadj",4646,"Campeche",2000,22,"All Ages",3,"Both",249.56367
+962,"sugar_g_unadj",4647,"Coahuila",2000,22,"All Ages",3,"Both",276.20886
+962,"sugar_g_unadj",4648,"Colima",2000,22,"All Ages",3,"Both",267.53806
+962,"sugar_g_unadj",4649,"Chiapas",2000,22,"All Ages",3,"Both",218.23991
+962,"sugar_g_unadj",4650,"Chihuahua",2000,22,"All Ages",3,"Both",266.68301
+962,"sugar_g_unadj",4651,"Mexico City",2000,22,"All Ages",3,"Both",285.25311
+962,"sugar_g_unadj",4652,"Durango",2000,22,"All Ages",3,"Both",264.66422
+962,"sugar_g_unadj",4653,"Guanajuato",2000,22,"All Ages",3,"Both",258.84872
+962,"sugar_g_unadj",4654,"Guerrero",2000,22,"All Ages",3,"Both",229.38652
+962,"sugar_g_unadj",4655,"Hidalgo",2000,22,"All Ages",3,"Both",237.47891
+962,"sugar_g_unadj",4656,"Jalisco",2000,22,"All Ages",3,"Both",275.75095
+962,"sugar_g_unadj",4657,"México",2000,22,"All Ages",3,"Both",265.89398
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",250.5054
+962,"sugar_g_unadj",4659,"Morelos",2000,22,"All Ages",3,"Both",259.19812
+962,"sugar_g_unadj",4660,"Nayarit",2000,22,"All Ages",3,"Both",257.54596
+962,"sugar_g_unadj",4661,"Nuevo León",2000,22,"All Ages",3,"Both",293.65671
+962,"sugar_g_unadj",4662,"Oaxaca",2000,22,"All Ages",3,"Both",226.64597
+962,"sugar_g_unadj",4663,"Puebla",2000,22,"All Ages",3,"Both",244.89737
+962,"sugar_g_unadj",4664,"Querétaro",2000,22,"All Ages",3,"Both",267.07349
+962,"sugar_g_unadj",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",262.59366
+962,"sugar_g_unadj",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",252.1978
+962,"sugar_g_unadj",4667,"Sinaloa",2000,22,"All Ages",3,"Both",272.95306
+962,"sugar_g_unadj",4668,"Sonora",2000,22,"All Ages",3,"Both",276.26993
+962,"sugar_g_unadj",4669,"Tabasco",2000,22,"All Ages",3,"Both",243.64525
+962,"sugar_g_unadj",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",275.36414
+962,"sugar_g_unadj",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",239.95352
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",242.86365
+962,"sugar_g_unadj",4673,"Yucatán",2000,22,"All Ages",3,"Both",258.86871
+962,"sugar_g_unadj",4674,"Zacatecas",2000,22,"All Ages",3,"Both",250.84352
+962,"sugar_g_unadj",130,"Mexico",2001,22,"All Ages",3,"Both",261.92651
+962,"sugar_g_unadj",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",282.50018
+962,"sugar_g_unadj",4644,"Baja California",2001,22,"All Ages",3,"Both",276.64612
+962,"sugar_g_unadj",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",285.07782
+962,"sugar_g_unadj",4646,"Campeche",2001,22,"All Ages",3,"Both",251.38667
+962,"sugar_g_unadj",4647,"Coahuila",2001,22,"All Ages",3,"Both",278.43359
+962,"sugar_g_unadj",4648,"Colima",2001,22,"All Ages",3,"Both",269.45374
+962,"sugar_g_unadj",4649,"Chiapas",2001,22,"All Ages",3,"Both",220.87605
+962,"sugar_g_unadj",4650,"Chihuahua",2001,22,"All Ages",3,"Both",269.1821
+962,"sugar_g_unadj",4651,"Mexico City",2001,22,"All Ages",3,"Both",287.43497
+962,"sugar_g_unadj",4652,"Durango",2001,22,"All Ages",3,"Both",265.94098
+962,"sugar_g_unadj",4653,"Guanajuato",2001,22,"All Ages",3,"Both",260.81094
+962,"sugar_g_unadj",4654,"Guerrero",2001,22,"All Ages",3,"Both",231.248
+962,"sugar_g_unadj",4655,"Hidalgo",2001,22,"All Ages",3,"Both",238.9581
+962,"sugar_g_unadj",4656,"Jalisco",2001,22,"All Ages",3,"Both",277.18167
+962,"sugar_g_unadj",4657,"México",2001,22,"All Ages",3,"Both",267.13983
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",252.20853
+962,"sugar_g_unadj",4659,"Morelos",2001,22,"All Ages",3,"Both",260.65488
+962,"sugar_g_unadj",4660,"Nayarit",2001,22,"All Ages",3,"Both",259.67328
+962,"sugar_g_unadj",4661,"Nuevo León",2001,22,"All Ages",3,"Both",295.15579
+962,"sugar_g_unadj",4662,"Oaxaca",2001,22,"All Ages",3,"Both",227.88066
+962,"sugar_g_unadj",4663,"Puebla",2001,22,"All Ages",3,"Both",246.47148
+962,"sugar_g_unadj",4664,"Querétaro",2001,22,"All Ages",3,"Both",269.06439
+962,"sugar_g_unadj",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",264.62326
+962,"sugar_g_unadj",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",255.16812
+962,"sugar_g_unadj",4667,"Sinaloa",2001,22,"All Ages",3,"Both",273.97266
+962,"sugar_g_unadj",4668,"Sonora",2001,22,"All Ages",3,"Both",278.29407
+962,"sugar_g_unadj",4669,"Tabasco",2001,22,"All Ages",3,"Both",244.92641
+962,"sugar_g_unadj",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",276.74808
+962,"sugar_g_unadj",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",241.87994
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",244.50217
+962,"sugar_g_unadj",4673,"Yucatán",2001,22,"All Ages",3,"Both",259.96912
+962,"sugar_g_unadj",4674,"Zacatecas",2001,22,"All Ages",3,"Both",253.20549
+962,"sugar_g_unadj",130,"Mexico",2002,22,"All Ages",3,"Both",262.90802
+962,"sugar_g_unadj",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",283.06644
+962,"sugar_g_unadj",4644,"Baja California",2002,22,"All Ages",3,"Both",277.48523
+962,"sugar_g_unadj",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",284.99518
+962,"sugar_g_unadj",4646,"Campeche",2002,22,"All Ages",3,"Both",252.48218
+962,"sugar_g_unadj",4647,"Coahuila",2002,22,"All Ages",3,"Both",279.85135
+962,"sugar_g_unadj",4648,"Colima",2002,22,"All Ages",3,"Both",270.60852
+962,"sugar_g_unadj",4649,"Chiapas",2002,22,"All Ages",3,"Both",222.8819
+962,"sugar_g_unadj",4650,"Chihuahua",2002,22,"All Ages",3,"Both",270.90591
+962,"sugar_g_unadj",4651,"Mexico City",2002,22,"All Ages",3,"Both",288.77704
+962,"sugar_g_unadj",4652,"Durango",2002,22,"All Ages",3,"Both",266.45322
+962,"sugar_g_unadj",4653,"Guanajuato",2002,22,"All Ages",3,"Both",262.02927
+962,"sugar_g_unadj",4654,"Guerrero",2002,22,"All Ages",3,"Both",232.44803
+962,"sugar_g_unadj",4655,"Hidalgo",2002,22,"All Ages",3,"Both",239.7583
+962,"sugar_g_unadj",4656,"Jalisco",2002,22,"All Ages",3,"Both",277.83707
+962,"sugar_g_unadj",4657,"México",2002,22,"All Ages",3,"Both",267.65372
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",253.20309
+962,"sugar_g_unadj",4659,"Morelos",2002,22,"All Ages",3,"Both",261.37805
+962,"sugar_g_unadj",4660,"Nayarit",2002,22,"All Ages",3,"Both",261.04562
+962,"sugar_g_unadj",4661,"Nuevo León",2002,22,"All Ages",3,"Both",295.79349
+962,"sugar_g_unadj",4662,"Oaxaca",2002,22,"All Ages",3,"Both",228.46944
+962,"sugar_g_unadj",4663,"Puebla",2002,22,"All Ages",3,"Both",247.35312
+962,"sugar_g_unadj",4664,"Querétaro",2002,22,"All Ages",3,"Both",270.29721
+962,"sugar_g_unadj",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",265.88101
+962,"sugar_g_unadj",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",257.43164
+962,"sugar_g_unadj",4667,"Sinaloa",2002,22,"All Ages",3,"Both",274.18155
+962,"sugar_g_unadj",4668,"Sonora",2002,22,"All Ages",3,"Both",279.50217
+962,"sugar_g_unadj",4669,"Tabasco",2002,22,"All Ages",3,"Both",245.52391
+962,"sugar_g_unadj",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",277.31345
+962,"sugar_g_unadj",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",243.11568
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",245.4594
+962,"sugar_g_unadj",4673,"Yucatán",2002,22,"All Ages",3,"Both",260.31818
+962,"sugar_g_unadj",4674,"Zacatecas",2002,22,"All Ages",3,"Both",254.82417
+962,"sugar_g_unadj",130,"Mexico",2003,22,"All Ages",3,"Both",263.00925
+962,"sugar_g_unadj",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",282.70047
+962,"sugar_g_unadj",4644,"Baja California",2003,22,"All Ages",3,"Both",277.41782
+962,"sugar_g_unadj",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",283.92679
+962,"sugar_g_unadj",4646,"Campeche",2003,22,"All Ages",3,"Both",252.72412
+962,"sugar_g_unadj",4647,"Coahuila",2003,22,"All Ages",3,"Both",280.3204
+962,"sugar_g_unadj",4648,"Colima",2003,22,"All Ages",3,"Both",270.85724
+962,"sugar_g_unadj",4649,"Chiapas",2003,22,"All Ages",3,"Both",224.14928
+962,"sugar_g_unadj",4650,"Chihuahua",2003,22,"All Ages",3,"Both",271.71719
+962,"sugar_g_unadj",4651,"Mexico City",2003,22,"All Ages",3,"Both",289.11957
+962,"sugar_g_unadj",4652,"Durango",2003,22,"All Ages",3,"Both",266.06317
+962,"sugar_g_unadj",4653,"Guanajuato",2003,22,"All Ages",3,"Both",262.37204
+962,"sugar_g_unadj",4654,"Guerrero",2003,22,"All Ages",3,"Both",232.87048
+962,"sugar_g_unadj",4655,"Hidalgo",2003,22,"All Ages",3,"Both",239.75267
+962,"sugar_g_unadj",4656,"Jalisco",2003,22,"All Ages",3,"Both",277.56668
+962,"sugar_g_unadj",4657,"México",2003,22,"All Ages",3,"Both",267.28726
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",253.3557
+962,"sugar_g_unadj",4659,"Morelos",2003,22,"All Ages",3,"Both",261.22778
+962,"sugar_g_unadj",4660,"Nayarit",2003,22,"All Ages",3,"Both",261.52817
+962,"sugar_g_unadj",4661,"Nuevo León",2003,22,"All Ages",3,"Both",295.41632
+962,"sugar_g_unadj",4662,"Oaxaca",2003,22,"All Ages",3,"Both",228.29234
+962,"sugar_g_unadj",4663,"Puebla",2003,22,"All Ages",3,"Both",247.41162
+962,"sugar_g_unadj",4664,"Querétaro",2003,22,"All Ages",3,"Both",270.63287
+962,"sugar_g_unadj",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",266.24625
+962,"sugar_g_unadj",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",258.8624
+962,"sugar_g_unadj",4667,"Sinaloa",2003,22,"All Ages",3,"Both",273.44037
+962,"sugar_g_unadj",4668,"Sonora",2003,22,"All Ages",3,"Both",279.75345
+962,"sugar_g_unadj",4669,"Tabasco",2003,22,"All Ages",3,"Both",245.3045
+962,"sugar_g_unadj",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",276.9202
+962,"sugar_g_unadj",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",243.53558
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",245.60243
+962,"sugar_g_unadj",4673,"Yucatán",2003,22,"All Ages",3,"Both",259.77493
+962,"sugar_g_unadj",4674,"Zacatecas",2003,22,"All Ages",3,"Both",255.5721
+962,"sugar_g_unadj",130,"Mexico",2004,22,"All Ages",3,"Both",262.21783
+962,"sugar_g_unadj",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",281.38919
+962,"sugar_g_unadj",4644,"Baja California",2004,22,"All Ages",3,"Both",276.43442
+962,"sugar_g_unadj",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",281.86496
+962,"sugar_g_unadj",4646,"Campeche",2004,22,"All Ages",3,"Both",252.10852
+962,"sugar_g_unadj",4647,"Coahuila",2004,22,"All Ages",3,"Both",279.83505
+962,"sugar_g_unadj",4648,"Colima",2004,22,"All Ages",3,"Both",270.18726
+962,"sugar_g_unadj",4649,"Chiapas",2004,22,"All Ages",3,"Both",224.68172
+962,"sugar_g_unadj",4650,"Chihuahua",2004,22,"All Ages",3,"Both",271.61313
+962,"sugar_g_unadj",4651,"Mexico City",2004,22,"All Ages",3,"Both",288.44427
+962,"sugar_g_unadj",4652,"Durango",2004,22,"All Ages",3,"Both",264.75952
+962,"sugar_g_unadj",4653,"Guanajuato",2004,22,"All Ages",3,"Both",261.83408
+962,"sugar_g_unadj",4654,"Guerrero",2004,22,"All Ages",3,"Both",232.51328
+962,"sugar_g_unadj",4655,"Hidalgo",2004,22,"All Ages",3,"Both",238.93005
+962,"sugar_g_unadj",4656,"Jalisco",2004,22,"All Ages",3,"Both",276.35361
+962,"sugar_g_unadj",4657,"México",2004,22,"All Ages",3,"Both",266.02121
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",252.65593
+962,"sugar_g_unadj",4659,"Morelos",2004,22,"All Ages",3,"Both",260.1897
+962,"sugar_g_unadj",4660,"Nayarit",2004,22,"All Ages",3,"Both",261.11343
+962,"sugar_g_unadj",4661,"Nuevo León",2004,22,"All Ages",3,"Both",294.01233
+962,"sugar_g_unadj",4662,"Oaxaca",2004,22,"All Ages",3,"Both",227.33812
+962,"sugar_g_unadj",4663,"Puebla",2004,22,"All Ages",3,"Both",246.63475
+962,"sugar_g_unadj",4664,"Querétaro",2004,22,"All Ages",3,"Both",270.06339
+962,"sugar_g_unadj",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",265.72693
+962,"sugar_g_unadj",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",259.46216
+962,"sugar_g_unadj",4667,"Sinaloa",2004,22,"All Ages",3,"Both",271.73749
+962,"sugar_g_unadj",4668,"Sonora",2004,22,"All Ages",3,"Both",279.04208
+962,"sugar_g_unadj",4669,"Tabasco",2004,22,"All Ages",3,"Both",244.25243
+962,"sugar_g_unadj",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",275.56009
+962,"sugar_g_unadj",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",243.1322
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",244.91643
+962,"sugar_g_unadj",4673,"Yucatán",2004,22,"All Ages",3,"Both",258.32184
+962,"sugar_g_unadj",4674,"Zacatecas",2004,22,"All Ages",3,"Both",255.44815
+962,"sugar_g_unadj",130,"Mexico",2005,22,"All Ages",3,"Both",260.5033
+962,"sugar_g_unadj",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",279.11389
+962,"sugar_g_unadj",4644,"Baja California",2005,22,"All Ages",3,"Both",274.50943
+962,"sugar_g_unadj",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",278.82367
+962,"sugar_g_unadj",4646,"Campeche",2005,22,"All Ages",3,"Both",250.60622
+962,"sugar_g_unadj",4647,"Coahuila",2005,22,"All Ages",3,"Both",278.35651
+962,"sugar_g_unadj",4648,"Colima",2005,22,"All Ages",3,"Both",268.55994
+962,"sugar_g_unadj",4649,"Chiapas",2005,22,"All Ages",3,"Both",224.42146
+962,"sugar_g_unadj",4650,"Chihuahua",2005,22,"All Ages",3,"Both",270.54639
+962,"sugar_g_unadj",4651,"Mexico City",2005,22,"All Ages",3,"Both",286.70883
+962,"sugar_g_unadj",4652,"Durango",2005,22,"All Ages",3,"Both",262.52896
+962,"sugar_g_unadj",4653,"Guanajuato",2005,22,"All Ages",3,"Both",260.38162
+962,"sugar_g_unadj",4654,"Guerrero",2005,22,"All Ages",3,"Both",231.34364
+962,"sugar_g_unadj",4655,"Hidalgo",2005,22,"All Ages",3,"Both",237.26591
+962,"sugar_g_unadj",4656,"Jalisco",2005,22,"All Ages",3,"Both",274.17462
+962,"sugar_g_unadj",4657,"México",2005,22,"All Ages",3,"Both",263.83441
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",251.07294
+962,"sugar_g_unadj",4659,"Morelos",2005,22,"All Ages",3,"Both",258.23962
+962,"sugar_g_unadj",4660,"Nayarit",2005,22,"All Ages",3,"Both",259.76187
+962,"sugar_g_unadj",4661,"Nuevo León",2005,22,"All Ages",3,"Both",291.5675
+962,"sugar_g_unadj",4662,"Oaxaca",2005,22,"All Ages",3,"Both",225.58812
+962,"sugar_g_unadj",4663,"Puebla",2005,22,"All Ages",3,"Both",244.99329
+962,"sugar_g_unadj",4664,"Querétaro",2005,22,"All Ages",3,"Both",268.55173
+962,"sugar_g_unadj",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",264.29788
+962,"sugar_g_unadj",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",259.16187
+962,"sugar_g_unadj",4667,"Sinaloa",2005,22,"All Ages",3,"Both",269.07269
+962,"sugar_g_unadj",4668,"Sonora",2005,22,"All Ages",3,"Both",277.33759
+962,"sugar_g_unadj",4669,"Tabasco",2005,22,"All Ages",3,"Both",242.34518
+962,"sugar_g_unadj",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",273.22479
+962,"sugar_g_unadj",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",241.86789
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",243.36688
+962,"sugar_g_unadj",4673,"Yucatán",2005,22,"All Ages",3,"Both",255.94775
+962,"sugar_g_unadj",4674,"Zacatecas",2005,22,"All Ages",3,"Both",254.40988
+962,"sugar_g_unadj",130,"Mexico",2006,22,"All Ages",3,"Both",258.87701
+962,"sugar_g_unadj",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",276.95053
+962,"sugar_g_unadj",4644,"Baja California",2006,22,"All Ages",3,"Both",272.70618
+962,"sugar_g_unadj",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",275.87381
+962,"sugar_g_unadj",4646,"Campeche",2006,22,"All Ages",3,"Both",249.1949
+962,"sugar_g_unadj",4647,"Coahuila",2006,22,"All Ages",3,"Both",276.97464
+962,"sugar_g_unadj",4648,"Colima",2006,22,"All Ages",3,"Both",267.01721
+962,"sugar_g_unadj",4649,"Chiapas",2006,22,"All Ages",3,"Both",224.25929
+962,"sugar_g_unadj",4650,"Chihuahua",2006,22,"All Ages",3,"Both",269.5824
+962,"sugar_g_unadj",4651,"Mexico City",2006,22,"All Ages",3,"Both",285.02863
+962,"sugar_g_unadj",4652,"Durango",2006,22,"All Ages",3,"Both",260.38583
+962,"sugar_g_unadj",4653,"Guanajuato",2006,22,"All Ages",3,"Both",259.03217
+962,"sugar_g_unadj",4654,"Guerrero",2006,22,"All Ages",3,"Both",230.26935
+962,"sugar_g_unadj",4655,"Hidalgo",2006,22,"All Ages",3,"Both",235.68028
+962,"sugar_g_unadj",4656,"Jalisco",2006,22,"All Ages",3,"Both",272.0871
+962,"sugar_g_unadj",4657,"México",2006,22,"All Ages",3,"Both",261.73941
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",249.58154
+962,"sugar_g_unadj",4659,"Morelos",2006,22,"All Ages",3,"Both",256.3754
+962,"sugar_g_unadj",4660,"Nayarit",2006,22,"All Ages",3,"Both",258.48996
+962,"sugar_g_unadj",4661,"Nuevo León",2006,22,"All Ages",3,"Both",289.21063
+962,"sugar_g_unadj",4662,"Oaxaca",2006,22,"All Ages",3,"Both",223.91478
+962,"sugar_g_unadj",4663,"Puebla",2006,22,"All Ages",3,"Both",243.43719
+962,"sugar_g_unadj",4664,"Querétaro",2006,22,"All Ages",3,"Both",267.14276
+962,"sugar_g_unadj",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",262.99533
+962,"sugar_g_unadj",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",258.99011
+962,"sugar_g_unadj",4667,"Sinaloa",2006,22,"All Ages",3,"Both",266.48273
+962,"sugar_g_unadj",4668,"Sonora",2006,22,"All Ages",3,"Both",275.72397
+962,"sugar_g_unadj",4669,"Tabasco",2006,22,"All Ages",3,"Both",240.51425
+962,"sugar_g_unadj",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",270.97287
+962,"sugar_g_unadj",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",240.68542
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",241.89775
+962,"sugar_g_unadj",4673,"Yucatán",2006,22,"All Ages",3,"Both",253.63622
+962,"sugar_g_unadj",4674,"Zacatecas",2006,22,"All Ages",3,"Both",253.45969
+962,"sugar_g_unadj",130,"Mexico",2007,22,"All Ages",3,"Both",256.8627
+962,"sugar_g_unadj",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",274.39746
+962,"sugar_g_unadj",4644,"Baja California",2007,22,"All Ages",3,"Both",270.52548
+962,"sugar_g_unadj",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",272.54083
+962,"sugar_g_unadj",4646,"Campeche",2007,22,"All Ages",3,"Both",247.41441
+962,"sugar_g_unadj",4647,"Coahuila",2007,22,"All Ages",3,"Both",275.17432
+962,"sugar_g_unadj",4648,"Colima",2007,22,"All Ages",3,"Both",265.06342
+962,"sugar_g_unadj",4649,"Chiapas",2007,22,"All Ages",3,"Both",223.75674
+962,"sugar_g_unadj",4650,"Chihuahua",2007,22,"All Ages",3,"Both",268.21182
+962,"sugar_g_unadj",4651,"Mexico City",2007,22,"All Ages",3,"Both",282.87799
+962,"sugar_g_unadj",4652,"Durango",2007,22,"All Ages",3,"Both",257.86246
+962,"sugar_g_unadj",4653,"Guanajuato",2007,22,"All Ages",3,"Both",257.3031
+962,"sugar_g_unadj",4654,"Guerrero",2007,22,"All Ages",3,"Both",228.85889
+962,"sugar_g_unadj",4655,"Hidalgo",2007,22,"All Ages",3,"Both",233.74072
+962,"sugar_g_unadj",4656,"Jalisco",2007,22,"All Ages",3,"Both",269.59778
+962,"sugar_g_unadj",4657,"México",2007,22,"All Ages",3,"Both",259.26254
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",247.71864
+962,"sugar_g_unadj",4659,"Morelos",2007,22,"All Ages",3,"Both",254.12968
+962,"sugar_g_unadj",4660,"Nayarit",2007,22,"All Ages",3,"Both",256.8157
+962,"sugar_g_unadj",4661,"Nuevo León",2007,22,"All Ages",3,"Both",286.42493
+962,"sugar_g_unadj",4662,"Oaxaca",2007,22,"All Ages",3,"Both",221.9111
+962,"sugar_g_unadj",4663,"Puebla",2007,22,"All Ages",3,"Both",241.51781
+962,"sugar_g_unadj",4664,"Querétaro",2007,22,"All Ages",3,"Both",265.33908
+962,"sugar_g_unadj",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",261.33447
+962,"sugar_g_unadj",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",258.43567
+962,"sugar_g_unadj",4667,"Sinaloa",2007,22,"All Ages",3,"Both",263.50061
+962,"sugar_g_unadj",4668,"Sonora",2007,22,"All Ages",3,"Both",273.69495
+962,"sugar_g_unadj",4669,"Tabasco",2007,22,"All Ages",3,"Both",238.32254
+962,"sugar_g_unadj",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",268.32199
+962,"sugar_g_unadj",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",239.13483
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",240.06015
+962,"sugar_g_unadj",4673,"Yucatán",2007,22,"All Ages",3,"Both",250.93723
+962,"sugar_g_unadj",4674,"Zacatecas",2007,22,"All Ages",3,"Both",252.11894
+962,"sugar_g_unadj",130,"Mexico",2008,22,"All Ages",3,"Both",254.41528
+962,"sugar_g_unadj",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",271.41077
+962,"sugar_g_unadj",4644,"Baja California",2008,22,"All Ages",3,"Both",267.91803
+962,"sugar_g_unadj",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",268.8028
+962,"sugar_g_unadj",4646,"Campeche",2008,22,"All Ages",3,"Both",245.21846
+962,"sugar_g_unadj",4647,"Coahuila",2008,22,"All Ages",3,"Both",272.90152
+962,"sugar_g_unadj",4648,"Colima",2008,22,"All Ages",3,"Both",262.65033
+962,"sugar_g_unadj",4649,"Chiapas",2008,22,"All Ages",3,"Both",222.85159
+962,"sugar_g_unadj",4650,"Chihuahua",2008,22,"All Ages",3,"Both",266.37497
+962,"sugar_g_unadj",4651,"Mexico City",2008,22,"All Ages",3,"Both",280.21085
+962,"sugar_g_unadj",4652,"Durango",2008,22,"All Ages",3,"Both",254.92186
+962,"sugar_g_unadj",4653,"Guanajuato",2008,22,"All Ages",3,"Both",255.14189
+962,"sugar_g_unadj",4654,"Guerrero",2008,22,"All Ages",3,"Both",227.06331
+962,"sugar_g_unadj",4655,"Hidalgo",2008,22,"All Ages",3,"Both",231.40765
+962,"sugar_g_unadj",4656,"Jalisco",2008,22,"All Ages",3,"Both",266.66513
+962,"sugar_g_unadj",4657,"México",2008,22,"All Ages",3,"Both",256.36554
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",245.43675
+962,"sugar_g_unadj",4659,"Morelos",2008,22,"All Ages",3,"Both",251.46167
+962,"sugar_g_unadj",4660,"Nayarit",2008,22,"All Ages",3,"Both",254.68967
+962,"sugar_g_unadj",4661,"Nuevo León",2008,22,"All Ages",3,"Both",283.17258
+962,"sugar_g_unadj",4662,"Oaxaca",2008,22,"All Ages",3,"Both",219.54193
+962,"sugar_g_unadj",4663,"Puebla",2008,22,"All Ages",3,"Both",239.19159
+962,"sugar_g_unadj",4664,"Querétaro",2008,22,"All Ages",3,"Both",263.0881
+962,"sugar_g_unadj",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",259.2648
+962,"sugar_g_unadj",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",257.4198
+962,"sugar_g_unadj",4667,"Sinaloa",2008,22,"All Ages",3,"Both",260.09875
+962,"sugar_g_unadj",4668,"Sonora",2008,22,"All Ages",3,"Both",271.20221
+962,"sugar_g_unadj",4669,"Tabasco",2008,22,"All Ages",3,"Both",235.7338
+962,"sugar_g_unadj",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",265.23813
+962,"sugar_g_unadj",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",237.16815
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",237.80899
+962,"sugar_g_unadj",4673,"Yucatán",2008,22,"All Ages",3,"Both",247.82185
+962,"sugar_g_unadj",4674,"Zacatecas",2008,22,"All Ages",3,"Both",250.33354
+962,"sugar_g_unadj",130,"Mexico",2009,22,"All Ages",3,"Both",250.98889
+962,"sugar_g_unadj",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",267.39017
+962,"sugar_g_unadj",4644,"Baja California",2009,22,"All Ages",3,"Both",264.25916
+962,"sugar_g_unadj",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",264.13058
+962,"sugar_g_unadj",4646,"Campeche",2009,22,"All Ages",3,"Both",242.07104
+962,"sugar_g_unadj",4647,"Coahuila",2009,22,"All Ages",3,"Both",269.56268
+962,"sugar_g_unadj",4648,"Colima",2009,22,"All Ages",3,"Both",259.21283
+962,"sugar_g_unadj",4649,"Chiapas",2009,22,"All Ages",3,"Both",221.00896
+962,"sugar_g_unadj",4650,"Chihuahua",2009,22,"All Ages",3,"Both",263.46869
+962,"sugar_g_unadj",4651,"Mexico City",2009,22,"All Ages",3,"Both",276.48013
+962,"sugar_g_unadj",4652,"Durango",2009,22,"All Ages",3,"Both",251.0379
+962,"sugar_g_unadj",4653,"Guanajuato",2009,22,"All Ages",3,"Both",251.97754
+962,"sugar_g_unadj",4654,"Guerrero",2009,22,"All Ages",3,"Both",224.36555
+962,"sugar_g_unadj",4655,"Hidalgo",2009,22,"All Ages",3,"Both",228.19133
+962,"sugar_g_unadj",4656,"Jalisco",2009,22,"All Ages",3,"Both",262.72525
+962,"sugar_g_unadj",4657,"México",2009,22,"All Ages",3,"Both",252.49722
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",242.19896
+962,"sugar_g_unadj",4659,"Morelos",2009,22,"All Ages",3,"Both",247.83698
+962,"sugar_g_unadj",4660,"Nayarit",2009,22,"All Ages",3,"Both",251.57173
+962,"sugar_g_unadj",4661,"Nuevo León",2009,22,"All Ages",3,"Both",278.88016
+962,"sugar_g_unadj",4662,"Oaxaca",2009,22,"All Ages",3,"Both",216.34496
+962,"sugar_g_unadj",4663,"Puebla",2009,22,"All Ages",3,"Both",235.94151
+962,"sugar_g_unadj",4664,"Querétaro",2009,22,"All Ages",3,"Both",259.79892
+962,"sugar_g_unadj",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",256.16943
+962,"sugar_g_unadj",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",255.30421
+962,"sugar_g_unadj",4667,"Sinaloa",2009,22,"All Ages",3,"Both",255.78157
+962,"sugar_g_unadj",4668,"Sonora",2009,22,"All Ages",3,"Both",267.67062
+962,"sugar_g_unadj",4669,"Tabasco",2009,22,"All Ages",3,"Both",232.25293
+962,"sugar_g_unadj",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",261.19153
+962,"sugar_g_unadj",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",234.26802
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",234.63249
+962,"sugar_g_unadj",4673,"Yucatán",2009,22,"All Ages",3,"Both",243.81694
+962,"sugar_g_unadj",4674,"Zacatecas",2009,22,"All Ages",3,"Both",247.55717
+962,"sugar_g_unadj",130,"Mexico",2010,22,"All Ages",3,"Both",247.72339
+962,"sugar_g_unadj",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",263.52722
+962,"sugar_g_unadj",4644,"Baja California",2010,22,"All Ages",3,"Both",260.74939
+962,"sugar_g_unadj",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",259.64972
+962,"sugar_g_unadj",4646,"Campeche",2010,22,"All Ages",3,"Both",239.08383
+962,"sugar_g_unadj",4647,"Coahuila",2010,22,"All Ages",3,"Both",266.40671
+962,"sugar_g_unadj",4648,"Colima",2010,22,"All Ages",3,"Both",255.93777
+962,"sugar_g_unadj",4649,"Chiapas",2010,22,"All Ages",3,"Both",219.3183
+962,"sugar_g_unadj",4650,"Chihuahua",2010,22,"All Ages",3,"Both",260.73959
+962,"sugar_g_unadj",4651,"Mexico City",2010,22,"All Ages",3,"Both",272.94464
+962,"sugar_g_unadj",4652,"Durango",2010,22,"All Ages",3,"Both",247.31973
+962,"sugar_g_unadj",4653,"Guanajuato",2010,22,"All Ages",3,"Both",248.97514
+962,"sugar_g_unadj",4654,"Guerrero",2010,22,"All Ages",3,"Both",221.81212
+962,"sugar_g_unadj",4655,"Hidalgo",2010,22,"All Ages",3,"Both",225.12186
+962,"sugar_g_unadj",4656,"Jalisco",2010,22,"All Ages",3,"Both",258.94803
+962,"sugar_g_unadj",4657,"México",2010,22,"All Ages",3,"Both",248.77708
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",239.11163
+962,"sugar_g_unadj",4659,"Morelos",2010,22,"All Ages",3,"Both",244.36644
+962,"sugar_g_unadj",4660,"Nayarit",2010,22,"All Ages",3,"Both",248.62701
+962,"sugar_g_unadj",4661,"Nuevo León",2010,22,"All Ages",3,"Both",274.78027
+962,"sugar_g_unadj",4662,"Oaxaca",2010,22,"All Ages",3,"Both",213.28645
+962,"sugar_g_unadj",4663,"Puebla",2010,22,"All Ages",3,"Both",232.83847
+962,"sugar_g_unadj",4664,"Querétaro",2010,22,"All Ages",3,"Both",256.67166
+962,"sugar_g_unadj",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",253.24203
+962,"sugar_g_unadj",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",253.35005
+962,"sugar_g_unadj",4667,"Sinaloa",2010,22,"All Ages",3,"Both",251.65202
+962,"sugar_g_unadj",4668,"Sonora",2010,22,"All Ages",3,"Both",264.32455
+962,"sugar_g_unadj",4669,"Tabasco",2010,22,"All Ages",3,"Both",228.91486
+962,"sugar_g_unadj",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",257.33371
+962,"sugar_g_unadj",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",231.52075
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",231.59981
+962,"sugar_g_unadj",4673,"Yucatán",2010,22,"All Ages",3,"Both",239.98207
+962,"sugar_g_unadj",4674,"Zacatecas",2010,22,"All Ages",3,"Both",244.95685
+962,"sugar_g_unadj",130,"Mexico",2011,22,"All Ages",3,"Both",245.24976
+962,"sugar_g_unadj",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",260.49808
+962,"sugar_g_unadj",4644,"Baja California",2011,22,"All Ages",3,"Both",258.05414
+962,"sugar_g_unadj",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",256.03159
+962,"sugar_g_unadj",4646,"Campeche",2011,22,"All Ages",3,"Both",236.86305
+962,"sugar_g_unadj",4647,"Coahuila",2011,22,"All Ages",3,"Both",264.10718
+962,"sugar_g_unadj",4648,"Colima",2011,22,"All Ages",3,"Both",253.47726
+962,"sugar_g_unadj",4649,"Chiapas",2011,22,"All Ages",3,"Both",218.32341
+962,"sugar_g_unadj",4650,"Chihuahua",2011,22,"All Ages",3,"Both",258.84277
+962,"sugar_g_unadj",4651,"Mexico City",2011,22,"All Ages",3,"Both",270.30035
+962,"sugar_g_unadj",4652,"Durango",2011,22,"All Ages",3,"Both",244.40213
+962,"sugar_g_unadj",4653,"Guanajuato",2011,22,"All Ages",3,"Both",246.76476
+962,"sugar_g_unadj",4654,"Guerrero",2011,22,"All Ages",3,"Both",219.96298
+962,"sugar_g_unadj",4655,"Hidalgo",2011,22,"All Ages",3,"Both",222.774
+962,"sugar_g_unadj",4656,"Jalisco",2011,22,"All Ages",3,"Both",255.99815
+962,"sugar_g_unadj",4657,"México",2011,22,"All Ages",3,"Both",245.84518
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",236.78328
+962,"sugar_g_unadj",4659,"Morelos",2011,22,"All Ages",3,"Both",241.67632
+962,"sugar_g_unadj",4660,"Nayarit",2011,22,"All Ages",3,"Both",246.48453
+962,"sugar_g_unadj",4661,"Nuevo León",2011,22,"All Ages",3,"Both",271.57767
+962,"sugar_g_unadj",4662,"Oaxaca",2011,22,"All Ages",3,"Both",210.91249
+962,"sugar_g_unadj",4663,"Puebla",2011,22,"All Ages",3,"Both",230.47627
+962,"sugar_g_unadj",4664,"Querétaro",2011,22,"All Ages",3,"Both",254.35698
+962,"sugar_g_unadj",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",251.11986
+962,"sugar_g_unadj",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",252.18617
+962,"sugar_g_unadj",4667,"Sinaloa",2011,22,"All Ages",3,"Both",248.35909
+962,"sugar_g_unadj",4668,"Sonora",2011,22,"All Ages",3,"Both",261.83453
+962,"sugar_g_unadj",4669,"Tabasco",2011,22,"All Ages",3,"Both",226.30748
+962,"sugar_g_unadj",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",254.32376
+962,"sugar_g_unadj",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",229.51266
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",229.30174
+962,"sugar_g_unadj",4673,"Yucatán",2011,22,"All Ages",3,"Both",236.93663
+962,"sugar_g_unadj",4674,"Zacatecas",2011,22,"All Ages",3,"Both",243.14789
+962,"sugar_g_unadj",130,"Mexico",2012,22,"All Ages",3,"Both",243.72681
+962,"sugar_g_unadj",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",258.47144
+962,"sugar_g_unadj",4644,"Baja California",2012,22,"All Ages",3,"Both",256.34106
+962,"sugar_g_unadj",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",253.43671
+962,"sugar_g_unadj",4646,"Campeche",2012,22,"All Ages",3,"Both",235.56024
+962,"sugar_g_unadj",4647,"Coahuila",2012,22,"All Ages",3,"Both",262.83316
+962,"sugar_g_unadj",4648,"Colima",2012,22,"All Ages",3,"Both",251.99596
+962,"sugar_g_unadj",4649,"Chiapas",2012,22,"All Ages",3,"Both",218.16425
+962,"sugar_g_unadj",4650,"Chihuahua",2012,22,"All Ages",3,"Both",257.94431
+962,"sugar_g_unadj",4651,"Mexico City",2012,22,"All Ages",3,"Both",268.72174
+962,"sugar_g_unadj",4652,"Durango",2012,22,"All Ages",3,"Both",242.44157
+962,"sugar_g_unadj",4653,"Guanajuato",2012,22,"All Ages",3,"Both",245.50497
+962,"sugar_g_unadj",4654,"Guerrero",2012,22,"All Ages",3,"Both",218.95941
+962,"sugar_g_unadj",4655,"Hidalgo",2012,22,"All Ages",3,"Both",221.29164
+962,"sugar_g_unadj",4656,"Jalisco",2012,22,"All Ages",3,"Both",254.0419
+962,"sugar_g_unadj",4657,"México",2012,22,"All Ages",3,"Both",243.86237
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",235.36742
+962,"sugar_g_unadj",4659,"Morelos",2012,22,"All Ages",3,"Both",239.92325
+962,"sugar_g_unadj",4660,"Nayarit",2012,22,"All Ages",3,"Both",245.30232
+962,"sugar_g_unadj",4661,"Nuevo León",2012,22,"All Ages",3,"Both",269.4455
+962,"sugar_g_unadj",4662,"Oaxaca",2012,22,"All Ages",3,"Both",209.35909
+962,"sugar_g_unadj",4663,"Puebla",2012,22,"All Ages",3,"Both",229.00433
+962,"sugar_g_unadj",4664,"Querétaro",2012,22,"All Ages",3,"Both",253.01923
+962,"sugar_g_unadj",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",249.96144
+962,"sugar_g_unadj",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",251.97585
+962,"sugar_g_unadj",4667,"Sinaloa",2012,22,"All Ages",3,"Both",246.05948
+962,"sugar_g_unadj",4668,"Sonora",2012,22,"All Ages",3,"Both",260.36749
+962,"sugar_g_unadj",4669,"Tabasco",2012,22,"All Ages",3,"Both",224.57806
+962,"sugar_g_unadj",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",252.32236
+962,"sugar_g_unadj",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",228.39172
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",227.88791
+962,"sugar_g_unadj",4673,"Yucatán",2012,22,"All Ages",3,"Both",234.83269
+962,"sugar_g_unadj",4674,"Zacatecas",2012,22,"All Ages",3,"Both",242.28519
+962,"sugar_g_unadj",130,"Mexico",2013,22,"All Ages",3,"Both",242.68445
+962,"sugar_g_unadj",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",256.95093
+962,"sugar_g_unadj",4644,"Baja California",2013,22,"All Ages",3,"Both",255.1181
+962,"sugar_g_unadj",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",251.37366
+962,"sugar_g_unadj",4646,"Campeche",2013,22,"All Ages",3,"Both",234.7195
+962,"sugar_g_unadj",4647,"Coahuila",2013,22,"All Ages",3,"Both",262.07535
+962,"sugar_g_unadj",4648,"Colima",2013,22,"All Ages",3,"Both",251.00827
+962,"sugar_g_unadj",4649,"Chiapas",2013,22,"All Ages",3,"Both",218.41666
+962,"sugar_g_unadj",4650,"Chihuahua",2013,22,"All Ages",3,"Both",257.54404
+962,"sugar_g_unadj",4651,"Mexico City",2013,22,"All Ages",3,"Both",267.68845
+962,"sugar_g_unadj",4652,"Durango",2013,22,"All Ages",3,"Both",240.97005
+962,"sugar_g_unadj",4653,"Guanajuato",2013,22,"All Ages",3,"Both",244.7213
+962,"sugar_g_unadj",4654,"Guerrero",2013,22,"All Ages",3,"Both",218.3779
+962,"sugar_g_unadj",4655,"Hidalgo",2013,22,"All Ages",3,"Both",220.24803
+962,"sugar_g_unadj",4656,"Jalisco",2013,22,"All Ages",3,"Both",252.59081
+962,"sugar_g_unadj",4657,"México",2013,22,"All Ages",3,"Both",242.36127
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",234.41055
+962,"sugar_g_unadj",4659,"Morelos",2013,22,"All Ages",3,"Both",238.64549
+962,"sugar_g_unadj",4660,"Nayarit",2013,22,"All Ages",3,"Both",244.60492
+962,"sugar_g_unadj",4661,"Nuevo León",2013,22,"All Ages",3,"Both",267.86243
+962,"sugar_g_unadj",4662,"Oaxaca",2013,22,"All Ages",3,"Both",208.22279
+962,"sugar_g_unadj",4663,"Puebla",2013,22,"All Ages",3,"Both",227.98169
+962,"sugar_g_unadj",4664,"Querétaro",2013,22,"All Ages",3,"Both",252.1705
+962,"sugar_g_unadj",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",249.28194
+962,"sugar_g_unadj",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",252.23141
+962,"sugar_g_unadj",4667,"Sinaloa",2013,22,"All Ages",3,"Both",244.27617
+962,"sugar_g_unadj",4668,"Sonora",2013,22,"All Ages",3,"Both",259.4184
+962,"sugar_g_unadj",4669,"Tabasco",2013,22,"All Ages",3,"Both",223.29504
+962,"sugar_g_unadj",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",250.83994
+962,"sugar_g_unadj",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",227.71648
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",226.92003
+962,"sugar_g_unadj",4673,"Yucatán",2013,22,"All Ages",3,"Both",233.21681
+962,"sugar_g_unadj",4674,"Zacatecas",2013,22,"All Ages",3,"Both",241.89754
+962,"sugar_g_unadj",130,"Mexico",2014,22,"All Ages",3,"Both",242.62587
+962,"sugar_g_unadj",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",256.4614
+962,"sugar_g_unadj",4644,"Baja California",2014,22,"All Ages",3,"Both",254.91321
+962,"sugar_g_unadj",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",250.33931
+962,"sugar_g_unadj",4646,"Campeche",2014,22,"All Ages",3,"Both",234.83015
+962,"sugar_g_unadj",4647,"Coahuila",2014,22,"All Ages",3,"Both",262.38367
+962,"sugar_g_unadj",4648,"Colima",2014,22,"All Ages",3,"Both",251.03687
+962,"sugar_g_unadj",4649,"Chiapas",2014,22,"All Ages",3,"Both",219.55896
+962,"sugar_g_unadj",4650,"Chihuahua",2014,22,"All Ages",3,"Both",258.19028
+962,"sugar_g_unadj",4651,"Mexico City",2014,22,"All Ages",3,"Both",267.75592
+962,"sugar_g_unadj",4652,"Durango",2014,22,"All Ages",3,"Both",240.47682
+962,"sugar_g_unadj",4653,"Guanajuato",2014,22,"All Ages",3,"Both",244.92657
+962,"sugar_g_unadj",4654,"Guerrero",2014,22,"All Ages",3,"Both",218.67853
+962,"sugar_g_unadj",4655,"Hidalgo",2014,22,"All Ages",3,"Both",220.09749
+962,"sugar_g_unadj",4656,"Jalisco",2014,22,"All Ages",3,"Both",252.16109
+962,"sugar_g_unadj",4657,"México",2014,22,"All Ages",3,"Both",241.83588
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",234.40018
+962,"sugar_g_unadj",4659,"Morelos",2014,22,"All Ages",3,"Both",238.33264
+962,"sugar_g_unadj",4660,"Nayarit",2014,22,"All Ages",3,"Both",244.90567
+962,"sugar_g_unadj",4661,"Nuevo León",2014,22,"All Ages",3,"Both",267.37241
+962,"sugar_g_unadj",4662,"Oaxaca",2014,22,"All Ages",3,"Both",207.92996
+962,"sugar_g_unadj",4663,"Puebla",2014,22,"All Ages",3,"Both",227.88049
+962,"sugar_g_unadj",4664,"Querétaro",2014,22,"All Ages",3,"Both",252.33902
+962,"sugar_g_unadj",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",249.6055
+962,"sugar_g_unadj",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",253.50616
+962,"sugar_g_unadj",4667,"Sinaloa",2014,22,"All Ages",3,"Both",243.4969
+962,"sugar_g_unadj",4668,"Sonora",2014,22,"All Ages",3,"Both",259.5267
+962,"sugar_g_unadj",4669,"Tabasco",2014,22,"All Ages",3,"Both",222.91501
+962,"sugar_g_unadj",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",250.38489
+962,"sugar_g_unadj",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",227.96527
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",226.86955
+962,"sugar_g_unadj",4673,"Yucatán",2014,22,"All Ages",3,"Both",232.55777
+962,"sugar_g_unadj",4674,"Zacatecas",2014,22,"All Ages",3,"Both",242.49849
+962,"sugar_g_unadj",130,"Mexico",2015,22,"All Ages",3,"Both",242.9225
+962,"sugar_g_unadj",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",256.3364
+962,"sugar_g_unadj",4644,"Baja California",2015,22,"All Ages",3,"Both",255.06688
+962,"sugar_g_unadj",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",249.675
+962,"sugar_g_unadj",4646,"Campeche",2015,22,"All Ages",3,"Both",235.28487
+962,"sugar_g_unadj",4647,"Coahuila",2015,22,"All Ages",3,"Both",263.08054
+962,"sugar_g_unadj",4648,"Colima",2015,22,"All Ages",3,"Both",251.43256
+962,"sugar_g_unadj",4649,"Chiapas",2015,22,"All Ages",3,"Both",221.03246
+962,"sugar_g_unadj",4650,"Chihuahua",2015,22,"All Ages",3,"Both",259.21945
+962,"sugar_g_unadj",4651,"Mexico City",2015,22,"All Ages",3,"Both",268.22955
+962,"sugar_g_unadj",4652,"Durango",2015,22,"All Ages",3,"Both",240.33485
+962,"sugar_g_unadj",4653,"Guanajuato",2015,22,"All Ages",3,"Both",245.4886
+962,"sugar_g_unadj",4654,"Guerrero",2015,22,"All Ages",3,"Both",219.29784
+962,"sugar_g_unadj",4655,"Hidalgo",2015,22,"All Ages",3,"Both",220.26892
+962,"sugar_g_unadj",4656,"Jalisco",2015,22,"All Ages",3,"Both",252.09697
+962,"sugar_g_unadj",4657,"México",2015,22,"All Ages",3,"Both",241.65724
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",234.72998
+962,"sugar_g_unadj",4659,"Morelos",2015,22,"All Ages",3,"Both",238.36562
+962,"sugar_g_unadj",4660,"Nayarit",2015,22,"All Ages",3,"Both",245.57198
+962,"sugar_g_unadj",4661,"Nuevo León",2015,22,"All Ages",3,"Both",267.27762
+962,"sugar_g_unadj",4662,"Oaxaca",2015,22,"All Ages",3,"Both",207.94003
+962,"sugar_g_unadj",4663,"Puebla",2015,22,"All Ages",3,"Both",228.1105
+962,"sugar_g_unadj",4664,"Querétaro",2015,22,"All Ages",3,"Both",252.87364
+962,"sugar_g_unadj",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",250.28867
+962,"sugar_g_unadj",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",255.15613
+962,"sugar_g_unadj",4667,"Sinaloa",2015,22,"All Ages",3,"Both",243.08263
+962,"sugar_g_unadj",4668,"Sonora",2015,22,"All Ages",3,"Both",260.02002
+962,"sugar_g_unadj",4669,"Tabasco",2015,22,"All Ages",3,"Both",222.85852
+962,"sugar_g_unadj",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",250.30293
+962,"sugar_g_unadj",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",228.54994
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",227.14948
+962,"sugar_g_unadj",4673,"Yucatán",2015,22,"All Ages",3,"Both",232.24673
+962,"sugar_g_unadj",4674,"Zacatecas",2015,22,"All Ages",3,"Both",243.46373
+962,"sugar_g_unadj",130,"Mexico",2016,22,"All Ages",3,"Both",243.58418
+962,"sugar_g_unadj",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",256.66794
+962,"sugar_g_unadj",4644,"Baja California",2016,22,"All Ages",3,"Both",255.62302
+962,"sugar_g_unadj",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",249.55656
+962,"sugar_g_unadj",4646,"Campeche",2016,22,"All Ages",3,"Both",236.05972
+962,"sugar_g_unadj",4647,"Coahuila",2016,22,"All Ages",3,"Both",264.10181
+962,"sugar_g_unadj",4648,"Colima",2016,22,"All Ages",3,"Both",252.18706
+962,"sugar_g_unadj",4649,"Chiapas",2016,22,"All Ages",3,"Both",222.60619
+962,"sugar_g_unadj",4650,"Chihuahua",2016,22,"All Ages",3,"Both",260.50272
+962,"sugar_g_unadj",4651,"Mexico City",2016,22,"All Ages",3,"Both",269.08334
+962,"sugar_g_unadj",4652,"Durango",2016,22,"All Ages",3,"Both",240.62993
+962,"sugar_g_unadj",4653,"Guanajuato",2016,22,"All Ages",3,"Both",246.3672
+962,"sugar_g_unadj",4654,"Guerrero",2016,22,"All Ages",3,"Both",220.1778
+962,"sugar_g_unadj",4655,"Hidalgo",2016,22,"All Ages",3,"Both",220.78694
+962,"sugar_g_unadj",4656,"Jalisco",2016,22,"All Ages",3,"Both",252.47495
+962,"sugar_g_unadj",4657,"México",2016,22,"All Ages",3,"Both",241.92142
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",235.40074
+962,"sugar_g_unadj",4659,"Morelos",2016,22,"All Ages",3,"Both",238.79991
+962,"sugar_g_unadj",4660,"Nayarit",2016,22,"All Ages",3,"Both",246.53952
+962,"sugar_g_unadj",4661,"Nuevo León",2016,22,"All Ages",3,"Both",267.65991
+962,"sugar_g_unadj",4662,"Oaxaca",2016,22,"All Ages",3,"Both",208.30414
+962,"sugar_g_unadj",4663,"Puebla",2016,22,"All Ages",3,"Both",228.6888
+962,"sugar_g_unadj",4664,"Querétaro",2016,22,"All Ages",3,"Both",253.74217
+962,"sugar_g_unadj",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",251.27182
+962,"sugar_g_unadj",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",256.92899
+962,"sugar_g_unadj",4667,"Sinaloa",2016,22,"All Ages",3,"Both",243.16249
+962,"sugar_g_unadj",4668,"Sonora",2016,22,"All Ages",3,"Both",260.87109
+962,"sugar_g_unadj",4669,"Tabasco",2016,22,"All Ages",3,"Both",223.1931
+962,"sugar_g_unadj",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",250.66797
+962,"sugar_g_unadj",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",229.41972
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",227.76723
+962,"sugar_g_unadj",4673,"Yucatán",2016,22,"All Ages",3,"Both",232.39294
+962,"sugar_g_unadj",4674,"Zacatecas",2016,22,"All Ages",3,"Both",244.67001
+962,"sugar_g_unadj",130,"Mexico",2017,22,"All Ages",3,"Both",243.58418
+962,"sugar_g_unadj",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",256.66794
+962,"sugar_g_unadj",4644,"Baja California",2017,22,"All Ages",3,"Both",255.62302
+962,"sugar_g_unadj",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",249.55656
+962,"sugar_g_unadj",4646,"Campeche",2017,22,"All Ages",3,"Both",236.05972
+962,"sugar_g_unadj",4647,"Coahuila",2017,22,"All Ages",3,"Both",264.10181
+962,"sugar_g_unadj",4648,"Colima",2017,22,"All Ages",3,"Both",252.18706
+962,"sugar_g_unadj",4649,"Chiapas",2017,22,"All Ages",3,"Both",222.60619
+962,"sugar_g_unadj",4650,"Chihuahua",2017,22,"All Ages",3,"Both",260.50272
+962,"sugar_g_unadj",4651,"Mexico City",2017,22,"All Ages",3,"Both",269.08334
+962,"sugar_g_unadj",4652,"Durango",2017,22,"All Ages",3,"Both",240.62993
+962,"sugar_g_unadj",4653,"Guanajuato",2017,22,"All Ages",3,"Both",246.3672
+962,"sugar_g_unadj",4654,"Guerrero",2017,22,"All Ages",3,"Both",220.1778
+962,"sugar_g_unadj",4655,"Hidalgo",2017,22,"All Ages",3,"Both",220.78694
+962,"sugar_g_unadj",4656,"Jalisco",2017,22,"All Ages",3,"Both",252.47495
+962,"sugar_g_unadj",4657,"México",2017,22,"All Ages",3,"Both",241.92142
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",235.40074
+962,"sugar_g_unadj",4659,"Morelos",2017,22,"All Ages",3,"Both",238.79991
+962,"sugar_g_unadj",4660,"Nayarit",2017,22,"All Ages",3,"Both",246.53952
+962,"sugar_g_unadj",4661,"Nuevo León",2017,22,"All Ages",3,"Both",267.65991
+962,"sugar_g_unadj",4662,"Oaxaca",2017,22,"All Ages",3,"Both",208.30414
+962,"sugar_g_unadj",4663,"Puebla",2017,22,"All Ages",3,"Both",228.6888
+962,"sugar_g_unadj",4664,"Querétaro",2017,22,"All Ages",3,"Both",253.74217
+962,"sugar_g_unadj",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",251.27182
+962,"sugar_g_unadj",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",256.92899
+962,"sugar_g_unadj",4667,"Sinaloa",2017,22,"All Ages",3,"Both",243.16249
+962,"sugar_g_unadj",4668,"Sonora",2017,22,"All Ages",3,"Both",260.87109
+962,"sugar_g_unadj",4669,"Tabasco",2017,22,"All Ages",3,"Both",223.1931
+962,"sugar_g_unadj",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",250.66797
+962,"sugar_g_unadj",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",229.41972
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",227.76723
+962,"sugar_g_unadj",4673,"Yucatán",2017,22,"All Ages",3,"Both",232.39294
+962,"sugar_g_unadj",4674,"Zacatecas",2017,22,"All Ages",3,"Both",244.67001
+962,"sugar_g_unadj",130,"Mexico",2018,22,"All Ages",3,"Both",244.236818993192
+962,"sugar_g_unadj",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",257.314816089197
+962,"sugar_g_unadj",4644,"Baja California",2018,22,"All Ages",3,"Both",256.089742902168
+962,"sugar_g_unadj",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",250.085588923587
+962,"sugar_g_unadj",4646,"Campeche",2018,22,"All Ages",3,"Both",236.798319208273
+962,"sugar_g_unadj",4647,"Coahuila",2018,22,"All Ages",3,"Both",264.76283330107
+962,"sugar_g_unadj",4648,"Colima",2018,22,"All Ages",3,"Both",252.837238214469
+962,"sugar_g_unadj",4649,"Chiapas",2018,22,"All Ages",3,"Both",223.366713695154
+962,"sugar_g_unadj",4650,"Chihuahua",2018,22,"All Ages",3,"Both",261.157988733912
+962,"sugar_g_unadj",4651,"Mexico City",2018,22,"All Ages",3,"Both",269.648236978163
+962,"sugar_g_unadj",4652,"Durango",2018,22,"All Ages",3,"Both",241.371881862094
+962,"sugar_g_unadj",4653,"Guanajuato",2018,22,"All Ages",3,"Both",247.095994792071
+962,"sugar_g_unadj",4654,"Guerrero",2018,22,"All Ages",3,"Both",220.867234614087
+962,"sugar_g_unadj",4655,"Hidalgo",2018,22,"All Ages",3,"Both",221.388280419723
+962,"sugar_g_unadj",4656,"Jalisco",2018,22,"All Ages",3,"Both",253.158411115665
+962,"sugar_g_unadj",4657,"México",2018,22,"All Ages",3,"Both",242.570091699444
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",236.143768530186
+962,"sugar_g_unadj",4659,"Morelos",2018,22,"All Ages",3,"Both",239.40060085531
+962,"sugar_g_unadj",4660,"Nayarit",2018,22,"All Ages",3,"Both",247.322450049991
+962,"sugar_g_unadj",4661,"Nuevo León",2018,22,"All Ages",3,"Both",268.161210062129
+962,"sugar_g_unadj",4662,"Oaxaca",2018,22,"All Ages",3,"Both",209.005746050761
+962,"sugar_g_unadj",4663,"Puebla",2018,22,"All Ages",3,"Both",229.313582181507
+962,"sugar_g_unadj",4664,"Querétaro",2018,22,"All Ages",3,"Both",254.252762296979
+962,"sugar_g_unadj",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",251.740250331686
+962,"sugar_g_unadj",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",257.698080008218
+962,"sugar_g_unadj",4667,"Sinaloa",2018,22,"All Ages",3,"Both",243.80762444605
+962,"sugar_g_unadj",4668,"Sonora",2018,22,"All Ages",3,"Both",261.468147511927
+962,"sugar_g_unadj",4669,"Tabasco",2018,22,"All Ages",3,"Both",223.886406851077
+962,"sugar_g_unadj",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",251.251479789721
+962,"sugar_g_unadj",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",229.9105165323
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",228.49143369331
+962,"sugar_g_unadj",4673,"Yucatán",2018,22,"All Ages",3,"Both",233.071056984339
+962,"sugar_g_unadj",4674,"Zacatecas",2018,22,"All Ages",3,"Both",245.560811869324
+962,"sugar_g_unadj",130,"Mexico",2019,22,"All Ages",3,"Both",244.843792824172
+962,"sugar_g_unadj",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",257.931547970631
+962,"sugar_g_unadj",4644,"Baja California",2019,22,"All Ages",3,"Both",256.541428426117
+962,"sugar_g_unadj",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",250.595703829743
+962,"sugar_g_unadj",4646,"Campeche",2019,22,"All Ages",3,"Both",237.474816287242
+962,"sugar_g_unadj",4647,"Coahuila",2019,22,"All Ages",3,"Both",265.392841675949
+962,"sugar_g_unadj",4648,"Colima",2019,22,"All Ages",3,"Both",253.441366039503
+962,"sugar_g_unadj",4649,"Chiapas",2019,22,"All Ages",3,"Both",224.036046044101
+962,"sugar_g_unadj",4650,"Chihuahua",2019,22,"All Ages",3,"Both",261.755643541194
+962,"sugar_g_unadj",4651,"Mexico City",2019,22,"All Ages",3,"Both",270.207435808815
+962,"sugar_g_unadj",4652,"Durango",2019,22,"All Ages",3,"Both",242.043070960497
+962,"sugar_g_unadj",4653,"Guanajuato",2019,22,"All Ages",3,"Both",247.778860543821
+962,"sugar_g_unadj",4654,"Guerrero",2019,22,"All Ages",3,"Both",221.482461761964
+962,"sugar_g_unadj",4655,"Hidalgo",2019,22,"All Ages",3,"Both",221.948481867042
+962,"sugar_g_unadj",4656,"Jalisco",2019,22,"All Ages",3,"Both",253.795216648752
+962,"sugar_g_unadj",4657,"México",2019,22,"All Ages",3,"Both",243.164436672418
+962,"sugar_g_unadj",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",236.824822893339
+962,"sugar_g_unadj",4659,"Morelos",2019,22,"All Ages",3,"Both",239.974913917147
+962,"sugar_g_unadj",4660,"Nayarit",2019,22,"All Ages",3,"Both",248.043607739539
+962,"sugar_g_unadj",4661,"Nuevo León",2019,22,"All Ages",3,"Both",268.65842953079
+962,"sugar_g_unadj",4662,"Oaxaca",2019,22,"All Ages",3,"Both",209.642844500642
+962,"sugar_g_unadj",4663,"Puebla",2019,22,"All Ages",3,"Both",229.900329978467
+962,"sugar_g_unadj",4664,"Querétaro",2019,22,"All Ages",3,"Both",254.768033334865
+962,"sugar_g_unadj",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",252.205689626971
+962,"sugar_g_unadj",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",258.407549830226
+962,"sugar_g_unadj",4667,"Sinaloa",2019,22,"All Ages",3,"Both",244.418915324529
+962,"sugar_g_unadj",4668,"Sonora",2019,22,"All Ages",3,"Both",262.039903626947
+962,"sugar_g_unadj",4669,"Tabasco",2019,22,"All Ages",3,"Both",224.527334221596
+962,"sugar_g_unadj",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",251.816488003921
+962,"sugar_g_unadj",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",230.407436037113
+962,"sugar_g_unadj",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",229.151776689789
+962,"sugar_g_unadj",4673,"Yucatán",2019,22,"All Ages",3,"Both",233.717808287239
+962,"sugar_g_unadj",4674,"Zacatecas",2019,22,"All Ages",3,"Both",246.360710567251

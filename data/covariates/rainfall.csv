@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+127,"rainfall_pop_weighted",130,"Mexico",1990,22,"All Ages",3,"Both",1037.53550636
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",664.959630179
+127,"rainfall_pop_weighted",4644,"Baja California",1990,22,"All Ages",3,"Both",146.26884152
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",419.231813872
+127,"rainfall_pop_weighted",4646,"Campeche",1990,22,"All Ages",3,"Both",1286.02900774
+127,"rainfall_pop_weighted",4647,"Coahuila",1990,22,"All Ages",3,"Both",377.77521504
+127,"rainfall_pop_weighted",4648,"Colima",1990,22,"All Ages",3,"Both",1017.85445747
+127,"rainfall_pop_weighted",4649,"Chiapas",1990,22,"All Ages",3,"Both",1612.63366031
+127,"rainfall_pop_weighted",4650,"Chihuahua",1990,22,"All Ages",3,"Both",429.404040482
+127,"rainfall_pop_weighted",4651,"Mexico City",1990,22,"All Ages",3,"Both",1258.47891965
+127,"rainfall_pop_weighted",4652,"Durango",1990,22,"All Ages",3,"Both",699.160362434
+127,"rainfall_pop_weighted",4653,"Guanajuato",1990,22,"All Ages",3,"Both",721.540315736
+127,"rainfall_pop_weighted",4654,"Guerrero",1990,22,"All Ages",3,"Both",1433.33972406
+127,"rainfall_pop_weighted",4655,"Hidalgo",1990,22,"All Ages",3,"Both",1226.44619487
+127,"rainfall_pop_weighted",4656,"Jalisco",1990,22,"All Ages",3,"Both",1022.6623416
+127,"rainfall_pop_weighted",4657,"México",1990,22,"All Ages",3,"Both",1170.70699776
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",1013.0037569
+127,"rainfall_pop_weighted",4659,"Morelos",1990,22,"All Ages",3,"Both",1281.58196633
+127,"rainfall_pop_weighted",4660,"Nayarit",1990,22,"All Ages",3,"Both",1222.42848233
+127,"rainfall_pop_weighted",4661,"Nuevo León",1990,22,"All Ages",3,"Both",571.092565019
+127,"rainfall_pop_weighted",4662,"Oaxaca",1990,22,"All Ages",3,"Both",1179.23165226
+127,"rainfall_pop_weighted",4663,"Puebla",1990,22,"All Ages",3,"Both",1158.71828532
+127,"rainfall_pop_weighted",4664,"Querétaro",1990,22,"All Ages",3,"Both",742.248647627
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",1196.85869618
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",797.451452339
+127,"rainfall_pop_weighted",4667,"Sinaloa",1990,22,"All Ages",3,"Both",822.639808475
+127,"rainfall_pop_weighted",4668,"Sonora",1990,22,"All Ages",3,"Both",425.740416918
+127,"rainfall_pop_weighted",4669,"Tabasco",1990,22,"All Ages",3,"Both",2302.33457335
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",626.535677581
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",997.955950516
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",1566.14851289
+127,"rainfall_pop_weighted",4673,"Yucatán",1990,22,"All Ages",3,"Both",883.487680362
+127,"rainfall_pop_weighted",4674,"Zacatecas",1990,22,"All Ages",3,"Both",608.776063441
+127,"rainfall_pop_weighted",130,"Mexico",1991,22,"All Ages",3,"Both",927.700392159
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",500.288690165
+127,"rainfall_pop_weighted",4644,"Baja California",1991,22,"All Ages",3,"Both",356.940412283
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",303.007657527
+127,"rainfall_pop_weighted",4646,"Campeche",1991,22,"All Ages",3,"Both",1212.66704012
+127,"rainfall_pop_weighted",4647,"Coahuila",1991,22,"All Ages",3,"Both",340.493216179
+127,"rainfall_pop_weighted",4648,"Colima",1991,22,"All Ages",3,"Both",765.826946637
+127,"rainfall_pop_weighted",4649,"Chiapas",1991,22,"All Ages",3,"Both",1388.0282472
+127,"rainfall_pop_weighted",4650,"Chihuahua",1991,22,"All Ages",3,"Both",438.509301182
+127,"rainfall_pop_weighted",4651,"Mexico City",1991,22,"All Ages",3,"Both",1058.96194347
+127,"rainfall_pop_weighted",4652,"Durango",1991,22,"All Ages",3,"Both",714.92068257
+127,"rainfall_pop_weighted",4653,"Guanajuato",1991,22,"All Ages",3,"Both",676.264288758
+127,"rainfall_pop_weighted",4654,"Guerrero",1991,22,"All Ages",3,"Both",1165.88256752
+127,"rainfall_pop_weighted",4655,"Hidalgo",1991,22,"All Ages",3,"Both",1174.59924936
+127,"rainfall_pop_weighted",4656,"Jalisco",1991,22,"All Ages",3,"Both",776.282762928
+127,"rainfall_pop_weighted",4657,"México",1991,22,"All Ages",3,"Both",977.431275166
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",860.184914083
+127,"rainfall_pop_weighted",4659,"Morelos",1991,22,"All Ages",3,"Both",1008.57347462
+127,"rainfall_pop_weighted",4660,"Nayarit",1991,22,"All Ages",3,"Both",1040.42240846
+127,"rainfall_pop_weighted",4661,"Nuevo León",1991,22,"All Ages",3,"Both",514.529666946
+127,"rainfall_pop_weighted",4662,"Oaxaca",1991,22,"All Ages",3,"Both",1077.71240526
+127,"rainfall_pop_weighted",4663,"Puebla",1991,22,"All Ages",3,"Both",1082.09147219
+127,"rainfall_pop_weighted",4664,"Querétaro",1991,22,"All Ages",3,"Both",738.196184312
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",1217.96970944
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",804.728230785
+127,"rainfall_pop_weighted",4667,"Sinaloa",1991,22,"All Ages",3,"Both",697.632086072
+127,"rainfall_pop_weighted",4668,"Sonora",1991,22,"All Ages",3,"Both",377.220117351
+127,"rainfall_pop_weighted",4669,"Tabasco",1991,22,"All Ages",3,"Both",1952.01221921
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",720.985442873
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",888.389815593
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",1620.61560828
+127,"rainfall_pop_weighted",4673,"Yucatán",1991,22,"All Ages",3,"Both",833.446181916
+127,"rainfall_pop_weighted",4674,"Zacatecas",1991,22,"All Ages",3,"Both",475.668091264
+127,"rainfall_pop_weighted",130,"Mexico",1992,22,"All Ages",3,"Both",980.786406233
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",528.9734949
+127,"rainfall_pop_weighted",4644,"Baja California",1992,22,"All Ages",3,"Both",474.39781972
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",330.584183871
+127,"rainfall_pop_weighted",4646,"Campeche",1992,22,"All Ages",3,"Both",1337.52400126
+127,"rainfall_pop_weighted",4647,"Coahuila",1992,22,"All Ages",3,"Both",298.021159185
+127,"rainfall_pop_weighted",4648,"Colima",1992,22,"All Ages",3,"Both",1099.08856344
+127,"rainfall_pop_weighted",4649,"Chiapas",1992,22,"All Ages",3,"Both",1479.46129612
+127,"rainfall_pop_weighted",4650,"Chihuahua",1992,22,"All Ages",3,"Both",310.81045759
+127,"rainfall_pop_weighted",4651,"Mexico City",1992,22,"All Ages",3,"Both",1099.12644725
+127,"rainfall_pop_weighted",4652,"Durango",1992,22,"All Ages",3,"Both",442.233888668
+127,"rainfall_pop_weighted",4653,"Guanajuato",1992,22,"All Ages",3,"Both",665.312514
+127,"rainfall_pop_weighted",4654,"Guerrero",1992,22,"All Ages",3,"Both",1227.94977121
+127,"rainfall_pop_weighted",4655,"Hidalgo",1992,22,"All Ages",3,"Both",1149.41620063
+127,"rainfall_pop_weighted",4656,"Jalisco",1992,22,"All Ages",3,"Both",945.369295624
+127,"rainfall_pop_weighted",4657,"México",1992,22,"All Ages",3,"Both",1004.57561514
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",1024.86937486
+127,"rainfall_pop_weighted",4659,"Morelos",1992,22,"All Ages",3,"Both",1062.45550599
+127,"rainfall_pop_weighted",4660,"Nayarit",1992,22,"All Ages",3,"Both",1338.91414333
+127,"rainfall_pop_weighted",4661,"Nuevo León",1992,22,"All Ages",3,"Both",505.542856387
+127,"rainfall_pop_weighted",4662,"Oaxaca",1992,22,"All Ages",3,"Both",1323.73269508
+127,"rainfall_pop_weighted",4663,"Puebla",1992,22,"All Ages",3,"Both",1173.23964728
+127,"rainfall_pop_weighted",4664,"Querétaro",1992,22,"All Ages",3,"Both",655.931994609
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",1271.61702982
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",766.93426974
+127,"rainfall_pop_weighted",4667,"Sinaloa",1992,22,"All Ages",3,"Both",633.396826076
+127,"rainfall_pop_weighted",4668,"Sonora",1992,22,"All Ages",3,"Both",364.953107338
+127,"rainfall_pop_weighted",4669,"Tabasco",1992,22,"All Ages",3,"Both",2105.02747383
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",761.361280619
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",963.946136274
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",1769.16202807
+127,"rainfall_pop_weighted",4673,"Yucatán",1992,22,"All Ages",3,"Both",851.80468568
+127,"rainfall_pop_weighted",4674,"Zacatecas",1992,22,"All Ages",3,"Both",408.392925384
+127,"rainfall_pop_weighted",130,"Mexico",1993,22,"All Ages",3,"Both",886.917131578
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",409.941775694
+127,"rainfall_pop_weighted",4644,"Baja California",1993,22,"All Ages",3,"Both",435.531213196
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",333.115776838
+127,"rainfall_pop_weighted",4646,"Campeche",1993,22,"All Ages",3,"Both",1179.0861427
+127,"rainfall_pop_weighted",4647,"Coahuila",1993,22,"All Ages",3,"Both",273.068465732
+127,"rainfall_pop_weighted",4648,"Colima",1993,22,"All Ages",3,"Both",1243.01991869
+127,"rainfall_pop_weighted",4649,"Chiapas",1993,22,"All Ages",3,"Both",1704.3282155
+127,"rainfall_pop_weighted",4650,"Chihuahua",1993,22,"All Ages",3,"Both",334.695866484
+127,"rainfall_pop_weighted",4651,"Mexico City",1993,22,"All Ages",3,"Both",856.778841222
+127,"rainfall_pop_weighted",4652,"Durango",1993,22,"All Ages",3,"Both",562.117157721
+127,"rainfall_pop_weighted",4653,"Guanajuato",1993,22,"All Ages",3,"Both",525.931345742
+127,"rainfall_pop_weighted",4654,"Guerrero",1993,22,"All Ages",3,"Both",1220.76330757
+127,"rainfall_pop_weighted",4655,"Hidalgo",1993,22,"All Ages",3,"Both",1090.08280573
+127,"rainfall_pop_weighted",4656,"Jalisco",1993,22,"All Ages",3,"Both",788.976571266
+127,"rainfall_pop_weighted",4657,"México",1993,22,"All Ages",3,"Both",787.578256621
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",826.026348909
+127,"rainfall_pop_weighted",4659,"Morelos",1993,22,"All Ages",3,"Both",809.255956452
+127,"rainfall_pop_weighted",4660,"Nayarit",1993,22,"All Ages",3,"Both",1135.07719453
+127,"rainfall_pop_weighted",4661,"Nuevo León",1993,22,"All Ages",3,"Both",577.791017563
+127,"rainfall_pop_weighted",4662,"Oaxaca",1993,22,"All Ages",3,"Both",1384.92721657
+127,"rainfall_pop_weighted",4663,"Puebla",1993,22,"All Ages",3,"Both",937.201837588
+127,"rainfall_pop_weighted",4664,"Querétaro",1993,22,"All Ages",3,"Both",596.49766238
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",1361.34927895
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",804.36971505
+127,"rainfall_pop_weighted",4667,"Sinaloa",1993,22,"All Ages",3,"Both",635.287047043
+127,"rainfall_pop_weighted",4668,"Sonora",1993,22,"All Ages",3,"Both",354.607686915
+127,"rainfall_pop_weighted",4669,"Tabasco",1993,22,"All Ages",3,"Both",2109.99460991
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",787.930495598
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",725.928483989
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",1626.03844371
+127,"rainfall_pop_weighted",4673,"Yucatán",1993,22,"All Ages",3,"Both",885.226800435
+127,"rainfall_pop_weighted",4674,"Zacatecas",1993,22,"All Ages",3,"Both",425.812661942
+127,"rainfall_pop_weighted",130,"Mexico",1994,22,"All Ages",3,"Both",809.660947063
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",478.832060543
+127,"rainfall_pop_weighted",4644,"Baja California",1994,22,"All Ages",3,"Both",259.832306737
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",216.43408589
+127,"rainfall_pop_weighted",4646,"Campeche",1994,22,"All Ages",3,"Both",1141.89754403
+127,"rainfall_pop_weighted",4647,"Coahuila",1994,22,"All Ages",3,"Both",257.68996701
+127,"rainfall_pop_weighted",4648,"Colima",1994,22,"All Ages",3,"Both",973.543072276
+127,"rainfall_pop_weighted",4649,"Chiapas",1994,22,"All Ages",3,"Both",1271.9945578
+127,"rainfall_pop_weighted",4650,"Chihuahua",1994,22,"All Ages",3,"Both",253.571758647
+127,"rainfall_pop_weighted",4651,"Mexico City",1994,22,"All Ages",3,"Both",911.227695707
+127,"rainfall_pop_weighted",4652,"Durango",1994,22,"All Ages",3,"Both",461.034706647
+127,"rainfall_pop_weighted",4653,"Guanajuato",1994,22,"All Ages",3,"Both",585.525357328
+127,"rainfall_pop_weighted",4654,"Guerrero",1994,22,"All Ages",3,"Both",948.17479869
+127,"rainfall_pop_weighted",4655,"Hidalgo",1994,22,"All Ages",3,"Both",984.207265436
+127,"rainfall_pop_weighted",4656,"Jalisco",1994,22,"All Ages",3,"Both",835.89573374
+127,"rainfall_pop_weighted",4657,"México",1994,22,"All Ages",3,"Both",845.328451855
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",855.061191838
+127,"rainfall_pop_weighted",4659,"Morelos",1994,22,"All Ages",3,"Both",870.337486473
+127,"rainfall_pop_weighted",4660,"Nayarit",1994,22,"All Ages",3,"Both",1132.58696461
+127,"rainfall_pop_weighted",4661,"Nuevo León",1994,22,"All Ages",3,"Both",469.023544551
+127,"rainfall_pop_weighted",4662,"Oaxaca",1994,22,"All Ages",3,"Both",957.610808997
+127,"rainfall_pop_weighted",4663,"Puebla",1994,22,"All Ages",3,"Both",889.182406642
+127,"rainfall_pop_weighted",4664,"Querétaro",1994,22,"All Ages",3,"Both",622.54125731
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",1285.50446866
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",690.558174887
+127,"rainfall_pop_weighted",4667,"Sinaloa",1994,22,"All Ages",3,"Both",629.597536954
+127,"rainfall_pop_weighted",4668,"Sonora",1994,22,"All Ages",3,"Both",297.008786309
+127,"rainfall_pop_weighted",4669,"Tabasco",1994,22,"All Ages",3,"Both",1663.33737997
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",630.512696579
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",744.857924468
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",1286.35565135
+127,"rainfall_pop_weighted",4673,"Yucatán",1994,22,"All Ages",3,"Both",893.91721976
+127,"rainfall_pop_weighted",4674,"Zacatecas",1994,22,"All Ages",3,"Both",449.925851572
+127,"rainfall_pop_weighted",130,"Mexico",1995,22,"All Ages",3,"Both",947.303531123
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",462.620358369
+127,"rainfall_pop_weighted",4644,"Baja California",1995,22,"All Ages",3,"Both",354.095729199
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",222.177274438
+127,"rainfall_pop_weighted",4646,"Campeche",1995,22,"All Ages",3,"Both",1401.07151289
+127,"rainfall_pop_weighted",4647,"Coahuila",1995,22,"All Ages",3,"Both",232.282384401
+127,"rainfall_pop_weighted",4648,"Colima",1995,22,"All Ages",3,"Both",903.279265112
+127,"rainfall_pop_weighted",4649,"Chiapas",1995,22,"All Ages",3,"Both",2198.82145453
+127,"rainfall_pop_weighted",4650,"Chihuahua",1995,22,"All Ages",3,"Both",243.600572308
+127,"rainfall_pop_weighted",4651,"Mexico City",1995,22,"All Ages",3,"Both",927.51261746
+127,"rainfall_pop_weighted",4652,"Durango",1995,22,"All Ages",3,"Both",361.519009333
+127,"rainfall_pop_weighted",4653,"Guanajuato",1995,22,"All Ages",3,"Both",649.951112448
+127,"rainfall_pop_weighted",4654,"Guerrero",1995,22,"All Ages",3,"Both",1307.0928003
+127,"rainfall_pop_weighted",4655,"Hidalgo",1995,22,"All Ages",3,"Both",951.866130413
+127,"rainfall_pop_weighted",4656,"Jalisco",1995,22,"All Ages",3,"Both",858.259771283
+127,"rainfall_pop_weighted",4657,"México",1995,22,"All Ages",3,"Both",852.261256565
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",996.596233064
+127,"rainfall_pop_weighted",4659,"Morelos",1995,22,"All Ages",3,"Both",981.175096579
+127,"rainfall_pop_weighted",4660,"Nayarit",1995,22,"All Ages",3,"Both",1107.6741537
+127,"rainfall_pop_weighted",4661,"Nuevo León",1995,22,"All Ages",3,"Both",505.858382549
+127,"rainfall_pop_weighted",4662,"Oaxaca",1995,22,"All Ages",3,"Both",1441.52201725
+127,"rainfall_pop_weighted",4663,"Puebla",1995,22,"All Ages",3,"Both",1010.02087507
+127,"rainfall_pop_weighted",4664,"Querétaro",1995,22,"All Ages",3,"Both",598.799186374
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",1354.51883887
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",668.166380973
+127,"rainfall_pop_weighted",4667,"Sinaloa",1995,22,"All Ages",3,"Both",522.699961162
+127,"rainfall_pop_weighted",4668,"Sonora",1995,22,"All Ages",3,"Both",249.979828578
+127,"rainfall_pop_weighted",4669,"Tabasco",1995,22,"All Ages",3,"Both",2945.67204998
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",677.557877711
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",846.408491483
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",1747.27391048
+127,"rainfall_pop_weighted",4673,"Yucatán",1995,22,"All Ages",3,"Both",935.496485711
+127,"rainfall_pop_weighted",4674,"Zacatecas",1995,22,"All Ages",3,"Both",354.770001471
+127,"rainfall_pop_weighted",130,"Mexico",1996,22,"All Ages",3,"Both",847.568821143
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",448.198638143
+127,"rainfall_pop_weighted",4644,"Baja California",1996,22,"All Ages",3,"Both",214.486373485
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",332.02327826
+127,"rainfall_pop_weighted",4646,"Campeche",1996,22,"All Ages",3,"Both",1166.9213088
+127,"rainfall_pop_weighted",4647,"Coahuila",1996,22,"All Ages",3,"Both",274.083125405
+127,"rainfall_pop_weighted",4648,"Colima",1996,22,"All Ages",3,"Both",1200.46772769
+127,"rainfall_pop_weighted",4649,"Chiapas",1996,22,"All Ages",3,"Both",1977.9555604
+127,"rainfall_pop_weighted",4650,"Chihuahua",1996,22,"All Ages",3,"Both",330.770943946
+127,"rainfall_pop_weighted",4651,"Mexico City",1996,22,"All Ages",3,"Both",835.176201235
+127,"rainfall_pop_weighted",4652,"Durango",1996,22,"All Ages",3,"Both",568.179102455
+127,"rainfall_pop_weighted",4653,"Guanajuato",1996,22,"All Ages",3,"Both",532.687380156
+127,"rainfall_pop_weighted",4654,"Guerrero",1996,22,"All Ages",3,"Both",1168.73353635
+127,"rainfall_pop_weighted",4655,"Hidalgo",1996,22,"All Ages",3,"Both",826.884654712
+127,"rainfall_pop_weighted",4656,"Jalisco",1996,22,"All Ages",3,"Both",872.328095878
+127,"rainfall_pop_weighted",4657,"México",1996,22,"All Ages",3,"Both",758.540183109
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",840.017180799
+127,"rainfall_pop_weighted",4659,"Morelos",1996,22,"All Ages",3,"Both",843.498228204
+127,"rainfall_pop_weighted",4660,"Nayarit",1996,22,"All Ages",3,"Both",1145.91827955
+127,"rainfall_pop_weighted",4661,"Nuevo León",1996,22,"All Ages",3,"Both",437.391477038
+127,"rainfall_pop_weighted",4662,"Oaxaca",1996,22,"All Ages",3,"Both",1248.24988839
+127,"rainfall_pop_weighted",4663,"Puebla",1996,22,"All Ages",3,"Both",897.244680257
+127,"rainfall_pop_weighted",4664,"Querétaro",1996,22,"All Ages",3,"Both",503.323620702
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",1114.75581709
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",602.217753365
+127,"rainfall_pop_weighted",4667,"Sinaloa",1996,22,"All Ages",3,"Both",687.295374155
+127,"rainfall_pop_weighted",4668,"Sonora",1996,22,"All Ages",3,"Both",246.348706934
+127,"rainfall_pop_weighted",4669,"Tabasco",1996,22,"All Ages",3,"Both",2499.05243052
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",540.882226211
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",776.639750938
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",1417.29827169
+127,"rainfall_pop_weighted",4673,"Yucatán",1996,22,"All Ages",3,"Both",741.355070631
+127,"rainfall_pop_weighted",4674,"Zacatecas",1996,22,"All Ages",3,"Both",457.157252246
+127,"rainfall_pop_weighted",130,"Mexico",1997,22,"All Ages",3,"Both",900.477217723
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",474.057684408
+127,"rainfall_pop_weighted",4644,"Baja California",1997,22,"All Ages",3,"Both",253.374781555
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",417.713164939
+127,"rainfall_pop_weighted",4646,"Campeche",1997,22,"All Ages",3,"Both",1293.70016235
+127,"rainfall_pop_weighted",4647,"Coahuila",1997,22,"All Ages",3,"Both",316.233747935
+127,"rainfall_pop_weighted",4648,"Colima",1997,22,"All Ages",3,"Both",924.926729263
+127,"rainfall_pop_weighted",4649,"Chiapas",1997,22,"All Ages",3,"Both",1668.53131861
+127,"rainfall_pop_weighted",4650,"Chihuahua",1997,22,"All Ages",3,"Both",339.422122277
+127,"rainfall_pop_weighted",4651,"Mexico City",1997,22,"All Ages",3,"Both",988.421344636
+127,"rainfall_pop_weighted",4652,"Durango",1997,22,"All Ages",3,"Both",516.24034256
+127,"rainfall_pop_weighted",4653,"Guanajuato",1997,22,"All Ages",3,"Both",562.106478311
+127,"rainfall_pop_weighted",4654,"Guerrero",1997,22,"All Ages",3,"Both",1050.13313426
+127,"rainfall_pop_weighted",4655,"Hidalgo",1997,22,"All Ages",3,"Both",976.606565459
+127,"rainfall_pop_weighted",4656,"Jalisco",1997,22,"All Ages",3,"Both",847.253033359
+127,"rainfall_pop_weighted",4657,"México",1997,22,"All Ages",3,"Both",910.701257663
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",844.108524091
+127,"rainfall_pop_weighted",4659,"Morelos",1997,22,"All Ages",3,"Both",942.274122988
+127,"rainfall_pop_weighted",4660,"Nayarit",1997,22,"All Ages",3,"Both",1272.29510823
+127,"rainfall_pop_weighted",4661,"Nuevo León",1997,22,"All Ages",3,"Both",546.325745534
+127,"rainfall_pop_weighted",4662,"Oaxaca",1997,22,"All Ages",3,"Both",1035.62411437
+127,"rainfall_pop_weighted",4663,"Puebla",1997,22,"All Ages",3,"Both",1009.32198378
+127,"rainfall_pop_weighted",4664,"Querétaro",1997,22,"All Ages",3,"Both",569.038762599
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",1314.76796913
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",648.656530898
+127,"rainfall_pop_weighted",4667,"Sinaloa",1997,22,"All Ages",3,"Both",648.329124772
+127,"rainfall_pop_weighted",4668,"Sonora",1997,22,"All Ages",3,"Both",293.958570164
+127,"rainfall_pop_weighted",4669,"Tabasco",1997,22,"All Ages",3,"Both",2610.57046851
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",648.356374187
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",818.454295353
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",1555.07513103
+127,"rainfall_pop_weighted",4673,"Yucatán",1997,22,"All Ages",3,"Both",911.663434766
+127,"rainfall_pop_weighted",4674,"Zacatecas",1997,22,"All Ages",3,"Both",458.612539893
+127,"rainfall_pop_weighted",130,"Mexico",1998,22,"All Ages",3,"Both",1005.4635096
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",525.585739822
+127,"rainfall_pop_weighted",4644,"Baja California",1998,22,"All Ages",3,"Both",335.914797386
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",463.60394441
+127,"rainfall_pop_weighted",4646,"Campeche",1998,22,"All Ages",3,"Both",1224.12837685
+127,"rainfall_pop_weighted",4647,"Coahuila",1998,22,"All Ages",3,"Both",218.194913795
+127,"rainfall_pop_weighted",4648,"Colima",1998,22,"All Ages",3,"Both",1269.42623753
+127,"rainfall_pop_weighted",4649,"Chiapas",1998,22,"All Ages",3,"Both",2019.86249686
+127,"rainfall_pop_weighted",4650,"Chihuahua",1998,22,"All Ages",3,"Both",254.576248254
+127,"rainfall_pop_weighted",4651,"Mexico City",1998,22,"All Ages",3,"Both",1000.77774311
+127,"rainfall_pop_weighted",4652,"Durango",1998,22,"All Ages",3,"Both",425.087783252
+127,"rainfall_pop_weighted",4653,"Guanajuato",1998,22,"All Ages",3,"Both",681.749627469
+127,"rainfall_pop_weighted",4654,"Guerrero",1998,22,"All Ages",3,"Both",1316.7054515
+127,"rainfall_pop_weighted",4655,"Hidalgo",1998,22,"All Ages",3,"Both",1145.13596482
+127,"rainfall_pop_weighted",4656,"Jalisco",1998,22,"All Ages",3,"Both",934.402132796
+127,"rainfall_pop_weighted",4657,"México",1998,22,"All Ages",3,"Both",916.096122152
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",1037.51890085
+127,"rainfall_pop_weighted",4659,"Morelos",1998,22,"All Ages",3,"Both",1039.72056751
+127,"rainfall_pop_weighted",4660,"Nayarit",1998,22,"All Ages",3,"Both",1512.58775775
+127,"rainfall_pop_weighted",4661,"Nuevo León",1998,22,"All Ages",3,"Both",410.799707295
+127,"rainfall_pop_weighted",4662,"Oaxaca",1998,22,"All Ages",3,"Both",1546.10060205
+127,"rainfall_pop_weighted",4663,"Puebla",1998,22,"All Ages",3,"Both",1160.71427494
+127,"rainfall_pop_weighted",4664,"Querétaro",1998,22,"All Ages",3,"Both",672.874112892
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",1428.29727204
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",776.485981725
+127,"rainfall_pop_weighted",4667,"Sinaloa",1998,22,"All Ages",3,"Both",593.766096018
+127,"rainfall_pop_weighted",4668,"Sonora",1998,22,"All Ages",3,"Both",221.379789293
+127,"rainfall_pop_weighted",4669,"Tabasco",1998,22,"All Ages",3,"Both",2873.2307365
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",677.076846954
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",922.646874172
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",1985.07219398
+127,"rainfall_pop_weighted",4673,"Yucatán",1998,22,"All Ages",3,"Both",899.102057838
+127,"rainfall_pop_weighted",4674,"Zacatecas",1998,22,"All Ages",3,"Both",440.567777248
+127,"rainfall_pop_weighted",130,"Mexico",1999,22,"All Ages",3,"Both",950.686478567
+127,"rainfall_pop_weighted",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",361.067554671
+127,"rainfall_pop_weighted",4644,"Baja California",1999,22,"All Ages",3,"Both",99.3851160499
+127,"rainfall_pop_weighted",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",141.496203861
+127,"rainfall_pop_weighted",4646,"Campeche",1999,22,"All Ages",3,"Both",1470.10147579
+127,"rainfall_pop_weighted",4647,"Coahuila",1999,22,"All Ages",3,"Both",219.861620814
+127,"rainfall_pop_weighted",4648,"Colima",1999,22,"All Ages",3,"Both",1183.22069373
+127,"rainfall_pop_weighted",4649,"Chiapas",1999,22,"All Ages",3,"Both",2223.76728331
+127,"rainfall_pop_weighted",4650,"Chihuahua",1999,22,"All Ages",3,"Both",309.161595949
+127,"rainfall_pop_weighted",4651,"Mexico City",1999,22,"All Ages",3,"Both",992.728523938
+127,"rainfall_pop_weighted",4652,"Durango",1999,22,"All Ages",3,"Both",433.489066434
+127,"rainfall_pop_weighted",4653,"Guanajuato",1999,22,"All Ages",3,"Both",494.603779658
+127,"rainfall_pop_weighted",4654,"Guerrero",1999,22,"All Ages",3,"Both",1240.2037178
+127,"rainfall_pop_weighted",4655,"Hidalgo",1999,22,"All Ages",3,"Both",1009.68704658
+127,"rainfall_pop_weighted",4656,"Jalisco",1999,22,"All Ages",3,"Both",796.926562329
+127,"rainfall_pop_weighted",4657,"México",1999,22,"All Ages",3,"Both",875.775620124
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",797.503302788
+127,"rainfall_pop_weighted",4659,"Morelos",1999,22,"All Ages",3,"Both",1004.69656332
+127,"rainfall_pop_weighted",4660,"Nayarit",1999,22,"All Ages",3,"Both",1457.45501343
+127,"rainfall_pop_weighted",4661,"Nuevo León",1999,22,"All Ages",3,"Both",432.612464568
+127,"rainfall_pop_weighted",4662,"Oaxaca",1999,22,"All Ages",3,"Both",1614.27293918
+127,"rainfall_pop_weighted",4663,"Puebla",1999,22,"All Ages",3,"Both",1038.42696537
+127,"rainfall_pop_weighted",4664,"Querétaro",1999,22,"All Ages",3,"Both",538.67905199
+127,"rainfall_pop_weighted",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",1307.37127328
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",655.556487583
+127,"rainfall_pop_weighted",4667,"Sinaloa",1999,22,"All Ages",3,"Both",568.903388684
+127,"rainfall_pop_weighted",4668,"Sonora",1999,22,"All Ages",3,"Both",302.149778019
+127,"rainfall_pop_weighted",4669,"Tabasco",1999,22,"All Ages",3,"Both",2805.90373776
+127,"rainfall_pop_weighted",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",675.439162284
+127,"rainfall_pop_weighted",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",831.079753436
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",1866.042353
+127,"rainfall_pop_weighted",4673,"Yucatán",1999,22,"All Ages",3,"Both",1017.34236213
+127,"rainfall_pop_weighted",4674,"Zacatecas",1999,22,"All Ages",3,"Both",347.504226522
+127,"rainfall_pop_weighted",130,"Mexico",2000,22,"All Ages",3,"Both",881.964649119
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",423.594635168
+127,"rainfall_pop_weighted",4644,"Baja California",2000,22,"All Ages",3,"Both",147.288991178
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",239.731626332
+127,"rainfall_pop_weighted",4646,"Campeche",2000,22,"All Ages",3,"Both",1161.77850857
+127,"rainfall_pop_weighted",4647,"Coahuila",2000,22,"All Ages",3,"Both",286.916012355
+127,"rainfall_pop_weighted",4648,"Colima",2000,22,"All Ages",3,"Both",962.325004859
+127,"rainfall_pop_weighted",4649,"Chiapas",2000,22,"All Ages",3,"Both",1811.8417131
+127,"rainfall_pop_weighted",4650,"Chihuahua",2000,22,"All Ages",3,"Both",312.489968955
+127,"rainfall_pop_weighted",4651,"Mexico City",2000,22,"All Ages",3,"Both",935.959627971
+127,"rainfall_pop_weighted",4652,"Durango",2000,22,"All Ages",3,"Both",581.058281674
+127,"rainfall_pop_weighted",4653,"Guanajuato",2000,22,"All Ages",3,"Both",522.151083988
+127,"rainfall_pop_weighted",4654,"Guerrero",2000,22,"All Ages",3,"Both",1101.22263582
+127,"rainfall_pop_weighted",4655,"Hidalgo",2000,22,"All Ages",3,"Both",966.949725991
+127,"rainfall_pop_weighted",4656,"Jalisco",2000,22,"All Ages",3,"Both",815.931736466
+127,"rainfall_pop_weighted",4657,"México",2000,22,"All Ages",3,"Both",870.450073099
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",801.985757984
+127,"rainfall_pop_weighted",4659,"Morelos",2000,22,"All Ages",3,"Both",885.457690109
+127,"rainfall_pop_weighted",4660,"Nayarit",2000,22,"All Ages",3,"Both",1315.64406149
+127,"rainfall_pop_weighted",4661,"Nuevo León",2000,22,"All Ages",3,"Both",468.548846507
+127,"rainfall_pop_weighted",4662,"Oaxaca",2000,22,"All Ages",3,"Both",1275.91315265
+127,"rainfall_pop_weighted",4663,"Puebla",2000,22,"All Ages",3,"Both",1014.16832155
+127,"rainfall_pop_weighted",4664,"Querétaro",2000,22,"All Ages",3,"Both",562.649382847
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",1250.02972052
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",631.055582518
+127,"rainfall_pop_weighted",4667,"Sinaloa",2000,22,"All Ages",3,"Both",617.90650627
+127,"rainfall_pop_weighted",4668,"Sonora",2000,22,"All Ages",3,"Both",311.91662515
+127,"rainfall_pop_weighted",4669,"Tabasco",2000,22,"All Ages",3,"Both",2269.77075609
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",583.738903968
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",827.182326163
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",1598.54149451
+127,"rainfall_pop_weighted",4673,"Yucatán",2000,22,"All Ages",3,"Both",794.518634606
+127,"rainfall_pop_weighted",4674,"Zacatecas",2000,22,"All Ages",3,"Both",424.933245301
+127,"rainfall_pop_weighted",130,"Mexico",2001,22,"All Ages",3,"Both",904.019654882
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",477.67228275
+127,"rainfall_pop_weighted",4644,"Baja California",2001,22,"All Ages",3,"Both",245.271432675
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",270.815681786
+127,"rainfall_pop_weighted",4646,"Campeche",2001,22,"All Ages",3,"Both",1265.9805829
+127,"rainfall_pop_weighted",4647,"Coahuila",2001,22,"All Ages",3,"Both",256.79223797
+127,"rainfall_pop_weighted",4648,"Colima",2001,22,"All Ages",3,"Both",877.873339407
+127,"rainfall_pop_weighted",4649,"Chiapas",2001,22,"All Ages",3,"Both",1656.71267906
+127,"rainfall_pop_weighted",4650,"Chihuahua",2001,22,"All Ages",3,"Both",235.036399215
+127,"rainfall_pop_weighted",4651,"Mexico City",2001,22,"All Ages",3,"Both",1000.02529157
+127,"rainfall_pop_weighted",4652,"Durango",2001,22,"All Ages",3,"Both",402.132157498
+127,"rainfall_pop_weighted",4653,"Guanajuato",2001,22,"All Ages",3,"Both",690.566644155
+127,"rainfall_pop_weighted",4654,"Guerrero",2001,22,"All Ages",3,"Both",1021.64460279
+127,"rainfall_pop_weighted",4655,"Hidalgo",2001,22,"All Ages",3,"Both",1045.32741753
+127,"rainfall_pop_weighted",4656,"Jalisco",2001,22,"All Ages",3,"Both",842.523278083
+127,"rainfall_pop_weighted",4657,"México",2001,22,"All Ages",3,"Both",929.816968445
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",926.759531382
+127,"rainfall_pop_weighted",4659,"Morelos",2001,22,"All Ages",3,"Both",973.525017339
+127,"rainfall_pop_weighted",4660,"Nayarit",2001,22,"All Ages",3,"Both",1026.02042758
+127,"rainfall_pop_weighted",4661,"Nuevo León",2001,22,"All Ages",3,"Both",577.991262667
+127,"rainfall_pop_weighted",4662,"Oaxaca",2001,22,"All Ages",3,"Both",1117.37025896
+127,"rainfall_pop_weighted",4663,"Puebla",2001,22,"All Ages",3,"Both",1065.98119773
+127,"rainfall_pop_weighted",4664,"Querétaro",2001,22,"All Ages",3,"Both",682.00218636
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",1246.37974059
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",735.751532027
+127,"rainfall_pop_weighted",4667,"Sinaloa",2001,22,"All Ages",3,"Both",509.864675281
+127,"rainfall_pop_weighted",4668,"Sonora",2001,22,"All Ages",3,"Both",241.226235936
+127,"rainfall_pop_weighted",4669,"Tabasco",2001,22,"All Ages",3,"Both",2280.04358799
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",690.938784788
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",913.152676062
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",1548.25879928
+127,"rainfall_pop_weighted",4673,"Yucatán",2001,22,"All Ages",3,"Both",873.316081182
+127,"rainfall_pop_weighted",4674,"Zacatecas",2001,22,"All Ages",3,"Both",388.980090691
+127,"rainfall_pop_weighted",130,"Mexico",2002,22,"All Ages",3,"Both",912.527998315
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",623.061960827
+127,"rainfall_pop_weighted",4644,"Baja California",2002,22,"All Ages",3,"Both",101.012037549
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",164.969256202
+127,"rainfall_pop_weighted",4646,"Campeche",2002,22,"All Ages",3,"Both",1222.91860709
+127,"rainfall_pop_weighted",4647,"Coahuila",2002,22,"All Ages",3,"Both",331.818688003
+127,"rainfall_pop_weighted",4648,"Colima",2002,22,"All Ages",3,"Both",1033.89241871
+127,"rainfall_pop_weighted",4649,"Chiapas",2002,22,"All Ages",3,"Both",1729.64311961
+127,"rainfall_pop_weighted",4650,"Chihuahua",2002,22,"All Ages",3,"Both",265.05591321
+127,"rainfall_pop_weighted",4651,"Mexico City",2002,22,"All Ages",3,"Both",892.280550789
+127,"rainfall_pop_weighted",4652,"Durango",2002,22,"All Ages",3,"Both",568.692587151
+127,"rainfall_pop_weighted",4653,"Guanajuato",2002,22,"All Ages",3,"Both",711.598956528
+127,"rainfall_pop_weighted",4654,"Guerrero",2002,22,"All Ages",3,"Both",1282.46398854
+127,"rainfall_pop_weighted",4655,"Hidalgo",2002,22,"All Ages",3,"Both",973.221324533
+127,"rainfall_pop_weighted",4656,"Jalisco",2002,22,"All Ages",3,"Both",932.628263079
+127,"rainfall_pop_weighted",4657,"México",2002,22,"All Ages",3,"Both",838.485614612
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",1049.73100515
+127,"rainfall_pop_weighted",4659,"Morelos",2002,22,"All Ages",3,"Both",978.296254781
+127,"rainfall_pop_weighted",4660,"Nayarit",2002,22,"All Ages",3,"Both",1108.89458962
+127,"rainfall_pop_weighted",4661,"Nuevo León",2002,22,"All Ages",3,"Both",687.087424916
+127,"rainfall_pop_weighted",4662,"Oaxaca",2002,22,"All Ages",3,"Both",1224.5015562
+127,"rainfall_pop_weighted",4663,"Puebla",2002,22,"All Ages",3,"Both",1042.67330009
+127,"rainfall_pop_weighted",4664,"Querétaro",2002,22,"All Ages",3,"Both",654.408932259
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",1488.0315165
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",746.544391802
+127,"rainfall_pop_weighted",4667,"Sinaloa",2002,22,"All Ages",3,"Both",435.026060167
+127,"rainfall_pop_weighted",4668,"Sonora",2002,22,"All Ages",3,"Both",222.810536533
+127,"rainfall_pop_weighted",4669,"Tabasco",2002,22,"All Ages",3,"Both",2267.19369327
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",762.136818437
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",884.83725858
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",1476.19192654
+127,"rainfall_pop_weighted",4673,"Yucatán",2002,22,"All Ages",3,"Both",913.323807151
+127,"rainfall_pop_weighted",4674,"Zacatecas",2002,22,"All Ages",3,"Both",525.864550175
+127,"rainfall_pop_weighted",130,"Mexico",2003,22,"All Ages",3,"Both",945.357381224
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",612.030712446
+127,"rainfall_pop_weighted",4644,"Baja California",2003,22,"All Ages",3,"Both",250.442412545
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",412.586531174
+127,"rainfall_pop_weighted",4646,"Campeche",2003,22,"All Ages",3,"Both",1356.56432494
+127,"rainfall_pop_weighted",4647,"Coahuila",2003,22,"All Ages",3,"Both",388.991907747
+127,"rainfall_pop_weighted",4648,"Colima",2003,22,"All Ages",3,"Both",1130.72484007
+127,"rainfall_pop_weighted",4649,"Chiapas",2003,22,"All Ages",3,"Both",1613.17555726
+127,"rainfall_pop_weighted",4650,"Chihuahua",2003,22,"All Ages",3,"Both",281.770934047
+127,"rainfall_pop_weighted",4651,"Mexico City",2003,22,"All Ages",3,"Both",944.519658378
+127,"rainfall_pop_weighted",4652,"Durango",2003,22,"All Ages",3,"Both",631.101641901
+127,"rainfall_pop_weighted",4653,"Guanajuato",2003,22,"All Ages",3,"Both",693.379091493
+127,"rainfall_pop_weighted",4654,"Guerrero",2003,22,"All Ages",3,"Both",1161.34094686
+127,"rainfall_pop_weighted",4655,"Hidalgo",2003,22,"All Ages",3,"Both",1015.90874131
+127,"rainfall_pop_weighted",4656,"Jalisco",2003,22,"All Ages",3,"Both",944.764277934
+127,"rainfall_pop_weighted",4657,"México",2003,22,"All Ages",3,"Both",886.259099726
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",1036.49791306
+127,"rainfall_pop_weighted",4659,"Morelos",2003,22,"All Ages",3,"Both",934.43706184
+127,"rainfall_pop_weighted",4660,"Nayarit",2003,22,"All Ages",3,"Both",1182.91284723
+127,"rainfall_pop_weighted",4661,"Nuevo León",2003,22,"All Ages",3,"Both",843.478201101
+127,"rainfall_pop_weighted",4662,"Oaxaca",2003,22,"All Ages",3,"Both",1105.00123557
+127,"rainfall_pop_weighted",4663,"Puebla",2003,22,"All Ages",3,"Both",1002.07044583
+127,"rainfall_pop_weighted",4664,"Querétaro",2003,22,"All Ages",3,"Both",669.922925632
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",1317.62867743
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",730.487823624
+127,"rainfall_pop_weighted",4667,"Sinaloa",2003,22,"All Ages",3,"Both",707.535342821
+127,"rainfall_pop_weighted",4668,"Sonora",2003,22,"All Ages",3,"Both",364.738762545
+127,"rainfall_pop_weighted",4669,"Tabasco",2003,22,"All Ages",3,"Both",2383.00586826
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",791.201328737
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",813.630006741
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",1587.85230372
+127,"rainfall_pop_weighted",4673,"Yucatán",2003,22,"All Ages",3,"Both",1001.4762582
+127,"rainfall_pop_weighted",4674,"Zacatecas",2003,22,"All Ages",3,"Both",570.611083597
+127,"rainfall_pop_weighted",130,"Mexico",2004,22,"All Ages",3,"Both",1043.9604416
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",683.831053252
+127,"rainfall_pop_weighted",4644,"Baja California",2004,22,"All Ages",3,"Both",315.889217721
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",275.937537941
+127,"rainfall_pop_weighted",4646,"Campeche",2004,22,"All Ages",3,"Both",1184.75106934
+127,"rainfall_pop_weighted",4647,"Coahuila",2004,22,"All Ages",3,"Both",393.66077413
+127,"rainfall_pop_weighted",4648,"Colima",2004,22,"All Ages",3,"Both",1090.42764073
+127,"rainfall_pop_weighted",4649,"Chiapas",2004,22,"All Ages",3,"Both",1749.29247588
+127,"rainfall_pop_weighted",4650,"Chihuahua",2004,22,"All Ages",3,"Both",415.724228139
+127,"rainfall_pop_weighted",4651,"Mexico City",2004,22,"All Ages",3,"Both",1147.31933839
+127,"rainfall_pop_weighted",4652,"Durango",2004,22,"All Ages",3,"Both",679.432012413
+127,"rainfall_pop_weighted",4653,"Guanajuato",2004,22,"All Ages",3,"Both",866.30037393
+127,"rainfall_pop_weighted",4654,"Guerrero",2004,22,"All Ages",3,"Both",1327.06093493
+127,"rainfall_pop_weighted",4655,"Hidalgo",2004,22,"All Ages",3,"Both",1199.17560531
+127,"rainfall_pop_weighted",4656,"Jalisco",2004,22,"All Ages",3,"Both",1043.10323297
+127,"rainfall_pop_weighted",4657,"México",2004,22,"All Ages",3,"Both",1075.37834438
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",1135.73663771
+127,"rainfall_pop_weighted",4659,"Morelos",2004,22,"All Ages",3,"Both",1133.49952207
+127,"rainfall_pop_weighted",4660,"Nayarit",2004,22,"All Ages",3,"Both",1256.49370749
+127,"rainfall_pop_weighted",4661,"Nuevo León",2004,22,"All Ages",3,"Both",658.478022247
+127,"rainfall_pop_weighted",4662,"Oaxaca",2004,22,"All Ages",3,"Both",1302.60342972
+127,"rainfall_pop_weighted",4663,"Puebla",2004,22,"All Ages",3,"Both",1116.53955786
+127,"rainfall_pop_weighted",4664,"Querétaro",2004,22,"All Ages",3,"Both",835.894074116
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",1243.34294127
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",895.319692935
+127,"rainfall_pop_weighted",4667,"Sinaloa",2004,22,"All Ages",3,"Both",759.386698474
+127,"rainfall_pop_weighted",4668,"Sonora",2004,22,"All Ages",3,"Both",341.388940944
+127,"rainfall_pop_weighted",4669,"Tabasco",2004,22,"All Ages",3,"Both",2268.74236342
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",765.135337327
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",933.142506115
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",1639.30107882
+127,"rainfall_pop_weighted",4673,"Yucatán",2004,22,"All Ages",3,"Both",947.942264371
+127,"rainfall_pop_weighted",4674,"Zacatecas",2004,22,"All Ages",3,"Both",601.544362992
+127,"rainfall_pop_weighted",130,"Mexico",2005,22,"All Ages",3,"Both",858.527805807
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",381.216228649
+127,"rainfall_pop_weighted",4644,"Baja California",2005,22,"All Ages",3,"Both",344.498884317
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",174.738447741
+127,"rainfall_pop_weighted",4646,"Campeche",2005,22,"All Ages",3,"Both",1494.05403552
+127,"rainfall_pop_weighted",4647,"Coahuila",2005,22,"All Ages",3,"Both",264.146292673
+127,"rainfall_pop_weighted",4648,"Colima",2005,22,"All Ages",3,"Both",824.557763728
+127,"rainfall_pop_weighted",4649,"Chiapas",2005,22,"All Ages",3,"Both",2002.34713024
+127,"rainfall_pop_weighted",4650,"Chihuahua",2005,22,"All Ages",3,"Both",323.595758482
+127,"rainfall_pop_weighted",4651,"Mexico City",2005,22,"All Ages",3,"Both",832.920935092
+127,"rainfall_pop_weighted",4652,"Durango",2005,22,"All Ages",3,"Both",418.838673048
+127,"rainfall_pop_weighted",4653,"Guanajuato",2005,22,"All Ages",3,"Both",497.654452513
+127,"rainfall_pop_weighted",4654,"Guerrero",2005,22,"All Ages",3,"Both",945.581295721
+127,"rainfall_pop_weighted",4655,"Hidalgo",2005,22,"All Ages",3,"Both",1012.79179061
+127,"rainfall_pop_weighted",4656,"Jalisco",2005,22,"All Ages",3,"Both",672.155377472
+127,"rainfall_pop_weighted",4657,"México",2005,22,"All Ages",3,"Both",767.908592728
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",738.06166014
+127,"rainfall_pop_weighted",4659,"Morelos",2005,22,"All Ages",3,"Both",802.519585772
+127,"rainfall_pop_weighted",4660,"Nayarit",2005,22,"All Ages",3,"Both",898.653851663
+127,"rainfall_pop_weighted",4661,"Nuevo León",2005,22,"All Ages",3,"Both",518.611296804
+127,"rainfall_pop_weighted",4662,"Oaxaca",2005,22,"All Ages",3,"Both",1234.24263419
+127,"rainfall_pop_weighted",4663,"Puebla",2005,22,"All Ages",3,"Both",955.961725945
+127,"rainfall_pop_weighted",4664,"Querétaro",2005,22,"All Ages",3,"Both",551.830028428
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",1557.77364702
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",740.428449024
+127,"rainfall_pop_weighted",4667,"Sinaloa",2005,22,"All Ages",3,"Both",462.152012917
+127,"rainfall_pop_weighted",4668,"Sonora",2005,22,"All Ages",3,"Both",288.173601994
+127,"rainfall_pop_weighted",4669,"Tabasco",2005,22,"All Ages",3,"Both",2382.47289121
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",753.059884903
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",796.40664786
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",1569.48130093
+127,"rainfall_pop_weighted",4673,"Yucatán",2005,22,"All Ages",3,"Both",1108.10294794
+127,"rainfall_pop_weighted",4674,"Zacatecas",2005,22,"All Ages",3,"Both",351.848241213
+127,"rainfall_pop_weighted",130,"Mexico",2006,22,"All Ages",3,"Both",1029.37812547
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",551.967803551
+127,"rainfall_pop_weighted",4644,"Baja California",2006,22,"All Ages",3,"Both",133.264861711
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",338.764901288
+127,"rainfall_pop_weighted",4646,"Campeche",2006,22,"All Ages",3,"Both",1461.79059842
+127,"rainfall_pop_weighted",4647,"Coahuila",2006,22,"All Ages",3,"Both",252.312937675
+127,"rainfall_pop_weighted",4648,"Colima",2006,22,"All Ages",3,"Both",1065.05973153
+127,"rainfall_pop_weighted",4649,"Chiapas",2006,22,"All Ages",3,"Both",1786.43519535
+127,"rainfall_pop_weighted",4650,"Chihuahua",2006,22,"All Ages",3,"Both",414.290575596
+127,"rainfall_pop_weighted",4651,"Mexico City",2006,22,"All Ages",3,"Both",1158.96659845
+127,"rainfall_pop_weighted",4652,"Durango",2006,22,"All Ages",3,"Both",571.952201953
+127,"rainfall_pop_weighted",4653,"Guanajuato",2006,22,"All Ages",3,"Both",706.88202825
+127,"rainfall_pop_weighted",4654,"Guerrero",2006,22,"All Ages",3,"Both",1324.07023964
+127,"rainfall_pop_weighted",4655,"Hidalgo",2006,22,"All Ages",3,"Both",1140.89863082
+127,"rainfall_pop_weighted",4656,"Jalisco",2006,22,"All Ages",3,"Both",923.29675422
+127,"rainfall_pop_weighted",4657,"México",2006,22,"All Ages",3,"Both",1059.58662314
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",1035.42720826
+127,"rainfall_pop_weighted",4659,"Morelos",2006,22,"All Ages",3,"Both",1171.10326242
+127,"rainfall_pop_weighted",4660,"Nayarit",2006,22,"All Ages",3,"Both",1301.79108198
+127,"rainfall_pop_weighted",4661,"Nuevo León",2006,22,"All Ages",3,"Both",495.293598278
+127,"rainfall_pop_weighted",4662,"Oaxaca",2006,22,"All Ages",3,"Both",1481.70669669
+127,"rainfall_pop_weighted",4663,"Puebla",2006,22,"All Ages",3,"Both",1210.30358239
+127,"rainfall_pop_weighted",4664,"Querétaro",2006,22,"All Ages",3,"Both",713.027241051
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",1569.74221246
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",737.312830664
+127,"rainfall_pop_weighted",4667,"Sinaloa",2006,22,"All Ages",3,"Both",754.079293922
+127,"rainfall_pop_weighted",4668,"Sonora",2006,22,"All Ages",3,"Both",341.389920263
+127,"rainfall_pop_weighted",4669,"Tabasco",2006,22,"All Ages",3,"Both",2421.23136947
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",646.893945458
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",1017.00514276
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",1810.95622509
+127,"rainfall_pop_weighted",4673,"Yucatán",2006,22,"All Ages",3,"Both",1063.26640239
+127,"rainfall_pop_weighted",4674,"Zacatecas",2006,22,"All Ages",3,"Both",491.822599738
+127,"rainfall_pop_weighted",130,"Mexico",2007,22,"All Ages",3,"Both",981.94737006
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",529.804221813
+127,"rainfall_pop_weighted",4644,"Baja California",2007,22,"All Ages",3,"Both",105.097999372
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",242.105623763
+127,"rainfall_pop_weighted",4646,"Campeche",2007,22,"All Ages",3,"Both",1311.45012687
+127,"rainfall_pop_weighted",4647,"Coahuila",2007,22,"All Ages",3,"Both",348.759307885
+127,"rainfall_pop_weighted",4648,"Colima",2007,22,"All Ages",3,"Both",1058.8805154
+127,"rainfall_pop_weighted",4649,"Chiapas",2007,22,"All Ages",3,"Both",1720.40921366
+127,"rainfall_pop_weighted",4650,"Chihuahua",2007,22,"All Ages",3,"Both",317.052310823
+127,"rainfall_pop_weighted",4651,"Mexico City",2007,22,"All Ages",3,"Both",1061.02364647
+127,"rainfall_pop_weighted",4652,"Durango",2007,22,"All Ages",3,"Both",580.432945346
+127,"rainfall_pop_weighted",4653,"Guanajuato",2007,22,"All Ages",3,"Both",687.035388735
+127,"rainfall_pop_weighted",4654,"Guerrero",2007,22,"All Ages",3,"Both",1170.99138297
+127,"rainfall_pop_weighted",4655,"Hidalgo",2007,22,"All Ages",3,"Both",1198.01073616
+127,"rainfall_pop_weighted",4656,"Jalisco",2007,22,"All Ages",3,"Both",926.020350881
+127,"rainfall_pop_weighted",4657,"México",2007,22,"All Ages",3,"Both",984.715219079
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",966.187617246
+127,"rainfall_pop_weighted",4659,"Morelos",2007,22,"All Ages",3,"Both",1030.21653837
+127,"rainfall_pop_weighted",4660,"Nayarit",2007,22,"All Ages",3,"Both",1433.45276011
+127,"rainfall_pop_weighted",4661,"Nuevo León",2007,22,"All Ages",3,"Both",652.057203992
+127,"rainfall_pop_weighted",4662,"Oaxaca",2007,22,"All Ages",3,"Both",1184.94440884
+127,"rainfall_pop_weighted",4663,"Puebla",2007,22,"All Ages",3,"Both",1120.71947203
+127,"rainfall_pop_weighted",4664,"Querétaro",2007,22,"All Ages",3,"Both",734.854263236
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",1357.99123127
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",875.858610064
+127,"rainfall_pop_weighted",4667,"Sinaloa",2007,22,"All Ages",3,"Both",632.021778094
+127,"rainfall_pop_weighted",4668,"Sonora",2007,22,"All Ages",3,"Both",325.739301383
+127,"rainfall_pop_weighted",4669,"Tabasco",2007,22,"All Ages",3,"Both",2291.10316727
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",893.154068922
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",951.661745125
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",1686.22604381
+127,"rainfall_pop_weighted",4673,"Yucatán",2007,22,"All Ages",3,"Both",1002.62952284
+127,"rainfall_pop_weighted",4674,"Zacatecas",2007,22,"All Ages",3,"Both",487.714455935
+127,"rainfall_pop_weighted",130,"Mexico",2008,22,"All Ages",3,"Both",966.822841459
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",525.15954793
+127,"rainfall_pop_weighted",4644,"Baja California",2008,22,"All Ages",3,"Both",205.390491627
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",269.774934466
+127,"rainfall_pop_weighted",4646,"Campeche",2008,22,"All Ages",3,"Both",1202.80784114
+127,"rainfall_pop_weighted",4647,"Coahuila",2008,22,"All Ages",3,"Both",313.669581114
+127,"rainfall_pop_weighted",4648,"Colima",2008,22,"All Ages",3,"Both",1119.74403405
+127,"rainfall_pop_weighted",4649,"Chiapas",2008,22,"All Ages",3,"Both",1869.77039047
+127,"rainfall_pop_weighted",4650,"Chihuahua",2008,22,"All Ages",3,"Both",363.102894508
+127,"rainfall_pop_weighted",4651,"Mexico City",2008,22,"All Ages",3,"Both",1005.4669622
+127,"rainfall_pop_weighted",4652,"Durango",2008,22,"All Ages",3,"Both",588.444259861
+127,"rainfall_pop_weighted",4653,"Guanajuato",2008,22,"All Ages",3,"Both",642.814820664
+127,"rainfall_pop_weighted",4654,"Guerrero",2008,22,"All Ages",3,"Both",1161.94669495
+127,"rainfall_pop_weighted",4655,"Hidalgo",2008,22,"All Ages",3,"Both",1076.89152353
+127,"rainfall_pop_weighted",4656,"Jalisco",2008,22,"All Ages",3,"Both",967.996146434
+127,"rainfall_pop_weighted",4657,"México",2008,22,"All Ages",3,"Both",916.04109147
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",928.089170306
+127,"rainfall_pop_weighted",4659,"Morelos",2008,22,"All Ages",3,"Both",975.26234516
+127,"rainfall_pop_weighted",4660,"Nayarit",2008,22,"All Ages",3,"Both",1401.46092852
+127,"rainfall_pop_weighted",4661,"Nuevo León",2008,22,"All Ages",3,"Both",643.50846304
+127,"rainfall_pop_weighted",4662,"Oaxaca",2008,22,"All Ages",3,"Both",1390.27648224
+127,"rainfall_pop_weighted",4663,"Puebla",2008,22,"All Ages",3,"Both",1091.04475699
+127,"rainfall_pop_weighted",4664,"Querétaro",2008,22,"All Ages",3,"Both",651.0934477
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",1203.11799815
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",783.709149705
+127,"rainfall_pop_weighted",4667,"Sinaloa",2008,22,"All Ages",3,"Both",685.432731623
+127,"rainfall_pop_weighted",4668,"Sonora",2008,22,"All Ages",3,"Both",329.589046014
+127,"rainfall_pop_weighted",4669,"Tabasco",2008,22,"All Ages",3,"Both",2238.57427246
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",820.326248783
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",918.098327062
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",1686.91809464
+127,"rainfall_pop_weighted",4673,"Yucatán",2008,22,"All Ages",3,"Both",833.913102321
+127,"rainfall_pop_weighted",4674,"Zacatecas",2008,22,"All Ages",3,"Both",495.619100218
+127,"rainfall_pop_weighted",130,"Mexico",2009,22,"All Ages",3,"Both",838.830987955
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",395.429138294
+127,"rainfall_pop_weighted",4644,"Baja California",2009,22,"All Ages",3,"Both",134.59742893
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",221.510014618
+127,"rainfall_pop_weighted",4646,"Campeche",2009,22,"All Ages",3,"Both",1018.88194509
+127,"rainfall_pop_weighted",4647,"Coahuila",2009,22,"All Ages",3,"Both",248.949165732
+127,"rainfall_pop_weighted",4648,"Colima",2009,22,"All Ages",3,"Both",771.5710037
+127,"rainfall_pop_weighted",4649,"Chiapas",2009,22,"All Ages",3,"Both",1699.16713485
+127,"rainfall_pop_weighted",4650,"Chihuahua",2009,22,"All Ages",3,"Both",318.532424854
+127,"rainfall_pop_weighted",4651,"Mexico City",2009,22,"All Ages",3,"Both",877.434029894
+127,"rainfall_pop_weighted",4652,"Durango",2009,22,"All Ages",3,"Both",626.597974554
+127,"rainfall_pop_weighted",4653,"Guanajuato",2009,22,"All Ages",3,"Both",511.602771787
+127,"rainfall_pop_weighted",4654,"Guerrero",2009,22,"All Ages",3,"Both",1039.61521493
+127,"rainfall_pop_weighted",4655,"Hidalgo",2009,22,"All Ages",3,"Both",953.681488736
+127,"rainfall_pop_weighted",4656,"Jalisco",2009,22,"All Ages",3,"Both",699.496004668
+127,"rainfall_pop_weighted",4657,"México",2009,22,"All Ages",3,"Both",800.567246314
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",751.044396367
+127,"rainfall_pop_weighted",4659,"Morelos",2009,22,"All Ages",3,"Both",887.40453389
+127,"rainfall_pop_weighted",4660,"Nayarit",2009,22,"All Ages",3,"Both",1141.06396948
+127,"rainfall_pop_weighted",4661,"Nuevo León",2009,22,"All Ages",3,"Both",430.732484277
+127,"rainfall_pop_weighted",4662,"Oaxaca",2009,22,"All Ages",3,"Both",1177.96901977
+127,"rainfall_pop_weighted",4663,"Puebla",2009,22,"All Ages",3,"Both",996.367422375
+127,"rainfall_pop_weighted",4664,"Querétaro",2009,22,"All Ages",3,"Both",551.833332514
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",1113.58672835
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",621.647619642
+127,"rainfall_pop_weighted",4667,"Sinaloa",2009,22,"All Ages",3,"Both",659.123264533
+127,"rainfall_pop_weighted",4668,"Sonora",2009,22,"All Ages",3,"Both",274.520734825
+127,"rainfall_pop_weighted",4669,"Tabasco",2009,22,"All Ages",3,"Both",2402.16958977
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",600.293027503
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",819.377579159
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",1590.67216229
+127,"rainfall_pop_weighted",4673,"Yucatán",2009,22,"All Ages",3,"Both",675.721471649
+127,"rainfall_pop_weighted",4674,"Zacatecas",2009,22,"All Ages",3,"Both",400.407539366
+127,"rainfall_pop_weighted",130,"Mexico",2010,22,"All Ages",3,"Both",985.836345967
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",462.928527237
+127,"rainfall_pop_weighted",4644,"Baja California",2010,22,"All Ages",3,"Both",387.332059282
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",89.9515756959
+127,"rainfall_pop_weighted",4646,"Campeche",2010,22,"All Ages",3,"Both",1455.53280046
+127,"rainfall_pop_weighted",4647,"Coahuila",2010,22,"All Ages",3,"Both",370.00234234
+127,"rainfall_pop_weighted",4648,"Colima",2010,22,"All Ages",3,"Both",1029.21119211
+127,"rainfall_pop_weighted",4649,"Chiapas",2010,22,"All Ages",3,"Both",2173.18574454
+127,"rainfall_pop_weighted",4650,"Chihuahua",2010,22,"All Ages",3,"Both",337.918267003
+127,"rainfall_pop_weighted",4651,"Mexico City",2010,22,"All Ages",3,"Both",1018.19433111
+127,"rainfall_pop_weighted",4652,"Durango",2010,22,"All Ages",3,"Both",574.45010803
+127,"rainfall_pop_weighted",4653,"Guanajuato",2010,22,"All Ages",3,"Both",620.782832824
+127,"rainfall_pop_weighted",4654,"Guerrero",2010,22,"All Ages",3,"Both",1209.84692195
+127,"rainfall_pop_weighted",4655,"Hidalgo",2010,22,"All Ages",3,"Both",1043.70281784
+127,"rainfall_pop_weighted",4656,"Jalisco",2010,22,"All Ages",3,"Both",849.525523121
+127,"rainfall_pop_weighted",4657,"México",2010,22,"All Ages",3,"Both",922.33303755
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",917.657845525
+127,"rainfall_pop_weighted",4659,"Morelos",2010,22,"All Ages",3,"Both",1005.76826311
+127,"rainfall_pop_weighted",4660,"Nayarit",2010,22,"All Ages",3,"Both",1137.91904738
+127,"rainfall_pop_weighted",4661,"Nuevo León",2010,22,"All Ages",3,"Both",756.24377688
+127,"rainfall_pop_weighted",4662,"Oaxaca",2010,22,"All Ages",3,"Both",1553.67688277
+127,"rainfall_pop_weighted",4663,"Puebla",2010,22,"All Ages",3,"Both",1063.70212377
+127,"rainfall_pop_weighted",4664,"Querétaro",2010,22,"All Ages",3,"Both",658.275707589
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",1404.74012635
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",766.20044452
+127,"rainfall_pop_weighted",4667,"Sinaloa",2010,22,"All Ages",3,"Both",464.250972895
+127,"rainfall_pop_weighted",4668,"Sonora",2010,22,"All Ages",3,"Both",294.784627715
+127,"rainfall_pop_weighted",4669,"Tabasco",2010,22,"All Ages",3,"Both",2253.50006141
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",893.338533273
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",895.984124962
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",1666.76384629
+127,"rainfall_pop_weighted",4673,"Yucatán",2010,22,"All Ages",3,"Both",1103.73265396
+127,"rainfall_pop_weighted",4674,"Zacatecas",2010,22,"All Ages",3,"Both",451.154079828
+127,"rainfall_pop_weighted",130,"Mexico",2011,22,"All Ages",3,"Both",876.094488885
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",344.902494312
+127,"rainfall_pop_weighted",4644,"Baja California",2011,22,"All Ages",3,"Both",229.802503888
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",106.419003045
+127,"rainfall_pop_weighted",4646,"Campeche",2011,22,"All Ages",3,"Both",1320.67132898
+127,"rainfall_pop_weighted",4647,"Coahuila",2011,22,"All Ages",3,"Both",163.615920368
+127,"rainfall_pop_weighted",4648,"Colima",2011,22,"All Ages",3,"Both",992.21616608
+127,"rainfall_pop_weighted",4649,"Chiapas",2011,22,"All Ages",3,"Both",1954.47072769
+127,"rainfall_pop_weighted",4650,"Chihuahua",2011,22,"All Ages",3,"Both",215.876495076
+127,"rainfall_pop_weighted",4651,"Mexico City",2011,22,"All Ages",3,"Both",963.993737536
+127,"rainfall_pop_weighted",4652,"Durango",2011,22,"All Ages",3,"Both",416.756718842
+127,"rainfall_pop_weighted",4653,"Guanajuato",2011,22,"All Ages",3,"Both",523.679044853
+127,"rainfall_pop_weighted",4654,"Guerrero",2011,22,"All Ages",3,"Both",1188.01338376
+127,"rainfall_pop_weighted",4655,"Hidalgo",2011,22,"All Ages",3,"Both",983.659451122
+127,"rainfall_pop_weighted",4656,"Jalisco",2011,22,"All Ages",3,"Both",757.46745687
+127,"rainfall_pop_weighted",4657,"México",2011,22,"All Ages",3,"Both",881.897731124
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",861.552966933
+127,"rainfall_pop_weighted",4659,"Morelos",2011,22,"All Ages",3,"Both",960.477461469
+127,"rainfall_pop_weighted",4660,"Nayarit",2011,22,"All Ages",3,"Both",1142.00799429
+127,"rainfall_pop_weighted",4661,"Nuevo León",2011,22,"All Ages",3,"Both",324.027395092
+127,"rainfall_pop_weighted",4662,"Oaxaca",2011,22,"All Ages",3,"Both",1290.28479174
+127,"rainfall_pop_weighted",4663,"Puebla",2011,22,"All Ages",3,"Both",995.448544205
+127,"rainfall_pop_weighted",4664,"Querétaro",2011,22,"All Ages",3,"Both",594.554707438
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",1346.70341357
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",608.488578363
+127,"rainfall_pop_weighted",4667,"Sinaloa",2011,22,"All Ages",3,"Both",543.113408549
+127,"rainfall_pop_weighted",4668,"Sonora",2011,22,"All Ages",3,"Both",310.845561827
+127,"rainfall_pop_weighted",4669,"Tabasco",2011,22,"All Ages",3,"Both",2308.01908359
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",589.571796914
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",851.551740471
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",1510.69790229
+127,"rainfall_pop_weighted",4673,"Yucatán",2011,22,"All Ages",3,"Both",941.026505116
+127,"rainfall_pop_weighted",4674,"Zacatecas",2011,22,"All Ages",3,"Both",303.353842371
+127,"rainfall_pop_weighted",130,"Mexico",2012,22,"All Ages",3,"Both",920.396278692
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",397.631589352
+127,"rainfall_pop_weighted",4644,"Baja California",2012,22,"All Ages",3,"Both",190.713090083
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",478.641831746
+127,"rainfall_pop_weighted",4646,"Campeche",2012,22,"All Ages",3,"Both",1290.06293827
+127,"rainfall_pop_weighted",4647,"Coahuila",2012,22,"All Ages",3,"Both",236.138626372
+127,"rainfall_pop_weighted",4648,"Colima",2012,22,"All Ages",3,"Both",831.699415937
+127,"rainfall_pop_weighted",4649,"Chiapas",2012,22,"All Ages",3,"Both",1517.19059675
+127,"rainfall_pop_weighted",4650,"Chihuahua",2012,22,"All Ages",3,"Both",277.143444282
+127,"rainfall_pop_weighted",4651,"Mexico City",2012,22,"All Ages",3,"Both",1039.47604771
+127,"rainfall_pop_weighted",4652,"Durango",2012,22,"All Ages",3,"Both",372.692978555
+127,"rainfall_pop_weighted",4653,"Guanajuato",2012,22,"All Ages",3,"Both",543.728637594
+127,"rainfall_pop_weighted",4654,"Guerrero",2012,22,"All Ages",3,"Both",1143.9085944
+127,"rainfall_pop_weighted",4655,"Hidalgo",2012,22,"All Ages",3,"Both",1111.51212803
+127,"rainfall_pop_weighted",4656,"Jalisco",2012,22,"All Ages",3,"Both",716.309549186
+127,"rainfall_pop_weighted",4657,"México",2012,22,"All Ages",3,"Both",946.452105212
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",827.039591317
+127,"rainfall_pop_weighted",4659,"Morelos",2012,22,"All Ages",3,"Both",1037.13490599
+127,"rainfall_pop_weighted",4660,"Nayarit",2012,22,"All Ages",3,"Both",872.754756658
+127,"rainfall_pop_weighted",4661,"Nuevo León",2012,22,"All Ages",3,"Both",456.17653467
+127,"rainfall_pop_weighted",4662,"Oaxaca",2012,22,"All Ages",3,"Both",1351.73231988
+127,"rainfall_pop_weighted",4663,"Puebla",2012,22,"All Ages",3,"Both",1187.7580993
+127,"rainfall_pop_weighted",4664,"Querétaro",2012,22,"All Ages",3,"Both",608.11427986
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",1471.11664203
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",649.991926962
+127,"rainfall_pop_weighted",4667,"Sinaloa",2012,22,"All Ages",3,"Both",631.68893042
+127,"rainfall_pop_weighted",4668,"Sonora",2012,22,"All Ages",3,"Both",319.270951752
+127,"rainfall_pop_weighted",4669,"Tabasco",2012,22,"All Ages",3,"Both",2249.72919156
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",645.247412989
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",978.344211208
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",1845.27811177
+127,"rainfall_pop_weighted",4673,"Yucatán",2012,22,"All Ages",3,"Both",997.382148684
+127,"rainfall_pop_weighted",4674,"Zacatecas",2012,22,"All Ages",3,"Both",326.873105171
+127,"rainfall_pop_weighted",130,"Mexico",2013,22,"All Ages",3,"Both",1115.8406907
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",600.853413521
+127,"rainfall_pop_weighted",4644,"Baja California",2013,22,"All Ages",3,"Both",140.574845973
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",353.111199744
+127,"rainfall_pop_weighted",4646,"Campeche",2013,22,"All Ages",3,"Both",1779.35073342
+127,"rainfall_pop_weighted",4647,"Coahuila",2013,22,"All Ages",3,"Both",386.086674997
+127,"rainfall_pop_weighted",4648,"Colima",2013,22,"All Ages",3,"Both",1205.45225835
+127,"rainfall_pop_weighted",4649,"Chiapas",2013,22,"All Ages",3,"Both",2279.50342556
+127,"rainfall_pop_weighted",4650,"Chihuahua",2013,22,"All Ages",3,"Both",423.383813933
+127,"rainfall_pop_weighted",4651,"Mexico City",2013,22,"All Ages",3,"Both",1122.21100795
+127,"rainfall_pop_weighted",4652,"Durango",2013,22,"All Ages",3,"Both",582.292178987
+127,"rainfall_pop_weighted",4653,"Guanajuato",2013,22,"All Ages",3,"Both",729.026346605
+127,"rainfall_pop_weighted",4654,"Guerrero",2013,22,"All Ages",3,"Both",1364.57383678
+127,"rainfall_pop_weighted",4655,"Hidalgo",2013,22,"All Ages",3,"Both",1273.57521055
+127,"rainfall_pop_weighted",4656,"Jalisco",2013,22,"All Ages",3,"Both",976.797792368
+127,"rainfall_pop_weighted",4657,"México",2013,22,"All Ages",3,"Both",1030.4173952
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",1058.38516464
+127,"rainfall_pop_weighted",4659,"Morelos",2013,22,"All Ages",3,"Both",1140.05397822
+127,"rainfall_pop_weighted",4660,"Nayarit",2013,22,"All Ages",3,"Both",1311.79326668
+127,"rainfall_pop_weighted",4661,"Nuevo León",2013,22,"All Ages",3,"Both",795.466464888
+127,"rainfall_pop_weighted",4662,"Oaxaca",2013,22,"All Ages",3,"Both",1394.3297907
+127,"rainfall_pop_weighted",4663,"Puebla",2013,22,"All Ages",3,"Both",1259.9738698
+127,"rainfall_pop_weighted",4664,"Querétaro",2013,22,"All Ages",3,"Both",739.728270817
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",1719.92214242
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",947.584310227
+127,"rainfall_pop_weighted",4667,"Sinaloa",2013,22,"All Ages",3,"Both",666.58362531
+127,"rainfall_pop_weighted",4668,"Sonora",2013,22,"All Ages",3,"Both",355.567744242
+127,"rainfall_pop_weighted",4669,"Tabasco",2013,22,"All Ages",3,"Both",3052.2331994
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",1009.19511028
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",1024.84030154
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",1976.64799356
+127,"rainfall_pop_weighted",4673,"Yucatán",2013,22,"All Ages",3,"Both",1259.51033418
+127,"rainfall_pop_weighted",4674,"Zacatecas",2013,22,"All Ages",3,"Both",539.09001879
+127,"rainfall_pop_weighted",130,"Mexico",2014,22,"All Ages",3,"Both",1079.77783365
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",520.276548974
+127,"rainfall_pop_weighted",4644,"Baja California",2014,22,"All Ages",3,"Both",208.33669712
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",540.74526703
+127,"rainfall_pop_weighted",4646,"Campeche",2014,22,"All Ages",3,"Both",1435.26913886
+127,"rainfall_pop_weighted",4647,"Coahuila",2014,22,"All Ages",3,"Both",357.364887896
+127,"rainfall_pop_weighted",4648,"Colima",2014,22,"All Ages",3,"Both",1169.21661113
+127,"rainfall_pop_weighted",4649,"Chiapas",2014,22,"All Ages",3,"Both",1790.1687183
+127,"rainfall_pop_weighted",4650,"Chihuahua",2014,22,"All Ages",3,"Both",397.170551253
+127,"rainfall_pop_weighted",4651,"Mexico City",2014,22,"All Ages",3,"Both",1219.01747823
+127,"rainfall_pop_weighted",4652,"Durango",2014,22,"All Ages",3,"Both",734.298142146
+127,"rainfall_pop_weighted",4653,"Guanajuato",2014,22,"All Ages",3,"Both",722.106454515
+127,"rainfall_pop_weighted",4654,"Guerrero",2014,22,"All Ages",3,"Both",1282.27302225
+127,"rainfall_pop_weighted",4655,"Hidalgo",2014,22,"All Ages",3,"Both",1249.89774019
+127,"rainfall_pop_weighted",4656,"Jalisco",2014,22,"All Ages",3,"Both",966.978560902
+127,"rainfall_pop_weighted",4657,"México",2014,22,"All Ages",3,"Both",1115.10429205
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",1097.56955215
+127,"rainfall_pop_weighted",4659,"Morelos",2014,22,"All Ages",3,"Both",1162.2094453
+127,"rainfall_pop_weighted",4660,"Nayarit",2014,22,"All Ages",3,"Both",1409.61477324
+127,"rainfall_pop_weighted",4661,"Nuevo León",2014,22,"All Ages",3,"Both",722.021673144
+127,"rainfall_pop_weighted",4662,"Oaxaca",2014,22,"All Ages",3,"Both",1341.4732772
+127,"rainfall_pop_weighted",4663,"Puebla",2014,22,"All Ages",3,"Both",1284.99700809
+127,"rainfall_pop_weighted",4664,"Querétaro",2014,22,"All Ages",3,"Both",784.498280463
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",1628.7477958
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",811.010944699
+127,"rainfall_pop_weighted",4667,"Sinaloa",2014,22,"All Ages",3,"Both",962.949715782
+127,"rainfall_pop_weighted",4668,"Sonora",2014,22,"All Ages",3,"Both",377.111703903
+127,"rainfall_pop_weighted",4669,"Tabasco",2014,22,"All Ages",3,"Both",2263.78480123
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",817.014891547
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",1096.94665966
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",1836.97045865
+127,"rainfall_pop_weighted",4673,"Yucatán",2014,22,"All Ages",3,"Both",1152.32081601
+127,"rainfall_pop_weighted",4674,"Zacatecas",2014,22,"All Ages",3,"Both",528.606825077
+127,"rainfall_pop_weighted",130,"Mexico",2015,22,"All Ages",3,"Both",905.740204115
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",601.251851601
+127,"rainfall_pop_weighted",4644,"Baja California",2015,22,"All Ages",3,"Both",137.784236647
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",268.310309811
+127,"rainfall_pop_weighted",4646,"Campeche",2015,22,"All Ages",3,"Both",1198.9362735
+127,"rainfall_pop_weighted",4647,"Coahuila",2015,22,"All Ages",3,"Both",348.649841531
+127,"rainfall_pop_weighted",4648,"Colima",2015,22,"All Ages",3,"Both",918.983763474
+127,"rainfall_pop_weighted",4649,"Chiapas",2015,22,"All Ages",3,"Both",1577.24066687
+127,"rainfall_pop_weighted",4650,"Chihuahua",2015,22,"All Ages",3,"Both",446.933932671
+127,"rainfall_pop_weighted",4651,"Mexico City",2015,22,"All Ages",3,"Both",961.719808568
+127,"rainfall_pop_weighted",4652,"Durango",2015,22,"All Ages",3,"Both",506.580064386
+127,"rainfall_pop_weighted",4653,"Guanajuato",2015,22,"All Ages",3,"Both",710.873472898
+127,"rainfall_pop_weighted",4654,"Guerrero",2015,22,"All Ages",3,"Both",990.503872989
+127,"rainfall_pop_weighted",4655,"Hidalgo",2015,22,"All Ages",3,"Both",1017.95948544
+127,"rainfall_pop_weighted",4656,"Jalisco",2015,22,"All Ages",3,"Both",901.728509806
+127,"rainfall_pop_weighted",4657,"México",2015,22,"All Ages",3,"Both",897.176637981
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",919.982137842
+127,"rainfall_pop_weighted",4659,"Morelos",2015,22,"All Ages",3,"Both",910.858425006
+127,"rainfall_pop_weighted",4660,"Nayarit",2015,22,"All Ages",3,"Both",1013.35543262
+127,"rainfall_pop_weighted",4661,"Nuevo León",2015,22,"All Ages",3,"Both",647.149178361
+127,"rainfall_pop_weighted",4662,"Oaxaca",2015,22,"All Ages",3,"Both",1048.14716123
+127,"rainfall_pop_weighted",4663,"Puebla",2015,22,"All Ages",3,"Both",978.971319053
+127,"rainfall_pop_weighted",4664,"Querétaro",2015,22,"All Ages",3,"Both",676.546195177
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",1237.11740718
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",755.648474832
+127,"rainfall_pop_weighted",4667,"Sinaloa",2015,22,"All Ages",3,"Both",617.320204319
+127,"rainfall_pop_weighted",4668,"Sonora",2015,22,"All Ages",3,"Both",420.63312595
+127,"rainfall_pop_weighted",4669,"Tabasco",2015,22,"All Ages",3,"Both",2378.67334365
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",755.180270477
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",817.632985862
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",1501.36953296
+127,"rainfall_pop_weighted",4673,"Yucatán",2015,22,"All Ages",3,"Both",799.587445759
+127,"rainfall_pop_weighted",4674,"Zacatecas",2015,22,"All Ages",3,"Both",517.489074777
+127,"rainfall_pop_weighted",130,"Mexico",2016,22,"All Ages",3,"Both",960.966333251
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",529.035175286
+127,"rainfall_pop_weighted",4644,"Baja California",2016,22,"All Ages",3,"Both",225.73230341
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",297.881282598
+127,"rainfall_pop_weighted",4646,"Campeche",2016,22,"All Ages",3,"Both",1214.15781981
+127,"rainfall_pop_weighted",4647,"Coahuila",2016,22,"All Ages",3,"Both",429.14198446
+127,"rainfall_pop_weighted",4648,"Colima",2016,22,"All Ages",3,"Both",1062.52863197
+127,"rainfall_pop_weighted",4649,"Chiapas",2016,22,"All Ages",3,"Both",1672.88932983
+127,"rainfall_pop_weighted",4650,"Chihuahua",2016,22,"All Ages",3,"Both",393.452756333
+127,"rainfall_pop_weighted",4651,"Mexico City",2016,22,"All Ages",3,"Both",1034.09895142
+127,"rainfall_pop_weighted",4652,"Durango",2016,22,"All Ages",3,"Both",624.725073974
+127,"rainfall_pop_weighted",4653,"Guanajuato",2016,22,"All Ages",3,"Both",660.475717172
+127,"rainfall_pop_weighted",4654,"Guerrero",2016,22,"All Ages",3,"Both",1192.04011069
+127,"rainfall_pop_weighted",4655,"Hidalgo",2016,22,"All Ages",3,"Both",1078.52543212
+127,"rainfall_pop_weighted",4656,"Jalisco",2016,22,"All Ages",3,"Both",939.025797691
+127,"rainfall_pop_weighted",4657,"México",2016,22,"All Ages",3,"Both",952.615940356
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",960.38993905
+127,"rainfall_pop_weighted",4659,"Morelos",2016,22,"All Ages",3,"Both",1015.21150219
+127,"rainfall_pop_weighted",4660,"Nayarit",2016,22,"All Ages",3,"Both",1321.61250106
+127,"rainfall_pop_weighted",4661,"Nuevo León",2016,22,"All Ages",3,"Both",749.915284949
+127,"rainfall_pop_weighted",4662,"Oaxaca",2016,22,"All Ages",3,"Both",1141.03436852
+127,"rainfall_pop_weighted",4663,"Puebla",2016,22,"All Ages",3,"Both",1071.72461189
+127,"rainfall_pop_weighted",4664,"Querétaro",2016,22,"All Ages",3,"Both",688.730488136
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",1228.71299483
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",755.346013546
+127,"rainfall_pop_weighted",4667,"Sinaloa",2016,22,"All Ages",3,"Both",675.59339628
+127,"rainfall_pop_weighted",4668,"Sonora",2016,22,"All Ages",3,"Both",354.76827091
+127,"rainfall_pop_weighted",4669,"Tabasco",2016,22,"All Ages",3,"Both",2200.97683909
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",794.155737463
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",903.771081477
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",1629.2923745
+127,"rainfall_pop_weighted",4673,"Yucatán",2016,22,"All Ages",3,"Both",874.47236763
+127,"rainfall_pop_weighted",4674,"Zacatecas",2016,22,"All Ages",3,"Both",507.033567225
+127,"rainfall_pop_weighted",130,"Mexico",2017,22,"All Ages",3,"Both",1001.75436095
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",459.929310859
+127,"rainfall_pop_weighted",4644,"Baja California",2017,22,"All Ages",3,"Both",246.687382173
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",251.766997479
+127,"rainfall_pop_weighted",4646,"Campeche",2017,22,"All Ages",3,"Both",1263.44747577
+127,"rainfall_pop_weighted",4647,"Coahuila",2017,22,"All Ages",3,"Both",317.081041895
+127,"rainfall_pop_weighted",4648,"Colima",2017,22,"All Ages",3,"Both",1065.83643595
+127,"rainfall_pop_weighted",4649,"Chiapas",2017,22,"All Ages",3,"Both",1615.64173754
+127,"rainfall_pop_weighted",4650,"Chihuahua",2017,22,"All Ages",3,"Both",369.927159233
+127,"rainfall_pop_weighted",4651,"Mexico City",2017,22,"All Ages",3,"Both",1175.55178877
+127,"rainfall_pop_weighted",4652,"Durango",2017,22,"All Ages",3,"Both",523.628267393
+127,"rainfall_pop_weighted",4653,"Guanajuato",2017,22,"All Ages",3,"Both",634.155060705
+127,"rainfall_pop_weighted",4654,"Guerrero",2017,22,"All Ages",3,"Both",1358.54404197
+127,"rainfall_pop_weighted",4655,"Hidalgo",2017,22,"All Ages",3,"Both",1135.13286976
+127,"rainfall_pop_weighted",4656,"Jalisco",2017,22,"All Ages",3,"Both",860.745820567
+127,"rainfall_pop_weighted",4657,"México",2017,22,"All Ages",3,"Both",1052.58844384
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",955.889229288
+127,"rainfall_pop_weighted",4659,"Morelos",2017,22,"All Ages",3,"Both",1228.1330341
+127,"rainfall_pop_weighted",4660,"Nayarit",2017,22,"All Ages",3,"Both",1102.89224462
+127,"rainfall_pop_weighted",4661,"Nuevo León",2017,22,"All Ages",3,"Both",584.792230409
+127,"rainfall_pop_weighted",4662,"Oaxaca",2017,22,"All Ages",3,"Both",1462.49644742
+127,"rainfall_pop_weighted",4663,"Puebla",2017,22,"All Ages",3,"Both",1284.05144212
+127,"rainfall_pop_weighted",4664,"Querétaro",2017,22,"All Ages",3,"Both",689.515345005
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",1361.76423391
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",705.311556026
+127,"rainfall_pop_weighted",4667,"Sinaloa",2017,22,"All Ages",3,"Both",503.703116165
+127,"rainfall_pop_weighted",4668,"Sonora",2017,22,"All Ages",3,"Both",365.681838022
+127,"rainfall_pop_weighted",4669,"Tabasco",2017,22,"All Ages",3,"Both",2136.64234131
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",730.116090041
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",1094.30725773
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",1871.63112041
+127,"rainfall_pop_weighted",4673,"Yucatán",2017,22,"All Ages",3,"Both",997.929750055
+127,"rainfall_pop_weighted",4674,"Zacatecas",2017,22,"All Ages",3,"Both",429.909546685
+127,"rainfall_pop_weighted",130,"Mexico",2018,22,"All Ages",3,"Both",999.047652452
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",459.899327159
+127,"rainfall_pop_weighted",4644,"Baja California",2018,22,"All Ages",3,"Both",246.838291621
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",253.381708011
+127,"rainfall_pop_weighted",4646,"Campeche",2018,22,"All Ages",3,"Both",1263.75378037
+127,"rainfall_pop_weighted",4647,"Coahuila",2018,22,"All Ages",3,"Both",317.051504451
+127,"rainfall_pop_weighted",4648,"Colima",2018,22,"All Ages",3,"Both",1065.78635738
+127,"rainfall_pop_weighted",4649,"Chiapas",2018,22,"All Ages",3,"Both",1616.00804769
+127,"rainfall_pop_weighted",4650,"Chihuahua",2018,22,"All Ages",3,"Both",370.483909917
+127,"rainfall_pop_weighted",4651,"Mexico City",2018,22,"All Ages",3,"Both",1175.85634132
+127,"rainfall_pop_weighted",4652,"Durango",2018,22,"All Ages",3,"Both",523.45328022
+127,"rainfall_pop_weighted",4653,"Guanajuato",2018,22,"All Ages",3,"Both",634.036040551
+127,"rainfall_pop_weighted",4654,"Guerrero",2018,22,"All Ages",3,"Both",1358.72498503
+127,"rainfall_pop_weighted",4655,"Hidalgo",2018,22,"All Ages",3,"Both",1131.49468846
+127,"rainfall_pop_weighted",4656,"Jalisco",2018,22,"All Ages",3,"Both",860.65552888
+127,"rainfall_pop_weighted",4657,"México",2018,22,"All Ages",3,"Both",1051.82466489
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",955.893249222
+127,"rainfall_pop_weighted",4659,"Morelos",2018,22,"All Ages",3,"Both",1228.04174799
+127,"rainfall_pop_weighted",4660,"Nayarit",2018,22,"All Ages",3,"Both",1102.85383762
+127,"rainfall_pop_weighted",4661,"Nuevo León",2018,22,"All Ages",3,"Both",584.481106815
+127,"rainfall_pop_weighted",4662,"Oaxaca",2018,22,"All Ages",3,"Both",1459.57139294
+127,"rainfall_pop_weighted",4663,"Puebla",2018,22,"All Ages",3,"Both",1283.47040606
+127,"rainfall_pop_weighted",4664,"Querétaro",2018,22,"All Ages",3,"Both",689.363493513
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",1361.77676617
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",703.431457979
+127,"rainfall_pop_weighted",4667,"Sinaloa",2018,22,"All Ages",3,"Both",503.811387256
+127,"rainfall_pop_weighted",4668,"Sonora",2018,22,"All Ages",3,"Both",365.231766162
+127,"rainfall_pop_weighted",4669,"Tabasco",2018,22,"All Ages",3,"Both",2136.82270354
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",729.685602388
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",1094.25775373
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",1871.71091885
+127,"rainfall_pop_weighted",4673,"Yucatán",2018,22,"All Ages",3,"Both",997.775224007
+127,"rainfall_pop_weighted",4674,"Zacatecas",2018,22,"All Ages",3,"Both",429.638840471
+127,"rainfall_pop_weighted",130,"Mexico",2019,22,"All Ages",3,"Both",995.538352803
+127,"rainfall_pop_weighted",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",459.869003544
+127,"rainfall_pop_weighted",4644,"Baja California",2019,22,"All Ages",3,"Both",246.989829421
+127,"rainfall_pop_weighted",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",254.992246635
+127,"rainfall_pop_weighted",4646,"Campeche",2019,22,"All Ages",3,"Both",1264.06166486
+127,"rainfall_pop_weighted",4647,"Coahuila",2019,22,"All Ages",3,"Both",317.0227129
+127,"rainfall_pop_weighted",4648,"Colima",2019,22,"All Ages",3,"Both",1065.73803379
+127,"rainfall_pop_weighted",4649,"Chiapas",2019,22,"All Ages",3,"Both",1616.37356827
+127,"rainfall_pop_weighted",4650,"Chihuahua",2019,22,"All Ages",3,"Both",371.04116928
+127,"rainfall_pop_weighted",4651,"Mexico City",2019,22,"All Ages",3,"Both",1176.16220553
+127,"rainfall_pop_weighted",4652,"Durango",2019,22,"All Ages",3,"Both",523.282467101
+127,"rainfall_pop_weighted",4653,"Guanajuato",2019,22,"All Ages",3,"Both",633.917719403
+127,"rainfall_pop_weighted",4654,"Guerrero",2019,22,"All Ages",3,"Both",1358.89877962
+127,"rainfall_pop_weighted",4655,"Hidalgo",2019,22,"All Ages",3,"Both",1127.73358855
+127,"rainfall_pop_weighted",4656,"Jalisco",2019,22,"All Ages",3,"Both",860.535481927
+127,"rainfall_pop_weighted",4657,"México",2019,22,"All Ages",3,"Both",1051.0060699
+127,"rainfall_pop_weighted",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",955.880035202
+127,"rainfall_pop_weighted",4659,"Morelos",2019,22,"All Ages",3,"Both",1227.95023876
+127,"rainfall_pop_weighted",4660,"Nayarit",2019,22,"All Ages",3,"Both",1102.80419322
+127,"rainfall_pop_weighted",4661,"Nuevo León",2019,22,"All Ages",3,"Both",584.65908816
+127,"rainfall_pop_weighted",4662,"Oaxaca",2019,22,"All Ages",3,"Both",1456.59351221
+127,"rainfall_pop_weighted",4663,"Puebla",2019,22,"All Ages",3,"Both",1282.87951056
+127,"rainfall_pop_weighted",4664,"Querétaro",2019,22,"All Ages",3,"Both",689.206529634
+127,"rainfall_pop_weighted",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",1361.78651624
+127,"rainfall_pop_weighted",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",701.547282497
+127,"rainfall_pop_weighted",4667,"Sinaloa",2019,22,"All Ages",3,"Both",503.920643839
+127,"rainfall_pop_weighted",4668,"Sonora",2019,22,"All Ages",3,"Both",364.781062241
+127,"rainfall_pop_weighted",4669,"Tabasco",2019,22,"All Ages",3,"Both",2136.99674764
+127,"rainfall_pop_weighted",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",729.314278506
+127,"rainfall_pop_weighted",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",1094.2096021
+127,"rainfall_pop_weighted",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",1871.76827903
+127,"rainfall_pop_weighted",4673,"Yucatán",2019,22,"All Ages",3,"Both",997.609183568
+127,"rainfall_pop_weighted",4674,"Zacatecas",2019,22,"All Ages",3,"Both",429.36861022

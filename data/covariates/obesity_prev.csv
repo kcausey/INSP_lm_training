@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+455,"prev_obesity_agestd",130,"Mexico",1990,27,"Age-standardized",1,"Male",0.0581454180640375
+455,"prev_obesity_agestd",130,"Mexico",1990,27,"Age-standardized",2,"Female",0.0965479109960375
+455,"prev_obesity_agestd",4643,"Aguascalientes",1990,27,"Age-standardized",1,"Male",0.119466023193
+455,"prev_obesity_agestd",4643,"Aguascalientes",1990,27,"Age-standardized",2,"Female",0.170884442963
+455,"prev_obesity_agestd",4644,"Baja California",1990,27,"Age-standardized",1,"Male",0.144430851898
+455,"prev_obesity_agestd",4644,"Baja California",1990,27,"Age-standardized",2,"Female",0.195583541743
+455,"prev_obesity_agestd",4645,"Baja California Sur",1990,27,"Age-standardized",1,"Male",0.145505696847
+455,"prev_obesity_agestd",4645,"Baja California Sur",1990,27,"Age-standardized",2,"Female",0.188226554062
+455,"prev_obesity_agestd",4646,"Campeche",1990,27,"Age-standardized",1,"Male",0.12685365676
+455,"prev_obesity_agestd",4646,"Campeche",1990,27,"Age-standardized",2,"Female",0.179857638167
+455,"prev_obesity_agestd",4647,"Coahuila",1990,27,"Age-standardized",1,"Male",0.11398933733
+455,"prev_obesity_agestd",4647,"Coahuila",1990,27,"Age-standardized",2,"Female",0.177655808641
+455,"prev_obesity_agestd",4648,"Colima",1990,27,"Age-standardized",1,"Male",0.149682320838
+455,"prev_obesity_agestd",4648,"Colima",1990,27,"Age-standardized",2,"Female",0.172556818904
+455,"prev_obesity_agestd",4649,"Chiapas",1990,27,"Age-standardized",1,"Male",0.0480994470672
+455,"prev_obesity_agestd",4649,"Chiapas",1990,27,"Age-standardized",2,"Female",0.0783953188966
+455,"prev_obesity_agestd",4650,"Chihuahua",1990,27,"Age-standardized",1,"Male",0.12042188549
+455,"prev_obesity_agestd",4650,"Chihuahua",1990,27,"Age-standardized",2,"Female",0.169486653347
+455,"prev_obesity_agestd",4651,"Mexico City",1990,27,"Age-standardized",1,"Male",0.106564432369
+455,"prev_obesity_agestd",4651,"Mexico City",1990,27,"Age-standardized",2,"Female",0.149453800342
+455,"prev_obesity_agestd",4652,"Durango",1990,27,"Age-standardized",1,"Male",0.0948390132917
+455,"prev_obesity_agestd",4652,"Durango",1990,27,"Age-standardized",2,"Female",0.157358757178
+455,"prev_obesity_agestd",4653,"Guanajuato",1990,27,"Age-standardized",1,"Male",0.0818822383383
+455,"prev_obesity_agestd",4653,"Guanajuato",1990,27,"Age-standardized",2,"Female",0.13195302967
+455,"prev_obesity_agestd",4654,"Guerrero",1990,27,"Age-standardized",1,"Male",0.0938025636943
+455,"prev_obesity_agestd",4654,"Guerrero",1990,27,"Age-standardized",2,"Female",0.116272763437
+455,"prev_obesity_agestd",4655,"Hidalgo",1990,27,"Age-standardized",1,"Male",0.0766799231265
+455,"prev_obesity_agestd",4655,"Hidalgo",1990,27,"Age-standardized",2,"Female",0.118821105473
+455,"prev_obesity_agestd",4656,"Jalisco",1990,27,"Age-standardized",1,"Male",0.107216807573
+455,"prev_obesity_agestd",4656,"Jalisco",1990,27,"Age-standardized",2,"Female",0.149513116372
+455,"prev_obesity_agestd",4657,"México",1990,27,"Age-standardized",1,"Male",0.108515804098
+455,"prev_obesity_agestd",4657,"México",1990,27,"Age-standardized",2,"Female",0.15140979568
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",1,"Male",0.0813431226715
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",2,"Female",0.111766733454
+455,"prev_obesity_agestd",4659,"Morelos",1990,27,"Age-standardized",1,"Male",0.0966017353789
+455,"prev_obesity_agestd",4659,"Morelos",1990,27,"Age-standardized",2,"Female",0.136280854338
+455,"prev_obesity_agestd",4660,"Nayarit",1990,27,"Age-standardized",1,"Male",0.104112158011
+455,"prev_obesity_agestd",4660,"Nayarit",1990,27,"Age-standardized",2,"Female",0.154205318207
+455,"prev_obesity_agestd",4661,"Nuevo León",1990,27,"Age-standardized",1,"Male",0.144091992017
+455,"prev_obesity_agestd",4661,"Nuevo León",1990,27,"Age-standardized",2,"Female",0.176770873258
+455,"prev_obesity_agestd",4662,"Oaxaca",1990,27,"Age-standardized",1,"Male",0.0461752590102
+455,"prev_obesity_agestd",4662,"Oaxaca",1990,27,"Age-standardized",2,"Female",0.0864331678708
+455,"prev_obesity_agestd",4663,"Puebla",1990,27,"Age-standardized",1,"Male",0.0746510030892
+455,"prev_obesity_agestd",4663,"Puebla",1990,27,"Age-standardized",2,"Female",0.116309337025
+455,"prev_obesity_agestd",4664,"Querétaro",1990,27,"Age-standardized",1,"Male",0.0959424538066
+455,"prev_obesity_agestd",4664,"Querétaro",1990,27,"Age-standardized",2,"Female",0.140180737585
+455,"prev_obesity_agestd",4665,"Quintana Roo",1990,27,"Age-standardized",1,"Male",0.118063564257
+455,"prev_obesity_agestd",4665,"Quintana Roo",1990,27,"Age-standardized",2,"Female",0.170938302066
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1990,27,"Age-standardized",1,"Male",0.0793528947007
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1990,27,"Age-standardized",2,"Female",0.116843186356
+455,"prev_obesity_agestd",4667,"Sinaloa",1990,27,"Age-standardized",1,"Male",0.112039417314
+455,"prev_obesity_agestd",4667,"Sinaloa",1990,27,"Age-standardized",2,"Female",0.1536170365
+455,"prev_obesity_agestd",4668,"Sonora",1990,27,"Age-standardized",1,"Male",0.101647950969
+455,"prev_obesity_agestd",4668,"Sonora",1990,27,"Age-standardized",2,"Female",0.163858610573
+455,"prev_obesity_agestd",4669,"Tabasco",1990,27,"Age-standardized",1,"Male",0.124946383516
+455,"prev_obesity_agestd",4669,"Tabasco",1990,27,"Age-standardized",2,"Female",0.157881243864
+455,"prev_obesity_agestd",4670,"Tamaulipas",1990,27,"Age-standardized",1,"Male",0.143331172096
+455,"prev_obesity_agestd",4670,"Tamaulipas",1990,27,"Age-standardized",2,"Female",0.182360853647
+455,"prev_obesity_agestd",4671,"Tlaxcala",1990,27,"Age-standardized",1,"Male",0.0890221963311
+455,"prev_obesity_agestd",4671,"Tlaxcala",1990,27,"Age-standardized",2,"Female",0.134499688772
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",1,"Male",0.0715629052316
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",2,"Female",0.110616382808
+455,"prev_obesity_agestd",4673,"Yucatán",1990,27,"Age-standardized",1,"Male",0.114254280822
+455,"prev_obesity_agestd",4673,"Yucatán",1990,27,"Age-standardized",2,"Female",0.160422152123
+455,"prev_obesity_agestd",4674,"Zacatecas",1990,27,"Age-standardized",1,"Male",0.0958512670084
+455,"prev_obesity_agestd",4674,"Zacatecas",1990,27,"Age-standardized",2,"Female",0.147448777163
+455,"prev_obesity_agestd",130,"Mexico",1991,27,"Age-standardized",1,"Male",0.059603660775875
+455,"prev_obesity_agestd",130,"Mexico",1991,27,"Age-standardized",2,"Female",0.099096722468675
+455,"prev_obesity_agestd",4643,"Aguascalientes",1991,27,"Age-standardized",1,"Male",0.122936871509
+455,"prev_obesity_agestd",4643,"Aguascalientes",1991,27,"Age-standardized",2,"Female",0.179252783669
+455,"prev_obesity_agestd",4644,"Baja California",1991,27,"Age-standardized",1,"Male",0.147283393553
+455,"prev_obesity_agestd",4644,"Baja California",1991,27,"Age-standardized",2,"Female",0.203777465399
+455,"prev_obesity_agestd",4645,"Baja California Sur",1991,27,"Age-standardized",1,"Male",0.149783176967
+455,"prev_obesity_agestd",4645,"Baja California Sur",1991,27,"Age-standardized",2,"Female",0.19788106618
+455,"prev_obesity_agestd",4646,"Campeche",1991,27,"Age-standardized",1,"Male",0.130405191216
+455,"prev_obesity_agestd",4646,"Campeche",1991,27,"Age-standardized",2,"Female",0.189263099111
+455,"prev_obesity_agestd",4647,"Coahuila",1991,27,"Age-standardized",1,"Male",0.118975680507
+455,"prev_obesity_agestd",4647,"Coahuila",1991,27,"Age-standardized",2,"Female",0.189143889781
+455,"prev_obesity_agestd",4648,"Colima",1991,27,"Age-standardized",1,"Male",0.154542777257
+455,"prev_obesity_agestd",4648,"Colima",1991,27,"Age-standardized",2,"Female",0.182237610374
+455,"prev_obesity_agestd",4649,"Chiapas",1991,27,"Age-standardized",1,"Male",0.0507120340852
+455,"prev_obesity_agestd",4649,"Chiapas",1991,27,"Age-standardized",2,"Female",0.084648610152
+455,"prev_obesity_agestd",4650,"Chihuahua",1991,27,"Age-standardized",1,"Male",0.124411472348
+455,"prev_obesity_agestd",4650,"Chihuahua",1991,27,"Age-standardized",2,"Female",0.178446263804
+455,"prev_obesity_agestd",4651,"Mexico City",1991,27,"Age-standardized",1,"Male",0.11061672341
+455,"prev_obesity_agestd",4651,"Mexico City",1991,27,"Age-standardized",2,"Female",0.157358858618
+455,"prev_obesity_agestd",4652,"Durango",1991,27,"Age-standardized",1,"Male",0.0976294594961
+455,"prev_obesity_agestd",4652,"Durango",1991,27,"Age-standardized",2,"Female",0.165496784855
+455,"prev_obesity_agestd",4653,"Guanajuato",1991,27,"Age-standardized",1,"Male",0.0862814735129
+455,"prev_obesity_agestd",4653,"Guanajuato",1991,27,"Age-standardized",2,"Female",0.141376877569
+455,"prev_obesity_agestd",4654,"Guerrero",1991,27,"Age-standardized",1,"Male",0.0949959643827
+455,"prev_obesity_agestd",4654,"Guerrero",1991,27,"Age-standardized",2,"Female",0.121013011535
+455,"prev_obesity_agestd",4655,"Hidalgo",1991,27,"Age-standardized",1,"Male",0.0791768954086
+455,"prev_obesity_agestd",4655,"Hidalgo",1991,27,"Age-standardized",2,"Female",0.12566214689
+455,"prev_obesity_agestd",4656,"Jalisco",1991,27,"Age-standardized",1,"Male",0.111662668024
+455,"prev_obesity_agestd",4656,"Jalisco",1991,27,"Age-standardized",2,"Female",0.158722373011
+455,"prev_obesity_agestd",4657,"México",1991,27,"Age-standardized",1,"Male",0.109792177192
+455,"prev_obesity_agestd",4657,"México",1991,27,"Age-standardized",2,"Female",0.156336658183
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",1,"Male",0.085125682644
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",2,"Female",0.119590785544
+455,"prev_obesity_agestd",4659,"Morelos",1991,27,"Age-standardized",1,"Male",0.100721191564
+455,"prev_obesity_agestd",4659,"Morelos",1991,27,"Age-standardized",2,"Female",0.144831312745
+455,"prev_obesity_agestd",4660,"Nayarit",1991,27,"Age-standardized",1,"Male",0.107810709762
+455,"prev_obesity_agestd",4660,"Nayarit",1991,27,"Age-standardized",2,"Female",0.163162833292
+455,"prev_obesity_agestd",4661,"Nuevo León",1991,27,"Age-standardized",1,"Male",0.148440798258
+455,"prev_obesity_agestd",4661,"Nuevo León",1991,27,"Age-standardized",2,"Female",0.185595708117
+455,"prev_obesity_agestd",4662,"Oaxaca",1991,27,"Age-standardized",1,"Male",0.0480807911049
+455,"prev_obesity_agestd",4662,"Oaxaca",1991,27,"Age-standardized",2,"Female",0.0919704250298
+455,"prev_obesity_agestd",4663,"Puebla",1991,27,"Age-standardized",1,"Male",0.0776916582016
+455,"prev_obesity_agestd",4663,"Puebla",1991,27,"Age-standardized",2,"Female",0.123879894934
+455,"prev_obesity_agestd",4664,"Querétaro",1991,27,"Age-standardized",1,"Male",0.099261746175
+455,"prev_obesity_agestd",4664,"Querétaro",1991,27,"Age-standardized",2,"Female",0.14836588887
+455,"prev_obesity_agestd",4665,"Quintana Roo",1991,27,"Age-standardized",1,"Male",0.121632574579
+455,"prev_obesity_agestd",4665,"Quintana Roo",1991,27,"Age-standardized",2,"Female",0.180258792093
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1991,27,"Age-standardized",1,"Male",0.0831558584806
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1991,27,"Age-standardized",2,"Female",0.12494887157
+455,"prev_obesity_agestd",4667,"Sinaloa",1991,27,"Age-standardized",1,"Male",0.115222637428
+455,"prev_obesity_agestd",4667,"Sinaloa",1991,27,"Age-standardized",2,"Female",0.161287239251
+455,"prev_obesity_agestd",4668,"Sonora",1991,27,"Age-standardized",1,"Male",0.104974590249
+455,"prev_obesity_agestd",4668,"Sonora",1991,27,"Age-standardized",2,"Female",0.172484874447
+455,"prev_obesity_agestd",4669,"Tabasco",1991,27,"Age-standardized",1,"Male",0.1281822309
+455,"prev_obesity_agestd",4669,"Tabasco",1991,27,"Age-standardized",2,"Female",0.166175433985
+455,"prev_obesity_agestd",4670,"Tamaulipas",1991,27,"Age-standardized",1,"Male",0.14773721509
+455,"prev_obesity_agestd",4670,"Tamaulipas",1991,27,"Age-standardized",2,"Female",0.192599515019
+455,"prev_obesity_agestd",4671,"Tlaxcala",1991,27,"Age-standardized",1,"Male",0.0915317134321
+455,"prev_obesity_agestd",4671,"Tlaxcala",1991,27,"Age-standardized",2,"Female",0.141433680788
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",1,"Male",0.0741455408573
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",2,"Female",0.117344502363
+455,"prev_obesity_agestd",4673,"Yucatán",1991,27,"Age-standardized",1,"Male",0.118161910682
+455,"prev_obesity_agestd",4673,"Yucatán",1991,27,"Age-standardized",2,"Female",0.169429353272
+455,"prev_obesity_agestd",4674,"Zacatecas",1991,27,"Age-standardized",1,"Male",0.099870037919
+455,"prev_obesity_agestd",4674,"Zacatecas",1991,27,"Age-standardized",2,"Female",0.156900184665
+455,"prev_obesity_agestd",130,"Mexico",1992,27,"Age-standardized",1,"Male",0.0614929672314
+455,"prev_obesity_agestd",130,"Mexico",1992,27,"Age-standardized",2,"Female",0.102224782026875
+455,"prev_obesity_agestd",4643,"Aguascalientes",1992,27,"Age-standardized",1,"Male",0.126291696982
+455,"prev_obesity_agestd",4643,"Aguascalientes",1992,27,"Age-standardized",2,"Female",0.187546980873
+455,"prev_obesity_agestd",4644,"Baja California",1992,27,"Age-standardized",1,"Male",0.150011149326
+455,"prev_obesity_agestd",4644,"Baja California",1992,27,"Age-standardized",2,"Female",0.21188925138
+455,"prev_obesity_agestd",4645,"Baja California Sur",1992,27,"Age-standardized",1,"Male",0.153339663276
+455,"prev_obesity_agestd",4645,"Baja California Sur",1992,27,"Age-standardized",2,"Female",0.206606350083
+455,"prev_obesity_agestd",4646,"Campeche",1992,27,"Age-standardized",1,"Male",0.133990352773
+455,"prev_obesity_agestd",4646,"Campeche",1992,27,"Age-standardized",2,"Female",0.198622397764
+455,"prev_obesity_agestd",4647,"Coahuila",1992,27,"Age-standardized",1,"Male",0.123789689056
+455,"prev_obesity_agestd",4647,"Coahuila",1992,27,"Age-standardized",2,"Female",0.200584884978
+455,"prev_obesity_agestd",4648,"Colima",1992,27,"Age-standardized",1,"Male",0.159146266169
+455,"prev_obesity_agestd",4648,"Colima",1992,27,"Age-standardized",2,"Female",0.191575978483
+455,"prev_obesity_agestd",4649,"Chiapas",1992,27,"Age-standardized",1,"Male",0.0544668373803
+455,"prev_obesity_agestd",4649,"Chiapas",1992,27,"Age-standardized",2,"Female",0.0929889654169
+455,"prev_obesity_agestd",4650,"Chihuahua",1992,27,"Age-standardized",1,"Male",0.128116849578
+455,"prev_obesity_agestd",4650,"Chihuahua",1992,27,"Age-standardized",2,"Female",0.187122797518
+455,"prev_obesity_agestd",4651,"Mexico City",1992,27,"Age-standardized",1,"Male",0.113066071661
+455,"prev_obesity_agestd",4651,"Mexico City",1992,27,"Age-standardized",2,"Female",0.163561283282
+455,"prev_obesity_agestd",4652,"Durango",1992,27,"Age-standardized",1,"Male",0.10045617571
+455,"prev_obesity_agestd",4652,"Durango",1992,27,"Age-standardized",2,"Female",0.173572115773
+455,"prev_obesity_agestd",4653,"Guanajuato",1992,27,"Age-standardized",1,"Male",0.09063241958
+455,"prev_obesity_agestd",4653,"Guanajuato",1992,27,"Age-standardized",2,"Female",0.150704695409
+455,"prev_obesity_agestd",4654,"Guerrero",1992,27,"Age-standardized",1,"Male",0.0958188864906
+455,"prev_obesity_agestd",4654,"Guerrero",1992,27,"Age-standardized",2,"Female",0.125190097642
+455,"prev_obesity_agestd",4655,"Hidalgo",1992,27,"Age-standardized",1,"Male",0.0817255785911
+455,"prev_obesity_agestd",4655,"Hidalgo",1992,27,"Age-standardized",2,"Female",0.132531965393
+455,"prev_obesity_agestd",4656,"Jalisco",1992,27,"Age-standardized",1,"Male",0.115977597704
+455,"prev_obesity_agestd",4656,"Jalisco",1992,27,"Age-standardized",2,"Female",0.16787479317
+455,"prev_obesity_agestd",4657,"México",1992,27,"Age-standardized",1,"Male",0.110586690905
+455,"prev_obesity_agestd",4657,"México",1992,27,"Age-standardized",2,"Female",0.160706668787
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",1,"Male",0.0889222100253
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",2,"Female",0.127435963804
+455,"prev_obesity_agestd",4659,"Morelos",1992,27,"Age-standardized",1,"Male",0.104558664183
+455,"prev_obesity_agestd",4659,"Morelos",1992,27,"Age-standardized",2,"Female",0.153074054887
+455,"prev_obesity_agestd",4660,"Nayarit",1992,27,"Age-standardized",1,"Male",0.111466340095
+455,"prev_obesity_agestd",4660,"Nayarit",1992,27,"Age-standardized",2,"Female",0.172067047376
+455,"prev_obesity_agestd",4661,"Nuevo León",1992,27,"Age-standardized",1,"Male",0.152388385422
+455,"prev_obesity_agestd",4661,"Nuevo León",1992,27,"Age-standardized",2,"Female",0.19410390928
+455,"prev_obesity_agestd",4662,"Oaxaca",1992,27,"Age-standardized",1,"Male",0.0498470307028
+455,"prev_obesity_agestd",4662,"Oaxaca",1992,27,"Age-standardized",2,"Female",0.0971773017006
+455,"prev_obesity_agestd",4663,"Puebla",1992,27,"Age-standardized",1,"Male",0.0805390989001
+455,"prev_obesity_agestd",4663,"Puebla",1992,27,"Age-standardized",2,"Female",0.131144816327
+455,"prev_obesity_agestd",4664,"Querétaro",1992,27,"Age-standardized",1,"Male",0.101955176885
+455,"prev_obesity_agestd",4664,"Querétaro",1992,27,"Age-standardized",2,"Female",0.155765704679
+455,"prev_obesity_agestd",4665,"Quintana Roo",1992,27,"Age-standardized",1,"Male",0.125482859678
+455,"prev_obesity_agestd",4665,"Quintana Roo",1992,27,"Age-standardized",2,"Female",0.189982878967
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1992,27,"Age-standardized",1,"Male",0.0868144419937
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1992,27,"Age-standardized",2,"Female",0.132929539192
+455,"prev_obesity_agestd",4667,"Sinaloa",1992,27,"Age-standardized",1,"Male",0.118145292514
+455,"prev_obesity_agestd",4667,"Sinaloa",1992,27,"Age-standardized",2,"Female",0.168514825011
+455,"prev_obesity_agestd",4668,"Sonora",1992,27,"Age-standardized",1,"Male",0.108201010999
+455,"prev_obesity_agestd",4668,"Sonora",1992,27,"Age-standardized",2,"Female",0.180883708338
+455,"prev_obesity_agestd",4669,"Tabasco",1992,27,"Age-standardized",1,"Male",0.131577276961
+455,"prev_obesity_agestd",4669,"Tabasco",1992,27,"Age-standardized",2,"Female",0.174538591354
+455,"prev_obesity_agestd",4670,"Tamaulipas",1992,27,"Age-standardized",1,"Male",0.15184998941
+455,"prev_obesity_agestd",4670,"Tamaulipas",1992,27,"Age-standardized",2,"Female",0.202584500377
+455,"prev_obesity_agestd",4671,"Tlaxcala",1992,27,"Age-standardized",1,"Male",0.093021184768
+455,"prev_obesity_agestd",4671,"Tlaxcala",1992,27,"Age-standardized",2,"Female",0.146812790596
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",1,"Male",0.0767559031134
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",2,"Female",0.124083762133
+455,"prev_obesity_agestd",4673,"Yucatán",1992,27,"Age-standardized",1,"Male",0.12213191406
+455,"prev_obesity_agestd",4673,"Yucatán",1992,27,"Age-standardized",2,"Female",0.178498637994
+455,"prev_obesity_agestd",4674,"Zacatecas",1992,27,"Age-standardized",1,"Male",0.1038619321
+455,"prev_obesity_agestd",4674,"Zacatecas",1992,27,"Age-standardized",2,"Female",0.166340121437
+455,"prev_obesity_agestd",130,"Mexico",1993,27,"Age-standardized",1,"Male",0.0632329455058
+455,"prev_obesity_agestd",130,"Mexico",1993,27,"Age-standardized",2,"Female",0.105069346424362
+455,"prev_obesity_agestd",4643,"Aguascalientes",1993,27,"Age-standardized",1,"Male",0.128548262745
+455,"prev_obesity_agestd",4643,"Aguascalientes",1993,27,"Age-standardized",2,"Female",0.192419608546
+455,"prev_obesity_agestd",4644,"Baja California",1993,27,"Age-standardized",1,"Male",0.152500706396
+455,"prev_obesity_agestd",4644,"Baja California",1993,27,"Age-standardized",2,"Female",0.217168278646
+455,"prev_obesity_agestd",4645,"Baja California Sur",1993,27,"Age-standardized",1,"Male",0.155859950781
+455,"prev_obesity_agestd",4645,"Baja California Sur",1993,27,"Age-standardized",2,"Female",0.211543364672
+455,"prev_obesity_agestd",4646,"Campeche",1993,27,"Age-standardized",1,"Male",0.136686090778
+455,"prev_obesity_agestd",4646,"Campeche",1993,27,"Age-standardized",2,"Female",0.204495764231
+455,"prev_obesity_agestd",4647,"Coahuila",1993,27,"Age-standardized",1,"Male",0.127617368132
+455,"prev_obesity_agestd",4647,"Coahuila",1993,27,"Age-standardized",2,"Female",0.208499623198
+455,"prev_obesity_agestd",4648,"Colima",1993,27,"Age-standardized",1,"Male",0.162598331129
+455,"prev_obesity_agestd",4648,"Colima",1993,27,"Age-standardized",2,"Female",0.197340384708
+455,"prev_obesity_agestd",4649,"Chiapas",1993,27,"Age-standardized",1,"Male",0.0580490987776
+455,"prev_obesity_agestd",4649,"Chiapas",1993,27,"Age-standardized",2,"Female",0.100043041092
+455,"prev_obesity_agestd",4650,"Chihuahua",1993,27,"Age-standardized",1,"Male",0.130791160106
+455,"prev_obesity_agestd",4650,"Chihuahua",1993,27,"Age-standardized",2,"Female",0.192383217729
+455,"prev_obesity_agestd",4651,"Mexico City",1993,27,"Age-standardized",1,"Male",0.115065139446
+455,"prev_obesity_agestd",4651,"Mexico City",1993,27,"Age-standardized",2,"Female",0.167377107478
+455,"prev_obesity_agestd",4652,"Durango",1993,27,"Age-standardized",1,"Male",0.102356225663
+455,"prev_obesity_agestd",4652,"Durango",1993,27,"Age-standardized",2,"Female",0.17824135839
+455,"prev_obesity_agestd",4653,"Guanajuato",1993,27,"Age-standardized",1,"Male",0.0942453491055
+455,"prev_obesity_agestd",4653,"Guanajuato",1993,27,"Age-standardized",2,"Female",0.157172855573
+455,"prev_obesity_agestd",4654,"Guerrero",1993,27,"Age-standardized",1,"Male",0.0954498800124
+455,"prev_obesity_agestd",4654,"Guerrero",1993,27,"Age-standardized",2,"Female",0.126237612457
+455,"prev_obesity_agestd",4655,"Hidalgo",1993,27,"Age-standardized",1,"Male",0.0835684476384
+455,"prev_obesity_agestd",4655,"Hidalgo",1993,27,"Age-standardized",2,"Female",0.136710315076
+455,"prev_obesity_agestd",4656,"Jalisco",1993,27,"Age-standardized",1,"Male",0.119289582521
+455,"prev_obesity_agestd",4656,"Jalisco",1993,27,"Age-standardized",2,"Female",0.173883499695
+455,"prev_obesity_agestd",4657,"México",1993,27,"Age-standardized",1,"Male",0.115795746805
+455,"prev_obesity_agestd",4657,"México",1993,27,"Age-standardized",2,"Female",0.169072565785
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",1,"Male",0.0918676981662
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",2,"Female",0.132669984225
+455,"prev_obesity_agestd",4659,"Morelos",1993,27,"Age-standardized",1,"Male",0.107501803616
+455,"prev_obesity_agestd",4659,"Morelos",1993,27,"Age-standardized",2,"Female",0.1583901681
+455,"prev_obesity_agestd",4660,"Nayarit",1993,27,"Age-standardized",1,"Male",0.114207571031
+455,"prev_obesity_agestd",4660,"Nayarit",1993,27,"Age-standardized",2,"Female",0.177749019897
+455,"prev_obesity_agestd",4661,"Nuevo León",1993,27,"Age-standardized",1,"Male",0.155278861024
+455,"prev_obesity_agestd",4661,"Nuevo León",1993,27,"Age-standardized",2,"Female",0.199288318707
+455,"prev_obesity_agestd",4662,"Oaxaca",1993,27,"Age-standardized",1,"Male",0.0509119108103
+455,"prev_obesity_agestd",4662,"Oaxaca",1993,27,"Age-standardized",2,"Female",0.0999622624981
+455,"prev_obesity_agestd",4663,"Puebla",1993,27,"Age-standardized",1,"Male",0.0824920227705
+455,"prev_obesity_agestd",4663,"Puebla",1993,27,"Age-standardized",2,"Female",0.135523329267
+455,"prev_obesity_agestd",4664,"Querétaro",1993,27,"Age-standardized",1,"Male",0.104575915785
+455,"prev_obesity_agestd",4664,"Querétaro",1993,27,"Age-standardized",2,"Female",0.161251348759
+455,"prev_obesity_agestd",4665,"Quintana Roo",1993,27,"Age-standardized",1,"Male",0.128751124955
+455,"prev_obesity_agestd",4665,"Quintana Roo",1993,27,"Age-standardized",2,"Female",0.196798612604
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1993,27,"Age-standardized",1,"Male",0.0896392750135
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1993,27,"Age-standardized",2,"Female",0.138144071788
+455,"prev_obesity_agestd",4667,"Sinaloa",1993,27,"Age-standardized",1,"Male",0.120111255917
+455,"prev_obesity_agestd",4667,"Sinaloa",1993,27,"Age-standardized",2,"Female",0.172442689417
+455,"prev_obesity_agestd",4668,"Sonora",1993,27,"Age-standardized",1,"Male",0.110650461652
+455,"prev_obesity_agestd",4668,"Sonora",1993,27,"Age-standardized",2,"Female",0.185965300415
+455,"prev_obesity_agestd",4669,"Tabasco",1993,27,"Age-standardized",1,"Male",0.13413261697
+455,"prev_obesity_agestd",4669,"Tabasco",1993,27,"Age-standardized",2,"Female",0.1797264206
+455,"prev_obesity_agestd",4670,"Tamaulipas",1993,27,"Age-standardized",1,"Male",0.154933616535
+455,"prev_obesity_agestd",4670,"Tamaulipas",1993,27,"Age-standardized",2,"Female",0.20891550237
+455,"prev_obesity_agestd",4671,"Tlaxcala",1993,27,"Age-standardized",1,"Male",0.0947549171667
+455,"prev_obesity_agestd",4671,"Tlaxcala",1993,27,"Age-standardized",2,"Female",0.150801470768
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",1,"Male",0.0786971311423
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",2,"Female",0.128365711039
+455,"prev_obesity_agestd",4673,"Yucatán",1993,27,"Age-standardized",1,"Male",0.125354284553
+455,"prev_obesity_agestd",4673,"Yucatán",1993,27,"Age-standardized",2,"Female",0.184566696002
+455,"prev_obesity_agestd",4674,"Zacatecas",1993,27,"Age-standardized",1,"Male",0.106935640665
+455,"prev_obesity_agestd",4674,"Zacatecas",1993,27,"Age-standardized",2,"Female",0.172644502147
+455,"prev_obesity_agestd",130,"Mexico",1994,27,"Age-standardized",1,"Male",0.0651103899142625
+455,"prev_obesity_agestd",130,"Mexico",1994,27,"Age-standardized",2,"Female",0.10783529573965
+455,"prev_obesity_agestd",4643,"Aguascalientes",1994,27,"Age-standardized",1,"Male",0.130304554374
+455,"prev_obesity_agestd",4643,"Aguascalientes",1994,27,"Age-standardized",2,"Female",0.196041365045
+455,"prev_obesity_agestd",4644,"Baja California",1994,27,"Age-standardized",1,"Male",0.155307249205
+455,"prev_obesity_agestd",4644,"Baja California",1994,27,"Age-standardized",2,"Female",0.22208986112
+455,"prev_obesity_agestd",4645,"Baja California Sur",1994,27,"Age-standardized",1,"Male",0.158353540512
+455,"prev_obesity_agestd",4645,"Baja California Sur",1994,27,"Age-standardized",2,"Female",0.215545410899
+455,"prev_obesity_agestd",4646,"Campeche",1994,27,"Age-standardized",1,"Male",0.138910936075
+455,"prev_obesity_agestd",4646,"Campeche",1994,27,"Age-standardized",2,"Female",0.209139070876
+455,"prev_obesity_agestd",4647,"Coahuila",1994,27,"Age-standardized",1,"Male",0.130781135112
+455,"prev_obesity_agestd",4647,"Coahuila",1994,27,"Age-standardized",2,"Female",0.21492666391
+455,"prev_obesity_agestd",4648,"Colima",1994,27,"Age-standardized",1,"Male",0.165258448062
+455,"prev_obesity_agestd",4648,"Colima",1994,27,"Age-standardized",2,"Female",0.201610511327
+455,"prev_obesity_agestd",4649,"Chiapas",1994,27,"Age-standardized",1,"Male",0.061549987912
+455,"prev_obesity_agestd",4649,"Chiapas",1994,27,"Age-standardized",2,"Female",0.106700200048
+455,"prev_obesity_agestd",4650,"Chihuahua",1994,27,"Age-standardized",1,"Male",0.132766243068
+455,"prev_obesity_agestd",4650,"Chihuahua",1994,27,"Age-standardized",2,"Female",0.196131790496
+455,"prev_obesity_agestd",4651,"Mexico City",1994,27,"Age-standardized",1,"Male",0.118428619054
+455,"prev_obesity_agestd",4651,"Mexico City",1994,27,"Age-standardized",2,"Female",0.172285224513
+455,"prev_obesity_agestd",4652,"Durango",1994,27,"Age-standardized",1,"Male",0.103772286822
+455,"prev_obesity_agestd",4652,"Durango",1994,27,"Age-standardized",2,"Female",0.18171116211
+455,"prev_obesity_agestd",4653,"Guanajuato",1994,27,"Age-standardized",1,"Male",0.0974856689013
+455,"prev_obesity_agestd",4653,"Guanajuato",1994,27,"Age-standardized",2,"Female",0.162596999713
+455,"prev_obesity_agestd",4654,"Guerrero",1994,27,"Age-standardized",1,"Male",0.0947793027287
+455,"prev_obesity_agestd",4654,"Guerrero",1994,27,"Age-standardized",2,"Female",0.126391900818
+455,"prev_obesity_agestd",4655,"Hidalgo",1994,27,"Age-standardized",1,"Male",0.0850021728255
+455,"prev_obesity_agestd",4655,"Hidalgo",1994,27,"Age-standardized",2,"Female",0.139769606788
+455,"prev_obesity_agestd",4656,"Jalisco",1994,27,"Age-standardized",1,"Male",0.122066717209
+455,"prev_obesity_agestd",4656,"Jalisco",1994,27,"Age-standardized",2,"Female",0.178608152496
+455,"prev_obesity_agestd",4657,"México",1994,27,"Age-standardized",1,"Male",0.122652071656
+455,"prev_obesity_agestd",4657,"México",1994,27,"Age-standardized",2,"Female",0.178953980364
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",1,"Male",0.0943774804023
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",2,"Female",0.136921595535
+455,"prev_obesity_agestd",4659,"Morelos",1994,27,"Age-standardized",1,"Male",0.109928731624
+455,"prev_obesity_agestd",4659,"Morelos",1994,27,"Age-standardized",2,"Female",0.162514563829
+455,"prev_obesity_agestd",4660,"Nayarit",1994,27,"Age-standardized",1,"Male",0.116480215883
+455,"prev_obesity_agestd",4660,"Nayarit",1994,27,"Age-standardized",2,"Female",0.182273126813
+455,"prev_obesity_agestd",4661,"Nuevo León",1994,27,"Age-standardized",1,"Male",0.157759263808
+455,"prev_obesity_agestd",4661,"Nuevo León",1994,27,"Age-standardized",2,"Female",0.203147204347
+455,"prev_obesity_agestd",4662,"Oaxaca",1994,27,"Age-standardized",1,"Male",0.0515117721741
+455,"prev_obesity_agestd",4662,"Oaxaca",1994,27,"Age-standardized",2,"Female",0.101590952422
+455,"prev_obesity_agestd",4663,"Puebla",1994,27,"Age-standardized",1,"Male",0.0839369837275
+455,"prev_obesity_agestd",4663,"Puebla",1994,27,"Age-standardized",2,"Female",0.138557537448
+455,"prev_obesity_agestd",4664,"Querétaro",1994,27,"Age-standardized",1,"Male",0.10845288864
+455,"prev_obesity_agestd",4664,"Querétaro",1994,27,"Age-standardized",2,"Female",0.167978809845
+455,"prev_obesity_agestd",4665,"Quintana Roo",1994,27,"Age-standardized",1,"Male",0.131571229919
+455,"prev_obesity_agestd",4665,"Quintana Roo",1994,27,"Age-standardized",2,"Female",0.202424767771
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1994,27,"Age-standardized",1,"Male",0.0919776683777
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1994,27,"Age-standardized",2,"Female",0.142286909938
+455,"prev_obesity_agestd",4667,"Sinaloa",1994,27,"Age-standardized",1,"Male",0.121712733769
+455,"prev_obesity_agestd",4667,"Sinaloa",1994,27,"Age-standardized",2,"Female",0.175288791294
+455,"prev_obesity_agestd",4668,"Sonora",1994,27,"Age-standardized",1,"Male",0.11262847834
+455,"prev_obesity_agestd",4668,"Sonora",1994,27,"Age-standardized",2,"Female",0.189635609725
+455,"prev_obesity_agestd",4669,"Tabasco",1994,27,"Age-standardized",1,"Male",0.136437977673
+455,"prev_obesity_agestd",4669,"Tabasco",1994,27,"Age-standardized",2,"Female",0.183997489788
+455,"prev_obesity_agestd",4670,"Tamaulipas",1994,27,"Age-standardized",1,"Male",0.157348445382
+455,"prev_obesity_agestd",4670,"Tamaulipas",1994,27,"Age-standardized",2,"Female",0.213711911777
+455,"prev_obesity_agestd",4671,"Tlaxcala",1994,27,"Age-standardized",1,"Male",0.0982313992046
+455,"prev_obesity_agestd",4671,"Tlaxcala",1994,27,"Age-standardized",2,"Female",0.156958791838
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",1,"Male",0.0802848054427
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",2,"Female",0.131680266166
+455,"prev_obesity_agestd",4673,"Yucatán",1994,27,"Age-standardized",1,"Male",0.128225676326
+455,"prev_obesity_agestd",4673,"Yucatán",1994,27,"Age-standardized",2,"Female",0.18960236071
+455,"prev_obesity_agestd",4674,"Zacatecas",1994,27,"Age-standardized",1,"Male",0.109434740503
+455,"prev_obesity_agestd",4674,"Zacatecas",1994,27,"Age-standardized",2,"Female",0.177702676258
+455,"prev_obesity_agestd",130,"Mexico",1995,27,"Age-standardized",1,"Male",0.06729992081555
+455,"prev_obesity_agestd",130,"Mexico",1995,27,"Age-standardized",2,"Female",0.110988602127225
+455,"prev_obesity_agestd",4643,"Aguascalientes",1995,27,"Age-standardized",1,"Male",0.132112670041
+455,"prev_obesity_agestd",4643,"Aguascalientes",1995,27,"Age-standardized",2,"Female",0.199044378129
+455,"prev_obesity_agestd",4644,"Baja California",1995,27,"Age-standardized",1,"Male",0.1585149651
+455,"prev_obesity_agestd",4644,"Baja California",1995,27,"Age-standardized",2,"Female",0.226664923143
+455,"prev_obesity_agestd",4645,"Baja California Sur",1995,27,"Age-standardized",1,"Male",0.160964957373
+455,"prev_obesity_agestd",4645,"Baja California Sur",1995,27,"Age-standardized",2,"Female",0.218953362921
+455,"prev_obesity_agestd",4646,"Campeche",1995,27,"Age-standardized",1,"Male",0.141142931485
+455,"prev_obesity_agestd",4646,"Campeche",1995,27,"Age-standardized",2,"Female",0.213170002486
+455,"prev_obesity_agestd",4647,"Coahuila",1995,27,"Age-standardized",1,"Male",0.133561967791
+455,"prev_obesity_agestd",4647,"Coahuila",1995,27,"Age-standardized",2,"Female",0.220172435916
+455,"prev_obesity_agestd",4648,"Colima",1995,27,"Age-standardized",1,"Male",0.167339393858
+455,"prev_obesity_agestd",4648,"Colima",1995,27,"Age-standardized",2,"Female",0.204753157428
+455,"prev_obesity_agestd",4649,"Chiapas",1995,27,"Age-standardized",1,"Male",0.0652606324086
+455,"prev_obesity_agestd",4649,"Chiapas",1995,27,"Age-standardized",2,"Female",0.113363743757
+455,"prev_obesity_agestd",4650,"Chihuahua",1995,27,"Age-standardized",1,"Male",0.134361845108
+455,"prev_obesity_agestd",4650,"Chihuahua",1995,27,"Age-standardized",2,"Female",0.198676534686
+455,"prev_obesity_agestd",4651,"Mexico City",1995,27,"Age-standardized",1,"Male",0.122605130816
+455,"prev_obesity_agestd",4651,"Mexico City",1995,27,"Age-standardized",2,"Female",0.177485867266
+455,"prev_obesity_agestd",4652,"Durango",1995,27,"Age-standardized",1,"Male",0.105394844246
+455,"prev_obesity_agestd",4652,"Durango",1995,27,"Age-standardized",2,"Female",0.185013000074
+455,"prev_obesity_agestd",4653,"Guanajuato",1995,27,"Age-standardized",1,"Male",0.100812571914
+455,"prev_obesity_agestd",4653,"Guanajuato",1995,27,"Age-standardized",2,"Female",0.167595030599
+455,"prev_obesity_agestd",4654,"Guerrero",1995,27,"Age-standardized",1,"Male",0.0951872578313
+455,"prev_obesity_agestd",4654,"Guerrero",1995,27,"Age-standardized",2,"Female",0.127497801102
+455,"prev_obesity_agestd",4655,"Hidalgo",1995,27,"Age-standardized",1,"Male",0.086433199302
+455,"prev_obesity_agestd",4655,"Hidalgo",1995,27,"Age-standardized",2,"Female",0.142397668114
+455,"prev_obesity_agestd",4656,"Jalisco",1995,27,"Age-standardized",1,"Male",0.124779995696
+455,"prev_obesity_agestd",4656,"Jalisco",1995,27,"Age-standardized",2,"Female",0.18265600375
+455,"prev_obesity_agestd",4657,"México",1995,27,"Age-standardized",1,"Male",0.125968990062
+455,"prev_obesity_agestd",4657,"México",1995,27,"Age-standardized",2,"Female",0.183467550943
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",1,"Male",0.0970568463458
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",2,"Female",0.140971317678
+455,"prev_obesity_agestd",4659,"Morelos",1995,27,"Age-standardized",1,"Male",0.112018233445
+455,"prev_obesity_agestd",4659,"Morelos",1995,27,"Age-standardized",2,"Female",0.1656657854
+455,"prev_obesity_agestd",4660,"Nayarit",1995,27,"Age-standardized",1,"Male",0.118788045042
+455,"prev_obesity_agestd",4660,"Nayarit",1995,27,"Age-standardized",2,"Female",0.18633556703
+455,"prev_obesity_agestd",4661,"Nuevo León",1995,27,"Age-standardized",1,"Male",0.159980024797
+455,"prev_obesity_agestd",4661,"Nuevo León",1995,27,"Age-standardized",2,"Female",0.20590494398
+455,"prev_obesity_agestd",4662,"Oaxaca",1995,27,"Age-standardized",1,"Male",0.0520852625418
+455,"prev_obesity_agestd",4662,"Oaxaca",1995,27,"Age-standardized",2,"Female",0.102803560861
+455,"prev_obesity_agestd",4663,"Puebla",1995,27,"Age-standardized",1,"Male",0.0852568186364
+455,"prev_obesity_agestd",4663,"Puebla",1995,27,"Age-standardized",2,"Female",0.140888401767
+455,"prev_obesity_agestd",4664,"Querétaro",1995,27,"Age-standardized",1,"Male",0.11355616327
+455,"prev_obesity_agestd",4664,"Querétaro",1995,27,"Age-standardized",2,"Female",0.175946642115
+455,"prev_obesity_agestd",4665,"Quintana Roo",1995,27,"Age-standardized",1,"Male",0.134033527662
+455,"prev_obesity_agestd",4665,"Quintana Roo",1995,27,"Age-standardized",2,"Female",0.206946843108
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1995,27,"Age-standardized",1,"Male",0.0943308893651
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1995,27,"Age-standardized",2,"Female",0.146057365983
+455,"prev_obesity_agestd",4667,"Sinaloa",1995,27,"Age-standardized",1,"Male",0.12355542209
+455,"prev_obesity_agestd",4667,"Sinaloa",1995,27,"Age-standardized",2,"Female",0.177890113067
+455,"prev_obesity_agestd",4668,"Sonora",1995,27,"Age-standardized",1,"Male",0.114402767366
+455,"prev_obesity_agestd",4668,"Sonora",1995,27,"Age-standardized",2,"Female",0.192390178328
+455,"prev_obesity_agestd",4669,"Tabasco",1995,27,"Age-standardized",1,"Male",0.139208830975
+455,"prev_obesity_agestd",4669,"Tabasco",1995,27,"Age-standardized",2,"Female",0.188294912473
+455,"prev_obesity_agestd",4670,"Tamaulipas",1995,27,"Age-standardized",1,"Male",0.159460087168
+455,"prev_obesity_agestd",4670,"Tamaulipas",1995,27,"Age-standardized",2,"Female",0.217515261209
+455,"prev_obesity_agestd",4671,"Tlaxcala",1995,27,"Age-standardized",1,"Male",0.101984552621
+455,"prev_obesity_agestd",4671,"Tlaxcala",1995,27,"Age-standardized",2,"Female",0.163155149218
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",1,"Male",0.0819682740068
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",2,"Female",0.134714997555
+455,"prev_obesity_agestd",4673,"Yucatán",1995,27,"Age-standardized",1,"Male",0.13113545798
+455,"prev_obesity_agestd",4673,"Yucatán",1995,27,"Age-standardized",2,"Female",0.193999486655
+455,"prev_obesity_agestd",4674,"Zacatecas",1995,27,"Age-standardized",1,"Male",0.111791519745
+455,"prev_obesity_agestd",4674,"Zacatecas",1995,27,"Age-standardized",2,"Female",0.182043524394
+455,"prev_obesity_agestd",130,"Mexico",1996,27,"Age-standardized",1,"Male",0.069706573539025
+455,"prev_obesity_agestd",130,"Mexico",1996,27,"Age-standardized",2,"Female",0.114676465050237
+455,"prev_obesity_agestd",4643,"Aguascalientes",1996,27,"Age-standardized",1,"Male",0.134425733919
+455,"prev_obesity_agestd",4643,"Aguascalientes",1996,27,"Age-standardized",2,"Female",0.202195623008
+455,"prev_obesity_agestd",4644,"Baja California",1996,27,"Age-standardized",1,"Male",0.161078476086
+455,"prev_obesity_agestd",4644,"Baja California",1996,27,"Age-standardized",2,"Female",0.229906798477
+455,"prev_obesity_agestd",4645,"Baja California Sur",1996,27,"Age-standardized",1,"Male",0.164012173147
+455,"prev_obesity_agestd",4645,"Baja California Sur",1996,27,"Age-standardized",2,"Female",0.222402105582
+455,"prev_obesity_agestd",4646,"Campeche",1996,27,"Age-standardized",1,"Male",0.144056641344
+455,"prev_obesity_agestd",4646,"Campeche",1996,27,"Age-standardized",2,"Female",0.217588689186
+455,"prev_obesity_agestd",4647,"Coahuila",1996,27,"Age-standardized",1,"Male",0.136634002394
+455,"prev_obesity_agestd",4647,"Coahuila",1996,27,"Age-standardized",2,"Female",0.225294289612
+455,"prev_obesity_agestd",4648,"Colima",1996,27,"Age-standardized",1,"Male",0.169668066521
+455,"prev_obesity_agestd",4648,"Colima",1996,27,"Age-standardized",2,"Female",0.207765630827
+455,"prev_obesity_agestd",4649,"Chiapas",1996,27,"Age-standardized",1,"Male",0.0691200107158
+455,"prev_obesity_agestd",4649,"Chiapas",1996,27,"Age-standardized",2,"Female",0.120092462691
+455,"prev_obesity_agestd",4650,"Chihuahua",1996,27,"Age-standardized",1,"Male",0.13629184561
+455,"prev_obesity_agestd",4650,"Chihuahua",1996,27,"Age-standardized",2,"Female",0.201142458245
+455,"prev_obesity_agestd",4651,"Mexico City",1996,27,"Age-standardized",1,"Male",0.126098518882
+455,"prev_obesity_agestd",4651,"Mexico City",1996,27,"Age-standardized",2,"Female",0.18153375602
+455,"prev_obesity_agestd",4652,"Durango",1996,27,"Age-standardized",1,"Male",0.107770122548
+455,"prev_obesity_agestd",4652,"Durango",1996,27,"Age-standardized",2,"Female",0.189184271672
+455,"prev_obesity_agestd",4653,"Guanajuato",1996,27,"Age-standardized",1,"Male",0.104659822347
+455,"prev_obesity_agestd",4653,"Guanajuato",1996,27,"Age-standardized",2,"Female",0.173042305171
+455,"prev_obesity_agestd",4654,"Guerrero",1996,27,"Age-standardized",1,"Male",0.0971035848799
+455,"prev_obesity_agestd",4654,"Guerrero",1996,27,"Age-standardized",2,"Female",0.130350886121
+455,"prev_obesity_agestd",4655,"Hidalgo",1996,27,"Age-standardized",1,"Male",0.0882878443997
+455,"prev_obesity_agestd",4655,"Hidalgo",1996,27,"Age-standardized",2,"Female",0.145411523932
+455,"prev_obesity_agestd",4656,"Jalisco",1996,27,"Age-standardized",1,"Male",0.12789411691
+455,"prev_obesity_agestd",4656,"Jalisco",1996,27,"Age-standardized",2,"Female",0.186951796146
+455,"prev_obesity_agestd",4657,"México",1996,27,"Age-standardized",1,"Male",0.127850058496
+455,"prev_obesity_agestd",4657,"México",1996,27,"Age-standardized",2,"Female",0.185513155693
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",1,"Male",0.100366584217
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",2,"Female",0.145709401453
+455,"prev_obesity_agestd",4659,"Morelos",1996,27,"Age-standardized",1,"Male",0.114277812645
+455,"prev_obesity_agestd",4659,"Morelos",1996,27,"Age-standardized",2,"Female",0.168743979505
+455,"prev_obesity_agestd",4660,"Nayarit",1996,27,"Age-standardized",1,"Male",0.121612257305
+455,"prev_obesity_agestd",4660,"Nayarit",1996,27,"Age-standardized",2,"Female",0.190705980279
+455,"prev_obesity_agestd",4661,"Nuevo León",1996,27,"Age-standardized",1,"Male",0.162541911718
+455,"prev_obesity_agestd",4661,"Nuevo León",1996,27,"Age-standardized",2,"Female",0.20865297134
+455,"prev_obesity_agestd",4662,"Oaxaca",1996,27,"Age-standardized",1,"Male",0.0530515347178
+455,"prev_obesity_agestd",4662,"Oaxaca",1996,27,"Age-standardized",2,"Female",0.104639308122
+455,"prev_obesity_agestd",4663,"Puebla",1996,27,"Age-standardized",1,"Male",0.0869250061118
+455,"prev_obesity_agestd",4663,"Puebla",1996,27,"Age-standardized",2,"Female",0.143604683643
+455,"prev_obesity_agestd",4664,"Querétaro",1996,27,"Age-standardized",1,"Male",0.118725564412
+455,"prev_obesity_agestd",4664,"Querétaro",1996,27,"Age-standardized",2,"Female",0.183517183996
+455,"prev_obesity_agestd",4665,"Quintana Roo",1996,27,"Age-standardized",1,"Male",0.136763531604
+455,"prev_obesity_agestd",4665,"Quintana Roo",1996,27,"Age-standardized",2,"Female",0.211308746664
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1996,27,"Age-standardized",1,"Male",0.0972361600884
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1996,27,"Age-standardized",2,"Female",0.150355651636
+455,"prev_obesity_agestd",4667,"Sinaloa",1996,27,"Age-standardized",1,"Male",0.126157076782
+455,"prev_obesity_agestd",4667,"Sinaloa",1996,27,"Age-standardized",2,"Female",0.181195344847
+455,"prev_obesity_agestd",4668,"Sonora",1996,27,"Age-standardized",1,"Male",0.116624612186
+455,"prev_obesity_agestd",4668,"Sonora",1996,27,"Age-standardized",2,"Female",0.195434710228
+455,"prev_obesity_agestd",4669,"Tabasco",1996,27,"Age-standardized",1,"Male",0.14284685404
+455,"prev_obesity_agestd",4669,"Tabasco",1996,27,"Age-standardized",2,"Female",0.193398937407
+455,"prev_obesity_agestd",4670,"Tamaulipas",1996,27,"Age-standardized",1,"Male",0.161911388066
+455,"prev_obesity_agestd",4670,"Tamaulipas",1996,27,"Age-standardized",2,"Female",0.221169269959
+455,"prev_obesity_agestd",4671,"Tlaxcala",1996,27,"Age-standardized",1,"Male",0.105251241302
+455,"prev_obesity_agestd",4671,"Tlaxcala",1996,27,"Age-standardized",2,"Female",0.168262582122
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",1,"Male",0.0842186860338
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",2,"Female",0.138438864856
+455,"prev_obesity_agestd",4673,"Yucatán",1996,27,"Age-standardized",1,"Male",0.134601246269
+455,"prev_obesity_agestd",4673,"Yucatán",1996,27,"Age-standardized",2,"Female",0.198674842283
+455,"prev_obesity_agestd",4674,"Zacatecas",1996,27,"Age-standardized",1,"Male",0.114458419169
+455,"prev_obesity_agestd",4674,"Zacatecas",1996,27,"Age-standardized",2,"Female",0.186521948687
+455,"prev_obesity_agestd",130,"Mexico",1997,27,"Age-standardized",1,"Male",0.072277619730275
+455,"prev_obesity_agestd",130,"Mexico",1997,27,"Age-standardized",2,"Female",0.118620106572787
+455,"prev_obesity_agestd",4643,"Aguascalientes",1997,27,"Age-standardized",1,"Male",0.137509118498
+455,"prev_obesity_agestd",4643,"Aguascalientes",1997,27,"Age-standardized",2,"Female",0.205195715035
+455,"prev_obesity_agestd",4644,"Baja California",1997,27,"Age-standardized",1,"Male",0.163027648739
+455,"prev_obesity_agestd",4644,"Baja California",1997,27,"Age-standardized",2,"Female",0.231467769037
+455,"prev_obesity_agestd",4645,"Baja California Sur",1997,27,"Age-standardized",1,"Male",0.167131399924
+455,"prev_obesity_agestd",4645,"Baja California Sur",1997,27,"Age-standardized",2,"Female",0.224831748101
+455,"prev_obesity_agestd",4646,"Campeche",1997,27,"Age-standardized",1,"Male",0.147742963861
+455,"prev_obesity_agestd",4646,"Campeche",1997,27,"Age-standardized",2,"Female",0.222226903807
+455,"prev_obesity_agestd",4647,"Coahuila",1997,27,"Age-standardized",1,"Male",0.14027467728
+455,"prev_obesity_agestd",4647,"Coahuila",1997,27,"Age-standardized",2,"Female",0.229949940812
+455,"prev_obesity_agestd",4648,"Colima",1997,27,"Age-standardized",1,"Male",0.172459321126
+455,"prev_obesity_agestd",4648,"Colima",1997,27,"Age-standardized",2,"Female",0.210516689762
+455,"prev_obesity_agestd",4649,"Chiapas",1997,27,"Age-standardized",1,"Male",0.0728318285761
+455,"prev_obesity_agestd",4649,"Chiapas",1997,27,"Age-standardized",2,"Female",0.126213300397
+455,"prev_obesity_agestd",4650,"Chihuahua",1997,27,"Age-standardized",1,"Male",0.138856073093
+455,"prev_obesity_agestd",4650,"Chihuahua",1997,27,"Age-standardized",2,"Female",0.203625088638
+455,"prev_obesity_agestd",4651,"Mexico City",1997,27,"Age-standardized",1,"Male",0.128936915133
+455,"prev_obesity_agestd",4651,"Mexico City",1997,27,"Age-standardized",2,"Female",0.183785814372
+455,"prev_obesity_agestd",4652,"Durango",1997,27,"Age-standardized",1,"Male",0.11096673912
+455,"prev_obesity_agestd",4652,"Durango",1997,27,"Age-standardized",2,"Female",0.193696487541
+455,"prev_obesity_agestd",4653,"Guanajuato",1997,27,"Age-standardized",1,"Male",0.109057367535
+455,"prev_obesity_agestd",4653,"Guanajuato",1997,27,"Age-standardized",2,"Female",0.178485950744
+455,"prev_obesity_agestd",4654,"Guerrero",1997,27,"Age-standardized",1,"Male",0.100057071366
+455,"prev_obesity_agestd",4654,"Guerrero",1997,27,"Age-standardized",2,"Female",0.134012367478
+455,"prev_obesity_agestd",4655,"Hidalgo",1997,27,"Age-standardized",1,"Male",0.0906572017803
+455,"prev_obesity_agestd",4655,"Hidalgo",1997,27,"Age-standardized",2,"Female",0.148616186751
+455,"prev_obesity_agestd",4656,"Jalisco",1997,27,"Age-standardized",1,"Male",0.131543606037
+455,"prev_obesity_agestd",4656,"Jalisco",1997,27,"Age-standardized",2,"Female",0.191098434935
+455,"prev_obesity_agestd",4657,"México",1997,27,"Age-standardized",1,"Male",0.13033586598
+455,"prev_obesity_agestd",4657,"México",1997,27,"Age-standardized",2,"Female",0.187093264147
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",1,"Male",0.104225698712
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",2,"Female",0.150644810484
+455,"prev_obesity_agestd",4659,"Morelos",1997,27,"Age-standardized",1,"Male",0.117029883153
+455,"prev_obesity_agestd",4659,"Morelos",1997,27,"Age-standardized",2,"Female",0.171555484083
+455,"prev_obesity_agestd",4660,"Nayarit",1997,27,"Age-standardized",1,"Male",0.125031723761
+455,"prev_obesity_agestd",4660,"Nayarit",1997,27,"Age-standardized",2,"Female",0.195135062403
+455,"prev_obesity_agestd",4661,"Nuevo León",1997,27,"Age-standardized",1,"Male",0.166011841525
+455,"prev_obesity_agestd",4661,"Nuevo León",1997,27,"Age-standardized",2,"Female",0.211246046033
+455,"prev_obesity_agestd",4662,"Oaxaca",1997,27,"Age-standardized",1,"Male",0.0543776330408
+455,"prev_obesity_agestd",4662,"Oaxaca",1997,27,"Age-standardized",2,"Female",0.106875590212
+455,"prev_obesity_agestd",4663,"Puebla",1997,27,"Age-standardized",1,"Male",0.089188200805
+455,"prev_obesity_agestd",4663,"Puebla",1997,27,"Age-standardized",2,"Female",0.146446723165
+455,"prev_obesity_agestd",4664,"Querétaro",1997,27,"Age-standardized",1,"Male",0.12283438926
+455,"prev_obesity_agestd",4664,"Querétaro",1997,27,"Age-standardized",2,"Female",0.188827881445
+455,"prev_obesity_agestd",4665,"Quintana Roo",1997,27,"Age-standardized",1,"Male",0.13994601285
+455,"prev_obesity_agestd",4665,"Quintana Roo",1997,27,"Age-standardized",2,"Female",0.21541907239
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1997,27,"Age-standardized",1,"Male",0.100668094654
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1997,27,"Age-standardized",2,"Female",0.154919367958
+455,"prev_obesity_agestd",4667,"Sinaloa",1997,27,"Age-standardized",1,"Male",0.129555153079
+455,"prev_obesity_agestd",4667,"Sinaloa",1997,27,"Age-standardized",2,"Female",0.184794575979
+455,"prev_obesity_agestd",4668,"Sonora",1997,27,"Age-standardized",1,"Male",0.119398924895
+455,"prev_obesity_agestd",4668,"Sonora",1997,27,"Age-standardized",2,"Female",0.198572098412
+455,"prev_obesity_agestd",4669,"Tabasco",1997,27,"Age-standardized",1,"Male",0.147300687822
+455,"prev_obesity_agestd",4669,"Tabasco",1997,27,"Age-standardized",2,"Female",0.198725724387
+455,"prev_obesity_agestd",4670,"Tamaulipas",1997,27,"Age-standardized",1,"Male",0.164764611203
+455,"prev_obesity_agestd",4670,"Tamaulipas",1997,27,"Age-standardized",2,"Female",0.224431095717
+455,"prev_obesity_agestd",4671,"Tlaxcala",1997,27,"Age-standardized",1,"Male",0.107928783581
+455,"prev_obesity_agestd",4671,"Tlaxcala",1997,27,"Age-standardized",2,"Female",0.17171902488
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",1,"Male",0.0870627426003
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",2,"Female",0.142472709568
+455,"prev_obesity_agestd",4673,"Yucatán",1997,27,"Age-standardized",1,"Male",0.138661993845
+455,"prev_obesity_agestd",4673,"Yucatán",1997,27,"Age-standardized",2,"Female",0.203327742674
+455,"prev_obesity_agestd",4674,"Zacatecas",1997,27,"Age-standardized",1,"Male",0.117547710026
+455,"prev_obesity_agestd",4674,"Zacatecas",1997,27,"Age-standardized",2,"Female",0.1908428976
+455,"prev_obesity_agestd",130,"Mexico",1998,27,"Age-standardized",1,"Male",0.0749565527770625
+455,"prev_obesity_agestd",130,"Mexico",1998,27,"Age-standardized",2,"Female",0.122856065837637
+455,"prev_obesity_agestd",4643,"Aguascalientes",1998,27,"Age-standardized",1,"Male",0.140584070265
+455,"prev_obesity_agestd",4643,"Aguascalientes",1998,27,"Age-standardized",2,"Female",0.207487304108
+455,"prev_obesity_agestd",4644,"Baja California",1998,27,"Age-standardized",1,"Male",0.165292972194
+455,"prev_obesity_agestd",4644,"Baja California",1998,27,"Age-standardized",2,"Female",0.232667759967
+455,"prev_obesity_agestd",4645,"Baja California Sur",1998,27,"Age-standardized",1,"Male",0.169054029134
+455,"prev_obesity_agestd",4645,"Baja California Sur",1998,27,"Age-standardized",2,"Female",0.225066470744
+455,"prev_obesity_agestd",4646,"Campeche",1998,27,"Age-standardized",1,"Male",0.151712023933
+455,"prev_obesity_agestd",4646,"Campeche",1998,27,"Age-standardized",2,"Female",0.226511146383
+455,"prev_obesity_agestd",4647,"Coahuila",1998,27,"Age-standardized",1,"Male",0.143993752775
+455,"prev_obesity_agestd",4647,"Coahuila",1998,27,"Age-standardized",2,"Female",0.23352637208
+455,"prev_obesity_agestd",4648,"Colima",1998,27,"Age-standardized",1,"Male",0.175250304813
+455,"prev_obesity_agestd",4648,"Colima",1998,27,"Age-standardized",2,"Female",0.212592737914
+455,"prev_obesity_agestd",4649,"Chiapas",1998,27,"Age-standardized",1,"Male",0.076122218084
+455,"prev_obesity_agestd",4649,"Chiapas",1998,27,"Age-standardized",2,"Female",0.13132502639
+455,"prev_obesity_agestd",4650,"Chihuahua",1998,27,"Age-standardized",1,"Male",0.141649811455
+455,"prev_obesity_agestd",4650,"Chihuahua",1998,27,"Age-standardized",2,"Female",0.205863694851
+455,"prev_obesity_agestd",4651,"Mexico City",1998,27,"Age-standardized",1,"Male",0.13135100855
+455,"prev_obesity_agestd",4651,"Mexico City",1998,27,"Age-standardized",2,"Female",0.184492700809
+455,"prev_obesity_agestd",4652,"Durango",1998,27,"Age-standardized",1,"Male",0.114486367059
+455,"prev_obesity_agestd",4652,"Durango",1998,27,"Age-standardized",2,"Female",0.197727767342
+455,"prev_obesity_agestd",4653,"Guanajuato",1998,27,"Age-standardized",1,"Male",0.113541443624
+455,"prev_obesity_agestd",4653,"Guanajuato",1998,27,"Age-standardized",2,"Female",0.183294624234
+455,"prev_obesity_agestd",4654,"Guerrero",1998,27,"Age-standardized",1,"Male",0.103174815828
+455,"prev_obesity_agestd",4654,"Guerrero",1998,27,"Age-standardized",2,"Female",0.137387741297
+455,"prev_obesity_agestd",4655,"Hidalgo",1998,27,"Age-standardized",1,"Male",0.0931167123396
+455,"prev_obesity_agestd",4655,"Hidalgo",1998,27,"Age-standardized",2,"Female",0.151554884505
+455,"prev_obesity_agestd",4656,"Jalisco",1998,27,"Age-standardized",1,"Male",0.135267031426
+455,"prev_obesity_agestd",4656,"Jalisco",1998,27,"Age-standardized",2,"Female",0.194451449782
+455,"prev_obesity_agestd",4657,"México",1998,27,"Age-standardized",1,"Male",0.133230173243
+455,"prev_obesity_agestd",4657,"México",1998,27,"Age-standardized",2,"Female",0.18832022692
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",1,"Male",0.108181914984
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",2,"Female",0.155031856534
+455,"prev_obesity_agestd",4659,"Morelos",1998,27,"Age-standardized",1,"Male",0.119949394963
+455,"prev_obesity_agestd",4659,"Morelos",1998,27,"Age-standardized",2,"Female",0.173768371907
+455,"prev_obesity_agestd",4660,"Nayarit",1998,27,"Age-standardized",1,"Male",0.128595452267
+455,"prev_obesity_agestd",4660,"Nayarit",1998,27,"Age-standardized",2,"Female",0.199062696073
+455,"prev_obesity_agestd",4661,"Nuevo León",1998,27,"Age-standardized",1,"Male",0.169666495326
+455,"prev_obesity_agestd",4661,"Nuevo León",1998,27,"Age-standardized",2,"Female",0.213141214236
+455,"prev_obesity_agestd",4662,"Oaxaca",1998,27,"Age-standardized",1,"Male",0.0558823164395
+455,"prev_obesity_agestd",4662,"Oaxaca",1998,27,"Age-standardized",2,"Female",0.109058558358
+455,"prev_obesity_agestd",4663,"Puebla",1998,27,"Age-standardized",1,"Male",0.0916700363259
+455,"prev_obesity_agestd",4663,"Puebla",1998,27,"Age-standardized",2,"Female",0.148927885827
+455,"prev_obesity_agestd",4664,"Querétaro",1998,27,"Age-standardized",1,"Male",0.125636721368
+455,"prev_obesity_agestd",4664,"Querétaro",1998,27,"Age-standardized",2,"Female",0.19169665836
+455,"prev_obesity_agestd",4665,"Quintana Roo",1998,27,"Age-standardized",1,"Male",0.143200998588
+455,"prev_obesity_agestd",4665,"Quintana Roo",1998,27,"Age-standardized",2,"Female",0.218819747252
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1998,27,"Age-standardized",1,"Male",0.104345613843
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1998,27,"Age-standardized",2,"Female",0.159386689968
+455,"prev_obesity_agestd",4667,"Sinaloa",1998,27,"Age-standardized",1,"Male",0.133213572706
+455,"prev_obesity_agestd",4667,"Sinaloa",1998,27,"Age-standardized",2,"Female",0.187980353727
+455,"prev_obesity_agestd",4668,"Sonora",1998,27,"Age-standardized",1,"Male",0.122335882741
+455,"prev_obesity_agestd",4668,"Sonora",1998,27,"Age-standardized",2,"Female",0.20125637944
+455,"prev_obesity_agestd",4669,"Tabasco",1998,27,"Age-standardized",1,"Male",0.151705298561
+455,"prev_obesity_agestd",4669,"Tabasco",1998,27,"Age-standardized",2,"Female",0.203447724575
+455,"prev_obesity_agestd",4670,"Tamaulipas",1998,27,"Age-standardized",1,"Male",0.167482770203
+455,"prev_obesity_agestd",4670,"Tamaulipas",1998,27,"Age-standardized",2,"Female",0.226694288085
+455,"prev_obesity_agestd",4671,"Tlaxcala",1998,27,"Age-standardized",1,"Male",0.110239252593
+455,"prev_obesity_agestd",4671,"Tlaxcala",1998,27,"Age-standardized",2,"Female",0.174068029672
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",1,"Male",0.0901245895463
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",2,"Female",0.146161111387
+455,"prev_obesity_agestd",4673,"Yucatán",1998,27,"Age-standardized",1,"Male",0.142860448937
+455,"prev_obesity_agestd",4673,"Yucatán",1998,27,"Age-standardized",2,"Female",0.207269292289
+455,"prev_obesity_agestd",4674,"Zacatecas",1998,27,"Age-standardized",1,"Male",0.120616571989
+455,"prev_obesity_agestd",4674,"Zacatecas",1998,27,"Age-standardized",2,"Female",0.194556617745
+455,"prev_obesity_agestd",130,"Mexico",1999,27,"Age-standardized",1,"Male",0.077952251978325
+455,"prev_obesity_agestd",130,"Mexico",1999,27,"Age-standardized",2,"Female",0.127572442917437
+455,"prev_obesity_agestd",4643,"Aguascalientes",1999,27,"Age-standardized",1,"Male",0.142604751353
+455,"prev_obesity_agestd",4643,"Aguascalientes",1999,27,"Age-standardized",2,"Female",0.208324776538
+455,"prev_obesity_agestd",4644,"Baja California",1999,27,"Age-standardized",1,"Male",0.167506867251
+455,"prev_obesity_agestd",4644,"Baja California",1999,27,"Age-standardized",2,"Female",0.234435336131
+455,"prev_obesity_agestd",4645,"Baja California Sur",1999,27,"Age-standardized",1,"Male",0.170031559622
+455,"prev_obesity_agestd",4645,"Baja California Sur",1999,27,"Age-standardized",2,"Female",0.223146001199
+455,"prev_obesity_agestd",4646,"Campeche",1999,27,"Age-standardized",1,"Male",0.15628775344
+455,"prev_obesity_agestd",4646,"Campeche",1999,27,"Age-standardized",2,"Female",0.230323379175
+455,"prev_obesity_agestd",4647,"Coahuila",1999,27,"Age-standardized",1,"Male",0.146791407975
+455,"prev_obesity_agestd",4647,"Coahuila",1999,27,"Age-standardized",2,"Female",0.234878779167
+455,"prev_obesity_agestd",4648,"Colima",1999,27,"Age-standardized",1,"Male",0.177484326044
+455,"prev_obesity_agestd",4648,"Colima",1999,27,"Age-standardized",2,"Female",0.213885227024
+455,"prev_obesity_agestd",4649,"Chiapas",1999,27,"Age-standardized",1,"Male",0.0792775044723
+455,"prev_obesity_agestd",4649,"Chiapas",1999,27,"Age-standardized",2,"Female",0.135661338475
+455,"prev_obesity_agestd",4650,"Chihuahua",1999,27,"Age-standardized",1,"Male",0.144461355379
+455,"prev_obesity_agestd",4650,"Chihuahua",1999,27,"Age-standardized",2,"Female",0.207348535748
+455,"prev_obesity_agestd",4651,"Mexico City",1999,27,"Age-standardized",1,"Male",0.133097733926
+455,"prev_obesity_agestd",4651,"Mexico City",1999,27,"Age-standardized",2,"Female",0.182719949254
+455,"prev_obesity_agestd",4652,"Durango",1999,27,"Age-standardized",1,"Male",0.118226470411
+455,"prev_obesity_agestd",4652,"Durango",1999,27,"Age-standardized",2,"Female",0.199582653079
+455,"prev_obesity_agestd",4653,"Guanajuato",1999,27,"Age-standardized",1,"Male",0.11721481963
+455,"prev_obesity_agestd",4653,"Guanajuato",1999,27,"Age-standardized",2,"Female",0.185982542764
+455,"prev_obesity_agestd",4654,"Guerrero",1999,27,"Age-standardized",1,"Male",0.106848869806
+455,"prev_obesity_agestd",4654,"Guerrero",1999,27,"Age-standardized",2,"Female",0.139492078881
+455,"prev_obesity_agestd",4655,"Hidalgo",1999,27,"Age-standardized",1,"Male",0.0956204490284
+455,"prev_obesity_agestd",4655,"Hidalgo",1999,27,"Age-standardized",2,"Female",0.154380474547
+455,"prev_obesity_agestd",4656,"Jalisco",1999,27,"Age-standardized",1,"Male",0.138287185994
+455,"prev_obesity_agestd",4656,"Jalisco",1999,27,"Age-standardized",2,"Female",0.196211017396
+455,"prev_obesity_agestd",4657,"México",1999,27,"Age-standardized",1,"Male",0.13646802989
+455,"prev_obesity_agestd",4657,"México",1999,27,"Age-standardized",2,"Female",0.187209895753
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",1,"Male",0.112527429048
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",2,"Female",0.158443192017
+455,"prev_obesity_agestd",4659,"Morelos",1999,27,"Age-standardized",1,"Male",0.12320462077
+455,"prev_obesity_agestd",4659,"Morelos",1999,27,"Age-standardized",2,"Female",0.17386232433
+455,"prev_obesity_agestd",4660,"Nayarit",1999,27,"Age-standardized",1,"Male",0.132909058311
+455,"prev_obesity_agestd",4660,"Nayarit",1999,27,"Age-standardized",2,"Female",0.202422726761
+455,"prev_obesity_agestd",4661,"Nuevo León",1999,27,"Age-standardized",1,"Male",0.172899560033
+455,"prev_obesity_agestd",4661,"Nuevo León",1999,27,"Age-standardized",2,"Female",0.214271142943
+455,"prev_obesity_agestd",4662,"Oaxaca",1999,27,"Age-standardized",1,"Male",0.0590815812198
+455,"prev_obesity_agestd",4662,"Oaxaca",1999,27,"Age-standardized",2,"Female",0.111049378754
+455,"prev_obesity_agestd",4663,"Puebla",1999,27,"Age-standardized",1,"Male",0.094662550276
+455,"prev_obesity_agestd",4663,"Puebla",1999,27,"Age-standardized",2,"Female",0.150869012287
+455,"prev_obesity_agestd",4664,"Querétaro",1999,27,"Age-standardized",1,"Male",0.128661247459
+455,"prev_obesity_agestd",4664,"Querétaro",1999,27,"Age-standardized",2,"Female",0.192996219705
+455,"prev_obesity_agestd",4665,"Quintana Roo",1999,27,"Age-standardized",1,"Male",0.147432414871
+455,"prev_obesity_agestd",4665,"Quintana Roo",1999,27,"Age-standardized",2,"Female",0.221886460912
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1999,27,"Age-standardized",1,"Male",0.107693473472
+455,"prev_obesity_agestd",4666,"San Luis Potosí",1999,27,"Age-standardized",2,"Female",0.164756972652
+455,"prev_obesity_agestd",4667,"Sinaloa",1999,27,"Age-standardized",1,"Male",0.13553520357
+455,"prev_obesity_agestd",4667,"Sinaloa",1999,27,"Age-standardized",2,"Female",0.189767597466
+455,"prev_obesity_agestd",4668,"Sonora",1999,27,"Age-standardized",1,"Male",0.125781555585
+455,"prev_obesity_agestd",4668,"Sonora",1999,27,"Age-standardized",2,"Female",0.203413706885
+455,"prev_obesity_agestd",4669,"Tabasco",1999,27,"Age-standardized",1,"Male",0.1565297566
+455,"prev_obesity_agestd",4669,"Tabasco",1999,27,"Age-standardized",2,"Female",0.208562377032
+455,"prev_obesity_agestd",4670,"Tamaulipas",1999,27,"Age-standardized",1,"Male",0.170171147077
+455,"prev_obesity_agestd",4670,"Tamaulipas",1999,27,"Age-standardized",2,"Female",0.228116915074
+455,"prev_obesity_agestd",4671,"Tlaxcala",1999,27,"Age-standardized",1,"Male",0.113716631605
+455,"prev_obesity_agestd",4671,"Tlaxcala",1999,27,"Age-standardized",2,"Female",0.17604009392
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",1,"Male",0.0936877931174
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",2,"Female",0.148047753419
+455,"prev_obesity_agestd",4673,"Yucatán",1999,27,"Age-standardized",1,"Male",0.148353939324
+455,"prev_obesity_agestd",4673,"Yucatán",1999,27,"Age-standardized",2,"Female",0.210128130927
+455,"prev_obesity_agestd",4674,"Zacatecas",1999,27,"Age-standardized",1,"Male",0.12347600986
+455,"prev_obesity_agestd",4674,"Zacatecas",1999,27,"Age-standardized",2,"Female",0.196906429141
+455,"prev_obesity_agestd",130,"Mexico",2000,27,"Age-standardized",1,"Male",0.0811101872839
+455,"prev_obesity_agestd",130,"Mexico",2000,27,"Age-standardized",2,"Female",0.132377927949863
+455,"prev_obesity_agestd",4643,"Aguascalientes",2000,27,"Age-standardized",1,"Male",0.143959710184
+455,"prev_obesity_agestd",4643,"Aguascalientes",2000,27,"Age-standardized",2,"Female",0.208163840106
+455,"prev_obesity_agestd",4644,"Baja California",2000,27,"Age-standardized",1,"Male",0.169003504773
+455,"prev_obesity_agestd",4644,"Baja California",2000,27,"Age-standardized",2,"Female",0.237836811
+455,"prev_obesity_agestd",4645,"Baja California Sur",2000,27,"Age-standardized",1,"Male",0.171990368664
+455,"prev_obesity_agestd",4645,"Baja California Sur",2000,27,"Age-standardized",2,"Female",0.223341675074
+455,"prev_obesity_agestd",4646,"Campeche",2000,27,"Age-standardized",1,"Male",0.160398666721
+455,"prev_obesity_agestd",4646,"Campeche",2000,27,"Age-standardized",2,"Female",0.234672382713
+455,"prev_obesity_agestd",4647,"Coahuila",2000,27,"Age-standardized",1,"Male",0.148848582057
+455,"prev_obesity_agestd",4647,"Coahuila",2000,27,"Age-standardized",2,"Female",0.23449452324
+455,"prev_obesity_agestd",4648,"Colima",2000,27,"Age-standardized",1,"Male",0.17829050757
+455,"prev_obesity_agestd",4648,"Colima",2000,27,"Age-standardized",2,"Female",0.2146880165
+455,"prev_obesity_agestd",4649,"Chiapas",2000,27,"Age-standardized",1,"Male",0.0822005194658
+455,"prev_obesity_agestd",4649,"Chiapas",2000,27,"Age-standardized",2,"Female",0.140171502126
+455,"prev_obesity_agestd",4650,"Chihuahua",2000,27,"Age-standardized",1,"Male",0.147393947397
+455,"prev_obesity_agestd",4650,"Chihuahua",2000,27,"Age-standardized",2,"Female",0.208975781542
+455,"prev_obesity_agestd",4651,"Mexico City",2000,27,"Age-standardized",1,"Male",0.135899614578
+455,"prev_obesity_agestd",4651,"Mexico City",2000,27,"Age-standardized",2,"Female",0.180285134623
+455,"prev_obesity_agestd",4652,"Durango",2000,27,"Age-standardized",1,"Male",0.122041925816
+455,"prev_obesity_agestd",4652,"Durango",2000,27,"Age-standardized",2,"Female",0.199485500132
+455,"prev_obesity_agestd",4653,"Guanajuato",2000,27,"Age-standardized",1,"Male",0.120032042908
+455,"prev_obesity_agestd",4653,"Guanajuato",2000,27,"Age-standardized",2,"Female",0.18680508523
+455,"prev_obesity_agestd",4654,"Guerrero",2000,27,"Age-standardized",1,"Male",0.111407265713
+455,"prev_obesity_agestd",4654,"Guerrero",2000,27,"Age-standardized",2,"Female",0.140491816191
+455,"prev_obesity_agestd",4655,"Hidalgo",2000,27,"Age-standardized",1,"Male",0.0981834356127
+455,"prev_obesity_agestd",4655,"Hidalgo",2000,27,"Age-standardized",2,"Female",0.157478079954
+455,"prev_obesity_agestd",4656,"Jalisco",2000,27,"Age-standardized",1,"Male",0.140135693742
+455,"prev_obesity_agestd",4656,"Jalisco",2000,27,"Age-standardized",2,"Female",0.196173178124
+455,"prev_obesity_agestd",4657,"México",2000,27,"Age-standardized",1,"Male",0.140643013303
+455,"prev_obesity_agestd",4657,"México",2000,27,"Age-standardized",2,"Female",0.184467270591
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",1,"Male",0.117262277219
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",2,"Female",0.161004548954
+455,"prev_obesity_agestd",4659,"Morelos",2000,27,"Age-standardized",1,"Male",0.127092607026
+455,"prev_obesity_agestd",4659,"Morelos",2000,27,"Age-standardized",2,"Female",0.17264604231
+455,"prev_obesity_agestd",4660,"Nayarit",2000,27,"Age-standardized",1,"Male",0.138135370617
+455,"prev_obesity_agestd",4660,"Nayarit",2000,27,"Age-standardized",2,"Female",0.206262777933
+455,"prev_obesity_agestd",4661,"Nuevo León",2000,27,"Age-standardized",1,"Male",0.176355078735
+455,"prev_obesity_agestd",4661,"Nuevo León",2000,27,"Age-standardized",2,"Female",0.215265601648
+455,"prev_obesity_agestd",4662,"Oaxaca",2000,27,"Age-standardized",1,"Male",0.0642188825434
+455,"prev_obesity_agestd",4662,"Oaxaca",2000,27,"Age-standardized",2,"Female",0.113281546932
+455,"prev_obesity_agestd",4663,"Puebla",2000,27,"Age-standardized",1,"Male",0.0982094943621
+455,"prev_obesity_agestd",4663,"Puebla",2000,27,"Age-standardized",2,"Female",0.152472248298
+455,"prev_obesity_agestd",4664,"Querétaro",2000,27,"Age-standardized",1,"Male",0.132853203294
+455,"prev_obesity_agestd",4664,"Querétaro",2000,27,"Age-standardized",2,"Female",0.194478409915
+455,"prev_obesity_agestd",4665,"Quintana Roo",2000,27,"Age-standardized",1,"Male",0.152906439316
+455,"prev_obesity_agestd",4665,"Quintana Roo",2000,27,"Age-standardized",2,"Female",0.225326539719
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2000,27,"Age-standardized",1,"Male",0.110154373972
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2000,27,"Age-standardized",2,"Female",0.17236529551
+455,"prev_obesity_agestd",4667,"Sinaloa",2000,27,"Age-standardized",1,"Male",0.136144468976
+455,"prev_obesity_agestd",4667,"Sinaloa",2000,27,"Age-standardized",2,"Female",0.190453086844
+455,"prev_obesity_agestd",4668,"Sonora",2000,27,"Age-standardized",1,"Male",0.128997491864
+455,"prev_obesity_agestd",4668,"Sonora",2000,27,"Age-standardized",2,"Female",0.205383417884
+455,"prev_obesity_agestd",4669,"Tabasco",2000,27,"Age-standardized",1,"Male",0.162048735054
+455,"prev_obesity_agestd",4669,"Tabasco",2000,27,"Age-standardized",2,"Female",0.215193707711
+455,"prev_obesity_agestd",4670,"Tamaulipas",2000,27,"Age-standardized",1,"Male",0.173113694751
+455,"prev_obesity_agestd",4670,"Tamaulipas",2000,27,"Age-standardized",2,"Female",0.229747486329
+455,"prev_obesity_agestd",4671,"Tlaxcala",2000,27,"Age-standardized",1,"Male",0.118952136661
+455,"prev_obesity_agestd",4671,"Tlaxcala",2000,27,"Age-standardized",2,"Female",0.178874450784
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",1,"Male",0.0977533379536
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",2,"Female",0.147733524113
+455,"prev_obesity_agestd",4673,"Yucatán",2000,27,"Age-standardized",1,"Male",0.155352699833
+455,"prev_obesity_agestd",4673,"Yucatán",2000,27,"Age-standardized",2,"Female",0.212141094561
+455,"prev_obesity_agestd",4674,"Zacatecas",2000,27,"Age-standardized",1,"Male",0.125500101998
+455,"prev_obesity_agestd",4674,"Zacatecas",2000,27,"Age-standardized",2,"Female",0.197894664287
+455,"prev_obesity_agestd",130,"Mexico",2001,27,"Age-standardized",1,"Male",0.084294982687725
+455,"prev_obesity_agestd",130,"Mexico",2001,27,"Age-standardized",2,"Female",0.137316990071288
+455,"prev_obesity_agestd",4643,"Aguascalientes",2001,27,"Age-standardized",1,"Male",0.143244370874
+455,"prev_obesity_agestd",4643,"Aguascalientes",2001,27,"Age-standardized",2,"Female",0.208630193159
+455,"prev_obesity_agestd",4644,"Baja California",2001,27,"Age-standardized",1,"Male",0.16763404059
+455,"prev_obesity_agestd",4644,"Baja California",2001,27,"Age-standardized",2,"Female",0.241706499905
+455,"prev_obesity_agestd",4645,"Baja California Sur",2001,27,"Age-standardized",1,"Male",0.173317379912
+455,"prev_obesity_agestd",4645,"Baja California Sur",2001,27,"Age-standardized",2,"Female",0.226970312987
+455,"prev_obesity_agestd",4646,"Campeche",2001,27,"Age-standardized",1,"Male",0.162718791537
+455,"prev_obesity_agestd",4646,"Campeche",2001,27,"Age-standardized",2,"Female",0.239640091159
+455,"prev_obesity_agestd",4647,"Coahuila",2001,27,"Age-standardized",1,"Male",0.148723042039
+455,"prev_obesity_agestd",4647,"Coahuila",2001,27,"Age-standardized",2,"Female",0.234874975817
+455,"prev_obesity_agestd",4648,"Colima",2001,27,"Age-standardized",1,"Male",0.176635496041
+455,"prev_obesity_agestd",4648,"Colima",2001,27,"Age-standardized",2,"Female",0.216518883621
+455,"prev_obesity_agestd",4649,"Chiapas",2001,27,"Age-standardized",1,"Male",0.0842388918324
+455,"prev_obesity_agestd",4649,"Chiapas",2001,27,"Age-standardized",2,"Female",0.14518667527
+455,"prev_obesity_agestd",4650,"Chihuahua",2001,27,"Age-standardized",1,"Male",0.148321081049
+455,"prev_obesity_agestd",4650,"Chihuahua",2001,27,"Age-standardized",2,"Female",0.211516035457
+455,"prev_obesity_agestd",4651,"Mexico City",2001,27,"Age-standardized",1,"Male",0.136812561607
+455,"prev_obesity_agestd",4651,"Mexico City",2001,27,"Age-standardized",2,"Female",0.179438144071
+455,"prev_obesity_agestd",4652,"Durango",2001,27,"Age-standardized",1,"Male",0.124334842662
+455,"prev_obesity_agestd",4652,"Durango",2001,27,"Age-standardized",2,"Female",0.200445598109
+455,"prev_obesity_agestd",4653,"Guanajuato",2001,27,"Age-standardized",1,"Male",0.121045426216
+455,"prev_obesity_agestd",4653,"Guanajuato",2001,27,"Age-standardized",2,"Female",0.188271827907
+455,"prev_obesity_agestd",4654,"Guerrero",2001,27,"Age-standardized",1,"Male",0.114985267273
+455,"prev_obesity_agestd",4654,"Guerrero",2001,27,"Age-standardized",2,"Female",0.142580686966
+455,"prev_obesity_agestd",4655,"Hidalgo",2001,27,"Age-standardized",1,"Male",0.0995400445268
+455,"prev_obesity_agestd",4655,"Hidalgo",2001,27,"Age-standardized",2,"Female",0.161163764959
+455,"prev_obesity_agestd",4656,"Jalisco",2001,27,"Age-standardized",1,"Male",0.139756110244
+455,"prev_obesity_agestd",4656,"Jalisco",2001,27,"Age-standardized",2,"Female",0.197003084372
+455,"prev_obesity_agestd",4657,"México",2001,27,"Age-standardized",1,"Male",0.142217373471
+455,"prev_obesity_agestd",4657,"México",2001,27,"Age-standardized",2,"Female",0.182799910337
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",1,"Male",0.120413737214
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",2,"Female",0.164203446289
+455,"prev_obesity_agestd",4659,"Morelos",2001,27,"Age-standardized",1,"Male",0.128785935078
+455,"prev_obesity_agestd",4659,"Morelos",2001,27,"Age-standardized",2,"Female",0.172289279284
+455,"prev_obesity_agestd",4660,"Nayarit",2001,27,"Age-standardized",1,"Male",0.141447623111
+455,"prev_obesity_agestd",4660,"Nayarit",2001,27,"Age-standardized",2,"Female",0.210632480598
+455,"prev_obesity_agestd",4661,"Nuevo León",2001,27,"Age-standardized",1,"Male",0.176505116837
+455,"prev_obesity_agestd",4661,"Nuevo León",2001,27,"Age-standardized",2,"Female",0.21680306225
+455,"prev_obesity_agestd",4662,"Oaxaca",2001,27,"Age-standardized",1,"Male",0.0687680627091
+455,"prev_obesity_agestd",4662,"Oaxaca",2001,27,"Age-standardized",2,"Female",0.116594832744
+455,"prev_obesity_agestd",4663,"Puebla",2001,27,"Age-standardized",1,"Male",0.100458554141
+455,"prev_obesity_agestd",4663,"Puebla",2001,27,"Age-standardized",2,"Female",0.154986754934
+455,"prev_obesity_agestd",4664,"Querétaro",2001,27,"Age-standardized",1,"Male",0.134863015902
+455,"prev_obesity_agestd",4664,"Querétaro",2001,27,"Age-standardized",2,"Female",0.196479149043
+455,"prev_obesity_agestd",4665,"Quintana Roo",2001,27,"Age-standardized",1,"Male",0.156317245917
+455,"prev_obesity_agestd",4665,"Quintana Roo",2001,27,"Age-standardized",2,"Female",0.229358978731
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2001,27,"Age-standardized",1,"Male",0.111194103238
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2001,27,"Age-standardized",2,"Female",0.180686651982
+455,"prev_obesity_agestd",4667,"Sinaloa",2001,27,"Age-standardized",1,"Male",0.134979623314
+455,"prev_obesity_agestd",4667,"Sinaloa",2001,27,"Age-standardized",2,"Female",0.191817677228
+455,"prev_obesity_agestd",4668,"Sonora",2001,27,"Age-standardized",1,"Male",0.130701021059
+455,"prev_obesity_agestd",4668,"Sonora",2001,27,"Age-standardized",2,"Female",0.208217815153
+455,"prev_obesity_agestd",4669,"Tabasco",2001,27,"Age-standardized",1,"Male",0.165220637984
+455,"prev_obesity_agestd",4669,"Tabasco",2001,27,"Age-standardized",2,"Female",0.22213835179
+455,"prev_obesity_agestd",4670,"Tamaulipas",2001,27,"Age-standardized",1,"Male",0.173243191404
+455,"prev_obesity_agestd",4670,"Tamaulipas",2001,27,"Age-standardized",2,"Female",0.232017214747
+455,"prev_obesity_agestd",4671,"Tlaxcala",2001,27,"Age-standardized",1,"Male",0.1233799904
+455,"prev_obesity_agestd",4671,"Tlaxcala",2001,27,"Age-standardized",2,"Female",0.18328861198
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",1,"Male",0.100441088908
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",2,"Female",0.148324607602
+455,"prev_obesity_agestd",4673,"Yucatán",2001,27,"Age-standardized",1,"Male",0.159957992828
+455,"prev_obesity_agestd",4673,"Yucatán",2001,27,"Age-standardized",2,"Female",0.214941999601
+455,"prev_obesity_agestd",4674,"Zacatecas",2001,27,"Age-standardized",1,"Male",0.12592092802
+455,"prev_obesity_agestd",4674,"Zacatecas",2001,27,"Age-standardized",2,"Female",0.19957982955
+455,"prev_obesity_agestd",130,"Mexico",2002,27,"Age-standardized",1,"Male",0.087567099061025
+455,"prev_obesity_agestd",130,"Mexico",2002,27,"Age-standardized",2,"Female",0.142314040982563
+455,"prev_obesity_agestd",4643,"Aguascalientes",2002,27,"Age-standardized",1,"Male",0.144016787271
+455,"prev_obesity_agestd",4643,"Aguascalientes",2002,27,"Age-standardized",2,"Female",0.209498928095
+455,"prev_obesity_agestd",4644,"Baja California",2002,27,"Age-standardized",1,"Male",0.167222410969
+455,"prev_obesity_agestd",4644,"Baja California",2002,27,"Age-standardized",2,"Female",0.244962088837
+455,"prev_obesity_agestd",4645,"Baja California Sur",2002,27,"Age-standardized",1,"Male",0.175421678757
+455,"prev_obesity_agestd",4645,"Baja California Sur",2002,27,"Age-standardized",2,"Female",0.230146566524
+455,"prev_obesity_agestd",4646,"Campeche",2002,27,"Age-standardized",1,"Male",0.165953606985
+455,"prev_obesity_agestd",4646,"Campeche",2002,27,"Age-standardized",2,"Female",0.244188032662
+455,"prev_obesity_agestd",4647,"Coahuila",2002,27,"Age-standardized",1,"Male",0.149800136473
+455,"prev_obesity_agestd",4647,"Coahuila",2002,27,"Age-standardized",2,"Female",0.235692342478
+455,"prev_obesity_agestd",4648,"Colima",2002,27,"Age-standardized",1,"Male",0.176189664099
+455,"prev_obesity_agestd",4648,"Colima",2002,27,"Age-standardized",2,"Female",0.218826899678
+455,"prev_obesity_agestd",4649,"Chiapas",2002,27,"Age-standardized",1,"Male",0.0870006896415
+455,"prev_obesity_agestd",4649,"Chiapas",2002,27,"Age-standardized",2,"Female",0.150508688798
+455,"prev_obesity_agestd",4650,"Chihuahua",2002,27,"Age-standardized",1,"Male",0.150476304599
+455,"prev_obesity_agestd",4650,"Chihuahua",2002,27,"Age-standardized",2,"Female",0.214552380742
+455,"prev_obesity_agestd",4651,"Mexico City",2002,27,"Age-standardized",1,"Male",0.139171949746
+455,"prev_obesity_agestd",4651,"Mexico City",2002,27,"Age-standardized",2,"Female",0.179632398714
+455,"prev_obesity_agestd",4652,"Durango",2002,27,"Age-standardized",1,"Male",0.127377171757
+455,"prev_obesity_agestd",4652,"Durango",2002,27,"Age-standardized",2,"Female",0.20183391582
+455,"prev_obesity_agestd",4653,"Guanajuato",2002,27,"Age-standardized",1,"Male",0.122934719846
+455,"prev_obesity_agestd",4653,"Guanajuato",2002,27,"Age-standardized",2,"Female",0.190046312598
+455,"prev_obesity_agestd",4654,"Guerrero",2002,27,"Age-standardized",1,"Male",0.119277448511
+455,"prev_obesity_agestd",4654,"Guerrero",2002,27,"Age-standardized",2,"Female",0.14527886287
+455,"prev_obesity_agestd",4655,"Hidalgo",2002,27,"Age-standardized",1,"Male",0.101691340123
+455,"prev_obesity_agestd",4655,"Hidalgo",2002,27,"Age-standardized",2,"Female",0.165023128231
+455,"prev_obesity_agestd",4656,"Jalisco",2002,27,"Age-standardized",1,"Male",0.140617844752
+455,"prev_obesity_agestd",4656,"Jalisco",2002,27,"Age-standardized",2,"Female",0.198448341627
+455,"prev_obesity_agestd",4657,"México",2002,27,"Age-standardized",1,"Male",0.144159383301
+455,"prev_obesity_agestd",4657,"México",2002,27,"Age-standardized",2,"Female",0.181336424737
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",1,"Male",0.124147289149
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",2,"Female",0.167583222205
+455,"prev_obesity_agestd",4659,"Morelos",2002,27,"Age-standardized",1,"Male",0.131399207648
+455,"prev_obesity_agestd",4659,"Morelos",2002,27,"Age-standardized",2,"Female",0.172537643958
+455,"prev_obesity_agestd",4660,"Nayarit",2002,27,"Age-standardized",1,"Male",0.14533550518
+455,"prev_obesity_agestd",4660,"Nayarit",2002,27,"Age-standardized",2,"Female",0.214760136145
+455,"prev_obesity_agestd",4661,"Nuevo León",2002,27,"Age-standardized",1,"Male",0.178209552172
+455,"prev_obesity_agestd",4661,"Nuevo León",2002,27,"Age-standardized",2,"Female",0.218955717762
+455,"prev_obesity_agestd",4662,"Oaxaca",2002,27,"Age-standardized",1,"Male",0.0736559428643
+455,"prev_obesity_agestd",4662,"Oaxaca",2002,27,"Age-standardized",2,"Female",0.120478161191
+455,"prev_obesity_agestd",4663,"Puebla",2002,27,"Age-standardized",1,"Male",0.10353844342
+455,"prev_obesity_agestd",4663,"Puebla",2002,27,"Age-standardized",2,"Female",0.158066219649
+455,"prev_obesity_agestd",4664,"Querétaro",2002,27,"Age-standardized",1,"Male",0.136481146715
+455,"prev_obesity_agestd",4664,"Querétaro",2002,27,"Age-standardized",2,"Female",0.197157699349
+455,"prev_obesity_agestd",4665,"Quintana Roo",2002,27,"Age-standardized",1,"Male",0.160414423143
+455,"prev_obesity_agestd",4665,"Quintana Roo",2002,27,"Age-standardized",2,"Female",0.233365001951
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2002,27,"Age-standardized",1,"Male",0.112868653881
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2002,27,"Age-standardized",2,"Female",0.188920714505
+455,"prev_obesity_agestd",4667,"Sinaloa",2002,27,"Age-standardized",1,"Male",0.135014116562
+455,"prev_obesity_agestd",4667,"Sinaloa",2002,27,"Age-standardized",2,"Female",0.193432558507
+455,"prev_obesity_agestd",4668,"Sonora",2002,27,"Age-standardized",1,"Male",0.133540529885
+455,"prev_obesity_agestd",4668,"Sonora",2002,27,"Age-standardized",2,"Female",0.211403267328
+455,"prev_obesity_agestd",4669,"Tabasco",2002,27,"Age-standardized",1,"Male",0.169203028465
+455,"prev_obesity_agestd",4669,"Tabasco",2002,27,"Age-standardized",2,"Female",0.228740653241
+455,"prev_obesity_agestd",4670,"Tamaulipas",2002,27,"Age-standardized",1,"Male",0.174308293579
+455,"prev_obesity_agestd",4670,"Tamaulipas",2002,27,"Age-standardized",2,"Female",0.234478401498
+455,"prev_obesity_agestd",4671,"Tlaxcala",2002,27,"Age-standardized",1,"Male",0.128612397186
+455,"prev_obesity_agestd",4671,"Tlaxcala",2002,27,"Age-standardized",2,"Female",0.187815517643
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",1,"Male",0.103632910484
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",2,"Female",0.149472986616
+455,"prev_obesity_agestd",4673,"Yucatán",2002,27,"Age-standardized",1,"Male",0.165201552914
+455,"prev_obesity_agestd",4673,"Yucatán",2002,27,"Age-standardized",2,"Female",0.217971616488
+455,"prev_obesity_agestd",4674,"Zacatecas",2002,27,"Age-standardized",1,"Male",0.127125037149
+455,"prev_obesity_agestd",4674,"Zacatecas",2002,27,"Age-standardized",2,"Female",0.201392342324
+455,"prev_obesity_agestd",130,"Mexico",2003,27,"Age-standardized",1,"Male",0.0906845370210125
+455,"prev_obesity_agestd",130,"Mexico",2003,27,"Age-standardized",2,"Female",0.147158302122262
+455,"prev_obesity_agestd",4643,"Aguascalientes",2003,27,"Age-standardized",1,"Male",0.145621479395
+455,"prev_obesity_agestd",4643,"Aguascalientes",2003,27,"Age-standardized",2,"Female",0.210381555612
+455,"prev_obesity_agestd",4644,"Baja California",2003,27,"Age-standardized",1,"Male",0.167125990821
+455,"prev_obesity_agestd",4644,"Baja California",2003,27,"Age-standardized",2,"Female",0.247000607097
+455,"prev_obesity_agestd",4645,"Baja California Sur",2003,27,"Age-standardized",1,"Male",0.178238441159
+455,"prev_obesity_agestd",4645,"Baja California Sur",2003,27,"Age-standardized",2,"Female",0.232390743771
+455,"prev_obesity_agestd",4646,"Campeche",2003,27,"Age-standardized",1,"Male",0.16958633545
+455,"prev_obesity_agestd",4646,"Campeche",2003,27,"Age-standardized",2,"Female",0.248001027077
+455,"prev_obesity_agestd",4647,"Coahuila",2003,27,"Age-standardized",1,"Male",0.151416341725
+455,"prev_obesity_agestd",4647,"Coahuila",2003,27,"Age-standardized",2,"Female",0.237088430154
+455,"prev_obesity_agestd",4648,"Colima",2003,27,"Age-standardized",1,"Male",0.176589652902
+455,"prev_obesity_agestd",4648,"Colima",2003,27,"Age-standardized",2,"Female",0.221301696757
+455,"prev_obesity_agestd",4649,"Chiapas",2003,27,"Age-standardized",1,"Male",0.0903327624014
+455,"prev_obesity_agestd",4649,"Chiapas",2003,27,"Age-standardized",2,"Female",0.156056152312
+455,"prev_obesity_agestd",4650,"Chihuahua",2003,27,"Age-standardized",1,"Male",0.153173619927
+455,"prev_obesity_agestd",4650,"Chihuahua",2003,27,"Age-standardized",2,"Female",0.217704019422
+455,"prev_obesity_agestd",4651,"Mexico City",2003,27,"Age-standardized",1,"Male",0.14177560422
+455,"prev_obesity_agestd",4651,"Mexico City",2003,27,"Age-standardized",2,"Female",0.180023278225
+455,"prev_obesity_agestd",4652,"Durango",2003,27,"Age-standardized",1,"Male",0.130672708383
+455,"prev_obesity_agestd",4652,"Durango",2003,27,"Age-standardized",2,"Female",0.203849727247
+455,"prev_obesity_agestd",4653,"Guanajuato",2003,27,"Age-standardized",1,"Male",0.12530228387
+455,"prev_obesity_agestd",4653,"Guanajuato",2003,27,"Age-standardized",2,"Female",0.191946861604
+455,"prev_obesity_agestd",4654,"Guerrero",2003,27,"Age-standardized",1,"Male",0.123989193166
+455,"prev_obesity_agestd",4654,"Guerrero",2003,27,"Age-standardized",2,"Female",0.148659426534
+455,"prev_obesity_agestd",4655,"Hidalgo",2003,27,"Age-standardized",1,"Male",0.104401731461
+455,"prev_obesity_agestd",4655,"Hidalgo",2003,27,"Age-standardized",2,"Female",0.168868415973
+455,"prev_obesity_agestd",4656,"Jalisco",2003,27,"Age-standardized",1,"Male",0.142149059851
+455,"prev_obesity_agestd",4656,"Jalisco",2003,27,"Age-standardized",2,"Female",0.200871620767
+455,"prev_obesity_agestd",4657,"México",2003,27,"Age-standardized",1,"Male",0.144750907894
+455,"prev_obesity_agestd",4657,"México",2003,27,"Age-standardized",2,"Female",0.179566474405
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",1,"Male",0.127613081971
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",2,"Female",0.171321403902
+455,"prev_obesity_agestd",4659,"Morelos",2003,27,"Age-standardized",1,"Male",0.134225102951
+455,"prev_obesity_agestd",4659,"Morelos",2003,27,"Age-standardized",2,"Female",0.173233052344
+455,"prev_obesity_agestd",4660,"Nayarit",2003,27,"Age-standardized",1,"Male",0.149321223974
+455,"prev_obesity_agestd",4660,"Nayarit",2003,27,"Age-standardized",2,"Female",0.218398521098
+455,"prev_obesity_agestd",4661,"Nuevo León",2003,27,"Age-standardized",1,"Male",0.180100621076
+455,"prev_obesity_agestd",4661,"Nuevo León",2003,27,"Age-standardized",2,"Female",0.221777386278
+455,"prev_obesity_agestd",4662,"Oaxaca",2003,27,"Age-standardized",1,"Male",0.078787047542
+455,"prev_obesity_agestd",4662,"Oaxaca",2003,27,"Age-standardized",2,"Female",0.124505712339
+455,"prev_obesity_agestd",4663,"Puebla",2003,27,"Age-standardized",1,"Male",0.107139882514
+455,"prev_obesity_agestd",4663,"Puebla",2003,27,"Age-standardized",2,"Female",0.161660622452
+455,"prev_obesity_agestd",4664,"Querétaro",2003,27,"Age-standardized",1,"Male",0.137555140256
+455,"prev_obesity_agestd",4664,"Querétaro",2003,27,"Age-standardized",2,"Female",0.196503751076
+455,"prev_obesity_agestd",4665,"Quintana Roo",2003,27,"Age-standardized",1,"Male",0.16473335114
+455,"prev_obesity_agestd",4665,"Quintana Roo",2003,27,"Age-standardized",2,"Female",0.236959550247
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2003,27,"Age-standardized",1,"Male",0.114931572303
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2003,27,"Age-standardized",2,"Female",0.196681023427
+455,"prev_obesity_agestd",4667,"Sinaloa",2003,27,"Age-standardized",1,"Male",0.135631676418
+455,"prev_obesity_agestd",4667,"Sinaloa",2003,27,"Age-standardized",2,"Female",0.195028280119
+455,"prev_obesity_agestd",4668,"Sonora",2003,27,"Age-standardized",1,"Male",0.138089493521
+455,"prev_obesity_agestd",4668,"Sonora",2003,27,"Age-standardized",2,"Female",0.215134671489
+455,"prev_obesity_agestd",4669,"Tabasco",2003,27,"Age-standardized",1,"Male",0.173565379505
+455,"prev_obesity_agestd",4669,"Tabasco",2003,27,"Age-standardized",2,"Female",0.234688954405
+455,"prev_obesity_agestd",4670,"Tamaulipas",2003,27,"Age-standardized",1,"Male",0.175745380509
+455,"prev_obesity_agestd",4670,"Tamaulipas",2003,27,"Age-standardized",2,"Female",0.236846771429
+455,"prev_obesity_agestd",4671,"Tlaxcala",2003,27,"Age-standardized",1,"Male",0.133694908499
+455,"prev_obesity_agestd",4671,"Tlaxcala",2003,27,"Age-standardized",2,"Female",0.191711125183
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",1,"Male",0.106678806393
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",2,"Female",0.151228220522
+455,"prev_obesity_agestd",4673,"Yucatán",2003,27,"Age-standardized",1,"Male",0.170144427959
+455,"prev_obesity_agestd",4673,"Yucatán",2003,27,"Age-standardized",2,"Female",0.220911443388
+455,"prev_obesity_agestd",4674,"Zacatecas",2003,27,"Age-standardized",1,"Male",0.128793841525
+455,"prev_obesity_agestd",4674,"Zacatecas",2003,27,"Age-standardized",2,"Female",0.203078334094
+455,"prev_obesity_agestd",130,"Mexico",2004,27,"Age-standardized",1,"Male",0.094177576820075
+455,"prev_obesity_agestd",130,"Mexico",2004,27,"Age-standardized",2,"Female",0.1514631813582
+455,"prev_obesity_agestd",4643,"Aguascalientes",2004,27,"Age-standardized",1,"Male",0.148186471283
+455,"prev_obesity_agestd",4643,"Aguascalientes",2004,27,"Age-standardized",2,"Female",0.212089934435
+455,"prev_obesity_agestd",4644,"Baja California",2004,27,"Age-standardized",1,"Male",0.167465406862
+455,"prev_obesity_agestd",4644,"Baja California",2004,27,"Age-standardized",2,"Female",0.249038281179
+455,"prev_obesity_agestd",4645,"Baja California Sur",2004,27,"Age-standardized",1,"Male",0.183022023907
+455,"prev_obesity_agestd",4645,"Baja California Sur",2004,27,"Age-standardized",2,"Female",0.236800667528
+455,"prev_obesity_agestd",4646,"Campeche",2004,27,"Age-standardized",1,"Male",0.173766259083
+455,"prev_obesity_agestd",4646,"Campeche",2004,27,"Age-standardized",2,"Female",0.251976914398
+455,"prev_obesity_agestd",4647,"Coahuila",2004,27,"Age-standardized",1,"Male",0.153677018504
+455,"prev_obesity_agestd",4647,"Coahuila",2004,27,"Age-standardized",2,"Female",0.239345796548
+455,"prev_obesity_agestd",4648,"Colima",2004,27,"Age-standardized",1,"Male",0.177925924322
+455,"prev_obesity_agestd",4648,"Colima",2004,27,"Age-standardized",2,"Female",0.224619710416
+455,"prev_obesity_agestd",4649,"Chiapas",2004,27,"Age-standardized",1,"Male",0.0939656190551
+455,"prev_obesity_agestd",4649,"Chiapas",2004,27,"Age-standardized",2,"Female",0.16181197418
+455,"prev_obesity_agestd",4650,"Chihuahua",2004,27,"Age-standardized",1,"Male",0.156301930189
+455,"prev_obesity_agestd",4650,"Chihuahua",2004,27,"Age-standardized",2,"Female",0.221451210378
+455,"prev_obesity_agestd",4651,"Mexico City",2004,27,"Age-standardized",1,"Male",0.144654968754
+455,"prev_obesity_agestd",4651,"Mexico City",2004,27,"Age-standardized",2,"Female",0.180920308385
+455,"prev_obesity_agestd",4652,"Durango",2004,27,"Age-standardized",1,"Male",0.134152317353
+455,"prev_obesity_agestd",4652,"Durango",2004,27,"Age-standardized",2,"Female",0.206304678212
+455,"prev_obesity_agestd",4653,"Guanajuato",2004,27,"Age-standardized",1,"Male",0.128088607519
+455,"prev_obesity_agestd",4653,"Guanajuato",2004,27,"Age-standardized",2,"Female",0.194432683079
+455,"prev_obesity_agestd",4654,"Guerrero",2004,27,"Age-standardized",1,"Male",0.1289786481
+455,"prev_obesity_agestd",4654,"Guerrero",2004,27,"Age-standardized",2,"Female",0.15280568359
+455,"prev_obesity_agestd",4655,"Hidalgo",2004,27,"Age-standardized",1,"Male",0.107674783772
+455,"prev_obesity_agestd",4655,"Hidalgo",2004,27,"Age-standardized",2,"Female",0.17329752347
+455,"prev_obesity_agestd",4656,"Jalisco",2004,27,"Age-standardized",1,"Male",0.144291418649
+455,"prev_obesity_agestd",4656,"Jalisco",2004,27,"Age-standardized",2,"Female",0.203948534839
+455,"prev_obesity_agestd",4657,"México",2004,27,"Age-standardized",1,"Male",0.146263636516
+455,"prev_obesity_agestd",4657,"México",2004,27,"Age-standardized",2,"Female",0.179200190776
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",1,"Male",0.131357972261
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",2,"Female",0.175482552618
+455,"prev_obesity_agestd",4659,"Morelos",2004,27,"Age-standardized",1,"Male",0.137349219975
+455,"prev_obesity_agestd",4659,"Morelos",2004,27,"Age-standardized",2,"Female",0.174734263502
+455,"prev_obesity_agestd",4660,"Nayarit",2004,27,"Age-standardized",1,"Male",0.153443738929
+455,"prev_obesity_agestd",4660,"Nayarit",2004,27,"Age-standardized",2,"Female",0.222252925215
+455,"prev_obesity_agestd",4661,"Nuevo León",2004,27,"Age-standardized",1,"Male",0.182641367454
+455,"prev_obesity_agestd",4661,"Nuevo León",2004,27,"Age-standardized",2,"Female",0.225212639238
+455,"prev_obesity_agestd",4662,"Oaxaca",2004,27,"Age-standardized",1,"Male",0.0839052051156
+455,"prev_obesity_agestd",4662,"Oaxaca",2004,27,"Age-standardized",2,"Female",0.12916465305
+455,"prev_obesity_agestd",4663,"Puebla",2004,27,"Age-standardized",1,"Male",0.111115860967
+455,"prev_obesity_agestd",4663,"Puebla",2004,27,"Age-standardized",2,"Female",0.166019700536
+455,"prev_obesity_agestd",4664,"Querétaro",2004,27,"Age-standardized",1,"Male",0.139070983832
+455,"prev_obesity_agestd",4664,"Querétaro",2004,27,"Age-standardized",2,"Female",0.196289400449
+455,"prev_obesity_agestd",4665,"Quintana Roo",2004,27,"Age-standardized",1,"Male",0.16924174473
+455,"prev_obesity_agestd",4665,"Quintana Roo",2004,27,"Age-standardized",2,"Female",0.241075148108
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2004,27,"Age-standardized",1,"Male",0.117362291265
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2004,27,"Age-standardized",2,"Female",0.204418619491
+455,"prev_obesity_agestd",4667,"Sinaloa",2004,27,"Age-standardized",1,"Male",0.136673870595
+455,"prev_obesity_agestd",4667,"Sinaloa",2004,27,"Age-standardized",2,"Female",0.197253087568
+455,"prev_obesity_agestd",4668,"Sonora",2004,27,"Age-standardized",1,"Male",0.14272370003
+455,"prev_obesity_agestd",4668,"Sonora",2004,27,"Age-standardized",2,"Female",0.21936182537
+455,"prev_obesity_agestd",4669,"Tabasco",2004,27,"Age-standardized",1,"Male",0.178466590633
+455,"prev_obesity_agestd",4669,"Tabasco",2004,27,"Age-standardized",2,"Female",0.240795455568
+455,"prev_obesity_agestd",4670,"Tamaulipas",2004,27,"Age-standardized",1,"Male",0.177647006195
+455,"prev_obesity_agestd",4670,"Tamaulipas",2004,27,"Age-standardized",2,"Female",0.239997576023
+455,"prev_obesity_agestd",4671,"Tlaxcala",2004,27,"Age-standardized",1,"Male",0.139554420095
+455,"prev_obesity_agestd",4671,"Tlaxcala",2004,27,"Age-standardized",2,"Female",0.196519683799
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",1,"Male",0.109985140788
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",2,"Female",0.153698605132
+455,"prev_obesity_agestd",4673,"Yucatán",2004,27,"Age-standardized",1,"Male",0.175085991846
+455,"prev_obesity_agestd",4673,"Yucatán",2004,27,"Age-standardized",2,"Female",0.224324661879
+455,"prev_obesity_agestd",4674,"Zacatecas",2004,27,"Age-standardized",1,"Male",0.131074540428
+455,"prev_obesity_agestd",4674,"Zacatecas",2004,27,"Age-standardized",2,"Female",0.205412107275
+455,"prev_obesity_agestd",130,"Mexico",2005,27,"Age-standardized",1,"Male",0.0971389343881625
+455,"prev_obesity_agestd",130,"Mexico",2005,27,"Age-standardized",2,"Female",0.155622476419063
+455,"prev_obesity_agestd",4643,"Aguascalientes",2005,27,"Age-standardized",1,"Male",0.151024248317
+455,"prev_obesity_agestd",4643,"Aguascalientes",2005,27,"Age-standardized",2,"Female",0.214245658433
+455,"prev_obesity_agestd",4644,"Baja California",2005,27,"Age-standardized",1,"Male",0.168655853806
+455,"prev_obesity_agestd",4644,"Baja California",2005,27,"Age-standardized",2,"Female",0.251416978214
+455,"prev_obesity_agestd",4645,"Baja California Sur",2005,27,"Age-standardized",1,"Male",0.187259034219
+455,"prev_obesity_agestd",4645,"Baja California Sur",2005,27,"Age-standardized",2,"Female",0.240596610716
+455,"prev_obesity_agestd",4646,"Campeche",2005,27,"Age-standardized",1,"Male",0.177909323089
+455,"prev_obesity_agestd",4646,"Campeche",2005,27,"Age-standardized",2,"Female",0.255772188992
+455,"prev_obesity_agestd",4647,"Coahuila",2005,27,"Age-standardized",1,"Male",0.156379596332
+455,"prev_obesity_agestd",4647,"Coahuila",2005,27,"Age-standardized",2,"Female",0.242296723574
+455,"prev_obesity_agestd",4648,"Colima",2005,27,"Age-standardized",1,"Male",0.179497650602
+455,"prev_obesity_agestd",4648,"Colima",2005,27,"Age-standardized",2,"Female",0.228280800892
+455,"prev_obesity_agestd",4649,"Chiapas",2005,27,"Age-standardized",1,"Male",0.0973467157649
+455,"prev_obesity_agestd",4649,"Chiapas",2005,27,"Age-standardized",2,"Female",0.167145501678
+455,"prev_obesity_agestd",4650,"Chihuahua",2005,27,"Age-standardized",1,"Male",0.159727007412
+455,"prev_obesity_agestd",4650,"Chihuahua",2005,27,"Age-standardized",2,"Female",0.225417144428
+455,"prev_obesity_agestd",4651,"Mexico City",2005,27,"Age-standardized",1,"Male",0.148284080654
+455,"prev_obesity_agestd",4651,"Mexico City",2005,27,"Age-standardized",2,"Female",0.182597123607
+455,"prev_obesity_agestd",4652,"Durango",2005,27,"Age-standardized",1,"Male",0.137163928228
+455,"prev_obesity_agestd",4652,"Durango",2005,27,"Age-standardized",2,"Female",0.20877170322
+455,"prev_obesity_agestd",4653,"Guanajuato",2005,27,"Age-standardized",1,"Male",0.130868813451
+455,"prev_obesity_agestd",4653,"Guanajuato",2005,27,"Age-standardized",2,"Female",0.197239889609
+455,"prev_obesity_agestd",4654,"Guerrero",2005,27,"Age-standardized",1,"Male",0.133280307288
+455,"prev_obesity_agestd",4654,"Guerrero",2005,27,"Age-standardized",2,"Female",0.157094222158
+455,"prev_obesity_agestd",4655,"Hidalgo",2005,27,"Age-standardized",1,"Male",0.11096540179
+455,"prev_obesity_agestd",4655,"Hidalgo",2005,27,"Age-standardized",2,"Female",0.177861559337
+455,"prev_obesity_agestd",4656,"Jalisco",2005,27,"Age-standardized",1,"Male",0.146647708011
+455,"prev_obesity_agestd",4656,"Jalisco",2005,27,"Age-standardized",2,"Female",0.207373686303
+455,"prev_obesity_agestd",4657,"México",2005,27,"Age-standardized",1,"Male",0.148620260532
+455,"prev_obesity_agestd",4657,"México",2005,27,"Age-standardized",2,"Female",0.180178372423
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",1,"Male",0.134738578408
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",2,"Female",0.179698291339
+455,"prev_obesity_agestd",4659,"Morelos",2005,27,"Age-standardized",1,"Male",0.140374400198
+455,"prev_obesity_agestd",4659,"Morelos",2005,27,"Age-standardized",2,"Female",0.176824657953
+455,"prev_obesity_agestd",4660,"Nayarit",2005,27,"Age-standardized",1,"Male",0.157220434703
+455,"prev_obesity_agestd",4660,"Nayarit",2005,27,"Age-standardized",2,"Female",0.225781806583
+455,"prev_obesity_agestd",4661,"Nuevo León",2005,27,"Age-standardized",1,"Male",0.18566367875
+455,"prev_obesity_agestd",4661,"Nuevo León",2005,27,"Age-standardized",2,"Female",0.228938418203
+455,"prev_obesity_agestd",4662,"Oaxaca",2005,27,"Age-standardized",1,"Male",0.0885442780173
+455,"prev_obesity_agestd",4662,"Oaxaca",2005,27,"Age-standardized",2,"Female",0.134084695654
+455,"prev_obesity_agestd",4663,"Puebla",2005,27,"Age-standardized",1,"Male",0.115006093154
+455,"prev_obesity_agestd",4663,"Puebla",2005,27,"Age-standardized",2,"Female",0.170794087023
+455,"prev_obesity_agestd",4664,"Querétaro",2005,27,"Age-standardized",1,"Male",0.141538621598
+455,"prev_obesity_agestd",4664,"Querétaro",2005,27,"Age-standardized",2,"Female",0.197159261027
+455,"prev_obesity_agestd",4665,"Quintana Roo",2005,27,"Age-standardized",1,"Male",0.173428191042
+455,"prev_obesity_agestd",4665,"Quintana Roo",2005,27,"Age-standardized",2,"Female",0.245182527159
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2005,27,"Age-standardized",1,"Male",0.119826933342
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2005,27,"Age-standardized",2,"Female",0.211586000566
+455,"prev_obesity_agestd",4667,"Sinaloa",2005,27,"Age-standardized",1,"Male",0.137769002487
+455,"prev_obesity_agestd",4667,"Sinaloa",2005,27,"Age-standardized",2,"Female",0.199781607257
+455,"prev_obesity_agestd",4668,"Sonora",2005,27,"Age-standardized",1,"Male",0.147150678807
+455,"prev_obesity_agestd",4668,"Sonora",2005,27,"Age-standardized",2,"Female",0.223763582842
+455,"prev_obesity_agestd",4669,"Tabasco",2005,27,"Age-standardized",1,"Male",0.18312768535
+455,"prev_obesity_agestd",4669,"Tabasco",2005,27,"Age-standardized",2,"Female",0.246623394359
+455,"prev_obesity_agestd",4670,"Tamaulipas",2005,27,"Age-standardized",1,"Male",0.179802411452
+455,"prev_obesity_agestd",4670,"Tamaulipas",2005,27,"Age-standardized",2,"Female",0.243626239572
+455,"prev_obesity_agestd",4671,"Tlaxcala",2005,27,"Age-standardized",1,"Male",0.145159388699
+455,"prev_obesity_agestd",4671,"Tlaxcala",2005,27,"Age-standardized",2,"Female",0.201068091069
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",1,"Male",0.113116094725
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",2,"Female",0.156633495048
+455,"prev_obesity_agestd",4673,"Yucatán",2005,27,"Age-standardized",1,"Male",0.179659142736
+455,"prev_obesity_agestd",4673,"Yucatán",2005,27,"Age-standardized",2,"Female",0.227868849248
+455,"prev_obesity_agestd",4674,"Zacatecas",2005,27,"Age-standardized",1,"Male",0.133168522317
+455,"prev_obesity_agestd",4674,"Zacatecas",2005,27,"Age-standardized",2,"Female",0.207754270353
+455,"prev_obesity_agestd",130,"Mexico",2006,27,"Age-standardized",1,"Male",0.100371888575975
+455,"prev_obesity_agestd",130,"Mexico",2006,27,"Age-standardized",2,"Female",0.1597913943262
+455,"prev_obesity_agestd",4643,"Aguascalientes",2006,27,"Age-standardized",1,"Male",0.152508156022
+455,"prev_obesity_agestd",4643,"Aguascalientes",2006,27,"Age-standardized",2,"Female",0.217431814891
+455,"prev_obesity_agestd",4644,"Baja California",2006,27,"Age-standardized",1,"Male",0.173860378078
+455,"prev_obesity_agestd",4644,"Baja California",2006,27,"Age-standardized",2,"Female",0.254849033814
+455,"prev_obesity_agestd",4645,"Baja California Sur",2006,27,"Age-standardized",1,"Male",0.189869574205
+455,"prev_obesity_agestd",4645,"Baja California Sur",2006,27,"Age-standardized",2,"Female",0.24155108492
+455,"prev_obesity_agestd",4646,"Campeche",2006,27,"Age-standardized",1,"Male",0.184571172799
+455,"prev_obesity_agestd",4646,"Campeche",2006,27,"Age-standardized",2,"Female",0.25895671975
+455,"prev_obesity_agestd",4647,"Coahuila",2006,27,"Age-standardized",1,"Male",0.158699007246
+455,"prev_obesity_agestd",4647,"Coahuila",2006,27,"Age-standardized",2,"Female",0.246197079556
+455,"prev_obesity_agestd",4648,"Colima",2006,27,"Age-standardized",1,"Male",0.182411114817
+455,"prev_obesity_agestd",4648,"Colima",2006,27,"Age-standardized",2,"Female",0.233595715855
+455,"prev_obesity_agestd",4649,"Chiapas",2006,27,"Age-standardized",1,"Male",0.100292019894
+455,"prev_obesity_agestd",4649,"Chiapas",2006,27,"Age-standardized",2,"Female",0.170551126287
+455,"prev_obesity_agestd",4650,"Chihuahua",2006,27,"Age-standardized",1,"Male",0.163827020317
+455,"prev_obesity_agestd",4650,"Chihuahua",2006,27,"Age-standardized",2,"Female",0.229256654541
+455,"prev_obesity_agestd",4651,"Mexico City",2006,27,"Age-standardized",1,"Male",0.151103692443
+455,"prev_obesity_agestd",4651,"Mexico City",2006,27,"Age-standardized",2,"Female",0.183215455491
+455,"prev_obesity_agestd",4652,"Durango",2006,27,"Age-standardized",1,"Male",0.138975116637
+455,"prev_obesity_agestd",4652,"Durango",2006,27,"Age-standardized",2,"Female",0.210511569936
+455,"prev_obesity_agestd",4653,"Guanajuato",2006,27,"Age-standardized",1,"Male",0.132775091451
+455,"prev_obesity_agestd",4653,"Guanajuato",2006,27,"Age-standardized",2,"Female",0.20055452212
+455,"prev_obesity_agestd",4654,"Guerrero",2006,27,"Age-standardized",1,"Male",0.136005159546
+455,"prev_obesity_agestd",4654,"Guerrero",2006,27,"Age-standardized",2,"Female",0.162705101489
+455,"prev_obesity_agestd",4655,"Hidalgo",2006,27,"Age-standardized",1,"Male",0.114413783687
+455,"prev_obesity_agestd",4655,"Hidalgo",2006,27,"Age-standardized",2,"Female",0.182695142263
+455,"prev_obesity_agestd",4656,"Jalisco",2006,27,"Age-standardized",1,"Male",0.149680523823
+455,"prev_obesity_agestd",4656,"Jalisco",2006,27,"Age-standardized",2,"Female",0.211283485803
+455,"prev_obesity_agestd",4657,"México",2006,27,"Age-standardized",1,"Male",0.150235053924
+455,"prev_obesity_agestd",4657,"México",2006,27,"Age-standardized",2,"Female",0.180106605713
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",1,"Male",0.137910917653
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",2,"Female",0.18397763389
+455,"prev_obesity_agestd",4659,"Morelos",2006,27,"Age-standardized",1,"Male",0.143113490556
+455,"prev_obesity_agestd",4659,"Morelos",2006,27,"Age-standardized",2,"Female",0.17888564515
+455,"prev_obesity_agestd",4660,"Nayarit",2006,27,"Age-standardized",1,"Male",0.160415013716
+455,"prev_obesity_agestd",4660,"Nayarit",2006,27,"Age-standardized",2,"Female",0.228213293536
+455,"prev_obesity_agestd",4661,"Nuevo León",2006,27,"Age-standardized",1,"Male",0.189258108564
+455,"prev_obesity_agestd",4661,"Nuevo León",2006,27,"Age-standardized",2,"Female",0.232400069554
+455,"prev_obesity_agestd",4662,"Oaxaca",2006,27,"Age-standardized",1,"Male",0.0924709269244
+455,"prev_obesity_agestd",4662,"Oaxaca",2006,27,"Age-standardized",2,"Female",0.139353446185
+455,"prev_obesity_agestd",4663,"Puebla",2006,27,"Age-standardized",1,"Male",0.118671791577
+455,"prev_obesity_agestd",4663,"Puebla",2006,27,"Age-standardized",2,"Female",0.176780358041
+455,"prev_obesity_agestd",4664,"Querétaro",2006,27,"Age-standardized",1,"Male",0.143642977967
+455,"prev_obesity_agestd",4664,"Querétaro",2006,27,"Age-standardized",2,"Female",0.197951467146
+455,"prev_obesity_agestd",4665,"Quintana Roo",2006,27,"Age-standardized",1,"Male",0.177317574476
+455,"prev_obesity_agestd",4665,"Quintana Roo",2006,27,"Age-standardized",2,"Female",0.249451966106
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2006,27,"Age-standardized",1,"Male",0.122381523862
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2006,27,"Age-standardized",2,"Female",0.216676196772
+455,"prev_obesity_agestd",4667,"Sinaloa",2006,27,"Age-standardized",1,"Male",0.138315041311
+455,"prev_obesity_agestd",4667,"Sinaloa",2006,27,"Age-standardized",2,"Female",0.202893938651
+455,"prev_obesity_agestd",4668,"Sonora",2006,27,"Age-standardized",1,"Male",0.15101213101
+455,"prev_obesity_agestd",4668,"Sonora",2006,27,"Age-standardized",2,"Female",0.22820041318
+455,"prev_obesity_agestd",4669,"Tabasco",2006,27,"Age-standardized",1,"Male",0.187452440942
+455,"prev_obesity_agestd",4669,"Tabasco",2006,27,"Age-standardized",2,"Female",0.252018049347
+455,"prev_obesity_agestd",4670,"Tamaulipas",2006,27,"Age-standardized",1,"Male",0.182006137053
+455,"prev_obesity_agestd",4670,"Tamaulipas",2006,27,"Age-standardized",2,"Female",0.24841565998
+455,"prev_obesity_agestd",4671,"Tlaxcala",2006,27,"Age-standardized",1,"Male",0.149294188343
+455,"prev_obesity_agestd",4671,"Tlaxcala",2006,27,"Age-standardized",2,"Female",0.203932964021
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",1,"Male",0.11610892084
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",2,"Female",0.160148794599
+455,"prev_obesity_agestd",4673,"Yucatán",2006,27,"Age-standardized",1,"Male",0.18485002691
+455,"prev_obesity_agestd",4673,"Yucatán",2006,27,"Age-standardized",2,"Female",0.232778773652
+455,"prev_obesity_agestd",4674,"Zacatecas",2006,27,"Age-standardized",1,"Male",0.135653824775
+455,"prev_obesity_agestd",4674,"Zacatecas",2006,27,"Age-standardized",2,"Female",0.210725291814
+455,"prev_obesity_agestd",130,"Mexico",2007,27,"Age-standardized",1,"Male",0.104003477841688
+455,"prev_obesity_agestd",130,"Mexico",2007,27,"Age-standardized",2,"Female",0.164609099237887
+455,"prev_obesity_agestd",4643,"Aguascalientes",2007,27,"Age-standardized",1,"Male",0.154239536872
+455,"prev_obesity_agestd",4643,"Aguascalientes",2007,27,"Age-standardized",2,"Female",0.220905161206
+455,"prev_obesity_agestd",4644,"Baja California",2007,27,"Age-standardized",1,"Male",0.180597422175
+455,"prev_obesity_agestd",4644,"Baja California",2007,27,"Age-standardized",2,"Female",0.259872818055
+455,"prev_obesity_agestd",4645,"Baja California Sur",2007,27,"Age-standardized",1,"Male",0.191581446504
+455,"prev_obesity_agestd",4645,"Baja California Sur",2007,27,"Age-standardized",2,"Female",0.241646269589
+455,"prev_obesity_agestd",4646,"Campeche",2007,27,"Age-standardized",1,"Male",0.191284432348
+455,"prev_obesity_agestd",4646,"Campeche",2007,27,"Age-standardized",2,"Female",0.262135689494
+455,"prev_obesity_agestd",4647,"Coahuila",2007,27,"Age-standardized",1,"Male",0.161151273834
+455,"prev_obesity_agestd",4647,"Coahuila",2007,27,"Age-standardized",2,"Female",0.250794192164
+455,"prev_obesity_agestd",4648,"Colima",2007,27,"Age-standardized",1,"Male",0.18507333507
+455,"prev_obesity_agestd",4648,"Colima",2007,27,"Age-standardized",2,"Female",0.239211785507
+455,"prev_obesity_agestd",4649,"Chiapas",2007,27,"Age-standardized",1,"Male",0.103215860828
+455,"prev_obesity_agestd",4649,"Chiapas",2007,27,"Age-standardized",2,"Female",0.173840768502
+455,"prev_obesity_agestd",4650,"Chihuahua",2007,27,"Age-standardized",1,"Male",0.16791926476
+455,"prev_obesity_agestd",4650,"Chihuahua",2007,27,"Age-standardized",2,"Female",0.23314506645
+455,"prev_obesity_agestd",4651,"Mexico City",2007,27,"Age-standardized",1,"Male",0.153896796797
+455,"prev_obesity_agestd",4651,"Mexico City",2007,27,"Age-standardized",2,"Female",0.184783285861
+455,"prev_obesity_agestd",4652,"Durango",2007,27,"Age-standardized",1,"Male",0.140387637141
+455,"prev_obesity_agestd",4652,"Durango",2007,27,"Age-standardized",2,"Female",0.212219357513
+455,"prev_obesity_agestd",4653,"Guanajuato",2007,27,"Age-standardized",1,"Male",0.134643227216
+455,"prev_obesity_agestd",4653,"Guanajuato",2007,27,"Age-standardized",2,"Female",0.204219012627
+455,"prev_obesity_agestd",4654,"Guerrero",2007,27,"Age-standardized",1,"Male",0.138275097932
+455,"prev_obesity_agestd",4654,"Guerrero",2007,27,"Age-standardized",2,"Female",0.168545681806
+455,"prev_obesity_agestd",4655,"Hidalgo",2007,27,"Age-standardized",1,"Male",0.11807414368
+455,"prev_obesity_agestd",4655,"Hidalgo",2007,27,"Age-standardized",2,"Female",0.187787466085
+455,"prev_obesity_agestd",4656,"Jalisco",2007,27,"Age-standardized",1,"Male",0.153020799102
+455,"prev_obesity_agestd",4656,"Jalisco",2007,27,"Age-standardized",2,"Female",0.2155766736
+455,"prev_obesity_agestd",4657,"México",2007,27,"Age-standardized",1,"Male",0.151378044364
+455,"prev_obesity_agestd",4657,"México",2007,27,"Age-standardized",2,"Female",0.180482171633
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",1,"Male",0.140786091113
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",2,"Female",0.188352276667
+455,"prev_obesity_agestd",4659,"Morelos",2007,27,"Age-standardized",1,"Male",0.146021856153
+455,"prev_obesity_agestd",4659,"Morelos",2007,27,"Age-standardized",2,"Female",0.181419655799
+455,"prev_obesity_agestd",4660,"Nayarit",2007,27,"Age-standardized",1,"Male",0.16335904069
+455,"prev_obesity_agestd",4660,"Nayarit",2007,27,"Age-standardized",2,"Female",0.230617398032
+455,"prev_obesity_agestd",4661,"Nuevo León",2007,27,"Age-standardized",1,"Male",0.193054024816
+455,"prev_obesity_agestd",4661,"Nuevo León",2007,27,"Age-standardized",2,"Female",0.236241969172
+455,"prev_obesity_agestd",4662,"Oaxaca",2007,27,"Age-standardized",1,"Male",0.0963428963555
+455,"prev_obesity_agestd",4662,"Oaxaca",2007,27,"Age-standardized",2,"Female",0.144776351508
+455,"prev_obesity_agestd",4663,"Puebla",2007,27,"Age-standardized",1,"Male",0.122544244669
+455,"prev_obesity_agestd",4663,"Puebla",2007,27,"Age-standardized",2,"Female",0.183277783302
+455,"prev_obesity_agestd",4664,"Querétaro",2007,27,"Age-standardized",1,"Male",0.145724290243
+455,"prev_obesity_agestd",4664,"Querétaro",2007,27,"Age-standardized",2,"Female",0.198901932904
+455,"prev_obesity_agestd",4665,"Quintana Roo",2007,27,"Age-standardized",1,"Male",0.181199834287
+455,"prev_obesity_agestd",4665,"Quintana Roo",2007,27,"Age-standardized",2,"Female",0.25408539407
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2007,27,"Age-standardized",1,"Male",0.124806000623
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2007,27,"Age-standardized",2,"Female",0.221733718679
+455,"prev_obesity_agestd",4667,"Sinaloa",2007,27,"Age-standardized",1,"Male",0.138818513546
+455,"prev_obesity_agestd",4667,"Sinaloa",2007,27,"Age-standardized",2,"Female",0.206277401558
+455,"prev_obesity_agestd",4668,"Sonora",2007,27,"Age-standardized",1,"Male",0.15486309729
+455,"prev_obesity_agestd",4668,"Sonora",2007,27,"Age-standardized",2,"Female",0.232953023186
+455,"prev_obesity_agestd",4669,"Tabasco",2007,27,"Age-standardized",1,"Male",0.191809128367
+455,"prev_obesity_agestd",4669,"Tabasco",2007,27,"Age-standardized",2,"Female",0.257618408962
+455,"prev_obesity_agestd",4670,"Tamaulipas",2007,27,"Age-standardized",1,"Male",0.184648766908
+455,"prev_obesity_agestd",4670,"Tamaulipas",2007,27,"Age-standardized",2,"Female",0.253923079969
+455,"prev_obesity_agestd",4671,"Tlaxcala",2007,27,"Age-standardized",1,"Male",0.153954920361
+455,"prev_obesity_agestd",4671,"Tlaxcala",2007,27,"Age-standardized",2,"Female",0.20726531242
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",1,"Male",0.119183696216
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",2,"Female",0.164205265539
+455,"prev_obesity_agestd",4673,"Yucatán",2007,27,"Age-standardized",1,"Male",0.190112345883
+455,"prev_obesity_agestd",4673,"Yucatán",2007,27,"Age-standardized",2,"Female",0.237936263421
+455,"prev_obesity_agestd",4674,"Zacatecas",2007,27,"Age-standardized",1,"Male",0.138072780735
+455,"prev_obesity_agestd",4674,"Zacatecas",2007,27,"Age-standardized",2,"Female",0.213822804944
+455,"prev_obesity_agestd",130,"Mexico",2008,27,"Age-standardized",1,"Male",0.107907377347775
+455,"prev_obesity_agestd",130,"Mexico",2008,27,"Age-standardized",2,"Female",0.169509879575775
+455,"prev_obesity_agestd",4643,"Aguascalientes",2008,27,"Age-standardized",1,"Male",0.159193196661
+455,"prev_obesity_agestd",4643,"Aguascalientes",2008,27,"Age-standardized",2,"Female",0.225368063457
+455,"prev_obesity_agestd",4644,"Baja California",2008,27,"Age-standardized",1,"Male",0.189456788236
+455,"prev_obesity_agestd",4644,"Baja California",2008,27,"Age-standardized",2,"Female",0.266964440025
+455,"prev_obesity_agestd",4645,"Baja California Sur",2008,27,"Age-standardized",1,"Male",0.19541756557
+455,"prev_obesity_agestd",4645,"Baja California Sur",2008,27,"Age-standardized",2,"Female",0.244276110328
+455,"prev_obesity_agestd",4646,"Campeche",2008,27,"Age-standardized",1,"Male",0.198845863335
+455,"prev_obesity_agestd",4646,"Campeche",2008,27,"Age-standardized",2,"Female",0.266269850308
+455,"prev_obesity_agestd",4647,"Coahuila",2008,27,"Age-standardized",1,"Male",0.164455746826
+455,"prev_obesity_agestd",4647,"Coahuila",2008,27,"Age-standardized",2,"Female",0.256808583999
+455,"prev_obesity_agestd",4648,"Colima",2008,27,"Age-standardized",1,"Male",0.188443698792
+455,"prev_obesity_agestd",4648,"Colima",2008,27,"Age-standardized",2,"Female",0.245904901215
+455,"prev_obesity_agestd",4649,"Chiapas",2008,27,"Age-standardized",1,"Male",0.106643598801
+455,"prev_obesity_agestd",4649,"Chiapas",2008,27,"Age-standardized",2,"Female",0.178532805803
+455,"prev_obesity_agestd",4650,"Chihuahua",2008,27,"Age-standardized",1,"Male",0.173253837552
+455,"prev_obesity_agestd",4650,"Chihuahua",2008,27,"Age-standardized",2,"Female",0.238207596725
+455,"prev_obesity_agestd",4651,"Mexico City",2008,27,"Age-standardized",1,"Male",0.1589180034
+455,"prev_obesity_agestd",4651,"Mexico City",2008,27,"Age-standardized",2,"Female",0.189747219264
+455,"prev_obesity_agestd",4652,"Durango",2008,27,"Age-standardized",1,"Male",0.142185671984
+455,"prev_obesity_agestd",4652,"Durango",2008,27,"Age-standardized",2,"Female",0.214749815608
+455,"prev_obesity_agestd",4653,"Guanajuato",2008,27,"Age-standardized",1,"Male",0.137005184907
+455,"prev_obesity_agestd",4653,"Guanajuato",2008,27,"Age-standardized",2,"Female",0.208958756808
+455,"prev_obesity_agestd",4654,"Guerrero",2008,27,"Age-standardized",1,"Male",0.140809449525
+455,"prev_obesity_agestd",4654,"Guerrero",2008,27,"Age-standardized",2,"Female",0.175052229269
+455,"prev_obesity_agestd",4655,"Hidalgo",2008,27,"Age-standardized",1,"Male",0.122237373719
+455,"prev_obesity_agestd",4655,"Hidalgo",2008,27,"Age-standardized",2,"Female",0.193705007026
+455,"prev_obesity_agestd",4656,"Jalisco",2008,27,"Age-standardized",1,"Male",0.158271585407
+455,"prev_obesity_agestd",4656,"Jalisco",2008,27,"Age-standardized",2,"Female",0.22084751264
+455,"prev_obesity_agestd",4657,"México",2008,27,"Age-standardized",1,"Male",0.154054542505
+455,"prev_obesity_agestd",4657,"México",2008,27,"Age-standardized",2,"Female",0.183633600259
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",1,"Male",0.144019842587
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",2,"Female",0.193442731777
+455,"prev_obesity_agestd",4659,"Morelos",2008,27,"Age-standardized",1,"Male",0.149855651241
+455,"prev_obesity_agestd",4659,"Morelos",2008,27,"Age-standardized",2,"Female",0.185047339722
+455,"prev_obesity_agestd",4660,"Nayarit",2008,27,"Age-standardized",1,"Male",0.166991418599
+455,"prev_obesity_agestd",4660,"Nayarit",2008,27,"Age-standardized",2,"Female",0.233930854172
+455,"prev_obesity_agestd",4661,"Nuevo León",2008,27,"Age-standardized",1,"Male",0.197859751813
+455,"prev_obesity_agestd",4661,"Nuevo León",2008,27,"Age-standardized",2,"Female",0.241200343262
+455,"prev_obesity_agestd",4662,"Oaxaca",2008,27,"Age-standardized",1,"Male",0.100573738657
+455,"prev_obesity_agestd",4662,"Oaxaca",2008,27,"Age-standardized",2,"Female",0.150773018675
+455,"prev_obesity_agestd",4663,"Puebla",2008,27,"Age-standardized",1,"Male",0.127055136352
+455,"prev_obesity_agestd",4663,"Puebla",2008,27,"Age-standardized",2,"Female",0.190648563843
+455,"prev_obesity_agestd",4664,"Querétaro",2008,27,"Age-standardized",1,"Male",0.149375537309
+455,"prev_obesity_agestd",4664,"Querétaro",2008,27,"Age-standardized",2,"Female",0.201693564341
+455,"prev_obesity_agestd",4665,"Quintana Roo",2008,27,"Age-standardized",1,"Male",0.185930872061
+455,"prev_obesity_agestd",4665,"Quintana Roo",2008,27,"Age-standardized",2,"Female",0.259964382525
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2008,27,"Age-standardized",1,"Male",0.127918259696
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2008,27,"Age-standardized",2,"Female",0.227584581496
+455,"prev_obesity_agestd",4667,"Sinaloa",2008,27,"Age-standardized",1,"Male",0.14009875997
+455,"prev_obesity_agestd",4667,"Sinaloa",2008,27,"Age-standardized",2,"Female",0.210585475955
+455,"prev_obesity_agestd",4668,"Sonora",2008,27,"Age-standardized",1,"Male",0.159482645906
+455,"prev_obesity_agestd",4668,"Sonora",2008,27,"Age-standardized",2,"Female",0.238779078007
+455,"prev_obesity_agestd",4669,"Tabasco",2008,27,"Age-standardized",1,"Male",0.197181134581
+455,"prev_obesity_agestd",4669,"Tabasco",2008,27,"Age-standardized",2,"Female",0.264289840577
+455,"prev_obesity_agestd",4670,"Tamaulipas",2008,27,"Age-standardized",1,"Male",0.188619194967
+455,"prev_obesity_agestd",4670,"Tamaulipas",2008,27,"Age-standardized",2,"Female",0.260995775035
+455,"prev_obesity_agestd",4671,"Tlaxcala",2008,27,"Age-standardized",1,"Male",0.160263428123
+455,"prev_obesity_agestd",4671,"Tlaxcala",2008,27,"Age-standardized",2,"Female",0.211798264011
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",1,"Male",0.122954040195
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",2,"Female",0.170826651709
+455,"prev_obesity_agestd",4673,"Yucatán",2008,27,"Age-standardized",1,"Male",0.196458839518
+455,"prev_obesity_agestd",4673,"Yucatán",2008,27,"Age-standardized",2,"Female",0.244311744963
+455,"prev_obesity_agestd",4674,"Zacatecas",2008,27,"Age-standardized",1,"Male",0.14098774325
+455,"prev_obesity_agestd",4674,"Zacatecas",2008,27,"Age-standardized",2,"Female",0.217851647474
+455,"prev_obesity_agestd",130,"Mexico",2009,27,"Age-standardized",1,"Male",0.111637165033787
+455,"prev_obesity_agestd",130,"Mexico",2009,27,"Age-standardized",2,"Female",0.173906401668687
+455,"prev_obesity_agestd",4643,"Aguascalientes",2009,27,"Age-standardized",1,"Male",0.163099952779
+455,"prev_obesity_agestd",4643,"Aguascalientes",2009,27,"Age-standardized",2,"Female",0.228870797572
+455,"prev_obesity_agestd",4644,"Baja California",2009,27,"Age-standardized",1,"Male",0.196795558632
+455,"prev_obesity_agestd",4644,"Baja California",2009,27,"Age-standardized",2,"Female",0.272886651855
+455,"prev_obesity_agestd",4645,"Baja California Sur",2009,27,"Age-standardized",1,"Male",0.200186558831
+455,"prev_obesity_agestd",4645,"Baja California Sur",2009,27,"Age-standardized",2,"Female",0.248646673521
+455,"prev_obesity_agestd",4646,"Campeche",2009,27,"Age-standardized",1,"Male",0.204884774859
+455,"prev_obesity_agestd",4646,"Campeche",2009,27,"Age-standardized",2,"Female",0.269247616904
+455,"prev_obesity_agestd",4647,"Coahuila",2009,27,"Age-standardized",1,"Male",0.166302328515
+455,"prev_obesity_agestd",4647,"Coahuila",2009,27,"Age-standardized",2,"Female",0.261675808683
+455,"prev_obesity_agestd",4648,"Colima",2009,27,"Age-standardized",1,"Male",0.19054671025
+455,"prev_obesity_agestd",4648,"Colima",2009,27,"Age-standardized",2,"Female",0.251529554607
+455,"prev_obesity_agestd",4649,"Chiapas",2009,27,"Age-standardized",1,"Male",0.109394335684
+455,"prev_obesity_agestd",4649,"Chiapas",2009,27,"Age-standardized",2,"Female",0.182387475452
+455,"prev_obesity_agestd",4650,"Chihuahua",2009,27,"Age-standardized",1,"Male",0.177596624125
+455,"prev_obesity_agestd",4650,"Chihuahua",2009,27,"Age-standardized",2,"Female",0.242497672194
+455,"prev_obesity_agestd",4651,"Mexico City",2009,27,"Age-standardized",1,"Male",0.163118476687
+455,"prev_obesity_agestd",4651,"Mexico City",2009,27,"Age-standardized",2,"Female",0.194199658374
+455,"prev_obesity_agestd",4652,"Durango",2009,27,"Age-standardized",1,"Male",0.142655996556
+455,"prev_obesity_agestd",4652,"Durango",2009,27,"Age-standardized",2,"Female",0.216082847876
+455,"prev_obesity_agestd",4653,"Guanajuato",2009,27,"Age-standardized",1,"Male",0.138196056237
+455,"prev_obesity_agestd",4653,"Guanajuato",2009,27,"Age-standardized",2,"Female",0.21268104614
+455,"prev_obesity_agestd",4654,"Guerrero",2009,27,"Age-standardized",1,"Male",0.142234814622
+455,"prev_obesity_agestd",4654,"Guerrero",2009,27,"Age-standardized",2,"Female",0.180726058666
+455,"prev_obesity_agestd",4655,"Hidalgo",2009,27,"Age-standardized",1,"Male",0.125366404524
+455,"prev_obesity_agestd",4655,"Hidalgo",2009,27,"Age-standardized",2,"Female",0.198491582782
+455,"prev_obesity_agestd",4656,"Jalisco",2009,27,"Age-standardized",1,"Male",0.161990129602
+455,"prev_obesity_agestd",4656,"Jalisco",2009,27,"Age-standardized",2,"Female",0.22485355969
+455,"prev_obesity_agestd",4657,"México",2009,27,"Age-standardized",1,"Male",0.156309903251
+455,"prev_obesity_agestd",4657,"México",2009,27,"Age-standardized",2,"Female",0.187301242709
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",1,"Male",0.145879524893
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",2,"Female",0.197327979663
+455,"prev_obesity_agestd",4659,"Morelos",2009,27,"Age-standardized",1,"Male",0.152320911337
+455,"prev_obesity_agestd",4659,"Morelos",2009,27,"Age-standardized",2,"Female",0.187737733749
+455,"prev_obesity_agestd",4660,"Nayarit",2009,27,"Age-standardized",1,"Male",0.169412542783
+455,"prev_obesity_agestd",4660,"Nayarit",2009,27,"Age-standardized",2,"Female",0.236340697558
+455,"prev_obesity_agestd",4661,"Nuevo León",2009,27,"Age-standardized",1,"Male",0.200887970518
+455,"prev_obesity_agestd",4661,"Nuevo León",2009,27,"Age-standardized",2,"Female",0.244844540363
+455,"prev_obesity_agestd",4662,"Oaxaca",2009,27,"Age-standardized",1,"Male",0.103726899216
+455,"prev_obesity_agestd",4662,"Oaxaca",2009,27,"Age-standardized",2,"Female",0.155546028887
+455,"prev_obesity_agestd",4663,"Puebla",2009,27,"Age-standardized",1,"Male",0.130412301368
+455,"prev_obesity_agestd",4663,"Puebla",2009,27,"Age-standardized",2,"Female",0.196736084912
+455,"prev_obesity_agestd",4664,"Querétaro",2009,27,"Age-standardized",1,"Male",0.151979184906
+455,"prev_obesity_agestd",4664,"Querétaro",2009,27,"Age-standardized",2,"Female",0.203949267125
+455,"prev_obesity_agestd",4665,"Quintana Roo",2009,27,"Age-standardized",1,"Male",0.189490886779
+455,"prev_obesity_agestd",4665,"Quintana Roo",2009,27,"Age-standardized",2,"Female",0.264964794648
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2009,27,"Age-standardized",1,"Male",0.130142618604
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2009,27,"Age-standardized",2,"Female",0.232444314472
+455,"prev_obesity_agestd",4667,"Sinaloa",2009,27,"Age-standardized",1,"Male",0.140178516511
+455,"prev_obesity_agestd",4667,"Sinaloa",2009,27,"Age-standardized",2,"Female",0.213708044935
+455,"prev_obesity_agestd",4668,"Sonora",2009,27,"Age-standardized",1,"Male",0.162647666755
+455,"prev_obesity_agestd",4668,"Sonora",2009,27,"Age-standardized",2,"Female",0.243357157844
+455,"prev_obesity_agestd",4669,"Tabasco",2009,27,"Age-standardized",1,"Male",0.201360831791
+455,"prev_obesity_agestd",4669,"Tabasco",2009,27,"Age-standardized",2,"Female",0.269869996991
+455,"prev_obesity_agestd",4670,"Tamaulipas",2009,27,"Age-standardized",1,"Male",0.191413337242
+455,"prev_obesity_agestd",4670,"Tamaulipas",2009,27,"Age-standardized",2,"Female",0.267223694205
+455,"prev_obesity_agestd",4671,"Tlaxcala",2009,27,"Age-standardized",1,"Male",0.164998848911
+455,"prev_obesity_agestd",4671,"Tlaxcala",2009,27,"Age-standardized",2,"Female",0.214678090265
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",1,"Male",0.125683155741
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",2,"Female",0.176522638282
+455,"prev_obesity_agestd",4673,"Yucatán",2009,27,"Age-standardized",1,"Male",0.201206880277
+455,"prev_obesity_agestd",4673,"Yucatán",2009,27,"Age-standardized",2,"Female",0.249580788217
+455,"prev_obesity_agestd",4674,"Zacatecas",2009,27,"Age-standardized",1,"Male",0.142988115861
+455,"prev_obesity_agestd",4674,"Zacatecas",2009,27,"Age-standardized",2,"Female",0.221092986019
+455,"prev_obesity_agestd",130,"Mexico",2010,27,"Age-standardized",1,"Male",0.115615885627237
+455,"prev_obesity_agestd",130,"Mexico",2010,27,"Age-standardized",2,"Female",0.178332160887512
+455,"prev_obesity_agestd",4643,"Aguascalientes",2010,27,"Age-standardized",1,"Male",0.168362659457
+455,"prev_obesity_agestd",4643,"Aguascalientes",2010,27,"Age-standardized",2,"Female",0.233968047638
+455,"prev_obesity_agestd",4644,"Baja California",2010,27,"Age-standardized",1,"Male",0.205159870676
+455,"prev_obesity_agestd",4644,"Baja California",2010,27,"Age-standardized",2,"Female",0.280159471571
+455,"prev_obesity_agestd",4645,"Baja California Sur",2010,27,"Age-standardized",1,"Male",0.208255802056
+455,"prev_obesity_agestd",4645,"Baja California Sur",2010,27,"Age-standardized",2,"Female",0.256827460423
+455,"prev_obesity_agestd",4646,"Campeche",2010,27,"Age-standardized",1,"Male",0.212141676252
+455,"prev_obesity_agestd",4646,"Campeche",2010,27,"Age-standardized",2,"Female",0.273961566107
+455,"prev_obesity_agestd",4647,"Coahuila",2010,27,"Age-standardized",1,"Male",0.169218888042
+455,"prev_obesity_agestd",4647,"Coahuila",2010,27,"Age-standardized",2,"Female",0.267919509286
+455,"prev_obesity_agestd",4648,"Colima",2010,27,"Age-standardized",1,"Male",0.19406290816
+455,"prev_obesity_agestd",4648,"Colima",2010,27,"Age-standardized",2,"Female",0.258637734528
+455,"prev_obesity_agestd",4649,"Chiapas",2010,27,"Age-standardized",1,"Male",0.11318993752
+455,"prev_obesity_agestd",4649,"Chiapas",2010,27,"Age-standardized",2,"Female",0.18769716395
+455,"prev_obesity_agestd",4650,"Chihuahua",2010,27,"Age-standardized",1,"Male",0.18354615226
+455,"prev_obesity_agestd",4650,"Chihuahua",2010,27,"Age-standardized",2,"Female",0.248724898381
+455,"prev_obesity_agestd",4651,"Mexico City",2010,27,"Age-standardized",1,"Male",0.169472475652
+455,"prev_obesity_agestd",4651,"Mexico City",2010,27,"Age-standardized",2,"Female",0.201619015907
+455,"prev_obesity_agestd",4652,"Durango",2010,27,"Age-standardized",1,"Male",0.143910426088
+455,"prev_obesity_agestd",4652,"Durango",2010,27,"Age-standardized",2,"Female",0.218576294728
+455,"prev_obesity_agestd",4653,"Guanajuato",2010,27,"Age-standardized",1,"Male",0.140430859656
+455,"prev_obesity_agestd",4653,"Guanajuato",2010,27,"Age-standardized",2,"Female",0.217743628665
+455,"prev_obesity_agestd",4654,"Guerrero",2010,27,"Age-standardized",1,"Male",0.145045416635
+455,"prev_obesity_agestd",4654,"Guerrero",2010,27,"Age-standardized",2,"Female",0.188100010544
+455,"prev_obesity_agestd",4655,"Hidalgo",2010,27,"Age-standardized",1,"Male",0.12925202745
+455,"prev_obesity_agestd",4655,"Hidalgo",2010,27,"Age-standardized",2,"Female",0.204070620709
+455,"prev_obesity_agestd",4656,"Jalisco",2010,27,"Age-standardized",1,"Male",0.166662935501
+455,"prev_obesity_agestd",4656,"Jalisco",2010,27,"Age-standardized",2,"Female",0.230046395181
+455,"prev_obesity_agestd",4657,"México",2010,27,"Age-standardized",1,"Male",0.160491452646
+455,"prev_obesity_agestd",4657,"México",2010,27,"Age-standardized",2,"Female",0.193145493707
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",1,"Male",0.148504486205
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",2,"Female",0.202099981648
+455,"prev_obesity_agestd",4659,"Morelos",2010,27,"Age-standardized",1,"Male",0.155784814645
+455,"prev_obesity_agestd",4659,"Morelos",2010,27,"Age-standardized",2,"Female",0.19158303898
+455,"prev_obesity_agestd",4660,"Nayarit",2010,27,"Age-standardized",1,"Male",0.173257110741
+455,"prev_obesity_agestd",4660,"Nayarit",2010,27,"Age-standardized",2,"Female",0.240674616632
+455,"prev_obesity_agestd",4661,"Nuevo León",2010,27,"Age-standardized",1,"Male",0.205144824469
+455,"prev_obesity_agestd",4661,"Nuevo León",2010,27,"Age-standardized",2,"Female",0.249799441272
+455,"prev_obesity_agestd",4662,"Oaxaca",2010,27,"Age-standardized",1,"Male",0.107190040627
+455,"prev_obesity_agestd",4662,"Oaxaca",2010,27,"Age-standardized",2,"Female",0.160761229814
+455,"prev_obesity_agestd",4663,"Puebla",2010,27,"Age-standardized",1,"Male",0.134438460075
+455,"prev_obesity_agestd",4663,"Puebla",2010,27,"Age-standardized",2,"Female",0.203669525489
+455,"prev_obesity_agestd",4664,"Querétaro",2010,27,"Age-standardized",1,"Male",0.155400975129
+455,"prev_obesity_agestd",4664,"Querétaro",2010,27,"Age-standardized",2,"Female",0.207555176881
+455,"prev_obesity_agestd",4665,"Quintana Roo",2010,27,"Age-standardized",1,"Male",0.194719573001
+455,"prev_obesity_agestd",4665,"Quintana Roo",2010,27,"Age-standardized",2,"Female",0.271790468697
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2010,27,"Age-standardized",1,"Male",0.133682463673
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2010,27,"Age-standardized",2,"Female",0.239156000675
+455,"prev_obesity_agestd",4667,"Sinaloa",2010,27,"Age-standardized",1,"Male",0.141135079953
+455,"prev_obesity_agestd",4667,"Sinaloa",2010,27,"Age-standardized",2,"Female",0.218015551672
+455,"prev_obesity_agestd",4668,"Sonora",2010,27,"Age-standardized",1,"Male",0.166818411613
+455,"prev_obesity_agestd",4668,"Sonora",2010,27,"Age-standardized",2,"Female",0.249369818095
+455,"prev_obesity_agestd",4669,"Tabasco",2010,27,"Age-standardized",1,"Male",0.206876345504
+455,"prev_obesity_agestd",4669,"Tabasco",2010,27,"Age-standardized",2,"Female",0.276962282223
+455,"prev_obesity_agestd",4670,"Tamaulipas",2010,27,"Age-standardized",1,"Male",0.195684855087
+455,"prev_obesity_agestd",4670,"Tamaulipas",2010,27,"Age-standardized",2,"Female",0.275040334882
+455,"prev_obesity_agestd",4671,"Tlaxcala",2010,27,"Age-standardized",1,"Male",0.170185800097
+455,"prev_obesity_agestd",4671,"Tlaxcala",2010,27,"Age-standardized",2,"Female",0.218128196501
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",1,"Male",0.129157086591
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",2,"Female",0.183215869746
+455,"prev_obesity_agestd",4673,"Yucatán",2010,27,"Age-standardized",1,"Male",0.206811995418
+455,"prev_obesity_agestd",4673,"Yucatán",2010,27,"Age-standardized",2,"Female",0.256077646507
+455,"prev_obesity_agestd",4674,"Zacatecas",2010,27,"Age-standardized",1,"Male",0.146222218353
+455,"prev_obesity_agestd",4674,"Zacatecas",2010,27,"Age-standardized",2,"Female",0.225990435379
+455,"prev_obesity_agestd",130,"Mexico",2011,27,"Age-standardized",1,"Male",0.119507309808338
+455,"prev_obesity_agestd",130,"Mexico",2011,27,"Age-standardized",2,"Female",0.182739126389938
+455,"prev_obesity_agestd",4643,"Aguascalientes",2011,27,"Age-standardized",1,"Male",0.172339597701
+455,"prev_obesity_agestd",4643,"Aguascalientes",2011,27,"Age-standardized",2,"Female",0.237906422128
+455,"prev_obesity_agestd",4644,"Baja California",2011,27,"Age-standardized",1,"Male",0.211956075332
+455,"prev_obesity_agestd",4644,"Baja California",2011,27,"Age-standardized",2,"Female",0.285993856275
+455,"prev_obesity_agestd",4645,"Baja California Sur",2011,27,"Age-standardized",1,"Male",0.214830053445
+455,"prev_obesity_agestd",4645,"Baja California Sur",2011,27,"Age-standardized",2,"Female",0.263829109338
+455,"prev_obesity_agestd",4646,"Campeche",2011,27,"Age-standardized",1,"Male",0.21721913849
+455,"prev_obesity_agestd",4646,"Campeche",2011,27,"Age-standardized",2,"Female",0.277197987967
+455,"prev_obesity_agestd",4647,"Coahuila",2011,27,"Age-standardized",1,"Male",0.173890432478
+455,"prev_obesity_agestd",4647,"Coahuila",2011,27,"Age-standardized",2,"Female",0.272710507222
+455,"prev_obesity_agestd",4648,"Colima",2011,27,"Age-standardized",1,"Male",0.195930672922
+455,"prev_obesity_agestd",4648,"Colima",2011,27,"Age-standardized",2,"Female",0.263982812156
+455,"prev_obesity_agestd",4649,"Chiapas",2011,27,"Age-standardized",1,"Male",0.115835615434
+455,"prev_obesity_agestd",4649,"Chiapas",2011,27,"Age-standardized",2,"Female",0.191675374945
+455,"prev_obesity_agestd",4650,"Chihuahua",2011,27,"Age-standardized",1,"Male",0.188239551026
+455,"prev_obesity_agestd",4650,"Chihuahua",2011,27,"Age-standardized",2,"Female",0.253812895731
+455,"prev_obesity_agestd",4651,"Mexico City",2011,27,"Age-standardized",1,"Male",0.177528417355
+455,"prev_obesity_agestd",4651,"Mexico City",2011,27,"Age-standardized",2,"Female",0.209625746526
+455,"prev_obesity_agestd",4652,"Durango",2011,27,"Age-standardized",1,"Male",0.14559677796
+455,"prev_obesity_agestd",4652,"Durango",2011,27,"Age-standardized",2,"Female",0.221357816722
+455,"prev_obesity_agestd",4653,"Guanajuato",2011,27,"Age-standardized",1,"Male",0.144134429733
+455,"prev_obesity_agestd",4653,"Guanajuato",2011,27,"Age-standardized",2,"Female",0.221999964704
+455,"prev_obesity_agestd",4654,"Guerrero",2011,27,"Age-standardized",1,"Male",0.147043635089
+455,"prev_obesity_agestd",4654,"Guerrero",2011,27,"Age-standardized",2,"Female",0.194703808185
+455,"prev_obesity_agestd",4655,"Hidalgo",2011,27,"Age-standardized",1,"Male",0.131767451153
+455,"prev_obesity_agestd",4655,"Hidalgo",2011,27,"Age-standardized",2,"Female",0.208145369287
+455,"prev_obesity_agestd",4656,"Jalisco",2011,27,"Age-standardized",1,"Male",0.169423152698
+455,"prev_obesity_agestd",4656,"Jalisco",2011,27,"Age-standardized",2,"Female",0.234660853626
+455,"prev_obesity_agestd",4657,"México",2011,27,"Age-standardized",1,"Male",0.164132861275
+455,"prev_obesity_agestd",4657,"México",2011,27,"Age-standardized",2,"Female",0.199941521473
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",1,"Male",0.149292050913
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",2,"Female",0.205982275126
+455,"prev_obesity_agestd",4659,"Morelos",2011,27,"Age-standardized",1,"Male",0.159523957431
+455,"prev_obesity_agestd",4659,"Morelos",2011,27,"Age-standardized",2,"Female",0.196456962734
+455,"prev_obesity_agestd",4660,"Nayarit",2011,27,"Age-standardized",1,"Male",0.175695717518
+455,"prev_obesity_agestd",4660,"Nayarit",2011,27,"Age-standardized",2,"Female",0.243881866053
+455,"prev_obesity_agestd",4661,"Nuevo León",2011,27,"Age-standardized",1,"Male",0.209052157101
+455,"prev_obesity_agestd",4661,"Nuevo León",2011,27,"Age-standardized",2,"Female",0.254705718543
+455,"prev_obesity_agestd",4662,"Oaxaca",2011,27,"Age-standardized",1,"Male",0.108400885831
+455,"prev_obesity_agestd",4662,"Oaxaca",2011,27,"Age-standardized",2,"Female",0.164840009063
+455,"prev_obesity_agestd",4663,"Puebla",2011,27,"Age-standardized",1,"Male",0.137526199272
+455,"prev_obesity_agestd",4663,"Puebla",2011,27,"Age-standardized",2,"Female",0.208069265116
+455,"prev_obesity_agestd",4664,"Querétaro",2011,27,"Age-standardized",1,"Male",0.1576626484
+455,"prev_obesity_agestd",4664,"Querétaro",2011,27,"Age-standardized",2,"Female",0.210187744192
+455,"prev_obesity_agestd",4665,"Quintana Roo",2011,27,"Age-standardized",1,"Male",0.198408545726
+455,"prev_obesity_agestd",4665,"Quintana Roo",2011,27,"Age-standardized",2,"Female",0.277026970506
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2011,27,"Age-standardized",1,"Male",0.136343395864
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2011,27,"Age-standardized",2,"Female",0.244727519582
+455,"prev_obesity_agestd",4667,"Sinaloa",2011,27,"Age-standardized",1,"Male",0.143511637077
+455,"prev_obesity_agestd",4667,"Sinaloa",2011,27,"Age-standardized",2,"Female",0.221340236353
+455,"prev_obesity_agestd",4668,"Sonora",2011,27,"Age-standardized",1,"Male",0.170502240527
+455,"prev_obesity_agestd",4668,"Sonora",2011,27,"Age-standardized",2,"Female",0.253590077058
+455,"prev_obesity_agestd",4669,"Tabasco",2011,27,"Age-standardized",1,"Male",0.210095979247
+455,"prev_obesity_agestd",4669,"Tabasco",2011,27,"Age-standardized",2,"Female",0.281786219243
+455,"prev_obesity_agestd",4670,"Tamaulipas",2011,27,"Age-standardized",1,"Male",0.198220005415
+455,"prev_obesity_agestd",4670,"Tamaulipas",2011,27,"Age-standardized",2,"Female",0.280635874105
+455,"prev_obesity_agestd",4671,"Tlaxcala",2011,27,"Age-standardized",1,"Male",0.173924617738
+455,"prev_obesity_agestd",4671,"Tlaxcala",2011,27,"Age-standardized",2,"Female",0.220448107426
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",1,"Male",0.132394005251
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",2,"Female",0.188017774674
+455,"prev_obesity_agestd",4673,"Yucatán",2011,27,"Age-standardized",1,"Male",0.209868539378
+455,"prev_obesity_agestd",4673,"Yucatán",2011,27,"Age-standardized",2,"Female",0.259506980832
+455,"prev_obesity_agestd",4674,"Zacatecas",2011,27,"Age-standardized",1,"Male",0.148266702104
+455,"prev_obesity_agestd",4674,"Zacatecas",2011,27,"Age-standardized",2,"Female",0.229610362535
+455,"prev_obesity_agestd",130,"Mexico",2012,27,"Age-standardized",1,"Male",0.123291410901588
+455,"prev_obesity_agestd",130,"Mexico",2012,27,"Age-standardized",2,"Female",0.18696240546015
+455,"prev_obesity_agestd",4643,"Aguascalientes",2012,27,"Age-standardized",1,"Male",0.175457012042
+455,"prev_obesity_agestd",4643,"Aguascalientes",2012,27,"Age-standardized",2,"Female",0.241914809795
+455,"prev_obesity_agestd",4644,"Baja California",2012,27,"Age-standardized",1,"Male",0.21755351846
+455,"prev_obesity_agestd",4644,"Baja California",2012,27,"Age-standardized",2,"Female",0.291625381464
+455,"prev_obesity_agestd",4645,"Baja California Sur",2012,27,"Age-standardized",1,"Male",0.218570067097
+455,"prev_obesity_agestd",4645,"Baja California Sur",2012,27,"Age-standardized",2,"Female",0.268721300949
+455,"prev_obesity_agestd",4646,"Campeche",2012,27,"Age-standardized",1,"Male",0.219379745326
+455,"prev_obesity_agestd",4646,"Campeche",2012,27,"Age-standardized",2,"Female",0.280644669601
+455,"prev_obesity_agestd",4647,"Coahuila",2012,27,"Age-standardized",1,"Male",0.17656767509
+455,"prev_obesity_agestd",4647,"Coahuila",2012,27,"Age-standardized",2,"Female",0.275871822732
+455,"prev_obesity_agestd",4648,"Colima",2012,27,"Age-standardized",1,"Male",0.198097211472
+455,"prev_obesity_agestd",4648,"Colima",2012,27,"Age-standardized",2,"Female",0.267630636008
+455,"prev_obesity_agestd",4649,"Chiapas",2012,27,"Age-standardized",1,"Male",0.117940691759
+455,"prev_obesity_agestd",4649,"Chiapas",2012,27,"Age-standardized",2,"Female",0.195431005736
+455,"prev_obesity_agestd",4650,"Chihuahua",2012,27,"Age-standardized",1,"Male",0.193156103774
+455,"prev_obesity_agestd",4650,"Chihuahua",2012,27,"Age-standardized",2,"Female",0.259656572231
+455,"prev_obesity_agestd",4651,"Mexico City",2012,27,"Age-standardized",1,"Male",0.1845431162
+455,"prev_obesity_agestd",4651,"Mexico City",2012,27,"Age-standardized",2,"Female",0.216636728371
+455,"prev_obesity_agestd",4652,"Durango",2012,27,"Age-standardized",1,"Male",0.145613907912
+455,"prev_obesity_agestd",4652,"Durango",2012,27,"Age-standardized",2,"Female",0.222772094603
+455,"prev_obesity_agestd",4653,"Guanajuato",2012,27,"Age-standardized",1,"Male",0.146139147229
+455,"prev_obesity_agestd",4653,"Guanajuato",2012,27,"Age-standardized",2,"Female",0.22525603476
+455,"prev_obesity_agestd",4654,"Guerrero",2012,27,"Age-standardized",1,"Male",0.149980607049
+455,"prev_obesity_agestd",4654,"Guerrero",2012,27,"Age-standardized",2,"Female",0.200363629535
+455,"prev_obesity_agestd",4655,"Hidalgo",2012,27,"Age-standardized",1,"Male",0.133761017243
+455,"prev_obesity_agestd",4655,"Hidalgo",2012,27,"Age-standardized",2,"Female",0.211414956019
+455,"prev_obesity_agestd",4656,"Jalisco",2012,27,"Age-standardized",1,"Male",0.171258402876
+455,"prev_obesity_agestd",4656,"Jalisco",2012,27,"Age-standardized",2,"Female",0.23746649173
+455,"prev_obesity_agestd",4657,"México",2012,27,"Age-standardized",1,"Male",0.167404206902
+455,"prev_obesity_agestd",4657,"México",2012,27,"Age-standardized",2,"Female",0.204286546347
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",1,"Male",0.150010429625
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",2,"Female",0.208271938901
+455,"prev_obesity_agestd",4659,"Morelos",2012,27,"Age-standardized",1,"Male",0.161536946277
+455,"prev_obesity_agestd",4659,"Morelos",2012,27,"Age-standardized",2,"Female",0.19911770673
+455,"prev_obesity_agestd",4660,"Nayarit",2012,27,"Age-standardized",1,"Male",0.178204405854
+455,"prev_obesity_agestd",4660,"Nayarit",2012,27,"Age-standardized",2,"Female",0.247707892955
+455,"prev_obesity_agestd",4661,"Nuevo León",2012,27,"Age-standardized",1,"Male",0.211609910627
+455,"prev_obesity_agestd",4661,"Nuevo León",2012,27,"Age-standardized",2,"Female",0.257746769172
+455,"prev_obesity_agestd",4662,"Oaxaca",2012,27,"Age-standardized",1,"Male",0.108924436113
+455,"prev_obesity_agestd",4662,"Oaxaca",2012,27,"Age-standardized",2,"Female",0.167082066539
+455,"prev_obesity_agestd",4663,"Puebla",2012,27,"Age-standardized",1,"Male",0.139077395009
+455,"prev_obesity_agestd",4663,"Puebla",2012,27,"Age-standardized",2,"Female",0.211258725527
+455,"prev_obesity_agestd",4664,"Querétaro",2012,27,"Age-standardized",1,"Male",0.161486814182
+455,"prev_obesity_agestd",4664,"Querétaro",2012,27,"Age-standardized",2,"Female",0.21451577937
+455,"prev_obesity_agestd",4665,"Quintana Roo",2012,27,"Age-standardized",1,"Male",0.201886087963
+455,"prev_obesity_agestd",4665,"Quintana Roo",2012,27,"Age-standardized",2,"Female",0.281677198157
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2012,27,"Age-standardized",1,"Male",0.140161754461
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2012,27,"Age-standardized",2,"Female",0.250476155379
+455,"prev_obesity_agestd",4667,"Sinaloa",2012,27,"Age-standardized",1,"Male",0.143889357894
+455,"prev_obesity_agestd",4667,"Sinaloa",2012,27,"Age-standardized",2,"Female",0.22376381426
+455,"prev_obesity_agestd",4668,"Sonora",2012,27,"Age-standardized",1,"Male",0.172534457671
+455,"prev_obesity_agestd",4668,"Sonora",2012,27,"Age-standardized",2,"Female",0.257430619082
+455,"prev_obesity_agestd",4669,"Tabasco",2012,27,"Age-standardized",1,"Male",0.2120840192
+455,"prev_obesity_agestd",4669,"Tabasco",2012,27,"Age-standardized",2,"Female",0.284896272835
+455,"prev_obesity_agestd",4670,"Tamaulipas",2012,27,"Age-standardized",1,"Male",0.201513430969
+455,"prev_obesity_agestd",4670,"Tamaulipas",2012,27,"Age-standardized",2,"Female",0.284859197386
+455,"prev_obesity_agestd",4671,"Tlaxcala",2012,27,"Age-standardized",1,"Male",0.177571312767
+455,"prev_obesity_agestd",4671,"Tlaxcala",2012,27,"Age-standardized",2,"Female",0.224506079093
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",1,"Male",0.133773747157
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",2,"Female",0.190918342023
+455,"prev_obesity_agestd",4673,"Yucatán",2012,27,"Age-standardized",1,"Male",0.210544856155
+455,"prev_obesity_agestd",4673,"Yucatán",2012,27,"Age-standardized",2,"Female",0.261466294584
+455,"prev_obesity_agestd",4674,"Zacatecas",2012,27,"Age-standardized",1,"Male",0.150287523539
+455,"prev_obesity_agestd",4674,"Zacatecas",2012,27,"Age-standardized",2,"Female",0.233040953559
+455,"prev_obesity_agestd",130,"Mexico",2013,27,"Age-standardized",1,"Male",0.126833423122587
+455,"prev_obesity_agestd",130,"Mexico",2013,27,"Age-standardized",2,"Female",0.190951518160875
+455,"prev_obesity_agestd",4643,"Aguascalientes",2013,27,"Age-standardized",1,"Male",0.177651506573
+455,"prev_obesity_agestd",4643,"Aguascalientes",2013,27,"Age-standardized",2,"Female",0.244759578301
+455,"prev_obesity_agestd",4644,"Baja California",2013,27,"Age-standardized",1,"Male",0.221349732058
+455,"prev_obesity_agestd",4644,"Baja California",2013,27,"Age-standardized",2,"Female",0.295064352607
+455,"prev_obesity_agestd",4645,"Baja California Sur",2013,27,"Age-standardized",1,"Male",0.219982752264
+455,"prev_obesity_agestd",4645,"Baja California Sur",2013,27,"Age-standardized",2,"Female",0.27048791003
+455,"prev_obesity_agestd",4646,"Campeche",2013,27,"Age-standardized",1,"Male",0.220765232419
+455,"prev_obesity_agestd",4646,"Campeche",2013,27,"Age-standardized",2,"Female",0.282823847466
+455,"prev_obesity_agestd",4647,"Coahuila",2013,27,"Age-standardized",1,"Male",0.178342041943
+455,"prev_obesity_agestd",4647,"Coahuila",2013,27,"Age-standardized",2,"Female",0.277373478234
+455,"prev_obesity_agestd",4648,"Colima",2013,27,"Age-standardized",1,"Male",0.199823826592
+455,"prev_obesity_agestd",4648,"Colima",2013,27,"Age-standardized",2,"Female",0.269989393885
+455,"prev_obesity_agestd",4649,"Chiapas",2013,27,"Age-standardized",1,"Male",0.1197388952
+455,"prev_obesity_agestd",4649,"Chiapas",2013,27,"Age-standardized",2,"Female",0.198135951002
+455,"prev_obesity_agestd",4650,"Chihuahua",2013,27,"Age-standardized",1,"Male",0.197024525224
+455,"prev_obesity_agestd",4650,"Chihuahua",2013,27,"Age-standardized",2,"Female",0.264137021753
+455,"prev_obesity_agestd",4651,"Mexico City",2013,27,"Age-standardized",1,"Male",0.190505145274
+455,"prev_obesity_agestd",4651,"Mexico City",2013,27,"Age-standardized",2,"Female",0.222409318672
+455,"prev_obesity_agestd",4652,"Durango",2013,27,"Age-standardized",1,"Male",0.145143349418
+455,"prev_obesity_agestd",4652,"Durango",2013,27,"Age-standardized",2,"Female",0.223226006129
+455,"prev_obesity_agestd",4653,"Guanajuato",2013,27,"Age-standardized",1,"Male",0.147470687787
+455,"prev_obesity_agestd",4653,"Guanajuato",2013,27,"Age-standardized",2,"Female",0.227422510243
+455,"prev_obesity_agestd",4654,"Guerrero",2013,27,"Age-standardized",1,"Male",0.152608327595
+455,"prev_obesity_agestd",4654,"Guerrero",2013,27,"Age-standardized",2,"Female",0.204618861327
+455,"prev_obesity_agestd",4655,"Hidalgo",2013,27,"Age-standardized",1,"Male",0.13526745161
+455,"prev_obesity_agestd",4655,"Hidalgo",2013,27,"Age-standardized",2,"Female",0.213654349476
+455,"prev_obesity_agestd",4656,"Jalisco",2013,27,"Age-standardized",1,"Male",0.172511018051
+455,"prev_obesity_agestd",4656,"Jalisco",2013,27,"Age-standardized",2,"Female",0.239131366832
+455,"prev_obesity_agestd",4657,"México",2013,27,"Age-standardized",1,"Male",0.169948961284
+455,"prev_obesity_agestd",4657,"México",2013,27,"Age-standardized",2,"Female",0.207373731839
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",1,"Male",0.150313299334
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",2,"Female",0.209391618021
+455,"prev_obesity_agestd",4659,"Morelos",2013,27,"Age-standardized",1,"Male",0.162713436882
+455,"prev_obesity_agestd",4659,"Morelos",2013,27,"Age-standardized",2,"Female",0.200426853276
+455,"prev_obesity_agestd",4660,"Nayarit",2013,27,"Age-standardized",1,"Male",0.180217547093
+455,"prev_obesity_agestd",4660,"Nayarit",2013,27,"Age-standardized",2,"Female",0.250573170556
+455,"prev_obesity_agestd",4661,"Nuevo León",2013,27,"Age-standardized",1,"Male",0.213160348341
+455,"prev_obesity_agestd",4661,"Nuevo León",2013,27,"Age-standardized",2,"Female",0.259606151472
+455,"prev_obesity_agestd",4662,"Oaxaca",2013,27,"Age-standardized",1,"Male",0.108997523018
+455,"prev_obesity_agestd",4662,"Oaxaca",2013,27,"Age-standardized",2,"Female",0.16797433635
+455,"prev_obesity_agestd",4663,"Puebla",2013,27,"Age-standardized",1,"Male",0.139757573938
+455,"prev_obesity_agestd",4663,"Puebla",2013,27,"Age-standardized",2,"Female",0.212904395816
+455,"prev_obesity_agestd",4664,"Querétaro",2013,27,"Age-standardized",1,"Male",0.164724623999
+455,"prev_obesity_agestd",4664,"Querétaro",2013,27,"Age-standardized",2,"Female",0.217991576555
+455,"prev_obesity_agestd",4665,"Quintana Roo",2013,27,"Age-standardized",1,"Male",0.20461663655
+455,"prev_obesity_agestd",4665,"Quintana Roo",2013,27,"Age-standardized",2,"Female",0.284770503813
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2013,27,"Age-standardized",1,"Male",0.143679371235
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2013,27,"Age-standardized",2,"Female",0.254980652216
+455,"prev_obesity_agestd",4667,"Sinaloa",2013,27,"Age-standardized",1,"Male",0.143620131118
+455,"prev_obesity_agestd",4667,"Sinaloa",2013,27,"Age-standardized",2,"Female",0.224856801731
+455,"prev_obesity_agestd",4668,"Sonora",2013,27,"Age-standardized",1,"Male",0.173940868916
+455,"prev_obesity_agestd",4668,"Sonora",2013,27,"Age-standardized",2,"Female",0.259920513582
+455,"prev_obesity_agestd",4669,"Tabasco",2013,27,"Age-standardized",1,"Male",0.213055009634
+455,"prev_obesity_agestd",4669,"Tabasco",2013,27,"Age-standardized",2,"Female",0.286265303565
+455,"prev_obesity_agestd",4670,"Tamaulipas",2013,27,"Age-standardized",1,"Male",0.20395283998
+455,"prev_obesity_agestd",4670,"Tamaulipas",2013,27,"Age-standardized",2,"Female",0.28735232794
+455,"prev_obesity_agestd",4671,"Tlaxcala",2013,27,"Age-standardized",1,"Male",0.180847127139
+455,"prev_obesity_agestd",4671,"Tlaxcala",2013,27,"Age-standardized",2,"Female",0.228149809935
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",1,"Male",0.134356798281
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",2,"Female",0.192303815254
+455,"prev_obesity_agestd",4673,"Yucatán",2013,27,"Age-standardized",1,"Male",0.21010259259
+455,"prev_obesity_agestd",4673,"Yucatán",2013,27,"Age-standardized",2,"Female",0.261813220238
+455,"prev_obesity_agestd",4674,"Zacatecas",2013,27,"Age-standardized",1,"Male",0.152189392557
+455,"prev_obesity_agestd",4674,"Zacatecas",2013,27,"Age-standardized",2,"Female",0.235630978491
+455,"prev_obesity_agestd",130,"Mexico",2014,27,"Age-standardized",1,"Male",0.129949121738275
+455,"prev_obesity_agestd",130,"Mexico",2014,27,"Age-standardized",2,"Female",0.194684491816375
+455,"prev_obesity_agestd",4643,"Aguascalientes",2014,27,"Age-standardized",1,"Male",0.17879516984
+455,"prev_obesity_agestd",4643,"Aguascalientes",2014,27,"Age-standardized",2,"Female",0.246968590024
+455,"prev_obesity_agestd",4644,"Baja California",2014,27,"Age-standardized",1,"Male",0.223247641705
+455,"prev_obesity_agestd",4644,"Baja California",2014,27,"Age-standardized",2,"Female",0.297038013456
+455,"prev_obesity_agestd",4645,"Baja California Sur",2014,27,"Age-standardized",1,"Male",0.219771517314
+455,"prev_obesity_agestd",4645,"Baja California Sur",2014,27,"Age-standardized",2,"Female",0.270826336518
+455,"prev_obesity_agestd",4646,"Campeche",2014,27,"Age-standardized",1,"Male",0.221554258829
+455,"prev_obesity_agestd",4646,"Campeche",2014,27,"Age-standardized",2,"Female",0.284691714329
+455,"prev_obesity_agestd",4647,"Coahuila",2014,27,"Age-standardized",1,"Male",0.17942457767
+455,"prev_obesity_agestd",4647,"Coahuila",2014,27,"Age-standardized",2,"Female",0.27845138539
+455,"prev_obesity_agestd",4648,"Colima",2014,27,"Age-standardized",1,"Male",0.201225935168
+455,"prev_obesity_agestd",4648,"Colima",2014,27,"Age-standardized",2,"Female",0.271941703116
+455,"prev_obesity_agestd",4649,"Chiapas",2014,27,"Age-standardized",1,"Male",0.12145353916
+455,"prev_obesity_agestd",4649,"Chiapas",2014,27,"Age-standardized",2,"Female",0.20064028946
+455,"prev_obesity_agestd",4650,"Chihuahua",2014,27,"Age-standardized",1,"Male",0.199870401779
+455,"prev_obesity_agestd",4650,"Chihuahua",2014,27,"Age-standardized",2,"Female",0.267870721475
+455,"prev_obesity_agestd",4651,"Mexico City",2014,27,"Age-standardized",1,"Male",0.195013281024
+455,"prev_obesity_agestd",4651,"Mexico City",2014,27,"Age-standardized",2,"Female",0.227374181031
+455,"prev_obesity_agestd",4652,"Durango",2014,27,"Age-standardized",1,"Male",0.144449535285
+455,"prev_obesity_agestd",4652,"Durango",2014,27,"Age-standardized",2,"Female",0.223612746841
+455,"prev_obesity_agestd",4653,"Guanajuato",2014,27,"Age-standardized",1,"Male",0.148277567759
+455,"prev_obesity_agestd",4653,"Guanajuato",2014,27,"Age-standardized",2,"Female",0.229347615762
+455,"prev_obesity_agestd",4654,"Guerrero",2014,27,"Age-standardized",1,"Male",0.154727818138
+455,"prev_obesity_agestd",4654,"Guerrero",2014,27,"Age-standardized",2,"Female",0.207934696117
+455,"prev_obesity_agestd",4655,"Hidalgo",2014,27,"Age-standardized",1,"Male",0.136453430269
+455,"prev_obesity_agestd",4655,"Hidalgo",2014,27,"Age-standardized",2,"Female",0.215523937543
+455,"prev_obesity_agestd",4656,"Jalisco",2014,27,"Age-standardized",1,"Male",0.173380512528
+455,"prev_obesity_agestd",4656,"Jalisco",2014,27,"Age-standardized",2,"Female",0.240530322423
+455,"prev_obesity_agestd",4657,"México",2014,27,"Age-standardized",1,"Male",0.171687057755
+455,"prev_obesity_agestd",4657,"México",2014,27,"Age-standardized",2,"Female",0.209997446372
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",1,"Male",0.150449979999
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",2,"Female",0.210317540411
+455,"prev_obesity_agestd",4659,"Morelos",2014,27,"Age-standardized",1,"Male",0.163102912963
+455,"prev_obesity_agestd",4659,"Morelos",2014,27,"Age-standardized",2,"Female",0.201180072922
+455,"prev_obesity_agestd",4660,"Nayarit",2014,27,"Age-standardized",1,"Male",0.181851837314
+455,"prev_obesity_agestd",4660,"Nayarit",2014,27,"Age-standardized",2,"Female",0.253164140497
+455,"prev_obesity_agestd",4661,"Nuevo León",2014,27,"Age-standardized",1,"Male",0.213681734017
+455,"prev_obesity_agestd",4661,"Nuevo León",2014,27,"Age-standardized",2,"Female",0.261023193675
+455,"prev_obesity_agestd",4662,"Oaxaca",2014,27,"Age-standardized",1,"Male",0.108802749075
+455,"prev_obesity_agestd",4662,"Oaxaca",2014,27,"Age-standardized",2,"Female",0.168286052187
+455,"prev_obesity_agestd",4663,"Puebla",2014,27,"Age-standardized",1,"Male",0.139842200087
+455,"prev_obesity_agestd",4663,"Puebla",2014,27,"Age-standardized",2,"Female",0.214063897551
+455,"prev_obesity_agestd",4664,"Querétaro",2014,27,"Age-standardized",1,"Male",0.167064784194
+455,"prev_obesity_agestd",4664,"Querétaro",2014,27,"Age-standardized",2,"Female",0.221041822204
+455,"prev_obesity_agestd",4665,"Quintana Roo",2014,27,"Age-standardized",1,"Male",0.206580406986
+455,"prev_obesity_agestd",4665,"Quintana Roo",2014,27,"Age-standardized",2,"Female",0.287158291642
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2014,27,"Age-standardized",1,"Male",0.146821995142
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2014,27,"Age-standardized",2,"Female",0.258926872178
+455,"prev_obesity_agestd",4667,"Sinaloa",2014,27,"Age-standardized",1,"Male",0.142948706035
+455,"prev_obesity_agestd",4667,"Sinaloa",2014,27,"Age-standardized",2,"Female",0.22564344544
+455,"prev_obesity_agestd",4668,"Sonora",2014,27,"Age-standardized",1,"Male",0.174809456865
+455,"prev_obesity_agestd",4668,"Sonora",2014,27,"Age-standardized",2,"Female",0.261993294176
+455,"prev_obesity_agestd",4669,"Tabasco",2014,27,"Age-standardized",1,"Male",0.213307824393
+455,"prev_obesity_agestd",4669,"Tabasco",2014,27,"Age-standardized",2,"Female",0.286946617117
+455,"prev_obesity_agestd",4670,"Tamaulipas",2014,27,"Age-standardized",1,"Male",0.205527444022
+455,"prev_obesity_agestd",4670,"Tamaulipas",2014,27,"Age-standardized",2,"Female",0.288935916957
+455,"prev_obesity_agestd",4671,"Tlaxcala",2014,27,"Age-standardized",1,"Male",0.182902906874
+455,"prev_obesity_agestd",4671,"Tlaxcala",2014,27,"Age-standardized",2,"Female",0.230982974909
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",1,"Male",0.134428658059
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",2,"Female",0.19315358317
+455,"prev_obesity_agestd",4673,"Yucatán",2014,27,"Age-standardized",1,"Male",0.208869395716
+455,"prev_obesity_agestd",4673,"Yucatán",2014,27,"Age-standardized",2,"Female",0.261645365257
+455,"prev_obesity_agestd",4674,"Zacatecas",2014,27,"Age-standardized",1,"Male",0.153995038201
+455,"prev_obesity_agestd",4674,"Zacatecas",2014,27,"Age-standardized",2,"Female",0.238088171552
+455,"prev_obesity_agestd",130,"Mexico",2015,27,"Age-standardized",1,"Male",0.132268244803313
+455,"prev_obesity_agestd",130,"Mexico",2015,27,"Age-standardized",2,"Female",0.1979109030015
+455,"prev_obesity_agestd",4643,"Aguascalientes",2015,27,"Age-standardized",1,"Male",0.178529592217
+455,"prev_obesity_agestd",4643,"Aguascalientes",2015,27,"Age-standardized",2,"Female",0.248388259587
+455,"prev_obesity_agestd",4644,"Baja California",2015,27,"Age-standardized",1,"Male",0.223034695175
+455,"prev_obesity_agestd",4644,"Baja California",2015,27,"Age-standardized",2,"Female",0.297740348484
+455,"prev_obesity_agestd",4645,"Baja California Sur",2015,27,"Age-standardized",1,"Male",0.218497981296
+455,"prev_obesity_agestd",4645,"Baja California Sur",2015,27,"Age-standardized",2,"Female",0.270570108212
+455,"prev_obesity_agestd",4646,"Campeche",2015,27,"Age-standardized",1,"Male",0.221708238528
+455,"prev_obesity_agestd",4646,"Campeche",2015,27,"Age-standardized",2,"Female",0.286213710762
+455,"prev_obesity_agestd",4647,"Coahuila",2015,27,"Age-standardized",1,"Male",0.179409957283
+455,"prev_obesity_agestd",4647,"Coahuila",2015,27,"Age-standardized",2,"Female",0.279025797442
+455,"prev_obesity_agestd",4648,"Colima",2015,27,"Age-standardized",1,"Male",0.201988287723
+455,"prev_obesity_agestd",4648,"Colima",2015,27,"Age-standardized",2,"Female",0.273340982172
+455,"prev_obesity_agestd",4649,"Chiapas",2015,27,"Age-standardized",1,"Male",0.123050131927
+455,"prev_obesity_agestd",4649,"Chiapas",2015,27,"Age-standardized",2,"Female",0.202992505708
+455,"prev_obesity_agestd",4650,"Chihuahua",2015,27,"Age-standardized",1,"Male",0.200912784134
+455,"prev_obesity_agestd",4650,"Chihuahua",2015,27,"Age-standardized",2,"Female",0.270523443499
+455,"prev_obesity_agestd",4651,"Mexico City",2015,27,"Age-standardized",1,"Male",0.197498543686
+455,"prev_obesity_agestd",4651,"Mexico City",2015,27,"Age-standardized",2,"Female",0.231384480781
+455,"prev_obesity_agestd",4652,"Durango",2015,27,"Age-standardized",1,"Male",0.143551277029
+455,"prev_obesity_agestd",4652,"Durango",2015,27,"Age-standardized",2,"Female",0.223962361199
+455,"prev_obesity_agestd",4653,"Guanajuato",2015,27,"Age-standardized",1,"Male",0.148414357515
+455,"prev_obesity_agestd",4653,"Guanajuato",2015,27,"Age-standardized",2,"Female",0.230948286114
+455,"prev_obesity_agestd",4654,"Guerrero",2015,27,"Age-standardized",1,"Male",0.156155864591
+455,"prev_obesity_agestd",4654,"Guerrero",2015,27,"Age-standardized",2,"Female",0.210161714018
+455,"prev_obesity_agestd",4655,"Hidalgo",2015,27,"Age-standardized",1,"Male",0.137166820773
+455,"prev_obesity_agestd",4655,"Hidalgo",2015,27,"Age-standardized",2,"Female",0.216968867949
+455,"prev_obesity_agestd",4656,"Jalisco",2015,27,"Age-standardized",1,"Male",0.173359463286
+455,"prev_obesity_agestd",4656,"Jalisco",2015,27,"Age-standardized",2,"Female",0.241464554219
+455,"prev_obesity_agestd",4657,"México",2015,27,"Age-standardized",1,"Male",0.172134709897
+455,"prev_obesity_agestd",4657,"México",2015,27,"Age-standardized",2,"Female",0.211903068695
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",1,"Male",0.150442908386
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",2,"Female",0.21107448542
+455,"prev_obesity_agestd",4659,"Morelos",2015,27,"Age-standardized",1,"Male",0.162410526539
+455,"prev_obesity_agestd",4659,"Morelos",2015,27,"Age-standardized",2,"Female",0.201362459839
+455,"prev_obesity_agestd",4660,"Nayarit",2015,27,"Age-standardized",1,"Male",0.182790077342
+455,"prev_obesity_agestd",4660,"Nayarit",2015,27,"Age-standardized",2,"Female",0.255316799253
+455,"prev_obesity_agestd",4661,"Nuevo León",2015,27,"Age-standardized",1,"Male",0.21262127853
+455,"prev_obesity_agestd",4661,"Nuevo León",2015,27,"Age-standardized",2,"Female",0.261792577412
+455,"prev_obesity_agestd",4662,"Oaxaca",2015,27,"Age-standardized",1,"Male",0.108401598902
+455,"prev_obesity_agestd",4662,"Oaxaca",2015,27,"Age-standardized",2,"Female",0.168160108013
+455,"prev_obesity_agestd",4663,"Puebla",2015,27,"Age-standardized",1,"Male",0.139177286143
+455,"prev_obesity_agestd",4663,"Puebla",2015,27,"Age-standardized",2,"Female",0.214764097516
+455,"prev_obesity_agestd",4664,"Querétaro",2015,27,"Age-standardized",1,"Male",0.168226907745
+455,"prev_obesity_agestd",4664,"Querétaro",2015,27,"Age-standardized",2,"Female",0.223485055463
+455,"prev_obesity_agestd",4665,"Quintana Roo",2015,27,"Age-standardized",1,"Male",0.207549451238
+455,"prev_obesity_agestd",4665,"Quintana Roo",2015,27,"Age-standardized",2,"Female",0.288889315476
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2015,27,"Age-standardized",1,"Male",0.14929417601
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2015,27,"Age-standardized",2,"Female",0.262207466541
+455,"prev_obesity_agestd",4667,"Sinaloa",2015,27,"Age-standardized",1,"Male",0.141714159588
+455,"prev_obesity_agestd",4667,"Sinaloa",2015,27,"Age-standardized",2,"Female",0.225995446062
+455,"prev_obesity_agestd",4668,"Sonora",2015,27,"Age-standardized",1,"Male",0.174815190539
+455,"prev_obesity_agestd",4668,"Sonora",2015,27,"Age-standardized",2,"Female",0.263480698412
+455,"prev_obesity_agestd",4669,"Tabasco",2015,27,"Age-standardized",1,"Male",0.212841404913
+455,"prev_obesity_agestd",4669,"Tabasco",2015,27,"Age-standardized",2,"Female",0.287044958092
+455,"prev_obesity_agestd",4670,"Tamaulipas",2015,27,"Age-standardized",1,"Male",0.2057196971
+455,"prev_obesity_agestd",4670,"Tamaulipas",2015,27,"Age-standardized",2,"Female",0.28960183276
+455,"prev_obesity_agestd",4671,"Tlaxcala",2015,27,"Age-standardized",1,"Male",0.1837324787
+455,"prev_obesity_agestd",4671,"Tlaxcala",2015,27,"Age-standardized",2,"Female",0.232957315652
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",1,"Male",0.133976947812
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",2,"Female",0.193599037607
+455,"prev_obesity_agestd",4673,"Yucatán",2015,27,"Age-standardized",1,"Male",0.206718666229
+455,"prev_obesity_agestd",4673,"Yucatán",2015,27,"Age-standardized",2,"Female",0.260905019951
+455,"prev_obesity_agestd",4674,"Zacatecas",2015,27,"Age-standardized",1,"Male",0.155621445975
+455,"prev_obesity_agestd",4674,"Zacatecas",2015,27,"Age-standardized",2,"Female",0.240467116027
+455,"prev_obesity_agestd",130,"Mexico",2016,27,"Age-standardized",1,"Male",0.134168160106237
+455,"prev_obesity_agestd",130,"Mexico",2016,27,"Age-standardized",2,"Female",0.2005413669245
+455,"prev_obesity_agestd",4643,"Aguascalientes",2016,27,"Age-standardized",1,"Male",0.178127716077
+455,"prev_obesity_agestd",4643,"Aguascalientes",2016,27,"Age-standardized",2,"Female",0.24942585022
+455,"prev_obesity_agestd",4644,"Baja California",2016,27,"Age-standardized",1,"Male",0.222882579402
+455,"prev_obesity_agestd",4644,"Baja California",2016,27,"Age-standardized",2,"Female",0.298147172488
+455,"prev_obesity_agestd",4645,"Baja California Sur",2016,27,"Age-standardized",1,"Male",0.217142723361
+455,"prev_obesity_agestd",4645,"Baja California Sur",2016,27,"Age-standardized",2,"Female",0.270031000608
+455,"prev_obesity_agestd",4646,"Campeche",2016,27,"Age-standardized",1,"Male",0.22186254389
+455,"prev_obesity_agestd",4646,"Campeche",2016,27,"Age-standardized",2,"Female",0.287382412833
+455,"prev_obesity_agestd",4647,"Coahuila",2016,27,"Age-standardized",1,"Male",0.179889632147
+455,"prev_obesity_agestd",4647,"Coahuila",2016,27,"Age-standardized",2,"Female",0.279615479045
+455,"prev_obesity_agestd",4648,"Colima",2016,27,"Age-standardized",1,"Male",0.202988889216
+455,"prev_obesity_agestd",4648,"Colima",2016,27,"Age-standardized",2,"Female",0.274463681287
+455,"prev_obesity_agestd",4649,"Chiapas",2016,27,"Age-standardized",1,"Male",0.124374304839
+455,"prev_obesity_agestd",4649,"Chiapas",2016,27,"Age-standardized",2,"Female",0.20471942266
+455,"prev_obesity_agestd",4650,"Chihuahua",2016,27,"Age-standardized",1,"Male",0.202377081066
+455,"prev_obesity_agestd",4650,"Chihuahua",2016,27,"Age-standardized",2,"Female",0.272863458184
+455,"prev_obesity_agestd",4651,"Mexico City",2016,27,"Age-standardized",1,"Male",0.200379620642
+455,"prev_obesity_agestd",4651,"Mexico City",2016,27,"Age-standardized",2,"Female",0.235024799601
+455,"prev_obesity_agestd",4652,"Durango",2016,27,"Age-standardized",1,"Male",0.142860615174
+455,"prev_obesity_agestd",4652,"Durango",2016,27,"Age-standardized",2,"Female",0.224209627424
+455,"prev_obesity_agestd",4653,"Guanajuato",2016,27,"Age-standardized",1,"Male",0.148556631637
+455,"prev_obesity_agestd",4653,"Guanajuato",2016,27,"Age-standardized",2,"Female",0.232183155134
+455,"prev_obesity_agestd",4654,"Guerrero",2016,27,"Age-standardized",1,"Male",0.157103755378
+455,"prev_obesity_agestd",4654,"Guerrero",2016,27,"Age-standardized",2,"Female",0.211248140482
+455,"prev_obesity_agestd",4655,"Hidalgo",2016,27,"Age-standardized",1,"Male",0.137392333453
+455,"prev_obesity_agestd",4655,"Hidalgo",2016,27,"Age-standardized",2,"Female",0.217819921876
+455,"prev_obesity_agestd",4656,"Jalisco",2016,27,"Age-standardized",1,"Male",0.173580048117
+455,"prev_obesity_agestd",4656,"Jalisco",2016,27,"Age-standardized",2,"Female",0.24218321144
+455,"prev_obesity_agestd",4657,"México",2016,27,"Age-standardized",1,"Male",0.172343770411
+455,"prev_obesity_agestd",4657,"México",2016,27,"Age-standardized",2,"Female",0.213207869764
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",1,"Male",0.150384287059
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",2,"Female",0.211439120467
+455,"prev_obesity_agestd",4659,"Morelos",2016,27,"Age-standardized",1,"Male",0.16185823003
+455,"prev_obesity_agestd",4659,"Morelos",2016,27,"Age-standardized",2,"Female",0.201465337614
+455,"prev_obesity_agestd",4660,"Nayarit",2016,27,"Age-standardized",1,"Male",0.183760764816
+455,"prev_obesity_agestd",4660,"Nayarit",2016,27,"Age-standardized",2,"Female",0.257095553027
+455,"prev_obesity_agestd",4661,"Nuevo León",2016,27,"Age-standardized",1,"Male",0.212027124885
+455,"prev_obesity_agestd",4661,"Nuevo León",2016,27,"Age-standardized",2,"Female",0.262586575401
+455,"prev_obesity_agestd",4662,"Oaxaca",2016,27,"Age-standardized",1,"Male",0.107930722999
+455,"prev_obesity_agestd",4662,"Oaxaca",2016,27,"Age-standardized",2,"Female",0.167623979247
+455,"prev_obesity_agestd",4663,"Puebla",2016,27,"Age-standardized",1,"Male",0.138690533272
+455,"prev_obesity_agestd",4663,"Puebla",2016,27,"Age-standardized",2,"Female",0.215248006556
+455,"prev_obesity_agestd",4664,"Querétaro",2016,27,"Age-standardized",1,"Male",0.169078343569
+455,"prev_obesity_agestd",4664,"Querétaro",2016,27,"Age-standardized",2,"Female",0.225474030188
+455,"prev_obesity_agestd",4665,"Quintana Roo",2016,27,"Age-standardized",1,"Male",0.20828275211
+455,"prev_obesity_agestd",4665,"Quintana Roo",2016,27,"Age-standardized",2,"Female",0.290083636447
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2016,27,"Age-standardized",1,"Male",0.151802826154
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2016,27,"Age-standardized",2,"Female",0.264878960931
+455,"prev_obesity_agestd",4667,"Sinaloa",2016,27,"Age-standardized",1,"Male",0.141022303114
+455,"prev_obesity_agestd",4667,"Sinaloa",2016,27,"Age-standardized",2,"Female",0.226398179509
+455,"prev_obesity_agestd",4668,"Sonora",2016,27,"Age-standardized",1,"Male",0.175122194761
+455,"prev_obesity_agestd",4668,"Sonora",2016,27,"Age-standardized",2,"Female",0.264718530139
+455,"prev_obesity_agestd",4669,"Tabasco",2016,27,"Age-standardized",1,"Male",0.211759669629
+455,"prev_obesity_agestd",4669,"Tabasco",2016,27,"Age-standardized",2,"Female",0.286508716527
+455,"prev_obesity_agestd",4670,"Tamaulipas",2016,27,"Age-standardized",1,"Male",0.205916608447
+455,"prev_obesity_agestd",4670,"Tamaulipas",2016,27,"Age-standardized",2,"Female",0.289925019216
+455,"prev_obesity_agestd",4671,"Tlaxcala",2016,27,"Age-standardized",1,"Male",0.184277037279
+455,"prev_obesity_agestd",4671,"Tlaxcala",2016,27,"Age-standardized",2,"Female",0.234359789344
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",1,"Male",0.133493545522
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",2,"Female",0.193697484156
+455,"prev_obesity_agestd",4673,"Yucatán",2016,27,"Age-standardized",1,"Male",0.204872613187
+455,"prev_obesity_agestd",4673,"Yucatán",2016,27,"Age-standardized",2,"Female",0.260031222692
+455,"prev_obesity_agestd",4674,"Zacatecas",2016,27,"Age-standardized",1,"Male",0.157135828084
+455,"prev_obesity_agestd",4674,"Zacatecas",2016,27,"Age-standardized",2,"Female",0.242494617798
+455,"prev_obesity_agestd",130,"Mexico",2017,27,"Age-standardized",1,"Male",0.134168160106237
+455,"prev_obesity_agestd",130,"Mexico",2017,27,"Age-standardized",2,"Female",0.2005413669245
+455,"prev_obesity_agestd",4643,"Aguascalientes",2017,27,"Age-standardized",1,"Male",0.178127716077
+455,"prev_obesity_agestd",4643,"Aguascalientes",2017,27,"Age-standardized",2,"Female",0.24942585022
+455,"prev_obesity_agestd",4644,"Baja California",2017,27,"Age-standardized",1,"Male",0.222882579402
+455,"prev_obesity_agestd",4644,"Baja California",2017,27,"Age-standardized",2,"Female",0.298147172488
+455,"prev_obesity_agestd",4645,"Baja California Sur",2017,27,"Age-standardized",1,"Male",0.217142723361
+455,"prev_obesity_agestd",4645,"Baja California Sur",2017,27,"Age-standardized",2,"Female",0.270031000608
+455,"prev_obesity_agestd",4646,"Campeche",2017,27,"Age-standardized",1,"Male",0.22186254389
+455,"prev_obesity_agestd",4646,"Campeche",2017,27,"Age-standardized",2,"Female",0.287382412833
+455,"prev_obesity_agestd",4647,"Coahuila",2017,27,"Age-standardized",1,"Male",0.179889632147
+455,"prev_obesity_agestd",4647,"Coahuila",2017,27,"Age-standardized",2,"Female",0.279615479045
+455,"prev_obesity_agestd",4648,"Colima",2017,27,"Age-standardized",1,"Male",0.202988889216
+455,"prev_obesity_agestd",4648,"Colima",2017,27,"Age-standardized",2,"Female",0.274463681287
+455,"prev_obesity_agestd",4649,"Chiapas",2017,27,"Age-standardized",1,"Male",0.124374304839
+455,"prev_obesity_agestd",4649,"Chiapas",2017,27,"Age-standardized",2,"Female",0.20471942266
+455,"prev_obesity_agestd",4650,"Chihuahua",2017,27,"Age-standardized",1,"Male",0.202377081066
+455,"prev_obesity_agestd",4650,"Chihuahua",2017,27,"Age-standardized",2,"Female",0.272863458184
+455,"prev_obesity_agestd",4651,"Mexico City",2017,27,"Age-standardized",1,"Male",0.200379620642
+455,"prev_obesity_agestd",4651,"Mexico City",2017,27,"Age-standardized",2,"Female",0.235024799601
+455,"prev_obesity_agestd",4652,"Durango",2017,27,"Age-standardized",1,"Male",0.142860615174
+455,"prev_obesity_agestd",4652,"Durango",2017,27,"Age-standardized",2,"Female",0.224209627424
+455,"prev_obesity_agestd",4653,"Guanajuato",2017,27,"Age-standardized",1,"Male",0.148556631637
+455,"prev_obesity_agestd",4653,"Guanajuato",2017,27,"Age-standardized",2,"Female",0.232183155134
+455,"prev_obesity_agestd",4654,"Guerrero",2017,27,"Age-standardized",1,"Male",0.157103755378
+455,"prev_obesity_agestd",4654,"Guerrero",2017,27,"Age-standardized",2,"Female",0.211248140482
+455,"prev_obesity_agestd",4655,"Hidalgo",2017,27,"Age-standardized",1,"Male",0.137392333453
+455,"prev_obesity_agestd",4655,"Hidalgo",2017,27,"Age-standardized",2,"Female",0.217819921876
+455,"prev_obesity_agestd",4656,"Jalisco",2017,27,"Age-standardized",1,"Male",0.173580048117
+455,"prev_obesity_agestd",4656,"Jalisco",2017,27,"Age-standardized",2,"Female",0.24218321144
+455,"prev_obesity_agestd",4657,"México",2017,27,"Age-standardized",1,"Male",0.172343770411
+455,"prev_obesity_agestd",4657,"México",2017,27,"Age-standardized",2,"Female",0.213207869764
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",1,"Male",0.150384287059
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",2,"Female",0.211439120467
+455,"prev_obesity_agestd",4659,"Morelos",2017,27,"Age-standardized",1,"Male",0.16185823003
+455,"prev_obesity_agestd",4659,"Morelos",2017,27,"Age-standardized",2,"Female",0.201465337614
+455,"prev_obesity_agestd",4660,"Nayarit",2017,27,"Age-standardized",1,"Male",0.183760764816
+455,"prev_obesity_agestd",4660,"Nayarit",2017,27,"Age-standardized",2,"Female",0.257095553027
+455,"prev_obesity_agestd",4661,"Nuevo León",2017,27,"Age-standardized",1,"Male",0.212027124885
+455,"prev_obesity_agestd",4661,"Nuevo León",2017,27,"Age-standardized",2,"Female",0.262586575401
+455,"prev_obesity_agestd",4662,"Oaxaca",2017,27,"Age-standardized",1,"Male",0.107930722999
+455,"prev_obesity_agestd",4662,"Oaxaca",2017,27,"Age-standardized",2,"Female",0.167623979247
+455,"prev_obesity_agestd",4663,"Puebla",2017,27,"Age-standardized",1,"Male",0.138690533272
+455,"prev_obesity_agestd",4663,"Puebla",2017,27,"Age-standardized",2,"Female",0.215248006556
+455,"prev_obesity_agestd",4664,"Querétaro",2017,27,"Age-standardized",1,"Male",0.169078343569
+455,"prev_obesity_agestd",4664,"Querétaro",2017,27,"Age-standardized",2,"Female",0.225474030188
+455,"prev_obesity_agestd",4665,"Quintana Roo",2017,27,"Age-standardized",1,"Male",0.20828275211
+455,"prev_obesity_agestd",4665,"Quintana Roo",2017,27,"Age-standardized",2,"Female",0.290083636447
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2017,27,"Age-standardized",1,"Male",0.151802826154
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2017,27,"Age-standardized",2,"Female",0.264878960931
+455,"prev_obesity_agestd",4667,"Sinaloa",2017,27,"Age-standardized",1,"Male",0.141022303114
+455,"prev_obesity_agestd",4667,"Sinaloa",2017,27,"Age-standardized",2,"Female",0.226398179509
+455,"prev_obesity_agestd",4668,"Sonora",2017,27,"Age-standardized",1,"Male",0.175122194761
+455,"prev_obesity_agestd",4668,"Sonora",2017,27,"Age-standardized",2,"Female",0.264718530139
+455,"prev_obesity_agestd",4669,"Tabasco",2017,27,"Age-standardized",1,"Male",0.211759669629
+455,"prev_obesity_agestd",4669,"Tabasco",2017,27,"Age-standardized",2,"Female",0.286508716527
+455,"prev_obesity_agestd",4670,"Tamaulipas",2017,27,"Age-standardized",1,"Male",0.205916608447
+455,"prev_obesity_agestd",4670,"Tamaulipas",2017,27,"Age-standardized",2,"Female",0.289925019216
+455,"prev_obesity_agestd",4671,"Tlaxcala",2017,27,"Age-standardized",1,"Male",0.184277037279
+455,"prev_obesity_agestd",4671,"Tlaxcala",2017,27,"Age-standardized",2,"Female",0.234359789344
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",1,"Male",0.133493545522
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",2,"Female",0.193697484156
+455,"prev_obesity_agestd",4673,"Yucatán",2017,27,"Age-standardized",1,"Male",0.204872613187
+455,"prev_obesity_agestd",4673,"Yucatán",2017,27,"Age-standardized",2,"Female",0.260031222692
+455,"prev_obesity_agestd",4674,"Zacatecas",2017,27,"Age-standardized",1,"Male",0.157135828084
+455,"prev_obesity_agestd",4674,"Zacatecas",2017,27,"Age-standardized",2,"Female",0.242494617798
+455,"prev_obesity_agestd",130,"Mexico",2018,27,"Age-standardized",1,"Male",0.136200790476171
+455,"prev_obesity_agestd",130,"Mexico",2018,27,"Age-standardized",2,"Female",0.203161816016695
+455,"prev_obesity_agestd",4643,"Aguascalientes",2018,27,"Age-standardized",1,"Male",0.180534813692132
+455,"prev_obesity_agestd",4643,"Aguascalientes",2018,27,"Age-standardized",2,"Female",0.252301392221356
+455,"prev_obesity_agestd",4644,"Baja California",2018,27,"Age-standardized",1,"Male",0.224942364772471
+455,"prev_obesity_agestd",4644,"Baja California",2018,27,"Age-standardized",2,"Female",0.300472748318646
+455,"prev_obesity_agestd",4645,"Baja California Sur",2018,27,"Age-standardized",1,"Male",0.21949093683803
+455,"prev_obesity_agestd",4645,"Baja California Sur",2018,27,"Age-standardized",2,"Female",0.272575909061467
+455,"prev_obesity_agestd",4646,"Campeche",2018,27,"Age-standardized",1,"Male",0.22538678106674
+455,"prev_obesity_agestd",4646,"Campeche",2018,27,"Age-standardized",2,"Female",0.291287144314963
+455,"prev_obesity_agestd",4647,"Coahuila",2018,27,"Age-standardized",1,"Male",0.182298471304788
+455,"prev_obesity_agestd",4647,"Coahuila",2018,27,"Age-standardized",2,"Female",0.28268661171234
+455,"prev_obesity_agestd",4648,"Colima",2018,27,"Age-standardized",1,"Male",0.205709164106339
+455,"prev_obesity_agestd",4648,"Colima",2018,27,"Age-standardized",2,"Female",0.277591513179848
+455,"prev_obesity_agestd",4649,"Chiapas",2018,27,"Age-standardized",1,"Male",0.126808014803178
+455,"prev_obesity_agestd",4649,"Chiapas",2018,27,"Age-standardized",2,"Female",0.208115577170105
+455,"prev_obesity_agestd",4650,"Chihuahua",2018,27,"Age-standardized",1,"Male",0.20502496163204
+455,"prev_obesity_agestd",4650,"Chihuahua",2018,27,"Age-standardized",2,"Female",0.275903962014304
+455,"prev_obesity_agestd",4651,"Mexico City",2018,27,"Age-standardized",1,"Male",0.202571955477214
+455,"prev_obesity_agestd",4651,"Mexico City",2018,27,"Age-standardized",2,"Female",0.23732451288958
+455,"prev_obesity_agestd",4652,"Durango",2018,27,"Age-standardized",1,"Male",0.145327751428478
+455,"prev_obesity_agestd",4652,"Durango",2018,27,"Age-standardized",2,"Female",0.227481622846736
+455,"prev_obesity_agestd",4653,"Guanajuato",2018,27,"Age-standardized",1,"Male",0.151000777103604
+455,"prev_obesity_agestd",4653,"Guanajuato",2018,27,"Age-standardized",2,"Female",0.235399576813319
+455,"prev_obesity_agestd",4654,"Guerrero",2018,27,"Age-standardized",1,"Male",0.159812664298468
+455,"prev_obesity_agestd",4654,"Guerrero",2018,27,"Age-standardized",2,"Female",0.214432136611029
+455,"prev_obesity_agestd",4655,"Hidalgo",2018,27,"Age-standardized",1,"Male",0.139500404880584
+455,"prev_obesity_agestd",4655,"Hidalgo",2018,27,"Age-standardized",2,"Female",0.220650034395585
+455,"prev_obesity_agestd",4656,"Jalisco",2018,27,"Age-standardized",1,"Male",0.17611440377978
+455,"prev_obesity_agestd",4656,"Jalisco",2018,27,"Age-standardized",2,"Female",0.245212026790882
+455,"prev_obesity_agestd",4657,"México",2018,27,"Age-standardized",1,"Male",0.174839853713248
+455,"prev_obesity_agestd",4657,"México",2018,27,"Age-standardized",2,"Female",0.215951192243122
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",1,"Male",0.15301950033963
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",2,"Female",0.214650930849165
+455,"prev_obesity_agestd",4659,"Morelos",2018,27,"Age-standardized",1,"Male",0.164085076024129
+455,"prev_obesity_agestd",4659,"Morelos",2018,27,"Age-standardized",2,"Female",0.203933441640688
+455,"prev_obesity_agestd",4660,"Nayarit",2018,27,"Age-standardized",1,"Male",0.186871147267949
+455,"prev_obesity_agestd",4660,"Nayarit",2018,27,"Age-standardized",2,"Female",0.260794020759893
+455,"prev_obesity_agestd",4661,"Nuevo León",2018,27,"Age-standardized",1,"Male",0.214065579676764
+455,"prev_obesity_agestd",4661,"Nuevo León",2018,27,"Age-standardized",2,"Female",0.264795003958524
+455,"prev_obesity_agestd",4662,"Oaxaca",2018,27,"Age-standardized",1,"Male",0.110052501861671
+455,"prev_obesity_agestd",4662,"Oaxaca",2018,27,"Age-standardized",2,"Female",0.170495342966085
+455,"prev_obesity_agestd",4663,"Puebla",2018,27,"Age-standardized",1,"Male",0.140821854671423
+455,"prev_obesity_agestd",4663,"Puebla",2018,27,"Age-standardized",2,"Female",0.218062697020308
+455,"prev_obesity_agestd",4664,"Querétaro",2018,27,"Age-standardized",1,"Male",0.17092140858845
+455,"prev_obesity_agestd",4664,"Querétaro",2018,27,"Age-standardized",2,"Female",0.227615211967159
+455,"prev_obesity_agestd",4665,"Quintana Roo",2018,27,"Age-standardized",1,"Male",0.210285485897305
+455,"prev_obesity_agestd",4665,"Quintana Roo",2018,27,"Age-standardized",2,"Female",0.292420739957231
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2018,27,"Age-standardized",1,"Male",0.154320486605876
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2018,27,"Age-standardized",2,"Female",0.268431922501012
+455,"prev_obesity_agestd",4667,"Sinaloa",2018,27,"Age-standardized",1,"Male",0.143120769199767
+455,"prev_obesity_agestd",4667,"Sinaloa",2018,27,"Age-standardized",2,"Female",0.229231523324394
+455,"prev_obesity_agestd",4668,"Sonora",2018,27,"Age-standardized",1,"Male",0.177278398993972
+455,"prev_obesity_agestd",4668,"Sonora",2018,27,"Age-standardized",2,"Female",0.267432275163041
+455,"prev_obesity_agestd",4669,"Tabasco",2018,27,"Age-standardized",1,"Male",0.215143127550196
+455,"prev_obesity_agestd",4669,"Tabasco",2018,27,"Age-standardized",2,"Female",0.290378247457846
+455,"prev_obesity_agestd",4670,"Tamaulipas",2018,27,"Age-standardized",1,"Male",0.208398026043682
+455,"prev_obesity_agestd",4670,"Tamaulipas",2018,27,"Age-standardized",2,"Female",0.292843389930043
+455,"prev_obesity_agestd",4671,"Tlaxcala",2018,27,"Age-standardized",1,"Male",0.18637353378989
+455,"prev_obesity_agestd",4671,"Tlaxcala",2018,27,"Age-standardized",2,"Female",0.236698797000119
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",1,"Male",0.135897713415641
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",2,"Female",0.196729176687363
+455,"prev_obesity_agestd",4673,"Yucatán",2018,27,"Age-standardized",1,"Male",0.207974045721161
+455,"prev_obesity_agestd",4673,"Yucatán",2018,27,"Age-standardized",2,"Female",0.263453760274822
+455,"prev_obesity_agestd",4674,"Zacatecas",2018,27,"Age-standardized",1,"Male",0.160288846631006
+455,"prev_obesity_agestd",4674,"Zacatecas",2018,27,"Age-standardized",2,"Female",0.246575750978018
+455,"prev_obesity_agestd",130,"Mexico",2019,27,"Age-standardized",1,"Male",0.138109460565607
+455,"prev_obesity_agestd",130,"Mexico",2019,27,"Age-standardized",2,"Female",0.205615367840315
+455,"prev_obesity_agestd",4643,"Aguascalientes",2019,27,"Age-standardized",1,"Male",0.182847572547823
+455,"prev_obesity_agestd",4643,"Aguascalientes",2019,27,"Age-standardized",2,"Female",0.255056512373884
+455,"prev_obesity_agestd",4644,"Baja California",2019,27,"Age-standardized",1,"Male",0.226945010915116
+455,"prev_obesity_agestd",4644,"Baja California",2019,27,"Age-standardized",2,"Female",0.302729159024677
+455,"prev_obesity_agestd",4645,"Baja California Sur",2019,27,"Age-standardized",1,"Male",0.221767676796944
+455,"prev_obesity_agestd",4645,"Baja California Sur",2019,27,"Age-standardized",2,"Female",0.275038847725803
+455,"prev_obesity_agestd",4646,"Campeche",2019,27,"Age-standardized",1,"Male",0.228639581349911
+455,"prev_obesity_agestd",4646,"Campeche",2019,27,"Age-standardized",2,"Female",0.29488004493036
+455,"prev_obesity_agestd",4647,"Coahuila",2019,27,"Age-standardized",1,"Male",0.184611871574087
+455,"prev_obesity_agestd",4647,"Coahuila",2019,27,"Age-standardized",2,"Female",0.285625394239616
+455,"prev_obesity_agestd",4648,"Colima",2019,27,"Age-standardized",1,"Male",0.208254545605097
+455,"prev_obesity_agestd",4648,"Colima",2019,27,"Age-standardized",2,"Female",0.280510125855667
+455,"prev_obesity_agestd",4649,"Chiapas",2019,27,"Age-standardized",1,"Male",0.128976473554097
+455,"prev_obesity_agestd",4649,"Chiapas",2019,27,"Age-standardized",2,"Female",0.211129011060491
+455,"prev_obesity_agestd",4650,"Chihuahua",2019,27,"Age-standardized",1,"Male",0.207456506363732
+455,"prev_obesity_agestd",4650,"Chihuahua",2019,27,"Age-standardized",2,"Female",0.278688635409562
+455,"prev_obesity_agestd",4651,"Mexico City",2019,27,"Age-standardized",1,"Male",0.204755176646497
+455,"prev_obesity_agestd",4651,"Mexico City",2019,27,"Age-standardized",2,"Female",0.239611461664904
+455,"prev_obesity_agestd",4652,"Durango",2019,27,"Age-standardized",1,"Male",0.147583299442226
+455,"prev_obesity_agestd",4652,"Durango",2019,27,"Age-standardized",2,"Female",0.230461678416912
+455,"prev_obesity_agestd",4653,"Guanajuato",2019,27,"Age-standardized",1,"Male",0.153314141073173
+455,"prev_obesity_agestd",4653,"Guanajuato",2019,27,"Age-standardized",2,"Female",0.238432450849744
+455,"prev_obesity_agestd",4654,"Guerrero",2019,27,"Age-standardized",1,"Male",0.16225455673547
+455,"prev_obesity_agestd",4654,"Guerrero",2019,27,"Age-standardized",2,"Female",0.217294254004015
+455,"prev_obesity_agestd",4655,"Hidalgo",2019,27,"Age-standardized",1,"Male",0.141483338176187
+455,"prev_obesity_agestd",4655,"Hidalgo",2019,27,"Age-standardized",2,"Female",0.223303164258574
+455,"prev_obesity_agestd",4656,"Jalisco",2019,27,"Age-standardized",1,"Male",0.178495602688965
+455,"prev_obesity_agestd",4656,"Jalisco",2019,27,"Age-standardized",2,"Female",0.248049568892749
+455,"prev_obesity_agestd",4657,"México",2019,27,"Age-standardized",1,"Male",0.177145874013115
+455,"prev_obesity_agestd",4657,"México",2019,27,"Age-standardized",2,"Female",0.218480615936945
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",1,"Male",0.155460618433958
+455,"prev_obesity_agestd",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",2,"Female",0.217616862581727
+455,"prev_obesity_agestd",4659,"Morelos",2019,27,"Age-standardized",1,"Male",0.166231794844194
+455,"prev_obesity_agestd",4659,"Morelos",2019,27,"Age-standardized",2,"Female",0.206308269370519
+455,"prev_obesity_agestd",4660,"Nayarit",2019,27,"Age-standardized",1,"Male",0.189762997664511
+455,"prev_obesity_agestd",4660,"Nayarit",2019,27,"Age-standardized",2,"Female",0.264220520356288
+455,"prev_obesity_agestd",4661,"Nuevo León",2019,27,"Age-standardized",1,"Male",0.21609769109496
+455,"prev_obesity_agestd",4661,"Nuevo León",2019,27,"Age-standardized",2,"Female",0.266993052860397
+455,"prev_obesity_agestd",4662,"Oaxaca",2019,27,"Age-standardized",1,"Male",0.112004466624796
+455,"prev_obesity_agestd",4662,"Oaxaca",2019,27,"Age-standardized",2,"Female",0.173127937129916
+455,"prev_obesity_agestd",4663,"Puebla",2019,27,"Age-standardized",1,"Male",0.142842919738544
+455,"prev_obesity_agestd",4663,"Puebla",2019,27,"Age-standardized",2,"Female",0.220723051501786
+455,"prev_obesity_agestd",4664,"Querétaro",2019,27,"Age-standardized",1,"Male",0.172793697503553
+455,"prev_obesity_agestd",4664,"Querétaro",2019,27,"Age-standardized",2,"Female",0.229786113946353
+455,"prev_obesity_agestd",4665,"Quintana Roo",2019,27,"Age-standardized",1,"Male",0.21228566402513
+455,"prev_obesity_agestd",4665,"Quintana Roo",2019,27,"Age-standardized",2,"Female",0.294749492967065
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2019,27,"Age-standardized",1,"Male",0.156666368293085
+455,"prev_obesity_agestd",4666,"San Luis Potosí",2019,27,"Age-standardized",2,"Female",0.271726581436151
+455,"prev_obesity_agestd",4667,"Sinaloa",2019,27,"Age-standardized",1,"Male",0.145127878948818
+455,"prev_obesity_agestd",4667,"Sinaloa",2019,27,"Age-standardized",2,"Female",0.231932136697838
+455,"prev_obesity_agestd",4668,"Sonora",2019,27,"Age-standardized",1,"Male",0.179358025445034
+455,"prev_obesity_agestd",4668,"Sonora",2019,27,"Age-standardized",2,"Female",0.270041659770665
+455,"prev_obesity_agestd",4669,"Tabasco",2019,27,"Age-standardized",1,"Male",0.218296259093739
+455,"prev_obesity_agestd",4669,"Tabasco",2019,27,"Age-standardized",2,"Female",0.293971991701344
+455,"prev_obesity_agestd",4670,"Tamaulipas",2019,27,"Age-standardized",1,"Male",0.210816134755523
+455,"prev_obesity_agestd",4670,"Tamaulipas",2019,27,"Age-standardized",2,"Female",0.295679054187665
+455,"prev_obesity_agestd",4671,"Tlaxcala",2019,27,"Age-standardized",1,"Male",0.188510255457564
+455,"prev_obesity_agestd",4671,"Tlaxcala",2019,27,"Age-standardized",2,"Female",0.239078208086244
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",1,"Male",0.138114812677156
+455,"prev_obesity_agestd",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",2,"Female",0.199516139482807
+455,"prev_obesity_agestd",4673,"Yucatán",2019,27,"Age-standardized",1,"Male",0.210955622130928
+455,"prev_obesity_agestd",4673,"Yucatán",2019,27,"Age-standardized",2,"Female",0.266735447732902
+455,"prev_obesity_agestd",4674,"Zacatecas",2019,27,"Age-standardized",1,"Male",0.163153604254889
+455,"prev_obesity_agestd",4674,"Zacatecas",2019,27,"Age-standardized",2,"Female",0.250266790064778

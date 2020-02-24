@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+854,"prop_urban",130,"Mexico",1990,22,"All Ages",3,"Both",0.714330415
+854,"prop_urban",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",0.809576375
+854,"prop_urban",4644,"Baja California",1990,22,"All Ages",3,"Both",0.883990897
+854,"prop_urban",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",0.708412617
+854,"prop_urban",4646,"Campeche",1990,22,"All Ages",3,"Both",0.574043729
+854,"prop_urban",4647,"Coahuila",1990,22,"All Ages",3,"Both",0.80817401
+854,"prop_urban",4648,"Colima",1990,22,"All Ages",3,"Both",0.661518427
+854,"prop_urban",4649,"Chiapas",1990,22,"All Ages",3,"Both",0.443857543
+854,"prop_urban",4650,"Chihuahua",1990,22,"All Ages",3,"Both",0.820010483
+854,"prop_urban",4651,"Mexico City",1990,22,"All Ages",3,"Both",0.966908254
+854,"prop_urban",4652,"Durango",1990,22,"All Ages",3,"Both",0.587483934
+854,"prop_urban",4653,"Guanajuato",1990,22,"All Ages",3,"Both",0.691455023
+854,"prop_urban",4654,"Guerrero",1990,22,"All Ages",3,"Both",0.475211732
+854,"prop_urban",4655,"Hidalgo",1990,22,"All Ages",3,"Both",0.494299199
+854,"prop_urban",4656,"Jalisco",1990,22,"All Ages",3,"Both",0.779983727
+854,"prop_urban",4657,"México",1990,22,"All Ages",3,"Both",0.853688465
+854,"prop_urban",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",0.53739785
+854,"prop_urban",4659,"Morelos",1990,22,"All Ages",3,"Both",0.770852543
+854,"prop_urban",4660,"Nayarit",1990,22,"All Ages",3,"Both",0.663688376
+854,"prop_urban",4661,"Nuevo León",1990,22,"All Ages",3,"Both",0.845453034
+854,"prop_urban",4662,"Oaxaca",1990,22,"All Ages",3,"Both",0.419548174
+854,"prop_urban",4663,"Puebla",1990,22,"All Ages",3,"Both",0.698035079
+854,"prop_urban",4664,"Querétaro",1990,22,"All Ages",3,"Both",0.736818892
+854,"prop_urban",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",0.664008359
+854,"prop_urban",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",0.665645216
+854,"prop_urban",4667,"Sinaloa",1990,22,"All Ages",3,"Both",0.715078917
+854,"prop_urban",4668,"Sonora",1990,22,"All Ages",3,"Both",0.740897426
+854,"prop_urban",4669,"Tabasco",1990,22,"All Ages",3,"Both",0.530338597
+854,"prop_urban",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",0.778306445
+854,"prop_urban",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",0.702310203
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",0.609362013
+854,"prop_urban",4673,"Yucatán",1990,22,"All Ages",3,"Both",0.73187025
+854,"prop_urban",4674,"Zacatecas",1990,22,"All Ages",3,"Both",0.427815401
+854,"prop_urban",130,"Mexico",1991,22,"All Ages",3,"Both",0.715290496
+854,"prop_urban",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",0.809312043
+854,"prop_urban",4644,"Baja California",1991,22,"All Ages",3,"Both",0.884398482
+854,"prop_urban",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",0.712020429
+854,"prop_urban",4646,"Campeche",1991,22,"All Ages",3,"Both",0.573731514
+854,"prop_urban",4647,"Coahuila",1991,22,"All Ages",3,"Both",0.808453064
+854,"prop_urban",4648,"Colima",1991,22,"All Ages",3,"Both",0.661564146
+854,"prop_urban",4649,"Chiapas",1991,22,"All Ages",3,"Both",0.445497859
+854,"prop_urban",4650,"Chihuahua",1991,22,"All Ages",3,"Both",0.820393318
+854,"prop_urban",4651,"Mexico City",1991,22,"All Ages",3,"Both",0.966965251
+854,"prop_urban",4652,"Durango",1991,22,"All Ages",3,"Both",0.586876331
+854,"prop_urban",4653,"Guanajuato",1991,22,"All Ages",3,"Both",0.693888885
+854,"prop_urban",4654,"Guerrero",1991,22,"All Ages",3,"Both",0.475304287
+854,"prop_urban",4655,"Hidalgo",1991,22,"All Ages",3,"Both",0.49784488
+854,"prop_urban",4656,"Jalisco",1991,22,"All Ages",3,"Both",0.780835421
+854,"prop_urban",4657,"México",1991,22,"All Ages",3,"Both",0.854363447
+854,"prop_urban",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",0.539515044
+854,"prop_urban",4659,"Morelos",1991,22,"All Ages",3,"Both",0.772127329
+854,"prop_urban",4660,"Nayarit",1991,22,"All Ages",3,"Both",0.663960541
+854,"prop_urban",4661,"Nuevo León",1991,22,"All Ages",3,"Both",0.846659043
+854,"prop_urban",4662,"Oaxaca",1991,22,"All Ages",3,"Both",0.420306984
+854,"prop_urban",4663,"Puebla",1991,22,"All Ages",3,"Both",0.698898169
+854,"prop_urban",4664,"Querétaro",1991,22,"All Ages",3,"Both",0.73898799
+854,"prop_urban",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",0.665135966
+854,"prop_urban",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",0.666527488
+854,"prop_urban",4667,"Sinaloa",1991,22,"All Ages",3,"Both",0.714393438
+854,"prop_urban",4668,"Sonora",1991,22,"All Ages",3,"Both",0.741089868
+854,"prop_urban",4669,"Tabasco",1991,22,"All Ages",3,"Both",0.532103248
+854,"prop_urban",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",0.778493038
+854,"prop_urban",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",0.702837552
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",0.610166426
+854,"prop_urban",4673,"Yucatán",1991,22,"All Ages",3,"Both",0.731818305
+854,"prop_urban",4674,"Zacatecas",1991,22,"All Ages",3,"Both",0.429018196
+854,"prop_urban",130,"Mexico",1992,22,"All Ages",3,"Both",0.716735132
+854,"prop_urban",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",0.809405234
+854,"prop_urban",4644,"Baja California",1992,22,"All Ages",3,"Both",0.884889717
+854,"prop_urban",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",0.716757774
+854,"prop_urban",4646,"Campeche",1992,22,"All Ages",3,"Both",0.574053152
+854,"prop_urban",4647,"Coahuila",1992,22,"All Ages",3,"Both",0.808908131
+854,"prop_urban",4648,"Colima",1992,22,"All Ages",3,"Both",0.6621455
+854,"prop_urban",4649,"Chiapas",1992,22,"All Ages",3,"Both",0.448019332
+854,"prop_urban",4650,"Chihuahua",1992,22,"All Ages",3,"Both",0.820788961
+854,"prop_urban",4651,"Mexico City",1992,22,"All Ages",3,"Both",0.967058737
+854,"prop_urban",4652,"Durango",1992,22,"All Ages",3,"Both",0.587039735
+854,"prop_urban",4653,"Guanajuato",1992,22,"All Ages",3,"Both",0.696908817
+854,"prop_urban",4654,"Guerrero",1992,22,"All Ages",3,"Both",0.476208042
+854,"prop_urban",4655,"Hidalgo",1992,22,"All Ages",3,"Both",0.502857811
+854,"prop_urban",4656,"Jalisco",1992,22,"All Ages",3,"Both",0.782005255
+854,"prop_urban",4657,"México",1992,22,"All Ages",3,"Both",0.855210423
+854,"prop_urban",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",0.542823747
+854,"prop_urban",4659,"Morelos",1992,22,"All Ages",3,"Both",0.773771445
+854,"prop_urban",4660,"Nayarit",1992,22,"All Ages",3,"Both",0.664684072
+854,"prop_urban",4661,"Nuevo León",1992,22,"All Ages",3,"Both",0.84810952
+854,"prop_urban",4662,"Oaxaca",1992,22,"All Ages",3,"Both",0.422332356
+854,"prop_urban",4663,"Puebla",1992,22,"All Ages",3,"Both",0.700209522
+854,"prop_urban",4664,"Querétaro",1992,22,"All Ages",3,"Both",0.741688365
+854,"prop_urban",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",0.666913724
+854,"prop_urban",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",0.667593114
+854,"prop_urban",4667,"Sinaloa",1992,22,"All Ages",3,"Both",0.714242848
+854,"prop_urban",4668,"Sonora",1992,22,"All Ages",3,"Both",0.741556963
+854,"prop_urban",4669,"Tabasco",1992,22,"All Ages",3,"Both",0.535175549
+854,"prop_urban",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",0.778963611
+854,"prop_urban",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",0.70377586
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",0.611637494
+854,"prop_urban",4673,"Yucatán",1992,22,"All Ages",3,"Both",0.732186599
+854,"prop_urban",4674,"Zacatecas",1992,22,"All Ages",3,"Both",0.431227167
+854,"prop_urban",130,"Mexico",1993,22,"All Ages",3,"Both",0.71852416
+854,"prop_urban",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",0.809325436
+854,"prop_urban",4644,"Baja California",1993,22,"All Ages",3,"Both",0.885455095
+854,"prop_urban",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",0.722897459
+854,"prop_urban",4646,"Campeche",1993,22,"All Ages",3,"Both",0.574607169
+854,"prop_urban",4647,"Coahuila",1993,22,"All Ages",3,"Both",0.809239287
+854,"prop_urban",4648,"Colima",1993,22,"All Ages",3,"Both",0.662865179
+854,"prop_urban",4649,"Chiapas",1993,22,"All Ages",3,"Both",0.450761535
+854,"prop_urban",4650,"Chihuahua",1993,22,"All Ages",3,"Both",0.821040127
+854,"prop_urban",4651,"Mexico City",1993,22,"All Ages",3,"Both",0.967159722
+854,"prop_urban",4652,"Durango",1993,22,"All Ages",3,"Both",0.587668737
+854,"prop_urban",4653,"Guanajuato",1993,22,"All Ages",3,"Both",0.700650708
+854,"prop_urban",4654,"Guerrero",1993,22,"All Ages",3,"Both",0.47747264
+854,"prop_urban",4655,"Hidalgo",1993,22,"All Ages",3,"Both",0.509326301
+854,"prop_urban",4656,"Jalisco",1993,22,"All Ages",3,"Both",0.7835584
+854,"prop_urban",4657,"México",1993,22,"All Ages",3,"Both",0.856279352
+854,"prop_urban",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",0.54701429
+854,"prop_urban",4659,"Morelos",1993,22,"All Ages",3,"Both",0.775834291
+854,"prop_urban",4660,"Nayarit",1993,22,"All Ages",3,"Both",0.665476698
+854,"prop_urban",4661,"Nuevo León",1993,22,"All Ages",3,"Both",0.849943264
+854,"prop_urban",4662,"Oaxaca",1993,22,"All Ages",3,"Both",0.425231004
+854,"prop_urban",4663,"Puebla",1993,22,"All Ages",3,"Both",0.701868715
+854,"prop_urban",4664,"Querétaro",1993,22,"All Ages",3,"Both",0.744896612
+854,"prop_urban",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",0.66894245
+854,"prop_urban",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",0.668583061
+854,"prop_urban",4667,"Sinaloa",1993,22,"All Ages",3,"Both",0.714213288
+854,"prop_urban",4668,"Sonora",1993,22,"All Ages",3,"Both",0.742107018
+854,"prop_urban",4669,"Tabasco",1993,22,"All Ages",3,"Both",0.539169209
+854,"prop_urban",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",0.779625431
+854,"prop_urban",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",0.704645948
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",0.613647965
+854,"prop_urban",4673,"Yucatán",1993,22,"All Ages",3,"Both",0.732825565
+854,"prop_urban",4674,"Zacatecas",1993,22,"All Ages",3,"Both",0.434195241
+854,"prop_urban",130,"Mexico",1994,22,"All Ages",3,"Both",0.720813944
+854,"prop_urban",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",0.808759827
+854,"prop_urban",4644,"Baja California",1994,22,"All Ages",3,"Both",0.886235467
+854,"prop_urban",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",0.730841066
+854,"prop_urban",4646,"Campeche",1994,22,"All Ages",3,"Both",0.575457455
+854,"prop_urban",4647,"Coahuila",1994,22,"All Ages",3,"Both",0.809410727
+854,"prop_urban",4648,"Colima",1994,22,"All Ages",3,"Both",0.663698968
+854,"prop_urban",4649,"Chiapas",1994,22,"All Ages",3,"Both",0.453562759
+854,"prop_urban",4650,"Chihuahua",1994,22,"All Ages",3,"Both",0.82123886
+854,"prop_urban",4651,"Mexico City",1994,22,"All Ages",3,"Both",0.967318629
+854,"prop_urban",4652,"Durango",1994,22,"All Ages",3,"Both",0.588890591
+854,"prop_urban",4653,"Guanajuato",1994,22,"All Ages",3,"Both",0.705566691
+854,"prop_urban",4654,"Guerrero",1994,22,"All Ages",3,"Both",0.479162421
+854,"prop_urban",4655,"Hidalgo",1994,22,"All Ages",3,"Both",0.517617622
+854,"prop_urban",4656,"Jalisco",1994,22,"All Ages",3,"Both",0.785801193
+854,"prop_urban",4657,"México",1994,22,"All Ages",3,"Both",0.857803219
+854,"prop_urban",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",0.552159039
+854,"prop_urban",4659,"Morelos",1994,22,"All Ages",3,"Both",0.778593534
+854,"prop_urban",4660,"Nayarit",1994,22,"All Ages",3,"Both",0.666364937
+854,"prop_urban",4661,"Nuevo León",1994,22,"All Ages",3,"Both",0.85245096
+854,"prop_urban",4662,"Oaxaca",1994,22,"All Ages",3,"Both",0.429006472
+854,"prop_urban",4663,"Puebla",1994,22,"All Ages",3,"Both",0.704109315
+854,"prop_urban",4664,"Querétaro",1994,22,"All Ages",3,"Both",0.748877293
+854,"prop_urban",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",0.671215456
+854,"prop_urban",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",0.669715277
+854,"prop_urban",4667,"Sinaloa",1994,22,"All Ages",3,"Both",0.71416631
+854,"prop_urban",4668,"Sonora",1994,22,"All Ages",3,"Both",0.742885329
+854,"prop_urban",4669,"Tabasco",1994,22,"All Ages",3,"Both",0.544079769
+854,"prop_urban",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",0.780668786
+854,"prop_urban",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",0.705335909
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",0.616484231
+854,"prop_urban",4673,"Yucatán",1994,22,"All Ages",3,"Both",0.733879652
+854,"prop_urban",4674,"Zacatecas",1994,22,"All Ages",3,"Both",0.43819594
+854,"prop_urban",130,"Mexico",1995,22,"All Ages",3,"Both",0.722118395
+854,"prop_urban",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",0.807387439
+854,"prop_urban",4644,"Baja California",1995,22,"All Ages",3,"Both",0.886524929
+854,"prop_urban",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",0.737815624
+854,"prop_urban",4646,"Campeche",1995,22,"All Ages",3,"Both",0.574784713
+854,"prop_urban",4647,"Coahuila",1995,22,"All Ages",3,"Both",0.80869813
+854,"prop_urban",4648,"Colima",1995,22,"All Ages",3,"Both",0.663194023
+854,"prop_urban",4649,"Chiapas",1995,22,"All Ages",3,"Both",0.4546774
+854,"prop_urban",4650,"Chihuahua",1995,22,"All Ages",3,"Both",0.820541556
+854,"prop_urban",4651,"Mexico City",1995,22,"All Ages",3,"Both",0.967330537
+854,"prop_urban",4652,"Durango",1995,22,"All Ages",3,"Both",0.588719468
+854,"prop_urban",4653,"Guanajuato",1995,22,"All Ages",3,"Both",0.709333792
+854,"prop_urban",4654,"Guerrero",1995,22,"All Ages",3,"Both",0.479289364
+854,"prop_urban",4655,"Hidalgo",1995,22,"All Ages",3,"Both",0.524673335
+854,"prop_urban",4656,"Jalisco",1995,22,"All Ages",3,"Both",0.787185088
+854,"prop_urban",4657,"México",1995,22,"All Ages",3,"Both",0.858790402
+854,"prop_urban",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",0.555911809
+854,"prop_urban",4659,"Morelos",1995,22,"All Ages",3,"Both",0.780471456
+854,"prop_urban",4660,"Nayarit",1995,22,"All Ages",3,"Both",0.665902987
+854,"prop_urban",4661,"Nuevo León",1995,22,"All Ages",3,"Both",0.854329205
+854,"prop_urban",4662,"Oaxaca",1995,22,"All Ages",3,"Both",0.431364759
+854,"prop_urban",4663,"Puebla",1995,22,"All Ages",3,"Both",0.705226404
+854,"prop_urban",4664,"Querétaro",1995,22,"All Ages",3,"Both",0.751874226
+854,"prop_urban",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",0.6722101
+854,"prop_urban",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",0.669415385
+854,"prop_urban",4667,"Sinaloa",1995,22,"All Ages",3,"Both",0.712934501
+854,"prop_urban",4668,"Sonora",1995,22,"All Ages",3,"Both",0.742543137
+854,"prop_urban",4669,"Tabasco",1995,22,"All Ages",3,"Both",0.547722416
+854,"prop_urban",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",0.780807283
+854,"prop_urban",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",0.704845251
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",0.618005412
+854,"prop_urban",4673,"Yucatán",1995,22,"All Ages",3,"Both",0.733906714
+854,"prop_urban",4674,"Zacatecas",1995,22,"All Ages",3,"Both",0.440595049
+854,"prop_urban",130,"Mexico",1996,22,"All Ages",3,"Both",0.723782052
+854,"prop_urban",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",0.806528088
+854,"prop_urban",4644,"Baja California",1996,22,"All Ages",3,"Both",0.887110969
+854,"prop_urban",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",0.744748762
+854,"prop_urban",4646,"Campeche",1996,22,"All Ages",3,"Both",0.574649853
+854,"prop_urban",4647,"Coahuila",1996,22,"All Ages",3,"Both",0.808491022
+854,"prop_urban",4648,"Colima",1996,22,"All Ages",3,"Both",0.663215131
+854,"prop_urban",4649,"Chiapas",1996,22,"All Ages",3,"Both",0.456335327
+854,"prop_urban",4650,"Chihuahua",1996,22,"All Ages",3,"Both",0.820305338
+854,"prop_urban",4651,"Mexico City",1996,22,"All Ages",3,"Both",0.967468073
+854,"prop_urban",4652,"Durango",1996,22,"All Ages",3,"Both",0.589018018
+854,"prop_urban",4653,"Guanajuato",1996,22,"All Ages",3,"Both",0.713422451
+854,"prop_urban",4654,"Guerrero",1996,22,"All Ages",3,"Both",0.4799346
+854,"prop_urban",4655,"Hidalgo",1996,22,"All Ages",3,"Both",0.531964753
+854,"prop_urban",4656,"Jalisco",1996,22,"All Ages",3,"Both",0.788924879
+854,"prop_urban",4657,"México",1996,22,"All Ages",3,"Both",0.860114151
+854,"prop_urban",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",0.560001578
+854,"prop_urban",4659,"Morelos",1996,22,"All Ages",3,"Both",0.782696999
+854,"prop_urban",4660,"Nayarit",1996,22,"All Ages",3,"Both",0.666029793
+854,"prop_urban",4661,"Nuevo León",1996,22,"All Ages",3,"Both",0.856433586
+854,"prop_urban",4662,"Oaxaca",1996,22,"All Ages",3,"Both",0.434011978
+854,"prop_urban",4663,"Puebla",1996,22,"All Ages",3,"Both",0.7068237
+854,"prop_urban",4664,"Querétaro",1996,22,"All Ages",3,"Both",0.755250497
+854,"prop_urban",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",0.673735447
+854,"prop_urban",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",0.66977126
+854,"prop_urban",4667,"Sinaloa",1996,22,"All Ages",3,"Both",0.712145175
+854,"prop_urban",4668,"Sonora",1996,22,"All Ages",3,"Both",0.742708953
+854,"prop_urban",4669,"Tabasco",1996,22,"All Ages",3,"Both",0.551753403
+854,"prop_urban",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",0.781392892
+854,"prop_urban",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",0.704997085
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",0.620004773
+854,"prop_urban",4673,"Yucatán",1996,22,"All Ages",3,"Both",0.734396746
+854,"prop_urban",4674,"Zacatecas",1996,22,"All Ages",3,"Both",0.443351579
+854,"prop_urban",130,"Mexico",1997,22,"All Ages",3,"Both",0.725793284
+854,"prop_urban",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",0.806258924
+854,"prop_urban",4644,"Baja California",1997,22,"All Ages",3,"Both",0.887973017
+854,"prop_urban",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",0.751276083
+854,"prop_urban",4646,"Campeche",1997,22,"All Ages",3,"Both",0.575199565
+854,"prop_urban",4647,"Coahuila",1997,22,"All Ages",3,"Both",0.808871093
+854,"prop_urban",4648,"Colima",1997,22,"All Ages",3,"Both",0.663879038
+854,"prop_urban",4649,"Chiapas",1997,22,"All Ages",3,"Both",0.458705479
+854,"prop_urban",4650,"Chihuahua",1997,22,"All Ages",3,"Both",0.820626441
+854,"prop_urban",4651,"Mexico City",1997,22,"All Ages",3,"Both",0.967732263
+854,"prop_urban",4652,"Durango",1997,22,"All Ages",3,"Both",0.589852156
+854,"prop_urban",4653,"Guanajuato",1997,22,"All Ages",3,"Both",0.717702885
+854,"prop_urban",4654,"Guerrero",1997,22,"All Ages",3,"Both",0.481229674
+854,"prop_urban",4655,"Hidalgo",1997,22,"All Ages",3,"Both",0.539207516
+854,"prop_urban",4656,"Jalisco",1997,22,"All Ages",3,"Both",0.79095315
+854,"prop_urban",4657,"México",1997,22,"All Ages",3,"Both",0.861696464
+854,"prop_urban",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",0.564337295
+854,"prop_urban",4659,"Morelos",1997,22,"All Ages",3,"Both",0.785183942
+854,"prop_urban",4660,"Nayarit",1997,22,"All Ages",3,"Both",0.666869003
+854,"prop_urban",4661,"Nuevo León",1997,22,"All Ages",3,"Both",0.858660807
+854,"prop_urban",4662,"Oaxaca",1997,22,"All Ages",3,"Both",0.436918266
+854,"prop_urban",4663,"Puebla",1997,22,"All Ages",3,"Both",0.70888036
+854,"prop_urban",4664,"Querétaro",1997,22,"All Ages",3,"Both",0.758892389
+854,"prop_urban",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",0.675823318
+854,"prop_urban",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",0.670956858
+854,"prop_urban",4667,"Sinaloa",1997,22,"All Ages",3,"Both",0.711872765
+854,"prop_urban",4668,"Sonora",1997,22,"All Ages",3,"Both",0.743459277
+854,"prop_urban",4669,"Tabasco",1997,22,"All Ages",3,"Both",0.556048624
+854,"prop_urban",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",0.782421684
+854,"prop_urban",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",0.705887375
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",0.622475216
+854,"prop_urban",4673,"Yucatán",1997,22,"All Ages",3,"Both",0.735345942
+854,"prop_urban",4674,"Zacatecas",1997,22,"All Ages",3,"Both",0.446532608
+854,"prop_urban",130,"Mexico",1998,22,"All Ages",3,"Both",0.727846138
+854,"prop_urban",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",0.806282643
+854,"prop_urban",4644,"Baja California",1998,22,"All Ages",3,"Both",0.888871953
+854,"prop_urban",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",0.75690511
+854,"prop_urban",4646,"Campeche",1998,22,"All Ages",3,"Both",0.576091027
+854,"prop_urban",4647,"Coahuila",1998,22,"All Ages",3,"Both",0.809525868
+854,"prop_urban",4648,"Colima",1998,22,"All Ages",3,"Both",0.664838789
+854,"prop_urban",4649,"Chiapas",1998,22,"All Ages",3,"Both",0.461443055
+854,"prop_urban",4650,"Chihuahua",1998,22,"All Ages",3,"Both",0.821217098
+854,"prop_urban",4651,"Mexico City",1998,22,"All Ages",3,"Both",0.968041658
+854,"prop_urban",4652,"Durango",1998,22,"All Ages",3,"Both",0.590866943
+854,"prop_urban",4653,"Guanajuato",1998,22,"All Ages",3,"Both",0.721711648
+854,"prop_urban",4654,"Guerrero",1998,22,"All Ages",3,"Both",0.482844225
+854,"prop_urban",4655,"Hidalgo",1998,22,"All Ages",3,"Both",0.545857313
+854,"prop_urban",4656,"Jalisco",1998,22,"All Ages",3,"Both",0.79290299
+854,"prop_urban",4657,"México",1998,22,"All Ages",3,"Both",0.863226126
+854,"prop_urban",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",0.568473983
+854,"prop_urban",4659,"Morelos",1998,22,"All Ages",3,"Both",0.787544655
+854,"prop_urban",4660,"Nayarit",1998,22,"All Ages",3,"Both",0.668043319
+854,"prop_urban",4661,"Nuevo León",1998,22,"All Ages",3,"Both",0.860699976
+854,"prop_urban",4662,"Oaxaca",1998,22,"All Ages",3,"Both",0.439734014
+854,"prop_urban",4663,"Puebla",1998,22,"All Ages",3,"Both",0.710980572
+854,"prop_urban",4664,"Querétaro",1998,22,"All Ages",3,"Both",0.762359451
+854,"prop_urban",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",0.678059525
+854,"prop_urban",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",0.67259957
+854,"prop_urban",4667,"Sinaloa",1998,22,"All Ages",3,"Both",0.711787971
+854,"prop_urban",4668,"Sonora",1998,22,"All Ages",3,"Both",0.744440354
+854,"prop_urban",4669,"Tabasco",1998,22,"All Ages",3,"Both",0.560144177
+854,"prop_urban",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",0.783533477
+854,"prop_urban",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",0.707120481
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",0.62499814
+854,"prop_urban",4673,"Yucatán",1998,22,"All Ages",3,"Both",0.736375884
+854,"prop_urban",4674,"Zacatecas",1998,22,"All Ages",3,"Both",0.449797299
+854,"prop_urban",130,"Mexico",1999,22,"All Ages",3,"Both",0.729781382
+854,"prop_urban",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",0.806364931
+854,"prop_urban",4644,"Baja California",1999,22,"All Ages",3,"Both",0.889634941
+854,"prop_urban",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",0.761483904
+854,"prop_urban",4646,"Campeche",1999,22,"All Ages",3,"Both",0.577215876
+854,"prop_urban",4647,"Coahuila",1999,22,"All Ages",3,"Both",0.810223746
+854,"prop_urban",4648,"Colima",1999,22,"All Ages",3,"Both",0.665939018
+854,"prop_urban",4649,"Chiapas",1999,22,"All Ages",3,"Both",0.464489174
+854,"prop_urban",4650,"Chihuahua",1999,22,"All Ages",3,"Both",0.821866562
+854,"prop_urban",4651,"Mexico City",1999,22,"All Ages",3,"Both",0.968331881
+854,"prop_urban",4652,"Durango",1999,22,"All Ages",3,"Both",0.591957658
+854,"prop_urban",4653,"Guanajuato",1999,22,"All Ages",3,"Both",0.725245038
+854,"prop_urban",4654,"Guerrero",1999,22,"All Ages",3,"Both",0.484720543
+854,"prop_urban",4655,"Hidalgo",1999,22,"All Ages",3,"Both",0.55178495
+854,"prop_urban",4656,"Jalisco",1999,22,"All Ages",3,"Both",0.794568428
+854,"prop_urban",4657,"México",1999,22,"All Ages",3,"Both",0.864488102
+854,"prop_urban",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",0.572305485
+854,"prop_urban",4659,"Morelos",1999,22,"All Ages",3,"Both",0.789563852
+854,"prop_urban",4660,"Nayarit",1999,22,"All Ages",3,"Both",0.669358122
+854,"prop_urban",4661,"Nuevo León",1999,22,"All Ages",3,"Both",0.862377994
+854,"prop_urban",4662,"Oaxaca",1999,22,"All Ages",3,"Both",0.442455317
+854,"prop_urban",4663,"Puebla",1999,22,"All Ages",3,"Both",0.712900672
+854,"prop_urban",4664,"Querétaro",1999,22,"All Ages",3,"Both",0.765421452
+854,"prop_urban",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",0.68023972
+854,"prop_urban",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",0.674497704
+854,"prop_urban",4667,"Sinaloa",1999,22,"All Ages",3,"Both",0.711719994
+854,"prop_urban",4668,"Sonora",1999,22,"All Ages",3,"Both",0.745444076
+854,"prop_urban",4669,"Tabasco",1999,22,"All Ages",3,"Both",0.563904823
+854,"prop_urban",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",0.784499179
+854,"prop_urban",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",0.708437139
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",0.627406575
+854,"prop_urban",4673,"Yucatán",1999,22,"All Ages",3,"Both",0.737267697
+854,"prop_urban",4674,"Zacatecas",1999,22,"All Ages",3,"Both",0.453154649
+854,"prop_urban",130,"Mexico",2000,22,"All Ages",3,"Both",0.732001291
+854,"prop_urban",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",0.806538512
+854,"prop_urban",4644,"Baja California",2000,22,"All Ages",3,"Both",0.890373345
+854,"prop_urban",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",0.765945711
+854,"prop_urban",4646,"Campeche",2000,22,"All Ages",3,"Both",0.579174919
+854,"prop_urban",4647,"Coahuila",2000,22,"All Ages",3,"Both",0.811072694
+854,"prop_urban",4648,"Colima",2000,22,"All Ages",3,"Both",0.667683992
+854,"prop_urban",4649,"Chiapas",2000,22,"All Ages",3,"Both",0.468537494
+854,"prop_urban",4650,"Chihuahua",2000,22,"All Ages",3,"Both",0.822756171
+854,"prop_urban",4651,"Mexico City",2000,22,"All Ages",3,"Both",0.968565672
+854,"prop_urban",4652,"Durango",2000,22,"All Ages",3,"Both",0.59377696
+854,"prop_urban",4653,"Guanajuato",2000,22,"All Ages",3,"Both",0.728969321
+854,"prop_urban",4654,"Guerrero",2000,22,"All Ages",3,"Both",0.487509399
+854,"prop_urban",4655,"Hidalgo",2000,22,"All Ages",3,"Both",0.558025928
+854,"prop_urban",4656,"Jalisco",2000,22,"All Ages",3,"Both",0.796355775
+854,"prop_urban",4657,"México",2000,22,"All Ages",3,"Both",0.86561974
+854,"prop_urban",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",0.576724483
+854,"prop_urban",4659,"Morelos",2000,22,"All Ages",3,"Both",0.79167485
+854,"prop_urban",4660,"Nayarit",2000,22,"All Ages",3,"Both",0.671224627
+854,"prop_urban",4661,"Nuevo León",2000,22,"All Ages",3,"Both",0.864031378
+854,"prop_urban",4662,"Oaxaca",2000,22,"All Ages",3,"Both",0.446052871
+854,"prop_urban",4663,"Puebla",2000,22,"All Ages",3,"Both",0.715099327
+854,"prop_urban",4664,"Querétaro",2000,22,"All Ages",3,"Both",0.768517237
+854,"prop_urban",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",0.6827644
+854,"prop_urban",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",0.677008494
+854,"prop_urban",4667,"Sinaloa",2000,22,"All Ages",3,"Both",0.712132084
+854,"prop_urban",4668,"Sonora",2000,22,"All Ages",3,"Both",0.746805659
+854,"prop_urban",4669,"Tabasco",2000,22,"All Ages",3,"Both",0.568095494
+854,"prop_urban",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",0.785575818
+854,"prop_urban",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",0.710028865
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",0.630340408
+854,"prop_urban",4673,"Yucatán",2000,22,"All Ages",3,"Both",0.738412655
+854,"prop_urban",4674,"Zacatecas",2000,22,"All Ages",3,"Both",0.457554622
+854,"prop_urban",130,"Mexico",2001,22,"All Ages",3,"Both",0.733031842
+854,"prop_urban",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",0.807238272
+854,"prop_urban",4644,"Baja California",2001,22,"All Ages",3,"Both",0.890427402
+854,"prop_urban",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",0.765036286
+854,"prop_urban",4646,"Campeche",2001,22,"All Ages",3,"Both",0.580698776
+854,"prop_urban",4647,"Coahuila",2001,22,"All Ages",3,"Both",0.811893613
+854,"prop_urban",4648,"Colima",2001,22,"All Ages",3,"Both",0.668666252
+854,"prop_urban",4649,"Chiapas",2001,22,"All Ages",3,"Both",0.472473606
+854,"prop_urban",4650,"Chihuahua",2001,22,"All Ages",3,"Both",0.82303196
+854,"prop_urban",4651,"Mexico City",2001,22,"All Ages",3,"Both",0.969135938
+854,"prop_urban",4652,"Durango",2001,22,"All Ages",3,"Both",0.594709115
+854,"prop_urban",4653,"Guanajuato",2001,22,"All Ages",3,"Both",0.72961589
+854,"prop_urban",4654,"Guerrero",2001,22,"All Ages",3,"Both",0.490322114
+854,"prop_urban",4655,"Hidalgo",2001,22,"All Ages",3,"Both",0.560474332
+854,"prop_urban",4656,"Jalisco",2001,22,"All Ages",3,"Both",0.796212464
+854,"prop_urban",4657,"México",2001,22,"All Ages",3,"Both",0.865895291
+854,"prop_urban",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",0.578593372
+854,"prop_urban",4659,"Morelos",2001,22,"All Ages",3,"Both",0.79152246
+854,"prop_urban",4660,"Nayarit",2001,22,"All Ages",3,"Both",0.67274294
+854,"prop_urban",4661,"Nuevo León",2001,22,"All Ages",3,"Both",0.863648338
+854,"prop_urban",4662,"Oaxaca",2001,22,"All Ages",3,"Both",0.447658486
+854,"prop_urban",4663,"Puebla",2001,22,"All Ages",3,"Both",0.715721019
+854,"prop_urban",4664,"Querétaro",2001,22,"All Ages",3,"Both",0.769630392
+854,"prop_urban",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",0.684700986
+854,"prop_urban",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",0.679573989
+854,"prop_urban",4667,"Sinaloa",2001,22,"All Ages",3,"Both",0.711309387
+854,"prop_urban",4668,"Sonora",2001,22,"All Ages",3,"Both",0.7474023
+854,"prop_urban",4669,"Tabasco",2001,22,"All Ages",3,"Both",0.570492173
+854,"prop_urban",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",0.785745044
+854,"prop_urban",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",0.711908187
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",0.631686346
+854,"prop_urban",4673,"Yucatán",2001,22,"All Ages",3,"Both",0.738238805
+854,"prop_urban",4674,"Zacatecas",2001,22,"All Ages",3,"Both",0.460547274
+854,"prop_urban",130,"Mexico",2002,22,"All Ages",3,"Both",0.734099182
+854,"prop_urban",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",0.807679489
+854,"prop_urban",4644,"Baja California",2002,22,"All Ages",3,"Both",0.890331643
+854,"prop_urban",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",0.764732286
+854,"prop_urban",4646,"Campeche",2002,22,"All Ages",3,"Both",0.582036776
+854,"prop_urban",4647,"Coahuila",2002,22,"All Ages",3,"Both",0.812280298
+854,"prop_urban",4648,"Colima",2002,22,"All Ages",3,"Both",0.669413313
+854,"prop_urban",4649,"Chiapas",2002,22,"All Ages",3,"Both",0.47639998
+854,"prop_urban",4650,"Chihuahua",2002,22,"All Ages",3,"Both",0.822701481
+854,"prop_urban",4651,"Mexico City",2002,22,"All Ages",3,"Both",0.969684994
+854,"prop_urban",4652,"Durango",2002,22,"All Ages",3,"Both",0.595712408
+854,"prop_urban",4653,"Guanajuato",2002,22,"All Ages",3,"Both",0.730360674
+854,"prop_urban",4654,"Guerrero",2002,22,"All Ages",3,"Both",0.493253772
+854,"prop_urban",4655,"Hidalgo",2002,22,"All Ages",3,"Both",0.563970748
+854,"prop_urban",4656,"Jalisco",2002,22,"All Ages",3,"Both",0.796010647
+854,"prop_urban",4657,"México",2002,22,"All Ages",3,"Both",0.86618915
+854,"prop_urban",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",0.580981455
+854,"prop_urban",4659,"Morelos",2002,22,"All Ages",3,"Both",0.791326456
+854,"prop_urban",4660,"Nayarit",2002,22,"All Ages",3,"Both",0.673935768
+854,"prop_urban",4661,"Nuevo León",2002,22,"All Ages",3,"Both",0.863251665
+854,"prop_urban",4662,"Oaxaca",2002,22,"All Ages",3,"Both",0.449839281
+854,"prop_urban",4663,"Puebla",2002,22,"All Ages",3,"Both",0.716238959
+854,"prop_urban",4664,"Querétaro",2002,22,"All Ages",3,"Both",0.770875264
+854,"prop_urban",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",0.686593708
+854,"prop_urban",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",0.681680435
+854,"prop_urban",4667,"Sinaloa",2002,22,"All Ages",3,"Both",0.710075426
+854,"prop_urban",4668,"Sonora",2002,22,"All Ages",3,"Both",0.747606953
+854,"prop_urban",4669,"Tabasco",2002,22,"All Ages",3,"Both",0.57367406
+854,"prop_urban",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",0.785676991
+854,"prop_urban",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",0.713523102
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",0.633132709
+854,"prop_urban",4673,"Yucatán",2002,22,"All Ages",3,"Both",0.737861964
+854,"prop_urban",4674,"Zacatecas",2002,22,"All Ages",3,"Both",0.463863884
+854,"prop_urban",130,"Mexico",2003,22,"All Ages",3,"Both",0.735275684
+854,"prop_urban",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",0.808241596
+854,"prop_urban",4644,"Baja California",2003,22,"All Ages",3,"Both",0.890253382
+854,"prop_urban",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",0.764626903
+854,"prop_urban",4646,"Campeche",2003,22,"All Ages",3,"Both",0.583306678
+854,"prop_urban",4647,"Coahuila",2003,22,"All Ages",3,"Both",0.812578848
+854,"prop_urban",4648,"Colima",2003,22,"All Ages",3,"Both",0.67007185
+854,"prop_urban",4649,"Chiapas",2003,22,"All Ages",3,"Both",0.480395785
+854,"prop_urban",4650,"Chihuahua",2003,22,"All Ages",3,"Both",0.822060543
+854,"prop_urban",4651,"Mexico City",2003,22,"All Ages",3,"Both",0.970307064
+854,"prop_urban",4652,"Durango",2003,22,"All Ages",3,"Both",0.596800916
+854,"prop_urban",4653,"Guanajuato",2003,22,"All Ages",3,"Both",0.731140272
+854,"prop_urban",4654,"Guerrero",2003,22,"All Ages",3,"Both",0.496368068
+854,"prop_urban",4655,"Hidalgo",2003,22,"All Ages",3,"Both",0.568119576
+854,"prop_urban",4656,"Jalisco",2003,22,"All Ages",3,"Both",0.79581626
+854,"prop_urban",4657,"México",2003,22,"All Ages",3,"Both",0.866663366
+854,"prop_urban",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",0.583680143
+854,"prop_urban",4659,"Morelos",2003,22,"All Ages",3,"Both",0.791134741
+854,"prop_urban",4660,"Nayarit",2003,22,"All Ages",3,"Both",0.675044302
+854,"prop_urban",4661,"Nuevo León",2003,22,"All Ages",3,"Both",0.862852352
+854,"prop_urban",4662,"Oaxaca",2003,22,"All Ages",3,"Both",0.452306119
+854,"prop_urban",4663,"Puebla",2003,22,"All Ages",3,"Both",0.716785916
+854,"prop_urban",4664,"Querétaro",2003,22,"All Ages",3,"Both",0.772318454
+854,"prop_urban",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",0.688657681
+854,"prop_urban",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",0.683666943
+854,"prop_urban",4667,"Sinaloa",2003,22,"All Ages",3,"Both",0.708569773
+854,"prop_urban",4668,"Sonora",2003,22,"All Ages",3,"Both",0.74765354
+854,"prop_urban",4669,"Tabasco",2003,22,"All Ages",3,"Both",0.577491093
+854,"prop_urban",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",0.785589007
+854,"prop_urban",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",0.715257433
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",0.634704545
+854,"prop_urban",4673,"Yucatán",2003,22,"All Ages",3,"Both",0.737434282
+854,"prop_urban",4674,"Zacatecas",2003,22,"All Ages",3,"Both",0.467289457
+854,"prop_urban",130,"Mexico",2004,22,"All Ages",3,"Both",0.736870259
+854,"prop_urban",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",0.809286772
+854,"prop_urban",4644,"Baja California",2004,22,"All Ages",3,"Both",0.890460465
+854,"prop_urban",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",0.765049122
+854,"prop_urban",4646,"Campeche",2004,22,"All Ages",3,"Both",0.584858396
+854,"prop_urban",4647,"Coahuila",2004,22,"All Ages",3,"Both",0.813177398
+854,"prop_urban",4648,"Colima",2004,22,"All Ages",3,"Both",0.671021003
+854,"prop_urban",4649,"Chiapas",2004,22,"All Ages",3,"Both",0.484774657
+854,"prop_urban",4650,"Chihuahua",2004,22,"All Ages",3,"Both",0.82151531
+854,"prop_urban",4651,"Mexico City",2004,22,"All Ages",3,"Both",0.971057111
+854,"prop_urban",4652,"Durango",2004,22,"All Ages",3,"Both",0.598280158
+854,"prop_urban",4653,"Guanajuato",2004,22,"All Ages",3,"Both",0.732355587
+854,"prop_urban",4654,"Guerrero",2004,22,"All Ages",3,"Both",0.499947469
+854,"prop_urban",4655,"Hidalgo",2004,22,"All Ages",3,"Both",0.573185045
+854,"prop_urban",4656,"Jalisco",2004,22,"All Ages",3,"Both",0.795992645
+854,"prop_urban",4657,"México",2004,22,"All Ages",3,"Both",0.867605513
+854,"prop_urban",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",0.586985903
+854,"prop_urban",4659,"Morelos",2004,22,"All Ages",3,"Both",0.791328759
+854,"prop_urban",4660,"Nayarit",2004,22,"All Ages",3,"Both",0.676474353
+854,"prop_urban",4661,"Nuevo León",2004,22,"All Ages",3,"Both",0.86274219
+854,"prop_urban",4662,"Oaxaca",2004,22,"All Ages",3,"Both",0.455253344
+854,"prop_urban",4663,"Puebla",2004,22,"All Ages",3,"Both",0.717778205
+854,"prop_urban",4664,"Querétaro",2004,22,"All Ages",3,"Both",0.774333916
+854,"prop_urban",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",0.691292763
+854,"prop_urban",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",0.685979929
+854,"prop_urban",4667,"Sinaloa",2004,22,"All Ages",3,"Both",0.707184135
+854,"prop_urban",4668,"Sonora",2004,22,"All Ages",3,"Both",0.747949231
+854,"prop_urban",4669,"Tabasco",2004,22,"All Ages",3,"Both",0.582208161
+854,"prop_urban",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",0.785864258
+854,"prop_urban",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",0.717543137
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",0.63677017
+854,"prop_urban",4673,"Yucatán",2004,22,"All Ages",3,"Both",0.73735151
+854,"prop_urban",4674,"Zacatecas",2004,22,"All Ages",3,"Both",0.471031757
+854,"prop_urban",130,"Mexico",2005,22,"All Ages",3,"Both",0.738637655
+854,"prop_urban",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",0.810657004
+854,"prop_urban",4644,"Baja California",2005,22,"All Ages",3,"Both",0.890888414
+854,"prop_urban",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",0.76581111
+854,"prop_urban",4646,"Campeche",2005,22,"All Ages",3,"Both",0.586302753
+854,"prop_urban",4647,"Coahuila",2005,22,"All Ages",3,"Both",0.813944623
+854,"prop_urban",4648,"Colima",2005,22,"All Ages",3,"Both",0.671952641
+854,"prop_urban",4649,"Chiapas",2005,22,"All Ages",3,"Both",0.489034536
+854,"prop_urban",4650,"Chihuahua",2005,22,"All Ages",3,"Both",0.820980694
+854,"prop_urban",4651,"Mexico City",2005,22,"All Ages",3,"Both",0.971881588
+854,"prop_urban",4652,"Durango",2005,22,"All Ages",3,"Both",0.59975475
+854,"prop_urban",4653,"Guanajuato",2005,22,"All Ages",3,"Both",0.733779824
+854,"prop_urban",4654,"Guerrero",2005,22,"All Ages",3,"Both",0.50350426
+854,"prop_urban",4655,"Hidalgo",2005,22,"All Ages",3,"Both",0.578682751
+854,"prop_urban",4656,"Jalisco",2005,22,"All Ages",3,"Both",0.796390682
+854,"prop_urban",4657,"México",2005,22,"All Ages",3,"Both",0.868907077
+854,"prop_urban",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",0.590459208
+854,"prop_urban",4659,"Morelos",2005,22,"All Ages",3,"Both",0.791764191
+854,"prop_urban",4660,"Nayarit",2005,22,"All Ages",3,"Both",0.677928443
+854,"prop_urban",4661,"Nuevo León",2005,22,"All Ages",3,"Both",0.862839048
+854,"prop_urban",4662,"Oaxaca",2005,22,"All Ages",3,"Both",0.458172837
+854,"prop_urban",4663,"Puebla",2005,22,"All Ages",3,"Both",0.718983403
+854,"prop_urban",4664,"Querétaro",2005,22,"All Ages",3,"Both",0.776706141
+854,"prop_urban",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",0.694194916
+854,"prop_urban",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",0.688319407
+854,"prop_urban",4667,"Sinaloa",2005,22,"All Ages",3,"Both",0.7057137
+854,"prop_urban",4668,"Sonora",2005,22,"All Ages",3,"Both",0.748298735
+854,"prop_urban",4669,"Tabasco",2005,22,"All Ages",3,"Both",0.587343114
+854,"prop_urban",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",0.786351715
+854,"prop_urban",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",0.720119233
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",0.638976523
+854,"prop_urban",4673,"Yucatán",2005,22,"All Ages",3,"Both",0.737418779
+854,"prop_urban",4674,"Zacatecas",2005,22,"All Ages",3,"Both",0.474556184
+854,"prop_urban",130,"Mexico",2006,22,"All Ages",3,"Both",0.74071198
+854,"prop_urban",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",0.812475034
+854,"prop_urban",4644,"Baja California",2006,22,"All Ages",3,"Both",0.891649589
+854,"prop_urban",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",0.767036681
+854,"prop_urban",4646,"Campeche",2006,22,"All Ages",3,"Both",0.587819833
+854,"prop_urban",4647,"Coahuila",2006,22,"All Ages",3,"Both",0.815064829
+854,"prop_urban",4648,"Colima",2006,22,"All Ages",3,"Both",0.673059325
+854,"prop_urban",4649,"Chiapas",2006,22,"All Ages",3,"Both",0.493346337
+854,"prop_urban",4650,"Chihuahua",2006,22,"All Ages",3,"Both",0.820700647
+854,"prop_urban",4651,"Mexico City",2006,22,"All Ages",3,"Both",0.972778951
+854,"prop_urban",4652,"Durango",2006,22,"All Ages",3,"Both",0.601351436
+854,"prop_urban",4653,"Guanajuato",2006,22,"All Ages",3,"Both",0.735607346
+854,"prop_urban",4654,"Guerrero",2006,22,"All Ages",3,"Both",0.507159736
+854,"prop_urban",4655,"Hidalgo",2006,22,"All Ages",3,"Both",0.58465068
+854,"prop_urban",4656,"Jalisco",2006,22,"All Ages",3,"Both",0.797175856
+854,"prop_urban",4657,"México",2006,22,"All Ages",3,"Both",0.870649732
+854,"prop_urban",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",0.594207514
+854,"prop_urban",4659,"Morelos",2006,22,"All Ages",3,"Both",0.792617402
+854,"prop_urban",4660,"Nayarit",2006,22,"All Ages",3,"Both",0.679610908
+854,"prop_urban",4661,"Nuevo León",2006,22,"All Ages",3,"Both",0.863277934
+854,"prop_urban",4662,"Oaxaca",2006,22,"All Ages",3,"Both",0.461127521
+854,"prop_urban",4663,"Puebla",2006,22,"All Ages",3,"Both",0.720590143
+854,"prop_urban",4664,"Querétaro",2006,22,"All Ages",3,"Both",0.779571892
+854,"prop_urban",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",0.697518138
+854,"prop_urban",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",0.690932277
+854,"prop_urban",4667,"Sinaloa",2006,22,"All Ages",3,"Both",0.70437046
+854,"prop_urban",4668,"Sonora",2006,22,"All Ages",3,"Both",0.74891483
+854,"prop_urban",4669,"Tabasco",2006,22,"All Ages",3,"Both",0.592917585
+854,"prop_urban",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",0.787217138
+854,"prop_urban",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",0.723152895
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",0.64148415
+854,"prop_urban",4673,"Yucatán",2006,22,"All Ages",3,"Both",0.737813778
+854,"prop_urban",4674,"Zacatecas",2006,22,"All Ages",3,"Both",0.477975472
+854,"prop_urban",130,"Mexico",2007,22,"All Ages",3,"Both",0.74276862
+854,"prop_urban",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",0.814461019
+854,"prop_urban",4644,"Baja California",2007,22,"All Ages",3,"Both",0.892585811
+854,"prop_urban",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",0.768419724
+854,"prop_urban",4646,"Campeche",2007,22,"All Ages",3,"Both",0.58898973
+854,"prop_urban",4647,"Coahuila",2007,22,"All Ages",3,"Both",0.816299504
+854,"prop_urban",4648,"Colima",2007,22,"All Ages",3,"Both",0.673975827
+854,"prop_urban",4649,"Chiapas",2007,22,"All Ages",3,"Both",0.497195673
+854,"prop_urban",4650,"Chihuahua",2007,22,"All Ages",3,"Both",0.820499558
+854,"prop_urban",4651,"Mexico City",2007,22,"All Ages",3,"Both",0.973673783
+854,"prop_urban",4652,"Durango",2007,22,"All Ages",3,"Both",0.602637906
+854,"prop_urban",4653,"Guanajuato",2007,22,"All Ages",3,"Both",0.737502244
+854,"prop_urban",4654,"Guerrero",2007,22,"All Ages",3,"Both",0.510404066
+854,"prop_urban",4655,"Hidalgo",2007,22,"All Ages",3,"Both",0.590513848
+854,"prop_urban",4656,"Jalisco",2007,22,"All Ages",3,"Both",0.798092069
+854,"prop_urban",4657,"México",2007,22,"All Ages",3,"Both",0.872606016
+854,"prop_urban",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",0.597732462
+854,"prop_urban",4659,"Morelos",2007,22,"All Ages",3,"Both",0.793628131
+854,"prop_urban",4660,"Nayarit",2007,22,"All Ages",3,"Both",0.681151738
+854,"prop_urban",4661,"Nuevo León",2007,22,"All Ages",3,"Both",0.863880562
+854,"prop_urban",4662,"Oaxaca",2007,22,"All Ages",3,"Both",0.46360841
+854,"prop_urban",4663,"Puebla",2007,22,"All Ages",3,"Both",0.722256094
+854,"prop_urban",4664,"Querétaro",2007,22,"All Ages",3,"Both",0.782590216
+854,"prop_urban",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",0.700854625
+854,"prop_urban",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",0.693437596
+854,"prop_urban",4667,"Sinaloa",2007,22,"All Ages",3,"Both",0.702884103
+854,"prop_urban",4668,"Sonora",2007,22,"All Ages",3,"Both",0.74951464
+854,"prop_urban",4669,"Tabasco",2007,22,"All Ages",3,"Both",0.59836759
+854,"prop_urban",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",0.78819644
+854,"prop_urban",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",0.726261715
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",0.6438643
+854,"prop_urban",4673,"Yucatán",2007,22,"All Ages",3,"Both",0.738240805
+854,"prop_urban",4674,"Zacatecas",2007,22,"All Ages",3,"Both",0.480778299
+854,"prop_urban",130,"Mexico",2008,22,"All Ages",3,"Both",0.74458861
+854,"prop_urban",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",0.816407713
+854,"prop_urban",4644,"Baja California",2008,22,"All Ages",3,"Both",0.893575863
+854,"prop_urban",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",0.769733929
+854,"prop_urban",4646,"Campeche",2008,22,"All Ages",3,"Both",0.589556762
+854,"prop_urban",4647,"Coahuila",2008,22,"All Ages",3,"Both",0.817483117
+854,"prop_urban",4648,"Colima",2008,22,"All Ages",3,"Both",0.674476421
+854,"prop_urban",4649,"Chiapas",2008,22,"All Ages",3,"Both",0.500264735
+854,"prop_urban",4650,"Chihuahua",2008,22,"All Ages",3,"Both",0.820268229
+854,"prop_urban",4651,"Mexico City",2008,22,"All Ages",3,"Both",0.974512442
+854,"prop_urban",4652,"Durango",2008,22,"All Ages",3,"Both",0.603339023
+854,"prop_urban",4653,"Guanajuato",2008,22,"All Ages",3,"Both",0.73923258
+854,"prop_urban",4654,"Guerrero",2008,22,"All Ages",3,"Both",0.512911032
+854,"prop_urban",4655,"Hidalgo",2008,22,"All Ages",3,"Both",0.5958608
+854,"prop_urban",4656,"Jalisco",2008,22,"All Ages",3,"Both",0.798957691
+854,"prop_urban",4657,"México",2008,22,"All Ages",3,"Both",0.874598121
+854,"prop_urban",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",0.600699747
+854,"prop_urban",4659,"Morelos",2008,22,"All Ages",3,"Both",0.794610532
+854,"prop_urban",4660,"Nayarit",2008,22,"All Ages",3,"Both",0.682317054
+854,"prop_urban",4661,"Nuevo León",2008,22,"All Ages",3,"Both",0.864515184
+854,"prop_urban",4662,"Oaxaca",2008,22,"All Ages",3,"Both",0.465289532
+854,"prop_urban",4663,"Puebla",2008,22,"All Ages",3,"Both",0.723745758
+854,"prop_urban",4664,"Querétaro",2008,22,"All Ages",3,"Both",0.785513117
+854,"prop_urban",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",0.703923485
+854,"prop_urban",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",0.695592854
+854,"prop_urban",4667,"Sinaloa",2008,22,"All Ages",3,"Both",0.701091465
+854,"prop_urban",4668,"Sonora",2008,22,"All Ages",3,"Both",0.749915557
+854,"prop_urban",4669,"Tabasco",2008,22,"All Ages",3,"Both",0.603292536
+854,"prop_urban",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",0.78910301
+854,"prop_urban",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",0.72917801
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",0.645831968
+854,"prop_urban",4673,"Yucatán",2008,22,"All Ages",3,"Both",0.73849908
+854,"prop_urban",4674,"Zacatecas",2008,22,"All Ages",3,"Both",0.482657218
+854,"prop_urban",130,"Mexico",2009,22,"All Ages",3,"Both",0.745469759
+854,"prop_urban",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",0.817658142
+854,"prop_urban",4644,"Baja California",2009,22,"All Ages",3,"Both",0.894190802
+854,"prop_urban",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",0.770264168
+854,"prop_urban",4646,"Campeche",2009,22,"All Ages",3,"Both",0.588583844
+854,"prop_urban",4647,"Coahuila",2009,22,"All Ages",3,"Both",0.818010848
+854,"prop_urban",4648,"Colima",2009,22,"All Ages",3,"Both",0.673712964
+854,"prop_urban",4649,"Chiapas",2009,22,"All Ages",3,"Both",0.50150339
+854,"prop_urban",4650,"Chihuahua",2009,22,"All Ages",3,"Both",0.819434821
+854,"prop_urban",4651,"Mexico City",2009,22,"All Ages",3,"Both",0.97518741
+854,"prop_urban",4652,"Durango",2009,22,"All Ages",3,"Both",0.602536975
+854,"prop_urban",4653,"Guanajuato",2009,22,"All Ages",3,"Both",0.739993299
+854,"prop_urban",4654,"Guerrero",2009,22,"All Ages",3,"Both",0.513644229
+854,"prop_urban",4655,"Hidalgo",2009,22,"All Ages",3,"Both",0.599639167
+854,"prop_urban",4656,"Jalisco",2009,22,"All Ages",3,"Both",0.799121537
+854,"prop_urban",4657,"México",2009,22,"All Ages",3,"Both",0.876129163
+854,"prop_urban",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",0.602109331
+854,"prop_urban",4659,"Morelos",2009,22,"All Ages",3,"Both",0.79489909
+854,"prop_urban",4660,"Nayarit",2009,22,"All Ages",3,"Both",0.682272478
+854,"prop_urban",4661,"Nuevo León",2009,22,"All Ages",3,"Both",0.864715298
+854,"prop_urban",4662,"Oaxaca",2009,22,"All Ages",3,"Both",0.465187851
+854,"prop_urban",4663,"Puebla",2009,22,"All Ages",3,"Both",0.724243335
+854,"prop_urban",4664,"Querétaro",2009,22,"All Ages",3,"Both",0.787595594
+854,"prop_urban",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",0.705793243
+854,"prop_urban",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",0.696490092
+854,"prop_urban",4667,"Sinaloa",2009,22,"All Ages",3,"Both",0.698273634
+854,"prop_urban",4668,"Sonora",2009,22,"All Ages",3,"Both",0.749397465
+854,"prop_urban",4669,"Tabasco",2009,22,"All Ages",3,"Both",0.606654514
+854,"prop_urban",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",0.789290098
+854,"prop_urban",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",0.731070983
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",0.646462498
+854,"prop_urban",4673,"Yucatán",2009,22,"All Ages",3,"Both",0.737877217
+854,"prop_urban",4674,"Zacatecas",2009,22,"All Ages",3,"Both",0.482644723
+854,"prop_urban",130,"Mexico",2010,22,"All Ages",3,"Both",0.746671652
+854,"prop_urban",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",0.819248737
+854,"prop_urban",4644,"Baja California",2010,22,"All Ages",3,"Both",0.895098871
+854,"prop_urban",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",0.77118692
+854,"prop_urban",4646,"Campeche",2010,22,"All Ages",3,"Both",0.587950008
+854,"prop_urban",4647,"Coahuila",2010,22,"All Ages",3,"Both",0.818990065
+854,"prop_urban",4648,"Colima",2010,22,"All Ages",3,"Both",0.673362455
+854,"prop_urban",4649,"Chiapas",2010,22,"All Ages",3,"Both",0.503002556
+854,"prop_urban",4650,"Chihuahua",2010,22,"All Ages",3,"Both",0.819156792
+854,"prop_urban",4651,"Mexico City",2010,22,"All Ages",3,"Both",0.9758687
+854,"prop_urban",4652,"Durango",2010,22,"All Ages",3,"Both",0.601994489
+854,"prop_urban",4653,"Guanajuato",2010,22,"All Ages",3,"Both",0.741221055
+854,"prop_urban",4654,"Guerrero",2010,22,"All Ages",3,"Both",0.514557784
+854,"prop_urban",4655,"Hidalgo",2010,22,"All Ages",3,"Both",0.603558942
+854,"prop_urban",4656,"Jalisco",2010,22,"All Ages",3,"Both",0.799720615
+854,"prop_urban",4657,"México",2010,22,"All Ages",3,"Both",0.877923791
+854,"prop_urban",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",0.60375101
+854,"prop_urban",4659,"Morelos",2010,22,"All Ages",3,"Both",0.79565281
+854,"prop_urban",4660,"Nayarit",2010,22,"All Ages",3,"Both",0.682680458
+854,"prop_urban",4661,"Nuevo León",2010,22,"All Ages",3,"Both",0.865291114
+854,"prop_urban",4662,"Oaxaca",2010,22,"All Ages",3,"Both",0.465166096
+854,"prop_urban",4663,"Puebla",2010,22,"All Ages",3,"Both",0.725208773
+854,"prop_urban",4664,"Querétaro",2010,22,"All Ages",3,"Both",0.790050269
+854,"prop_urban",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",0.708027017
+854,"prop_urban",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",0.69787192
+854,"prop_urban",4667,"Sinaloa",2010,22,"All Ages",3,"Both",0.695950282
+854,"prop_urban",4668,"Sonora",2010,22,"All Ages",3,"Both",0.749373208
+854,"prop_urban",4669,"Tabasco",2010,22,"All Ages",3,"Both",0.610133
+854,"prop_urban",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",0.789924774
+854,"prop_urban",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",0.733394347
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",0.647457644
+854,"prop_urban",4673,"Yucatán",2010,22,"All Ages",3,"Both",0.737729833
+854,"prop_urban",4674,"Zacatecas",2010,22,"All Ages",3,"Both",0.482757756
+854,"prop_urban",130,"Mexico",2011,22,"All Ages",3,"Both",0.748107963
+854,"prop_urban",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",0.821055573
+854,"prop_urban",4644,"Baja California",2011,22,"All Ages",3,"Both",0.896206907
+854,"prop_urban",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",0.772384277
+854,"prop_urban",4646,"Campeche",2011,22,"All Ages",3,"Both",0.587636867
+854,"prop_urban",4647,"Coahuila",2011,22,"All Ages",3,"Both",0.820309391
+854,"prop_urban",4648,"Colima",2011,22,"All Ages",3,"Both",0.673374391
+854,"prop_urban",4649,"Chiapas",2011,22,"All Ages",3,"Both",0.504736839
+854,"prop_urban",4650,"Chihuahua",2011,22,"All Ages",3,"Both",0.819348844
+854,"prop_urban",4651,"Mexico City",2011,22,"All Ages",3,"Both",0.976533648
+854,"prop_urban",4652,"Durango",2011,22,"All Ages",3,"Both",0.601689295
+854,"prop_urban",4653,"Guanajuato",2011,22,"All Ages",3,"Both",0.74279884
+854,"prop_urban",4654,"Guerrero",2011,22,"All Ages",3,"Both",0.515631096
+854,"prop_urban",4655,"Hidalgo",2011,22,"All Ages",3,"Both",0.607497355
+854,"prop_urban",4656,"Jalisco",2011,22,"All Ages",3,"Both",0.800647233
+854,"prop_urban",4657,"México",2011,22,"All Ages",3,"Both",0.87986069
+854,"prop_urban",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",0.605555364
+854,"prop_urban",4659,"Morelos",2011,22,"All Ages",3,"Both",0.796754009
+854,"prop_urban",4660,"Nayarit",2011,22,"All Ages",3,"Both",0.683466247
+854,"prop_urban",4661,"Nuevo León",2011,22,"All Ages",3,"Both",0.866145348
+854,"prop_urban",4662,"Oaxaca",2011,22,"All Ages",3,"Both",0.46523347
+854,"prop_urban",4663,"Puebla",2011,22,"All Ages",3,"Both",0.726527446
+854,"prop_urban",4664,"Querétaro",2011,22,"All Ages",3,"Both",0.792731855
+854,"prop_urban",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",0.710504462
+854,"prop_urban",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",0.699643476
+854,"prop_urban",4667,"Sinaloa",2011,22,"All Ages",3,"Both",0.694092906
+854,"prop_urban",4668,"Sonora",2011,22,"All Ages",3,"Both",0.74976102
+854,"prop_urban",4669,"Tabasco",2011,22,"All Ages",3,"Both",0.61361627
+854,"prop_urban",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",0.790898492
+854,"prop_urban",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",0.736006694
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",0.64873374
+854,"prop_urban",4673,"Yucatán",2011,22,"All Ages",3,"Both",0.737965611
+854,"prop_urban",4674,"Zacatecas",2011,22,"All Ages",3,"Both",0.483025684
+854,"prop_urban",130,"Mexico",2012,22,"All Ages",3,"Both",0.749580424
+854,"prop_urban",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",0.822838523
+854,"prop_urban",4644,"Baja California",2012,22,"All Ages",3,"Both",0.897341585
+854,"prop_urban",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",0.773599041
+854,"prop_urban",4646,"Campeche",2012,22,"All Ages",3,"Both",0.587478234
+854,"prop_urban",4647,"Coahuila",2012,22,"All Ages",3,"Both",0.821733075
+854,"prop_urban",4648,"Colima",2012,22,"All Ages",3,"Both",0.673546253
+854,"prop_urban",4649,"Chiapas",2012,22,"All Ages",3,"Both",0.506558783
+854,"prop_urban",4650,"Chihuahua",2012,22,"All Ages",3,"Both",0.819787046
+854,"prop_urban",4651,"Mexico City",2012,22,"All Ages",3,"Both",0.977150132
+854,"prop_urban",4652,"Durango",2012,22,"All Ages",3,"Both",0.601453086
+854,"prop_urban",4653,"Guanajuato",2012,22,"All Ages",3,"Both",0.744466408
+854,"prop_urban",4654,"Guerrero",2012,22,"All Ages",3,"Both",0.516716237
+854,"prop_urban",4655,"Hidalgo",2012,22,"All Ages",3,"Both",0.611203147
+854,"prop_urban",4656,"Jalisco",2012,22,"All Ages",3,"Both",0.801660138
+854,"prop_urban",4657,"México",2012,22,"All Ages",3,"Both",0.88173727
+854,"prop_urban",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",0.607317912
+854,"prop_urban",4659,"Morelos",2012,22,"All Ages",3,"Both",0.797947229
+854,"prop_urban",4660,"Nayarit",2012,22,"All Ages",3,"Both",0.684402911
+854,"prop_urban",4661,"Nuevo León",2012,22,"All Ages",3,"Both",0.867076413
+854,"prop_urban",4662,"Oaxaca",2012,22,"All Ages",3,"Both",0.46527891
+854,"prop_urban",4663,"Puebla",2012,22,"All Ages",3,"Both",0.727932095
+854,"prop_urban",4664,"Querétaro",2012,22,"All Ages",3,"Both",0.795375509
+854,"prop_urban",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",0.712968026
+854,"prop_urban",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",0.701567541
+854,"prop_urban",4667,"Sinaloa",2012,22,"All Ages",3,"Both",0.692501581
+854,"prop_urban",4668,"Sonora",2012,22,"All Ages",3,"Both",0.750329812
+854,"prop_urban",4669,"Tabasco",2012,22,"All Ages",3,"Both",0.61686232
+854,"prop_urban",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",0.79196368
+854,"prop_urban",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",0.73862374
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",0.650056991
+854,"prop_urban",4673,"Yucatán",2012,22,"All Ages",3,"Both",0.738333978
+854,"prop_urban",4674,"Zacatecas",2012,22,"All Ages",3,"Both",0.483367631
+854,"prop_urban",130,"Mexico",2013,22,"All Ages",3,"Both",0.750813672
+854,"prop_urban",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",0.824281019
+854,"prop_urban",4644,"Baja California",2013,22,"All Ages",3,"Both",0.898274599
+854,"prop_urban",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",0.774488826
+854,"prop_urban",4646,"Campeche",2013,22,"All Ages",3,"Both",0.587220914
+854,"prop_urban",4647,"Coahuila",2013,22,"All Ages",3,"Both",0.82293692
+854,"prop_urban",4648,"Colima",2013,22,"All Ages",3,"Both",0.673576821
+854,"prop_urban",4649,"Chiapas",2013,22,"All Ages",3,"Both",0.508248858
+854,"prop_urban",4650,"Chihuahua",2013,22,"All Ages",3,"Both",0.820141112
+854,"prop_urban",4651,"Mexico City",2013,22,"All Ages",3,"Both",0.977682803
+854,"prop_urban",4652,"Durango",2013,22,"All Ages",3,"Both",0.601037841
+854,"prop_urban",4653,"Guanajuato",2013,22,"All Ages",3,"Both",0.745866136
+854,"prop_urban",4654,"Guerrero",2013,22,"All Ages",3,"Both",0.517598058
+854,"prop_urban",4655,"Hidalgo",2013,22,"All Ages",3,"Both",0.614356704
+854,"prop_urban",4656,"Jalisco",2013,22,"All Ages",3,"Both",0.802425726
+854,"prop_urban",4657,"México",2013,22,"All Ages",3,"Both",0.883299398
+854,"prop_urban",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",0.608757915
+854,"prop_urban",4659,"Morelos",2013,22,"All Ages",3,"Both",0.798881282
+854,"prop_urban",4660,"Nayarit",2013,22,"All Ages",3,"Both",0.68516187
+854,"prop_urban",4661,"Nuevo León",2013,22,"All Ages",3,"Both",0.867810722
+854,"prop_urban",4662,"Oaxaca",2013,22,"All Ages",3,"Both",0.46513931
+854,"prop_urban",4663,"Puebla",2013,22,"All Ages",3,"Both",0.729051614
+854,"prop_urban",4664,"Querétaro",2013,22,"All Ages",3,"Both",0.797637711
+854,"prop_urban",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",0.715073865
+854,"prop_urban",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",0.703305233
+854,"prop_urban",4667,"Sinaloa",2013,22,"All Ages",3,"Both",0.690864775
+854,"prop_urban",4668,"Sonora",2013,22,"All Ages",3,"Both",0.750744948
+854,"prop_urban",4669,"Tabasco",2013,22,"All Ages",3,"Both",0.619560468
+854,"prop_urban",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",0.79277914
+854,"prop_urban",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",0.740864401
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",0.65109834
+854,"prop_urban",4673,"Yucatán",2013,22,"All Ages",3,"Both",0.738477338
+854,"prop_urban",4674,"Zacatecas",2013,22,"All Ages",3,"Both",0.483652836
+854,"prop_urban",130,"Mexico",2014,22,"All Ages",3,"Both",0.75201371
+854,"prop_urban",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",0.825458852
+854,"prop_urban",4644,"Baja California",2014,22,"All Ages",3,"Both",0.899022271
+854,"prop_urban",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",0.775178282
+854,"prop_urban",4646,"Campeche",2014,22,"All Ages",3,"Both",0.587319719
+854,"prop_urban",4647,"Coahuila",2014,22,"All Ages",3,"Both",0.823995582
+854,"prop_urban",4648,"Colima",2014,22,"All Ages",3,"Both",0.673785303
+854,"prop_urban",4649,"Chiapas",2014,22,"All Ages",3,"Both",0.510387318
+854,"prop_urban",4650,"Chihuahua",2014,22,"All Ages",3,"Both",0.820470186
+854,"prop_urban",4651,"Mexico City",2014,22,"All Ages",3,"Both",0.978166791
+854,"prop_urban",4652,"Durango",2014,22,"All Ages",3,"Both",0.600881672
+854,"prop_urban",4653,"Guanajuato",2014,22,"All Ages",3,"Both",0.747174604
+854,"prop_urban",4654,"Guerrero",2014,22,"All Ages",3,"Both",0.518827423
+854,"prop_urban",4655,"Hidalgo",2014,22,"All Ages",3,"Both",0.617356877
+854,"prop_urban",4656,"Jalisco",2014,22,"All Ages",3,"Both",0.803030016
+854,"prop_urban",4657,"México",2014,22,"All Ages",3,"Both",0.884577107
+854,"prop_urban",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",0.610304695
+854,"prop_urban",4659,"Morelos",2014,22,"All Ages",3,"Both",0.799631071
+854,"prop_urban",4660,"Nayarit",2014,22,"All Ages",3,"Both",0.686030834
+854,"prop_urban",4661,"Nuevo León",2014,22,"All Ages",3,"Both",0.868374199
+854,"prop_urban",4662,"Oaxaca",2014,22,"All Ages",3,"Both",0.465402272
+854,"prop_urban",4663,"Puebla",2014,22,"All Ages",3,"Both",0.730058187
+854,"prop_urban",4664,"Querétaro",2014,22,"All Ages",3,"Both",0.799637214
+854,"prop_urban",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",0.717075493
+854,"prop_urban",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",0.705140921
+854,"prop_urban",4667,"Sinaloa",2014,22,"All Ages",3,"Both",0.689426657
+854,"prop_urban",4668,"Sonora",2014,22,"All Ages",3,"Both",0.751184366
+854,"prop_urban",4669,"Tabasco",2014,22,"All Ages",3,"Both",0.622102658
+854,"prop_urban",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",0.793440703
+854,"prop_urban",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",0.742895225
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",0.652179181
+854,"prop_urban",4673,"Yucatán",2014,22,"All Ages",3,"Both",0.7385446
+854,"prop_urban",4674,"Zacatecas",2014,22,"All Ages",3,"Both",0.484542758
+854,"prop_urban",130,"Mexico",2015,22,"All Ages",3,"Both",0.753331547
+854,"prop_urban",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",0.826502928
+854,"prop_urban",4644,"Baja California",2015,22,"All Ages",3,"Both",0.899600133
+854,"prop_urban",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",0.77589519
+854,"prop_urban",4646,"Campeche",2015,22,"All Ages",3,"Both",0.587917778
+854,"prop_urban",4647,"Coahuila",2015,22,"All Ages",3,"Both",0.824863824
+854,"prop_urban",4648,"Colima",2015,22,"All Ages",3,"Both",0.674215026
+854,"prop_urban",4649,"Chiapas",2015,22,"All Ages",3,"Both",0.513278426
+854,"prop_urban",4650,"Chihuahua",2015,22,"All Ages",3,"Both",0.820490016
+854,"prop_urban",4651,"Mexico City",2015,22,"All Ages",3,"Both",0.978707974
+854,"prop_urban",4652,"Durango",2015,22,"All Ages",3,"Both",0.601265585
+854,"prop_urban",4653,"Guanajuato",2015,22,"All Ages",3,"Both",0.748471436
+854,"prop_urban",4654,"Guerrero",2015,22,"All Ages",3,"Both",0.520811014
+854,"prop_urban",4655,"Hidalgo",2015,22,"All Ages",3,"Both",0.620943584
+854,"prop_urban",4656,"Jalisco",2015,22,"All Ages",3,"Both",0.803486921
+854,"prop_urban",4657,"México",2015,22,"All Ages",3,"Both",0.885742465
+854,"prop_urban",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",0.612404982
+854,"prop_urban",4659,"Morelos",2015,22,"All Ages",3,"Both",0.800200625
+854,"prop_urban",4660,"Nayarit",2015,22,"All Ages",3,"Both",0.687060473
+854,"prop_urban",4661,"Nuevo León",2015,22,"All Ages",3,"Both",0.868759856
+854,"prop_urban",4662,"Oaxaca",2015,22,"All Ages",3,"Both",0.466590212
+854,"prop_urban",4663,"Puebla",2015,22,"All Ages",3,"Both",0.731023646
+854,"prop_urban",4664,"Querétaro",2015,22,"All Ages",3,"Both",0.801573766
+854,"prop_urban",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",0.719216981
+854,"prop_urban",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",0.707052076
+854,"prop_urban",4667,"Sinaloa",2015,22,"All Ages",3,"Both",0.688058676
+854,"prop_urban",4668,"Sonora",2015,22,"All Ages",3,"Both",0.751580454
+854,"prop_urban",4669,"Tabasco",2015,22,"All Ages",3,"Both",0.625199887
+854,"prop_urban",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",0.793982433
+854,"prop_urban",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",0.744877862
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",0.653528261
+854,"prop_urban",4673,"Yucatán",2015,22,"All Ages",3,"Both",0.738555245
+854,"prop_urban",4674,"Zacatecas",2015,22,"All Ages",3,"Both",0.486459248
+854,"prop_urban",130,"Mexico",2016,22,"All Ages",3,"Both",0.754143962
+854,"prop_urban",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",0.825996528
+854,"prop_urban",4644,"Baja California",2016,22,"All Ages",3,"Both",0.899329526
+854,"prop_urban",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",0.774873167
+854,"prop_urban",4646,"Campeche",2016,22,"All Ages",3,"Both",0.590289664
+854,"prop_urban",4647,"Coahuila",2016,22,"All Ages",3,"Both",0.825387235
+854,"prop_urban",4648,"Colima",2016,22,"All Ages",3,"Both",0.67586415
+854,"prop_urban",4649,"Chiapas",2016,22,"All Ages",3,"Both",0.517357135
+854,"prop_urban",4650,"Chihuahua",2016,22,"All Ages",3,"Both",0.821817582
+854,"prop_urban",4651,"Mexico City",2016,22,"All Ages",3,"Both",0.978547594
+854,"prop_urban",4652,"Durango",2016,22,"All Ages",3,"Both",0.602456042
+854,"prop_urban",4653,"Guanajuato",2016,22,"All Ages",3,"Both",0.749196646
+854,"prop_urban",4654,"Guerrero",2016,22,"All Ages",3,"Both",0.523346488
+854,"prop_urban",4655,"Hidalgo",2016,22,"All Ages",3,"Both",0.620880634
+854,"prop_urban",4656,"Jalisco",2016,22,"All Ages",3,"Both",0.803373598
+854,"prop_urban",4657,"México",2016,22,"All Ages",3,"Both",0.884880663
+854,"prop_urban",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",0.613563145
+854,"prop_urban",4659,"Morelos",2016,22,"All Ages",3,"Both",0.800094308
+854,"prop_urban",4660,"Nayarit",2016,22,"All Ages",3,"Both",0.688770563
+854,"prop_urban",4661,"Nuevo León",2016,22,"All Ages",3,"Both",0.868455178
+854,"prop_urban",4662,"Oaxaca",2016,22,"All Ages",3,"Both",0.468249654
+854,"prop_urban",4663,"Puebla",2016,22,"All Ages",3,"Both",0.731472587
+854,"prop_urban",4664,"Querétaro",2016,22,"All Ages",3,"Both",0.80153081
+854,"prop_urban",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",0.720123943
+854,"prop_urban",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",0.709768146
+854,"prop_urban",4667,"Sinaloa",2016,22,"All Ages",3,"Both",0.68891934
+854,"prop_urban",4668,"Sonora",2016,22,"All Ages",3,"Both",0.752713192
+854,"prop_urban",4669,"Tabasco",2016,22,"All Ages",3,"Both",0.624928148
+854,"prop_urban",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",0.793875653
+854,"prop_urban",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",0.745391191
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",0.654547675
+854,"prop_urban",4673,"Yucatán",2016,22,"All Ages",3,"Both",0.738523777
+854,"prop_urban",4674,"Zacatecas",2016,22,"All Ages",3,"Both",0.49002809
+854,"prop_urban",130,"Mexico",2017,22,"All Ages",3,"Both",0.754143962
+854,"prop_urban",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",0.825996528
+854,"prop_urban",4644,"Baja California",2017,22,"All Ages",3,"Both",0.899329526
+854,"prop_urban",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",0.774873167
+854,"prop_urban",4646,"Campeche",2017,22,"All Ages",3,"Both",0.590289664
+854,"prop_urban",4647,"Coahuila",2017,22,"All Ages",3,"Both",0.825387235
+854,"prop_urban",4648,"Colima",2017,22,"All Ages",3,"Both",0.67586415
+854,"prop_urban",4649,"Chiapas",2017,22,"All Ages",3,"Both",0.517357135
+854,"prop_urban",4650,"Chihuahua",2017,22,"All Ages",3,"Both",0.821817582
+854,"prop_urban",4651,"Mexico City",2017,22,"All Ages",3,"Both",0.978547594
+854,"prop_urban",4652,"Durango",2017,22,"All Ages",3,"Both",0.602456042
+854,"prop_urban",4653,"Guanajuato",2017,22,"All Ages",3,"Both",0.749196646
+854,"prop_urban",4654,"Guerrero",2017,22,"All Ages",3,"Both",0.523346488
+854,"prop_urban",4655,"Hidalgo",2017,22,"All Ages",3,"Both",0.620880634
+854,"prop_urban",4656,"Jalisco",2017,22,"All Ages",3,"Both",0.803373598
+854,"prop_urban",4657,"México",2017,22,"All Ages",3,"Both",0.884880663
+854,"prop_urban",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",0.613563145
+854,"prop_urban",4659,"Morelos",2017,22,"All Ages",3,"Both",0.800094308
+854,"prop_urban",4660,"Nayarit",2017,22,"All Ages",3,"Both",0.688770563
+854,"prop_urban",4661,"Nuevo León",2017,22,"All Ages",3,"Both",0.868455178
+854,"prop_urban",4662,"Oaxaca",2017,22,"All Ages",3,"Both",0.468249654
+854,"prop_urban",4663,"Puebla",2017,22,"All Ages",3,"Both",0.731472587
+854,"prop_urban",4664,"Querétaro",2017,22,"All Ages",3,"Both",0.80153081
+854,"prop_urban",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",0.720123943
+854,"prop_urban",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",0.709768146
+854,"prop_urban",4667,"Sinaloa",2017,22,"All Ages",3,"Both",0.68891934
+854,"prop_urban",4668,"Sonora",2017,22,"All Ages",3,"Both",0.752713192
+854,"prop_urban",4669,"Tabasco",2017,22,"All Ages",3,"Both",0.624928148
+854,"prop_urban",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",0.793875653
+854,"prop_urban",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",0.745391191
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",0.654547675
+854,"prop_urban",4673,"Yucatán",2017,22,"All Ages",3,"Both",0.738523777
+854,"prop_urban",4674,"Zacatecas",2017,22,"All Ages",3,"Both",0.49002809
+854,"prop_urban",130,"Mexico",2018,22,"All Ages",3,"Both",0.755539610534553
+854,"prop_urban",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",0.827013866805478
+854,"prop_urban",4644,"Baja California",2018,22,"All Ages",3,"Both",0.899794066985702
+854,"prop_urban",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",0.775912672952806
+854,"prop_urban",4646,"Campeche",2018,22,"All Ages",3,"Both",0.592417481543286
+854,"prop_urban",4647,"Coahuila",2018,22,"All Ages",3,"Both",0.826400380171368
+854,"prop_urban",4648,"Colima",2018,22,"All Ages",3,"Both",0.677452012237498
+854,"prop_urban",4649,"Chiapas",2018,22,"All Ages",3,"Both",0.519757111779479
+854,"prop_urban",4650,"Chihuahua",2018,22,"All Ages",3,"Both",0.822852112473308
+854,"prop_urban",4651,"Mexico City",2018,22,"All Ages",3,"Both",0.978671327912187
+854,"prop_urban",4652,"Durango",2018,22,"All Ages",3,"Both",0.60453244225459
+854,"prop_urban",4653,"Guanajuato",2018,22,"All Ages",3,"Both",0.750757776420736
+854,"prop_urban",4654,"Guerrero",2018,22,"All Ages",3,"Both",0.525544207576124
+854,"prop_urban",4655,"Hidalgo",2018,22,"All Ages",3,"Both",0.622683517871329
+854,"prop_urban",4656,"Jalisco",2018,22,"All Ages",3,"Both",0.804574464387612
+854,"prop_urban",4657,"México",2018,22,"All Ages",3,"Both",0.885647268687967
+854,"prop_urban",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",0.615667127135309
+854,"prop_urban",4659,"Morelos",2018,22,"All Ages",3,"Both",0.801224482891024
+854,"prop_urban",4660,"Nayarit",2018,22,"All Ages",3,"Both",0.690683056101155
+854,"prop_urban",4661,"Nuevo León",2018,22,"All Ages",3,"Both",0.869056513599319
+854,"prop_urban",4662,"Oaxaca",2018,22,"All Ages",3,"Both",0.470610184269176
+854,"prop_urban",4663,"Puebla",2018,22,"All Ages",3,"Both",0.732980357230519
+854,"prop_urban",4664,"Querétaro",2018,22,"All Ages",3,"Both",0.802430613435252
+854,"prop_urban",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",0.721180758010654
+854,"prop_urban",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",0.711500508942953
+854,"prop_urban",4667,"Sinaloa",2018,22,"All Ages",3,"Both",0.690517561836635
+854,"prop_urban",4668,"Sonora",2018,22,"All Ages",3,"Both",0.753910615771046
+854,"prop_urban",4669,"Tabasco",2018,22,"All Ages",3,"Both",0.626974925575328
+854,"prop_urban",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",0.794945990492191
+854,"prop_urban",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",0.746532631691356
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",0.656568078677971
+854,"prop_urban",4673,"Yucatán",2018,22,"All Ages",3,"Both",0.740106573159931
+854,"prop_urban",4674,"Zacatecas",2018,22,"All Ages",3,"Both",0.492588152650487
+854,"prop_urban",130,"Mexico",2019,22,"All Ages",3,"Both",0.756829462299181
+854,"prop_urban",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",0.827977049549745
+854,"prop_urban",4644,"Baja California",2019,22,"All Ages",3,"Both",0.900241025485873
+854,"prop_urban",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",0.77690970677262
+854,"prop_urban",4646,"Campeche",2019,22,"All Ages",3,"Both",0.594357554104134
+854,"prop_urban",4647,"Coahuila",2019,22,"All Ages",3,"Both",0.827359325880379
+854,"prop_urban",4648,"Colima",2019,22,"All Ages",3,"Both",0.678920108146144
+854,"prop_urban",4649,"Chiapas",2019,22,"All Ages",3,"Both",0.521861819260829
+854,"prop_urban",4650,"Chihuahua",2019,22,"All Ages",3,"Both",0.82378932110409
+854,"prop_urban",4651,"Mexico City",2019,22,"All Ages",3,"Both",0.978792873116251
+854,"prop_urban",4652,"Durango",2019,22,"All Ages",3,"Both",0.606402090847425
+854,"prop_urban",4653,"Guanajuato",2019,22,"All Ages",3,"Both",0.752210473339876
+854,"prop_urban",4654,"Guerrero",2019,22,"All Ages",3,"Both",0.527498761528259
+854,"prop_urban",4655,"Hidalgo",2019,22,"All Ages",3,"Both",0.624355626449118
+854,"prop_urban",4656,"Jalisco",2019,22,"All Ages",3,"Both",0.80568545588272
+854,"prop_urban",4657,"México",2019,22,"All Ages",3,"Both",0.886343981090177
+854,"prop_urban",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",0.617586039474893
+854,"prop_urban",4659,"Morelos",2019,22,"All Ages",3,"Both",0.802297898022866
+854,"prop_urban",4660,"Nayarit",2019,22,"All Ages",3,"Both",0.692433576223525
+854,"prop_urban",4661,"Nuevo León",2019,22,"All Ages",3,"Both",0.869649543420149
+854,"prop_urban",4662,"Oaxaca",2019,22,"All Ages",3,"Both",0.47274796329433
+854,"prop_urban",4663,"Puebla",2019,22,"All Ages",3,"Both",0.734387713242484
+854,"prop_urban",4664,"Querétaro",2019,22,"All Ages",3,"Both",0.803333720575762
+854,"prop_urban",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",0.722226457975317
+854,"prop_urban",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",0.713088559421808
+854,"prop_urban",4667,"Sinaloa",2019,22,"All Ages",3,"Both",0.692023870267236
+854,"prop_urban",4668,"Sonora",2019,22,"All Ages",3,"Both",0.755051081980504
+854,"prop_urban",4669,"Tabasco",2019,22,"All Ages",3,"Both",0.628857420322739
+854,"prop_urban",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",0.79597610213424
+854,"prop_urban",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",0.747682395307154
+854,"prop_urban",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",0.658399844554682
+854,"prop_urban",4673,"Yucatán",2019,22,"All Ages",3,"Both",0.74160609423752
+854,"prop_urban",4674,"Zacatecas",2019,22,"All Ages",3,"Both",0.494879402195241

@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+28,"diabetes_fpg",130,"Mexico",1990,27,"Age-standardized",1,"Male",5.32352264071
+28,"diabetes_fpg",130,"Mexico",1990,27,"Age-standardized",2,"Female",5.45236030003
+28,"diabetes_fpg",4643,"Aguascalientes",1990,27,"Age-standardized",1,"Male",5.52186113684
+28,"diabetes_fpg",4643,"Aguascalientes",1990,27,"Age-standardized",2,"Female",5.44284195765
+28,"diabetes_fpg",4644,"Baja California",1990,27,"Age-standardized",1,"Male",5.44385669932
+28,"diabetes_fpg",4644,"Baja California",1990,27,"Age-standardized",2,"Female",5.46625291744
+28,"diabetes_fpg",4645,"Baja California Sur",1990,27,"Age-standardized",1,"Male",5.47483945769
+28,"diabetes_fpg",4645,"Baja California Sur",1990,27,"Age-standardized",2,"Female",5.44642493456
+28,"diabetes_fpg",4646,"Campeche",1990,27,"Age-standardized",1,"Male",5.70820802667
+28,"diabetes_fpg",4646,"Campeche",1990,27,"Age-standardized",2,"Female",5.63007717672
+28,"diabetes_fpg",4647,"Coahuila",1990,27,"Age-standardized",1,"Male",5.35907637298
+28,"diabetes_fpg",4647,"Coahuila",1990,27,"Age-standardized",2,"Female",5.52733699038
+28,"diabetes_fpg",4648,"Colima",1990,27,"Age-standardized",1,"Male",5.4809578074
+28,"diabetes_fpg",4648,"Colima",1990,27,"Age-standardized",2,"Female",5.63450429275
+28,"diabetes_fpg",4649,"Chiapas",1990,27,"Age-standardized",1,"Male",4.96671548249
+28,"diabetes_fpg",4649,"Chiapas",1990,27,"Age-standardized",2,"Female",5.16308989539
+28,"diabetes_fpg",4650,"Chihuahua",1990,27,"Age-standardized",1,"Male",5.29796438859
+28,"diabetes_fpg",4650,"Chihuahua",1990,27,"Age-standardized",2,"Female",5.34387280077
+28,"diabetes_fpg",4651,"Mexico City",1990,27,"Age-standardized",1,"Male",5.05258231295
+28,"diabetes_fpg",4651,"Mexico City",1990,27,"Age-standardized",2,"Female",5.22375120965
+28,"diabetes_fpg",4652,"Durango",1990,27,"Age-standardized",1,"Male",5.50506606869
+28,"diabetes_fpg",4652,"Durango",1990,27,"Age-standardized",2,"Female",5.24359433716
+28,"diabetes_fpg",4653,"Guanajuato",1990,27,"Age-standardized",1,"Male",5.36897715091
+28,"diabetes_fpg",4653,"Guanajuato",1990,27,"Age-standardized",2,"Female",5.68501485692
+28,"diabetes_fpg",4654,"Guerrero",1990,27,"Age-standardized",1,"Male",5.26295063207
+28,"diabetes_fpg",4654,"Guerrero",1990,27,"Age-standardized",2,"Female",5.37114099252
+28,"diabetes_fpg",4655,"Hidalgo",1990,27,"Age-standardized",1,"Male",5.249512499
+28,"diabetes_fpg",4655,"Hidalgo",1990,27,"Age-standardized",2,"Female",5.56444902181
+28,"diabetes_fpg",4656,"Jalisco",1990,27,"Age-standardized",1,"Male",5.62286353909
+28,"diabetes_fpg",4656,"Jalisco",1990,27,"Age-standardized",2,"Female",5.67219637014
+28,"diabetes_fpg",4657,"México",1990,27,"Age-standardized",1,"Male",5.00508407924
+28,"diabetes_fpg",4657,"México",1990,27,"Age-standardized",2,"Female",5.17137718875
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",1,"Male",5.23932782496
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",2,"Female",5.46336449793
+28,"diabetes_fpg",4659,"Morelos",1990,27,"Age-standardized",1,"Male",5.51671006221
+28,"diabetes_fpg",4659,"Morelos",1990,27,"Age-standardized",2,"Female",5.62388154501
+28,"diabetes_fpg",4660,"Nayarit",1990,27,"Age-standardized",1,"Male",5.40373899567
+28,"diabetes_fpg",4660,"Nayarit",1990,27,"Age-standardized",2,"Female",5.32745627028
+28,"diabetes_fpg",4661,"Nuevo León",1990,27,"Age-standardized",1,"Male",5.55989415537
+28,"diabetes_fpg",4661,"Nuevo León",1990,27,"Age-standardized",2,"Female",5.79589016351
+28,"diabetes_fpg",4662,"Oaxaca",1990,27,"Age-standardized",1,"Male",5.5157687937
+28,"diabetes_fpg",4662,"Oaxaca",1990,27,"Age-standardized",2,"Female",5.29886287918
+28,"diabetes_fpg",4663,"Puebla",1990,27,"Age-standardized",1,"Male",5.54931057059
+28,"diabetes_fpg",4663,"Puebla",1990,27,"Age-standardized",2,"Female",5.41248717335
+28,"diabetes_fpg",4664,"Querétaro",1990,27,"Age-standardized",1,"Male",5.28996301231
+28,"diabetes_fpg",4664,"Querétaro",1990,27,"Age-standardized",2,"Female",5.47119867504
+28,"diabetes_fpg",4665,"Quintana Roo",1990,27,"Age-standardized",1,"Male",5.28404237899
+28,"diabetes_fpg",4665,"Quintana Roo",1990,27,"Age-standardized",2,"Female",5.58979564449
+28,"diabetes_fpg",4666,"San Luis Potosí",1990,27,"Age-standardized",1,"Male",5.27722353289
+28,"diabetes_fpg",4666,"San Luis Potosí",1990,27,"Age-standardized",2,"Female",5.35716430132
+28,"diabetes_fpg",4667,"Sinaloa",1990,27,"Age-standardized",1,"Male",5.45532339193
+28,"diabetes_fpg",4667,"Sinaloa",1990,27,"Age-standardized",2,"Female",5.39931621896
+28,"diabetes_fpg",4668,"Sonora",1990,27,"Age-standardized",1,"Male",5.22913473068
+28,"diabetes_fpg",4668,"Sonora",1990,27,"Age-standardized",2,"Female",5.4657589152
+28,"diabetes_fpg",4669,"Tabasco",1990,27,"Age-standardized",1,"Male",5.55035265945
+28,"diabetes_fpg",4669,"Tabasco",1990,27,"Age-standardized",2,"Female",5.46207295136
+28,"diabetes_fpg",4670,"Tamaulipas",1990,27,"Age-standardized",1,"Male",5.32220459391
+28,"diabetes_fpg",4670,"Tamaulipas",1990,27,"Age-standardized",2,"Female",5.95315756042
+28,"diabetes_fpg",4671,"Tlaxcala",1990,27,"Age-standardized",1,"Male",5.317701355
+28,"diabetes_fpg",4671,"Tlaxcala",1990,27,"Age-standardized",2,"Female",5.38755861841
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",1,"Male",5.57381335323
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",2,"Female",5.85274553563
+28,"diabetes_fpg",4673,"Yucatán",1990,27,"Age-standardized",1,"Male",5.3530840203
+28,"diabetes_fpg",4673,"Yucatán",1990,27,"Age-standardized",2,"Female",5.31935657803
+28,"diabetes_fpg",4674,"Zacatecas",1990,27,"Age-standardized",1,"Male",5.51448835559
+28,"diabetes_fpg",4674,"Zacatecas",1990,27,"Age-standardized",2,"Female",5.52878314495
+28,"diabetes_fpg",130,"Mexico",1991,27,"Age-standardized",1,"Male",5.3224821037
+28,"diabetes_fpg",130,"Mexico",1991,27,"Age-standardized",2,"Female",5.45943087514
+28,"diabetes_fpg",4643,"Aguascalientes",1991,27,"Age-standardized",1,"Male",5.51761799316
+28,"diabetes_fpg",4643,"Aguascalientes",1991,27,"Age-standardized",2,"Female",5.44902918586
+28,"diabetes_fpg",4644,"Baja California",1991,27,"Age-standardized",1,"Male",5.44181780527
+28,"diabetes_fpg",4644,"Baja California",1991,27,"Age-standardized",2,"Female",5.47440887949
+28,"diabetes_fpg",4645,"Baja California Sur",1991,27,"Age-standardized",1,"Male",5.47006006104
+28,"diabetes_fpg",4645,"Baja California Sur",1991,27,"Age-standardized",2,"Female",5.45330215792
+28,"diabetes_fpg",4646,"Campeche",1991,27,"Age-standardized",1,"Male",5.70750427239
+28,"diabetes_fpg",4646,"Campeche",1991,27,"Age-standardized",2,"Female",5.63921997561
+28,"diabetes_fpg",4647,"Coahuila",1991,27,"Age-standardized",1,"Male",5.35940475541
+28,"diabetes_fpg",4647,"Coahuila",1991,27,"Age-standardized",2,"Female",5.53968001225
+28,"diabetes_fpg",4648,"Colima",1991,27,"Age-standardized",1,"Male",5.47891736817
+28,"diabetes_fpg",4648,"Colima",1991,27,"Age-standardized",2,"Female",5.64219185033
+28,"diabetes_fpg",4649,"Chiapas",1991,27,"Age-standardized",1,"Male",4.97024463545
+28,"diabetes_fpg",4649,"Chiapas",1991,27,"Age-standardized",2,"Female",5.167548379
+28,"diabetes_fpg",4650,"Chihuahua",1991,27,"Age-standardized",1,"Male",5.2983177195
+28,"diabetes_fpg",4650,"Chihuahua",1991,27,"Age-standardized",2,"Female",5.35196115971
+28,"diabetes_fpg",4651,"Mexico City",1991,27,"Age-standardized",1,"Male",5.06038603096
+28,"diabetes_fpg",4651,"Mexico City",1991,27,"Age-standardized",2,"Female",5.23589241351
+28,"diabetes_fpg",4652,"Durango",1991,27,"Age-standardized",1,"Male",5.50049621163
+28,"diabetes_fpg",4652,"Durango",1991,27,"Age-standardized",2,"Female",5.25169665744
+28,"diabetes_fpg",4653,"Guanajuato",1991,27,"Age-standardized",1,"Male",5.36802649458
+28,"diabetes_fpg",4653,"Guanajuato",1991,27,"Age-standardized",2,"Female",5.6945014001
+28,"diabetes_fpg",4654,"Guerrero",1991,27,"Age-standardized",1,"Male",5.26244014982
+28,"diabetes_fpg",4654,"Guerrero",1991,27,"Age-standardized",2,"Female",5.37542774016
+28,"diabetes_fpg",4655,"Hidalgo",1991,27,"Age-standardized",1,"Male",5.2466303023
+28,"diabetes_fpg",4655,"Hidalgo",1991,27,"Age-standardized",2,"Female",5.56792985117
+28,"diabetes_fpg",4656,"Jalisco",1991,27,"Age-standardized",1,"Male",5.61885104946
+28,"diabetes_fpg",4656,"Jalisco",1991,27,"Age-standardized",2,"Female",5.68033496209
+28,"diabetes_fpg",4657,"México",1991,27,"Age-standardized",1,"Male",4.99885476232
+28,"diabetes_fpg",4657,"México",1991,27,"Age-standardized",2,"Female",5.17495089824
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",1,"Male",5.23610513902
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",2,"Female",5.46877541075
+28,"diabetes_fpg",4659,"Morelos",1991,27,"Age-standardized",1,"Male",5.51405044017
+28,"diabetes_fpg",4659,"Morelos",1991,27,"Age-standardized",2,"Female",5.62987741413
+28,"diabetes_fpg",4660,"Nayarit",1991,27,"Age-standardized",1,"Male",5.40371828137
+28,"diabetes_fpg",4660,"Nayarit",1991,27,"Age-standardized",2,"Female",5.33468080468
+28,"diabetes_fpg",4661,"Nuevo León",1991,27,"Age-standardized",1,"Male",5.55669136544
+28,"diabetes_fpg",4661,"Nuevo León",1991,27,"Age-standardized",2,"Female",5.80333084427
+28,"diabetes_fpg",4662,"Oaxaca",1991,27,"Age-standardized",1,"Male",5.51470888424
+28,"diabetes_fpg",4662,"Oaxaca",1991,27,"Age-standardized",2,"Female",5.29946943161
+28,"diabetes_fpg",4663,"Puebla",1991,27,"Age-standardized",1,"Male",5.54742751927
+28,"diabetes_fpg",4663,"Puebla",1991,27,"Age-standardized",2,"Female",5.41697580979
+28,"diabetes_fpg",4664,"Querétaro",1991,27,"Age-standardized",1,"Male",5.28943233196
+28,"diabetes_fpg",4664,"Querétaro",1991,27,"Age-standardized",2,"Female",5.47849373369
+28,"diabetes_fpg",4665,"Quintana Roo",1991,27,"Age-standardized",1,"Male",5.28345229273
+28,"diabetes_fpg",4665,"Quintana Roo",1991,27,"Age-standardized",2,"Female",5.59786137053
+28,"diabetes_fpg",4666,"San Luis Potosí",1991,27,"Age-standardized",1,"Male",5.28134769547
+28,"diabetes_fpg",4666,"San Luis Potosí",1991,27,"Age-standardized",2,"Female",5.36180725068
+28,"diabetes_fpg",4667,"Sinaloa",1991,27,"Age-standardized",1,"Male",5.45020690646
+28,"diabetes_fpg",4667,"Sinaloa",1991,27,"Age-standardized",2,"Female",5.40580086233
+28,"diabetes_fpg",4668,"Sonora",1991,27,"Age-standardized",1,"Male",5.22852608033
+28,"diabetes_fpg",4668,"Sonora",1991,27,"Age-standardized",2,"Female",5.47342823519
+28,"diabetes_fpg",4669,"Tabasco",1991,27,"Age-standardized",1,"Male",5.54633917589
+28,"diabetes_fpg",4669,"Tabasco",1991,27,"Age-standardized",2,"Female",5.46789071994
+28,"diabetes_fpg",4670,"Tamaulipas",1991,27,"Age-standardized",1,"Male",5.31838671787
+28,"diabetes_fpg",4670,"Tamaulipas",1991,27,"Age-standardized",2,"Female",5.96167145521
+28,"diabetes_fpg",4671,"Tlaxcala",1991,27,"Age-standardized",1,"Male",5.31743732998
+28,"diabetes_fpg",4671,"Tlaxcala",1991,27,"Age-standardized",2,"Female",5.39229052875
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",1,"Male",5.57345634183
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",2,"Female",5.85878703123
+28,"diabetes_fpg",4673,"Yucatán",1991,27,"Age-standardized",1,"Male",5.34888270146
+28,"diabetes_fpg",4673,"Yucatán",1991,27,"Age-standardized",2,"Female",5.32718304865
+28,"diabetes_fpg",4674,"Zacatecas",1991,27,"Age-standardized",1,"Male",5.51678622907
+28,"diabetes_fpg",4674,"Zacatecas",1991,27,"Age-standardized",2,"Female",5.53595988469
+28,"diabetes_fpg",130,"Mexico",1992,27,"Age-standardized",1,"Male",5.32164542077
+28,"diabetes_fpg",130,"Mexico",1992,27,"Age-standardized",2,"Female",5.46667327624
+28,"diabetes_fpg",4643,"Aguascalientes",1992,27,"Age-standardized",1,"Male",5.51359488496
+28,"diabetes_fpg",4643,"Aguascalientes",1992,27,"Age-standardized",2,"Female",5.45536512177
+28,"diabetes_fpg",4644,"Baja California",1992,27,"Age-standardized",1,"Male",5.43999460361
+28,"diabetes_fpg",4644,"Baja California",1992,27,"Age-standardized",2,"Female",5.48274847473
+28,"diabetes_fpg",4645,"Baja California Sur",1992,27,"Age-standardized",1,"Male",5.46547946393
+28,"diabetes_fpg",4645,"Baja California Sur",1992,27,"Age-standardized",2,"Female",5.46036771699
+28,"diabetes_fpg",4646,"Campeche",1992,27,"Age-standardized",1,"Male",5.70702518451
+28,"diabetes_fpg",4646,"Campeche",1992,27,"Age-standardized",2,"Female",5.64858543915
+28,"diabetes_fpg",4647,"Coahuila",1992,27,"Age-standardized",1,"Male",5.35994177284
+28,"diabetes_fpg",4647,"Coahuila",1992,27,"Age-standardized",2,"Female",5.55230599965
+28,"diabetes_fpg",4648,"Colima",1992,27,"Age-standardized",1,"Male",5.47708204223
+28,"diabetes_fpg",4648,"Colima",1992,27,"Age-standardized",2,"Female",5.65012431023
+28,"diabetes_fpg",4649,"Chiapas",1992,27,"Age-standardized",1,"Male",4.97399306443
+28,"diabetes_fpg",4649,"Chiapas",1992,27,"Age-standardized",2,"Female",5.17207282971
+28,"diabetes_fpg",4650,"Chihuahua",1992,27,"Age-standardized",1,"Male",5.29886650162
+28,"diabetes_fpg",4650,"Chihuahua",1992,27,"Age-standardized",2,"Female",5.3604986751
+28,"diabetes_fpg",4651,"Mexico City",1992,27,"Age-standardized",1,"Male",5.06839477363
+28,"diabetes_fpg",4651,"Mexico City",1992,27,"Age-standardized",2,"Female",5.2481512158
+28,"diabetes_fpg",4652,"Durango",1992,27,"Age-standardized",1,"Male",5.49612771508
+28,"diabetes_fpg",4652,"Durango",1992,27,"Age-standardized",2,"Female",5.26003679819
+28,"diabetes_fpg",4653,"Guanajuato",1992,27,"Age-standardized",1,"Male",5.3672823572
+28,"diabetes_fpg",4653,"Guanajuato",1992,27,"Age-standardized",2,"Female",5.70420312856
+28,"diabetes_fpg",4654,"Guerrero",1992,27,"Age-standardized",1,"Male",5.26212880858
+28,"diabetes_fpg",4654,"Guerrero",1992,27,"Age-standardized",2,"Female",5.37981841654
+28,"diabetes_fpg",4655,"Hidalgo",1992,27,"Age-standardized",1,"Male",5.24393958763
+28,"diabetes_fpg",4655,"Hidalgo",1992,27,"Age-standardized",2,"Female",5.57144566842
+28,"diabetes_fpg",4656,"Jalisco",1992,27,"Age-standardized",1,"Male",5.61505079085
+28,"diabetes_fpg",4656,"Jalisco",1992,27,"Age-standardized",2,"Female",5.68862801272
+28,"diabetes_fpg",4657,"México",1992,27,"Age-standardized",1,"Male",4.99281725188
+28,"diabetes_fpg",4657,"México",1992,27,"Age-standardized",2,"Female",5.17865306733
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",1,"Male",5.23308941399
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",2,"Female",5.47434580293
+28,"diabetes_fpg",4659,"Morelos",1992,27,"Age-standardized",1,"Male",5.51160440371
+28,"diabetes_fpg",4659,"Morelos",1992,27,"Age-standardized",2,"Female",5.63608839139
+28,"diabetes_fpg",4660,"Nayarit",1992,27,"Age-standardized",1,"Male",5.40388476795
+28,"diabetes_fpg",4660,"Nayarit",1992,27,"Age-standardized",2,"Female",5.34215454556
+28,"diabetes_fpg",4661,"Nuevo León",1992,27,"Age-standardized",1,"Male",5.55372193649
+28,"diabetes_fpg",4661,"Nuevo León",1992,27,"Age-standardized",2,"Female",5.81107273578
+28,"diabetes_fpg",4662,"Oaxaca",1992,27,"Age-standardized",1,"Male",5.51387934262
+28,"diabetes_fpg",4662,"Oaxaca",1992,27,"Age-standardized",2,"Female",5.30022014127
+28,"diabetes_fpg",4663,"Puebla",1992,27,"Age-standardized",1,"Male",5.54576288289
+28,"diabetes_fpg",4663,"Puebla",1992,27,"Age-standardized",2,"Female",5.42169313769
+28,"diabetes_fpg",4664,"Querétaro",1992,27,"Age-standardized",1,"Male",5.2890580307
+28,"diabetes_fpg",4664,"Querétaro",1992,27,"Age-standardized",2,"Female",5.48601693716
+28,"diabetes_fpg",4665,"Quintana Roo",1992,27,"Age-standardized",1,"Male",5.28309752832
+28,"diabetes_fpg",4665,"Quintana Roo",1992,27,"Age-standardized",2,"Female",5.60617959185
+28,"diabetes_fpg",4666,"San Luis Potosí",1992,27,"Age-standardized",1,"Male",5.28568774371
+28,"diabetes_fpg",4666,"San Luis Potosí",1992,27,"Age-standardized",2,"Female",5.3665495915
+28,"diabetes_fpg",4667,"Sinaloa",1992,27,"Age-standardized",1,"Male",5.44528519237
+28,"diabetes_fpg",4667,"Sinaloa",1992,27,"Age-standardized",2,"Female",5.41255174586
+28,"diabetes_fpg",4668,"Sonora",1992,27,"Age-standardized",1,"Male",5.22809855314
+28,"diabetes_fpg",4668,"Sonora",1992,27,"Age-standardized",2,"Female",5.48124743097
+28,"diabetes_fpg",4669,"Tabasco",1992,27,"Age-standardized",1,"Male",5.54257341029
+28,"diabetes_fpg",4669,"Tabasco",1992,27,"Age-standardized",2,"Female",5.47386908143
+28,"diabetes_fpg",4670,"Tamaulipas",1992,27,"Age-standardized",1,"Male",5.31480544071
+28,"diabetes_fpg",4670,"Tamaulipas",1992,27,"Age-standardized",2,"Female",5.97036866162
+28,"diabetes_fpg",4671,"Tlaxcala",1992,27,"Age-standardized",1,"Male",5.31737832918
+28,"diabetes_fpg",4671,"Tlaxcala",1992,27,"Age-standardized",2,"Female",5.39709518809
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",1,"Male",5.57332028804
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",2,"Female",5.86503578435
+28,"diabetes_fpg",4673,"Yucatán",1992,27,"Age-standardized",1,"Male",5.34489812561
+28,"diabetes_fpg",4673,"Yucatán",1992,27,"Age-standardized",2,"Female",5.33524049494
+28,"diabetes_fpg",4674,"Zacatecas",1992,27,"Age-standardized",1,"Male",5.51929127623
+28,"diabetes_fpg",4674,"Zacatecas",1992,27,"Age-standardized",2,"Female",5.54316737881
+28,"diabetes_fpg",130,"Mexico",1993,27,"Age-standardized",1,"Male",5.32107129284
+28,"diabetes_fpg",130,"Mexico",1993,27,"Age-standardized",2,"Female",5.47420366187
+28,"diabetes_fpg",4643,"Aguascalientes",1993,27,"Age-standardized",1,"Male",5.5098413435
+28,"diabetes_fpg",4643,"Aguascalientes",1993,27,"Age-standardized",2,"Female",5.46195833005
+28,"diabetes_fpg",4644,"Baja California",1993,27,"Age-standardized",1,"Male",5.43844926144
+28,"diabetes_fpg",4644,"Baja California",1993,27,"Age-standardized",2,"Female",5.49139306874
+28,"diabetes_fpg",4645,"Baja California Sur",1993,27,"Age-standardized",1,"Male",5.46116510183
+28,"diabetes_fpg",4645,"Baja California Sur",1993,27,"Age-standardized",2,"Female",5.46775571112
+28,"diabetes_fpg",4646,"Campeche",1993,27,"Age-standardized",1,"Male",5.7068317466
+28,"diabetes_fpg",4646,"Campeche",1993,27,"Age-standardized",2,"Female",5.65831026059
+28,"diabetes_fpg",4647,"Coahuila",1993,27,"Age-standardized",1,"Male",5.36074823066
+28,"diabetes_fpg",4647,"Coahuila",1993,27,"Age-standardized",2,"Female",5.56530519026
+28,"diabetes_fpg",4648,"Colima",1993,27,"Age-standardized",1,"Male",5.47552713719
+28,"diabetes_fpg",4648,"Colima",1993,27,"Age-standardized",2,"Female",5.65836053646
+28,"diabetes_fpg",4649,"Chiapas",1993,27,"Age-standardized",1,"Male",4.97799099858
+28,"diabetes_fpg",4649,"Chiapas",1993,27,"Age-standardized",2,"Female",5.17678155358
+28,"diabetes_fpg",4650,"Chihuahua",1993,27,"Age-standardized",1,"Male",5.29968197304
+28,"diabetes_fpg",4650,"Chihuahua",1993,27,"Age-standardized",2,"Female",5.36953211437
+28,"diabetes_fpg",4651,"Mexico City",1993,27,"Age-standardized",1,"Male",5.07666641487
+28,"diabetes_fpg",4651,"Mexico City",1993,27,"Age-standardized",2,"Female",5.26064902484
+28,"diabetes_fpg",4652,"Durango",1993,27,"Age-standardized",1,"Male",5.49202769562
+28,"diabetes_fpg",4652,"Durango",1993,27,"Age-standardized",2,"Female",5.2687076831
+28,"diabetes_fpg",4653,"Guanajuato",1993,27,"Age-standardized",1,"Male",5.36681139541
+28,"diabetes_fpg",4653,"Guanajuato",1993,27,"Age-standardized",2,"Female",5.71420995155
+28,"diabetes_fpg",4654,"Guerrero",1993,27,"Age-standardized",1,"Male",5.26207582063
+28,"diabetes_fpg",4654,"Guerrero",1993,27,"Age-standardized",2,"Female",5.38444171526
+28,"diabetes_fpg",4655,"Hidalgo",1993,27,"Age-standardized",1,"Male",5.24149513006
+28,"diabetes_fpg",4655,"Hidalgo",1993,27,"Age-standardized",2,"Female",5.57516256453
+28,"diabetes_fpg",4656,"Jalisco",1993,27,"Age-standardized",1,"Male",5.61151982019
+28,"diabetes_fpg",4656,"Jalisco",1993,27,"Age-standardized",2,"Female",5.69721059873
+28,"diabetes_fpg",4657,"México",1993,27,"Age-standardized",1,"Male",4.98702646254
+28,"diabetes_fpg",4657,"México",1993,27,"Age-standardized",2,"Female",5.18260184189
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",1,"Male",5.23032540267
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",2,"Female",5.48020661765
+28,"diabetes_fpg",4659,"Morelos",1993,27,"Age-standardized",1,"Male",5.50943848368
+28,"diabetes_fpg",4659,"Morelos",1993,27,"Age-standardized",2,"Female",5.64261181769
+28,"diabetes_fpg",4660,"Nayarit",1993,27,"Age-standardized",1,"Male",5.40430509153
+28,"diabetes_fpg",4660,"Nayarit",1993,27,"Age-standardized",2,"Female",5.34996207586
+28,"diabetes_fpg",4661,"Nuevo León",1993,27,"Age-standardized",1,"Male",5.55104012473
+28,"diabetes_fpg",4661,"Nuevo León",1993,27,"Age-standardized",2,"Female",5.8191651021
+28,"diabetes_fpg",4662,"Oaxaca",1993,27,"Age-standardized",1,"Male",5.5133279653
+28,"diabetes_fpg",4662,"Oaxaca",1993,27,"Age-standardized",2,"Female",5.30124307484
+28,"diabetes_fpg",4663,"Puebla",1993,27,"Age-standardized",1,"Male",5.54437630525
+28,"diabetes_fpg",4663,"Puebla",1993,27,"Age-standardized",2,"Female",5.42673214881
+28,"diabetes_fpg",4664,"Querétaro",1993,27,"Age-standardized",1,"Male",5.28890364739
+28,"diabetes_fpg",4664,"Querétaro",1993,27,"Age-standardized",2,"Female",5.49384256842
+28,"diabetes_fpg",4665,"Quintana Roo",1993,27,"Age-standardized",1,"Male",5.28302919637
+28,"diabetes_fpg",4665,"Quintana Roo",1993,27,"Age-standardized",2,"Female",5.6148893206
+28,"diabetes_fpg",4666,"San Luis Potosí",1993,27,"Age-standardized",1,"Male",5.29029761941
+28,"diabetes_fpg",4666,"San Luis Potosí",1993,27,"Age-standardized",2,"Female",5.3715567729
+28,"diabetes_fpg",4667,"Sinaloa",1993,27,"Age-standardized",1,"Male",5.44063635225
+28,"diabetes_fpg",4667,"Sinaloa",1993,27,"Age-standardized",2,"Female",5.41967477215
+28,"diabetes_fpg",4668,"Sonora",1993,27,"Age-standardized",1,"Male",5.22791063645
+28,"diabetes_fpg",4668,"Sonora",1993,27,"Age-standardized",2,"Female",5.4893382987
+28,"diabetes_fpg",4669,"Tabasco",1993,27,"Age-standardized",1,"Male",5.53909569876
+28,"diabetes_fpg",4669,"Tabasco",1993,27,"Age-standardized",2,"Female",5.48013285514
+28,"diabetes_fpg",4670,"Tamaulipas",1993,27,"Age-standardized",1,"Male",5.31150648756
+28,"diabetes_fpg",4670,"Tamaulipas",1993,27,"Age-standardized",2,"Female",5.97940294152
+28,"diabetes_fpg",4671,"Tlaxcala",1993,27,"Age-standardized",1,"Male",5.31759421767
+28,"diabetes_fpg",4671,"Tlaxcala",1993,27,"Age-standardized",2,"Female",5.40208638972
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",1,"Male",5.57347523446
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",2,"Female",5.87162633865
+28,"diabetes_fpg",4673,"Yucatán",1993,27,"Age-standardized",1,"Male",5.34119193421
+28,"diabetes_fpg",4673,"Yucatán",1993,27,"Age-standardized",2,"Female",5.34364388713
+28,"diabetes_fpg",4674,"Zacatecas",1993,27,"Age-standardized",1,"Male",5.52207324074
+28,"diabetes_fpg",4674,"Zacatecas",1993,27,"Age-standardized",2,"Female",5.55056201413
+28,"diabetes_fpg",130,"Mexico",1994,27,"Age-standardized",1,"Male",5.32073289901
+28,"diabetes_fpg",130,"Mexico",1994,27,"Age-standardized",2,"Female",5.4821793831
+28,"diabetes_fpg",4643,"Aguascalientes",1994,27,"Age-standardized",1,"Male",5.5063338136
+28,"diabetes_fpg",4643,"Aguascalientes",1994,27,"Age-standardized",2,"Female",5.46895229266
+28,"diabetes_fpg",4644,"Baja California",1994,27,"Age-standardized",1,"Male",5.43716507249
+28,"diabetes_fpg",4644,"Baja California",1994,27,"Age-standardized",2,"Female",5.50053205375
+28,"diabetes_fpg",4645,"Baja California Sur",1994,27,"Age-standardized",1,"Male",5.4570965592
+28,"diabetes_fpg",4645,"Baja California Sur",1994,27,"Age-standardized",2,"Female",5.47566280192
+28,"diabetes_fpg",4646,"Campeche",1994,27,"Age-standardized",1,"Male",5.7068908001
+28,"diabetes_fpg",4646,"Campeche",1994,27,"Age-standardized",2,"Female",5.66854859534
+28,"diabetes_fpg",4647,"Coahuila",1994,27,"Age-standardized",1,"Male",5.3618048755
+28,"diabetes_fpg",4647,"Coahuila",1994,27,"Age-standardized",2,"Female",5.57877111717
+28,"diabetes_fpg",4648,"Colima",1994,27,"Age-standardized",1,"Male",5.47422987832
+28,"diabetes_fpg",4648,"Colima",1994,27,"Age-standardized",2,"Female",5.66703192873
+28,"diabetes_fpg",4649,"Chiapas",1994,27,"Age-standardized",1,"Male",4.98219399049
+28,"diabetes_fpg",4649,"Chiapas",1994,27,"Age-standardized",2,"Female",5.1818389815
+28,"diabetes_fpg",4650,"Chihuahua",1994,27,"Age-standardized",1,"Male",5.30077451629
+28,"diabetes_fpg",4650,"Chihuahua",1994,27,"Age-standardized",2,"Female",5.37911842202
+28,"diabetes_fpg",4651,"Mexico City",1994,27,"Age-standardized",1,"Male",5.0851613432
+28,"diabetes_fpg",4651,"Mexico City",1994,27,"Age-standardized",2,"Female",5.27355562309
+28,"diabetes_fpg",4652,"Durango",1994,27,"Age-standardized",1,"Male",5.48818880906
+28,"diabetes_fpg",4652,"Durango",1994,27,"Age-standardized",2,"Female",5.27786537459
+28,"diabetes_fpg",4653,"Guanajuato",1994,27,"Age-standardized",1,"Male",5.36658611968
+28,"diabetes_fpg",4653,"Guanajuato",1994,27,"Age-standardized",2,"Female",5.7246549753
+28,"diabetes_fpg",4654,"Guerrero",1994,27,"Age-standardized",1,"Male",5.26226512213
+28,"diabetes_fpg",4654,"Guerrero",1994,27,"Age-standardized",2,"Female",5.38945454816
+28,"diabetes_fpg",4655,"Hidalgo",1994,27,"Age-standardized",1,"Male",5.23927575052
+28,"diabetes_fpg",4655,"Hidalgo",1994,27,"Age-standardized",2,"Female",5.57933563015
+28,"diabetes_fpg",4656,"Jalisco",1994,27,"Age-standardized",1,"Male",5.60823831631
+28,"diabetes_fpg",4656,"Jalisco",1994,27,"Age-standardized",2,"Female",5.70626873044
+28,"diabetes_fpg",4657,"México",1994,27,"Age-standardized",1,"Male",4.98144363322
+28,"diabetes_fpg",4657,"México",1994,27,"Age-standardized",2,"Female",5.18696269181
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",1,"Male",5.22779642903
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",2,"Female",5.48653036161
+28,"diabetes_fpg",4659,"Morelos",1994,27,"Age-standardized",1,"Male",5.50753862955
+28,"diabetes_fpg",4659,"Morelos",1994,27,"Age-standardized",2,"Female",5.64959344632
+28,"diabetes_fpg",4660,"Nayarit",1994,27,"Age-standardized",1,"Male",5.40496885638
+28,"diabetes_fpg",4660,"Nayarit",1994,27,"Age-standardized",2,"Female",5.35823200811
+28,"diabetes_fpg",4661,"Nuevo León",1994,27,"Age-standardized",1,"Male",5.54861814311
+28,"diabetes_fpg",4661,"Nuevo León",1994,27,"Age-standardized",2,"Female",5.82768514452
+28,"diabetes_fpg",4662,"Oaxaca",1994,27,"Age-standardized",1,"Male",5.51300925527
+28,"diabetes_fpg",4662,"Oaxaca",1994,27,"Age-standardized",2,"Female",5.30267781678
+28,"diabetes_fpg",4663,"Puebla",1994,27,"Age-standardized",1,"Male",5.54324353101
+28,"diabetes_fpg",4663,"Puebla",1994,27,"Age-standardized",2,"Female",5.43217363681
+28,"diabetes_fpg",4664,"Querétaro",1994,27,"Age-standardized",1,"Male",5.28896136673
+28,"diabetes_fpg",4664,"Querétaro",1994,27,"Age-standardized",2,"Female",5.50214231919
+28,"diabetes_fpg",4665,"Quintana Roo",1994,27,"Age-standardized",1,"Male",5.2832120227
+28,"diabetes_fpg",4665,"Quintana Roo",1994,27,"Age-standardized",2,"Female",5.62411846898
+28,"diabetes_fpg",4666,"San Luis Potosí",1994,27,"Age-standardized",1,"Male",5.29514750982
+28,"diabetes_fpg",4666,"San Luis Potosí",1994,27,"Age-standardized",2,"Female",5.3770272421
+28,"diabetes_fpg",4667,"Sinaloa",1994,27,"Age-standardized",1,"Male",5.4362437574
+28,"diabetes_fpg",4667,"Sinaloa",1994,27,"Age-standardized",2,"Female",5.42732993752
+28,"diabetes_fpg",4668,"Sonora",1994,27,"Age-standardized",1,"Male",5.22793765592
+28,"diabetes_fpg",4668,"Sonora",1994,27,"Age-standardized",2,"Female",5.49793115016
+28,"diabetes_fpg",4669,"Tabasco",1994,27,"Age-standardized",1,"Male",5.53587317824
+28,"diabetes_fpg",4669,"Tabasco",1994,27,"Age-standardized",2,"Female",5.48686271473
+28,"diabetes_fpg",4670,"Tamaulipas",1994,27,"Age-standardized",1,"Male",5.30845793907
+28,"diabetes_fpg",4670,"Tamaulipas",1994,27,"Age-standardized",2,"Female",5.98898058026
+28,"diabetes_fpg",4671,"Tlaxcala",1994,27,"Age-standardized",1,"Male",5.31806813148
+28,"diabetes_fpg",4671,"Tlaxcala",1994,27,"Age-standardized",2,"Female",5.40747261551
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",1,"Male",5.57389688668
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",2,"Female",5.87872300375
+28,"diabetes_fpg",4673,"Yucatán",1994,27,"Age-standardized",1,"Male",5.33774788618
+28,"diabetes_fpg",4673,"Yucatán",1994,27,"Age-standardized",2,"Female",5.352544588
+28,"diabetes_fpg",4674,"Zacatecas",1994,27,"Age-standardized",1,"Male",5.52511719896
+28,"diabetes_fpg",4674,"Zacatecas",1994,27,"Age-standardized",2,"Female",5.55833913884
+28,"diabetes_fpg",130,"Mexico",1995,27,"Age-standardized",1,"Male",5.3207152249
+28,"diabetes_fpg",130,"Mexico",1995,27,"Age-standardized",2,"Female",5.49073344143
+28,"diabetes_fpg",4643,"Aguascalientes",1995,27,"Age-standardized",1,"Male",5.50315453916
+28,"diabetes_fpg",4643,"Aguascalientes",1995,27,"Age-standardized",2,"Female",5.47646115929
+28,"diabetes_fpg",4644,"Baja California",1995,27,"Age-standardized",1,"Male",5.43622946716
+28,"diabetes_fpg",4644,"Baja California",1995,27,"Age-standardized",2,"Female",5.51031647387
+28,"diabetes_fpg",4645,"Baja California Sur",1995,27,"Age-standardized",1,"Male",5.45335381983
+28,"diabetes_fpg",4645,"Baja California Sur",1995,27,"Age-standardized",2,"Female",5.48427425957
+28,"diabetes_fpg",4646,"Campeche",1995,27,"Age-standardized",1,"Male",5.7072846899
+28,"diabetes_fpg",4646,"Campeche",1995,27,"Age-standardized",2,"Female",5.67940723354
+28,"diabetes_fpg",4647,"Coahuila",1995,27,"Age-standardized",1,"Male",5.36319915392
+28,"diabetes_fpg",4647,"Coahuila",1995,27,"Age-standardized",2,"Female",5.59278070246
+28,"diabetes_fpg",4648,"Colima",1995,27,"Age-standardized",1,"Male",5.47327390494
+28,"diabetes_fpg",4648,"Colima",1995,27,"Age-standardized",2,"Female",5.67625391369
+28,"diabetes_fpg",4649,"Chiapas",1995,27,"Age-standardized",1,"Male",4.9866752765
+28,"diabetes_fpg",4649,"Chiapas",1995,27,"Age-standardized",2,"Female",5.18737081095
+28,"diabetes_fpg",4650,"Chihuahua",1995,27,"Age-standardized",1,"Male",5.30225817193
+28,"diabetes_fpg",4650,"Chihuahua",1995,27,"Age-standardized",2,"Female",5.38931962978
+28,"diabetes_fpg",4651,"Mexico City",1995,27,"Age-standardized",1,"Male",5.09395411111
+28,"diabetes_fpg",4651,"Mexico City",1995,27,"Age-standardized",2,"Female",5.28703411162
+28,"diabetes_fpg",4652,"Durango",1995,27,"Age-standardized",1,"Male",5.48472095499
+28,"diabetes_fpg",4652,"Durango",1995,27,"Age-standardized",2,"Female",5.28764244251
+28,"diabetes_fpg",4653,"Guanajuato",1995,27,"Age-standardized",1,"Male",5.36669296486
+28,"diabetes_fpg",4653,"Guanajuato",1995,27,"Age-standardized",2,"Female",5.73560943641
+28,"diabetes_fpg",4654,"Guerrero",1995,27,"Age-standardized",1,"Male",5.2627939944
+28,"diabetes_fpg",4654,"Guerrero",1995,27,"Age-standardized",2,"Female",5.39500822353
+28,"diabetes_fpg",4655,"Hidalgo",1995,27,"Age-standardized",1,"Male",5.23736554613
+28,"diabetes_fpg",4655,"Hidalgo",1995,27,"Age-standardized",2,"Female",5.58415398892
+28,"diabetes_fpg",4656,"Jalisco",1995,27,"Age-standardized",1,"Male",5.60531103008
+28,"diabetes_fpg",4656,"Jalisco",1995,27,"Age-standardized",2,"Female",5.71595335936
+28,"diabetes_fpg",4657,"México",1995,27,"Age-standardized",1,"Male",4.97613392815
+28,"diabetes_fpg",4657,"México",1995,27,"Age-standardized",2,"Female",5.1918754941
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",1,"Male",5.22558966984
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",2,"Female",5.49348072256
+28,"diabetes_fpg",4659,"Morelos",1995,27,"Age-standardized",1,"Male",5.50597928542
+28,"diabetes_fpg",4659,"Morelos",1995,27,"Age-standardized",2,"Female",5.65714194044
+28,"diabetes_fpg",4660,"Nayarit",1995,27,"Age-standardized",1,"Male",5.40597262509
+28,"diabetes_fpg",4660,"Nayarit",1995,27,"Age-standardized",2,"Female",5.36700478847
+28,"diabetes_fpg",4661,"Nuevo León",1995,27,"Age-standardized",1,"Male",5.54652521919
+28,"diabetes_fpg",4661,"Nuevo León",1995,27,"Age-standardized",2,"Female",5.83670571207
+28,"diabetes_fpg",4662,"Oaxaca",1995,27,"Age-standardized",1,"Male",5.51299200161
+28,"diabetes_fpg",4662,"Oaxaca",1995,27,"Age-standardized",2,"Female",5.3046379436
+28,"diabetes_fpg",4663,"Puebla",1995,27,"Age-standardized",1,"Male",5.54244715175
+28,"diabetes_fpg",4663,"Puebla",1995,27,"Age-standardized",2,"Female",5.43806852228
+28,"diabetes_fpg",4664,"Querétaro",1995,27,"Age-standardized",1,"Male",5.28931831485
+28,"diabetes_fpg",4664,"Querétaro",1995,27,"Age-standardized",2,"Female",5.51105954522
+28,"diabetes_fpg",4665,"Quintana Roo",1995,27,"Age-standardized",1,"Male",5.28372370369
+28,"diabetes_fpg",4665,"Quintana Roo",1995,27,"Age-standardized",2,"Female",5.63394060121
+28,"diabetes_fpg",4666,"San Luis Potosí",1995,27,"Age-standardized",1,"Male",5.30031915384
+28,"diabetes_fpg",4666,"San Luis Potosí",1995,27,"Age-standardized",2,"Female",5.38311801815
+28,"diabetes_fpg",4667,"Sinaloa",1995,27,"Age-standardized",1,"Male",5.43219584238
+28,"diabetes_fpg",4667,"Sinaloa",1995,27,"Age-standardized",2,"Female",5.43567320528
+28,"diabetes_fpg",4668,"Sonora",1995,27,"Age-standardized",1,"Male",5.22826158601
+28,"diabetes_fpg",4668,"Sonora",1995,27,"Age-standardized",2,"Female",5.50723325863
+28,"diabetes_fpg",4669,"Tabasco",1995,27,"Age-standardized",1,"Male",5.5329909261
+28,"diabetes_fpg",4669,"Tabasco",1995,27,"Age-standardized",2,"Female",5.49415322224
+28,"diabetes_fpg",4670,"Tamaulipas",1995,27,"Age-standardized",1,"Male",5.30574196919
+28,"diabetes_fpg",4670,"Tamaulipas",1995,27,"Age-standardized",2,"Female",5.99930827562
+28,"diabetes_fpg",4671,"Tlaxcala",1995,27,"Age-standardized",1,"Male",5.31887499197
+28,"diabetes_fpg",4671,"Tlaxcala",1995,27,"Age-standardized",2,"Female",5.41340781919
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",1,"Male",5.57467225496
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",2,"Female",5.88647337506
+28,"diabetes_fpg",4673,"Yucatán",1995,27,"Age-standardized",1,"Male",5.33465224333
+28,"diabetes_fpg",4673,"Yucatán",1995,27,"Age-standardized",2,"Female",5.36203747619
+28,"diabetes_fpg",4674,"Zacatecas",1995,27,"Age-standardized",1,"Male",5.52851748724
+28,"diabetes_fpg",4674,"Zacatecas",1995,27,"Age-standardized",2,"Female",5.56662052548
+28,"diabetes_fpg",130,"Mexico",1996,27,"Age-standardized",1,"Male",5.32050680941
+28,"diabetes_fpg",130,"Mexico",1996,27,"Age-standardized",2,"Female",5.49528824052
+28,"diabetes_fpg",4643,"Aguascalientes",1996,27,"Age-standardized",1,"Male",5.49540275011
+28,"diabetes_fpg",4643,"Aguascalientes",1996,27,"Age-standardized",2,"Female",5.47348910443
+28,"diabetes_fpg",4644,"Baja California",1996,27,"Age-standardized",1,"Male",5.42947377447
+28,"diabetes_fpg",4644,"Baja California",1996,27,"Age-standardized",2,"Female",5.51369829098
+28,"diabetes_fpg",4645,"Baja California Sur",1996,27,"Age-standardized",1,"Male",5.44333953338
+28,"diabetes_fpg",4645,"Baja California Sur",1996,27,"Age-standardized",2,"Female",5.4860238102
+28,"diabetes_fpg",4646,"Campeche",1996,27,"Age-standardized",1,"Male",5.70343508936
+28,"diabetes_fpg",4646,"Campeche",1996,27,"Age-standardized",2,"Female",5.68367685495
+28,"diabetes_fpg",4647,"Coahuila",1996,27,"Age-standardized",1,"Male",5.35852363573
+28,"diabetes_fpg",4647,"Coahuila",1996,27,"Age-standardized",2,"Female",5.59674215141
+28,"diabetes_fpg",4648,"Colima",1996,27,"Age-standardized",1,"Male",5.46798531771
+28,"diabetes_fpg",4648,"Colima",1996,27,"Age-standardized",2,"Female",5.67695005997
+28,"diabetes_fpg",4649,"Chiapas",1996,27,"Age-standardized",1,"Male",4.98596919615
+28,"diabetes_fpg",4649,"Chiapas",1996,27,"Age-standardized",2,"Female",5.19119085834
+28,"diabetes_fpg",4650,"Chihuahua",1996,27,"Age-standardized",1,"Male",5.30003202379
+28,"diabetes_fpg",4650,"Chihuahua",1996,27,"Age-standardized",2,"Female",5.39415628621
+28,"diabetes_fpg",4651,"Mexico City",1996,27,"Age-standardized",1,"Male",5.12029633837
+28,"diabetes_fpg",4651,"Mexico City",1996,27,"Age-standardized",2,"Female",5.3060109148
+28,"diabetes_fpg",4652,"Durango",1996,27,"Age-standardized",1,"Male",5.47824610502
+28,"diabetes_fpg",4652,"Durango",1996,27,"Age-standardized",2,"Female",5.28899459428
+28,"diabetes_fpg",4653,"Guanajuato",1996,27,"Age-standardized",1,"Male",5.36298359756
+28,"diabetes_fpg",4653,"Guanajuato",1996,27,"Age-standardized",2,"Female",5.73534179682
+28,"diabetes_fpg",4654,"Guerrero",1996,27,"Age-standardized",1,"Male",5.25834929653
+28,"diabetes_fpg",4654,"Guerrero",1996,27,"Age-standardized",2,"Female",5.39434760141
+28,"diabetes_fpg",4655,"Hidalgo",1996,27,"Age-standardized",1,"Male",5.23128160667
+28,"diabetes_fpg",4655,"Hidalgo",1996,27,"Age-standardized",2,"Female",5.58362293349
+28,"diabetes_fpg",4656,"Jalisco",1996,27,"Age-standardized",1,"Male",5.5978424004
+28,"diabetes_fpg",4656,"Jalisco",1996,27,"Age-standardized",2,"Female",5.71597301109
+28,"diabetes_fpg",4657,"México",1996,27,"Age-standardized",1,"Male",4.98809116533
+28,"diabetes_fpg",4657,"México",1996,27,"Age-standardized",2,"Female",5.20388504022
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",1,"Male",5.21906611298
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",2,"Female",5.49516840369
+28,"diabetes_fpg",4659,"Morelos",1996,27,"Age-standardized",1,"Male",5.49876720579
+28,"diabetes_fpg",4659,"Morelos",1996,27,"Age-standardized",2,"Female",5.65562258183
+28,"diabetes_fpg",4660,"Nayarit",1996,27,"Age-standardized",1,"Male",5.40256070501
+28,"diabetes_fpg",4660,"Nayarit",1996,27,"Age-standardized",2,"Female",5.37117316526
+28,"diabetes_fpg",4661,"Nuevo León",1996,27,"Age-standardized",1,"Male",5.53766884672
+28,"diabetes_fpg",4661,"Nuevo León",1996,27,"Age-standardized",2,"Female",5.83907651766
+28,"diabetes_fpg",4662,"Oaxaca",1996,27,"Age-standardized",1,"Male",5.50585070717
+28,"diabetes_fpg",4662,"Oaxaca",1996,27,"Age-standardized",2,"Female",5.30361273773
+28,"diabetes_fpg",4663,"Puebla",1996,27,"Age-standardized",1,"Male",5.53646224523
+28,"diabetes_fpg",4663,"Puebla",1996,27,"Age-standardized",2,"Female",5.43714533687
+28,"diabetes_fpg",4664,"Querétaro",1996,27,"Age-standardized",1,"Male",5.28381149528
+28,"diabetes_fpg",4664,"Querétaro",1996,27,"Age-standardized",2,"Female",5.50983794678
+28,"diabetes_fpg",4665,"Quintana Roo",1996,27,"Age-standardized",1,"Male",5.27862612081
+28,"diabetes_fpg",4665,"Quintana Roo",1996,27,"Age-standardized",2,"Female",5.63758989693
+28,"diabetes_fpg",4666,"San Luis Potosí",1996,27,"Age-standardized",1,"Male",5.29975964342
+28,"diabetes_fpg",4666,"San Luis Potosí",1996,27,"Age-standardized",2,"Female",5.388741148
+28,"diabetes_fpg",4667,"Sinaloa",1996,27,"Age-standardized",1,"Male",5.42356641055
+28,"diabetes_fpg",4667,"Sinaloa",1996,27,"Age-standardized",2,"Female",5.43536223242
+28,"diabetes_fpg",4668,"Sonora",1996,27,"Age-standardized",1,"Male",5.22283836638
+28,"diabetes_fpg",4668,"Sonora",1996,27,"Age-standardized",2,"Female",5.50994898184
+28,"diabetes_fpg",4669,"Tabasco",1996,27,"Age-standardized",1,"Male",5.52565021137
+28,"diabetes_fpg",4669,"Tabasco",1996,27,"Age-standardized",2,"Female",5.4984461773
+28,"diabetes_fpg",4670,"Tamaulipas",1996,27,"Age-standardized",1,"Male",5.2979661965
+28,"diabetes_fpg",4670,"Tamaulipas",1996,27,"Age-standardized",2,"Female",6.00147323852
+28,"diabetes_fpg",4671,"Tlaxcala",1996,27,"Age-standardized",1,"Male",5.31499355667
+28,"diabetes_fpg",4671,"Tlaxcala",1996,27,"Age-standardized",2,"Female",5.41460935605
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",1,"Male",5.56910887185
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",2,"Female",5.88415017068
+28,"diabetes_fpg",4673,"Yucatán",1996,27,"Age-standardized",1,"Male",5.32445309391
+28,"diabetes_fpg",4673,"Yucatán",1996,27,"Age-standardized",2,"Female",5.3633285391
+28,"diabetes_fpg",4674,"Zacatecas",1996,27,"Age-standardized",1,"Male",5.52664562789
+28,"diabetes_fpg",4674,"Zacatecas",1996,27,"Age-standardized",2,"Female",5.56737455449
+28,"diabetes_fpg",130,"Mexico",1997,27,"Age-standardized",1,"Male",5.32063484188
+28,"diabetes_fpg",130,"Mexico",1997,27,"Age-standardized",2,"Female",5.50053800722
+28,"diabetes_fpg",4643,"Aguascalientes",1997,27,"Age-standardized",1,"Male",5.4880153866
+28,"diabetes_fpg",4643,"Aguascalientes",1997,27,"Age-standardized",2,"Female",5.47121876681
+28,"diabetes_fpg",4644,"Baja California",1997,27,"Age-standardized",1,"Male",5.42306133949
+28,"diabetes_fpg",4644,"Baja California",1997,27,"Age-standardized",2,"Female",5.51784464857
+28,"diabetes_fpg",4645,"Baja California Sur",1997,27,"Age-standardized",1,"Male",5.43365549312
+28,"diabetes_fpg",4645,"Baja California Sur",1997,27,"Age-standardized",2,"Female",5.48847860548
+28,"diabetes_fpg",4646,"Campeche",1997,27,"Age-standardized",1,"Male",5.69991954486
+28,"diabetes_fpg",4646,"Campeche",1997,27,"Age-standardized",2,"Female",5.68872296255
+28,"diabetes_fpg",4647,"Coahuila",1997,27,"Age-standardized",1,"Male",5.35417504985
+28,"diabetes_fpg",4647,"Coahuila",1997,27,"Age-standardized",2,"Female",5.60136741586
+28,"diabetes_fpg",4648,"Colima",1997,27,"Age-standardized",1,"Male",5.46304520095
+28,"diabetes_fpg",4648,"Colima",1997,27,"Age-standardized",2,"Female",5.67840651183
+28,"diabetes_fpg",4649,"Chiapas",1997,27,"Age-standardized",1,"Male",4.98555540543
+28,"diabetes_fpg",4649,"Chiapas",1997,27,"Age-standardized",2,"Female",5.19569901954
+28,"diabetes_fpg",4650,"Chihuahua",1997,27,"Age-standardized",1,"Male",5.29818391834
+28,"diabetes_fpg",4650,"Chihuahua",1997,27,"Age-standardized",2,"Female",5.39954586124
+28,"diabetes_fpg",4651,"Mexico City",1997,27,"Age-standardized",1,"Male",5.14711990153
+28,"diabetes_fpg",4651,"Mexico City",1997,27,"Age-standardized",2,"Female",5.32576842228
+28,"diabetes_fpg",4652,"Durango",1997,27,"Age-standardized",1,"Male",5.47213285717
+28,"diabetes_fpg",4652,"Durango",1997,27,"Age-standardized",2,"Female",5.29103990722
+28,"diabetes_fpg",4653,"Guanajuato",1997,27,"Age-standardized",1,"Male",5.35958899047
+28,"diabetes_fpg",4653,"Guanajuato",1997,27,"Age-standardized",2,"Female",5.73576802032
+28,"diabetes_fpg",4654,"Guerrero",1997,27,"Age-standardized",1,"Male",5.25424932948
+28,"diabetes_fpg",4654,"Guerrero",1997,27,"Age-standardized",2,"Female",5.39428088818
+28,"diabetes_fpg",4655,"Hidalgo",1997,27,"Age-standardized",1,"Male",5.22556216663
+28,"diabetes_fpg",4655,"Hidalgo",1997,27,"Age-standardized",2,"Female",5.58385434136
+28,"diabetes_fpg",4656,"Jalisco",1997,27,"Age-standardized",1,"Male",5.59073196695
+28,"diabetes_fpg",4656,"Jalisco",1997,27,"Age-standardized",2,"Female",5.71670520212
+28,"diabetes_fpg",4657,"México",1997,27,"Age-standardized",1,"Male",5.0003768417
+28,"diabetes_fpg",4657,"México",1997,27,"Age-standardized",2,"Female",5.21657220117
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",1,"Male",5.21290159485
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",2,"Female",5.49755052821
+28,"diabetes_fpg",4659,"Morelos",1997,27,"Age-standardized",1,"Male",5.49192887364
+28,"diabetes_fpg",4659,"Morelos",1997,27,"Age-standardized",2,"Female",5.65483164486
+28,"diabetes_fpg",4660,"Nayarit",1997,27,"Age-standardized",1,"Male",5.39947933819
+28,"diabetes_fpg",4660,"Nayarit",1997,27,"Age-standardized",2,"Female",5.37606069072
+28,"diabetes_fpg",4661,"Nuevo León",1997,27,"Age-standardized",1,"Male",5.52916969566
+28,"diabetes_fpg",4661,"Nuevo León",1997,27,"Age-standardized",2,"Female",5.84209256951
+28,"diabetes_fpg",4662,"Oaxaca",1997,27,"Age-standardized",1,"Male",5.49906792056
+28,"diabetes_fpg",4662,"Oaxaca",1997,27,"Age-standardized",2,"Female",5.30321810614
+28,"diabetes_fpg",4663,"Puebla",1997,27,"Age-standardized",1,"Male",5.53080445505
+28,"diabetes_fpg",4663,"Puebla",1997,27,"Age-standardized",2,"Female",5.43677514933
+28,"diabetes_fpg",4664,"Querétaro",1997,27,"Age-standardized",1,"Male",5.27865901099
+28,"diabetes_fpg",4664,"Querétaro",1997,27,"Age-standardized",2,"Female",5.50941780786
+28,"diabetes_fpg",4665,"Quintana Roo",1997,27,"Age-standardized",1,"Male",5.27382663169
+28,"diabetes_fpg",4665,"Quintana Roo",1997,27,"Age-standardized",2,"Female",5.64188218989
+28,"diabetes_fpg",4666,"San Luis Potosí",1997,27,"Age-standardized",1,"Male",5.29954926855
+28,"diabetes_fpg",4666,"San Luis Potosí",1997,27,"Age-standardized",2,"Female",5.39510047589
+28,"diabetes_fpg",4667,"Sinaloa",1997,27,"Age-standardized",1,"Male",5.41530863362
+28,"diabetes_fpg",4667,"Sinaloa",1997,27,"Age-standardized",2,"Female",5.4357907329
+28,"diabetes_fpg",4668,"Sonora",1997,27,"Age-standardized",1,"Male",5.21773068005
+28,"diabetes_fpg",4668,"Sonora",1997,27,"Age-standardized",2,"Female",5.51351029032
+28,"diabetes_fpg",4669,"Tabasco",1997,27,"Age-standardized",1,"Male",5.51866218851
+28,"diabetes_fpg",4669,"Tabasco",1997,27,"Age-standardized",2,"Female",5.50359116728
+28,"diabetes_fpg",4670,"Tamaulipas",1997,27,"Age-standardized",1,"Male",5.29050470713
+28,"diabetes_fpg",4670,"Tamaulipas",1997,27,"Age-standardized",2,"Female",6.00437104046
+28,"diabetes_fpg",4671,"Tlaxcala",1997,27,"Age-standardized",1,"Male",5.31146064181
+28,"diabetes_fpg",4671,"Tlaxcala",1997,27,"Age-standardized",2,"Female",5.41671428046
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",1,"Male",5.56389375161
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",2,"Female",5.88253193269
+28,"diabetes_fpg",4673,"Yucatán",1997,27,"Age-standardized",1,"Male",5.31459959904
+28,"diabetes_fpg",4673,"Yucatán",1997,27,"Age-standardized",2,"Female",5.36530684529
+28,"diabetes_fpg",4674,"Zacatecas",1997,27,"Age-standardized",1,"Male",5.52512933959
+28,"diabetes_fpg",4674,"Zacatecas",1997,27,"Age-standardized",2,"Female",5.56893189102
+28,"diabetes_fpg",130,"Mexico",1998,27,"Age-standardized",1,"Male",5.32114835726
+28,"diabetes_fpg",130,"Mexico",1998,27,"Age-standardized",2,"Female",5.50642714818
+28,"diabetes_fpg",4643,"Aguascalientes",1998,27,"Age-standardized",1,"Male",5.4810293235
+28,"diabetes_fpg",4643,"Aguascalientes",1998,27,"Age-standardized",2,"Female",5.46959865157
+28,"diabetes_fpg",4644,"Baja California",1998,27,"Age-standardized",1,"Male",5.41702478561
+28,"diabetes_fpg",4644,"Baja California",1998,27,"Age-standardized",2,"Female",5.52263812455
+28,"diabetes_fpg",4645,"Baja California Sur",1998,27,"Age-standardized",1,"Male",5.42434935641
+28,"diabetes_fpg",4645,"Baja California Sur",1998,27,"Age-standardized",2,"Female",5.4915616612
+28,"diabetes_fpg",4646,"Campeche",1998,27,"Age-standardized",1,"Male",5.69679024891
+28,"diabetes_fpg",4646,"Campeche",1998,27,"Age-standardized",2,"Female",5.69450314756
+28,"diabetes_fpg",4647,"Coahuila",1998,27,"Age-standardized",1,"Male",5.35020303777
+28,"diabetes_fpg",4647,"Coahuila",1998,27,"Age-standardized",2,"Female",5.60667977283
+28,"diabetes_fpg",4648,"Colima",1998,27,"Age-standardized",1,"Male",5.45851623287
+28,"diabetes_fpg",4648,"Colima",1998,27,"Age-standardized",2,"Female",5.68054005306
+28,"diabetes_fpg",4649,"Chiapas",1998,27,"Age-standardized",1,"Male",4.98548304207
+28,"diabetes_fpg",4649,"Chiapas",1998,27,"Age-standardized",2,"Female",5.20084851599
+28,"diabetes_fpg",4650,"Chihuahua",1998,27,"Age-standardized",1,"Male",5.29673796267
+28,"diabetes_fpg",4650,"Chihuahua",1998,27,"Age-standardized",2,"Female",5.4055008494
+28,"diabetes_fpg",4651,"Mexico City",1998,27,"Age-standardized",1,"Male",5.17449481074
+28,"diabetes_fpg",4651,"Mexico City",1998,27,"Age-standardized",2,"Female",5.34627289269
+28,"diabetes_fpg",4652,"Durango",1998,27,"Age-standardized",1,"Male",5.46642142227
+28,"diabetes_fpg",4652,"Durango",1998,27,"Age-standardized",2,"Female",5.29370227963
+28,"diabetes_fpg",4653,"Guanajuato",1998,27,"Age-standardized",1,"Male",5.35656040746
+28,"diabetes_fpg",4653,"Guanajuato",1998,27,"Age-standardized",2,"Female",5.73684093628
+28,"diabetes_fpg",4654,"Guerrero",1998,27,"Age-standardized",1,"Male",5.25055001825
+28,"diabetes_fpg",4654,"Guerrero",1998,27,"Age-standardized",2,"Female",5.39478944339
+28,"diabetes_fpg",4655,"Hidalgo",1998,27,"Age-standardized",1,"Male",5.22025500088
+28,"diabetes_fpg",4655,"Hidalgo",1998,27,"Age-standardized",2,"Female",5.58472960054
+28,"diabetes_fpg",4656,"Jalisco",1998,27,"Age-standardized",1,"Male",5.58402968325
+28,"diabetes_fpg",4656,"Jalisco",1998,27,"Age-standardized",2,"Female",5.7180786933
+28,"diabetes_fpg",4657,"México",1998,27,"Age-standardized",1,"Male",5.01303510664
+28,"diabetes_fpg",4657,"México",1998,27,"Age-standardized",2,"Female",5.22987293453
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",1,"Male",5.20712489687
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",2,"Female",5.50057007727
+28,"diabetes_fpg",4659,"Morelos",1998,27,"Age-standardized",1,"Male",5.48549487967
+28,"diabetes_fpg",4659,"Morelos",1998,27,"Age-standardized",2,"Female",5.65472640183
+28,"diabetes_fpg",4660,"Nayarit",1998,27,"Age-standardized",1,"Male",5.39677789879
+28,"diabetes_fpg",4660,"Nayarit",1998,27,"Age-standardized",2,"Female",5.38158066597
+28,"diabetes_fpg",4661,"Nuevo León",1998,27,"Age-standardized",1,"Male",5.52106604224
+28,"diabetes_fpg",4661,"Nuevo León",1998,27,"Age-standardized",2,"Female",5.84569513245
+28,"diabetes_fpg",4662,"Oaxaca",1998,27,"Age-standardized",1,"Male",5.49268848321
+28,"diabetes_fpg",4662,"Oaxaca",1998,27,"Age-standardized",2,"Female",5.30342482952
+28,"diabetes_fpg",4663,"Puebla",1998,27,"Age-standardized",1,"Male",5.52551868583
+28,"diabetes_fpg",4663,"Puebla",1998,27,"Age-standardized",2,"Female",5.43696912614
+28,"diabetes_fpg",4664,"Querétaro",1998,27,"Age-standardized",1,"Male",5.27389449102
+28,"diabetes_fpg",4664,"Querétaro",1998,27,"Age-standardized",2,"Female",5.50969362326
+28,"diabetes_fpg",4665,"Quintana Roo",1998,27,"Age-standardized",1,"Male",5.26937729755
+28,"diabetes_fpg",4665,"Quintana Roo",1998,27,"Age-standardized",2,"Female",5.64682235705
+28,"diabetes_fpg",4666,"San Luis Potosí",1998,27,"Age-standardized",1,"Male",5.29974455548
+28,"diabetes_fpg",4666,"San Luis Potosí",1998,27,"Age-standardized",2,"Female",5.40212201634
+28,"diabetes_fpg",4667,"Sinaloa",1998,27,"Age-standardized",1,"Male",5.40746988113
+28,"diabetes_fpg",4667,"Sinaloa",1998,27,"Age-standardized",2,"Female",5.4368777823
+28,"diabetes_fpg",4668,"Sonora",1998,27,"Age-standardized",1,"Male",5.21298714751
+28,"diabetes_fpg",4668,"Sonora",1998,27,"Age-standardized",2,"Female",5.51776183767
+28,"diabetes_fpg",4669,"Tabasco",1998,27,"Age-standardized",1,"Male",5.51207327499
+28,"diabetes_fpg",4669,"Tabasco",1998,27,"Age-standardized",2,"Female",5.50945280854
+28,"diabetes_fpg",4670,"Tamaulipas",1998,27,"Age-standardized",1,"Male",5.28340888796
+28,"diabetes_fpg",4670,"Tamaulipas",1998,27,"Age-standardized",2,"Female",6.00790483251
+28,"diabetes_fpg",4671,"Tlaxcala",1998,27,"Age-standardized",1,"Male",5.30831799445
+28,"diabetes_fpg",4671,"Tlaxcala",1998,27,"Age-standardized",2,"Female",5.41959885689
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",1,"Male",5.55909463152
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",2,"Female",5.88156881744
+28,"diabetes_fpg",4673,"Yucatán",1998,27,"Age-standardized",1,"Male",5.30512944194
+28,"diabetes_fpg",4673,"Yucatán",1998,27,"Age-standardized",2,"Female",5.36791712686
+28,"diabetes_fpg",4674,"Zacatecas",1998,27,"Age-standardized",1,"Male",5.52399381084
+28,"diabetes_fpg",4674,"Zacatecas",1998,27,"Age-standardized",2,"Female",5.57122535423
+28,"diabetes_fpg",130,"Mexico",1999,27,"Age-standardized",1,"Male",5.32203103105
+28,"diabetes_fpg",130,"Mexico",1999,27,"Age-standardized",2,"Female",5.51278675795
+28,"diabetes_fpg",4643,"Aguascalientes",1999,27,"Age-standardized",1,"Male",5.47441571798
+28,"diabetes_fpg",4643,"Aguascalientes",1999,27,"Age-standardized",2,"Female",5.46849710238
+28,"diabetes_fpg",4644,"Baja California",1999,27,"Age-standardized",1,"Male",5.41133719186
+28,"diabetes_fpg",4644,"Baja California",1999,27,"Age-standardized",2,"Female",5.52788117217
+28,"diabetes_fpg",4645,"Baja California Sur",1999,27,"Age-standardized",1,"Male",5.41541234273
+28,"diabetes_fpg",4645,"Baja California Sur",1999,27,"Age-standardized",2,"Female",5.49508144119
+28,"diabetes_fpg",4646,"Campeche",1999,27,"Age-standardized",1,"Male",5.69404249022
+28,"diabetes_fpg",4646,"Campeche",1999,27,"Age-standardized",2,"Female",5.7008755887
+28,"diabetes_fpg",4647,"Coahuila",1999,27,"Age-standardized",1,"Male",5.3465907654
+28,"diabetes_fpg",4647,"Coahuila",1999,27,"Age-standardized",2,"Female",5.61258260795
+28,"diabetes_fpg",4648,"Colima",1999,27,"Age-standardized",1,"Male",5.45437822632
+28,"diabetes_fpg",4648,"Colima",1999,27,"Age-standardized",2,"Female",5.68318435345
+28,"diabetes_fpg",4649,"Chiapas",1999,27,"Age-standardized",1,"Male",4.98574872172
+28,"diabetes_fpg",4649,"Chiapas",1999,27,"Age-standardized",2,"Female",5.20648411979
+28,"diabetes_fpg",4650,"Chihuahua",1999,27,"Age-standardized",1,"Male",5.29563843697
+28,"diabetes_fpg",4650,"Chihuahua",1999,27,"Age-standardized",2,"Female",5.41185420573
+28,"diabetes_fpg",4651,"Mexico City",1999,27,"Age-standardized",1,"Male",5.2024406662
+28,"diabetes_fpg",4651,"Mexico City",1999,27,"Age-standardized",2,"Female",5.36740452947
+28,"diabetes_fpg",4652,"Durango",1999,27,"Age-standardized",1,"Male",5.46108190684
+28,"diabetes_fpg",4652,"Durango",1999,27,"Age-standardized",2,"Female",5.29680456933
+28,"diabetes_fpg",4653,"Guanajuato",1999,27,"Age-standardized",1,"Male",5.35388190783
+28,"diabetes_fpg",4653,"Guanajuato",1999,27,"Age-standardized",2,"Female",5.73846351916
+28,"diabetes_fpg",4654,"Guerrero",1999,27,"Age-standardized",1,"Male",5.24723965458
+28,"diabetes_fpg",4654,"Guerrero",1999,27,"Age-standardized",2,"Female",5.39573615574
+28,"diabetes_fpg",4655,"Hidalgo",1999,27,"Age-standardized",1,"Male",5.21534370559
+28,"diabetes_fpg",4655,"Hidalgo",1999,27,"Age-standardized",2,"Female",5.58607674875
+28,"diabetes_fpg",4656,"Jalisco",1999,27,"Age-standardized",1,"Male",5.57770702714
+28,"diabetes_fpg",4656,"Jalisco",1999,27,"Age-standardized",2,"Female",5.71987083085
+28,"diabetes_fpg",4657,"México",1999,27,"Age-standardized",1,"Male",5.02604971363
+28,"diabetes_fpg",4657,"México",1999,27,"Age-standardized",2,"Female",5.24360683896
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",1,"Male",5.20170362875
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",2,"Female",5.50401895767
+28,"diabetes_fpg",4659,"Morelos",1999,27,"Age-standardized",1,"Male",5.47943570978
+28,"diabetes_fpg",4659,"Morelos",1999,27,"Age-standardized",2,"Female",5.65515535968
+28,"diabetes_fpg",4660,"Nayarit",1999,27,"Age-standardized",1,"Male",5.39443984245
+28,"diabetes_fpg",4660,"Nayarit",1999,27,"Age-standardized",2,"Female",5.38760079877
+28,"diabetes_fpg",4661,"Nuevo León",1999,27,"Age-standardized",1,"Male",5.51334633406
+28,"diabetes_fpg",4661,"Nuevo León",1999,27,"Age-standardized",2,"Female",5.84971207057
+28,"diabetes_fpg",4662,"Oaxaca",1999,27,"Age-standardized",1,"Male",5.48670061807
+28,"diabetes_fpg",4662,"Oaxaca",1999,27,"Age-standardized",2,"Female",5.30410629748
+28,"diabetes_fpg",4663,"Puebla",1999,27,"Age-standardized",1,"Male",5.52059432361
+28,"diabetes_fpg",4663,"Puebla",1999,27,"Age-standardized",2,"Female",5.43763083172
+28,"diabetes_fpg",4664,"Querétaro",1999,27,"Age-standardized",1,"Male",5.26950003049
+28,"diabetes_fpg",4664,"Querétaro",1999,27,"Age-standardized",2,"Female",5.51044349483
+28,"diabetes_fpg",4665,"Quintana Roo",1999,27,"Age-standardized",1,"Male",5.26525857597
+28,"diabetes_fpg",4665,"Quintana Roo",1999,27,"Age-standardized",2,"Female",5.65227844834
+28,"diabetes_fpg",4666,"San Luis Potosí",1999,27,"Age-standardized",1,"Male",5.30031460899
+28,"diabetes_fpg",4666,"San Luis Potosí",1999,27,"Age-standardized",2,"Female",5.40961200854
+28,"diabetes_fpg",4667,"Sinaloa",1999,27,"Age-standardized",1,"Male",5.40002014883
+28,"diabetes_fpg",4667,"Sinaloa",1999,27,"Age-standardized",2,"Female",5.43839155533
+28,"diabetes_fpg",4668,"Sonora",1999,27,"Age-standardized",1,"Male",5.20858712149
+28,"diabetes_fpg",4668,"Sonora",1999,27,"Age-standardized",2,"Female",5.5224502512
+28,"diabetes_fpg",4669,"Tabasco",1999,27,"Age-standardized",1,"Male",5.50586590297
+28,"diabetes_fpg",4669,"Tabasco",1999,27,"Age-standardized",2,"Female",5.51587758764
+28,"diabetes_fpg",4670,"Tamaulipas",1999,27,"Age-standardized",1,"Male",5.27666555186
+28,"diabetes_fpg",4670,"Tamaulipas",1999,27,"Age-standardized",2,"Female",6.01181922237
+28,"diabetes_fpg",4671,"Tlaxcala",1999,27,"Age-standardized",1,"Male",5.30554887996
+28,"diabetes_fpg",4671,"Tlaxcala",1999,27,"Age-standardized",2,"Female",5.42303047681
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",1,"Male",5.55470202249
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",2,"Female",5.8810745303
+28,"diabetes_fpg",4673,"Yucatán",1999,27,"Age-standardized",1,"Male",5.29601919229
+28,"diabetes_fpg",4673,"Yucatán",1999,27,"Age-standardized",2,"Female",5.37100018251
+28,"diabetes_fpg",4674,"Zacatecas",1999,27,"Age-standardized",1,"Male",5.52320864309
+28,"diabetes_fpg",4674,"Zacatecas",1999,27,"Age-standardized",2,"Female",5.57411919405
+28,"diabetes_fpg",130,"Mexico",2000,27,"Age-standardized",1,"Male",5.32334859503
+28,"diabetes_fpg",130,"Mexico",2000,27,"Age-standardized",2,"Female",5.51956388311
+28,"diabetes_fpg",4643,"Aguascalientes",2000,27,"Age-standardized",1,"Male",5.46822673209
+28,"diabetes_fpg",4643,"Aguascalientes",2000,27,"Age-standardized",2,"Female",5.46787624909
+28,"diabetes_fpg",4644,"Baja California",2000,27,"Age-standardized",1,"Male",5.40606629516
+28,"diabetes_fpg",4644,"Baja California",2000,27,"Age-standardized",2,"Female",5.53347654046
+28,"diabetes_fpg",4645,"Baja California Sur",2000,27,"Age-standardized",1,"Male",5.40691301008
+28,"diabetes_fpg",4645,"Baja California Sur",2000,27,"Age-standardized",2,"Female",5.49898289396
+28,"diabetes_fpg",4646,"Campeche",2000,27,"Age-standardized",1,"Male",5.69175704747
+28,"diabetes_fpg",4646,"Campeche",2000,27,"Age-standardized",2,"Female",5.7077722313
+28,"diabetes_fpg",4647,"Coahuila",2000,27,"Age-standardized",1,"Male",5.34340017656
+28,"diabetes_fpg",4647,"Coahuila",2000,27,"Age-standardized",2,"Female",5.61900160559
+28,"diabetes_fpg",4648,"Colima",2000,27,"Age-standardized",1,"Male",5.4506801685
+28,"diabetes_fpg",4648,"Colima",2000,27,"Age-standardized",2,"Female",5.68623336487
+28,"diabetes_fpg",4649,"Chiapas",2000,27,"Age-standardized",1,"Male",4.9864193211
+28,"diabetes_fpg",4649,"Chiapas",2000,27,"Age-standardized",2,"Female",5.21259665073
+28,"diabetes_fpg",4650,"Chihuahua",2000,27,"Age-standardized",1,"Male",5.29491602767
+28,"diabetes_fpg",4650,"Chihuahua",2000,27,"Age-standardized",2,"Female",5.41855110265
+28,"diabetes_fpg",4651,"Mexico City",2000,27,"Age-standardized",1,"Male",5.23105721175
+28,"diabetes_fpg",4651,"Mexico City",2000,27,"Age-standardized",2,"Female",5.38911993241
+28,"diabetes_fpg",4652,"Durango",2000,27,"Age-standardized",1,"Male",5.45617317453
+28,"diabetes_fpg",4652,"Durango",2000,27,"Age-standardized",2,"Female",5.30027717812
+28,"diabetes_fpg",4653,"Guanajuato",2000,27,"Age-standardized",1,"Male",5.35161631012
+28,"diabetes_fpg",4653,"Guanajuato",2000,27,"Age-standardized",2,"Female",5.74058475676
+28,"diabetes_fpg",4654,"Guerrero",2000,27,"Age-standardized",1,"Male",5.24437851121
+28,"diabetes_fpg",4654,"Guerrero",2000,27,"Age-standardized",2,"Female",5.39711239969
+28,"diabetes_fpg",4655,"Hidalgo",2000,27,"Age-standardized",1,"Male",5.21088216879
+28,"diabetes_fpg",4655,"Hidalgo",2000,27,"Age-standardized",2,"Female",5.58786641791
+28,"diabetes_fpg",4656,"Jalisco",2000,27,"Age-standardized",1,"Male",5.57181639411
+28,"diabetes_fpg",4656,"Jalisco",2000,27,"Age-standardized",2,"Female",5.72197302257
+28,"diabetes_fpg",4657,"México",2000,27,"Age-standardized",1,"Male",5.03948063447
+28,"diabetes_fpg",4657,"México",2000,27,"Age-standardized",2,"Female",5.25771498195
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",1,"Male",5.19669297113
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",2,"Female",5.50782615943
+28,"diabetes_fpg",4659,"Morelos",2000,27,"Age-standardized",1,"Male",5.47380958084
+28,"diabetes_fpg",4659,"Morelos",2000,27,"Age-standardized",2,"Female",5.65604680751
+28,"diabetes_fpg",4660,"Nayarit",2000,27,"Age-standardized",1,"Male",5.39252292293
+28,"diabetes_fpg",4660,"Nayarit",2000,27,"Age-standardized",2,"Female",5.39408620553
+28,"diabetes_fpg",4661,"Nuevo León",2000,27,"Age-standardized",1,"Male",5.50608481693
+28,"diabetes_fpg",4661,"Nuevo León",2000,27,"Age-standardized",2,"Female",5.85410650492
+28,"diabetes_fpg",4662,"Oaxaca",2000,27,"Age-standardized",1,"Male",5.48115975479
+28,"diabetes_fpg",4662,"Oaxaca",2000,27,"Age-standardized",2,"Female",5.30526262807
+28,"diabetes_fpg",4663,"Puebla",2000,27,"Age-standardized",1,"Male",5.516095695
+28,"diabetes_fpg",4663,"Puebla",2000,27,"Age-standardized",2,"Female",5.43876465564
+28,"diabetes_fpg",4664,"Querétaro",2000,27,"Age-standardized",1,"Male",5.26553984011
+28,"diabetes_fpg",4664,"Querétaro",2000,27,"Age-standardized",2,"Female",5.51154599835
+28,"diabetes_fpg",4665,"Quintana Roo",2000,27,"Age-standardized",1,"Male",5.26154001991
+28,"diabetes_fpg",4665,"Quintana Roo",2000,27,"Age-standardized",2,"Female",5.65815000287
+28,"diabetes_fpg",4666,"San Luis Potosí",2000,27,"Age-standardized",1,"Male",5.30130324979
+28,"diabetes_fpg",4666,"San Luis Potosí",2000,27,"Age-standardized",2,"Female",5.41751311217
+28,"diabetes_fpg",4667,"Sinaloa",2000,27,"Age-standardized",1,"Male",5.39301263608
+28,"diabetes_fpg",4667,"Sinaloa",2000,27,"Age-standardized",2,"Female",5.44025579432
+28,"diabetes_fpg",4668,"Sonora",2000,27,"Age-standardized",1,"Male",5.20457984774
+28,"diabetes_fpg",4668,"Sonora",2000,27,"Age-standardized",2,"Female",5.52747510795
+28,"diabetes_fpg",4669,"Tabasco",2000,27,"Age-standardized",1,"Male",5.5001079097
+28,"diabetes_fpg",4669,"Tabasco",2000,27,"Age-standardized",2,"Female",5.52285016692
+28,"diabetes_fpg",4670,"Tamaulipas",2000,27,"Age-standardized",1,"Male",5.27035148319
+28,"diabetes_fpg",4670,"Tamaulipas",2000,27,"Age-standardized",2,"Female",6.01599024891
+28,"diabetes_fpg",4671,"Tlaxcala",2000,27,"Age-standardized",1,"Male",5.30321851645
+28,"diabetes_fpg",4671,"Tlaxcala",2000,27,"Age-standardized",2,"Female",5.42693581725
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",1,"Male",5.5507814432
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",2,"Female",5.88102605656
+28,"diabetes_fpg",4673,"Yucatán",2000,27,"Age-standardized",1,"Male",5.28732569679
+28,"diabetes_fpg",4673,"Yucatán",2000,27,"Age-standardized",2,"Female",5.37448211411
+28,"diabetes_fpg",4674,"Zacatecas",2000,27,"Age-standardized",1,"Male",5.52284057514
+28,"diabetes_fpg",4674,"Zacatecas",2000,27,"Age-standardized",2,"Female",5.57755540231
+28,"diabetes_fpg",130,"Mexico",2001,27,"Age-standardized",1,"Male",5.32485655425
+28,"diabetes_fpg",130,"Mexico",2001,27,"Age-standardized",2,"Female",5.52968442241
+28,"diabetes_fpg",4643,"Aguascalientes",2001,27,"Age-standardized",1,"Male",5.4577294236
+28,"diabetes_fpg",4643,"Aguascalientes",2001,27,"Age-standardized",2,"Female",5.46669422966
+28,"diabetes_fpg",4644,"Baja California",2001,27,"Age-standardized",1,"Male",5.39865479009
+28,"diabetes_fpg",4644,"Baja California",2001,27,"Age-standardized",2,"Female",5.54270950521
+28,"diabetes_fpg",4645,"Baja California Sur",2001,27,"Age-standardized",1,"Male",5.39350011501
+28,"diabetes_fpg",4645,"Baja California Sur",2001,27,"Age-standardized",2,"Female",5.50361450137
+28,"diabetes_fpg",4646,"Campeche",2001,27,"Age-standardized",1,"Male",5.68592057517
+28,"diabetes_fpg",4646,"Campeche",2001,27,"Age-standardized",2,"Female",5.71876260818
+28,"diabetes_fpg",4647,"Coahuila",2001,27,"Age-standardized",1,"Male",5.33645565157
+28,"diabetes_fpg",4647,"Coahuila",2001,27,"Age-standardized",2,"Female",5.62120839665
+28,"diabetes_fpg",4648,"Colima",2001,27,"Age-standardized",1,"Male",5.44461203486
+28,"diabetes_fpg",4648,"Colima",2001,27,"Age-standardized",2,"Female",5.69220407502
+28,"diabetes_fpg",4649,"Chiapas",2001,27,"Age-standardized",1,"Male",4.98314945175
+28,"diabetes_fpg",4649,"Chiapas",2001,27,"Age-standardized",2,"Female",5.22483155711
+28,"diabetes_fpg",4650,"Chihuahua",2001,27,"Age-standardized",1,"Male",5.28978909429
+28,"diabetes_fpg",4650,"Chihuahua",2001,27,"Age-standardized",2,"Female",5.42557581629
+28,"diabetes_fpg",4651,"Mexico City",2001,27,"Age-standardized",1,"Male",5.2361339879
+28,"diabetes_fpg",4651,"Mexico City",2001,27,"Age-standardized",2,"Female",5.39221763553
+28,"diabetes_fpg",4652,"Durango",2001,27,"Age-standardized",1,"Male",5.4465706572
+28,"diabetes_fpg",4652,"Durango",2001,27,"Age-standardized",2,"Female",5.29928411709
+28,"diabetes_fpg",4653,"Guanajuato",2001,27,"Age-standardized",1,"Male",5.34559419924
+28,"diabetes_fpg",4653,"Guanajuato",2001,27,"Age-standardized",2,"Female",5.74150137698
+28,"diabetes_fpg",4654,"Guerrero",2001,27,"Age-standardized",1,"Male",5.23850019807
+28,"diabetes_fpg",4654,"Guerrero",2001,27,"Age-standardized",2,"Female",5.40185791979
+28,"diabetes_fpg",4655,"Hidalgo",2001,27,"Age-standardized",1,"Male",5.20238666785
+28,"diabetes_fpg",4655,"Hidalgo",2001,27,"Age-standardized",2,"Female",5.5969946214
+28,"diabetes_fpg",4656,"Jalisco",2001,27,"Age-standardized",1,"Male",5.56389659174
+28,"diabetes_fpg",4656,"Jalisco",2001,27,"Age-standardized",2,"Female",5.72548867749
+28,"diabetes_fpg",4657,"México",2001,27,"Age-standardized",1,"Male",5.09048576407
+28,"diabetes_fpg",4657,"México",2001,27,"Age-standardized",2,"Female",5.2993150405
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",1,"Male",5.18852102858
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",2,"Female",5.5144714787
+28,"diabetes_fpg",4659,"Morelos",2001,27,"Age-standardized",1,"Male",5.46417891422
+28,"diabetes_fpg",4659,"Morelos",2001,27,"Age-standardized",2,"Female",5.65626544775
+28,"diabetes_fpg",4660,"Nayarit",2001,27,"Age-standardized",1,"Male",5.38644711115
+28,"diabetes_fpg",4660,"Nayarit",2001,27,"Age-standardized",2,"Female",5.40296240838
+28,"diabetes_fpg",4661,"Nuevo León",2001,27,"Age-standardized",1,"Male",5.495827064
+28,"diabetes_fpg",4661,"Nuevo León",2001,27,"Age-standardized",2,"Female",5.8633500486
+28,"diabetes_fpg",4662,"Oaxaca",2001,27,"Age-standardized",1,"Male",5.47268877379
+28,"diabetes_fpg",4662,"Oaxaca",2001,27,"Age-standardized",2,"Female",5.31251725276
+28,"diabetes_fpg",4663,"Puebla",2001,27,"Age-standardized",1,"Male",5.50806075093
+28,"diabetes_fpg",4663,"Puebla",2001,27,"Age-standardized",2,"Female",5.44355690295
+28,"diabetes_fpg",4664,"Querétaro",2001,27,"Age-standardized",1,"Male",5.25860639899
+28,"diabetes_fpg",4664,"Querétaro",2001,27,"Age-standardized",2,"Female",5.50856976226
+28,"diabetes_fpg",4665,"Quintana Roo",2001,27,"Age-standardized",1,"Male",5.25325459423
+28,"diabetes_fpg",4665,"Quintana Roo",2001,27,"Age-standardized",2,"Female",5.66841928679
+28,"diabetes_fpg",4666,"San Luis Potosí",2001,27,"Age-standardized",1,"Male",5.29907210142
+28,"diabetes_fpg",4666,"San Luis Potosí",2001,27,"Age-standardized",2,"Female",5.43838517248
+28,"diabetes_fpg",4667,"Sinaloa",2001,27,"Age-standardized",1,"Male",5.38139873163
+28,"diabetes_fpg",4667,"Sinaloa",2001,27,"Age-standardized",2,"Female",5.43900205649
+28,"diabetes_fpg",4668,"Sonora",2001,27,"Age-standardized",1,"Male",5.19551758479
+28,"diabetes_fpg",4668,"Sonora",2001,27,"Age-standardized",2,"Female",5.5336222624
+28,"diabetes_fpg",4669,"Tabasco",2001,27,"Age-standardized",1,"Male",5.49198109603
+28,"diabetes_fpg",4669,"Tabasco",2001,27,"Age-standardized",2,"Female",5.53921078389
+28,"diabetes_fpg",4670,"Tamaulipas",2001,27,"Age-standardized",1,"Male",5.25964770363
+28,"diabetes_fpg",4670,"Tamaulipas",2001,27,"Age-standardized",2,"Female",6.02318307317
+28,"diabetes_fpg",4671,"Tlaxcala",2001,27,"Age-standardized",1,"Male",5.29713154738
+28,"diabetes_fpg",4671,"Tlaxcala",2001,27,"Age-standardized",2,"Female",5.43550227322
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",1,"Male",5.54346381757
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",2,"Female",5.88118211019
+28,"diabetes_fpg",4673,"Yucatán",2001,27,"Age-standardized",1,"Male",5.27435149723
+28,"diabetes_fpg",4673,"Yucatán",2001,27,"Age-standardized",2,"Female",5.37694253647
+28,"diabetes_fpg",4674,"Zacatecas",2001,27,"Age-standardized",1,"Male",5.5191580053
+28,"diabetes_fpg",4674,"Zacatecas",2001,27,"Age-standardized",2,"Female",5.58194044597
+28,"diabetes_fpg",130,"Mexico",2002,27,"Age-standardized",1,"Male",5.32677267579
+28,"diabetes_fpg",130,"Mexico",2002,27,"Age-standardized",2,"Female",5.5402296879
+28,"diabetes_fpg",4643,"Aguascalientes",2002,27,"Age-standardized",1,"Male",5.44766739045
+28,"diabetes_fpg",4643,"Aguascalientes",2002,27,"Age-standardized",2,"Female",5.46592022936
+28,"diabetes_fpg",4644,"Baja California",2002,27,"Age-standardized",1,"Male",5.39166962685
+28,"diabetes_fpg",4644,"Baja California",2002,27,"Age-standardized",2,"Female",5.55230867848
+28,"diabetes_fpg",4645,"Baja California Sur",2002,27,"Age-standardized",1,"Male",5.38057208749
+28,"diabetes_fpg",4645,"Baja California Sur",2002,27,"Age-standardized",2,"Female",5.50851224453
+28,"diabetes_fpg",4646,"Campeche",2002,27,"Age-standardized",1,"Male",5.68054663692
+28,"diabetes_fpg",4646,"Campeche",2002,27,"Age-standardized",2,"Female",5.73024896278
+28,"diabetes_fpg",4647,"Coahuila",2002,27,"Age-standardized",1,"Male",5.32993090457
+28,"diabetes_fpg",4647,"Coahuila",2002,27,"Age-standardized",2,"Female",5.623912634
+28,"diabetes_fpg",4648,"Colima",2002,27,"Age-standardized",1,"Male",5.43896045313
+28,"diabetes_fpg",4648,"Colima",2002,27,"Age-standardized",2,"Female",5.69868932476
+28,"diabetes_fpg",4649,"Chiapas",2002,27,"Age-standardized",1,"Male",4.98030256763
+28,"diabetes_fpg",4649,"Chiapas",2002,27,"Age-standardized",2,"Female",5.23738028597
+28,"diabetes_fpg",4650,"Chihuahua",2002,27,"Age-standardized",1,"Male",5.28503976288
+28,"diabetes_fpg",4650,"Chihuahua",2002,27,"Age-standardized",2,"Female",5.43295829151
+28,"diabetes_fpg",4651,"Mexico City",2002,27,"Age-standardized",1,"Male",5.24163897665
+28,"diabetes_fpg",4651,"Mexico City",2002,27,"Age-standardized",2,"Female",5.39585729259
+28,"diabetes_fpg",4652,"Durango",2002,27,"Age-standardized",1,"Male",5.43742634587
+28,"diabetes_fpg",4652,"Durango",2002,27,"Age-standardized",2,"Female",5.2987328212
+28,"diabetes_fpg",4653,"Guanajuato",2002,27,"Age-standardized",1,"Male",5.34000320507
+28,"diabetes_fpg",4653,"Guanajuato",2002,27,"Age-standardized",2,"Female",5.74306547978
+28,"diabetes_fpg",4654,"Guerrero",2002,27,"Age-standardized",1,"Male",5.23305258288
+28,"diabetes_fpg",4654,"Guerrero",2002,27,"Age-standardized",2,"Female",5.40718128556
+28,"diabetes_fpg",4655,"Hidalgo",2002,27,"Age-standardized",1,"Male",5.19431927576
+28,"diabetes_fpg",4655,"Hidalgo",2002,27,"Age-standardized",2,"Female",5.60655907287
+28,"diabetes_fpg",4656,"Jalisco",2002,27,"Age-standardized",1,"Male",5.55639167986
+28,"diabetes_fpg",4656,"Jalisco",2002,27,"Age-standardized",2,"Female",5.72933661693
+28,"diabetes_fpg",4657,"México",2002,27,"Age-standardized",1,"Male",5.14239801884
+28,"diabetes_fpg",4657,"México",2002,27,"Age-standardized",2,"Female",5.34163923581
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",1,"Male",5.18074449613
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",2,"Female",5.52141446357
+28,"diabetes_fpg",4659,"Morelos",2002,27,"Age-standardized",1,"Male",5.45494971091
+28,"diabetes_fpg",4659,"Morelos",2002,27,"Age-standardized",2,"Female",5.65686991016
+28,"diabetes_fpg",4660,"Nayarit",2002,27,"Age-standardized",1,"Male",5.38082716215
+28,"diabetes_fpg",4660,"Nayarit",2002,27,"Age-standardized",2,"Female",5.41231150582
+28,"diabetes_fpg",4661,"Nuevo León",2002,27,"Age-standardized",1,"Male",5.48603585134
+28,"diabetes_fpg",4661,"Nuevo León",2002,27,"Age-standardized",2,"Female",5.87297077088
+28,"diabetes_fpg",4662,"Oaxaca",2002,27,"Age-standardized",1,"Male",5.46465768762
+28,"diabetes_fpg",4662,"Oaxaca",2002,27,"Age-standardized",2,"Female",5.3202340658
+28,"diabetes_fpg",4663,"Puebla",2002,27,"Age-standardized",1,"Male",5.50046695284
+28,"diabetes_fpg",4663,"Puebla",2002,27,"Age-standardized",2,"Female",5.4488527989
+28,"diabetes_fpg",4664,"Querétaro",2002,27,"Age-standardized",1,"Male",5.25209866591
+28,"diabetes_fpg",4664,"Querétaro",2002,27,"Age-standardized",2,"Female",5.50598659956
+28,"diabetes_fpg",4665,"Quintana Roo",2002,27,"Age-standardized",1,"Male",5.2454064809
+28,"diabetes_fpg",4665,"Quintana Roo",2002,27,"Age-standardized",2,"Female",5.67902494423
+28,"diabetes_fpg",4666,"San Luis Potosí",2002,27,"Age-standardized",1,"Male",5.29723995494
+28,"diabetes_fpg",4666,"San Luis Potosí",2002,27,"Age-standardized",2,"Female",5.45966150263
+28,"diabetes_fpg",4667,"Sinaloa",2002,27,"Age-standardized",1,"Male",5.37017079606
+28,"diabetes_fpg",4667,"Sinaloa",2002,27,"Age-standardized",2,"Female",5.43804247847
+28,"diabetes_fpg",4668,"Sonora",2002,27,"Age-standardized",1,"Male",5.18689979102
+28,"diabetes_fpg",4668,"Sonora",2002,27,"Age-standardized",2,"Female",5.54017473345
+28,"diabetes_fpg",4669,"Tabasco",2002,27,"Age-standardized",1,"Male",5.48430978485
+28,"diabetes_fpg",4669,"Tabasco",2002,27,"Age-standardized",2,"Female",5.55602537402
+28,"diabetes_fpg",4670,"Tamaulipas",2002,27,"Age-standardized",1,"Male",5.2493721623
+28,"diabetes_fpg",4670,"Tamaulipas",2002,27,"Age-standardized",2,"Female",6.03066621405
+28,"diabetes_fpg",4671,"Tlaxcala",2002,27,"Age-standardized",1,"Male",5.2914314531
+28,"diabetes_fpg",4671,"Tlaxcala",2002,27,"Age-standardized",2,"Female",5.44441313505
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",1,"Male",5.53659526534
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",2,"Female",5.88176492013
+28,"diabetes_fpg",4673,"Yucatán",2002,27,"Age-standardized",1,"Male",5.26184643406
+28,"diabetes_fpg",4673,"Yucatán",2002,27,"Age-standardized",2,"Female",5.37983804687
+28,"diabetes_fpg",4674,"Zacatecas",2002,27,"Age-standardized",1,"Male",5.51590020805
+28,"diabetes_fpg",4674,"Zacatecas",2002,27,"Age-standardized",2,"Female",5.58668762196
+28,"diabetes_fpg",130,"Mexico",2003,27,"Age-standardized",1,"Male",5.32899706835
+28,"diabetes_fpg",130,"Mexico",2003,27,"Age-standardized",2,"Female",5.5510728251
+28,"diabetes_fpg",4643,"Aguascalientes",2003,27,"Age-standardized",1,"Male",5.43793511954
+28,"diabetes_fpg",4643,"Aguascalientes",2003,27,"Age-standardized",2,"Female",5.4654880607
+28,"diabetes_fpg",4644,"Baja California",2003,27,"Age-standardized",1,"Male",5.38501930089
+28,"diabetes_fpg",4644,"Baja California",2003,27,"Age-standardized",2,"Female",5.56215696221
+28,"diabetes_fpg",4645,"Baja California Sur",2003,27,"Age-standardized",1,"Male",5.36802571633
+28,"diabetes_fpg",4645,"Baja California Sur",2003,27,"Age-standardized",2,"Female",5.51362999161
+28,"diabetes_fpg",4646,"Campeche",2003,27,"Age-standardized",1,"Male",5.67553148896
+28,"diabetes_fpg",4646,"Campeche",2003,27,"Age-standardized",2,"Female",5.74201415205
+28,"diabetes_fpg",4647,"Coahuila",2003,27,"Age-standardized",1,"Male",5.32372618717
+28,"diabetes_fpg",4647,"Coahuila",2003,27,"Age-standardized",2,"Female",5.62691394285
+28,"diabetes_fpg",4648,"Colima",2003,27,"Age-standardized",1,"Male",5.43361700978
+28,"diabetes_fpg",4648,"Colima",2003,27,"Age-standardized",2,"Female",5.70549728284
+28,"diabetes_fpg",4649,"Chiapas",2003,27,"Age-standardized",1,"Male",4.97778388978
+28,"diabetes_fpg",4649,"Chiapas",2003,27,"Age-standardized",2,"Female",5.25011942714
+28,"diabetes_fpg",4650,"Chihuahua",2003,27,"Age-standardized",1,"Male",5.2805809477
+28,"diabetes_fpg",4650,"Chihuahua",2003,27,"Age-standardized",2,"Female",5.44064499183
+28,"diabetes_fpg",4651,"Mexico City",2003,27,"Age-standardized",1,"Male",5.2474500373
+28,"diabetes_fpg",4651,"Mexico City",2003,27,"Age-standardized",2,"Female",5.39986665819
+28,"diabetes_fpg",4652,"Durango",2003,27,"Age-standardized",1,"Male",5.42863317885
+28,"diabetes_fpg",4652,"Durango",2003,27,"Age-standardized",2,"Female",5.29853482228
+28,"diabetes_fpg",4653,"Guanajuato",2003,27,"Age-standardized",1,"Male",5.33474821816
+28,"diabetes_fpg",4653,"Guanajuato",2003,27,"Age-standardized",2,"Female",5.74505580687
+28,"diabetes_fpg",4654,"Guerrero",2003,27,"Age-standardized",1,"Male",5.22793271085
+28,"diabetes_fpg",4654,"Guerrero",2003,27,"Age-standardized",2,"Female",5.41296984414
+28,"diabetes_fpg",4655,"Hidalgo",2003,27,"Age-standardized",1,"Male",5.1865783395
+28,"diabetes_fpg",4655,"Hidalgo",2003,27,"Age-standardized",2,"Female",5.61641622678
+28,"diabetes_fpg",4656,"Jalisco",2003,27,"Age-standardized",1,"Male",5.54921951627
+28,"diabetes_fpg",4656,"Jalisco",2003,27,"Age-standardized",2,"Female",5.73340106925
+28,"diabetes_fpg",4657,"México",2003,27,"Age-standardized",1,"Male",5.1951489143
+28,"diabetes_fpg",4657,"México",2003,27,"Age-standardized",2,"Female",5.3845629986
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",1,"Male",5.17326974643
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",2,"Female",5.52856686372
+28,"diabetes_fpg",4659,"Morelos",2003,27,"Age-standardized",1,"Male",5.4460328108
+28,"diabetes_fpg",4659,"Morelos",2003,27,"Age-standardized",2,"Female",5.65769928627
+28,"diabetes_fpg",4660,"Nayarit",2003,27,"Age-standardized",1,"Male",5.37556067528
+28,"diabetes_fpg",4660,"Nayarit",2003,27,"Age-standardized",2,"Female",5.42193545732
+28,"diabetes_fpg",4661,"Nuevo León",2003,27,"Age-standardized",1,"Male",5.47659825066
+28,"diabetes_fpg",4661,"Nuevo León",2003,27,"Age-standardized",2,"Female",5.8828994599
+28,"diabetes_fpg",4662,"Oaxaca",2003,27,"Age-standardized",1,"Male",5.45697115029
+28,"diabetes_fpg",4662,"Oaxaca",2003,27,"Age-standardized",2,"Female",5.32824430014
+28,"diabetes_fpg",4663,"Puebla",2003,27,"Age-standardized",1,"Male",5.49320492955
+28,"diabetes_fpg",4663,"Puebla",2003,27,"Age-standardized",2,"Female",5.45455569718
+28,"diabetes_fpg",4664,"Querétaro",2003,27,"Age-standardized",1,"Male",5.24591066657
+28,"diabetes_fpg",4664,"Querétaro",2003,27,"Age-standardized",2,"Female",5.50365654611
+28,"diabetes_fpg",4665,"Quintana Roo",2003,27,"Age-standardized",1,"Male",5.23790728089
+28,"diabetes_fpg",4665,"Quintana Roo",2003,27,"Age-standardized",2,"Female",5.68976397435
+28,"diabetes_fpg",4666,"San Luis Potosí",2003,27,"Age-standardized",1,"Male",5.29571304915
+28,"diabetes_fpg",4666,"San Luis Potosí",2003,27,"Age-standardized",2,"Female",5.48119730688
+28,"diabetes_fpg",4667,"Sinaloa",2003,27,"Age-standardized",1,"Male",5.35923028064
+28,"diabetes_fpg",4667,"Sinaloa",2003,27,"Age-standardized",2,"Female",5.43735577495
+28,"diabetes_fpg",4668,"Sonora",2003,27,"Age-standardized",1,"Male",5.17862247663
+28,"diabetes_fpg",4668,"Sonora",2003,27,"Age-standardized",2,"Female",5.54705087362
+28,"diabetes_fpg",4669,"Tabasco",2003,27,"Age-standardized",1,"Male",5.47699809943
+28,"diabetes_fpg",4669,"Tabasco",2003,27,"Age-standardized",2,"Female",5.57312960236
+28,"diabetes_fpg",4670,"Tamaulipas",2003,27,"Age-standardized",1,"Male",5.23941625323
+28,"diabetes_fpg",4670,"Tamaulipas",2003,27,"Age-standardized",2,"Female",6.03843354913
+28,"diabetes_fpg",4671,"Tlaxcala",2003,27,"Age-standardized",1,"Male",5.28601240923
+28,"diabetes_fpg",4671,"Tlaxcala",2003,27,"Age-standardized",2,"Female",5.45355160187
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",1,"Male",5.53007455726
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",2,"Female",5.88269046823
+28,"diabetes_fpg",4673,"Yucatán",2003,27,"Age-standardized",1,"Male",5.24971424239
+28,"diabetes_fpg",4673,"Yucatán",2003,27,"Age-standardized",2,"Female",5.38300925227
+28,"diabetes_fpg",4674,"Zacatecas",2003,27,"Age-standardized",1,"Male",5.51297785264
+28,"diabetes_fpg",4674,"Zacatecas",2003,27,"Age-standardized",2,"Female",5.59159634156
+28,"diabetes_fpg",130,"Mexico",2004,27,"Age-standardized",1,"Male",5.33135214122
+28,"diabetes_fpg",130,"Mexico",2004,27,"Age-standardized",2,"Female",5.56202421697
+28,"diabetes_fpg",4643,"Aguascalientes",2004,27,"Age-standardized",1,"Male",5.42836334032
+28,"diabetes_fpg",4643,"Aguascalientes",2004,27,"Age-standardized",2,"Female",5.46522879083
+28,"diabetes_fpg",4644,"Baja California",2004,27,"Age-standardized",1,"Male",5.37853054375
+28,"diabetes_fpg",4644,"Baja California",2004,27,"Age-standardized",2,"Female",5.57207653552
+28,"diabetes_fpg",4645,"Baja California Sur",2004,27,"Age-standardized",1,"Male",5.35568292741
+28,"diabetes_fpg",4645,"Baja California Sur",2004,27,"Age-standardized",2,"Female",5.51880476119
+28,"diabetes_fpg",4646,"Campeche",2004,27,"Age-standardized",1,"Male",5.6706829193
+28,"diabetes_fpg",4646,"Campeche",2004,27,"Age-standardized",2,"Female",5.75380879571
+28,"diabetes_fpg",4647,"Coahuila",2004,27,"Age-standardized",1,"Male",5.31766701686
+28,"diabetes_fpg",4647,"Coahuila",2004,27,"Age-standardized",2,"Female",5.62999287511
+28,"diabetes_fpg",4648,"Colima",2004,27,"Age-standardized",1,"Male",5.42842310703
+28,"diabetes_fpg",4648,"Colima",2004,27,"Age-standardized",2,"Female",5.71245925732
+28,"diabetes_fpg",4649,"Chiapas",2004,27,"Age-standardized",1,"Male",4.97542469688
+28,"diabetes_fpg",4649,"Chiapas",2004,27,"Age-standardized",2,"Female",5.26284785307
+28,"diabetes_fpg",4650,"Chihuahua",2004,27,"Age-standardized",1,"Male",5.27625358131
+28,"diabetes_fpg",4650,"Chihuahua",2004,27,"Age-standardized",2,"Female",5.44844431736
+28,"diabetes_fpg",4651,"Mexico City",2004,27,"Age-standardized",1,"Male",5.25336865507
+28,"diabetes_fpg",4651,"Mexico City",2004,27,"Age-standardized",2,"Female",5.40403545782
+28,"diabetes_fpg",4652,"Durango",2004,27,"Age-standardized",1,"Male",5.42000797451
+28,"diabetes_fpg",4652,"Durango",2004,27,"Age-standardized",2,"Female",5.29849094265
+28,"diabetes_fpg",4653,"Guanajuato",2004,27,"Age-standardized",1,"Male",5.32965088675
+28,"diabetes_fpg",4653,"Guanajuato",2004,27,"Age-standardized",2,"Female",5.74720722957
+28,"diabetes_fpg",4654,"Guerrero",2004,27,"Age-standardized",1,"Male",5.22295791576
+28,"diabetes_fpg",4654,"Guerrero",2004,27,"Age-standardized",2,"Female",5.4190265627
+28,"diabetes_fpg",4655,"Hidalgo",2004,27,"Age-standardized",1,"Male",5.17898922918
+28,"diabetes_fpg",4655,"Hidalgo",2004,27,"Age-standardized",2,"Female",5.62631444041
+28,"diabetes_fpg",4656,"Jalisco",2004,27,"Age-standardized",1,"Male",5.54221708475
+28,"diabetes_fpg",4656,"Jalisco",2004,27,"Age-standardized",2,"Female",5.7375487544
+28,"diabetes_fpg",4657,"México",2004,27,"Age-standardized",1,"Male",5.24858686545
+28,"diabetes_fpg",4657,"México",2004,27,"Age-standardized",2,"Female",5.42791630552
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",1,"Male",5.16593440553
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",2,"Female",5.53578301697
+28,"diabetes_fpg",4659,"Morelos",2004,27,"Age-standardized",1,"Male",5.43726927092
+28,"diabetes_fpg",4659,"Morelos",2004,27,"Age-standardized",2,"Female",5.65856797191
+28,"diabetes_fpg",4660,"Nayarit",2004,27,"Age-standardized",1,"Male",5.37047437793
+28,"diabetes_fpg",4660,"Nayarit",2004,27,"Age-standardized",2,"Female",5.43164884907
+28,"diabetes_fpg",4661,"Nuevo León",2004,27,"Age-standardized",1,"Male",5.46732787701
+28,"diabetes_fpg",4661,"Nuevo León",2004,27,"Age-standardized",2,"Female",5.89299635708
+28,"diabetes_fpg",4662,"Oaxaca",2004,27,"Age-standardized",1,"Male",5.44945751963
+28,"diabetes_fpg",4662,"Oaxaca",2004,27,"Age-standardized",2,"Female",5.33631053238
+28,"diabetes_fpg",4663,"Puebla",2004,27,"Age-standardized",1,"Male",5.48609865882
+28,"diabetes_fpg",4663,"Puebla",2004,27,"Age-standardized",2,"Female",5.46047286483
+28,"diabetes_fpg",4664,"Querétaro",2004,27,"Age-standardized",1,"Male",5.23986628162
+28,"diabetes_fpg",4664,"Querétaro",2004,27,"Age-standardized",2,"Female",5.50140309404
+28,"diabetes_fpg",4665,"Quintana Roo",2004,27,"Age-standardized",1,"Male",5.23060206981
+28,"diabetes_fpg",4665,"Quintana Roo",2004,27,"Age-standardized",2,"Female",5.70043797508
+28,"diabetes_fpg",4666,"San Luis Potosí",2004,27,"Age-standardized",1,"Male",5.29432624919
+28,"diabetes_fpg",4666,"San Luis Potosí",2004,27,"Age-standardized",2,"Female",5.50282712146
+28,"diabetes_fpg",4667,"Sinaloa",2004,27,"Age-standardized",1,"Male",5.34841722503
+28,"diabetes_fpg",4667,"Sinaloa",2004,27,"Age-standardized",2,"Female",5.43680815812
+28,"diabetes_fpg",4668,"Sonora",2004,27,"Age-standardized",1,"Male",5.17052226186
+28,"diabetes_fpg",4668,"Sonora",2004,27,"Age-standardized",2,"Female",5.55407531325
+28,"diabetes_fpg",4669,"Tabasco",2004,27,"Age-standardized",1,"Male",5.46986142511
+28,"diabetes_fpg",4669,"Tabasco",2004,27,"Age-standardized",2,"Female",5.59028540642
+28,"diabetes_fpg",4670,"Tamaulipas",2004,27,"Age-standardized",1,"Male",5.2295988582
+28,"diabetes_fpg",4670,"Tamaulipas",2004,27,"Age-standardized",2,"Female",6.0463968722
+28,"diabetes_fpg",4671,"Tlaxcala",2004,27,"Age-standardized",1,"Male",5.28069015811
+28,"diabetes_fpg",4671,"Tlaxcala",2004,27,"Age-standardized",2,"Female",5.46273165781
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",1,"Male",5.52371087638
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",2,"Female",5.88377175691
+28,"diabetes_fpg",4673,"Yucatán",2004,27,"Age-standardized",1,"Male",5.23777792356
+28,"diabetes_fpg",4673,"Yucatán",2004,27,"Age-standardized",2,"Female",5.38623367346
+28,"diabetes_fpg",4674,"Zacatecas",2004,27,"Age-standardized",1,"Male",5.51021665369
+28,"diabetes_fpg",4674,"Zacatecas",2004,27,"Age-standardized",2,"Female",5.59642516998
+28,"diabetes_fpg",130,"Mexico",2005,27,"Age-standardized",1,"Male",5.3337261141
+28,"diabetes_fpg",130,"Mexico",2005,27,"Age-standardized",2,"Female",5.57293139602
+28,"diabetes_fpg",4643,"Aguascalientes",2005,27,"Age-standardized",1,"Male",5.4188538373
+28,"diabetes_fpg",4643,"Aguascalientes",2005,27,"Age-standardized",2,"Female",5.46493417592
+28,"diabetes_fpg",4644,"Baja California",2005,27,"Age-standardized",1,"Male",5.37208498178
+28,"diabetes_fpg",4644,"Baja California",2005,27,"Age-standardized",2,"Female",5.58192890192
+28,"diabetes_fpg",4645,"Baja California Sur",2005,27,"Age-standardized",1,"Male",5.34343139325
+28,"diabetes_fpg",4645,"Baja California Sur",2005,27,"Age-standardized",2,"Female",5.52389854011
+28,"diabetes_fpg",4646,"Campeche",2005,27,"Age-standardized",1,"Male",5.66587806878
+28,"diabetes_fpg",4646,"Campeche",2005,27,"Age-standardized",2,"Female",5.76547098997
+28,"diabetes_fpg",4647,"Coahuila",2005,27,"Age-standardized",1,"Male",5.31163954473
+28,"diabetes_fpg",4647,"Coahuila",2005,27,"Age-standardized",2,"Female",5.6329531307
+28,"diabetes_fpg",4648,"Colima",2005,27,"Age-standardized",1,"Male",5.42328192864
+28,"diabetes_fpg",4648,"Colima",2005,27,"Age-standardized",2,"Female",5.71943107381
+28,"diabetes_fpg",4649,"Chiapas",2005,27,"Age-standardized",1,"Male",4.97310933161
+28,"diabetes_fpg",4649,"Chiapas",2005,27,"Age-standardized",2,"Female",5.27545393833
+28,"diabetes_fpg",4650,"Chihuahua",2005,27,"Age-standardized",1,"Male",5.27195002376
+28,"diabetes_fpg",4650,"Chihuahua",2005,27,"Age-standardized",2,"Female",5.45614890963
+28,"diabetes_fpg",4651,"Mexico City",2005,27,"Age-standardized",1,"Male",5.25927603384
+28,"diabetes_fpg",4651,"Mexico City",2005,27,"Age-standardized",2,"Female",5.40818211436
+28,"diabetes_fpg",4652,"Durango",2005,27,"Age-standardized",1,"Male",5.41143934421
+28,"diabetes_fpg",4652,"Durango",2005,27,"Age-standardized",2,"Female",5.29842146584
+28,"diabetes_fpg",4653,"Guanajuato",2005,27,"Age-standardized",1,"Male",5.32459037683
+28,"diabetes_fpg",4653,"Guanajuato",2005,27,"Age-standardized",2,"Female",5.74930599209
+28,"diabetes_fpg",4654,"Guerrero",2005,27,"Age-standardized",1,"Male",5.21800895438
+28,"diabetes_fpg",4654,"Guerrero",2005,27,"Age-standardized",2,"Female",5.42519481112
+28,"diabetes_fpg",4655,"Hidalgo",2005,27,"Age-standardized",1,"Male",5.17144602744
+28,"diabetes_fpg",4655,"Hidalgo",2005,27,"Age-standardized",2,"Female",5.63606780768
+28,"diabetes_fpg",4656,"Jalisco",2005,27,"Age-standardized",1,"Male",5.53527592442
+28,"diabetes_fpg",4656,"Jalisco",2005,27,"Age-standardized",2,"Female",5.74169531529
+28,"diabetes_fpg",4657,"México",2005,27,"Age-standardized",1,"Male",5.30262713143
+28,"diabetes_fpg",4657,"México",2005,27,"Age-standardized",2,"Female",5.47157173235
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",1,"Male",5.15863377788
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",2,"Female",5.54294613606
+28,"diabetes_fpg",4659,"Morelos",2005,27,"Age-standardized",1,"Male",5.42855444587
+28,"diabetes_fpg",4659,"Morelos",2005,27,"Age-standardized",2,"Female",5.65931615905
+28,"diabetes_fpg",4660,"Nayarit",2005,27,"Age-standardized",1,"Male",5.36545078595
+28,"diabetes_fpg",4660,"Nayarit",2005,27,"Age-standardized",2,"Female",5.44134012766
+28,"diabetes_fpg",4661,"Nuevo León",2005,27,"Age-standardized",1,"Male",5.45811034497
+28,"diabetes_fpg",4661,"Nuevo León",2005,27,"Age-standardized",2,"Female",5.90311215681
+28,"diabetes_fpg",4662,"Oaxaca",2005,27,"Age-standardized",1,"Male",5.44200537514
+28,"diabetes_fpg",4662,"Oaxaca",2005,27,"Age-standardized",2,"Female",5.34430213392
+28,"diabetes_fpg",4663,"Puebla",2005,27,"Age-standardized",1,"Male",5.47903981352
+28,"diabetes_fpg",4663,"Puebla",2005,27,"Age-standardized",2,"Female",5.46644260898
+28,"diabetes_fpg",4664,"Querétaro",2005,27,"Age-standardized",1,"Male",5.23385691402
+28,"diabetes_fpg",4664,"Querétaro",2005,27,"Age-standardized",2,"Female",5.49904831578
+28,"diabetes_fpg",4665,"Quintana Roo",2005,27,"Age-standardized",1,"Male",5.2233891996
+28,"diabetes_fpg",4665,"Quintana Roo",2005,27,"Age-standardized",2,"Female",5.71093865474
+28,"diabetes_fpg",4666,"San Luis Potosí",2005,27,"Age-standardized",1,"Male",5.29297196056
+28,"diabetes_fpg",4666,"San Luis Potosí",2005,27,"Age-standardized",2,"Female",5.52447216883
+28,"diabetes_fpg",4667,"Sinaloa",2005,27,"Age-standardized",1,"Male",5.33764111029
+28,"diabetes_fpg",4667,"Sinaloa",2005,27,"Age-standardized",2,"Female",5.43626062669
+28,"diabetes_fpg",4668,"Sonora",2005,27,"Age-standardized",1,"Male",5.16248970452
+28,"diabetes_fpg",4668,"Sonora",2005,27,"Age-standardized",2,"Female",5.5610988044
+28,"diabetes_fpg",4669,"Tabasco",2005,27,"Age-standardized",1,"Male",5.46277401292
+28,"diabetes_fpg",4669,"Tabasco",2005,27,"Age-standardized",2,"Female",5.60734059302
+28,"diabetes_fpg",4670,"Tamaulipas",2005,27,"Age-standardized",1,"Male",5.21980540627
+28,"diabetes_fpg",4670,"Tamaulipas",2005,27,"Age-standardized",2,"Female",6.05443636881
+28,"diabetes_fpg",4671,"Tlaxcala",2005,27,"Age-standardized",1,"Male",5.27534944381
+28,"diabetes_fpg",4671,"Tlaxcala",2005,27,"Age-standardized",2,"Female",5.47181173376
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",1,"Male",5.51738212366
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",2,"Female",5.88484594645
+28,"diabetes_fpg",4673,"Yucatán",2005,27,"Age-standardized",1,"Male",5.22592313369
+28,"diabetes_fpg",4673,"Yucatán",2005,27,"Age-standardized",2,"Female",5.38934012265
+28,"diabetes_fpg",4674,"Zacatecas",2005,27,"Age-standardized",1,"Male",5.50750170839
+28,"diabetes_fpg",4674,"Zacatecas",2005,27,"Age-standardized",2,"Female",5.60102137748
+28,"diabetes_fpg",130,"Mexico",2006,27,"Age-standardized",1,"Male",5.32958888254
+28,"diabetes_fpg",130,"Mexico",2006,27,"Age-standardized",2,"Female",5.59254131941
+28,"diabetes_fpg",4643,"Aguascalientes",2006,27,"Age-standardized",1,"Male",5.40924737167
+28,"diabetes_fpg",4643,"Aguascalientes",2006,27,"Age-standardized",2,"Female",5.48030190234
+28,"diabetes_fpg",4644,"Baja California",2006,27,"Age-standardized",1,"Male",5.36266400935
+28,"diabetes_fpg",4644,"Baja California",2006,27,"Age-standardized",2,"Female",5.59754097609
+28,"diabetes_fpg",4645,"Baja California Sur",2006,27,"Age-standardized",1,"Male",5.32971777378
+28,"diabetes_fpg",4645,"Baja California Sur",2006,27,"Age-standardized",2,"Female",5.54225849035
+28,"diabetes_fpg",4646,"Campeche",2006,27,"Age-standardized",1,"Male",5.65944469551
+28,"diabetes_fpg",4646,"Campeche",2006,27,"Age-standardized",2,"Female",5.78272116771
+28,"diabetes_fpg",4647,"Coahuila",2006,27,"Age-standardized",1,"Male",5.30461833343
+28,"diabetes_fpg",4647,"Coahuila",2006,27,"Age-standardized",2,"Female",5.64974702334
+28,"diabetes_fpg",4648,"Colima",2006,27,"Age-standardized",1,"Male",5.41664577897
+28,"diabetes_fpg",4648,"Colima",2006,27,"Age-standardized",2,"Female",5.74306450033
+28,"diabetes_fpg",4649,"Chiapas",2006,27,"Age-standardized",1,"Male",4.96970415547
+28,"diabetes_fpg",4649,"Chiapas",2006,27,"Age-standardized",2,"Female",5.2898268481
+28,"diabetes_fpg",4650,"Chihuahua",2006,27,"Age-standardized",1,"Male",5.26683727116
+28,"diabetes_fpg",4650,"Chihuahua",2006,27,"Age-standardized",2,"Female",5.46666200393
+28,"diabetes_fpg",4651,"Mexico City",2006,27,"Age-standardized",1,"Male",5.25647010086
+28,"diabetes_fpg",4651,"Mexico City",2006,27,"Age-standardized",2,"Female",5.42267017994
+28,"diabetes_fpg",4652,"Durango",2006,27,"Age-standardized",1,"Male",5.40258710751
+28,"diabetes_fpg",4652,"Durango",2006,27,"Age-standardized",2,"Female",5.30864210433
+28,"diabetes_fpg",4653,"Guanajuato",2006,27,"Age-standardized",1,"Male",5.31851719273
+28,"diabetes_fpg",4653,"Guanajuato",2006,27,"Age-standardized",2,"Female",5.76832833083
+28,"diabetes_fpg",4654,"Guerrero",2006,27,"Age-standardized",1,"Male",5.21357595049
+28,"diabetes_fpg",4654,"Guerrero",2006,27,"Age-standardized",2,"Female",5.44756470682
+28,"diabetes_fpg",4655,"Hidalgo",2006,27,"Age-standardized",1,"Male",5.16315597562
+28,"diabetes_fpg",4655,"Hidalgo",2006,27,"Age-standardized",2,"Female",5.65726743517
+28,"diabetes_fpg",4656,"Jalisco",2006,27,"Age-standardized",1,"Male",5.52808935566
+28,"diabetes_fpg",4656,"Jalisco",2006,27,"Age-standardized",2,"Female",5.76379351527
+28,"diabetes_fpg",4657,"México",2006,27,"Age-standardized",1,"Male",5.31445844463
+28,"diabetes_fpg",4657,"México",2006,27,"Age-standardized",2,"Female",5.50152411818
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",1,"Male",5.15038023887
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",2,"Female",5.5632508623
+28,"diabetes_fpg",4659,"Morelos",2006,27,"Age-standardized",1,"Male",5.42022849195
+28,"diabetes_fpg",4659,"Morelos",2006,27,"Age-standardized",2,"Female",5.67302809879
+28,"diabetes_fpg",4660,"Nayarit",2006,27,"Age-standardized",1,"Male",5.36017810237
+28,"diabetes_fpg",4660,"Nayarit",2006,27,"Age-standardized",2,"Female",5.45095017862
+28,"diabetes_fpg",4661,"Nuevo León",2006,27,"Age-standardized",1,"Male",5.44846220985
+28,"diabetes_fpg",4661,"Nuevo León",2006,27,"Age-standardized",2,"Female",5.92363912329
+28,"diabetes_fpg",4662,"Oaxaca",2006,27,"Age-standardized",1,"Male",5.43583934935
+28,"diabetes_fpg",4662,"Oaxaca",2006,27,"Age-standardized",2,"Female",5.36143301676
+28,"diabetes_fpg",4663,"Puebla",2006,27,"Age-standardized",1,"Male",5.47237725298
+28,"diabetes_fpg",4663,"Puebla",2006,27,"Age-standardized",2,"Female",5.48732511863
+28,"diabetes_fpg",4664,"Querétaro",2006,27,"Age-standardized",1,"Male",5.22614954159
+28,"diabetes_fpg",4664,"Querétaro",2006,27,"Age-standardized",2,"Female",5.50554487526
+28,"diabetes_fpg",4665,"Quintana Roo",2006,27,"Age-standardized",1,"Male",5.21651706955
+28,"diabetes_fpg",4665,"Quintana Roo",2006,27,"Age-standardized",2,"Female",5.73143241491
+28,"diabetes_fpg",4666,"San Luis Potosí",2006,27,"Age-standardized",1,"Male",5.29239861306
+28,"diabetes_fpg",4666,"San Luis Potosí",2006,27,"Age-standardized",2,"Female",5.54333974237
+28,"diabetes_fpg",4667,"Sinaloa",2006,27,"Age-standardized",1,"Male",5.32642410671
+28,"diabetes_fpg",4667,"Sinaloa",2006,27,"Age-standardized",2,"Female",5.44904199587
+28,"diabetes_fpg",4668,"Sonora",2006,27,"Age-standardized",1,"Male",5.15127005316
+28,"diabetes_fpg",4668,"Sonora",2006,27,"Age-standardized",2,"Female",5.57701275131
+28,"diabetes_fpg",4669,"Tabasco",2006,27,"Age-standardized",1,"Male",5.45553270858
+28,"diabetes_fpg",4669,"Tabasco",2006,27,"Age-standardized",2,"Female",5.6286232052
+28,"diabetes_fpg",4670,"Tamaulipas",2006,27,"Age-standardized",1,"Male",5.20967438362
+28,"diabetes_fpg",4670,"Tamaulipas",2006,27,"Age-standardized",2,"Female",6.07848301858
+28,"diabetes_fpg",4671,"Tlaxcala",2006,27,"Age-standardized",1,"Male",5.2692473384
+28,"diabetes_fpg",4671,"Tlaxcala",2006,27,"Age-standardized",2,"Female",5.48611227802
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",1,"Male",5.5124045816
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",2,"Female",5.90805731837
+28,"diabetes_fpg",4673,"Yucatán",2006,27,"Age-standardized",1,"Male",5.21412080153
+28,"diabetes_fpg",4673,"Yucatán",2006,27,"Age-standardized",2,"Female",5.40251042614
+28,"diabetes_fpg",4674,"Zacatecas",2006,27,"Age-standardized",1,"Male",5.50448399196
+28,"diabetes_fpg",4674,"Zacatecas",2006,27,"Age-standardized",2,"Female",5.61669516473
+28,"diabetes_fpg",130,"Mexico",2007,27,"Age-standardized",1,"Male",5.32534073304
+28,"diabetes_fpg",130,"Mexico",2007,27,"Age-standardized",2,"Female",5.61217559182
+28,"diabetes_fpg",4643,"Aguascalientes",2007,27,"Age-standardized",1,"Male",5.39957963266
+28,"diabetes_fpg",4643,"Aguascalientes",2007,27,"Age-standardized",2,"Female",5.49560759897
+28,"diabetes_fpg",4644,"Baja California",2007,27,"Age-standardized",1,"Male",5.35315849745
+28,"diabetes_fpg",4644,"Baja California",2007,27,"Age-standardized",2,"Female",5.6132066403
+28,"diabetes_fpg",4645,"Baja California Sur",2007,27,"Age-standardized",1,"Male",5.315946189
+28,"diabetes_fpg",4645,"Baja California Sur",2007,27,"Age-standardized",2,"Female",5.5606763448
+28,"diabetes_fpg",4646,"Campeche",2007,27,"Age-standardized",1,"Male",5.65291202649
+28,"diabetes_fpg",4646,"Campeche",2007,27,"Age-standardized",2,"Female",5.79998751275
+28,"diabetes_fpg",4647,"Coahuila",2007,27,"Age-standardized",1,"Male",5.29752357021
+28,"diabetes_fpg",4647,"Coahuila",2007,27,"Age-standardized",2,"Female",5.66650361929
+28,"diabetes_fpg",4648,"Colima",2007,27,"Age-standardized",1,"Male",5.40994834171
+28,"diabetes_fpg",4648,"Colima",2007,27,"Age-standardized",2,"Female",5.76674092233
+28,"diabetes_fpg",4649,"Chiapas",2007,27,"Age-standardized",1,"Male",4.96619696982
+28,"diabetes_fpg",4649,"Chiapas",2007,27,"Age-standardized",2,"Female",5.30420868948
+28,"diabetes_fpg",4650,"Chihuahua",2007,27,"Age-standardized",1,"Male",5.26163649805
+28,"diabetes_fpg",4650,"Chihuahua",2007,27,"Age-standardized",2,"Female",5.47710232875
+28,"diabetes_fpg",4651,"Mexico City",2007,27,"Age-standardized",1,"Male",5.25352858195
+28,"diabetes_fpg",4651,"Mexico City",2007,27,"Age-standardized",2,"Female",5.43719670265
+28,"diabetes_fpg",4652,"Durango",2007,27,"Age-standardized",1,"Male",5.39364725651
+28,"diabetes_fpg",4652,"Durango",2007,27,"Age-standardized",2,"Female",5.31868644034
+28,"diabetes_fpg",4653,"Guanajuato",2007,27,"Age-standardized",1,"Male",5.31235343105
+28,"diabetes_fpg",4653,"Guanajuato",2007,27,"Age-standardized",2,"Female",5.78730131053
+28,"diabetes_fpg",4654,"Guerrero",2007,27,"Age-standardized",1,"Male",5.20901995388
+28,"diabetes_fpg",4654,"Guerrero",2007,27,"Age-standardized",2,"Female",5.46993135977
+28,"diabetes_fpg",4655,"Hidalgo",2007,27,"Age-standardized",1,"Male",5.15476685073
+28,"diabetes_fpg",4655,"Hidalgo",2007,27,"Age-standardized",2,"Female",5.67840907042
+28,"diabetes_fpg",4656,"Jalisco",2007,27,"Age-standardized",1,"Male",5.52082407241
+28,"diabetes_fpg",4656,"Jalisco",2007,27,"Age-standardized",2,"Female",5.78606998785
+28,"diabetes_fpg",4657,"México",2007,27,"Age-standardized",1,"Male",5.3262195114
+28,"diabetes_fpg",4657,"México",2007,27,"Age-standardized",2,"Female",5.5316792127
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",1,"Male",5.14208052359
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",2,"Female",5.58359256407
+28,"diabetes_fpg",4659,"Morelos",2007,27,"Age-standardized",1,"Male",5.4118608897
+28,"diabetes_fpg",4659,"Morelos",2007,27,"Age-standardized",2,"Female",5.68672334116
+28,"diabetes_fpg",4660,"Nayarit",2007,27,"Age-standardized",1,"Male",5.35481337425
+28,"diabetes_fpg",4660,"Nayarit",2007,27,"Age-standardized",2,"Female",5.46052402251
+28,"diabetes_fpg",4661,"Nuevo León",2007,27,"Age-standardized",1,"Male",5.43870029817
+28,"diabetes_fpg",4661,"Nuevo León",2007,27,"Age-standardized",2,"Female",5.94430059199
+28,"diabetes_fpg",4662,"Oaxaca",2007,27,"Age-standardized",1,"Male",5.42959174779
+28,"diabetes_fpg",4662,"Oaxaca",2007,27,"Age-standardized",2,"Female",5.37849729769
+28,"diabetes_fpg",4663,"Puebla",2007,27,"Age-standardized",1,"Male",5.4656306091
+28,"diabetes_fpg",4663,"Puebla",2007,27,"Age-standardized",2,"Female",5.50821954334
+28,"diabetes_fpg",4664,"Querétaro",2007,27,"Age-standardized",1,"Male",5.2183760045
+28,"diabetes_fpg",4664,"Querétaro",2007,27,"Age-standardized",2,"Female",5.51195453964
+28,"diabetes_fpg",4665,"Quintana Roo",2007,27,"Age-standardized",1,"Male",5.20955882213
+28,"diabetes_fpg",4665,"Quintana Roo",2007,27,"Age-standardized",2,"Female",5.7520682938
+28,"diabetes_fpg",4666,"San Luis Potosí",2007,27,"Age-standardized",1,"Male",5.29171005498
+28,"diabetes_fpg",4666,"San Luis Potosí",2007,27,"Age-standardized",2,"Female",5.56227908759
+28,"diabetes_fpg",4667,"Sinaloa",2007,27,"Age-standardized",1,"Male",5.31514195281
+28,"diabetes_fpg",4667,"Sinaloa",2007,27,"Age-standardized",2,"Female",5.46178146084
+28,"diabetes_fpg",4668,"Sonora",2007,27,"Age-standardized",1,"Male",5.14000265969
+28,"diabetes_fpg",4668,"Sonora",2007,27,"Age-standardized",2,"Female",5.59280925511
+28,"diabetes_fpg",4669,"Tabasco",2007,27,"Age-standardized",1,"Male",5.44821854171
+28,"diabetes_fpg",4669,"Tabasco",2007,27,"Age-standardized",2,"Female",5.64979456396
+28,"diabetes_fpg",4670,"Tamaulipas",2007,27,"Age-standardized",1,"Male",5.19949235067
+28,"diabetes_fpg",4670,"Tamaulipas",2007,27,"Age-standardized",2,"Female",6.1027237469
+28,"diabetes_fpg",4671,"Tlaxcala",2007,27,"Age-standardized",1,"Male",5.26303949528
+28,"diabetes_fpg",4671,"Tlaxcala",2007,27,"Age-standardized",2,"Female",5.50041173661
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",1,"Male",5.50728951373
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",2,"Female",5.93131987652
+28,"diabetes_fpg",4673,"Yucatán",2007,27,"Age-standardized",1,"Male",5.20221176638
+28,"diabetes_fpg",4673,"Yucatán",2007,27,"Age-standardized",2,"Female",5.41557384653
+28,"diabetes_fpg",4674,"Zacatecas",2007,27,"Age-standardized",1,"Male",5.5013651137
+28,"diabetes_fpg",4674,"Zacatecas",2007,27,"Age-standardized",2,"Female",5.63237237853
+28,"diabetes_fpg",130,"Mexico",2008,27,"Age-standardized",1,"Male",5.32097476168
+28,"diabetes_fpg",130,"Mexico",2008,27,"Age-standardized",2,"Female",5.63174190466
+28,"diabetes_fpg",4643,"Aguascalientes",2008,27,"Age-standardized",1,"Male",5.38985457121
+28,"diabetes_fpg",4643,"Aguascalientes",2008,27,"Age-standardized",2,"Female",5.51081718134
+28,"diabetes_fpg",4644,"Baja California",2008,27,"Age-standardized",1,"Male",5.34356592665
+28,"diabetes_fpg",4644,"Baja California",2008,27,"Age-standardized",2,"Female",5.62881484724
+28,"diabetes_fpg",4645,"Baja California Sur",2008,27,"Age-standardized",1,"Male",5.30210170199
+28,"diabetes_fpg",4645,"Baja California Sur",2008,27,"Age-standardized",2,"Female",5.57906478903
+28,"diabetes_fpg",4646,"Campeche",2008,27,"Age-standardized",1,"Male",5.6462856042
+28,"diabetes_fpg",4646,"Campeche",2008,27,"Age-standardized",2,"Female",5.81721807734
+28,"diabetes_fpg",4647,"Coahuila",2008,27,"Age-standardized",1,"Male",5.29033566307
+28,"diabetes_fpg",4647,"Coahuila",2008,27,"Age-standardized",2,"Female",5.68312219667
+28,"diabetes_fpg",4648,"Colima",2008,27,"Age-standardized",1,"Male",5.40316762808
+28,"diabetes_fpg",4648,"Colima",2008,27,"Age-standardized",2,"Female",5.79035417763
+28,"diabetes_fpg",4649,"Chiapas",2008,27,"Age-standardized",1,"Male",4.9625817495
+28,"diabetes_fpg",4649,"Chiapas",2008,27,"Age-standardized",2,"Female",5.3185587932
+28,"diabetes_fpg",4650,"Chihuahua",2008,27,"Age-standardized",1,"Male",5.25633313196
+28,"diabetes_fpg",4650,"Chihuahua",2008,27,"Age-standardized",2,"Female",5.48741429576
+28,"diabetes_fpg",4651,"Mexico City",2008,27,"Age-standardized",1,"Male",5.25044991004
+28,"diabetes_fpg",4651,"Mexico City",2008,27,"Age-standardized",2,"Female",5.45164607998
+28,"diabetes_fpg",4652,"Durango",2008,27,"Age-standardized",1,"Male",5.38461183585
+28,"diabetes_fpg",4652,"Durango",2008,27,"Age-standardized",2,"Female",5.3285190816
+28,"diabetes_fpg",4653,"Guanajuato",2008,27,"Age-standardized",1,"Male",5.3060885054
+28,"diabetes_fpg",4653,"Guanajuato",2008,27,"Age-standardized",2,"Female",5.80618432532
+28,"diabetes_fpg",4654,"Guerrero",2008,27,"Age-standardized",1,"Male",5.20433657657
+28,"diabetes_fpg",4654,"Guerrero",2008,27,"Age-standardized",2,"Female",5.49220240841
+28,"diabetes_fpg",4655,"Hidalgo",2008,27,"Age-standardized",1,"Male",5.14627685111
+28,"diabetes_fpg",4655,"Hidalgo",2008,27,"Age-standardized",2,"Female",5.69945927311
+28,"diabetes_fpg",4656,"Jalisco",2008,27,"Age-standardized",1,"Male",5.51346126038
+28,"diabetes_fpg",4656,"Jalisco",2008,27,"Age-standardized",2,"Female",5.8084045537
+28,"diabetes_fpg",4657,"México",2008,27,"Age-standardized",1,"Male",5.33790871441
+28,"diabetes_fpg",4657,"México",2008,27,"Age-standardized",2,"Female",5.56196486938
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",1,"Male",5.13371595088
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",2,"Female",5.60384075309
+28,"diabetes_fpg",4659,"Morelos",2008,27,"Age-standardized",1,"Male",5.40343376703
+28,"diabetes_fpg",4659,"Morelos",2008,27,"Age-standardized",2,"Female",5.70025312045
+28,"diabetes_fpg",4660,"Nayarit",2008,27,"Age-standardized",1,"Male",5.34934051139
+28,"diabetes_fpg",4660,"Nayarit",2008,27,"Age-standardized",2,"Female",5.46999268368
+28,"diabetes_fpg",4661,"Nuevo León",2008,27,"Age-standardized",1,"Male",5.42881985835
+28,"diabetes_fpg",4661,"Nuevo León",2008,27,"Age-standardized",2,"Female",5.96494528752
+28,"diabetes_fpg",4662,"Oaxaca",2008,27,"Age-standardized",1,"Male",5.4232624054
+28,"diabetes_fpg",4662,"Oaxaca",2008,27,"Age-standardized",2,"Female",5.39541513013
+28,"diabetes_fpg",4663,"Puebla",2008,27,"Age-standardized",1,"Male",5.45877949591
+28,"diabetes_fpg",4663,"Puebla",2008,27,"Age-standardized",2,"Female",5.52899772854
+28,"diabetes_fpg",4664,"Querétaro",2008,27,"Age-standardized",1,"Male",5.21052458312
+28,"diabetes_fpg",4664,"Querétaro",2008,27,"Age-standardized",2,"Female",5.51821853502
+28,"diabetes_fpg",4665,"Quintana Roo",2008,27,"Age-standardized",1,"Male",5.20249797608
+28,"diabetes_fpg",4665,"Quintana Roo",2008,27,"Age-standardized",2,"Female",5.77275767454
+28,"diabetes_fpg",4666,"San Luis Potosí",2008,27,"Age-standardized",1,"Male",5.2908869333
+28,"diabetes_fpg",4666,"San Luis Potosí",2008,27,"Age-standardized",2,"Female",5.58116553298
+28,"diabetes_fpg",4667,"Sinaloa",2008,27,"Age-standardized",1,"Male",5.30379369301
+28,"diabetes_fpg",4667,"Sinaloa",2008,27,"Age-standardized",2,"Female",5.47442493609
+28,"diabetes_fpg",4668,"Sonora",2008,27,"Age-standardized",1,"Male",5.1286636559
+28,"diabetes_fpg",4668,"Sonora",2008,27,"Age-standardized",2,"Female",5.60843254379
+28,"diabetes_fpg",4669,"Tabasco",2008,27,"Age-standardized",1,"Male",5.44082038737
+28,"diabetes_fpg",4669,"Tabasco",2008,27,"Age-standardized",2,"Female",5.67081499216
+28,"diabetes_fpg",4670,"Tamaulipas",2008,27,"Age-standardized",1,"Male",5.18925178101
+28,"diabetes_fpg",4670,"Tamaulipas",2008,27,"Age-standardized",2,"Female",6.12704661572
+28,"diabetes_fpg",4671,"Tlaxcala",2008,27,"Age-standardized",1,"Male",5.25672138343
+28,"diabetes_fpg",4671,"Tlaxcala",2008,27,"Age-standardized",2,"Female",5.51459331681
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",1,"Male",5.5020489114
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",2,"Female",5.9545173468
+28,"diabetes_fpg",4673,"Yucatán",2008,27,"Age-standardized",1,"Male",5.19019509147
+28,"diabetes_fpg",4673,"Yucatán",2008,27,"Age-standardized",2,"Female",5.42852749852
+28,"diabetes_fpg",4674,"Zacatecas",2008,27,"Age-standardized",1,"Male",5.49814358944
+28,"diabetes_fpg",4674,"Zacatecas",2008,27,"Age-standardized",2,"Female",5.64797307084
+28,"diabetes_fpg",130,"Mexico",2009,27,"Age-standardized",1,"Male",5.31645945448
+28,"diabetes_fpg",130,"Mexico",2009,27,"Age-standardized",2,"Female",5.65120264628
+28,"diabetes_fpg",4643,"Aguascalientes",2009,27,"Age-standardized",1,"Male",5.38004695136
+28,"diabetes_fpg",4643,"Aguascalientes",2009,27,"Age-standardized",2,"Female",5.52593005764
+28,"diabetes_fpg",4644,"Baja California",2009,27,"Age-standardized",1,"Male",5.33386217706
+28,"diabetes_fpg",4644,"Baja California",2009,27,"Age-standardized",2,"Female",5.64434263924
+28,"diabetes_fpg",4645,"Baja California Sur",2009,27,"Age-standardized",1,"Male",5.28814932532
+28,"diabetes_fpg",4645,"Baja California Sur",2009,27,"Age-standardized",2,"Female",5.59736699408
+28,"diabetes_fpg",4646,"Campeche",2009,27,"Age-standardized",1,"Male",5.63954261561
+28,"diabetes_fpg",4646,"Campeche",2009,27,"Age-standardized",2,"Female",5.83436104733
+28,"diabetes_fpg",4647,"Coahuila",2009,27,"Age-standardized",1,"Male",5.28302035566
+28,"diabetes_fpg",4647,"Coahuila",2009,27,"Age-standardized",2,"Female",5.69957891042
+28,"diabetes_fpg",4648,"Colima",2009,27,"Age-standardized",1,"Male",5.39626982205
+28,"diabetes_fpg",4648,"Colima",2009,27,"Age-standardized",2,"Female",5.81387094111
+28,"diabetes_fpg",4649,"Chiapas",2009,27,"Age-standardized",1,"Male",4.95882436829
+28,"diabetes_fpg",4649,"Chiapas",2009,27,"Age-standardized",2,"Female",5.33287994339
+28,"diabetes_fpg",4650,"Chihuahua",2009,27,"Age-standardized",1,"Male",5.25088743765
+28,"diabetes_fpg",4650,"Chihuahua",2009,27,"Age-standardized",2,"Female",5.49761508479
+28,"diabetes_fpg",4651,"Mexico City",2009,27,"Age-standardized",1,"Male",5.2471997709
+28,"diabetes_fpg",4651,"Mexico City",2009,27,"Age-standardized",2,"Female",5.46595277971
+28,"diabetes_fpg",4652,"Durango",2009,27,"Age-standardized",1,"Male",5.37544467805
+28,"diabetes_fpg",4652,"Durango",2009,27,"Age-standardized",2,"Female",5.3381535991
+28,"diabetes_fpg",4653,"Guanajuato",2009,27,"Age-standardized",1,"Male",5.29969732759
+28,"diabetes_fpg",4653,"Guanajuato",2009,27,"Age-standardized",2,"Female",5.82498240565
+28,"diabetes_fpg",4654,"Guerrero",2009,27,"Age-standardized",1,"Male",5.19951043946
+28,"diabetes_fpg",4654,"Guerrero",2009,27,"Age-standardized",2,"Female",5.51430701523
+28,"diabetes_fpg",4655,"Hidalgo",2009,27,"Age-standardized",1,"Male",5.13766589907
+28,"diabetes_fpg",4655,"Hidalgo",2009,27,"Age-standardized",2,"Female",5.72045625431
+28,"diabetes_fpg",4656,"Jalisco",2009,27,"Age-standardized",1,"Male",5.50596162936
+28,"diabetes_fpg",4656,"Jalisco",2009,27,"Age-standardized",2,"Female",5.83072686883
+28,"diabetes_fpg",4657,"México",2009,27,"Age-standardized",1,"Male",5.34949692374
+28,"diabetes_fpg",4657,"México",2009,27,"Age-standardized",2,"Female",5.5923509544
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",1,"Male",5.12525069052
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",2,"Female",5.62397974592
+28,"diabetes_fpg",4659,"Morelos",2009,27,"Age-standardized",1,"Male",5.39490647568
+28,"diabetes_fpg",4659,"Morelos",2009,27,"Age-standardized",2,"Female",5.71358778586
+28,"diabetes_fpg",4660,"Nayarit",2009,27,"Age-standardized",1,"Male",5.34372246873
+28,"diabetes_fpg",4660,"Nayarit",2009,27,"Age-standardized",2,"Female",5.4793057289
+28,"diabetes_fpg",4661,"Nuevo León",2009,27,"Age-standardized",1,"Male",5.41879173382
+28,"diabetes_fpg",4661,"Nuevo León",2009,27,"Age-standardized",2,"Female",5.98553436818
+28,"diabetes_fpg",4662,"Oaxaca",2009,27,"Age-standardized",1,"Male",5.41681505849
+28,"diabetes_fpg",4662,"Oaxaca",2009,27,"Age-standardized",2,"Female",5.41211945862
+28,"diabetes_fpg",4663,"Puebla",2009,27,"Age-standardized",1,"Male",5.45178633521
+28,"diabetes_fpg",4663,"Puebla",2009,27,"Age-standardized",2,"Female",5.54958738836
+28,"diabetes_fpg",4664,"Querétaro",2009,27,"Age-standardized",1,"Male",5.20256229071
+28,"diabetes_fpg",4664,"Querétaro",2009,27,"Age-standardized",2,"Female",5.52433977712
+28,"diabetes_fpg",4665,"Quintana Roo",2009,27,"Age-standardized",1,"Male",5.19529996945
+28,"diabetes_fpg",4665,"Quintana Roo",2009,27,"Age-standardized",2,"Female",5.79345085425
+28,"diabetes_fpg",4666,"San Luis Potosí",2009,27,"Age-standardized",1,"Male",5.28989838795
+28,"diabetes_fpg",4666,"San Luis Potosí",2009,27,"Age-standardized",2,"Female",5.59993682372
+28,"diabetes_fpg",4667,"Sinaloa",2009,27,"Age-standardized",1,"Male",5.29235083673
+28,"diabetes_fpg",4667,"Sinaloa",2009,27,"Age-standardized",2,"Female",5.48693723414
+28,"diabetes_fpg",4668,"Sonora",2009,27,"Age-standardized",1,"Male",5.1172158478
+28,"diabetes_fpg",4668,"Sonora",2009,27,"Age-standardized",2,"Female",5.62387771564
+28,"diabetes_fpg",4669,"Tabasco",2009,27,"Age-standardized",1,"Male",5.43330336445
+28,"diabetes_fpg",4669,"Tabasco",2009,27,"Age-standardized",2,"Female",5.69169658319
+28,"diabetes_fpg",4670,"Tamaulipas",2009,27,"Age-standardized",1,"Male",5.17891547068
+28,"diabetes_fpg",4670,"Tamaulipas",2009,27,"Age-standardized",2,"Female",6.1513917099
+28,"diabetes_fpg",4671,"Tlaxcala",2009,27,"Age-standardized",1,"Male",5.25027308537
+28,"diabetes_fpg",4671,"Tlaxcala",2009,27,"Age-standardized",2,"Female",5.52861904791
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",1,"Male",5.49666628835
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",2,"Female",5.97755909827
+28,"diabetes_fpg",4673,"Yucatán",2009,27,"Age-standardized",1,"Male",5.17804438509
+28,"diabetes_fpg",4673,"Yucatán",2009,27,"Age-standardized",2,"Female",5.44138872986
+28,"diabetes_fpg",4674,"Zacatecas",2009,27,"Age-standardized",1,"Male",5.49479467344
+28,"diabetes_fpg",4674,"Zacatecas",2009,27,"Age-standardized",2,"Female",5.6634754135
+28,"diabetes_fpg",130,"Mexico",2010,27,"Age-standardized",1,"Male",5.31181568315
+28,"diabetes_fpg",130,"Mexico",2010,27,"Age-standardized",2,"Female",5.67063308284
+28,"diabetes_fpg",4643,"Aguascalientes",2010,27,"Age-standardized",1,"Male",5.37017267254
+28,"diabetes_fpg",4643,"Aguascalientes",2010,27,"Age-standardized",2,"Female",5.54103886473
+28,"diabetes_fpg",4644,"Baja California",2010,27,"Age-standardized",1,"Male",5.32406975306
+28,"diabetes_fpg",4644,"Baja California",2010,27,"Age-standardized",2,"Female",5.6598796112
+28,"diabetes_fpg",4645,"Baja California Sur",2010,27,"Age-standardized",1,"Male",5.27411745156
+28,"diabetes_fpg",4645,"Baja California Sur",2010,27,"Age-standardized",2,"Female",5.61562686837
+28,"diabetes_fpg",4646,"Campeche",2010,27,"Age-standardized",1,"Male",5.63271205755
+28,"diabetes_fpg",4646,"Campeche",2010,27,"Age-standardized",2,"Female",5.85147805784
+28,"diabetes_fpg",4647,"Coahuila",2010,27,"Age-standardized",1,"Male",5.27559829204
+28,"diabetes_fpg",4647,"Coahuila",2010,27,"Age-standardized",2,"Female",5.71597029044
+28,"diabetes_fpg",4648,"Colima",2010,27,"Age-standardized",1,"Male",5.38927635191
+28,"diabetes_fpg",4648,"Colima",2010,27,"Age-standardized",2,"Female",5.83737859139
+28,"diabetes_fpg",4649,"Chiapas",2010,27,"Age-standardized",1,"Male",4.95493698643
+28,"diabetes_fpg",4649,"Chiapas",2010,27,"Age-standardized",2,"Female",5.34723843011
+28,"diabetes_fpg",4650,"Chihuahua",2010,27,"Age-standardized",1,"Male",5.24531483477
+28,"diabetes_fpg",4650,"Chihuahua",2010,27,"Age-standardized",2,"Female",5.50782870484
+28,"diabetes_fpg",4651,"Mexico City",2010,27,"Age-standardized",1,"Male",5.24380033268
+28,"diabetes_fpg",4651,"Mexico City",2010,27,"Age-standardized",2,"Female",5.48017868279
+28,"diabetes_fpg",4652,"Durango",2010,27,"Age-standardized",1,"Male",5.36615675011
+28,"diabetes_fpg",4652,"Durango",2010,27,"Age-standardized",2,"Female",5.3476920214
+28,"diabetes_fpg",4653,"Guanajuato",2010,27,"Age-standardized",1,"Male",5.29320127056
+28,"diabetes_fpg",4653,"Guanajuato",2010,27,"Age-standardized",2,"Female",5.84382395144
+28,"diabetes_fpg",4654,"Guerrero",2010,27,"Age-standardized",1,"Male",5.19456831438
+28,"diabetes_fpg",4654,"Guerrero",2010,27,"Age-standardized",2,"Female",5.53631273148
+28,"diabetes_fpg",4655,"Hidalgo",2010,27,"Age-standardized",1,"Male",5.12895921797
+28,"diabetes_fpg",4655,"Hidalgo",2010,27,"Age-standardized",2,"Female",5.7414801652
+28,"diabetes_fpg",4656,"Jalisco",2010,27,"Age-standardized",1,"Male",5.49834194901
+28,"diabetes_fpg",4656,"Jalisco",2010,27,"Age-standardized",2,"Female",5.85310087223
+28,"diabetes_fpg",4657,"México",2010,27,"Age-standardized",1,"Male",5.36100384452
+28,"diabetes_fpg",4657,"México",2010,27,"Age-standardized",2,"Female",5.62290305163
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",1,"Male",5.11670707683
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",2,"Female",5.64411641609
+28,"diabetes_fpg",4659,"Morelos",2010,27,"Age-standardized",1,"Male",5.38628093987
+28,"diabetes_fpg",4659,"Morelos",2010,27,"Age-standardized",2,"Female",5.72684189122
+28,"diabetes_fpg",4660,"Nayarit",2010,27,"Age-standardized",1,"Male",5.33798610626
+28,"diabetes_fpg",4660,"Nayarit",2010,27,"Age-standardized",2,"Female",5.48854293164
+28,"diabetes_fpg",4661,"Nuevo León",2010,27,"Age-standardized",1,"Male",5.40864116095
+28,"diabetes_fpg",4661,"Nuevo León",2010,27,"Age-standardized",2,"Female",6.00616432021
+28,"diabetes_fpg",4662,"Oaxaca",2010,27,"Age-standardized",1,"Male",5.41026400392
+28,"diabetes_fpg",4662,"Oaxaca",2010,27,"Age-standardized",2,"Female",5.42865889577
+28,"diabetes_fpg",4663,"Puebla",2010,27,"Age-standardized",1,"Male",5.44466966156
+28,"diabetes_fpg",4663,"Puebla",2010,27,"Age-standardized",2,"Female",5.57006642326
+28,"diabetes_fpg",4664,"Querétaro",2010,27,"Age-standardized",1,"Male",5.19451397286
+28,"diabetes_fpg",4664,"Querétaro",2010,27,"Age-standardized",2,"Female",5.530401573
+28,"diabetes_fpg",4665,"Quintana Roo",2010,27,"Age-standardized",1,"Male",5.18798732947
+28,"diabetes_fpg",4665,"Quintana Roo",2010,27,"Age-standardized",2,"Female",5.81417922747
+28,"diabetes_fpg",4666,"San Luis Potosí",2010,27,"Age-standardized",1,"Male",5.28876854403
+28,"diabetes_fpg",4666,"San Luis Potosí",2010,27,"Age-standardized",2,"Female",5.61866555332
+28,"diabetes_fpg",4667,"Sinaloa",2010,27,"Age-standardized",1,"Male",5.28083712212
+28,"diabetes_fpg",4667,"Sinaloa",2010,27,"Age-standardized",2,"Female",5.49937363349
+28,"diabetes_fpg",4668,"Sonora",2010,27,"Age-standardized",1,"Male",5.10568181035
+28,"diabetes_fpg",4668,"Sonora",2010,27,"Age-standardized",2,"Female",5.63922883451
+28,"diabetes_fpg",4669,"Tabasco",2010,27,"Age-standardized",1,"Male",5.42567687896
+28,"diabetes_fpg",4669,"Tabasco",2010,27,"Age-standardized",2,"Female",5.71255806988
+28,"diabetes_fpg",4670,"Tamaulipas",2010,27,"Age-standardized",1,"Male",5.16848820958
+28,"diabetes_fpg",4670,"Tamaulipas",2010,27,"Age-standardized",2,"Female",6.17580977714
+28,"diabetes_fpg",4671,"Tlaxcala",2010,27,"Age-standardized",1,"Male",5.24372465094
+28,"diabetes_fpg",4671,"Tlaxcala",2010,27,"Age-standardized",2,"Female",5.54255653383
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",1,"Male",5.49117448115
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",2,"Female",6.0004744575
+28,"diabetes_fpg",4673,"Yucatán",2010,27,"Age-standardized",1,"Male",5.16578398541
+28,"diabetes_fpg",4673,"Yucatán",2010,27,"Age-standardized",2,"Female",5.45426935231
+28,"diabetes_fpg",4674,"Zacatecas",2010,27,"Age-standardized",1,"Male",5.49134478328
+28,"diabetes_fpg",4674,"Zacatecas",2010,27,"Age-standardized",2,"Female",5.67895051518
+28,"diabetes_fpg",130,"Mexico",2011,27,"Age-standardized",1,"Male",5.31713706515
+28,"diabetes_fpg",130,"Mexico",2011,27,"Age-standardized",2,"Female",5.67803911539
+28,"diabetes_fpg",4643,"Aguascalientes",2011,27,"Age-standardized",1,"Male",5.37371966223
+28,"diabetes_fpg",4643,"Aguascalientes",2011,27,"Age-standardized",2,"Female",5.54713561838
+28,"diabetes_fpg",4644,"Baja California",2011,27,"Age-standardized",1,"Male",5.32829633408
+28,"diabetes_fpg",4644,"Baja California",2011,27,"Age-standardized",2,"Female",5.66555993447
+28,"diabetes_fpg",4645,"Baja California Sur",2011,27,"Age-standardized",1,"Male",5.27555899729
+28,"diabetes_fpg",4645,"Baja California Sur",2011,27,"Age-standardized",2,"Female",5.62010541974
+28,"diabetes_fpg",4646,"Campeche",2011,27,"Age-standardized",1,"Male",5.63869769105
+28,"diabetes_fpg",4646,"Campeche",2011,27,"Age-standardized",2,"Female",5.85685002555
+28,"diabetes_fpg",4647,"Coahuila",2011,27,"Age-standardized",1,"Male",5.28225935551
+28,"diabetes_fpg",4647,"Coahuila",2011,27,"Age-standardized",2,"Female",5.72111362735
+28,"diabetes_fpg",4648,"Colima",2011,27,"Age-standardized",1,"Male",5.39508663924
+28,"diabetes_fpg",4648,"Colima",2011,27,"Age-standardized",2,"Female",5.84345169186
+28,"diabetes_fpg",4649,"Chiapas",2011,27,"Age-standardized",1,"Male",4.9663324017
+28,"diabetes_fpg",4649,"Chiapas",2011,27,"Age-standardized",2,"Female",5.35496265061
+28,"diabetes_fpg",4650,"Chihuahua",2011,27,"Age-standardized",1,"Male",5.25332298542
+28,"diabetes_fpg",4650,"Chihuahua",2011,27,"Age-standardized",2,"Female",5.51421260056
+28,"diabetes_fpg",4651,"Mexico City",2011,27,"Age-standardized",1,"Male",5.25025118707
+28,"diabetes_fpg",4651,"Mexico City",2011,27,"Age-standardized",2,"Female",5.49203080334
+28,"diabetes_fpg",4652,"Durango",2011,27,"Age-standardized",1,"Male",5.36874399747
+28,"diabetes_fpg",4652,"Durango",2011,27,"Age-standardized",2,"Female",5.35247450868
+28,"diabetes_fpg",4653,"Guanajuato",2011,27,"Age-standardized",1,"Male",5.29968179254
+28,"diabetes_fpg",4653,"Guanajuato",2011,27,"Age-standardized",2,"Female",5.85006341256
+28,"diabetes_fpg",4654,"Guerrero",2011,27,"Age-standardized",1,"Male",5.20166312427
+28,"diabetes_fpg",4654,"Guerrero",2011,27,"Age-standardized",2,"Female",5.5441386651
+28,"diabetes_fpg",4655,"Hidalgo",2011,27,"Age-standardized",1,"Male",5.13382921823
+28,"diabetes_fpg",4655,"Hidalgo",2011,27,"Age-standardized",2,"Female",5.74753610071
+28,"diabetes_fpg",4656,"Jalisco",2011,27,"Age-standardized",1,"Male",5.50161349442
+28,"diabetes_fpg",4656,"Jalisco",2011,27,"Age-standardized",2,"Female",5.85857686582
+28,"diabetes_fpg",4657,"México",2011,27,"Age-standardized",1,"Male",5.3667465512
+28,"diabetes_fpg",4657,"México",2011,27,"Age-standardized",2,"Female",5.63328529668
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",1,"Male",5.12265311676
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",2,"Female",5.65049623258
+28,"diabetes_fpg",4659,"Morelos",2011,27,"Age-standardized",1,"Male",5.38942315037
+28,"diabetes_fpg",4659,"Morelos",2011,27,"Age-standardized",2,"Female",5.73349090832
+28,"diabetes_fpg",4660,"Nayarit",2011,27,"Age-standardized",1,"Male",5.34433429381
+28,"diabetes_fpg",4660,"Nayarit",2011,27,"Age-standardized",2,"Female",5.49335744379
+28,"diabetes_fpg",4661,"Nuevo León",2011,27,"Age-standardized",1,"Male",5.41320590083
+28,"diabetes_fpg",4661,"Nuevo León",2011,27,"Age-standardized",2,"Female",6.01152819974
+28,"diabetes_fpg",4662,"Oaxaca",2011,27,"Age-standardized",1,"Male",5.41365029159
+28,"diabetes_fpg",4662,"Oaxaca",2011,27,"Age-standardized",2,"Female",5.43520873184
+28,"diabetes_fpg",4663,"Puebla",2011,27,"Age-standardized",1,"Male",5.44875085467
+28,"diabetes_fpg",4663,"Puebla",2011,27,"Age-standardized",2,"Female",5.57699562982
+28,"diabetes_fpg",4664,"Querétaro",2011,27,"Age-standardized",1,"Male",5.20125038905
+28,"diabetes_fpg",4664,"Querétaro",2011,27,"Age-standardized",2,"Female",5.53608046445
+28,"diabetes_fpg",4665,"Quintana Roo",2011,27,"Age-standardized",1,"Male",5.19479813708
+28,"diabetes_fpg",4665,"Quintana Roo",2011,27,"Age-standardized",2,"Female",5.82154708089
+28,"diabetes_fpg",4666,"San Luis Potosí",2011,27,"Age-standardized",1,"Male",5.29943846185
+28,"diabetes_fpg",4666,"San Luis Potosí",2011,27,"Age-standardized",2,"Female",5.62559597341
+28,"diabetes_fpg",4667,"Sinaloa",2011,27,"Age-standardized",1,"Male",5.2826892661
+28,"diabetes_fpg",4667,"Sinaloa",2011,27,"Age-standardized",2,"Female",5.50427824768
+28,"diabetes_fpg",4668,"Sonora",2011,27,"Age-standardized",1,"Male",5.11265377481
+28,"diabetes_fpg",4668,"Sonora",2011,27,"Age-standardized",2,"Female",5.6448996148
+28,"diabetes_fpg",4669,"Tabasco",2011,27,"Age-standardized",1,"Male",5.42904389751
+28,"diabetes_fpg",4669,"Tabasco",2011,27,"Age-standardized",2,"Female",5.71750081509
+28,"diabetes_fpg",4670,"Tamaulipas",2011,27,"Age-standardized",1,"Male",5.17199456866
+28,"diabetes_fpg",4670,"Tamaulipas",2011,27,"Age-standardized",2,"Female",6.18167982829
+28,"diabetes_fpg",4671,"Tlaxcala",2011,27,"Age-standardized",1,"Male",5.24947634586
+28,"diabetes_fpg",4671,"Tlaxcala",2011,27,"Age-standardized",2,"Female",5.54799746839
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",1,"Male",5.49528752392
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",2,"Female",6.00884760238
+28,"diabetes_fpg",4673,"Yucatán",2011,27,"Age-standardized",1,"Male",5.16828714339
+28,"diabetes_fpg",4673,"Yucatán",2011,27,"Age-standardized",2,"Female",5.46026690929
+28,"diabetes_fpg",4674,"Zacatecas",2011,27,"Age-standardized",1,"Male",5.49972587797
+28,"diabetes_fpg",4674,"Zacatecas",2011,27,"Age-standardized",2,"Female",5.68531461979
+28,"diabetes_fpg",130,"Mexico",2012,27,"Age-standardized",1,"Male",5.32241325173
+28,"diabetes_fpg",130,"Mexico",2012,27,"Age-standardized",2,"Female",5.68536695875
+28,"diabetes_fpg",4643,"Aguascalientes",2012,27,"Age-standardized",1,"Male",5.37721163372
+28,"diabetes_fpg",4643,"Aguascalientes",2012,27,"Age-standardized",2,"Female",5.55317691966
+28,"diabetes_fpg",4644,"Baja California",2012,27,"Age-standardized",1,"Male",5.3325088354
+28,"diabetes_fpg",4644,"Baja California",2012,27,"Age-standardized",2,"Female",5.67121491008
+28,"diabetes_fpg",4645,"Baja California Sur",2012,27,"Age-standardized",1,"Male",5.2769492053
+28,"diabetes_fpg",4645,"Baja California Sur",2012,27,"Age-standardized",2,"Female",5.62442532022
+28,"diabetes_fpg",4646,"Campeche",2012,27,"Age-standardized",1,"Male",5.64464960773
+28,"diabetes_fpg",4646,"Campeche",2012,27,"Age-standardized",2,"Female",5.86202158435
+28,"diabetes_fpg",4647,"Coahuila",2012,27,"Age-standardized",1,"Male",5.28889889272
+28,"diabetes_fpg",4647,"Coahuila",2012,27,"Age-standardized",2,"Female",5.72615829884
+28,"diabetes_fpg",4648,"Colima",2012,27,"Age-standardized",1,"Male",5.40085209016
+28,"diabetes_fpg",4648,"Colima",2012,27,"Age-standardized",2,"Female",5.84945883886
+28,"diabetes_fpg",4649,"Chiapas",2012,27,"Age-standardized",1,"Male",4.97769914016
+28,"diabetes_fpg",4649,"Chiapas",2012,27,"Age-standardized",2,"Female",5.3627024348
+28,"diabetes_fpg",4650,"Chihuahua",2012,27,"Age-standardized",1,"Male",5.26127436186
+28,"diabetes_fpg",4650,"Chihuahua",2012,27,"Age-standardized",2,"Female",5.52058782029
+28,"diabetes_fpg",4651,"Mexico City",2012,27,"Age-standardized",1,"Male",5.25665735017
+28,"diabetes_fpg",4651,"Mexico City",2012,27,"Age-standardized",2,"Female",5.50379889806
+28,"diabetes_fpg",4652,"Durango",2012,27,"Age-standardized",1,"Male",5.37127162257
+28,"diabetes_fpg",4652,"Durango",2012,27,"Age-standardized",2,"Female",5.35720536808
+28,"diabetes_fpg",4653,"Guanajuato",2012,27,"Age-standardized",1,"Male",5.30612170344
+28,"diabetes_fpg",4653,"Guanajuato",2012,27,"Age-standardized",2,"Female",5.85619384216
+28,"diabetes_fpg",4654,"Guerrero",2012,27,"Age-standardized",1,"Male",5.20872346282
+28,"diabetes_fpg",4654,"Guerrero",2012,27,"Age-standardized",2,"Female",5.55183914942
+28,"diabetes_fpg",4655,"Hidalgo",2012,27,"Age-standardized",1,"Male",5.13867064509
+28,"diabetes_fpg",4655,"Hidalgo",2012,27,"Age-standardized",2,"Female",5.75355703546
+28,"diabetes_fpg",4656,"Jalisco",2012,27,"Age-standardized",1,"Male",5.50482835726
+28,"diabetes_fpg",4656,"Jalisco",2012,27,"Age-standardized",2,"Female",5.86391607575
+28,"diabetes_fpg",4657,"México",2012,27,"Age-standardized",1,"Male",5.37245774276
+28,"diabetes_fpg",4657,"México",2012,27,"Age-standardized",2,"Female",5.64358647349
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",1,"Male",5.1285459624
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",2,"Female",5.6568641944
+28,"diabetes_fpg",4659,"Morelos",2012,27,"Age-standardized",1,"Male",5.39253997194
+28,"diabetes_fpg",4659,"Morelos",2012,27,"Age-standardized",2,"Female",5.74008008844
+28,"diabetes_fpg",4660,"Nayarit",2012,27,"Age-standardized",1,"Male",5.35062590997
+28,"diabetes_fpg",4660,"Nayarit",2012,27,"Age-standardized",2,"Female",5.49803651094
+28,"diabetes_fpg",4661,"Nuevo León",2012,27,"Age-standardized",1,"Male",5.41771603231
+28,"diabetes_fpg",4661,"Nuevo León",2012,27,"Age-standardized",2,"Female",6.01687991363
+28,"diabetes_fpg",4662,"Oaxaca",2012,27,"Age-standardized",1,"Male",5.41698530876
+28,"diabetes_fpg",4662,"Oaxaca",2012,27,"Age-standardized",2,"Female",5.44167431199
+28,"diabetes_fpg",4663,"Puebla",2012,27,"Age-standardized",1,"Male",5.45278838075
+28,"diabetes_fpg",4663,"Puebla",2012,27,"Age-standardized",2,"Female",5.58381724775
+28,"diabetes_fpg",4664,"Querétaro",2012,27,"Age-standardized",1,"Male",5.20793241528
+28,"diabetes_fpg",4664,"Querétaro",2012,27,"Age-standardized",2,"Female",5.54171430028
+28,"diabetes_fpg",4665,"Quintana Roo",2012,27,"Age-standardized",1,"Male",5.20156776701
+28,"diabetes_fpg",4665,"Quintana Roo",2012,27,"Age-standardized",2,"Female",5.82879266828
+28,"diabetes_fpg",4666,"San Luis Potosí",2012,27,"Age-standardized",1,"Male",5.31007369413
+28,"diabetes_fpg",4666,"San Luis Potosí",2012,27,"Age-standardized",2,"Female",5.63248578732
+28,"diabetes_fpg",4667,"Sinaloa",2012,27,"Age-standardized",1,"Male",5.28450477654
+28,"diabetes_fpg",4667,"Sinaloa",2012,27,"Age-standardized",2,"Female",5.50909297718
+28,"diabetes_fpg",4668,"Sonora",2012,27,"Age-standardized",1,"Male",5.11958979316
+28,"diabetes_fpg",4668,"Sonora",2012,27,"Age-standardized",2,"Female",5.65054419011
+28,"diabetes_fpg",4669,"Tabasco",2012,27,"Age-standardized",1,"Male",5.43237857922
+28,"diabetes_fpg",4669,"Tabasco",2012,27,"Age-standardized",2,"Female",5.72235959865
+28,"diabetes_fpg",4670,"Tamaulipas",2012,27,"Age-standardized",1,"Male",5.17546303081
+28,"diabetes_fpg",4670,"Tamaulipas",2012,27,"Age-standardized",2,"Female",6.18742176432
+28,"diabetes_fpg",4671,"Tlaxcala",2012,27,"Age-standardized",1,"Male",5.25520775387
+28,"diabetes_fpg",4671,"Tlaxcala",2012,27,"Age-standardized",2,"Female",5.55337548318
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",1,"Male",5.49935454294
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",2,"Female",6.01708977292
+28,"diabetes_fpg",4673,"Yucatán",2012,27,"Age-standardized",1,"Male",5.17073741084
+28,"diabetes_fpg",4673,"Yucatán",2012,27,"Age-standardized",2,"Female",5.46618304661
+28,"diabetes_fpg",4674,"Zacatecas",2012,27,"Age-standardized",1,"Male",5.50809930463
+28,"diabetes_fpg",4674,"Zacatecas",2012,27,"Age-standardized",2,"Female",5.69160066839
+28,"diabetes_fpg",130,"Mexico",2013,27,"Age-standardized",1,"Male",5.32775303474
+28,"diabetes_fpg",130,"Mexico",2013,27,"Age-standardized",2,"Female",5.69280676747
+28,"diabetes_fpg",4643,"Aguascalientes",2013,27,"Age-standardized",1,"Male",5.38076271848
+28,"diabetes_fpg",4643,"Aguascalientes",2013,27,"Age-standardized",2,"Female",5.55930483557
+28,"diabetes_fpg",4644,"Baja California",2013,27,"Age-standardized",1,"Male",5.33681440217
+28,"diabetes_fpg",4644,"Baja California",2013,27,"Age-standardized",2,"Female",5.67700186119
+28,"diabetes_fpg",4645,"Baja California Sur",2013,27,"Age-standardized",1,"Male",5.27840491648
+28,"diabetes_fpg",4645,"Baja California Sur",2013,27,"Age-standardized",2,"Female",5.62878918059
+28,"diabetes_fpg",4646,"Campeche",2013,27,"Age-standardized",1,"Male",5.65067201619
+28,"diabetes_fpg",4646,"Campeche",2013,27,"Age-standardized",2,"Female",5.86726895458
+28,"diabetes_fpg",4647,"Coahuila",2013,27,"Age-standardized",1,"Male",5.29562526717
+28,"diabetes_fpg",4647,"Coahuila",2013,27,"Age-standardized",2,"Female",5.73130833316
+28,"diabetes_fpg",4648,"Colima",2013,27,"Age-standardized",1,"Male",5.40667425842
+28,"diabetes_fpg",4648,"Colima",2013,27,"Age-standardized",2,"Female",5.85559217738
+28,"diabetes_fpg",4649,"Chiapas",2013,27,"Age-standardized",1,"Male",4.98913878423
+28,"diabetes_fpg",4649,"Chiapas",2013,27,"Age-standardized",2,"Female",5.37059537483
+28,"diabetes_fpg",4650,"Chihuahua",2013,27,"Age-standardized",1,"Male",5.26927753916
+28,"diabetes_fpg",4650,"Chihuahua",2013,27,"Age-standardized",2,"Female",5.52714265836
+28,"diabetes_fpg",4651,"Mexico City",2013,27,"Age-standardized",1,"Male",5.2631290459
+28,"diabetes_fpg",4651,"Mexico City",2013,27,"Age-standardized",2,"Female",5.51567058476
+28,"diabetes_fpg",4652,"Durango",2013,27,"Age-standardized",1,"Male",5.37386238451
+28,"diabetes_fpg",4652,"Durango",2013,27,"Age-standardized",2,"Female",5.36208697938
+28,"diabetes_fpg",4653,"Guanajuato",2013,27,"Age-standardized",1,"Male",5.31263258446
+28,"diabetes_fpg",4653,"Guanajuato",2013,27,"Age-standardized",2,"Female",5.86241375502
+28,"diabetes_fpg",4654,"Guerrero",2013,27,"Age-standardized",1,"Male",5.21584643203
+28,"diabetes_fpg",4654,"Guerrero",2013,27,"Age-standardized",2,"Female",5.55959338453
+28,"diabetes_fpg",4655,"Hidalgo",2013,27,"Age-standardized",1,"Male",5.14358511961
+28,"diabetes_fpg",4655,"Hidalgo",2013,27,"Age-standardized",2,"Female",5.759742797
+28,"diabetes_fpg",4656,"Jalisco",2013,27,"Age-standardized",1,"Male",5.50810707585
+28,"diabetes_fpg",4656,"Jalisco",2013,27,"Age-standardized",2,"Female",5.86933484766
+28,"diabetes_fpg",4657,"México",2013,27,"Age-standardized",1,"Male",5.37823971714
+28,"diabetes_fpg",4657,"México",2013,27,"Age-standardized",2,"Female",5.6539900042
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",1,"Male",5.13448767545
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",2,"Female",5.66337971069
+28,"diabetes_fpg",4659,"Morelos",2013,27,"Age-standardized",1,"Male",5.3957378237
+28,"diabetes_fpg",4659,"Morelos",2013,27,"Age-standardized",2,"Female",5.74679344755
+28,"diabetes_fpg",4660,"Nayarit",2013,27,"Age-standardized",1,"Male",5.35697226353
+28,"diabetes_fpg",4660,"Nayarit",2013,27,"Age-standardized",2,"Female",5.50278137851
+28,"diabetes_fpg",4661,"Nuevo León",2013,27,"Age-standardized",1,"Male",5.42228846899
+28,"diabetes_fpg",4661,"Nuevo León",2013,27,"Age-standardized",2,"Female",6.02241250798
+28,"diabetes_fpg",4662,"Oaxaca",2013,27,"Age-standardized",1,"Male",5.42036426781
+28,"diabetes_fpg",4662,"Oaxaca",2013,27,"Age-standardized",2,"Female",5.44824841198
+28,"diabetes_fpg",4663,"Puebla",2013,27,"Age-standardized",1,"Male",5.45689373237
+28,"diabetes_fpg",4663,"Puebla",2013,27,"Age-standardized",2,"Female",5.59073431546
+28,"diabetes_fpg",4664,"Querétaro",2013,27,"Age-standardized",1,"Male",5.21467152446
+28,"diabetes_fpg",4664,"Querétaro",2013,27,"Age-standardized",2,"Female",5.54747672579
+28,"diabetes_fpg",4665,"Quintana Roo",2013,27,"Age-standardized",1,"Male",5.20841276764
+28,"diabetes_fpg",4665,"Quintana Roo",2013,27,"Age-standardized",2,"Female",5.83615041749
+28,"diabetes_fpg",4666,"San Luis Potosí",2013,27,"Age-standardized",1,"Male",5.32077831876
+28,"diabetes_fpg",4666,"San Luis Potosí",2013,27,"Age-standardized",2,"Female",5.63950743327
+28,"diabetes_fpg",4667,"Sinaloa",2013,27,"Age-standardized",1,"Male",5.28637772924
+28,"diabetes_fpg",4667,"Sinaloa",2013,27,"Age-standardized",2,"Female",5.51401517889
+28,"diabetes_fpg",4668,"Sonora",2013,27,"Age-standardized",1,"Male",5.12659330731
+28,"diabetes_fpg",4668,"Sonora",2013,27,"Age-standardized",2,"Female",5.65636785135
+28,"diabetes_fpg",4669,"Tabasco",2013,27,"Age-standardized",1,"Male",5.43579909442
+28,"diabetes_fpg",4669,"Tabasco",2013,27,"Age-standardized",2,"Female",5.72733464553
+28,"diabetes_fpg",4670,"Tamaulipas",2013,27,"Age-standardized",1,"Male",5.17900231708
+28,"diabetes_fpg",4670,"Tamaulipas",2013,27,"Age-standardized",2,"Female",6.19325727452
+28,"diabetes_fpg",4671,"Tlaxcala",2013,27,"Age-standardized",1,"Male",5.26101751135
+28,"diabetes_fpg",4671,"Tlaxcala",2013,27,"Age-standardized",2,"Female",5.55889115281
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",1,"Male",5.50348673547
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",2,"Female",6.02538588032
+28,"diabetes_fpg",4673,"Yucatán",2013,27,"Age-standardized",1,"Male",5.17324601069
+28,"diabetes_fpg",4673,"Yucatán",2013,27,"Age-standardized",2,"Female",5.47219457366
+28,"diabetes_fpg",4674,"Zacatecas",2013,27,"Age-standardized",1,"Male",5.51657201818
+28,"diabetes_fpg",4674,"Zacatecas",2013,27,"Age-standardized",2,"Female",5.6979925222
+28,"diabetes_fpg",130,"Mexico",2014,27,"Age-standardized",1,"Male",5.33335090719
+28,"diabetes_fpg",130,"Mexico",2014,27,"Age-standardized",2,"Female",5.70063162284
+28,"diabetes_fpg",4643,"Aguascalientes",2014,27,"Age-standardized",1,"Male",5.38457529147
+28,"diabetes_fpg",4643,"Aguascalientes",2014,27,"Age-standardized",2,"Female",5.56576184764
+28,"diabetes_fpg",4644,"Baja California",2014,27,"Age-standardized",1,"Male",5.34139969472
+28,"diabetes_fpg",4644,"Baja California",2014,27,"Age-standardized",2,"Female",5.68318071496
+28,"diabetes_fpg",4645,"Baja California Sur",2014,27,"Age-standardized",1,"Male",5.28011873583
+28,"diabetes_fpg",4645,"Baja California Sur",2014,27,"Age-standardized",2,"Female",5.63350428816
+28,"diabetes_fpg",4646,"Campeche",2014,27,"Age-standardized",1,"Male",5.65695281333
+28,"diabetes_fpg",4646,"Campeche",2014,27,"Age-standardized",2,"Female",5.87292047892
+28,"diabetes_fpg",4647,"Coahuila",2014,27,"Age-standardized",1,"Male",5.3026283024
+28,"diabetes_fpg",4647,"Coahuila",2014,27,"Age-standardized",2,"Female",5.73684727896
+28,"diabetes_fpg",4648,"Colima",2014,27,"Age-standardized",1,"Male",5.41274111277
+28,"diabetes_fpg",4648,"Colima",2014,27,"Age-standardized",2,"Female",5.86210663428
+28,"diabetes_fpg",4649,"Chiapas",2014,27,"Age-standardized",1,"Male",5.00084304913
+28,"diabetes_fpg",4649,"Chiapas",2014,27,"Age-standardized",2,"Female",5.37886259755
+28,"diabetes_fpg",4650,"Chihuahua",2014,27,"Age-standardized",1,"Male",5.27752457434
+28,"diabetes_fpg",4650,"Chihuahua",2014,27,"Age-standardized",2,"Female",5.53414511369
+28,"diabetes_fpg",4651,"Mexico City",2014,27,"Age-standardized",1,"Male",5.26985917761
+28,"diabetes_fpg",4651,"Mexico City",2014,27,"Age-standardized",2,"Female",5.5279328299
+28,"diabetes_fpg",4652,"Durango",2014,27,"Age-standardized",1,"Male",5.37671990605
+28,"diabetes_fpg",4652,"Durango",2014,27,"Age-standardized",2,"Female",5.36738970534
+28,"diabetes_fpg",4653,"Guanajuato",2014,27,"Age-standardized",1,"Male",5.31941351607
+28,"diabetes_fpg",4653,"Guanajuato",2014,27,"Age-standardized",2,"Female",5.8689818534
+28,"diabetes_fpg",4654,"Guerrero",2014,27,"Age-standardized",1,"Male",5.22321733093
+28,"diabetes_fpg",4654,"Guerrero",2014,27,"Age-standardized",2,"Female",5.56765555222
+28,"diabetes_fpg",4655,"Hidalgo",2014,27,"Age-standardized",1,"Male",5.14875374199
+28,"diabetes_fpg",4655,"Hidalgo",2014,27,"Age-standardized",2,"Female",5.76639061774
+28,"diabetes_fpg",4656,"Jalisco",2014,27,"Age-standardized",1,"Male",5.51166043002
+28,"diabetes_fpg",4656,"Jalisco",2014,27,"Age-standardized",2,"Female",5.87511436131
+28,"diabetes_fpg",4657,"México",2014,27,"Age-standardized",1,"Male",5.38428354573
+28,"diabetes_fpg",4657,"México",2014,27,"Age-standardized",2,"Female",5.66476000488
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",1,"Male",5.14066596921
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",2,"Female",5.67025521947
+28,"diabetes_fpg",4659,"Morelos",2014,27,"Age-standardized",1,"Male",5.39920531631
+28,"diabetes_fpg",4659,"Morelos",2014,27,"Age-standardized",2,"Female",5.75388342227
+28,"diabetes_fpg",4660,"Nayarit",2014,27,"Age-standardized",1,"Male",5.36357110245
+28,"diabetes_fpg",4660,"Nayarit",2014,27,"Age-standardized",2,"Female",5.50785105791
+28,"diabetes_fpg",4661,"Nuevo León",2014,27,"Age-standardized",1,"Male",5.42712194587
+28,"diabetes_fpg",4661,"Nuevo León",2014,27,"Age-standardized",2,"Female",6.02840426437
+28,"diabetes_fpg",4662,"Oaxaca",2014,27,"Age-standardized",1,"Male",5.42397462446
+28,"diabetes_fpg",4662,"Oaxaca",2014,27,"Age-standardized",2,"Female",5.45520970099
+28,"diabetes_fpg",4663,"Puebla",2014,27,"Age-standardized",1,"Male",5.46126677197
+28,"diabetes_fpg",4663,"Puebla",2014,27,"Age-standardized",2,"Female",5.59801671681
+28,"diabetes_fpg",4664,"Querétaro",2014,27,"Age-standardized",1,"Male",5.22165837626
+28,"diabetes_fpg",4664,"Querétaro",2014,27,"Age-standardized",2,"Female",5.55362422173
+28,"diabetes_fpg",4665,"Quintana Roo",2014,27,"Age-standardized",1,"Male",5.21551938814
+28,"diabetes_fpg",4665,"Quintana Roo",2014,27,"Age-standardized",2,"Female",5.84395318178
+28,"diabetes_fpg",4666,"San Luis Potosí",2014,27,"Age-standardized",1,"Male",5.33174572215
+28,"diabetes_fpg",4666,"San Luis Potosí",2014,27,"Age-standardized",2,"Female",5.6468933988
+28,"diabetes_fpg",4667,"Sinaloa",2014,27,"Age-standardized",1,"Male",5.28848225207
+28,"diabetes_fpg",4667,"Sinaloa",2014,27,"Age-standardized",2,"Female",5.51931227806
+28,"diabetes_fpg",4668,"Sonora",2014,27,"Age-standardized",1,"Male",5.13384543587
+28,"diabetes_fpg",4668,"Sonora",2014,27,"Age-standardized",2,"Female",5.66265442167
+28,"diabetes_fpg",4669,"Tabasco",2014,27,"Age-standardized",1,"Male",5.43950520682
+28,"diabetes_fpg",4669,"Tabasco",2014,27,"Age-standardized",2,"Female",5.73269924695
+28,"diabetes_fpg",4670,"Tamaulipas",2014,27,"Age-standardized",1,"Male",5.1828042284
+28,"diabetes_fpg",4670,"Tamaulipas",2014,27,"Age-standardized",2,"Female",6.1995145162
+28,"diabetes_fpg",4671,"Tlaxcala",2014,27,"Age-standardized",1,"Male",5.26708976073
+28,"diabetes_fpg",4671,"Tlaxcala",2014,27,"Age-standardized",2,"Female",5.56481964149
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",1,"Male",5.50788399984
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",2,"Female",6.03404252698
+28,"diabetes_fpg",4673,"Yucatán",2014,27,"Age-standardized",1,"Male",5.17600569697
+28,"diabetes_fpg",4673,"Yucatán",2014,27,"Age-standardized",2,"Female",5.478572367
+28,"diabetes_fpg",4674,"Zacatecas",2014,27,"Age-standardized",1,"Male",5.5253297304
+28,"diabetes_fpg",4674,"Zacatecas",2014,27,"Age-standardized",2,"Female",5.70478685296
+28,"diabetes_fpg",130,"Mexico",2015,27,"Age-standardized",1,"Male",5.33939682113
+28,"diabetes_fpg",130,"Mexico",2015,27,"Age-standardized",2,"Female",5.70905949494
+28,"diabetes_fpg",4643,"Aguascalientes",2015,27,"Age-standardized",1,"Male",5.38884227203
+28,"diabetes_fpg",4643,"Aguascalientes",2015,27,"Age-standardized",2,"Female",5.57276464852
+28,"diabetes_fpg",4644,"Baja California",2015,27,"Age-standardized",1,"Male",5.34644418692
+28,"diabetes_fpg",4644,"Baja California",2015,27,"Age-standardized",2,"Female",5.68999899217
+28,"diabetes_fpg",4645,"Baja California Sur",2015,27,"Age-standardized",1,"Male",5.2822710693
+28,"diabetes_fpg",4645,"Baja California Sur",2015,27,"Age-standardized",2,"Female",5.63881100799
+28,"diabetes_fpg",4646,"Campeche",2015,27,"Age-standardized",1,"Male",5.66367502495
+28,"diabetes_fpg",4646,"Campeche",2015,27,"Age-standardized",2,"Female",5.87919464245
+28,"diabetes_fpg",4647,"Coahuila",2015,27,"Age-standardized",1,"Male",5.31008799749
+28,"diabetes_fpg",4647,"Coahuila",2015,27,"Age-standardized",2,"Female",5.7429905382
+28,"diabetes_fpg",4648,"Colima",2015,27,"Age-standardized",1,"Male",5.41924438941
+28,"diabetes_fpg",4648,"Colima",2015,27,"Age-standardized",2,"Female",5.86921069351
+28,"diabetes_fpg",4649,"Chiapas",2015,27,"Age-standardized",1,"Male",5.01300052468
+28,"diabetes_fpg",4649,"Chiapas",2015,27,"Age-standardized",2,"Female",5.38768820596
+28,"diabetes_fpg",4650,"Chihuahua",2015,27,"Age-standardized",1,"Male",5.28619865848
+28,"diabetes_fpg",4650,"Chihuahua",2015,27,"Age-standardized",2,"Female",5.5417848432
+28,"diabetes_fpg",4651,"Mexico City",2015,27,"Age-standardized",1,"Male",5.27703792532
+28,"diabetes_fpg",4651,"Mexico City",2015,27,"Age-standardized",2,"Female",5.54082787581
+28,"diabetes_fpg",4652,"Durango",2015,27,"Age-standardized",1,"Male",5.38002895032
+28,"diabetes_fpg",4652,"Durango",2015,27,"Age-standardized",2,"Female",5.37331153177
+28,"diabetes_fpg",4653,"Guanajuato",2015,27,"Age-standardized",1,"Male",5.32665929243
+28,"diabetes_fpg",4653,"Guanajuato",2015,27,"Age-standardized",2,"Female",5.87611025051
+28,"diabetes_fpg",4654,"Guerrero",2015,27,"Age-standardized",1,"Male",5.23101789342
+28,"diabetes_fpg",4654,"Guerrero",2015,27,"Age-standardized",2,"Female",5.57623192816
+28,"diabetes_fpg",4655,"Hidalgo",2015,27,"Age-standardized",1,"Male",5.15434606275
+28,"diabetes_fpg",4655,"Hidalgo",2015,27,"Age-standardized",2,"Female",5.77374410617
+28,"diabetes_fpg",4656,"Jalisco",2015,27,"Age-standardized",1,"Male",5.51569662834
+28,"diabetes_fpg",4656,"Jalisco",2015,27,"Age-standardized",2,"Female",5.88147994862
+28,"diabetes_fpg",4657,"México",2015,27,"Age-standardized",1,"Male",5.3907804772
+28,"diabetes_fpg",4657,"México",2015,27,"Age-standardized",2,"Female",5.67610432322
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",1,"Male",5.14726697201
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",2,"Female",5.67767551666
+28,"diabetes_fpg",4659,"Morelos",2015,27,"Age-standardized",1,"Male",5.40312361048
+28,"diabetes_fpg",4659,"Morelos",2015,27,"Age-standardized",2,"Female",5.76155485556
+28,"diabetes_fpg",4660,"Nayarit",2015,27,"Age-standardized",1,"Male",5.37061294979
+28,"diabetes_fpg",4660,"Nayarit",2015,27,"Age-standardized",2,"Female",5.51343511324
+28,"diabetes_fpg",4661,"Nuevo León",2015,27,"Age-standardized",1,"Male",5.43240494706
+28,"diabetes_fpg",4661,"Nuevo León",2015,27,"Age-standardized",2,"Female",6.03508541356
+28,"diabetes_fpg",4662,"Oaxaca",2015,27,"Age-standardized",1,"Male",5.42800144048
+28,"diabetes_fpg",4662,"Oaxaca",2015,27,"Age-standardized",2,"Female",5.46276065025
+28,"diabetes_fpg",4663,"Puebla",2015,27,"Age-standardized",1,"Male",5.46610350738
+28,"diabetes_fpg",4663,"Puebla",2015,27,"Age-standardized",2,"Female",5.60588409644
+28,"diabetes_fpg",4664,"Querétaro",2015,27,"Age-standardized",1,"Male",5.22908222722
+28,"diabetes_fpg",4664,"Querétaro",2015,27,"Age-standardized",2,"Female",5.56036741726
+28,"diabetes_fpg",4665,"Quintana Roo",2015,27,"Age-standardized",1,"Male",5.22306235682
+28,"diabetes_fpg",4665,"Quintana Roo",2015,27,"Age-standardized",2,"Female",5.85243343352
+28,"diabetes_fpg",4666,"San Luis Potosí",2015,27,"Age-standardized",1,"Male",5.34317165424
+28,"diabetes_fpg",4666,"San Luis Potosí",2015,27,"Age-standardized",2,"Female",5.65482567767
+28,"diabetes_fpg",4667,"Sinaloa",2015,27,"Age-standardized",1,"Male",5.29099145355
+28,"diabetes_fpg",4667,"Sinaloa",2015,27,"Age-standardized",2,"Female",5.52516052447
+28,"diabetes_fpg",4668,"Sonora",2015,27,"Age-standardized",1,"Male",5.14152043736
+28,"diabetes_fpg",4668,"Sonora",2015,27,"Age-standardized",2,"Female",5.66962512218
+28,"diabetes_fpg",4669,"Tabasco",2015,27,"Age-standardized",1,"Male",5.44367931149
+28,"diabetes_fpg",4669,"Tabasco",2015,27,"Age-standardized",2,"Female",5.73866337972
+28,"diabetes_fpg",4670,"Tamaulipas",2015,27,"Age-standardized",1,"Male",5.18705027074
+28,"diabetes_fpg",4670,"Tamaulipas",2015,27,"Age-standardized",2,"Female",6.20643603784
+28,"diabetes_fpg",4671,"Tlaxcala",2015,27,"Age-standardized",1,"Male",5.27361083445
+28,"diabetes_fpg",4671,"Tlaxcala",2015,27,"Age-standardized",2,"Female",5.57139190007
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",1,"Male",5.51274207637
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",2,"Female",6.04330896249
+28,"diabetes_fpg",4673,"Yucatán",2015,27,"Age-standardized",1,"Male",5.17920199727
+28,"diabetes_fpg",4673,"Yucatán",2015,27,"Age-standardized",2,"Female",5.48552273409
+28,"diabetes_fpg",4674,"Zacatecas",2015,27,"Age-standardized",1,"Male",5.53455206353
+28,"diabetes_fpg",4674,"Zacatecas",2015,27,"Age-standardized",2,"Female",5.71221468261
+28,"diabetes_fpg",130,"Mexico",2016,27,"Age-standardized",1,"Male",5.34549054732
+28,"diabetes_fpg",130,"Mexico",2016,27,"Age-standardized",2,"Female",5.71755860701
+28,"diabetes_fpg",4643,"Aguascalientes",2016,27,"Age-standardized",1,"Male",5.393143258
+28,"diabetes_fpg",4643,"Aguascalientes",2016,27,"Age-standardized",2,"Female",5.57982556886
+28,"diabetes_fpg",4644,"Baja California",2016,27,"Age-standardized",1,"Male",5.35153635874
+28,"diabetes_fpg",4644,"Baja California",2016,27,"Age-standardized",2,"Female",5.69700651261
+28,"diabetes_fpg",4645,"Baja California Sur",2016,27,"Age-standardized",1,"Male",5.28446265012
+28,"diabetes_fpg",4645,"Baja California Sur",2016,27,"Age-standardized",2,"Female",5.64423770046
+28,"diabetes_fpg",4646,"Campeche",2016,27,"Age-standardized",1,"Male",5.6704029627
+28,"diabetes_fpg",4646,"Campeche",2016,27,"Age-standardized",2,"Female",5.88549137362
+28,"diabetes_fpg",4647,"Coahuila",2016,27,"Age-standardized",1,"Male",5.317614842
+28,"diabetes_fpg",4647,"Coahuila",2016,27,"Age-standardized",2,"Female",5.74918594011
+28,"diabetes_fpg",4648,"Colima",2016,27,"Age-standardized",1,"Male",5.42579231886
+28,"diabetes_fpg",4648,"Colima",2016,27,"Age-standardized",2,"Female",5.87636968932
+28,"diabetes_fpg",4649,"Chiapas",2016,27,"Age-standardized",1,"Male",5.02523865976
+28,"diabetes_fpg",4649,"Chiapas",2016,27,"Age-standardized",2,"Female",5.39658725616
+28,"diabetes_fpg",4650,"Chihuahua",2016,27,"Age-standardized",1,"Male",5.29491099909
+28,"diabetes_fpg",4650,"Chihuahua",2016,27,"Age-standardized",2,"Female",5.54953724595
+28,"diabetes_fpg",4651,"Mexico City",2016,27,"Age-standardized",1,"Male",5.28425140843
+28,"diabetes_fpg",4651,"Mexico City",2016,27,"Age-standardized",2,"Female",5.55381672351
+28,"diabetes_fpg",4652,"Durango",2016,27,"Age-standardized",1,"Male",5.38337499115
+28,"diabetes_fpg",4652,"Durango",2016,27,"Age-standardized",2,"Female",5.37933026894
+28,"diabetes_fpg",4653,"Guanajuato",2016,27,"Age-standardized",1,"Male",5.33397625492
+28,"diabetes_fpg",4653,"Guanajuato",2016,27,"Age-standardized",2,"Female",5.88324006995
+28,"diabetes_fpg",4654,"Guerrero",2016,27,"Age-standardized",1,"Male",5.23885822729
+28,"diabetes_fpg",4654,"Guerrero",2016,27,"Age-standardized",2,"Female",5.58483921983
+28,"diabetes_fpg",4655,"Hidalgo",2016,27,"Age-standardized",1,"Male",5.15996174279
+28,"diabetes_fpg",4655,"Hidalgo",2016,27,"Age-standardized",2,"Female",5.78126059174
+28,"diabetes_fpg",4656,"Jalisco",2016,27,"Age-standardized",1,"Male",5.51980794862
+28,"diabetes_fpg",4656,"Jalisco",2016,27,"Age-standardized",2,"Female",5.88787638082
+28,"diabetes_fpg",4657,"México",2016,27,"Age-standardized",1,"Male",5.39733320809
+28,"diabetes_fpg",4657,"México",2016,27,"Age-standardized",2,"Female",5.68748965562
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",1,"Male",5.15391833426
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",2,"Female",5.68510959181
+28,"diabetes_fpg",4659,"Morelos",2016,27,"Age-standardized",1,"Male",5.40708968343
+28,"diabetes_fpg",4659,"Morelos",2016,27,"Age-standardized",2,"Female",5.76928038264
+28,"diabetes_fpg",4660,"Nayarit",2016,27,"Age-standardized",1,"Male",5.37769842202
+28,"diabetes_fpg",4660,"Nayarit",2016,27,"Age-standardized",2,"Female",5.51901544619
+28,"diabetes_fpg",4661,"Nuevo León",2016,27,"Age-standardized",1,"Male",5.43772601911
+28,"diabetes_fpg",4661,"Nuevo León",2016,27,"Age-standardized",2,"Female",6.04189922211
+28,"diabetes_fpg",4662,"Oaxaca",2016,27,"Age-standardized",1,"Male",5.43204797599
+28,"diabetes_fpg",4662,"Oaxaca",2016,27,"Age-standardized",2,"Female",5.47040739029
+28,"diabetes_fpg",4663,"Puebla",2016,27,"Age-standardized",1,"Male",5.47100528422
+28,"diabetes_fpg",4663,"Puebla",2016,27,"Age-standardized",2,"Female",5.61383516984
+28,"diabetes_fpg",4664,"Querétaro",2016,27,"Age-standardized",1,"Male",5.23657094534
+28,"diabetes_fpg",4664,"Querétaro",2016,27,"Age-standardized",2,"Female",5.56722313037
+28,"diabetes_fpg",4665,"Quintana Roo",2016,27,"Age-standardized",1,"Male",5.23064733654
+28,"diabetes_fpg",4665,"Quintana Roo",2016,27,"Age-standardized",2,"Female",5.86101629719
+28,"diabetes_fpg",4666,"San Luis Potosí",2016,27,"Age-standardized",1,"Male",5.35467323757
+28,"diabetes_fpg",4666,"San Luis Potosí",2016,27,"Age-standardized",2,"Female",5.66276683021
+28,"diabetes_fpg",4667,"Sinaloa",2016,27,"Age-standardized",1,"Male",5.29351503295
+28,"diabetes_fpg",4667,"Sinaloa",2016,27,"Age-standardized",2,"Female",5.5310117869
+28,"diabetes_fpg",4668,"Sonora",2016,27,"Age-standardized",1,"Male",5.14924075209
+28,"diabetes_fpg",4668,"Sonora",2016,27,"Age-standardized",2,"Female",5.67677244397
+28,"diabetes_fpg",4669,"Tabasco",2016,27,"Age-standardized",1,"Male",5.44789894877
+28,"diabetes_fpg",4669,"Tabasco",2016,27,"Age-standardized",2,"Female",5.74468542914
+28,"diabetes_fpg",4670,"Tamaulipas",2016,27,"Age-standardized",1,"Male",5.19135147801
+28,"diabetes_fpg",4670,"Tamaulipas",2016,27,"Age-standardized",2,"Female",6.21340015254
+28,"diabetes_fpg",4671,"Tlaxcala",2016,27,"Age-standardized",1,"Male",5.28020188165
+28,"diabetes_fpg",4671,"Tlaxcala",2016,27,"Age-standardized",2,"Female",5.57812104717
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",1,"Male",5.5176461374
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",2,"Female",6.05266842149
+28,"diabetes_fpg",4673,"Yucatán",2016,27,"Age-standardized",1,"Male",5.1824431225
+28,"diabetes_fpg",4673,"Yucatán",2016,27,"Age-standardized",2,"Female",5.49254267981
+28,"diabetes_fpg",4674,"Zacatecas",2016,27,"Age-standardized",1,"Male",5.54381763282
+28,"diabetes_fpg",4674,"Zacatecas",2016,27,"Age-standardized",2,"Female",5.71973020651
+28,"diabetes_fpg",130,"Mexico",2017,27,"Age-standardized",1,"Male",5.34549054732
+28,"diabetes_fpg",130,"Mexico",2017,27,"Age-standardized",2,"Female",5.71755860701
+28,"diabetes_fpg",4643,"Aguascalientes",2017,27,"Age-standardized",1,"Male",5.393143258
+28,"diabetes_fpg",4643,"Aguascalientes",2017,27,"Age-standardized",2,"Female",5.57982556886
+28,"diabetes_fpg",4644,"Baja California",2017,27,"Age-standardized",1,"Male",5.35153635874
+28,"diabetes_fpg",4644,"Baja California",2017,27,"Age-standardized",2,"Female",5.69700651261
+28,"diabetes_fpg",4645,"Baja California Sur",2017,27,"Age-standardized",1,"Male",5.28446265012
+28,"diabetes_fpg",4645,"Baja California Sur",2017,27,"Age-standardized",2,"Female",5.64423770046
+28,"diabetes_fpg",4646,"Campeche",2017,27,"Age-standardized",1,"Male",5.6704029627
+28,"diabetes_fpg",4646,"Campeche",2017,27,"Age-standardized",2,"Female",5.88549137362
+28,"diabetes_fpg",4647,"Coahuila",2017,27,"Age-standardized",1,"Male",5.317614842
+28,"diabetes_fpg",4647,"Coahuila",2017,27,"Age-standardized",2,"Female",5.74918594011
+28,"diabetes_fpg",4648,"Colima",2017,27,"Age-standardized",1,"Male",5.42579231886
+28,"diabetes_fpg",4648,"Colima",2017,27,"Age-standardized",2,"Female",5.87636968932
+28,"diabetes_fpg",4649,"Chiapas",2017,27,"Age-standardized",1,"Male",5.02523865976
+28,"diabetes_fpg",4649,"Chiapas",2017,27,"Age-standardized",2,"Female",5.39658725616
+28,"diabetes_fpg",4650,"Chihuahua",2017,27,"Age-standardized",1,"Male",5.29491099909
+28,"diabetes_fpg",4650,"Chihuahua",2017,27,"Age-standardized",2,"Female",5.54953724595
+28,"diabetes_fpg",4651,"Mexico City",2017,27,"Age-standardized",1,"Male",5.28425140843
+28,"diabetes_fpg",4651,"Mexico City",2017,27,"Age-standardized",2,"Female",5.55381672351
+28,"diabetes_fpg",4652,"Durango",2017,27,"Age-standardized",1,"Male",5.38337499115
+28,"diabetes_fpg",4652,"Durango",2017,27,"Age-standardized",2,"Female",5.37933026894
+28,"diabetes_fpg",4653,"Guanajuato",2017,27,"Age-standardized",1,"Male",5.33397625492
+28,"diabetes_fpg",4653,"Guanajuato",2017,27,"Age-standardized",2,"Female",5.88324006995
+28,"diabetes_fpg",4654,"Guerrero",2017,27,"Age-standardized",1,"Male",5.23885822729
+28,"diabetes_fpg",4654,"Guerrero",2017,27,"Age-standardized",2,"Female",5.58483921983
+28,"diabetes_fpg",4655,"Hidalgo",2017,27,"Age-standardized",1,"Male",5.15996174279
+28,"diabetes_fpg",4655,"Hidalgo",2017,27,"Age-standardized",2,"Female",5.78126059174
+28,"diabetes_fpg",4656,"Jalisco",2017,27,"Age-standardized",1,"Male",5.51980794862
+28,"diabetes_fpg",4656,"Jalisco",2017,27,"Age-standardized",2,"Female",5.88787638082
+28,"diabetes_fpg",4657,"México",2017,27,"Age-standardized",1,"Male",5.39733320809
+28,"diabetes_fpg",4657,"México",2017,27,"Age-standardized",2,"Female",5.68748965562
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",1,"Male",5.15391833426
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",2,"Female",5.68510959181
+28,"diabetes_fpg",4659,"Morelos",2017,27,"Age-standardized",1,"Male",5.40708968343
+28,"diabetes_fpg",4659,"Morelos",2017,27,"Age-standardized",2,"Female",5.76928038264
+28,"diabetes_fpg",4660,"Nayarit",2017,27,"Age-standardized",1,"Male",5.37769842202
+28,"diabetes_fpg",4660,"Nayarit",2017,27,"Age-standardized",2,"Female",5.51901544619
+28,"diabetes_fpg",4661,"Nuevo León",2017,27,"Age-standardized",1,"Male",5.43772601911
+28,"diabetes_fpg",4661,"Nuevo León",2017,27,"Age-standardized",2,"Female",6.04189922211
+28,"diabetes_fpg",4662,"Oaxaca",2017,27,"Age-standardized",1,"Male",5.43204797599
+28,"diabetes_fpg",4662,"Oaxaca",2017,27,"Age-standardized",2,"Female",5.47040739029
+28,"diabetes_fpg",4663,"Puebla",2017,27,"Age-standardized",1,"Male",5.47100528422
+28,"diabetes_fpg",4663,"Puebla",2017,27,"Age-standardized",2,"Female",5.61383516984
+28,"diabetes_fpg",4664,"Querétaro",2017,27,"Age-standardized",1,"Male",5.23657094534
+28,"diabetes_fpg",4664,"Querétaro",2017,27,"Age-standardized",2,"Female",5.56722313037
+28,"diabetes_fpg",4665,"Quintana Roo",2017,27,"Age-standardized",1,"Male",5.23064733654
+28,"diabetes_fpg",4665,"Quintana Roo",2017,27,"Age-standardized",2,"Female",5.86101629719
+28,"diabetes_fpg",4666,"San Luis Potosí",2017,27,"Age-standardized",1,"Male",5.35467323757
+28,"diabetes_fpg",4666,"San Luis Potosí",2017,27,"Age-standardized",2,"Female",5.66276683021
+28,"diabetes_fpg",4667,"Sinaloa",2017,27,"Age-standardized",1,"Male",5.29351503295
+28,"diabetes_fpg",4667,"Sinaloa",2017,27,"Age-standardized",2,"Female",5.5310117869
+28,"diabetes_fpg",4668,"Sonora",2017,27,"Age-standardized",1,"Male",5.14924075209
+28,"diabetes_fpg",4668,"Sonora",2017,27,"Age-standardized",2,"Female",5.67677244397
+28,"diabetes_fpg",4669,"Tabasco",2017,27,"Age-standardized",1,"Male",5.44789894877
+28,"diabetes_fpg",4669,"Tabasco",2017,27,"Age-standardized",2,"Female",5.74468542914
+28,"diabetes_fpg",4670,"Tamaulipas",2017,27,"Age-standardized",1,"Male",5.19135147801
+28,"diabetes_fpg",4670,"Tamaulipas",2017,27,"Age-standardized",2,"Female",6.21340015254
+28,"diabetes_fpg",4671,"Tlaxcala",2017,27,"Age-standardized",1,"Male",5.28020188165
+28,"diabetes_fpg",4671,"Tlaxcala",2017,27,"Age-standardized",2,"Female",5.57812104717
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",1,"Male",5.5176461374
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",2,"Female",6.05266842149
+28,"diabetes_fpg",4673,"Yucatán",2017,27,"Age-standardized",1,"Male",5.1824431225
+28,"diabetes_fpg",4673,"Yucatán",2017,27,"Age-standardized",2,"Female",5.49254267981
+28,"diabetes_fpg",4674,"Zacatecas",2017,27,"Age-standardized",1,"Male",5.54381763282
+28,"diabetes_fpg",4674,"Zacatecas",2017,27,"Age-standardized",2,"Female",5.71973020651
+28,"diabetes_fpg",130,"Mexico",2018,27,"Age-standardized",1,"Male",5.34904125883593
+28,"diabetes_fpg",130,"Mexico",2018,27,"Age-standardized",2,"Female",5.72164700349525
+28,"diabetes_fpg",4643,"Aguascalientes",2018,27,"Age-standardized",1,"Male",5.39651319066831
+28,"diabetes_fpg",4643,"Aguascalientes",2018,27,"Age-standardized",2,"Female",5.58357887331607
+28,"diabetes_fpg",4644,"Baja California",2018,27,"Age-standardized",1,"Male",5.35395951045718
+28,"diabetes_fpg",4644,"Baja California",2018,27,"Age-standardized",2,"Female",5.69978341037398
+28,"diabetes_fpg",4645,"Baja California Sur",2018,27,"Age-standardized",1,"Male",5.28724048420837
+28,"diabetes_fpg",4645,"Baja California Sur",2018,27,"Age-standardized",2,"Female",5.64743161303065
+28,"diabetes_fpg",4646,"Campeche",2018,27,"Age-standardized",1,"Male",5.67480072277206
+28,"diabetes_fpg",4646,"Campeche",2018,27,"Age-standardized",2,"Female",5.89040516532512
+28,"diabetes_fpg",4647,"Coahuila",2018,27,"Age-standardized",1,"Male",5.32091469727732
+28,"diabetes_fpg",4647,"Coahuila",2018,27,"Age-standardized",2,"Female",5.75302653237985
+28,"diabetes_fpg",4648,"Colima",2018,27,"Age-standardized",1,"Male",5.42926043110908
+28,"diabetes_fpg",4648,"Colima",2018,27,"Age-standardized",2,"Female",5.8804131500685
+28,"diabetes_fpg",4649,"Chiapas",2018,27,"Age-standardized",1,"Male",5.0294938211277
+28,"diabetes_fpg",4649,"Chiapas",2018,27,"Age-standardized",2,"Female",5.40150647488879
+28,"diabetes_fpg",4650,"Chihuahua",2018,27,"Age-standardized",1,"Male",5.29821314635704
+28,"diabetes_fpg",4650,"Chihuahua",2018,27,"Age-standardized",2,"Female",5.55326295063838
+28,"diabetes_fpg",4651,"Mexico City",2018,27,"Age-standardized",1,"Male",5.28700224193244
+28,"diabetes_fpg",4651,"Mexico City",2018,27,"Age-standardized",2,"Female",5.55692904571062
+28,"diabetes_fpg",4652,"Durango",2018,27,"Age-standardized",1,"Male",5.38748950742894
+28,"diabetes_fpg",4652,"Durango",2018,27,"Age-standardized",2,"Female",5.38375624010896
+28,"diabetes_fpg",4653,"Guanajuato",2018,27,"Age-standardized",1,"Male",5.33788765203705
+28,"diabetes_fpg",4653,"Guanajuato",2018,27,"Age-standardized",2,"Female",5.88788429341539
+28,"diabetes_fpg",4654,"Guerrero",2018,27,"Age-standardized",1,"Male",5.24292440607858
+28,"diabetes_fpg",4654,"Guerrero",2018,27,"Age-standardized",2,"Female",5.58950556559265
+28,"diabetes_fpg",4655,"Hidalgo",2018,27,"Age-standardized",1,"Male",5.16344583919313
+28,"diabetes_fpg",4655,"Hidalgo",2018,27,"Age-standardized",2,"Female",5.78546283285798
+28,"diabetes_fpg",4656,"Jalisco",2018,27,"Age-standardized",1,"Male",5.52351235693258
+28,"diabetes_fpg",4656,"Jalisco",2018,27,"Age-standardized",2,"Female",5.89213009434606
+28,"diabetes_fpg",4657,"México",2018,27,"Age-standardized",1,"Male",5.40092105094739
+28,"diabetes_fpg",4657,"México",2018,27,"Age-standardized",2,"Female",5.69155960839022
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",1,"Male",5.15795071347087
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",2,"Female",5.68989786802311
+28,"diabetes_fpg",4659,"Morelos",2018,27,"Age-standardized",1,"Male",5.41046186549962
+28,"diabetes_fpg",4659,"Morelos",2018,27,"Age-standardized",2,"Female",5.77315369902108
+28,"diabetes_fpg",4660,"Nayarit",2018,27,"Age-standardized",1,"Male",5.38193149635868
+28,"diabetes_fpg",4660,"Nayarit",2018,27,"Age-standardized",2,"Female",5.52369212624781
+28,"diabetes_fpg",4661,"Nuevo León",2018,27,"Age-standardized",1,"Male",5.44025163356258
+28,"diabetes_fpg",4661,"Nuevo León",2018,27,"Age-standardized",2,"Female",6.04492010890965
+28,"diabetes_fpg",4662,"Oaxaca",2018,27,"Age-standardized",1,"Male",5.43658269843158
+28,"diabetes_fpg",4662,"Oaxaca",2018,27,"Age-standardized",2,"Female",5.47532352950696
+28,"diabetes_fpg",4663,"Puebla",2018,27,"Age-standardized",1,"Male",5.47471077870802
+28,"diabetes_fpg",4663,"Puebla",2018,27,"Age-standardized",2,"Female",5.61792828034196
+28,"diabetes_fpg",4664,"Querétaro",2018,27,"Age-standardized",1,"Male",5.2391839560339
+28,"diabetes_fpg",4664,"Querétaro",2018,27,"Age-standardized",2,"Female",5.57021363609791
+28,"diabetes_fpg",4665,"Quintana Roo",2018,27,"Age-standardized",1,"Male",5.23306554299716
+28,"diabetes_fpg",4665,"Quintana Roo",2018,27,"Age-standardized",2,"Female",5.86393320076115
+28,"diabetes_fpg",4666,"San Luis Potosí",2018,27,"Age-standardized",1,"Male",5.35864652291598
+28,"diabetes_fpg",4666,"San Luis Potosí",2018,27,"Age-standardized",2,"Female",5.66729019185133
+28,"diabetes_fpg",4667,"Sinaloa",2018,27,"Age-standardized",1,"Male",5.29699685005485
+28,"diabetes_fpg",4667,"Sinaloa",2018,27,"Age-standardized",2,"Female",5.5349281309584
+28,"diabetes_fpg",4668,"Sonora",2018,27,"Age-standardized",1,"Male",5.15216289156077
+28,"diabetes_fpg",4668,"Sonora",2018,27,"Age-standardized",2,"Female",5.6802403888087
+28,"diabetes_fpg",4669,"Tabasco",2018,27,"Age-standardized",1,"Male",5.45209371828731
+28,"diabetes_fpg",4669,"Tabasco",2018,27,"Age-standardized",2,"Female",5.74944712470656
+28,"diabetes_fpg",4670,"Tamaulipas",2018,27,"Age-standardized",1,"Male",5.19434781662593
+28,"diabetes_fpg",4670,"Tamaulipas",2018,27,"Age-standardized",2,"Female",6.2172607355478
+28,"diabetes_fpg",4671,"Tlaxcala",2018,27,"Age-standardized",1,"Male",5.28300288189408
+28,"diabetes_fpg",4671,"Tlaxcala",2018,27,"Age-standardized",2,"Female",5.58130643921714
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",1,"Male",5.52199470013731
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",2,"Female",6.05780359820209
+28,"diabetes_fpg",4673,"Yucatán",2018,27,"Age-standardized",1,"Male",5.18619182730282
+28,"diabetes_fpg",4673,"Yucatán",2018,27,"Age-standardized",2,"Female",5.49681964463038
+28,"diabetes_fpg",4674,"Zacatecas",2018,27,"Age-standardized",1,"Male",5.54881978171902
+28,"diabetes_fpg",4674,"Zacatecas",2018,27,"Age-standardized",2,"Female",5.72528594420932
+28,"diabetes_fpg",130,"Mexico",2019,27,"Age-standardized",1,"Male",5.35233713049998
+28,"diabetes_fpg",130,"Mexico",2019,27,"Age-standardized",2,"Female",5.72544215541846
+28,"diabetes_fpg",4643,"Aguascalientes",2019,27,"Age-standardized",1,"Male",5.39972015968073
+28,"diabetes_fpg",4643,"Aguascalientes",2019,27,"Age-standardized",2,"Female",5.58715084142564
+28,"diabetes_fpg",4644,"Baja California",2019,27,"Age-standardized",1,"Male",5.35630143102772
+28,"diabetes_fpg",4644,"Baja California",2019,27,"Age-standardized",2,"Female",5.70246730972255
+28,"diabetes_fpg",4645,"Baja California Sur",2019,27,"Age-standardized",1,"Male",5.28991482355531
+28,"diabetes_fpg",4645,"Baja California Sur",2019,27,"Age-standardized",2,"Female",5.65050665012392
+28,"diabetes_fpg",4646,"Campeche",2019,27,"Age-standardized",1,"Male",5.67881967541568
+28,"diabetes_fpg",4646,"Campeche",2019,27,"Age-standardized",2,"Female",5.89489595515061
+28,"diabetes_fpg",4647,"Coahuila",2019,27,"Age-standardized",1,"Male",5.32405396481769
+28,"diabetes_fpg",4647,"Coahuila",2019,27,"Age-standardized",2,"Female",5.7566803909725
+28,"diabetes_fpg",4648,"Colima",2019,27,"Age-standardized",1,"Male",5.43247690178815
+28,"diabetes_fpg",4648,"Colima",2019,27,"Age-standardized",2,"Female",5.88416339928455
+28,"diabetes_fpg",4649,"Chiapas",2019,27,"Age-standardized",1,"Male",5.03322976072358
+28,"diabetes_fpg",4649,"Chiapas",2019,27,"Age-standardized",2,"Female",5.40582570488301
+28,"diabetes_fpg",4650,"Chihuahua",2019,27,"Age-standardized",1,"Male",5.30121952787995
+28,"diabetes_fpg",4650,"Chihuahua",2019,27,"Age-standardized",2,"Female",5.55665510695624
+28,"diabetes_fpg",4651,"Mexico City",2019,27,"Age-standardized",1,"Male",5.28972106356299
+28,"diabetes_fpg",4651,"Mexico City",2019,27,"Age-standardized",2,"Female",5.56000527102695
+28,"diabetes_fpg",4652,"Durango",2019,27,"Age-standardized",1,"Male",5.39120342292733
+28,"diabetes_fpg",4652,"Durango",2019,27,"Age-standardized",2,"Female",5.38775150836192
+28,"diabetes_fpg",4653,"Guanajuato",2019,27,"Age-standardized",1,"Male",5.34154468785187
+28,"diabetes_fpg",4653,"Guanajuato",2019,27,"Age-standardized",2,"Female",5.89222673471452
+28,"diabetes_fpg",4654,"Guerrero",2019,27,"Age-standardized",1,"Male",5.24654487128416
+28,"diabetes_fpg",4654,"Guerrero",2019,27,"Age-standardized",2,"Female",5.59366064348896
+28,"diabetes_fpg",4655,"Hidalgo",2019,27,"Age-standardized",1,"Male",5.16668518543415
+28,"diabetes_fpg",4655,"Hidalgo",2019,27,"Age-standardized",2,"Female",5.78937007025288
+28,"diabetes_fpg",4656,"Jalisco",2019,27,"Age-standardized",1,"Male",5.52695712811514
+28,"diabetes_fpg",4656,"Jalisco",2019,27,"Age-standardized",2,"Female",5.89608586643116
+28,"diabetes_fpg",4657,"México",2019,27,"Age-standardized",1,"Male",5.40420208232377
+28,"diabetes_fpg",4657,"México",2019,27,"Age-standardized",2,"Female",5.69528170344328
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",1,"Male",5.16163839159977
+28,"diabetes_fpg",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",2,"Female",5.69427707720632
+28,"diabetes_fpg",4659,"Morelos",2019,27,"Age-standardized",1,"Male",5.41368002348052
+28,"diabetes_fpg",4659,"Morelos",2019,27,"Age-standardized",2,"Female",5.77685027421969
+28,"diabetes_fpg",4660,"Nayarit",2019,27,"Age-standardized",1,"Male",5.38582168100268
+28,"diabetes_fpg",4660,"Nayarit",2019,27,"Age-standardized",2,"Female",5.52799023148495
+28,"diabetes_fpg",4661,"Nuevo León",2019,27,"Age-standardized",1,"Male",5.44275318541461
+28,"diabetes_fpg",4661,"Nuevo León",2019,27,"Age-standardized",2,"Female",6.04791232016283
+28,"diabetes_fpg",4662,"Oaxaca",2019,27,"Age-standardized",1,"Male",5.44069058186861
+28,"diabetes_fpg",4662,"Oaxaca",2019,27,"Age-standardized",2,"Female",5.4797771988898
+28,"diabetes_fpg",4663,"Puebla",2019,27,"Age-standardized",1,"Male",5.47818379165458
+28,"diabetes_fpg",4663,"Puebla",2019,27,"Age-standardized",2,"Female",5.62176478274526
+28,"diabetes_fpg",4664,"Querétaro",2019,27,"Age-standardized",1,"Male",5.24181691412008
+28,"diabetes_fpg",4664,"Querétaro",2019,27,"Age-standardized",2,"Female",5.57322708633942
+28,"diabetes_fpg",4665,"Quintana Roo",2019,27,"Age-standardized",1,"Male",5.23546496024698
+28,"diabetes_fpg",4665,"Quintana Roo",2019,27,"Age-standardized",2,"Female",5.86682754218461
+28,"diabetes_fpg",4666,"San Luis Potosí",2019,27,"Age-standardized",1,"Male",5.36230389981366
+28,"diabetes_fpg",4666,"San Luis Potosí",2019,27,"Age-standardized",2,"Female",5.67145413623349
+28,"diabetes_fpg",4667,"Sinaloa",2019,27,"Age-standardized",1,"Male",5.30028962661649
+28,"diabetes_fpg",4667,"Sinaloa",2019,27,"Age-standardized",2,"Female",5.53863202355109
+28,"diabetes_fpg",4668,"Sonora",2019,27,"Age-standardized",1,"Male",5.15495650148027
+28,"diabetes_fpg",4668,"Sonora",2019,27,"Age-standardized",2,"Female",5.68355593763036
+28,"diabetes_fpg",4669,"Tabasco",2019,27,"Age-standardized",1,"Male",5.45596289360727
+28,"diabetes_fpg",4669,"Tabasco",2019,27,"Age-standardized",2,"Female",5.75383947019624
+28,"diabetes_fpg",4670,"Tamaulipas",2019,27,"Age-standardized",1,"Male",5.19724416765974
+28,"diabetes_fpg",4670,"Tamaulipas",2019,27,"Age-standardized",2,"Female",6.22099265308601
+28,"diabetes_fpg",4671,"Tlaxcala",2019,27,"Age-standardized",1,"Male",5.28583425000855
+28,"diabetes_fpg",4671,"Tlaxcala",2019,27,"Age-standardized",2,"Female",5.5845264978965
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",1,"Male",5.52595078136613
+28,"diabetes_fpg",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",2,"Female",6.0624755658654
+28,"diabetes_fpg",4673,"Yucatán",2019,27,"Age-standardized",1,"Male",5.18975950697333
+28,"diabetes_fpg",4673,"Yucatán",2019,27,"Age-standardized",2,"Female",5.50089029419507
+28,"diabetes_fpg",4674,"Zacatecas",2019,27,"Age-standardized",1,"Male",5.55329986689268
+28,"diabetes_fpg",4674,"Zacatecas",2019,27,"Age-standardized",2,"Female",5.730262166445

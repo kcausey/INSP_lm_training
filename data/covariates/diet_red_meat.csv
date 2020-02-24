@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+941,"red_meats_g_unadj",130,"Mexico",1990,22,"All Ages",3,"Both",71.186554
+941,"red_meats_g_unadj",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",82.872528
+941,"red_meats_g_unadj",4644,"Baja California",1990,22,"All Ages",3,"Both",78.79155
+941,"red_meats_g_unadj",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",86.394646
+941,"red_meats_g_unadj",4646,"Campeche",1990,22,"All Ages",3,"Both",65.435898
+941,"red_meats_g_unadj",4647,"Coahuila",1990,22,"All Ages",3,"Both",75.974777
+941,"red_meats_g_unadj",4648,"Colima",1990,22,"All Ages",3,"Both",73.804115
+941,"red_meats_g_unadj",4649,"Chiapas",1990,22,"All Ages",3,"Both",48.961945
+941,"red_meats_g_unadj",4650,"Chihuahua",1990,22,"All Ages",3,"Both",70.40358
+941,"red_meats_g_unadj",4651,"Mexico City",1990,22,"All Ages",3,"Both",80.954384
+941,"red_meats_g_unadj",4652,"Durango",1990,22,"All Ages",3,"Both",74.87429
+941,"red_meats_g_unadj",4653,"Guanajuato",1990,22,"All Ages",3,"Both",69.089577
+941,"red_meats_g_unadj",4654,"Guerrero",1990,22,"All Ages",3,"Both",56.465134
+941,"red_meats_g_unadj",4655,"Hidalgo",1990,22,"All Ages",3,"Both",61.644802
+941,"red_meats_g_unadj",4656,"Jalisco",1990,22,"All Ages",3,"Both",79.789978
+941,"red_meats_g_unadj",4657,"México",1990,22,"All Ages",3,"Both",76.093994
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",66.614326
+941,"red_meats_g_unadj",4659,"Morelos",1990,22,"All Ages",3,"Both",71.8078
+941,"red_meats_g_unadj",4660,"Nayarit",1990,22,"All Ages",3,"Both",67.813385
+941,"red_meats_g_unadj",4661,"Nuevo León",1990,22,"All Ages",3,"Both",87.836334
+941,"red_meats_g_unadj",4662,"Oaxaca",1990,22,"All Ages",3,"Both",57.901623
+941,"red_meats_g_unadj",4663,"Puebla",1990,22,"All Ages",3,"Both",64.636719
+941,"red_meats_g_unadj",4664,"Querétaro",1990,22,"All Ages",3,"Both",72.967285
+941,"red_meats_g_unadj",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",70.129837
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",62.194767
+941,"red_meats_g_unadj",4667,"Sinaloa",1990,22,"All Ages",3,"Both",79.539108
+941,"red_meats_g_unadj",4668,"Sonora",1990,22,"All Ages",3,"Both",76.815475
+941,"red_meats_g_unadj",4669,"Tabasco",1990,22,"All Ages",3,"Both",65.483383
+941,"red_meats_g_unadj",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",78.950165
+941,"red_meats_g_unadj",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",60.888592
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",63.608181
+941,"red_meats_g_unadj",4673,"Yucatán",1990,22,"All Ages",3,"Both",72.859894
+941,"red_meats_g_unadj",4674,"Zacatecas",1990,22,"All Ages",3,"Both",63.622234
+941,"red_meats_g_unadj",130,"Mexico",1991,22,"All Ages",3,"Both",70.861641
+941,"red_meats_g_unadj",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",82.253799
+941,"red_meats_g_unadj",4644,"Baja California",1991,22,"All Ages",3,"Both",78.324783
+941,"red_meats_g_unadj",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",85.503181
+941,"red_meats_g_unadj",4646,"Campeche",1991,22,"All Ages",3,"Both",65.239517
+941,"red_meats_g_unadj",4647,"Coahuila",1991,22,"All Ages",3,"Both",75.848351
+941,"red_meats_g_unadj",4648,"Colima",1991,22,"All Ages",3,"Both",73.517136
+941,"red_meats_g_unadj",4649,"Chiapas",1991,22,"All Ages",3,"Both",49.196663
+941,"red_meats_g_unadj",4650,"Chihuahua",1991,22,"All Ages",3,"Both",70.431862
+941,"red_meats_g_unadj",4651,"Mexico City",1991,22,"All Ages",3,"Both",80.703186
+941,"red_meats_g_unadj",4652,"Durango",1991,22,"All Ages",3,"Both",74.336731
+941,"red_meats_g_unadj",4653,"Guanajuato",1991,22,"All Ages",3,"Both",68.921707
+941,"red_meats_g_unadj",4654,"Guerrero",1991,22,"All Ages",3,"Both",56.375481
+941,"red_meats_g_unadj",4655,"Hidalgo",1991,22,"All Ages",3,"Both",61.33585
+941,"red_meats_g_unadj",4656,"Jalisco",1991,22,"All Ages",3,"Both",79.242691
+941,"red_meats_g_unadj",4657,"México",1991,22,"All Ages",3,"Both",75.490822
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",66.342789
+941,"red_meats_g_unadj",4659,"Morelos",1991,22,"All Ages",3,"Both",71.359924
+941,"red_meats_g_unadj",4660,"Nayarit",1991,22,"All Ages",3,"Both",67.707428
+941,"red_meats_g_unadj",4661,"Nuevo León",1991,22,"All Ages",3,"Both",87.25872
+941,"red_meats_g_unadj",4662,"Oaxaca",1991,22,"All Ages",3,"Both",57.540985
+941,"red_meats_g_unadj",4663,"Puebla",1991,22,"All Ages",3,"Both",64.328697
+941,"red_meats_g_unadj",4664,"Querétaro",1991,22,"All Ages",3,"Both",72.755417
+941,"red_meats_g_unadj",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",70.013306
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",62.455563
+941,"red_meats_g_unadj",4667,"Sinaloa",1991,22,"All Ages",3,"Both",78.862259
+941,"red_meats_g_unadj",4668,"Sonora",1991,22,"All Ages",3,"Both",76.597473
+941,"red_meats_g_unadj",4669,"Tabasco",1991,22,"All Ages",3,"Both",65.028305
+941,"red_meats_g_unadj",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",78.461563
+941,"red_meats_g_unadj",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",60.766083
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",63.321648
+941,"red_meats_g_unadj",4673,"Yucatán",1991,22,"All Ages",3,"Both",72.266121
+941,"red_meats_g_unadj",4674,"Zacatecas",1991,22,"All Ages",3,"Both",63.668968
+941,"red_meats_g_unadj",130,"Mexico",1992,22,"All Ages",3,"Both",71.030655
+941,"red_meats_g_unadj",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",82.201126
+941,"red_meats_g_unadj",4644,"Baja California",1992,22,"All Ages",3,"Both",78.393456
+941,"red_meats_g_unadj",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",85.232819
+941,"red_meats_g_unadj",4646,"Campeche",1992,22,"All Ages",3,"Both",65.499756
+941,"red_meats_g_unadj",4647,"Coahuila",1992,22,"All Ages",3,"Both",76.255676
+941,"red_meats_g_unadj",4648,"Colima",1992,22,"All Ages",3,"Both",73.734718
+941,"red_meats_g_unadj",4649,"Chiapas",1992,22,"All Ages",3,"Both",49.774647
+941,"red_meats_g_unadj",4650,"Chihuahua",1992,22,"All Ages",3,"Both",70.951424
+941,"red_meats_g_unadj",4651,"Mexico City",1992,22,"All Ages",3,"Both",81.013527
+941,"red_meats_g_unadj",4652,"Durango",1992,22,"All Ages",3,"Both",74.32103
+941,"red_meats_g_unadj",4653,"Guanajuato",1992,22,"All Ages",3,"Both",69.233437
+941,"red_meats_g_unadj",4654,"Guerrero",1992,22,"All Ages",3,"Both",56.677677
+941,"red_meats_g_unadj",4655,"Hidalgo",1992,22,"All Ages",3,"Both",61.454594
+941,"red_meats_g_unadj",4656,"Jalisco",1992,22,"All Ages",3,"Both",79.245125
+941,"red_meats_g_unadj",4657,"México",1992,22,"All Ages",3,"Both",75.40744
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",66.529526
+941,"red_meats_g_unadj",4659,"Morelos",1992,22,"All Ages",3,"Both",71.405762
+941,"red_meats_g_unadj",4660,"Nayarit",1992,22,"All Ages",3,"Both",68.075386
+941,"red_meats_g_unadj",4661,"Nuevo León",1992,22,"All Ages",3,"Both",87.299423
+941,"red_meats_g_unadj",4662,"Oaxaca",1992,22,"All Ages",3,"Both",57.582073
+941,"red_meats_g_unadj",4663,"Puebla",1992,22,"All Ages",3,"Both",64.465714
+941,"red_meats_g_unadj",4664,"Querétaro",1992,22,"All Ages",3,"Both",73.046768
+941,"red_meats_g_unadj",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",70.391533
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",63.144455
+941,"red_meats_g_unadj",4667,"Sinaloa",1992,22,"All Ages",3,"Both",78.756699
+941,"red_meats_g_unadj",4668,"Sonora",1992,22,"All Ages",3,"Both",76.92115
+941,"red_meats_g_unadj",4669,"Tabasco",1992,22,"All Ages",3,"Both",65.022835
+941,"red_meats_g_unadj",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",78.538605
+941,"red_meats_g_unadj",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",61.066341
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",63.471275
+941,"red_meats_g_unadj",4673,"Yucatán",1992,22,"All Ages",3,"Both",72.187134
+941,"red_meats_g_unadj",4674,"Zacatecas",1992,22,"All Ages",3,"Both",64.165855
+941,"red_meats_g_unadj",130,"Mexico",1993,22,"All Ages",3,"Both",71.412376
+941,"red_meats_g_unadj",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",82.388542
+941,"red_meats_g_unadj",4644,"Baja California",1993,22,"All Ages",3,"Both",78.689995
+941,"red_meats_g_unadj",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",85.237778
+941,"red_meats_g_unadj",4646,"Campeche",1993,22,"All Ages",3,"Both",65.95681
+941,"red_meats_g_unadj",4647,"Coahuila",1993,22,"All Ages",3,"Both",76.893822
+941,"red_meats_g_unadj",4648,"Colima",1993,22,"All Ages",3,"Both",74.167328
+941,"red_meats_g_unadj",4649,"Chiapas",1993,22,"All Ages",3,"Both",50.502945
+941,"red_meats_g_unadj",4650,"Chihuahua",1993,22,"All Ages",3,"Both",71.684631
+941,"red_meats_g_unadj",4651,"Mexico City",1993,22,"All Ages",3,"Both",81.567101
+941,"red_meats_g_unadj",4652,"Durango",1993,22,"All Ages",3,"Both",74.530113
+941,"red_meats_g_unadj",4653,"Guanajuato",1993,22,"All Ages",3,"Both",69.749794
+941,"red_meats_g_unadj",4654,"Guerrero",1993,22,"All Ages",3,"Both",57.147976
+941,"red_meats_g_unadj",4655,"Hidalgo",1993,22,"All Ages",3,"Both",61.757313
+941,"red_meats_g_unadj",4656,"Jalisco",1993,22,"All Ages",3,"Both",79.482384
+941,"red_meats_g_unadj",4657,"México",1993,22,"All Ages",3,"Both",75.545631
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",66.91114
+941,"red_meats_g_unadj",4659,"Morelos",1993,22,"All Ages",3,"Both",71.662224
+941,"red_meats_g_unadj",4660,"Nayarit",1993,22,"All Ages",3,"Both",68.648293
+941,"red_meats_g_unadj",4661,"Nuevo León",1993,22,"All Ages",3,"Both",87.608688
+941,"red_meats_g_unadj",4662,"Oaxaca",1993,22,"All Ages",3,"Both",57.796108
+941,"red_meats_g_unadj",4663,"Puebla",1993,22,"All Ages",3,"Both",64.793488
+941,"red_meats_g_unadj",4664,"Querétaro",1993,22,"All Ages",3,"Both",73.552498
+941,"red_meats_g_unadj",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",70.984261
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",64.017044
+941,"red_meats_g_unadj",4667,"Sinaloa",1993,22,"All Ages",3,"Both",78.902832
+941,"red_meats_g_unadj",4668,"Sonora",1993,22,"All Ages",3,"Both",77.480042
+941,"red_meats_g_unadj",4669,"Tabasco",1993,22,"All Ages",3,"Both",65.209335
+941,"red_meats_g_unadj",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",78.862633
+941,"red_meats_g_unadj",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",61.547817
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",63.807373
+941,"red_meats_g_unadj",4673,"Yucatán",1993,22,"All Ages",3,"Both",72.332855
+941,"red_meats_g_unadj",4674,"Zacatecas",1993,22,"All Ages",3,"Both",64.857277
+941,"red_meats_g_unadj",130,"Mexico",1994,22,"All Ages",3,"Both",72.116501
+941,"red_meats_g_unadj",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",82.938705
+941,"red_meats_g_unadj",4644,"Baja California",1994,22,"All Ages",3,"Both",79.335907
+941,"red_meats_g_unadj",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",85.630981
+941,"red_meats_g_unadj",4646,"Campeche",1994,22,"All Ages",3,"Both",66.713776
+941,"red_meats_g_unadj",4647,"Coahuila",1994,22,"All Ages",3,"Both",77.884491
+941,"red_meats_g_unadj",4648,"Colima",1994,22,"All Ages",3,"Both",74.932053
+941,"red_meats_g_unadj",4649,"Chiapas",1994,22,"All Ages",3,"Both",51.471985
+941,"red_meats_g_unadj",4650,"Chihuahua",1994,22,"All Ages",3,"Both",72.751572
+941,"red_meats_g_unadj",4651,"Mexico City",1994,22,"All Ages",3,"Both",82.494431
+941,"red_meats_g_unadj",4652,"Durango",1994,22,"All Ages",3,"Both",75.072617
+941,"red_meats_g_unadj",4653,"Guanajuato",1994,22,"All Ages",3,"Both",70.58046
+941,"red_meats_g_unadj",4654,"Guerrero",1994,22,"All Ages",3,"Both",57.878109
+941,"red_meats_g_unadj",4655,"Hidalgo",1994,22,"All Ages",3,"Both",62.338272
+941,"red_meats_g_unadj",4656,"Jalisco",1994,22,"All Ages",3,"Both",80.072289
+941,"red_meats_g_unadj",4657,"México",1994,22,"All Ages",3,"Both",76.0168
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",67.591385
+941,"red_meats_g_unadj",4659,"Morelos",1994,22,"All Ages",3,"Both",72.236931
+941,"red_meats_g_unadj",4660,"Nayarit",1994,22,"All Ages",3,"Both",69.536446
+941,"red_meats_g_unadj",4661,"Nuevo León",1994,22,"All Ages",3,"Both",88.314171
+941,"red_meats_g_unadj",4662,"Oaxaca",1994,22,"All Ages",3,"Both",58.269436
+941,"red_meats_g_unadj",4663,"Puebla",1994,22,"All Ages",3,"Both",65.412369
+941,"red_meats_g_unadj",4664,"Querétaro",1994,22,"All Ages",3,"Both",74.388603
+941,"red_meats_g_unadj",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",71.902847
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",65.18779
+941,"red_meats_g_unadj",4667,"Sinaloa",1994,22,"All Ages",3,"Both",79.408989
+941,"red_meats_g_unadj",4668,"Sonora",1994,22,"All Ages",3,"Both",78.394325
+941,"red_meats_g_unadj",4669,"Tabasco",1994,22,"All Ages",3,"Both",65.685066
+941,"red_meats_g_unadj",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",79.54554
+941,"red_meats_g_unadj",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",62.308537
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",64.429733
+941,"red_meats_g_unadj",4673,"Yucatán",1994,22,"All Ages",3,"Both",72.805916
+941,"red_meats_g_unadj",4674,"Zacatecas",1994,22,"All Ages",3,"Both",65.848396
+941,"red_meats_g_unadj",130,"Mexico",1995,22,"All Ages",3,"Both",72.361633
+941,"red_meats_g_unadj",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",82.971832
+941,"red_meats_g_unadj",4644,"Baja California",1995,22,"All Ages",3,"Both",79.482452
+941,"red_meats_g_unadj",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",85.503807
+941,"red_meats_g_unadj",4646,"Campeche",1995,22,"All Ages",3,"Both",67.03923
+941,"red_meats_g_unadj",4647,"Coahuila",1995,22,"All Ages",3,"Both",78.365959
+941,"red_meats_g_unadj",4648,"Colima",1995,22,"All Ages",3,"Both",75.21685
+941,"red_meats_g_unadj",4649,"Chiapas",1995,22,"All Ages",3,"Both",52.093445
+941,"red_meats_g_unadj",4650,"Chihuahua",1995,22,"All Ages",3,"Both",73.339615
+941,"red_meats_g_unadj",4651,"Mexico City",1995,22,"All Ages",3,"Both",82.893761
+941,"red_meats_g_unadj",4652,"Durango",1995,22,"All Ages",3,"Both",75.146004
+941,"red_meats_g_unadj",4653,"Guanajuato",1995,22,"All Ages",3,"Both",70.950943
+941,"red_meats_g_unadj",4654,"Guerrero",1995,22,"All Ages",3,"Both",58.229755
+941,"red_meats_g_unadj",4655,"Hidalgo",1995,22,"All Ages",3,"Both",62.523537
+941,"red_meats_g_unadj",4656,"Jalisco",1995,22,"All Ages",3,"Both",80.16011
+941,"red_meats_g_unadj",4657,"México",1995,22,"All Ages",3,"Both",76.017174
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",67.837532
+941,"red_meats_g_unadj",4659,"Morelos",1995,22,"All Ages",3,"Both",72.3564
+941,"red_meats_g_unadj",4660,"Nayarit",1995,22,"All Ages",3,"Both",69.971581
+941,"red_meats_g_unadj",4661,"Nuevo León",1995,22,"All Ages",3,"Both",88.464684
+941,"red_meats_g_unadj",4662,"Oaxaca",1995,22,"All Ages",3,"Both",58.376472
+941,"red_meats_g_unadj",4663,"Puebla",1995,22,"All Ages",3,"Both",65.615585
+941,"red_meats_g_unadj",4664,"Querétaro",1995,22,"All Ages",3,"Both",74.7425
+941,"red_meats_g_unadj",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",72.349487
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",65.917755
+941,"red_meats_g_unadj",4667,"Sinaloa",1995,22,"All Ages",3,"Both",79.424591
+941,"red_meats_g_unadj",4668,"Sonora",1995,22,"All Ages",3,"Both",78.801056
+941,"red_meats_g_unadj",4669,"Tabasco",1995,22,"All Ages",3,"Both",65.750137
+941,"red_meats_g_unadj",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",79.723724
+941,"red_meats_g_unadj",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",62.663166
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",64.642151
+941,"red_meats_g_unadj",4673,"Yucatán",1995,22,"All Ages",3,"Both",72.829201
+941,"red_meats_g_unadj",4674,"Zacatecas",1995,22,"All Ages",3,"Both",66.400223
+941,"red_meats_g_unadj",130,"Mexico",1996,22,"All Ages",3,"Both",73.042557
+941,"red_meats_g_unadj",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",83.495026
+941,"red_meats_g_unadj",4644,"Baja California",1996,22,"All Ages",3,"Both",80.102509
+941,"red_meats_g_unadj",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",85.875961
+941,"red_meats_g_unadj",4646,"Campeche",1996,22,"All Ages",3,"Both",67.77005
+941,"red_meats_g_unadj",4647,"Coahuila",1996,22,"All Ages",3,"Both",79.322685
+941,"red_meats_g_unadj",4648,"Colima",1996,22,"All Ages",3,"Both",75.958038
+941,"red_meats_g_unadj",4649,"Chiapas",1996,22,"All Ages",3,"Both",53.046864
+941,"red_meats_g_unadj",4650,"Chihuahua",1996,22,"All Ages",3,"Both",74.379471
+941,"red_meats_g_unadj",4651,"Mexico City",1996,22,"All Ages",3,"Both",83.804581
+941,"red_meats_g_unadj",4652,"Durango",1996,22,"All Ages",3,"Both",75.665909
+941,"red_meats_g_unadj",4653,"Guanajuato",1996,22,"All Ages",3,"Both",71.74984
+941,"red_meats_g_unadj",4654,"Guerrero",1996,22,"All Ages",3,"Both",58.934006
+941,"red_meats_g_unadj",4655,"Hidalgo",1996,22,"All Ages",3,"Both",63.083237
+941,"red_meats_g_unadj",4656,"Jalisco",1996,22,"All Ages",3,"Both",80.723648
+941,"red_meats_g_unadj",4657,"México",1996,22,"All Ages",3,"Both",76.467178
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",68.491646
+941,"red_meats_g_unadj",4659,"Morelos",1996,22,"All Ages",3,"Both",72.907272
+941,"red_meats_g_unadj",4660,"Nayarit",1996,22,"All Ages",3,"Both",70.836357
+941,"red_meats_g_unadj",4661,"Nuevo León",1996,22,"All Ages",3,"Both",89.141296
+941,"red_meats_g_unadj",4662,"Oaxaca",1996,22,"All Ages",3,"Both",58.830708
+941,"red_meats_g_unadj",4663,"Puebla",1996,22,"All Ages",3,"Both",66.212151
+941,"red_meats_g_unadj",4664,"Querétaro",1996,22,"All Ages",3,"Both",75.547226
+941,"red_meats_g_unadj",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",73.230034
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",67.064743
+941,"red_meats_g_unadj",4667,"Sinaloa",1996,22,"All Ages",3,"Both",79.906082
+941,"red_meats_g_unadj",4668,"Sonora",1996,22,"All Ages",3,"Both",79.68441
+941,"red_meats_g_unadj",4669,"Tabasco",1996,22,"All Ages",3,"Both",66.206657
+941,"red_meats_g_unadj",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",80.370628
+941,"red_meats_g_unadj",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",63.398369
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",65.243622
+941,"red_meats_g_unadj",4673,"Yucatán",1996,22,"All Ages",3,"Both",73.282768
+941,"red_meats_g_unadj",4674,"Zacatecas",1996,22,"All Ages",3,"Both",67.361977
+941,"red_meats_g_unadj",130,"Mexico",1997,22,"All Ages",3,"Both",74.495636
+941,"red_meats_g_unadj",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",84.887329
+941,"red_meats_g_unadj",4644,"Baja California",1997,22,"All Ages",3,"Both",81.563431
+941,"red_meats_g_unadj",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",87.124443
+941,"red_meats_g_unadj",4646,"Campeche",1997,22,"All Ages",3,"Both",69.220985
+941,"red_meats_g_unadj",4647,"Coahuila",1997,22,"All Ages",3,"Both",81.124336
+941,"red_meats_g_unadj",4648,"Colima",1997,22,"All Ages",3,"Both",77.511024
+941,"red_meats_g_unadj",4649,"Chiapas",1997,22,"All Ages",3,"Both",54.589569
+941,"red_meats_g_unadj",4650,"Chihuahua",1997,22,"All Ages",3,"Both",76.221191
+941,"red_meats_g_unadj",4651,"Mexico City",1997,22,"All Ages",3,"Both",85.619919
+941,"red_meats_g_unadj",4652,"Durango",1997,22,"All Ages",3,"Both",76.974823
+941,"red_meats_g_unadj",4653,"Guanajuato",1997,22,"All Ages",3,"Both",73.311295
+941,"red_meats_g_unadj",4654,"Guerrero",1997,22,"All Ages",3,"Both",60.2658
+941,"red_meats_g_unadj",4655,"Hidalgo",1997,22,"All Ages",3,"Both",64.305832
+941,"red_meats_g_unadj",4656,"Jalisco",1997,22,"All Ages",3,"Both",82.130089
+941,"red_meats_g_unadj",4657,"México",1997,22,"All Ages",3,"Both",77.713104
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",69.870506
+941,"red_meats_g_unadj",4659,"Morelos",1997,22,"All Ages",3,"Both",74.223961
+941,"red_meats_g_unadj",4660,"Nayarit",1997,22,"All Ages",3,"Both",72.462898
+941,"red_meats_g_unadj",4661,"Nuevo León",1997,22,"All Ages",3,"Both",90.747864
+941,"red_meats_g_unadj",4662,"Oaxaca",1997,22,"All Ages",3,"Both",59.898773
+941,"red_meats_g_unadj",4663,"Puebla",1997,22,"All Ages",3,"Both",67.505653
+941,"red_meats_g_unadj",4664,"Querétaro",1997,22,"All Ages",3,"Both",77.154694
+941,"red_meats_g_unadj",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",74.884323
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",68.954895
+941,"red_meats_g_unadj",4667,"Sinaloa",1997,22,"All Ages",3,"Both",81.206276
+941,"red_meats_g_unadj",4668,"Sonora",1997,22,"All Ages",3,"Both",81.413216
+941,"red_meats_g_unadj",4669,"Tabasco",1997,22,"All Ages",3,"Both",67.357071
+941,"red_meats_g_unadj",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",81.847145
+941,"red_meats_g_unadj",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",64.811035
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",66.535255
+941,"red_meats_g_unadj",4673,"Yucatán",1997,22,"All Ages",3,"Both",74.493164
+941,"red_meats_g_unadj",4674,"Zacatecas",1997,22,"All Ages",3,"Both",69.053574
+941,"red_meats_g_unadj",130,"Mexico",1998,22,"All Ages",3,"Both",76.515877
+941,"red_meats_g_unadj",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",86.916283
+941,"red_meats_g_unadj",4644,"Baja California",1998,22,"All Ages",3,"Both",83.64344
+941,"red_meats_g_unadj",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",88.998108
+941,"red_meats_g_unadj",4646,"Campeche",1998,22,"All Ages",3,"Both",71.200348
+941,"red_meats_g_unadj",4647,"Coahuila",1998,22,"All Ages",3,"Both",83.547852
+941,"red_meats_g_unadj",4648,"Colima",1998,22,"All Ages",3,"Both",79.664505
+941,"red_meats_g_unadj",4649,"Chiapas",1998,22,"All Ages",3,"Both",56.575233
+941,"red_meats_g_unadj",4650,"Chihuahua",1998,22,"All Ages",3,"Both",78.657227
+941,"red_meats_g_unadj",4651,"Mexico City",1998,22,"All Ages",3,"Both",88.100395
+941,"red_meats_g_unadj",4652,"Durango",1998,22,"All Ages",3,"Both",78.856705
+941,"red_meats_g_unadj",4653,"Guanajuato",1998,22,"All Ages",3,"Both",75.433319
+941,"red_meats_g_unadj",4654,"Guerrero",1998,22,"All Ages",3,"Both",62.061115
+941,"red_meats_g_unadj",4655,"Hidalgo",1998,22,"All Ages",3,"Both",66.013992
+941,"red_meats_g_unadj",4656,"Jalisco",1998,22,"All Ages",3,"Both",84.152534
+941,"red_meats_g_unadj",4657,"México",1998,22,"All Ages",3,"Both",79.541954
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",71.782349
+941,"red_meats_g_unadj",4659,"Morelos",1998,22,"All Ages",3,"Both",76.102921
+941,"red_meats_g_unadj",4660,"Nayarit",1998,22,"All Ages",3,"Both",74.649963
+941,"red_meats_g_unadj",4661,"Nuevo León",1998,22,"All Ages",3,"Both",93.027664
+941,"red_meats_g_unadj",4662,"Oaxaca",1998,22,"All Ages",3,"Both",61.414661
+941,"red_meats_g_unadj",4663,"Puebla",1998,22,"All Ages",3,"Both",69.31115
+941,"red_meats_g_unadj",4664,"Querétaro",1998,22,"All Ages",3,"Both",79.354317
+941,"red_meats_g_unadj",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",77.106094
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",71.40519
+941,"red_meats_g_unadj",4667,"Sinaloa",1998,22,"All Ages",3,"Both",83.093033
+941,"red_meats_g_unadj",4668,"Sonora",1998,22,"All Ages",3,"Both",83.760246
+941,"red_meats_g_unadj",4669,"Tabasco",1998,22,"All Ages",3,"Both",69.016335
+941,"red_meats_g_unadj",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",83.921455
+941,"red_meats_g_unadj",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",66.724846
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",68.33606
+941,"red_meats_g_unadj",4673,"Yucatán",1998,22,"All Ages",3,"Both",76.250534
+941,"red_meats_g_unadj",4674,"Zacatecas",1998,22,"All Ages",3,"Both",71.283928
+941,"red_meats_g_unadj",130,"Mexico",1999,22,"All Ages",3,"Both",78.750557
+941,"red_meats_g_unadj",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",89.181572
+941,"red_meats_g_unadj",4644,"Baja California",1999,22,"All Ages",3,"Both",85.959526
+941,"red_meats_g_unadj",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",91.075157
+941,"red_meats_g_unadj",4646,"Campeche",1999,22,"All Ages",3,"Both",73.379951
+941,"red_meats_g_unadj",4647,"Coahuila",1999,22,"All Ages",3,"Both",86.209938
+941,"red_meats_g_unadj",4648,"Colima",1999,22,"All Ages",3,"Both",82.053322
+941,"red_meats_g_unadj",4649,"Chiapas",1999,22,"All Ages",3,"Both",58.749596
+941,"red_meats_g_unadj",4650,"Chihuahua",1999,22,"All Ages",3,"Both",81.329544
+941,"red_meats_g_unadj",4651,"Mexico City",1999,22,"All Ages",3,"Both",90.83654
+941,"red_meats_g_unadj",4652,"Durango",1999,22,"All Ages",3,"Both",80.943481
+941,"red_meats_g_unadj",4653,"Guanajuato",1999,22,"All Ages",3,"Both",77.768654
+941,"red_meats_g_unadj",4654,"Guerrero",1999,22,"All Ages",3,"Both",64.037224
+941,"red_meats_g_unadj",4655,"Hidalgo",1999,22,"All Ages",3,"Both",67.903252
+941,"red_meats_g_unadj",4656,"Jalisco",1999,22,"All Ages",3,"Both",86.401741
+941,"red_meats_g_unadj",4657,"México",1999,22,"All Ages",3,"Both",81.586723
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",73.897102
+941,"red_meats_g_unadj",4659,"Morelos",1999,22,"All Ages",3,"Both",78.193657
+941,"red_meats_g_unadj",4660,"Nayarit",1999,22,"All Ages",3,"Both",77.052956
+941,"red_meats_g_unadj",4661,"Nuevo León",1999,22,"All Ages",3,"Both",95.545029
+941,"red_meats_g_unadj",4662,"Oaxaca",1999,22,"All Ages",3,"Both",63.094257
+941,"red_meats_g_unadj",4663,"Puebla",1999,22,"All Ages",3,"Both",71.310379
+941,"red_meats_g_unadj",4664,"Querétaro",1999,22,"All Ages",3,"Both",81.782898
+941,"red_meats_g_unadj",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",79.541679
+941,"red_meats_g_unadj",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",74.095886
+941,"red_meats_g_unadj",4667,"Sinaloa",1999,22,"All Ages",3,"Both",85.174713
+941,"red_meats_g_unadj",4668,"Sonora",1999,22,"All Ages",3,"Both",86.337799
+941,"red_meats_g_unadj",4669,"Tabasco",1999,22,"All Ages",3,"Both",70.865921
+941,"red_meats_g_unadj",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",86.201126
+941,"red_meats_g_unadj",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",68.834984
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",70.333191
+941,"red_meats_g_unadj",4673,"Yucatán",1999,22,"All Ages",3,"Both",78.198364
+941,"red_meats_g_unadj",4674,"Zacatecas",1999,22,"All Ages",3,"Both",73.725029
+941,"red_meats_g_unadj",130,"Mexico",2000,22,"All Ages",3,"Both",80.976448
+941,"red_meats_g_unadj",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",91.42601
+941,"red_meats_g_unadj",4644,"Baja California",2000,22,"All Ages",3,"Both",88.268219
+941,"red_meats_g_unadj",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",93.079391
+941,"red_meats_g_unadj",4646,"Campeche",2000,22,"All Ages",3,"Both",75.550011
+941,"red_meats_g_unadj",4647,"Coahuila",2000,22,"All Ages",3,"Both",88.867767
+941,"red_meats_g_unadj",4648,"Colima",2000,22,"All Ages",3,"Both",84.445175
+941,"red_meats_g_unadj",4649,"Chiapas",2000,22,"All Ages",3,"Both",60.955509
+941,"red_meats_g_unadj",4650,"Chihuahua",2000,22,"All Ages",3,"Both",84.013641
+941,"red_meats_g_unadj",4651,"Mexico City",2000,22,"All Ages",3,"Both",93.570503
+941,"red_meats_g_unadj",4652,"Durango",2000,22,"All Ages",3,"Both",82.998108
+941,"red_meats_g_unadj",4653,"Guanajuato",2000,22,"All Ages",3,"Both",80.09864
+941,"red_meats_g_unadj",4654,"Guerrero",2000,22,"All Ages",3,"Both",66.014076
+941,"red_meats_g_unadj",4655,"Hidalgo",2000,22,"All Ages",3,"Both",69.780609
+941,"red_meats_g_unadj",4656,"Jalisco",2000,22,"All Ages",3,"Both",88.63208
+941,"red_meats_g_unadj",4657,"México",2000,22,"All Ages",3,"Both",83.61618
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",76.006798
+941,"red_meats_g_unadj",4659,"Morelos",2000,22,"All Ages",3,"Both",80.271736
+941,"red_meats_g_unadj",4660,"Nayarit",2000,22,"All Ages",3,"Both",79.454414
+941,"red_meats_g_unadj",4661,"Nuevo León",2000,22,"All Ages",3,"Both",98.021179
+941,"red_meats_g_unadj",4662,"Oaxaca",2000,22,"All Ages",3,"Both",64.756355
+941,"red_meats_g_unadj",4663,"Puebla",2000,22,"All Ages",3,"Both",73.30191
+941,"red_meats_g_unadj",4664,"Querétaro",2000,22,"All Ages",3,"Both",84.210602
+941,"red_meats_g_unadj",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",81.961342
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",76.830284
+941,"red_meats_g_unadj",4667,"Sinaloa",2000,22,"All Ages",3,"Both",87.197205
+941,"red_meats_g_unadj",4668,"Sonora",2000,22,"All Ages",3,"Both",88.899223
+941,"red_meats_g_unadj",4669,"Tabasco",2000,22,"All Ages",3,"Both",72.703011
+941,"red_meats_g_unadj",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",88.433189
+941,"red_meats_g_unadj",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",70.94799
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",72.330101
+941,"red_meats_g_unadj",4673,"Yucatán",2000,22,"All Ages",3,"Both",80.108536
+941,"red_meats_g_unadj",4674,"Zacatecas",2000,22,"All Ages",3,"Both",76.171051
+941,"red_meats_g_unadj",130,"Mexico",2001,22,"All Ages",3,"Both",82.541328
+941,"red_meats_g_unadj",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",92.925102
+941,"red_meats_g_unadj",4644,"Baja California",2001,22,"All Ages",3,"Both",89.862457
+941,"red_meats_g_unadj",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",94.285805
+941,"red_meats_g_unadj",4646,"Campeche",2001,22,"All Ages",3,"Both",77.095306
+941,"red_meats_g_unadj",4647,"Coahuila",2001,22,"All Ages",3,"Both",90.793526
+941,"red_meats_g_unadj",4648,"Colima",2001,22,"All Ages",3,"Both",86.152634
+941,"red_meats_g_unadj",4649,"Chiapas",2001,22,"All Ages",3,"Both",62.674801
+941,"red_meats_g_unadj",4650,"Chihuahua",2001,22,"All Ages",3,"Both",86.01368
+941,"red_meats_g_unadj",4651,"Mexico City",2001,22,"All Ages",3,"Both",95.536606
+941,"red_meats_g_unadj",4652,"Durango",2001,22,"All Ages",3,"Both",84.362167
+941,"red_meats_g_unadj",4653,"Guanajuato",2001,22,"All Ages",3,"Both",81.772789
+941,"red_meats_g_unadj",4654,"Guerrero",2001,22,"All Ages",3,"Both",67.451073
+941,"red_meats_g_unadj",4655,"Hidalgo",2001,22,"All Ages",3,"Both",71.086197
+941,"red_meats_g_unadj",4656,"Jalisco",2001,22,"All Ages",3,"Both",90.141037
+941,"red_meats_g_unadj",4657,"México",2001,22,"All Ages",3,"Both",84.971642
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",77.499092
+941,"red_meats_g_unadj",4659,"Morelos",2001,22,"All Ages",3,"Both",81.694489
+941,"red_meats_g_unadj",4660,"Nayarit",2001,22,"All Ages",3,"Both",81.20266
+941,"red_meats_g_unadj",4661,"Nuevo León",2001,22,"All Ages",3,"Both",99.676704
+941,"red_meats_g_unadj",4662,"Oaxaca",2001,22,"All Ages",3,"Both",65.886002
+941,"red_meats_g_unadj",4663,"Puebla",2001,22,"All Ages",3,"Both",74.697006
+941,"red_meats_g_unadj",4664,"Querétaro",2001,22,"All Ages",3,"Both",85.953491
+941,"red_meats_g_unadj",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",83.694168
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",78.959702
+941,"red_meats_g_unadj",4667,"Sinaloa",2001,22,"All Ages",3,"Both",88.476639
+941,"red_meats_g_unadj",4668,"Sonora",2001,22,"All Ages",3,"Both",90.720718
+941,"red_meats_g_unadj",4669,"Tabasco",2001,22,"All Ages",3,"Both",73.94899
+941,"red_meats_g_unadj",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",89.915466
+941,"red_meats_g_unadj",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",72.482407
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",73.744102
+941,"red_meats_g_unadj",4673,"Yucatán",2001,22,"All Ages",3,"Both",81.350777
+941,"red_meats_g_unadj",4674,"Zacatecas",2001,22,"All Ages",3,"Both",77.98996
+941,"red_meats_g_unadj",130,"Mexico",2002,22,"All Ages",3,"Both",83.46627
+941,"red_meats_g_unadj",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",93.708389
+941,"red_meats_g_unadj",4644,"Baja California",2002,22,"All Ages",3,"Both",90.768883
+941,"red_meats_g_unadj",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",94.732376
+941,"red_meats_g_unadj",4646,"Campeche",2002,22,"All Ages",3,"Both",78.037613
+941,"red_meats_g_unadj",4647,"Coahuila",2002,22,"All Ages",3,"Both",92.01078
+941,"red_meats_g_unadj",4648,"Colima",2002,22,"All Ages",3,"Both",87.195618
+941,"red_meats_g_unadj",4649,"Chiapas",2002,22,"All Ages",3,"Both",63.919041
+941,"red_meats_g_unadj",4650,"Chihuahua",2002,22,"All Ages",3,"Both",87.34903
+941,"red_meats_g_unadj",4651,"Mexico City",2002,22,"All Ages",3,"Both",96.752289
+941,"red_meats_g_unadj",4652,"Durango",2002,22,"All Ages",3,"Both",85.062645
+941,"red_meats_g_unadj",4653,"Guanajuato",2002,22,"All Ages",3,"Both",82.813622
+941,"red_meats_g_unadj",4654,"Guerrero",2002,22,"All Ages",3,"Both",68.365997
+941,"red_meats_g_unadj",4655,"Hidalgo",2002,22,"All Ages",3,"Both",71.839386
+941,"red_meats_g_unadj",4656,"Jalisco",2002,22,"All Ages",3,"Both",90.953148
+941,"red_meats_g_unadj",4657,"México",2002,22,"All Ages",3,"Both",85.676842
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",78.394531
+941,"red_meats_g_unadj",4659,"Morelos",2002,22,"All Ages",3,"Both",82.484467
+941,"red_meats_g_unadj",4660,"Nayarit",2002,22,"All Ages",3,"Both",82.316635
+941,"red_meats_g_unadj",4661,"Nuevo León",2002,22,"All Ages",3,"Both",100.54198
+941,"red_meats_g_unadj",4662,"Oaxaca",2002,22,"All Ages",3,"Both",66.502861
+941,"red_meats_g_unadj",4663,"Puebla",2002,22,"All Ages",3,"Both",75.515945
+941,"red_meats_g_unadj",4664,"Querétaro",2002,22,"All Ages",3,"Both",87.035141
+941,"red_meats_g_unadj",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",84.770477
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",80.500328
+941,"red_meats_g_unadj",4667,"Sinaloa",2002,22,"All Ages",3,"Both",89.045509
+941,"red_meats_g_unadj",4668,"Sonora",2002,22,"All Ages",3,"Both",91.82711
+941,"red_meats_g_unadj",4669,"Tabasco",2002,22,"All Ages",3,"Both",74.624161
+941,"red_meats_g_unadj",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",90.67897
+941,"red_meats_g_unadj",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",73.456161
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",74.592781
+941,"red_meats_g_unadj",4673,"Yucatán",2002,22,"All Ages",3,"Both",81.949814
+941,"red_meats_g_unadj",4674,"Zacatecas",2002,22,"All Ages",3,"Both",79.199348
+941,"red_meats_g_unadj",130,"Mexico",2003,22,"All Ages",3,"Both",83.864311
+941,"red_meats_g_unadj",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",93.906525
+941,"red_meats_g_unadj",4644,"Baja California",2003,22,"All Ages",3,"Both",91.113892
+941,"red_meats_g_unadj",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",94.559319
+941,"red_meats_g_unadj",4646,"Campeche",2003,22,"All Ages",3,"Both",78.484917
+941,"red_meats_g_unadj",4647,"Coahuila",2003,22,"All Ages",3,"Both",92.644402
+941,"red_meats_g_unadj",4648,"Colima",2003,22,"All Ages",3,"Both",87.689926
+941,"red_meats_g_unadj",4649,"Chiapas",2003,22,"All Ages",3,"Both",64.772087
+941,"red_meats_g_unadj",4650,"Chihuahua",2003,22,"All Ages",3,"Both",88.135925
+941,"red_meats_g_unadj",4651,"Mexico City",2003,22,"All Ages",3,"Both",97.3423
+941,"red_meats_g_unadj",4652,"Durango",2003,22,"All Ages",3,"Both",85.219124
+941,"red_meats_g_unadj",4653,"Guanajuato",2003,22,"All Ages",3,"Both",83.334892
+941,"red_meats_g_unadj",4654,"Guerrero",2003,22,"All Ages",3,"Both",68.852333
+941,"red_meats_g_unadj",4655,"Hidalgo",2003,22,"All Ages",3,"Both",72.137779
+941,"red_meats_g_unadj",4656,"Jalisco",2003,22,"All Ages",3,"Both",91.192146
+941,"red_meats_g_unadj",4657,"México",2003,22,"All Ages",3,"Both",85.847496
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",78.799065
+941,"red_meats_g_unadj",4659,"Morelos",2003,22,"All Ages",3,"Both",82.75399
+941,"red_meats_g_unadj",4660,"Nayarit",2003,22,"All Ages",3,"Both",82.906342
+941,"red_meats_g_unadj",4661,"Nuevo León",2003,22,"All Ages",3,"Both",100.75742
+941,"red_meats_g_unadj",4662,"Oaxaca",2003,22,"All Ages",3,"Both",66.698769
+941,"red_meats_g_unadj",4663,"Puebla",2003,22,"All Ages",3,"Both",75.86116
+941,"red_meats_g_unadj",4664,"Querétaro",2003,22,"All Ages",3,"Both",87.5737
+941,"red_meats_g_unadj",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",85.313004
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",81.557983
+941,"red_meats_g_unadj",4667,"Sinaloa",2003,22,"All Ages",3,"Both",89.032181
+941,"red_meats_g_unadj",4668,"Sonora",2003,22,"All Ages",3,"Both",92.344704
+941,"red_meats_g_unadj",4669,"Tabasco",2003,22,"All Ages",3,"Both",74.829788
+941,"red_meats_g_unadj",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",90.852455
+941,"red_meats_g_unadj",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",73.96804
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",74.975296
+941,"red_meats_g_unadj",4673,"Yucatán",2003,22,"All Ages",3,"Both",82.018608
+941,"red_meats_g_unadj",4674,"Zacatecas",2003,22,"All Ages",3,"Both",79.90522
+941,"red_meats_g_unadj",130,"Mexico",2004,22,"All Ages",3,"Both",84.216995
+941,"red_meats_g_unadj",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",94.059486
+941,"red_meats_g_unadj",4644,"Baja California",2004,22,"All Ages",3,"Both",91.422836
+941,"red_meats_g_unadj",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",94.314148
+941,"red_meats_g_unadj",4646,"Campeche",2004,22,"All Ages",3,"Both",78.89135
+941,"red_meats_g_unadj",4647,"Coahuila",2004,22,"All Ages",3,"Both",93.229431
+941,"red_meats_g_unadj",4648,"Colima",2004,22,"All Ages",3,"Both",88.138687
+941,"red_meats_g_unadj",4649,"Chiapas",2004,22,"All Ages",3,"Both",65.610794
+941,"red_meats_g_unadj",4650,"Chihuahua",2004,22,"All Ages",3,"Both",88.884308
+941,"red_meats_g_unadj",4651,"Mexico City",2004,22,"All Ages",3,"Both",97.862129
+941,"red_meats_g_unadj",4652,"Durango",2004,22,"All Ages",3,"Both",85.322083
+941,"red_meats_g_unadj",4653,"Guanajuato",2004,22,"All Ages",3,"Both",83.818245
+941,"red_meats_g_unadj",4654,"Guerrero",2004,22,"All Ages",3,"Both",69.309059
+941,"red_meats_g_unadj",4655,"Hidalgo",2004,22,"All Ages",3,"Both",72.395592
+941,"red_meats_g_unadj",4656,"Jalisco",2004,22,"All Ages",3,"Both",91.380066
+941,"red_meats_g_unadj",4657,"México",2004,22,"All Ages",3,"Both",85.97374
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",79.16568
+941,"red_meats_g_unadj",4659,"Morelos",2004,22,"All Ages",3,"Both",82.977364
+941,"red_meats_g_unadj",4660,"Nayarit",2004,22,"All Ages",3,"Both",83.449348
+941,"red_meats_g_unadj",4661,"Nuevo León",2004,22,"All Ages",3,"Both",100.90302
+941,"red_meats_g_unadj",4662,"Oaxaca",2004,22,"All Ages",3,"Both",66.856682
+941,"red_meats_g_unadj",4663,"Puebla",2004,22,"All Ages",3,"Both",76.167885
+941,"red_meats_g_unadj",4664,"Querétaro",2004,22,"All Ages",3,"Both",88.074028
+941,"red_meats_g_unadj",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",85.821579
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",82.606346
+941,"red_meats_g_unadj",4667,"Sinaloa",2004,22,"All Ages",3,"Both",88.949448
+941,"red_meats_g_unadj",4668,"Sonora",2004,22,"All Ages",3,"Both",92.806976
+941,"red_meats_g_unadj",4669,"Tabasco",2004,22,"All Ages",3,"Both",74.993813
+941,"red_meats_g_unadj",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",90.960487
+941,"red_meats_g_unadj",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",74.444099
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",75.320358
+941,"red_meats_g_unadj",4673,"Yucatán",2004,22,"All Ages",3,"Both",82.02607
+941,"red_meats_g_unadj",4674,"Zacatecas",2004,22,"All Ages",3,"Both",80.570549
+941,"red_meats_g_unadj",130,"Mexico",2005,22,"All Ages",3,"Both",84.638359
+941,"red_meats_g_unadj",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",94.299171
+941,"red_meats_g_unadj",4644,"Baja California",2005,22,"All Ages",3,"Both",91.821823
+941,"red_meats_g_unadj",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",94.142288
+941,"red_meats_g_unadj",4646,"Campeche",2005,22,"All Ages",3,"Both",79.363991
+941,"red_meats_g_unadj",4647,"Coahuila",2005,22,"All Ages",3,"Both",93.889984
+941,"red_meats_g_unadj",4648,"Colima",2005,22,"All Ages",3,"Both",88.657616
+941,"red_meats_g_unadj",4649,"Chiapas",2005,22,"All Ages",3,"Both",66.514771
+941,"red_meats_g_unadj",4650,"Chihuahua",2005,22,"All Ages",3,"Both",89.709473
+941,"red_meats_g_unadj",4651,"Mexico City",2005,22,"All Ages",3,"Both",98.439301
+941,"red_meats_g_unadj",4652,"Durango",2005,22,"All Ages",3,"Both",85.492737
+941,"red_meats_g_unadj",4653,"Guanajuato",2005,22,"All Ages",3,"Both",84.376312
+941,"red_meats_g_unadj",4654,"Guerrero",2005,22,"All Ages",3,"Both",69.828568
+941,"red_meats_g_unadj",4655,"Hidalgo",2005,22,"All Ages",3,"Both",72.711395
+941,"red_meats_g_unadj",4656,"Jalisco",2005,22,"All Ages",3,"Both",91.642654
+941,"red_meats_g_unadj",4657,"México",2005,22,"All Ages",3,"Both",86.174133
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",79.600685
+941,"red_meats_g_unadj",4659,"Morelos",2005,22,"All Ages",3,"Both",83.268166
+941,"red_meats_g_unadj",4660,"Nayarit",2005,22,"All Ages",3,"Both",84.055122
+941,"red_meats_g_unadj",4661,"Nuevo León",2005,22,"All Ages",3,"Both",101.12269
+941,"red_meats_g_unadj",4662,"Oaxaca",2005,22,"All Ages",3,"Both",67.069038
+941,"red_meats_g_unadj",4663,"Puebla",2005,22,"All Ages",3,"Both",76.538307
+941,"red_meats_g_unadj",4664,"Querétaro",2005,22,"All Ages",3,"Both",88.653275
+941,"red_meats_g_unadj",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",86.416534
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",83.744614
+941,"red_meats_g_unadj",4667,"Sinaloa",2005,22,"All Ages",3,"Both",88.928673
+941,"red_meats_g_unadj",4668,"Sonora",2005,22,"All Ages",3,"Both",93.340538
+941,"red_meats_g_unadj",4669,"Tabasco",2005,22,"All Ages",3,"Both",75.218575
+941,"red_meats_g_unadj",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",91.135078
+941,"red_meats_g_unadj",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",74.981621
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",75.726738
+941,"red_meats_g_unadj",4673,"Yucatán",2005,22,"All Ages",3,"Both",82.088593
+941,"red_meats_g_unadj",4674,"Zacatecas",2005,22,"All Ages",3,"Both",81.300629
+941,"red_meats_g_unadj",130,"Mexico",2006,22,"All Ages",3,"Both",85.3479
+941,"red_meats_g_unadj",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",94.863297
+941,"red_meats_g_unadj",4644,"Baja California",2006,22,"All Ages",3,"Both",92.547279
+941,"red_meats_g_unadj",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",94.273743
+941,"red_meats_g_unadj",4646,"Campeche",2006,22,"All Ages",3,"Both",80.111855
+941,"red_meats_g_unadj",4647,"Coahuila",2006,22,"All Ages",3,"Both",94.876526
+941,"red_meats_g_unadj",4648,"Colima",2006,22,"All Ages",3,"Both",89.476791
+941,"red_meats_g_unadj",4649,"Chiapas",2006,22,"All Ages",3,"Both",67.672836
+941,"red_meats_g_unadj",4650,"Chihuahua",2006,22,"All Ages",3,"Both",90.856476
+941,"red_meats_g_unadj",4651,"Mexico City",2006,22,"All Ages",3,"Both",99.33033
+941,"red_meats_g_unadj",4652,"Durango",2006,22,"All Ages",3,"Both",85.946953
+941,"red_meats_g_unadj",4653,"Guanajuato",2006,22,"All Ages",3,"Both",85.232964
+941,"red_meats_g_unadj",4654,"Guerrero",2006,22,"All Ages",3,"Both",70.598679
+941,"red_meats_g_unadj",4655,"Hidalgo",2006,22,"All Ages",3,"Both",73.272415
+941,"red_meats_g_unadj",4656,"Jalisco",2006,22,"All Ages",3,"Both",92.211273
+941,"red_meats_g_unadj",4657,"México",2006,22,"All Ages",3,"Both",86.663109
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",80.310883
+941,"red_meats_g_unadj",4659,"Morelos",2006,22,"All Ages",3,"Both",83.838181
+941,"red_meats_g_unadj",4660,"Nayarit",2006,22,"All Ages",3,"Both",84.947617
+941,"red_meats_g_unadj",4661,"Nuevo León",2006,22,"All Ages",3,"Both",101.67307
+941,"red_meats_g_unadj",4662,"Oaxaca",2006,22,"All Ages",3,"Both",67.506523
+941,"red_meats_g_unadj",4663,"Puebla",2006,22,"All Ages",3,"Both",77.170036
+941,"red_meats_g_unadj",4664,"Querétaro",2006,22,"All Ages",3,"Both",89.544144
+941,"red_meats_g_unadj",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",87.329605
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",85.210831
+941,"red_meats_g_unadj",4667,"Sinaloa",2006,22,"All Ages",3,"Both",89.190315
+941,"red_meats_g_unadj",4668,"Sonora",2006,22,"All Ages",3,"Both",94.191795
+941,"red_meats_g_unadj",4669,"Tabasco",2006,22,"All Ages",3,"Both",75.692451
+941,"red_meats_g_unadj",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",91.607651
+941,"red_meats_g_unadj",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",75.778687
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",76.390488
+941,"red_meats_g_unadj",4673,"Yucatán",2006,22,"All Ages",3,"Both",82.409187
+941,"red_meats_g_unadj",4674,"Zacatecas",2006,22,"All Ages",3,"Both",82.317413
+941,"red_meats_g_unadj",130,"Mexico",2007,22,"All Ages",3,"Both",86.111572
+941,"red_meats_g_unadj",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",95.494659
+941,"red_meats_g_unadj",4644,"Baja California",2007,22,"All Ages",3,"Both",93.347198
+941,"red_meats_g_unadj",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",94.462654
+941,"red_meats_g_unadj",4646,"Campeche",2007,22,"All Ages",3,"Both",80.915329
+941,"red_meats_g_unadj",4647,"Coahuila",2007,22,"All Ages",3,"Both",95.927734
+941,"red_meats_g_unadj",4648,"Colima",2007,22,"All Ages",3,"Both",90.349113
+941,"red_meats_g_unadj",4649,"Chiapas",2007,22,"All Ages",3,"Both",68.892677
+941,"red_meats_g_unadj",4650,"Chihuahua",2007,22,"All Ages",3,"Both",92.072769
+941,"red_meats_g_unadj",4651,"Mexico City",2007,22,"All Ages",3,"Both",100.26182
+941,"red_meats_g_unadj",4652,"Durango",2007,22,"All Ages",3,"Both",86.45295
+941,"red_meats_g_unadj",4653,"Guanajuato",2007,22,"All Ages",3,"Both",86.153015
+941,"red_meats_g_unadj",4654,"Guerrero",2007,22,"All Ages",3,"Both",71.423988
+941,"red_meats_g_unadj",4655,"Hidalgo",2007,22,"All Ages",3,"Both",73.877937
+941,"red_meats_g_unadj",4656,"Jalisco",2007,22,"All Ages",3,"Both",92.835411
+941,"red_meats_g_unadj",4657,"México",2007,22,"All Ages",3,"Both",87.205429
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",81.074623
+941,"red_meats_g_unadj",4659,"Morelos",2007,22,"All Ages",3,"Both",84.458755
+941,"red_meats_g_unadj",4660,"Nayarit",2007,22,"All Ages",3,"Both",85.891975
+941,"red_meats_g_unadj",4661,"Nuevo León",2007,22,"All Ages",3,"Both",102.28138
+941,"red_meats_g_unadj",4662,"Oaxaca",2007,22,"All Ages",3,"Both",67.985466
+941,"red_meats_g_unadj",4663,"Puebla",2007,22,"All Ages",3,"Both",77.851105
+941,"red_meats_g_unadj",4664,"Querétaro",2007,22,"All Ages",3,"Both",90.499542
+941,"red_meats_g_unadj",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",88.323486
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",86.760742
+941,"red_meats_g_unadj",4667,"Sinaloa",2007,22,"All Ages",3,"Both",89.49807
+941,"red_meats_g_unadj",4668,"Sonora",2007,22,"All Ages",3,"Both",95.103668
+941,"red_meats_g_unadj",4669,"Tabasco",2007,22,"All Ages",3,"Both",76.209259
+941,"red_meats_g_unadj",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",92.133308
+941,"red_meats_g_unadj",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",76.625397
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",77.100479
+941,"red_meats_g_unadj",4673,"Yucatán",2007,22,"All Ages",3,"Both",82.767097
+941,"red_meats_g_unadj",4674,"Zacatecas",2007,22,"All Ages",3,"Both",83.391777
+941,"red_meats_g_unadj",130,"Mexico",2008,22,"All Ages",3,"Both",86.676765
+941,"red_meats_g_unadj",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",95.915001
+941,"red_meats_g_unadj",4644,"Baja California",2008,22,"All Ages",3,"Both",93.947182
+941,"red_meats_g_unadj",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",94.444214
+941,"red_meats_g_unadj",4646,"Campeche",2008,22,"All Ages",3,"Both",81.535828
+941,"red_meats_g_unadj",4647,"Coahuila",2008,22,"All Ages",3,"Both",96.759537
+941,"red_meats_g_unadj",4648,"Colima",2008,22,"All Ages",3,"Both",91.008408
+941,"red_meats_g_unadj",4649,"Chiapas",2008,22,"All Ages",3,"Both",69.963257
+941,"red_meats_g_unadj",4650,"Chihuahua",2008,22,"All Ages",3,"Both",93.08271
+941,"red_meats_g_unadj",4651,"Mexico City",2008,22,"All Ages",3,"Both",100.94047
+941,"red_meats_g_unadj",4652,"Durango",2008,22,"All Ages",3,"Both",86.760551
+941,"red_meats_g_unadj",4653,"Guanajuato",2008,22,"All Ages",3,"Both",86.880432
+941,"red_meats_g_unadj",4654,"Guerrero",2008,22,"All Ages",3,"Both",72.091423
+941,"red_meats_g_unadj",4655,"Hidalgo",2008,22,"All Ages",3,"Both",74.311584
+941,"red_meats_g_unadj",4656,"Jalisco",2008,22,"All Ages",3,"Both",93.245041
+941,"red_meats_g_unadj",4657,"México",2008,22,"All Ages",3,"Both",87.548256
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",81.652023
+941,"red_meats_g_unadj",4659,"Morelos",2008,22,"All Ages",3,"Both",84.883484
+941,"red_meats_g_unadj",4660,"Nayarit",2008,22,"All Ages",3,"Both",86.634109
+941,"red_meats_g_unadj",4661,"Nuevo León",2008,22,"All Ages",3,"Both",102.6534
+941,"red_meats_g_unadj",4662,"Oaxaca",2008,22,"All Ages",3,"Both",68.307732
+941,"red_meats_g_unadj",4663,"Puebla",2008,22,"All Ages",3,"Both",78.352348
+941,"red_meats_g_unadj",4664,"Querétaro",2008,22,"All Ages",3,"Both",91.251297
+941,"red_meats_g_unadj",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",89.138222
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",88.125175
+941,"red_meats_g_unadj",4667,"Sinaloa",2008,22,"All Ages",3,"Both",89.597549
+941,"red_meats_g_unadj",4668,"Sonora",2008,22,"All Ages",3,"Both",95.797058
+941,"red_meats_g_unadj",4669,"Tabasco",2008,22,"All Ages",3,"Both",76.547447
+941,"red_meats_g_unadj",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",92.447716
+941,"red_meats_g_unadj",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",77.294243
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",77.628761
+941,"red_meats_g_unadj",4673,"Yucatán",2008,22,"All Ages",3,"Both",82.925644
+941,"red_meats_g_unadj",4674,"Zacatecas",2008,22,"All Ages",3,"Both",84.274834
+941,"red_meats_g_unadj",130,"Mexico",2009,22,"All Ages",3,"Both",86.488686
+941,"red_meats_g_unadj",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",95.501404
+941,"red_meats_g_unadj",4644,"Baja California",2009,22,"All Ages",3,"Both",93.717957
+941,"red_meats_g_unadj",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",93.645004
+941,"red_meats_g_unadj",4646,"Campeche",2009,22,"All Ages",3,"Both",81.445343
+941,"red_meats_g_unadj",4647,"Coahuila",2009,22,"All Ages",3,"Both",96.746277
+941,"red_meats_g_unadj",4648,"Colima",2009,22,"All Ages",3,"Both",90.870178
+941,"red_meats_g_unadj",4649,"Chiapas",2009,22,"All Ages",3,"Both",70.403748
+941,"red_meats_g_unadj",4650,"Chihuahua",2009,22,"All Ages",3,"Both",93.269699
+941,"red_meats_g_unadj",4651,"Mexico City",2009,22,"All Ages",3,"Both",100.75019
+941,"red_meats_g_unadj",4652,"Durango",2009,22,"All Ages",3,"Both",86.327202
+941,"red_meats_g_unadj",4653,"Guanajuato",2009,22,"All Ages",3,"Both",86.844925
+941,"red_meats_g_unadj",4654,"Guerrero",2009,22,"All Ages",3,"Both",72.122841
+941,"red_meats_g_unadj",4655,"Hidalgo",2009,22,"All Ages",3,"Both",74.101128
+941,"red_meats_g_unadj",4656,"Jalisco",2009,22,"All Ages",3,"Both",92.848846
+941,"red_meats_g_unadj",4657,"México",2009,22,"All Ages",3,"Both",87.131752
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",81.514229
+941,"red_meats_g_unadj",4659,"Morelos",2009,22,"All Ages",3,"Both",84.572273
+941,"red_meats_g_unadj",4660,"Nayarit",2009,22,"All Ages",3,"Both",86.621185
+941,"red_meats_g_unadj",4661,"Nuevo León",2009,22,"All Ages",3,"Both",102.15353
+941,"red_meats_g_unadj",4662,"Oaxaca",2009,22,"All Ages",3,"Both",68.040993
+941,"red_meats_g_unadj",4663,"Puebla",2009,22,"All Ages",3,"Both",78.169922
+941,"red_meats_g_unadj",4664,"Querétaro",2009,22,"All Ages",3,"Both",91.199242
+941,"red_meats_g_unadj",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",89.168686
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",88.68718
+941,"red_meats_g_unadj",4667,"Sinaloa",2009,22,"All Ages",3,"Both",88.952713
+941,"red_meats_g_unadj",4668,"Sonora",2009,22,"All Ages",3,"Both",95.661766
+941,"red_meats_g_unadj",4669,"Tabasco",2009,22,"All Ages",3,"Both",76.223267
+941,"red_meats_g_unadj",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",91.982895
+941,"red_meats_g_unadj",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",77.284447
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",77.476974
+941,"red_meats_g_unadj",4673,"Yucatán",2009,22,"All Ages",3,"Both",82.387497
+941,"red_meats_g_unadj",4674,"Zacatecas",2009,22,"All Ages",3,"Both",84.419525
+941,"red_meats_g_unadj",130,"Mexico",2010,22,"All Ages",3,"Both",86.143921
+941,"red_meats_g_unadj",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",94.902321
+941,"red_meats_g_unadj",4644,"Baja California",2010,22,"All Ages",3,"Both",93.306366
+941,"red_meats_g_unadj",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",92.677368
+941,"red_meats_g_unadj",4646,"Campeche",2010,22,"All Ages",3,"Both",81.211479
+941,"red_meats_g_unadj",4647,"Coahuila",2010,22,"All Ages",3,"Both",96.567368
+941,"red_meats_g_unadj",4648,"Colima",2010,22,"All Ages",3,"Both",90.56604
+941,"red_meats_g_unadj",4649,"Chiapas",2010,22,"All Ages",3,"Both",70.735939
+941,"red_meats_g_unadj",4650,"Chihuahua",2010,22,"All Ages",3,"Both",93.300751
+941,"red_meats_g_unadj",4651,"Mexico City",2010,22,"All Ages",3,"Both",100.38809
+941,"red_meats_g_unadj",4652,"Durango",2010,22,"All Ages",3,"Both",85.734909
+941,"red_meats_g_unadj",4653,"Guanajuato",2010,22,"All Ages",3,"Both",86.65519
+941,"red_meats_g_unadj",4654,"Guerrero",2010,22,"All Ages",3,"Both",72.027596
+941,"red_meats_g_unadj",4655,"Hidalgo",2010,22,"All Ages",3,"Both",73.755371
+941,"red_meats_g_unadj",4656,"Jalisco",2010,22,"All Ages",3,"Both",92.276863
+941,"red_meats_g_unadj",4657,"México",2010,22,"All Ages",3,"Both",86.544884
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",81.226593
+941,"red_meats_g_unadj",4659,"Morelos",2010,22,"All Ages",3,"Both",84.102295
+941,"red_meats_g_unadj",4660,"Nayarit",2010,22,"All Ages",3,"Both",86.461349
+941,"red_meats_g_unadj",4661,"Nuevo León",2010,22,"All Ages",3,"Both",101.47079
+941,"red_meats_g_unadj",4662,"Oaxaca",2010,22,"All Ages",3,"Both",67.648178
+941,"red_meats_g_unadj",4663,"Puebla",2010,22,"All Ages",3,"Both",77.842987
+941,"red_meats_g_unadj",4664,"Querétaro",2010,22,"All Ages",3,"Both",90.982025
+941,"red_meats_g_unadj",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",89.044182
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",89.10498
+941,"red_meats_g_unadj",4667,"Sinaloa",2010,22,"All Ages",3,"Both",88.1511
+941,"red_meats_g_unadj",4668,"Sonora",2010,22,"All Ages",3,"Both",95.362282
+941,"red_meats_g_unadj",4669,"Tabasco",2010,22,"All Ages",3,"Both",75.75425
+941,"red_meats_g_unadj",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",91.357903
+941,"red_meats_g_unadj",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",77.13913
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",77.18129
+941,"red_meats_g_unadj",4673,"Yucatán",2010,22,"All Ages",3,"Both",81.700348
+941,"red_meats_g_unadj",4674,"Zacatecas",2010,22,"All Ages",3,"Both",84.427734
+941,"red_meats_g_unadj",130,"Mexico",2011,22,"All Ages",3,"Both",85.754883
+941,"red_meats_g_unadj",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",94.245918
+941,"red_meats_g_unadj",4644,"Baja California",2011,22,"All Ages",3,"Both",92.834801
+941,"red_meats_g_unadj",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",91.67305
+941,"red_meats_g_unadj",4646,"Campeche",2011,22,"All Ages",3,"Both",80.938011
+941,"red_meats_g_unadj",4647,"Coahuila",2011,22,"All Ages",3,"Both",96.344368
+941,"red_meats_g_unadj",4648,"Colima",2011,22,"All Ages",3,"Both",90.213684
+941,"red_meats_g_unadj",4649,"Chiapas",2011,22,"All Ages",3,"Both",71.039757
+941,"red_meats_g_unadj",4650,"Chihuahua",2011,22,"All Ages",3,"Both",93.289284
+941,"red_meats_g_unadj",4651,"Mexico City",2011,22,"All Ages",3,"Both",99.985519
+941,"red_meats_g_unadj",4652,"Durango",2011,22,"All Ages",3,"Both",85.100266
+941,"red_meats_g_unadj",4653,"Guanajuato",2011,22,"All Ages",3,"Both",86.4207
+941,"red_meats_g_unadj",4654,"Guerrero",2011,22,"All Ages",3,"Both",71.895508
+941,"red_meats_g_unadj",4655,"Hidalgo",2011,22,"All Ages",3,"Both",73.371613
+941,"red_meats_g_unadj",4656,"Jalisco",2011,22,"All Ages",3,"Both",91.653885
+941,"red_meats_g_unadj",4657,"México",2011,22,"All Ages",3,"Both",85.905861
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",80.894394
+941,"red_meats_g_unadj",4659,"Morelos",2011,22,"All Ages",3,"Both",83.586334
+941,"red_meats_g_unadj",4660,"Nayarit",2011,22,"All Ages",3,"Both",86.263687
+941,"red_meats_g_unadj",4661,"Nuevo León",2011,22,"All Ages",3,"Both",100.74277
+941,"red_meats_g_unadj",4662,"Oaxaca",2011,22,"All Ages",3,"Both",67.21991
+941,"red_meats_g_unadj",4663,"Puebla",2011,22,"All Ages",3,"Both",77.473549
+941,"red_meats_g_unadj",4664,"Querétaro",2011,22,"All Ages",3,"Both",90.715294
+941,"red_meats_g_unadj",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",88.874649
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",89.479401
+941,"red_meats_g_unadj",4667,"Sinaloa",2011,22,"All Ages",3,"Both",87.316063
+941,"red_meats_g_unadj",4668,"Sonora",2011,22,"All Ages",3,"Both",95.020966
+941,"red_meats_g_unadj",4669,"Tabasco",2011,22,"All Ages",3,"Both",75.243019
+941,"red_meats_g_unadj",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",90.696342
+941,"red_meats_g_unadj",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",76.955795
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",76.842636
+941,"red_meats_g_unadj",4673,"Yucatán",2011,22,"All Ages",3,"Both",80.978256
+941,"red_meats_g_unadj",4674,"Zacatecas",2011,22,"All Ages",3,"Both",84.402382
+941,"red_meats_g_unadj",130,"Mexico",2012,22,"All Ages",3,"Both",85.480721
+941,"red_meats_g_unadj",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",93.709274
+941,"red_meats_g_unadj",4644,"Baja California",2012,22,"All Ages",3,"Both",92.476196
+941,"red_meats_g_unadj",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",90.805023
+941,"red_meats_g_unadj",4646,"Campeche",2012,22,"All Ages",3,"Both",80.773262
+941,"red_meats_g_unadj",4647,"Coahuila",2012,22,"All Ages",3,"Both",96.252945
+941,"red_meats_g_unadj",4648,"Colima",2012,22,"All Ages",3,"Both",89.980263
+941,"red_meats_g_unadj",4649,"Chiapas",2012,22,"All Ages",3,"Both",71.440292
+941,"red_meats_g_unadj",4650,"Chihuahua",2012,22,"All Ages",3,"Both",93.403595
+941,"red_meats_g_unadj",4651,"Mexico City",2012,22,"All Ages",3,"Both",99.727417
+941,"red_meats_g_unadj",4652,"Durango",2012,22,"All Ages",3,"Both",84.582672
+941,"red_meats_g_unadj",4653,"Guanajuato",2012,22,"All Ages",3,"Both",86.299629
+941,"red_meats_g_unadj",4654,"Guerrero",2012,22,"All Ages",3,"Both",71.857483
+941,"red_meats_g_unadj",4655,"Hidalgo",2012,22,"All Ages",3,"Both",73.086349
+941,"red_meats_g_unadj",4656,"Jalisco",2012,22,"All Ages",3,"Both",91.152313
+941,"red_meats_g_unadj",4657,"México",2012,22,"All Ages",3,"Both",85.37738
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",80.667465
+941,"red_meats_g_unadj",4659,"Morelos",2012,22,"All Ages",3,"Both",83.180923
+941,"red_meats_g_unadj",4660,"Nayarit",2012,22,"All Ages",3,"Both",86.185654
+941,"red_meats_g_unadj",4661,"Nuevo León",2012,22,"All Ages",3,"Both",100.15765
+941,"red_meats_g_unadj",4662,"Oaxaca",2012,22,"All Ages",3,"Both",66.881866
+941,"red_meats_g_unadj",4663,"Puebla",2012,22,"All Ages",3,"Both",77.205612
+941,"red_meats_g_unadj",4664,"Querétaro",2012,22,"All Ages",3,"Both",90.56575
+941,"red_meats_g_unadj",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",88.820419
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",89.968773
+941,"red_meats_g_unadj",4667,"Sinaloa",2012,22,"All Ages",3,"Both",86.611801
+941,"red_meats_g_unadj",4668,"Sonora",2012,22,"All Ages",3,"Both",94.811867
+941,"red_meats_g_unadj",4669,"Tabasco",2012,22,"All Ages",3,"Both",74.83123
+941,"red_meats_g_unadj",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",90.16687
+941,"red_meats_g_unadj",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",76.875336
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",76.604103
+941,"red_meats_g_unadj",4673,"Yucatán",2012,22,"All Ages",3,"Both",80.374359
+941,"red_meats_g_unadj",4674,"Zacatecas",2012,22,"All Ages",3,"Both",84.495361
+941,"red_meats_g_unadj",130,"Mexico",2013,22,"All Ages",3,"Both",85.202232
+941,"red_meats_g_unadj",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",93.164665
+941,"red_meats_g_unadj",4644,"Baja California",2013,22,"All Ages",3,"Both",92.103386
+941,"red_meats_g_unadj",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",89.949402
+941,"red_meats_g_unadj",4646,"Campeche",2013,22,"All Ages",3,"Both",80.603149
+941,"red_meats_g_unadj",4647,"Coahuila",2013,22,"All Ages",3,"Both",96.156067
+941,"red_meats_g_unadj",4648,"Colima",2013,22,"All Ages",3,"Both",89.740234
+941,"red_meats_g_unadj",4649,"Chiapas",2013,22,"All Ages",3,"Both",71.831764
+941,"red_meats_g_unadj",4650,"Chihuahua",2013,22,"All Ages",3,"Both",93.509079
+941,"red_meats_g_unadj",4651,"Mexico City",2013,22,"All Ages",3,"Both",99.473244
+941,"red_meats_g_unadj",4652,"Durango",2013,22,"All Ages",3,"Both",84.065804
+941,"red_meats_g_unadj",4653,"Guanajuato",2013,22,"All Ages",3,"Both",86.170036
+941,"red_meats_g_unadj",4654,"Guerrero",2013,22,"All Ages",3,"Both",71.811363
+941,"red_meats_g_unadj",4655,"Hidalgo",2013,22,"All Ages",3,"Both",72.798126
+941,"red_meats_g_unadj",4656,"Jalisco",2013,22,"All Ages",3,"Both",90.647469
+941,"red_meats_g_unadj",4657,"México",2013,22,"All Ages",3,"Both",84.84391
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",80.433418
+941,"red_meats_g_unadj",4659,"Morelos",2013,22,"All Ages",3,"Both",82.771667
+941,"red_meats_g_unadj",4660,"Nayarit",2013,22,"All Ages",3,"Both",86.104462
+941,"red_meats_g_unadj",4661,"Nuevo León",2013,22,"All Ages",3,"Both",99.576744
+941,"red_meats_g_unadj",4662,"Oaxaca",2013,22,"All Ages",3,"Both",66.541901
+941,"red_meats_g_unadj",4663,"Puebla",2013,22,"All Ages",3,"Both",76.932106
+941,"red_meats_g_unadj",4664,"Querétaro",2013,22,"All Ages",3,"Both",90.406181
+941,"red_meats_g_unadj",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",88.754486
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",90.441132
+941,"red_meats_g_unadj",4667,"Sinaloa",2013,22,"All Ages",3,"Both",85.919319
+941,"red_meats_g_unadj",4668,"Sonora",2013,22,"All Ages",3,"Both",94.600632
+941,"red_meats_g_unadj",4669,"Tabasco",2013,22,"All Ages",3,"Both",74.416649
+941,"red_meats_g_unadj",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",89.643944
+941,"red_meats_g_unadj",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",76.788925
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",76.359535
+941,"red_meats_g_unadj",4673,"Yucatán",2013,22,"All Ages",3,"Both",79.778862
+941,"red_meats_g_unadj",4674,"Zacatecas",2013,22,"All Ages",3,"Both",84.584251
+941,"red_meats_g_unadj",130,"Mexico",2014,22,"All Ages",3,"Both",84.946419
+941,"red_meats_g_unadj",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",92.63887
+941,"red_meats_g_unadj",4644,"Baja California",2014,22,"All Ages",3,"Both",91.745461
+941,"red_meats_g_unadj",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",89.125061
+941,"red_meats_g_unadj",4646,"Campeche",2014,22,"All Ages",3,"Both",80.453896
+941,"red_meats_g_unadj",4647,"Coahuila",2014,22,"All Ages",3,"Both",96.086281
+941,"red_meats_g_unadj",4648,"Colima",2014,22,"All Ages",3,"Both",89.522842
+941,"red_meats_g_unadj",4649,"Chiapas",2014,22,"All Ages",3,"Both",72.245316
+941,"red_meats_g_unadj",4650,"Chihuahua",2014,22,"All Ages",3,"Both",93.640373
+941,"red_meats_g_unadj",4651,"Mexico City",2014,22,"All Ages",3,"Both",99.254211
+941,"red_meats_g_unadj",4652,"Durango",2014,22,"All Ages",3,"Both",83.572365
+941,"red_meats_g_unadj",4653,"Guanajuato",2014,22,"All Ages",3,"Both",86.061035
+941,"red_meats_g_unadj",4654,"Guerrero",2014,22,"All Ages",3,"Both",71.782219
+941,"red_meats_g_unadj",4655,"Hidalgo",2014,22,"All Ages",3,"Both",72.529121
+941,"red_meats_g_unadj",4656,"Jalisco",2014,22,"All Ages",3,"Both",90.165352
+941,"red_meats_g_unadj",4657,"México",2014,22,"All Ages",3,"Both",84.329552
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",80.218262
+941,"red_meats_g_unadj",4659,"Morelos",2014,22,"All Ages",3,"Both",82.382965
+941,"red_meats_g_unadj",4660,"Nayarit",2014,22,"All Ages",3,"Both",86.049271
+941,"red_meats_g_unadj",4661,"Nuevo León",2014,22,"All Ages",3,"Both",99.026779
+941,"red_meats_g_unadj",4662,"Oaxaca",2014,22,"All Ages",3,"Both",66.219292
+941,"red_meats_g_unadj",4663,"Puebla",2014,22,"All Ages",3,"Both",76.677238
+941,"red_meats_g_unadj",4664,"Querétaro",2014,22,"All Ages",3,"Both",90.267197
+941,"red_meats_g_unadj",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",88.707306
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",90.936333
+941,"red_meats_g_unadj",4667,"Sinaloa",2014,22,"All Ages",3,"Both",85.258453
+941,"red_meats_g_unadj",4668,"Sonora",2014,22,"All Ages",3,"Both",94.41732
+941,"red_meats_g_unadj",4669,"Tabasco",2014,22,"All Ages",3,"Both",74.020782
+941,"red_meats_g_unadj",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",89.151031
+941,"red_meats_g_unadj",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",76.7229
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",76.133553
+941,"red_meats_g_unadj",4673,"Yucatán",2014,22,"All Ages",3,"Both",79.211525
+941,"red_meats_g_unadj",4674,"Zacatecas",2014,22,"All Ages",3,"Both",84.699646
+941,"red_meats_g_unadj",130,"Mexico",2015,22,"All Ages",3,"Both",84.725441
+941,"red_meats_g_unadj",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",92.146378
+941,"red_meats_g_unadj",4644,"Baja California",2015,22,"All Ages",3,"Both",91.417084
+941,"red_meats_g_unadj",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",88.343948
+941,"red_meats_g_unadj",4646,"Campeche",2015,22,"All Ages",3,"Both",80.33699
+941,"red_meats_g_unadj",4647,"Coahuila",2015,22,"All Ages",3,"Both",96.056961
+941,"red_meats_g_unadj",4648,"Colima",2015,22,"All Ages",3,"Both",89.341347
+941,"red_meats_g_unadj",4649,"Chiapas",2015,22,"All Ages",3,"Both",72.691338
+941,"red_meats_g_unadj",4650,"Chihuahua",2015,22,"All Ages",3,"Both",93.810646
+941,"red_meats_g_unadj",4651,"Mexico City",2015,22,"All Ages",3,"Both",99.083481
+941,"red_meats_g_unadj",4652,"Durango",2015,22,"All Ages",3,"Both",83.114365
+941,"red_meats_g_unadj",4653,"Guanajuato",2015,22,"All Ages",3,"Both",85.985168
+941,"red_meats_g_unadj",4654,"Guerrero",2015,22,"All Ages",3,"Both",71.780495
+941,"red_meats_g_unadj",4655,"Hidalgo",2015,22,"All Ages",3,"Both",72.289879
+941,"red_meats_g_unadj",4656,"Jalisco",2015,22,"All Ages",3,"Both",89.71949
+941,"red_meats_g_unadj",4657,"México",2015,22,"All Ages",3,"Both",83.847488
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",80.033974
+941,"red_meats_g_unadj",4659,"Morelos",2015,22,"All Ages",3,"Both",82.027115
+941,"red_meats_g_unadj",4660,"Nayarit",2015,22,"All Ages",3,"Both",86.031906
+941,"red_meats_g_unadj",4661,"Nuevo León",2015,22,"All Ages",3,"Both",98.521294
+941,"red_meats_g_unadj",4662,"Oaxaca",2015,22,"All Ages",3,"Both",65.923775
+941,"red_meats_g_unadj",4663,"Puebla",2015,22,"All Ages",3,"Both",76.452484
+941,"red_meats_g_unadj",4664,"Querétaro",2015,22,"All Ages",3,"Both",90.162285
+941,"red_meats_g_unadj",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",88.691719
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",91.468285
+941,"red_meats_g_unadj",4667,"Sinaloa",2015,22,"All Ages",3,"Both",84.640411
+941,"red_meats_g_unadj",4668,"Sonora",2015,22,"All Ages",3,"Both",94.274773
+941,"red_meats_g_unadj",4669,"Tabasco",2015,22,"All Ages",3,"Both",73.654854
+941,"red_meats_g_unadj",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",88.699814
+941,"red_meats_g_unadj",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",76.688332
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",75.937645
+941,"red_meats_g_unadj",4673,"Yucatán",2015,22,"All Ages",3,"Both",78.683197
+941,"red_meats_g_unadj",4674,"Zacatecas",2015,22,"All Ages",3,"Both",84.85289
+941,"red_meats_g_unadj",130,"Mexico",2016,22,"All Ages",3,"Both",84.547409
+941,"red_meats_g_unadj",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",91.753281
+941,"red_meats_g_unadj",4644,"Baja California",2016,22,"All Ages",3,"Both",91.156197
+941,"red_meats_g_unadj",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",87.718651
+941,"red_meats_g_unadj",4646,"Campeche",2016,22,"All Ages",3,"Both",80.250137
+941,"red_meats_g_unadj",4647,"Coahuila",2016,22,"All Ages",3,"Both",96.043236
+941,"red_meats_g_unadj",4648,"Colima",2016,22,"All Ages",3,"Both",89.203125
+941,"red_meats_g_unadj",4649,"Chiapas",2016,22,"All Ages",3,"Both",73.056503
+941,"red_meats_g_unadj",4650,"Chihuahua",2016,22,"All Ages",3,"Both",93.957092
+941,"red_meats_g_unadj",4651,"Mexico City",2016,22,"All Ages",3,"Both",98.958954
+941,"red_meats_g_unadj",4652,"Durango",2016,22,"All Ages",3,"Both",82.751129
+941,"red_meats_g_unadj",4653,"Guanajuato",2016,22,"All Ages",3,"Both",85.931366
+941,"red_meats_g_unadj",4654,"Guerrero",2016,22,"All Ages",3,"Both",71.785179
+941,"red_meats_g_unadj",4655,"Hidalgo",2016,22,"All Ages",3,"Both",72.103302
+941,"red_meats_g_unadj",4656,"Jalisco",2016,22,"All Ages",3,"Both",89.366158
+941,"red_meats_g_unadj",4657,"México",2016,22,"All Ages",3,"Both",83.463089
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",79.891891
+941,"red_meats_g_unadj",4659,"Morelos",2016,22,"All Ages",3,"Both",81.746216
+941,"red_meats_g_unadj",4660,"Nayarit",2016,22,"All Ages",3,"Both",86.02758
+941,"red_meats_g_unadj",4661,"Nuevo León",2016,22,"All Ages",3,"Both",98.122482
+941,"red_meats_g_unadj",4662,"Oaxaca",2016,22,"All Ages",3,"Both",65.690567
+941,"red_meats_g_unadj",4663,"Puebla",2016,22,"All Ages",3,"Both",76.277489
+941,"red_meats_g_unadj",4664,"Querétaro",2016,22,"All Ages",3,"Both",90.085114
+941,"red_meats_g_unadj",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",88.68557
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",91.902679
+941,"red_meats_g_unadj",4667,"Sinaloa",2016,22,"All Ages",3,"Both",84.149406
+941,"red_meats_g_unadj",4668,"Sonora",2016,22,"All Ages",3,"Both",94.169807
+941,"red_meats_g_unadj",4669,"Tabasco",2016,22,"All Ages",3,"Both",73.365028
+941,"red_meats_g_unadj",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",88.344711
+941,"red_meats_g_unadj",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",76.668045
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",75.786133
+941,"red_meats_g_unadj",4673,"Yucatán",2016,22,"All Ages",3,"Both",78.26442
+941,"red_meats_g_unadj",4674,"Zacatecas",2016,22,"All Ages",3,"Both",84.985909
+941,"red_meats_g_unadj",130,"Mexico",2017,22,"All Ages",3,"Both",84.547409
+941,"red_meats_g_unadj",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",91.753281
+941,"red_meats_g_unadj",4644,"Baja California",2017,22,"All Ages",3,"Both",91.156197
+941,"red_meats_g_unadj",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",87.718651
+941,"red_meats_g_unadj",4646,"Campeche",2017,22,"All Ages",3,"Both",80.250137
+941,"red_meats_g_unadj",4647,"Coahuila",2017,22,"All Ages",3,"Both",96.043236
+941,"red_meats_g_unadj",4648,"Colima",2017,22,"All Ages",3,"Both",89.203125
+941,"red_meats_g_unadj",4649,"Chiapas",2017,22,"All Ages",3,"Both",73.056503
+941,"red_meats_g_unadj",4650,"Chihuahua",2017,22,"All Ages",3,"Both",93.957092
+941,"red_meats_g_unadj",4651,"Mexico City",2017,22,"All Ages",3,"Both",98.958954
+941,"red_meats_g_unadj",4652,"Durango",2017,22,"All Ages",3,"Both",82.751129
+941,"red_meats_g_unadj",4653,"Guanajuato",2017,22,"All Ages",3,"Both",85.931366
+941,"red_meats_g_unadj",4654,"Guerrero",2017,22,"All Ages",3,"Both",71.785179
+941,"red_meats_g_unadj",4655,"Hidalgo",2017,22,"All Ages",3,"Both",72.103302
+941,"red_meats_g_unadj",4656,"Jalisco",2017,22,"All Ages",3,"Both",89.366158
+941,"red_meats_g_unadj",4657,"México",2017,22,"All Ages",3,"Both",83.463089
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",79.891891
+941,"red_meats_g_unadj",4659,"Morelos",2017,22,"All Ages",3,"Both",81.746216
+941,"red_meats_g_unadj",4660,"Nayarit",2017,22,"All Ages",3,"Both",86.02758
+941,"red_meats_g_unadj",4661,"Nuevo León",2017,22,"All Ages",3,"Both",98.122482
+941,"red_meats_g_unadj",4662,"Oaxaca",2017,22,"All Ages",3,"Both",65.690567
+941,"red_meats_g_unadj",4663,"Puebla",2017,22,"All Ages",3,"Both",76.277489
+941,"red_meats_g_unadj",4664,"Querétaro",2017,22,"All Ages",3,"Both",90.085114
+941,"red_meats_g_unadj",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",88.68557
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",91.902679
+941,"red_meats_g_unadj",4667,"Sinaloa",2017,22,"All Ages",3,"Both",84.149406
+941,"red_meats_g_unadj",4668,"Sonora",2017,22,"All Ages",3,"Both",94.169807
+941,"red_meats_g_unadj",4669,"Tabasco",2017,22,"All Ages",3,"Both",73.365028
+941,"red_meats_g_unadj",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",88.344711
+941,"red_meats_g_unadj",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",76.668045
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",75.786133
+941,"red_meats_g_unadj",4673,"Yucatán",2017,22,"All Ages",3,"Both",78.26442
+941,"red_meats_g_unadj",4674,"Zacatecas",2017,22,"All Ages",3,"Both",84.985909
+941,"red_meats_g_unadj",130,"Mexico",2018,22,"All Ages",3,"Both",84.7607931630628
+941,"red_meats_g_unadj",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",91.9711076518537
+941,"red_meats_g_unadj",4644,"Baja California",2018,22,"All Ages",3,"Both",91.3129782113306
+941,"red_meats_g_unadj",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",87.8938160031786
+941,"red_meats_g_unadj",4646,"Campeche",2018,22,"All Ages",3,"Both",80.486655452032
+941,"red_meats_g_unadj",4647,"Coahuila",2018,22,"All Ages",3,"Both",96.26967557614
+941,"red_meats_g_unadj",4648,"Colima",2018,22,"All Ages",3,"Both",89.4197601361261
+941,"red_meats_g_unadj",4649,"Chiapas",2018,22,"All Ages",3,"Both",73.2916086559779
+941,"red_meats_g_unadj",4650,"Chihuahua",2018,22,"All Ages",3,"Both",94.1797184451182
+941,"red_meats_g_unadj",4651,"Mexico City",2018,22,"All Ages",3,"Both",99.1546503685894
+941,"red_meats_g_unadj",4652,"Durango",2018,22,"All Ages",3,"Both",82.991472775312
+941,"red_meats_g_unadj",4653,"Guanajuato",2018,22,"All Ages",3,"Both",86.1708125188719
+941,"red_meats_g_unadj",4654,"Guerrero",2018,22,"All Ages",3,"Both",71.996911053192
+941,"red_meats_g_unadj",4655,"Hidalgo",2018,22,"All Ages",3,"Both",72.2882882953409
+941,"red_meats_g_unadj",4656,"Jalisco",2018,22,"All Ages",3,"Both",89.5940379927748
+941,"red_meats_g_unadj",4657,"México",2018,22,"All Ages",3,"Both",83.6738950148264
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",80.1294285735711
+941,"red_meats_g_unadj",4659,"Morelos",2018,22,"All Ages",3,"Both",81.9399137252263
+941,"red_meats_g_unadj",4660,"Nayarit",2018,22,"All Ages",3,"Both",86.2849191308212
+941,"red_meats_g_unadj",4661,"Nuevo León",2018,22,"All Ages",3,"Both",98.295595537339
+941,"red_meats_g_unadj",4662,"Oaxaca",2018,22,"All Ages",3,"Both",65.8989814011973
+941,"red_meats_g_unadj",4663,"Puebla",2018,22,"All Ages",3,"Both",76.4737876926458
+941,"red_meats_g_unadj",4664,"Querétaro",2018,22,"All Ages",3,"Both",90.2558719627459
+941,"red_meats_g_unadj",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",88.8413107882547
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",92.1618140911799
+941,"red_meats_g_unadj",4667,"Sinaloa",2018,22,"All Ages",3,"Both",84.3597077927355
+941,"red_meats_g_unadj",4668,"Sonora",2018,22,"All Ages",3,"Both",94.372829767512
+941,"red_meats_g_unadj",4669,"Tabasco",2018,22,"All Ages",3,"Both",73.579695547055
+941,"red_meats_g_unadj",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",88.5384299984037
+941,"red_meats_g_unadj",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",76.8225454881787
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",76.0131147297815
+941,"red_meats_g_unadj",4673,"Yucatán",2018,22,"All Ages",3,"Both",78.4795401077905
+941,"red_meats_g_unadj",4674,"Zacatecas",2018,22,"All Ages",3,"Both",85.2773651146078
+941,"red_meats_g_unadj",130,"Mexico",2019,22,"All Ages",3,"Both",84.9592171743632
+941,"red_meats_g_unadj",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",92.1787541034786
+941,"red_meats_g_unadj",4644,"Baja California",2019,22,"All Ages",3,"Both",91.4646923102373
+941,"red_meats_g_unadj",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",88.0626981129194
+941,"red_meats_g_unadj",4646,"Campeche",2019,22,"All Ages",3,"Both",80.7032496920317
+941,"red_meats_g_unadj",4647,"Coahuila",2019,22,"All Ages",3,"Both",96.4854602120264
+941,"red_meats_g_unadj",4648,"Colima",2019,22,"All Ages",3,"Both",89.6210226467159
+941,"red_meats_g_unadj",4649,"Chiapas",2019,22,"All Ages",3,"Both",73.4984853518644
+941,"red_meats_g_unadj",4650,"Chihuahua",2019,22,"All Ages",3,"Both",94.3827424271884
+941,"red_meats_g_unadj",4651,"Mexico City",2019,22,"All Ages",3,"Both",99.3483493364944
+941,"red_meats_g_unadj",4652,"Durango",2019,22,"All Ages",3,"Both",83.2088571663995
+941,"red_meats_g_unadj",4653,"Guanajuato",2019,22,"All Ages",3,"Both",86.3951318479243
+941,"red_meats_g_unadj",4654,"Guerrero",2019,22,"All Ages",3,"Both",72.1858209319516
+941,"red_meats_g_unadj",4655,"Hidalgo",2019,22,"All Ages",3,"Both",72.4605930863158
+941,"red_meats_g_unadj",4656,"Jalisco",2019,22,"All Ages",3,"Both",89.8063299680904
+941,"red_meats_g_unadj",4657,"México",2019,22,"All Ages",3,"Both",83.8670171913451
+941,"red_meats_g_unadj",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",80.3471156793819
+941,"red_meats_g_unadj",4659,"Morelos",2019,22,"All Ages",3,"Both",82.1250793751613
+941,"red_meats_g_unadj",4660,"Nayarit",2019,22,"All Ages",3,"Both",86.5219127021214
+941,"red_meats_g_unadj",4661,"Nuevo León",2019,22,"All Ages",3,"Both",98.4672814006719
+941,"red_meats_g_unadj",4662,"Oaxaca",2019,22,"All Ages",3,"Both",66.0881984794288
+941,"red_meats_g_unadj",4663,"Puebla",2019,22,"All Ages",3,"Both",76.6581082380591
+941,"red_meats_g_unadj",4664,"Querétaro",2019,22,"All Ages",3,"Both",90.4281744956313
+941,"red_meats_g_unadj",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",88.9960405015334
+941,"red_meats_g_unadj",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",92.4008211754219
+941,"red_meats_g_unadj",4667,"Sinaloa",2019,22,"All Ages",3,"Both",84.5589474575284
+941,"red_meats_g_unadj",4668,"Sonora",2019,22,"All Ages",3,"Both",94.5672238930102
+941,"red_meats_g_unadj",4669,"Tabasco",2019,22,"All Ages",3,"Both",73.7781106452193
+941,"red_meats_g_unadj",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",88.7259818262372
+941,"red_meats_g_unadj",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",76.9789539875595
+941,"red_meats_g_unadj",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",76.220044739062
+941,"red_meats_g_unadj",4673,"Yucatán",2019,22,"All Ages",3,"Both",78.6846762372415
+941,"red_meats_g_unadj",4674,"Zacatecas",2019,22,"All Ages",3,"Both",85.5390269499062

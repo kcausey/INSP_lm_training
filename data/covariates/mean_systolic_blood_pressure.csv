@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+70,"mean_SBP",130,"Mexico",1990,27,"Age-standardized",1,"Male",126.586971504
+70,"mean_SBP",130,"Mexico",1990,27,"Age-standardized",2,"Female",124.348664631
+70,"mean_SBP",4643,"Aguascalientes",1990,27,"Age-standardized",1,"Male",128.801923708
+70,"mean_SBP",4643,"Aguascalientes",1990,27,"Age-standardized",2,"Female",127.288436211
+70,"mean_SBP",4644,"Baja California",1990,27,"Age-standardized",1,"Male",130.573920358
+70,"mean_SBP",4644,"Baja California",1990,27,"Age-standardized",2,"Female",129.311398357
+70,"mean_SBP",4645,"Baja California Sur",1990,27,"Age-standardized",1,"Male",127.824715048
+70,"mean_SBP",4645,"Baja California Sur",1990,27,"Age-standardized",2,"Female",125.105454501
+70,"mean_SBP",4646,"Campeche",1990,27,"Age-standardized",1,"Male",125.224625585
+70,"mean_SBP",4646,"Campeche",1990,27,"Age-standardized",2,"Female",123.913518671
+70,"mean_SBP",4647,"Coahuila",1990,27,"Age-standardized",1,"Male",127.958388636
+70,"mean_SBP",4647,"Coahuila",1990,27,"Age-standardized",2,"Female",124.779897922
+70,"mean_SBP",4648,"Colima",1990,27,"Age-standardized",1,"Male",127.579314484
+70,"mean_SBP",4648,"Colima",1990,27,"Age-standardized",2,"Female",126.036539173
+70,"mean_SBP",4649,"Chiapas",1990,27,"Age-standardized",1,"Male",120.649306848
+70,"mean_SBP",4649,"Chiapas",1990,27,"Age-standardized",2,"Female",123.182089869
+70,"mean_SBP",4650,"Chihuahua",1990,27,"Age-standardized",1,"Male",126.992178651
+70,"mean_SBP",4650,"Chihuahua",1990,27,"Age-standardized",2,"Female",125.314498243
+70,"mean_SBP",4651,"Mexico City",1990,27,"Age-standardized",1,"Male",128.449859585
+70,"mean_SBP",4651,"Mexico City",1990,27,"Age-standardized",2,"Female",125.605130256
+70,"mean_SBP",4652,"Durango",1990,27,"Age-standardized",1,"Male",127.403243049
+70,"mean_SBP",4652,"Durango",1990,27,"Age-standardized",2,"Female",125.931244906
+70,"mean_SBP",4653,"Guanajuato",1990,27,"Age-standardized",1,"Male",127.238194484
+70,"mean_SBP",4653,"Guanajuato",1990,27,"Age-standardized",2,"Female",123.534706612
+70,"mean_SBP",4654,"Guerrero",1990,27,"Age-standardized",1,"Male",125.412734783
+70,"mean_SBP",4654,"Guerrero",1990,27,"Age-standardized",2,"Female",121.577804211
+70,"mean_SBP",4655,"Hidalgo",1990,27,"Age-standardized",1,"Male",125.879221084
+70,"mean_SBP",4655,"Hidalgo",1990,27,"Age-standardized",2,"Female",125.199227871
+70,"mean_SBP",4656,"Jalisco",1990,27,"Age-standardized",1,"Male",127.277326166
+70,"mean_SBP",4656,"Jalisco",1990,27,"Age-standardized",2,"Female",124.838783459
+70,"mean_SBP",4657,"México",1990,27,"Age-standardized",1,"Male",125.886629724
+70,"mean_SBP",4657,"México",1990,27,"Age-standardized",2,"Female",122.891357888
+70,"mean_SBP",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",1,"Male",126.188136285
+70,"mean_SBP",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",2,"Female",123.934648322
+70,"mean_SBP",4659,"Morelos",1990,27,"Age-standardized",1,"Male",126.193842995
+70,"mean_SBP",4659,"Morelos",1990,27,"Age-standardized",2,"Female",124.07919237
+70,"mean_SBP",4660,"Nayarit",1990,27,"Age-standardized",1,"Male",126.474984939
+70,"mean_SBP",4660,"Nayarit",1990,27,"Age-standardized",2,"Female",125.210021181
+70,"mean_SBP",4661,"Nuevo León",1990,27,"Age-standardized",1,"Male",128.270455928
+70,"mean_SBP",4661,"Nuevo León",1990,27,"Age-standardized",2,"Female",124.876109831
+70,"mean_SBP",4662,"Oaxaca",1990,27,"Age-standardized",1,"Male",122.309809668
+70,"mean_SBP",4662,"Oaxaca",1990,27,"Age-standardized",2,"Female",123.256568389
+70,"mean_SBP",4663,"Puebla",1990,27,"Age-standardized",1,"Male",125.093090899
+70,"mean_SBP",4663,"Puebla",1990,27,"Age-standardized",2,"Female",123.160594692
+70,"mean_SBP",4664,"Querétaro",1990,27,"Age-standardized",1,"Male",126.914565803
+70,"mean_SBP",4664,"Querétaro",1990,27,"Age-standardized",2,"Female",124.65935613
+70,"mean_SBP",4665,"Quintana Roo",1990,27,"Age-standardized",1,"Male",127.29732522
+70,"mean_SBP",4665,"Quintana Roo",1990,27,"Age-standardized",2,"Female",123.443339142
+70,"mean_SBP",4666,"San Luis Potosí",1990,27,"Age-standardized",1,"Male",126.653864744
+70,"mean_SBP",4666,"San Luis Potosí",1990,27,"Age-standardized",2,"Female",124.497231817
+70,"mean_SBP",4667,"Sinaloa",1990,27,"Age-standardized",1,"Male",128.43681509
+70,"mean_SBP",4667,"Sinaloa",1990,27,"Age-standardized",2,"Female",125.174933179
+70,"mean_SBP",4668,"Sonora",1990,27,"Age-standardized",1,"Male",130.311028072
+70,"mean_SBP",4668,"Sonora",1990,27,"Age-standardized",2,"Female",127.329796242
+70,"mean_SBP",4669,"Tabasco",1990,27,"Age-standardized",1,"Male",126.10273803
+70,"mean_SBP",4669,"Tabasco",1990,27,"Age-standardized",2,"Female",124.892799767
+70,"mean_SBP",4670,"Tamaulipas",1990,27,"Age-standardized",1,"Male",128.497242887
+70,"mean_SBP",4670,"Tamaulipas",1990,27,"Age-standardized",2,"Female",124.403760878
+70,"mean_SBP",4671,"Tlaxcala",1990,27,"Age-standardized",1,"Male",123.697128181
+70,"mean_SBP",4671,"Tlaxcala",1990,27,"Age-standardized",2,"Female",121.68907154
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",1,"Male",125.04402304
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",2,"Female",123.918046675
+70,"mean_SBP",4673,"Yucatán",1990,27,"Age-standardized",1,"Male",126.938786738
+70,"mean_SBP",4673,"Yucatán",1990,27,"Age-standardized",2,"Female",124.387957397
+70,"mean_SBP",4674,"Zacatecas",1990,27,"Age-standardized",1,"Male",127.897365392
+70,"mean_SBP",4674,"Zacatecas",1990,27,"Age-standardized",2,"Female",126.55572755
+70,"mean_SBP",130,"Mexico",1991,27,"Age-standardized",1,"Male",126.660645685
+70,"mean_SBP",130,"Mexico",1991,27,"Age-standardized",2,"Female",124.324255525
+70,"mean_SBP",4643,"Aguascalientes",1991,27,"Age-standardized",1,"Male",128.905558013
+70,"mean_SBP",4643,"Aguascalientes",1991,27,"Age-standardized",2,"Female",127.320786321
+70,"mean_SBP",4644,"Baja California",1991,27,"Age-standardized",1,"Male",130.618797755
+70,"mean_SBP",4644,"Baja California",1991,27,"Age-standardized",2,"Female",129.267751135
+70,"mean_SBP",4645,"Baja California Sur",1991,27,"Age-standardized",1,"Male",127.899282625
+70,"mean_SBP",4645,"Baja California Sur",1991,27,"Age-standardized",2,"Female",125.082770355
+70,"mean_SBP",4646,"Campeche",1991,27,"Age-standardized",1,"Male",125.299882005
+70,"mean_SBP",4646,"Campeche",1991,27,"Age-standardized",2,"Female",123.862437956
+70,"mean_SBP",4647,"Coahuila",1991,27,"Age-standardized",1,"Male",128.050872771
+70,"mean_SBP",4647,"Coahuila",1991,27,"Age-standardized",2,"Female",124.789891055
+70,"mean_SBP",4648,"Colima",1991,27,"Age-standardized",1,"Male",127.690045666
+70,"mean_SBP",4648,"Colima",1991,27,"Age-standardized",2,"Female",126.013031048
+70,"mean_SBP",4649,"Chiapas",1991,27,"Age-standardized",1,"Male",120.959592818
+70,"mean_SBP",4649,"Chiapas",1991,27,"Age-standardized",2,"Female",123.229578078
+70,"mean_SBP",4650,"Chihuahua",1991,27,"Age-standardized",1,"Male",127.066373695
+70,"mean_SBP",4650,"Chihuahua",1991,27,"Age-standardized",2,"Female",125.313130532
+70,"mean_SBP",4651,"Mexico City",1991,27,"Age-standardized",1,"Male",128.512486767
+70,"mean_SBP",4651,"Mexico City",1991,27,"Age-standardized",2,"Female",125.594350776
+70,"mean_SBP",4652,"Durango",1991,27,"Age-standardized",1,"Male",127.4849602
+70,"mean_SBP",4652,"Durango",1991,27,"Age-standardized",2,"Female",125.899423889
+70,"mean_SBP",4653,"Guanajuato",1991,27,"Age-standardized",1,"Male",127.363924007
+70,"mean_SBP",4653,"Guanajuato",1991,27,"Age-standardized",2,"Female",123.523071166
+70,"mean_SBP",4654,"Guerrero",1991,27,"Age-standardized",1,"Male",125.371475537
+70,"mean_SBP",4654,"Guerrero",1991,27,"Age-standardized",2,"Female",121.51008381
+70,"mean_SBP",4655,"Hidalgo",1991,27,"Age-standardized",1,"Male",125.978198199
+70,"mean_SBP",4655,"Hidalgo",1991,27,"Age-standardized",2,"Female",125.175588327
+70,"mean_SBP",4656,"Jalisco",1991,27,"Age-standardized",1,"Male",127.385777599
+70,"mean_SBP",4656,"Jalisco",1991,27,"Age-standardized",2,"Female",124.822008559
+70,"mean_SBP",4657,"México",1991,27,"Age-standardized",1,"Male",125.85278426
+70,"mean_SBP",4657,"México",1991,27,"Age-standardized",2,"Female",122.750705807
+70,"mean_SBP",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",1,"Male",126.324698594
+70,"mean_SBP",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",2,"Female",123.981538276
+70,"mean_SBP",4659,"Morelos",1991,27,"Age-standardized",1,"Male",126.300950059
+70,"mean_SBP",4659,"Morelos",1991,27,"Age-standardized",2,"Female",124.062298848
+70,"mean_SBP",4660,"Nayarit",1991,27,"Age-standardized",1,"Male",126.582793327
+70,"mean_SBP",4660,"Nayarit",1991,27,"Age-standardized",2,"Female",125.19504334
+70,"mean_SBP",4661,"Nuevo León",1991,27,"Age-standardized",1,"Male",128.338592408
+70,"mean_SBP",4661,"Nuevo León",1991,27,"Age-standardized",2,"Female",124.866367765
+70,"mean_SBP",4662,"Oaxaca",1991,27,"Age-standardized",1,"Male",122.382480733
+70,"mean_SBP",4662,"Oaxaca",1991,27,"Age-standardized",2,"Female",123.233683201
+70,"mean_SBP",4663,"Puebla",1991,27,"Age-standardized",1,"Male",125.204974806
+70,"mean_SBP",4663,"Puebla",1991,27,"Age-standardized",2,"Female",123.145907419
+70,"mean_SBP",4664,"Querétaro",1991,27,"Age-standardized",1,"Male",127.015398429
+70,"mean_SBP",4664,"Querétaro",1991,27,"Age-standardized",2,"Female",124.625669772
+70,"mean_SBP",4665,"Quintana Roo",1991,27,"Age-standardized",1,"Male",127.416416871
+70,"mean_SBP",4665,"Quintana Roo",1991,27,"Age-standardized",2,"Female",123.432170072
+70,"mean_SBP",4666,"San Luis Potosí",1991,27,"Age-standardized",1,"Male",126.763146405
+70,"mean_SBP",4666,"San Luis Potosí",1991,27,"Age-standardized",2,"Female",124.506475689
+70,"mean_SBP",4667,"Sinaloa",1991,27,"Age-standardized",1,"Male",128.49274085
+70,"mean_SBP",4667,"Sinaloa",1991,27,"Age-standardized",2,"Female",125.178850472
+70,"mean_SBP",4668,"Sonora",1991,27,"Age-standardized",1,"Male",130.387755156
+70,"mean_SBP",4668,"Sonora",1991,27,"Age-standardized",2,"Female",127.391264127
+70,"mean_SBP",4669,"Tabasco",1991,27,"Age-standardized",1,"Male",126.174894816
+70,"mean_SBP",4669,"Tabasco",1991,27,"Age-standardized",2,"Female",124.912953267
+70,"mean_SBP",4670,"Tamaulipas",1991,27,"Age-standardized",1,"Male",128.613919007
+70,"mean_SBP",4670,"Tamaulipas",1991,27,"Age-standardized",2,"Female",124.385006841
+70,"mean_SBP",4671,"Tlaxcala",1991,27,"Age-standardized",1,"Male",123.752288644
+70,"mean_SBP",4671,"Tlaxcala",1991,27,"Age-standardized",2,"Female",121.641943436
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",1,"Male",125.084466469
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",2,"Female",123.883174953
+70,"mean_SBP",4673,"Yucatán",1991,27,"Age-standardized",1,"Male",127.036501558
+70,"mean_SBP",4673,"Yucatán",1991,27,"Age-standardized",2,"Female",124.383476921
+70,"mean_SBP",4674,"Zacatecas",1991,27,"Age-standardized",1,"Male",128.037030639
+70,"mean_SBP",4674,"Zacatecas",1991,27,"Age-standardized",2,"Female",126.616828548
+70,"mean_SBP",130,"Mexico",1992,27,"Age-standardized",1,"Male",126.725764976
+70,"mean_SBP",130,"Mexico",1992,27,"Age-standardized",2,"Female",124.270499897
+70,"mean_SBP",4643,"Aguascalientes",1992,27,"Age-standardized",1,"Male",129.006015893
+70,"mean_SBP",4643,"Aguascalientes",1992,27,"Age-standardized",2,"Female",127.326614028
+70,"mean_SBP",4644,"Baja California",1992,27,"Age-standardized",1,"Male",130.668134048
+70,"mean_SBP",4644,"Baja California",1992,27,"Age-standardized",2,"Female",129.210635798
+70,"mean_SBP",4645,"Baja California Sur",1992,27,"Age-standardized",1,"Male",127.934109696
+70,"mean_SBP",4645,"Baja California Sur",1992,27,"Age-standardized",2,"Female",125.025245371
+70,"mean_SBP",4646,"Campeche",1992,27,"Age-standardized",1,"Male",125.360144077
+70,"mean_SBP",4646,"Campeche",1992,27,"Age-standardized",2,"Female",123.786563742
+70,"mean_SBP",4647,"Coahuila",1992,27,"Age-standardized",1,"Male",128.157788768
+70,"mean_SBP",4647,"Coahuila",1992,27,"Age-standardized",2,"Female",124.770447381
+70,"mean_SBP",4648,"Colima",1992,27,"Age-standardized",1,"Male",127.780590487
+70,"mean_SBP",4648,"Colima",1992,27,"Age-standardized",2,"Female",125.95428332
+70,"mean_SBP",4649,"Chiapas",1992,27,"Age-standardized",1,"Male",121.263925706
+70,"mean_SBP",4649,"Chiapas",1992,27,"Age-standardized",2,"Female",123.328647352
+70,"mean_SBP",4650,"Chihuahua",1992,27,"Age-standardized",1,"Male",127.130553586
+70,"mean_SBP",4650,"Chihuahua",1992,27,"Age-standardized",2,"Female",125.283710621
+70,"mean_SBP",4651,"Mexico City",1992,27,"Age-standardized",1,"Male",128.532609587
+70,"mean_SBP",4651,"Mexico City",1992,27,"Age-standardized",2,"Female",125.511543058
+70,"mean_SBP",4652,"Durango",1992,27,"Age-standardized",1,"Male",127.553154159
+70,"mean_SBP",4652,"Durango",1992,27,"Age-standardized",2,"Female",125.844898229
+70,"mean_SBP",4653,"Guanajuato",1992,27,"Age-standardized",1,"Male",127.482675966
+70,"mean_SBP",4653,"Guanajuato",1992,27,"Age-standardized",2,"Female",123.487047788
+70,"mean_SBP",4654,"Guerrero",1992,27,"Age-standardized",1,"Male",125.350044834
+70,"mean_SBP",4654,"Guerrero",1992,27,"Age-standardized",2,"Female",121.406704143
+70,"mean_SBP",4655,"Hidalgo",1992,27,"Age-standardized",1,"Male",126.104424622
+70,"mean_SBP",4655,"Hidalgo",1992,27,"Age-standardized",2,"Female",125.124394758
+70,"mean_SBP",4656,"Jalisco",1992,27,"Age-standardized",1,"Male",127.488593783
+70,"mean_SBP",4656,"Jalisco",1992,27,"Age-standardized",2,"Female",124.784247671
+70,"mean_SBP",4657,"México",1992,27,"Age-standardized",1,"Male",125.795480099
+70,"mean_SBP",4657,"México",1992,27,"Age-standardized",2,"Female",122.599257502
+70,"mean_SBP",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",1,"Male",126.437134678
+70,"mean_SBP",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",2,"Female",124.001103185
+70,"mean_SBP",4659,"Morelos",1992,27,"Age-standardized",1,"Male",126.397476794
+70,"mean_SBP",4659,"Morelos",1992,27,"Age-standardized",2,"Female",124.01038321
+70,"mean_SBP",4660,"Nayarit",1992,27,"Age-standardized",1,"Male",126.691529139
+70,"mean_SBP",4660,"Nayarit",1992,27,"Age-standardized",2,"Female",125.153775669
+70,"mean_SBP",4661,"Nuevo León",1992,27,"Age-standardized",1,"Male",128.399329671
+70,"mean_SBP",4661,"Nuevo León",1992,27,"Age-standardized",2,"Female",124.824190031
+70,"mean_SBP",4662,"Oaxaca",1992,27,"Age-standardized",1,"Male",122.432372025
+70,"mean_SBP",4662,"Oaxaca",1992,27,"Age-standardized",2,"Female",123.168494933
+70,"mean_SBP",4663,"Puebla",1992,27,"Age-standardized",1,"Male",125.2664737
+70,"mean_SBP",4663,"Puebla",1992,27,"Age-standardized",2,"Female",123.093400212
+70,"mean_SBP",4664,"Querétaro",1992,27,"Age-standardized",1,"Male",127.082895759
+70,"mean_SBP",4664,"Querétaro",1992,27,"Age-standardized",2,"Female",124.546680404
+70,"mean_SBP",4665,"Quintana Roo",1992,27,"Age-standardized",1,"Male",127.508382626
+70,"mean_SBP",4665,"Quintana Roo",1992,27,"Age-standardized",2,"Female",123.416549876
+70,"mean_SBP",4666,"San Luis Potosí",1992,27,"Age-standardized",1,"Male",126.855878191
+70,"mean_SBP",4666,"San Luis Potosí",1992,27,"Age-standardized",2,"Female",124.488917539
+70,"mean_SBP",4667,"Sinaloa",1992,27,"Age-standardized",1,"Male",128.554167876
+70,"mean_SBP",4667,"Sinaloa",1992,27,"Age-standardized",2,"Female",125.145521578
+70,"mean_SBP",4668,"Sonora",1992,27,"Age-standardized",1,"Male",130.474549411
+70,"mean_SBP",4668,"Sonora",1992,27,"Age-standardized",2,"Female",127.415024375
+70,"mean_SBP",4669,"Tabasco",1992,27,"Age-standardized",1,"Male",126.288974176
+70,"mean_SBP",4669,"Tabasco",1992,27,"Age-standardized",2,"Female",124.907144618
+70,"mean_SBP",4670,"Tamaulipas",1992,27,"Age-standardized",1,"Male",128.72529075
+70,"mean_SBP",4670,"Tamaulipas",1992,27,"Age-standardized",2,"Female",124.335466809
+70,"mean_SBP",4671,"Tlaxcala",1992,27,"Age-standardized",1,"Male",123.740723871
+70,"mean_SBP",4671,"Tlaxcala",1992,27,"Age-standardized",2,"Female",121.523779761
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",1,"Male",125.182078365
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",2,"Female",123.826482414
+70,"mean_SBP",4673,"Yucatán",1992,27,"Age-standardized",1,"Male",127.132636207
+70,"mean_SBP",4673,"Yucatán",1992,27,"Age-standardized",2,"Female",124.351205853
+70,"mean_SBP",4674,"Zacatecas",1992,27,"Age-standardized",1,"Male",128.174948598
+70,"mean_SBP",4674,"Zacatecas",1992,27,"Age-standardized",2,"Female",126.66360281
+70,"mean_SBP",130,"Mexico",1993,27,"Age-standardized",1,"Male",126.776325927
+70,"mean_SBP",130,"Mexico",1993,27,"Age-standardized",2,"Female",124.189520344
+70,"mean_SBP",4643,"Aguascalientes",1993,27,"Age-standardized",1,"Male",129.067125142
+70,"mean_SBP",4643,"Aguascalientes",1993,27,"Age-standardized",2,"Female",127.272850821
+70,"mean_SBP",4644,"Baja California",1993,27,"Age-standardized",1,"Male",130.71092568
+70,"mean_SBP",4644,"Baja California",1993,27,"Age-standardized",2,"Female",129.125887095
+70,"mean_SBP",4645,"Baja California Sur",1993,27,"Age-standardized",1,"Male",127.916669283
+70,"mean_SBP",4645,"Baja California Sur",1993,27,"Age-standardized",2,"Female",124.912311298
+70,"mean_SBP",4646,"Campeche",1993,27,"Age-standardized",1,"Male",125.384028714
+70,"mean_SBP",4646,"Campeche",1993,27,"Age-standardized",2,"Female",123.658567596
+70,"mean_SBP",4647,"Coahuila",1993,27,"Age-standardized",1,"Male",128.222215857
+70,"mean_SBP",4647,"Coahuila",1993,27,"Age-standardized",2,"Female",124.69485565
+70,"mean_SBP",4648,"Colima",1993,27,"Age-standardized",1,"Male",127.832570353
+70,"mean_SBP",4648,"Colima",1993,27,"Age-standardized",2,"Female",125.834926373
+70,"mean_SBP",4649,"Chiapas",1993,27,"Age-standardized",1,"Male",121.469174758
+70,"mean_SBP",4649,"Chiapas",1993,27,"Age-standardized",2,"Female",123.388747836
+70,"mean_SBP",4650,"Chihuahua",1993,27,"Age-standardized",1,"Male",127.16548798
+70,"mean_SBP",4650,"Chihuahua",1993,27,"Age-standardized",2,"Female",125.196505299
+70,"mean_SBP",4651,"Mexico City",1993,27,"Age-standardized",1,"Male",128.5380721
+70,"mean_SBP",4651,"Mexico City",1993,27,"Age-standardized",2,"Female",125.387288957
+70,"mean_SBP",4652,"Durango",1993,27,"Age-standardized",1,"Male",127.542698905
+70,"mean_SBP",4652,"Durango",1993,27,"Age-standardized",2,"Female",125.731242385
+70,"mean_SBP",4653,"Guanajuato",1993,27,"Age-standardized",1,"Male",127.563566305
+70,"mean_SBP",4653,"Guanajuato",1993,27,"Age-standardized",2,"Female",123.397355405
+70,"mean_SBP",4654,"Guerrero",1993,27,"Age-standardized",1,"Male",125.201392739
+70,"mean_SBP",4654,"Guerrero",1993,27,"Age-standardized",2,"Female",121.237284091
+70,"mean_SBP",4655,"Hidalgo",1993,27,"Age-standardized",1,"Male",126.133136564
+70,"mean_SBP",4655,"Hidalgo",1993,27,"Age-standardized",2,"Female",125.0126221
+70,"mean_SBP",4656,"Jalisco",1993,27,"Age-standardized",1,"Male",127.552279658
+70,"mean_SBP",4656,"Jalisco",1993,27,"Age-standardized",2,"Female",124.693134838
+70,"mean_SBP",4657,"México",1993,27,"Age-standardized",1,"Male",125.980678782
+70,"mean_SBP",4657,"México",1993,27,"Age-standardized",2,"Female",122.604237263
+70,"mean_SBP",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",1,"Male",126.501776052
+70,"mean_SBP",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",2,"Female",123.956816695
+70,"mean_SBP",4659,"Morelos",1993,27,"Age-standardized",1,"Male",126.423672041
+70,"mean_SBP",4659,"Morelos",1993,27,"Age-standardized",2,"Female",123.898657438
+70,"mean_SBP",4660,"Nayarit",1993,27,"Age-standardized",1,"Male",126.710371628
+70,"mean_SBP",4660,"Nayarit",1993,27,"Age-standardized",2,"Female",125.056721812
+70,"mean_SBP",4661,"Nuevo León",1993,27,"Age-standardized",1,"Male",128.4220386
+70,"mean_SBP",4661,"Nuevo León",1993,27,"Age-standardized",2,"Female",124.724311362
+70,"mean_SBP",4662,"Oaxaca",1993,27,"Age-standardized",1,"Male",122.432101732
+70,"mean_SBP",4662,"Oaxaca",1993,27,"Age-standardized",2,"Female",123.032380309
+70,"mean_SBP",4663,"Puebla",1993,27,"Age-standardized",1,"Male",125.276264763
+70,"mean_SBP",4663,"Puebla",1993,27,"Age-standardized",2,"Female",122.974253926
+70,"mean_SBP",4664,"Querétaro",1993,27,"Age-standardized",1,"Male",127.154963225
+70,"mean_SBP",4664,"Querétaro",1993,27,"Age-standardized",2,"Female",124.444854903
+70,"mean_SBP",4665,"Quintana Roo",1993,27,"Age-standardized",1,"Male",127.581621873
+70,"mean_SBP",4665,"Quintana Roo",1993,27,"Age-standardized",2,"Female",123.362516742
+70,"mean_SBP",4666,"San Luis Potosí",1993,27,"Age-standardized",1,"Male",126.946113407
+70,"mean_SBP",4666,"San Luis Potosí",1993,27,"Age-standardized",2,"Female",124.414388285
+70,"mean_SBP",4667,"Sinaloa",1993,27,"Age-standardized",1,"Male",128.499555406
+70,"mean_SBP",4667,"Sinaloa",1993,27,"Age-standardized",2,"Female",125.046171589
+70,"mean_SBP",4668,"Sonora",1993,27,"Age-standardized",1,"Male",130.503889338
+70,"mean_SBP",4668,"Sonora",1993,27,"Age-standardized",2,"Female",127.372834898
+70,"mean_SBP",4669,"Tabasco",1993,27,"Age-standardized",1,"Male",126.261376282
+70,"mean_SBP",4669,"Tabasco",1993,27,"Age-standardized",2,"Female",124.844853118
+70,"mean_SBP",4670,"Tamaulipas",1993,27,"Age-standardized",1,"Male",128.790022491
+70,"mean_SBP",4670,"Tamaulipas",1993,27,"Age-standardized",2,"Female",124.229874989
+70,"mean_SBP",4671,"Tlaxcala",1993,27,"Age-standardized",1,"Male",123.752828259
+70,"mean_SBP",4671,"Tlaxcala",1993,27,"Age-standardized",2,"Female",121.392775297
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",1,"Male",125.190117443
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",2,"Female",123.716764714
+70,"mean_SBP",4673,"Yucatán",1993,27,"Age-standardized",1,"Male",127.206076541
+70,"mean_SBP",4673,"Yucatán",1993,27,"Age-standardized",2,"Female",124.266934044
+70,"mean_SBP",4674,"Zacatecas",1993,27,"Age-standardized",1,"Male",128.275117638
+70,"mean_SBP",4674,"Zacatecas",1993,27,"Age-standardized",2,"Female",126.661758001
+70,"mean_SBP",130,"Mexico",1994,27,"Age-standardized",1,"Male",126.82692777
+70,"mean_SBP",130,"Mexico",1994,27,"Age-standardized",2,"Female",124.098514749
+70,"mean_SBP",4643,"Aguascalientes",1994,27,"Age-standardized",1,"Male",129.095313806
+70,"mean_SBP",4643,"Aguascalientes",1994,27,"Age-standardized",2,"Female",127.18834414
+70,"mean_SBP",4644,"Baja California",1994,27,"Age-standardized",1,"Male",130.739983709
+70,"mean_SBP",4644,"Baja California",1994,27,"Age-standardized",2,"Female",129.042987893
+70,"mean_SBP",4645,"Baja California Sur",1994,27,"Age-standardized",1,"Male",127.877466493
+70,"mean_SBP",4645,"Baja California Sur",1994,27,"Age-standardized",2,"Female",124.782379456
+70,"mean_SBP",4646,"Campeche",1994,27,"Age-standardized",1,"Male",125.42057875
+70,"mean_SBP",4646,"Campeche",1994,27,"Age-standardized",2,"Female",123.510342961
+70,"mean_SBP",4647,"Coahuila",1994,27,"Age-standardized",1,"Male",128.247592077
+70,"mean_SBP",4647,"Coahuila",1994,27,"Age-standardized",2,"Female",124.589941703
+70,"mean_SBP",4648,"Colima",1994,27,"Age-standardized",1,"Male",127.839946127
+70,"mean_SBP",4648,"Colima",1994,27,"Age-standardized",2,"Female",125.683293604
+70,"mean_SBP",4649,"Chiapas",1994,27,"Age-standardized",1,"Male",121.664758085
+70,"mean_SBP",4649,"Chiapas",1994,27,"Age-standardized",2,"Female",123.423328454
+70,"mean_SBP",4650,"Chihuahua",1994,27,"Age-standardized",1,"Male",127.161621825
+70,"mean_SBP",4650,"Chihuahua",1994,27,"Age-standardized",2,"Female",125.06898472
+70,"mean_SBP",4651,"Mexico City",1994,27,"Age-standardized",1,"Male",128.588082673
+70,"mean_SBP",4651,"Mexico City",1994,27,"Age-standardized",2,"Female",125.288733654
+70,"mean_SBP",4652,"Durango",1994,27,"Age-standardized",1,"Male",127.536764505
+70,"mean_SBP",4652,"Durango",1994,27,"Age-standardized",2,"Female",125.588576857
+70,"mean_SBP",4653,"Guanajuato",1994,27,"Age-standardized",1,"Male",127.617569303
+70,"mean_SBP",4653,"Guanajuato",1994,27,"Age-standardized",2,"Female",123.279302363
+70,"mean_SBP",4654,"Guerrero",1994,27,"Age-standardized",1,"Male",125.032612239
+70,"mean_SBP",4654,"Guerrero",1994,27,"Age-standardized",2,"Female",121.046060979
+70,"mean_SBP",4655,"Hidalgo",1994,27,"Age-standardized",1,"Male",126.147885361
+70,"mean_SBP",4655,"Hidalgo",1994,27,"Age-standardized",2,"Female",124.872263426
+70,"mean_SBP",4656,"Jalisco",1994,27,"Age-standardized",1,"Male",127.585510304
+70,"mean_SBP",4656,"Jalisco",1994,27,"Age-standardized",2,"Female",124.579508254
+70,"mean_SBP",4657,"México",1994,27,"Age-standardized",1,"Male",126.218846454
+70,"mean_SBP",4657,"México",1994,27,"Age-standardized",2,"Female",122.664862636
+70,"mean_SBP",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",1,"Male",126.563857929
+70,"mean_SBP",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",2,"Female",123.876629238
+70,"mean_SBP",4659,"Morelos",1994,27,"Age-standardized",1,"Male",126.456388632
+70,"mean_SBP",4659,"Morelos",1994,27,"Age-standardized",2,"Female",123.756180217
+70,"mean_SBP",4660,"Nayarit",1994,27,"Age-standardized",1,"Male",126.728062389
+70,"mean_SBP",4660,"Nayarit",1994,27,"Age-standardized",2,"Female",124.933139946
+70,"mean_SBP",4661,"Nuevo León",1994,27,"Age-standardized",1,"Male",128.40990838
+70,"mean_SBP",4661,"Nuevo León",1994,27,"Age-standardized",2,"Female",124.58957656
+70,"mean_SBP",4662,"Oaxaca",1994,27,"Age-standardized",1,"Male",122.394832514
+70,"mean_SBP",4662,"Oaxaca",1994,27,"Age-standardized",2,"Female",122.855625285
+70,"mean_SBP",4663,"Puebla",1994,27,"Age-standardized",1,"Male",125.286635529
+70,"mean_SBP",4663,"Puebla",1994,27,"Age-standardized",2,"Female",122.814608948
+70,"mean_SBP",4664,"Querétaro",1994,27,"Age-standardized",1,"Male",127.277635064
+70,"mean_SBP",4664,"Querétaro",1994,27,"Age-standardized",2,"Female",124.384123739
+70,"mean_SBP",4665,"Quintana Roo",1994,27,"Age-standardized",1,"Male",127.641538128
+70,"mean_SBP",4665,"Quintana Roo",1994,27,"Age-standardized",2,"Female",123.280812756
+70,"mean_SBP",4666,"San Luis Potosí",1994,27,"Age-standardized",1,"Male",127.000221108
+70,"mean_SBP",4666,"San Luis Potosí",1994,27,"Age-standardized",2,"Female",124.310065925
+70,"mean_SBP",4667,"Sinaloa",1994,27,"Age-standardized",1,"Male",128.488390348
+70,"mean_SBP",4667,"Sinaloa",1994,27,"Age-standardized",2,"Female",124.914599032
+70,"mean_SBP",4668,"Sonora",1994,27,"Age-standardized",1,"Male",130.491808421
+70,"mean_SBP",4668,"Sonora",1994,27,"Age-standardized",2,"Female",127.283810108
+70,"mean_SBP",4669,"Tabasco",1994,27,"Age-standardized",1,"Male",126.294033589
+70,"mean_SBP",4669,"Tabasco",1994,27,"Age-standardized",2,"Female",124.758612119
+70,"mean_SBP",4670,"Tamaulipas",1994,27,"Age-standardized",1,"Male",128.777386942
+70,"mean_SBP",4670,"Tamaulipas",1994,27,"Age-standardized",2,"Female",124.09783841
+70,"mean_SBP",4671,"Tlaxcala",1994,27,"Age-standardized",1,"Male",123.860997465
+70,"mean_SBP",4671,"Tlaxcala",1994,27,"Age-standardized",2,"Female",121.320095974
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",1,"Male",125.187475067
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",2,"Female",123.584707724
+70,"mean_SBP",4673,"Yucatán",1994,27,"Age-standardized",1,"Male",127.252839384
+70,"mean_SBP",4673,"Yucatán",1994,27,"Age-standardized",2,"Female",124.156475895
+70,"mean_SBP",4674,"Zacatecas",1994,27,"Age-standardized",1,"Male",128.328619318
+70,"mean_SBP",4674,"Zacatecas",1994,27,"Age-standardized",2,"Female",126.631892185
+70,"mean_SBP",130,"Mexico",1995,27,"Age-standardized",1,"Male",126.85585662
+70,"mean_SBP",130,"Mexico",1995,27,"Age-standardized",2,"Female",124.004931021
+70,"mean_SBP",4643,"Aguascalientes",1995,27,"Age-standardized",1,"Male",129.107782656
+70,"mean_SBP",4643,"Aguascalientes",1995,27,"Age-standardized",2,"Female",127.107803002
+70,"mean_SBP",4644,"Baja California",1995,27,"Age-standardized",1,"Male",130.76705388
+70,"mean_SBP",4644,"Baja California",1995,27,"Age-standardized",2,"Female",128.975106944
+70,"mean_SBP",4645,"Baja California Sur",1995,27,"Age-standardized",1,"Male",127.825645738
+70,"mean_SBP",4645,"Baja California Sur",1995,27,"Age-standardized",2,"Female",124.668106944
+70,"mean_SBP",4646,"Campeche",1995,27,"Age-standardized",1,"Male",125.409248013
+70,"mean_SBP",4646,"Campeche",1995,27,"Age-standardized",2,"Female",123.376500452
+70,"mean_SBP",4647,"Coahuila",1995,27,"Age-standardized",1,"Male",128.241219583
+70,"mean_SBP",4647,"Coahuila",1995,27,"Age-standardized",2,"Female",124.482011265
+70,"mean_SBP",4648,"Colima",1995,27,"Age-standardized",1,"Male",127.810473235
+70,"mean_SBP",4648,"Colima",1995,27,"Age-standardized",2,"Female",125.527401587
+70,"mean_SBP",4649,"Chiapas",1995,27,"Age-standardized",1,"Male",121.847617884
+70,"mean_SBP",4649,"Chiapas",1995,27,"Age-standardized",2,"Female",123.463507385
+70,"mean_SBP",4650,"Chihuahua",1995,27,"Age-standardized",1,"Male",127.107644796
+70,"mean_SBP",4650,"Chihuahua",1995,27,"Age-standardized",2,"Female",124.930048791
+70,"mean_SBP",4651,"Mexico City",1995,27,"Age-standardized",1,"Male",128.647419501
+70,"mean_SBP",4651,"Mexico City",1995,27,"Age-standardized",2,"Female",125.216684851
+70,"mean_SBP",4652,"Durango",1995,27,"Age-standardized",1,"Male",127.537397677
+70,"mean_SBP",4652,"Durango",1995,27,"Age-standardized",2,"Female",125.465591773
+70,"mean_SBP",4653,"Guanajuato",1995,27,"Age-standardized",1,"Male",127.666518972
+70,"mean_SBP",4653,"Guanajuato",1995,27,"Age-standardized",2,"Female",123.172075726
+70,"mean_SBP",4654,"Guerrero",1995,27,"Age-standardized",1,"Male",125.101162767
+70,"mean_SBP",4654,"Guerrero",1995,27,"Age-standardized",2,"Female",120.903575997
+70,"mean_SBP",4655,"Hidalgo",1995,27,"Age-standardized",1,"Male",126.183672467
+70,"mean_SBP",4655,"Hidalgo",1995,27,"Age-standardized",2,"Female",124.744795823
+70,"mean_SBP",4656,"Jalisco",1995,27,"Age-standardized",1,"Male",127.603364713
+70,"mean_SBP",4656,"Jalisco",1995,27,"Age-standardized",2,"Female",124.479811295
+70,"mean_SBP",4657,"México",1995,27,"Age-standardized",1,"Male",126.266896714
+70,"mean_SBP",4657,"México",1995,27,"Age-standardized",2,"Female",122.621466019
+70,"mean_SBP",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",1,"Male",126.61087727
+70,"mean_SBP",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",2,"Female",123.805499223
+70,"mean_SBP",4659,"Morelos",1995,27,"Age-standardized",1,"Male",126.471309681
+70,"mean_SBP",4659,"Morelos",1995,27,"Age-standardized",2,"Female",123.61013866
+70,"mean_SBP",4660,"Nayarit",1995,27,"Age-standardized",1,"Male",126.781073374
+70,"mean_SBP",4660,"Nayarit",1995,27,"Age-standardized",2,"Female",124.823165424
+70,"mean_SBP",4661,"Nuevo León",1995,27,"Age-standardized",1,"Male",128.372711214
+70,"mean_SBP",4661,"Nuevo León",1995,27,"Age-standardized",2,"Female",124.451211695
+70,"mean_SBP",4662,"Oaxaca",1995,27,"Age-standardized",1,"Male",122.337725628
+70,"mean_SBP",4662,"Oaxaca",1995,27,"Age-standardized",2,"Female",122.683238939
+70,"mean_SBP",4663,"Puebla",1995,27,"Age-standardized",1,"Male",125.264944113
+70,"mean_SBP",4663,"Puebla",1995,27,"Age-standardized",2,"Female",122.653273618
+70,"mean_SBP",4664,"Querétaro",1995,27,"Age-standardized",1,"Male",127.439177248
+70,"mean_SBP",4664,"Querétaro",1995,27,"Age-standardized",2,"Female",124.375583182
+70,"mean_SBP",4665,"Quintana Roo",1995,27,"Age-standardized",1,"Male",127.631941491
+70,"mean_SBP",4665,"Quintana Roo",1995,27,"Age-standardized",2,"Female",123.19535458
+70,"mean_SBP",4666,"San Luis Potosí",1995,27,"Age-standardized",1,"Male",127.046814546
+70,"mean_SBP",4666,"San Luis Potosí",1995,27,"Age-standardized",2,"Female",124.215249288
+70,"mean_SBP",4667,"Sinaloa",1995,27,"Age-standardized",1,"Male",128.518110756
+70,"mean_SBP",4667,"Sinaloa",1995,27,"Age-standardized",2,"Female",124.792915175
+70,"mean_SBP",4668,"Sonora",1995,27,"Age-standardized",1,"Male",130.467546823
+70,"mean_SBP",4668,"Sonora",1995,27,"Age-standardized",2,"Female",127.180197655
+70,"mean_SBP",4669,"Tabasco",1995,27,"Age-standardized",1,"Male",126.369710517
+70,"mean_SBP",4669,"Tabasco",1995,27,"Age-standardized",2,"Female",124.687452774
+70,"mean_SBP",4670,"Tamaulipas",1995,27,"Age-standardized",1,"Male",128.785354133
+70,"mean_SBP",4670,"Tamaulipas",1995,27,"Age-standardized",2,"Female",123.974079547
+70,"mean_SBP",4671,"Tlaxcala",1995,27,"Age-standardized",1,"Male",123.946963809
+70,"mean_SBP",4671,"Tlaxcala",1995,27,"Age-standardized",2,"Female",121.261202874
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",1,"Male",125.185813418
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",2,"Female",123.4708386
+70,"mean_SBP",4673,"Yucatán",1995,27,"Age-standardized",1,"Male",127.282279585
+70,"mean_SBP",4673,"Yucatán",1995,27,"Age-standardized",2,"Female",124.051056555
+70,"mean_SBP",4674,"Zacatecas",1995,27,"Age-standardized",1,"Male",128.36652909
+70,"mean_SBP",4674,"Zacatecas",1995,27,"Age-standardized",2,"Female",126.603355354
+70,"mean_SBP",130,"Mexico",1996,27,"Age-standardized",1,"Male",126.861074613
+70,"mean_SBP",130,"Mexico",1996,27,"Age-standardized",2,"Female",123.92926547
+70,"mean_SBP",4643,"Aguascalientes",1996,27,"Age-standardized",1,"Male",129.109336706
+70,"mean_SBP",4643,"Aguascalientes",1996,27,"Age-standardized",2,"Female",127.046922037
+70,"mean_SBP",4644,"Baja California",1996,27,"Age-standardized",1,"Male",130.73975075
+70,"mean_SBP",4644,"Baja California",1996,27,"Age-standardized",2,"Female",128.897802932
+70,"mean_SBP",4645,"Baja California Sur",1996,27,"Age-standardized",1,"Male",127.773637668
+70,"mean_SBP",4645,"Baja California Sur",1996,27,"Age-standardized",2,"Female",124.571139348
+70,"mean_SBP",4646,"Campeche",1996,27,"Age-standardized",1,"Male",125.399506499
+70,"mean_SBP",4646,"Campeche",1996,27,"Age-standardized",2,"Female",123.292179028
+70,"mean_SBP",4647,"Coahuila",1996,27,"Age-standardized",1,"Male",128.219034446
+70,"mean_SBP",4647,"Coahuila",1996,27,"Age-standardized",2,"Female",124.391789636
+70,"mean_SBP",4648,"Colima",1996,27,"Age-standardized",1,"Male",127.787988537
+70,"mean_SBP",4648,"Colima",1996,27,"Age-standardized",2,"Female",125.39057717
+70,"mean_SBP",4649,"Chiapas",1996,27,"Age-standardized",1,"Male",121.982510556
+70,"mean_SBP",4649,"Chiapas",1996,27,"Age-standardized",2,"Female",123.519110701
+70,"mean_SBP",4650,"Chihuahua",1996,27,"Age-standardized",1,"Male",127.04915878
+70,"mean_SBP",4650,"Chihuahua",1996,27,"Age-standardized",2,"Female",124.807710326
+70,"mean_SBP",4651,"Mexico City",1996,27,"Age-standardized",1,"Male",128.648173445
+70,"mean_SBP",4651,"Mexico City",1996,27,"Age-standardized",2,"Female",125.131050093
+70,"mean_SBP",4652,"Durango",1996,27,"Age-standardized",1,"Male",127.536554513
+70,"mean_SBP",4652,"Durango",1996,27,"Age-standardized",2,"Female",125.388194584
+70,"mean_SBP",4653,"Guanajuato",1996,27,"Age-standardized",1,"Male",127.699487229
+70,"mean_SBP",4653,"Guanajuato",1996,27,"Age-standardized",2,"Female",123.101415832
+70,"mean_SBP",4654,"Guerrero",1996,27,"Age-standardized",1,"Male",125.140444549
+70,"mean_SBP",4654,"Guerrero",1996,27,"Age-standardized",2,"Female",120.840222911
+70,"mean_SBP",4655,"Hidalgo",1996,27,"Age-standardized",1,"Male",126.194339616
+70,"mean_SBP",4655,"Hidalgo",1996,27,"Age-standardized",2,"Female",124.657690616
+70,"mean_SBP",4656,"Jalisco",1996,27,"Age-standardized",1,"Male",127.602513829
+70,"mean_SBP",4656,"Jalisco",1996,27,"Age-standardized",2,"Female",124.410663134
+70,"mean_SBP",4657,"México",1996,27,"Age-standardized",1,"Male",126.247798762
+70,"mean_SBP",4657,"México",1996,27,"Age-standardized",2,"Female",122.545101573
+70,"mean_SBP",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",1,"Male",126.673351357
+70,"mean_SBP",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",2,"Female",123.770836904
+70,"mean_SBP",4659,"Morelos",1996,27,"Age-standardized",1,"Male",126.429072531
+70,"mean_SBP",4659,"Morelos",1996,27,"Age-standardized",2,"Female",123.484482225
+70,"mean_SBP",4660,"Nayarit",1996,27,"Age-standardized",1,"Male",126.799162868
+70,"mean_SBP",4660,"Nayarit",1996,27,"Age-standardized",2,"Female",124.751671656
+70,"mean_SBP",4661,"Nuevo León",1996,27,"Age-standardized",1,"Male",128.312113625
+70,"mean_SBP",4661,"Nuevo León",1996,27,"Age-standardized",2,"Female",124.328160395
+70,"mean_SBP",4662,"Oaxaca",1996,27,"Age-standardized",1,"Male",122.316603698
+70,"mean_SBP",4662,"Oaxaca",1996,27,"Age-standardized",2,"Female",122.555636896
+70,"mean_SBP",4663,"Puebla",1996,27,"Age-standardized",1,"Male",125.217873316
+70,"mean_SBP",4663,"Puebla",1996,27,"Age-standardized",2,"Female",122.522324631
+70,"mean_SBP",4664,"Querétaro",1996,27,"Age-standardized",1,"Male",127.575949407
+70,"mean_SBP",4664,"Querétaro",1996,27,"Age-standardized",2,"Female",124.376510123
+70,"mean_SBP",4665,"Quintana Roo",1996,27,"Age-standardized",1,"Male",127.626261922
+70,"mean_SBP",4665,"Quintana Roo",1996,27,"Age-standardized",2,"Female",123.136147422
+70,"mean_SBP",4666,"San Luis Potosí",1996,27,"Age-standardized",1,"Male",127.10249887
+70,"mean_SBP",4666,"San Luis Potosí",1996,27,"Age-standardized",2,"Female",124.161933038
+70,"mean_SBP",4667,"Sinaloa",1996,27,"Age-standardized",1,"Male",128.477405983
+70,"mean_SBP",4667,"Sinaloa",1996,27,"Age-standardized",2,"Female",124.703350881
+70,"mean_SBP",4668,"Sonora",1996,27,"Age-standardized",1,"Male",130.43975988
+70,"mean_SBP",4668,"Sonora",1996,27,"Age-standardized",2,"Female",127.084263224
+70,"mean_SBP",4669,"Tabasco",1996,27,"Age-standardized",1,"Male",126.390448086
+70,"mean_SBP",4669,"Tabasco",1996,27,"Age-standardized",2,"Female",124.656489631
+70,"mean_SBP",4670,"Tamaulipas",1996,27,"Age-standardized",1,"Male",128.795414876
+70,"mean_SBP",4670,"Tamaulipas",1996,27,"Age-standardized",2,"Female",123.876716203
+70,"mean_SBP",4671,"Tlaxcala",1996,27,"Age-standardized",1,"Male",124.000817007
+70,"mean_SBP",4671,"Tlaxcala",1996,27,"Age-standardized",2,"Female",121.189752611
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",1,"Male",125.218752213
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",2,"Female",123.406130297
+70,"mean_SBP",4673,"Yucatán",1996,27,"Age-standardized",1,"Male",127.315893346
+70,"mean_SBP",4673,"Yucatán",1996,27,"Age-standardized",2,"Female",123.97371465
+70,"mean_SBP",4674,"Zacatecas",1996,27,"Age-standardized",1,"Male",128.411500066
+70,"mean_SBP",4674,"Zacatecas",1996,27,"Age-standardized",2,"Female",126.599719211
+70,"mean_SBP",130,"Mexico",1997,27,"Age-standardized",1,"Male",126.850078559
+70,"mean_SBP",130,"Mexico",1997,27,"Age-standardized",2,"Female",123.828009051
+70,"mean_SBP",4643,"Aguascalientes",1997,27,"Age-standardized",1,"Male",129.074526578
+70,"mean_SBP",4643,"Aguascalientes",1997,27,"Age-standardized",2,"Female",126.956743053
+70,"mean_SBP",4644,"Baja California",1997,27,"Age-standardized",1,"Male",130.635646955
+70,"mean_SBP",4644,"Baja California",1997,27,"Age-standardized",2,"Female",128.751924049
+70,"mean_SBP",4645,"Baja California Sur",1997,27,"Age-standardized",1,"Male",127.676777965
+70,"mean_SBP",4645,"Baja California Sur",1997,27,"Age-standardized",2,"Female",124.422365594
+70,"mean_SBP",4646,"Campeche",1997,27,"Age-standardized",1,"Male",125.429121042
+70,"mean_SBP",4646,"Campeche",1997,27,"Age-standardized",2,"Female",123.20776432
+70,"mean_SBP",4647,"Coahuila",1997,27,"Age-standardized",1,"Male",128.169786869
+70,"mean_SBP",4647,"Coahuila",1997,27,"Age-standardized",2,"Female",124.273326631
+70,"mean_SBP",4648,"Colima",1997,27,"Age-standardized",1,"Male",127.741990449
+70,"mean_SBP",4648,"Colima",1997,27,"Age-standardized",2,"Female",125.229244296
+70,"mean_SBP",4649,"Chiapas",1997,27,"Age-standardized",1,"Male",122.044848023
+70,"mean_SBP",4649,"Chiapas",1997,27,"Age-standardized",2,"Female",123.541039801
+70,"mean_SBP",4650,"Chihuahua",1997,27,"Age-standardized",1,"Male",126.984751405
+70,"mean_SBP",4650,"Chihuahua",1997,27,"Age-standardized",2,"Female",124.66191954
+70,"mean_SBP",4651,"Mexico City",1997,27,"Age-standardized",1,"Male",128.571324927
+70,"mean_SBP",4651,"Mexico City",1997,27,"Age-standardized",2,"Female",124.968999732
+70,"mean_SBP",4652,"Durango",1997,27,"Age-standardized",1,"Male",127.557776286
+70,"mean_SBP",4652,"Durango",1997,27,"Age-standardized",2,"Female",125.30197973
+70,"mean_SBP",4653,"Guanajuato",1997,27,"Age-standardized",1,"Male",127.729548415
+70,"mean_SBP",4653,"Guanajuato",1997,27,"Age-standardized",2,"Female",123.016191428
+70,"mean_SBP",4654,"Guerrero",1997,27,"Age-standardized",1,"Male",125.239191347
+70,"mean_SBP",4654,"Guerrero",1997,27,"Age-standardized",2,"Female",120.787777833
+70,"mean_SBP",4655,"Hidalgo",1997,27,"Age-standardized",1,"Male",126.226621541
+70,"mean_SBP",4655,"Hidalgo",1997,27,"Age-standardized",2,"Female",124.566917618
+70,"mean_SBP",4656,"Jalisco",1997,27,"Age-standardized",1,"Male",127.570969211
+70,"mean_SBP",4656,"Jalisco",1997,27,"Age-standardized",2,"Female",124.321420111
+70,"mean_SBP",4657,"México",1997,27,"Age-standardized",1,"Male",126.202019721
+70,"mean_SBP",4657,"México",1997,27,"Age-standardized",2,"Female",122.446086939
+70,"mean_SBP",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",1,"Male",126.740386354
+70,"mean_SBP",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",2,"Female",123.723844319
+70,"mean_SBP",4659,"Morelos",1997,27,"Age-standardized",1,"Male",126.39646743
+70,"mean_SBP",4659,"Morelos",1997,27,"Age-standardized",2,"Female",123.335586226
+70,"mean_SBP",4660,"Nayarit",1997,27,"Age-standardized",1,"Male",126.806921684
+70,"mean_SBP",4660,"Nayarit",1997,27,"Age-standardized",2,"Female",124.665479709
+70,"mean_SBP",4661,"Nuevo León",1997,27,"Age-standardized",1,"Male",128.215815396
+70,"mean_SBP",4661,"Nuevo León",1997,27,"Age-standardized",2,"Female",124.168146955
+70,"mean_SBP",4662,"Oaxaca",1997,27,"Age-standardized",1,"Male",122.347413383
+70,"mean_SBP",4662,"Oaxaca",1997,27,"Age-standardized",2,"Female",122.436045394
+70,"mean_SBP",4663,"Puebla",1997,27,"Age-standardized",1,"Male",125.205762803
+70,"mean_SBP",4663,"Puebla",1997,27,"Age-standardized",2,"Female",122.386467766
+70,"mean_SBP",4664,"Querétaro",1997,27,"Age-standardized",1,"Male",127.629035664
+70,"mean_SBP",4664,"Querétaro",1997,27,"Age-standardized",2,"Female",124.30147254
+70,"mean_SBP",4665,"Quintana Roo",1997,27,"Age-standardized",1,"Male",127.60769304
+70,"mean_SBP",4665,"Quintana Roo",1997,27,"Age-standardized",2,"Female",123.049703605
+70,"mean_SBP",4666,"San Luis Potosí",1997,27,"Age-standardized",1,"Male",127.141162062
+70,"mean_SBP",4666,"San Luis Potosí",1997,27,"Age-standardized",2,"Female",124.097153503
+70,"mean_SBP",4667,"Sinaloa",1997,27,"Age-standardized",1,"Male",128.482777255
+70,"mean_SBP",4667,"Sinaloa",1997,27,"Age-standardized",2,"Female",124.592159719
+70,"mean_SBP",4668,"Sonora",1997,27,"Age-standardized",1,"Male",130.399167556
+70,"mean_SBP",4668,"Sonora",1997,27,"Age-standardized",2,"Female",126.949637229
+70,"mean_SBP",4669,"Tabasco",1997,27,"Age-standardized",1,"Male",126.501284831
+70,"mean_SBP",4669,"Tabasco",1997,27,"Age-standardized",2,"Female",124.617899969
+70,"mean_SBP",4670,"Tamaulipas",1997,27,"Age-standardized",1,"Male",128.749759394
+70,"mean_SBP",4670,"Tamaulipas",1997,27,"Age-standardized",2,"Female",123.750028222
+70,"mean_SBP",4671,"Tlaxcala",1997,27,"Age-standardized",1,"Male",123.990215542
+70,"mean_SBP",4671,"Tlaxcala",1997,27,"Age-standardized",2,"Female",121.058568164
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",1,"Male",125.253450523
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",2,"Female",123.341617728
+70,"mean_SBP",4673,"Yucatán",1997,27,"Age-standardized",1,"Male",127.331143575
+70,"mean_SBP",4673,"Yucatán",1997,27,"Age-standardized",2,"Female",123.877880987
+70,"mean_SBP",4674,"Zacatecas",1997,27,"Age-standardized",1,"Male",128.431277582
+70,"mean_SBP",4674,"Zacatecas",1997,27,"Age-standardized",2,"Female",126.569236647
+70,"mean_SBP",130,"Mexico",1998,27,"Age-standardized",1,"Male",126.7942699
+70,"mean_SBP",130,"Mexico",1998,27,"Age-standardized",2,"Female",123.72110098
+70,"mean_SBP",4643,"Aguascalientes",1998,27,"Age-standardized",1,"Male",128.983002485
+70,"mean_SBP",4643,"Aguascalientes",1998,27,"Age-standardized",2,"Female",126.845140033
+70,"mean_SBP",4644,"Baja California",1998,27,"Age-standardized",1,"Male",130.508297437
+70,"mean_SBP",4644,"Baja California",1998,27,"Age-standardized",2,"Female",128.593256945
+70,"mean_SBP",4645,"Baja California Sur",1998,27,"Age-standardized",1,"Male",127.496042264
+70,"mean_SBP",4645,"Baja California Sur",1998,27,"Age-standardized",2,"Female",124.221158826
+70,"mean_SBP",4646,"Campeche",1998,27,"Age-standardized",1,"Male",125.417491721
+70,"mean_SBP",4646,"Campeche",1998,27,"Age-standardized",2,"Female",123.141541781
+70,"mean_SBP",4647,"Coahuila",1998,27,"Age-standardized",1,"Male",128.075058047
+70,"mean_SBP",4647,"Coahuila",1998,27,"Age-standardized",2,"Female",124.138421181
+70,"mean_SBP",4648,"Colima",1998,27,"Age-standardized",1,"Male",127.650027127
+70,"mean_SBP",4648,"Colima",1998,27,"Age-standardized",2,"Female",125.063204993
+70,"mean_SBP",4649,"Chiapas",1998,27,"Age-standardized",1,"Male",122.109825145
+70,"mean_SBP",4649,"Chiapas",1998,27,"Age-standardized",2,"Female",123.54673981
+70,"mean_SBP",4650,"Chihuahua",1998,27,"Age-standardized",1,"Male",126.863478432
+70,"mean_SBP",4650,"Chihuahua",1998,27,"Age-standardized",2,"Female",124.508781538
+70,"mean_SBP",4651,"Mexico City",1998,27,"Age-standardized",1,"Male",128.415620472
+70,"mean_SBP",4651,"Mexico City",1998,27,"Age-standardized",2,"Female",124.767912689
+70,"mean_SBP",4652,"Durango",1998,27,"Age-standardized",1,"Male",127.518108999
+70,"mean_SBP",4652,"Durango",1998,27,"Age-standardized",2,"Female",125.218016332
+70,"mean_SBP",4653,"Guanajuato",1998,27,"Age-standardized",1,"Male",127.711537975
+70,"mean_SBP",4653,"Guanajuato",1998,27,"Age-standardized",2,"Female",122.933668812
+70,"mean_SBP",4654,"Guerrero",1998,27,"Age-standardized",1,"Male",125.281481486
+70,"mean_SBP",4654,"Guerrero",1998,27,"Age-standardized",2,"Female",120.735835885
+70,"mean_SBP",4655,"Hidalgo",1998,27,"Age-standardized",1,"Male",126.237184094
+70,"mean_SBP",4655,"Hidalgo",1998,27,"Age-standardized",2,"Female",124.489834792
+70,"mean_SBP",4656,"Jalisco",1998,27,"Age-standardized",1,"Male",127.49526903
+70,"mean_SBP",4656,"Jalisco",1998,27,"Age-standardized",2,"Female",124.220304116
+70,"mean_SBP",4657,"México",1998,27,"Age-standardized",1,"Male",126.134102339
+70,"mean_SBP",4657,"México",1998,27,"Age-standardized",2,"Female",122.355021345
+70,"mean_SBP",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",1,"Male",126.746992953
+70,"mean_SBP",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",2,"Female",123.679723203
+70,"mean_SBP",4659,"Morelos",1998,27,"Age-standardized",1,"Male",126.332313745
+70,"mean_SBP",4659,"Morelos",1998,27,"Age-standardized",2,"Female",123.18394228
+70,"mean_SBP",4660,"Nayarit",1998,27,"Age-standardized",1,"Male",126.788756106
+70,"mean_SBP",4660,"Nayarit",1998,27,"Age-standardized",2,"Female",124.580981923
+70,"mean_SBP",4661,"Nuevo León",1998,27,"Age-standardized",1,"Male",128.072688122
+70,"mean_SBP",4661,"Nuevo León",1998,27,"Age-standardized",2,"Female",123.986597536
+70,"mean_SBP",4662,"Oaxaca",1998,27,"Age-standardized",1,"Male",122.345200056
+70,"mean_SBP",4662,"Oaxaca",1998,27,"Age-standardized",2,"Female",122.338116682
+70,"mean_SBP",4663,"Puebla",1998,27,"Age-standardized",1,"Male",125.140607098
+70,"mean_SBP",4663,"Puebla",1998,27,"Age-standardized",2,"Female",122.263672675
+70,"mean_SBP",4664,"Querétaro",1998,27,"Age-standardized",1,"Male",127.570332611
+70,"mean_SBP",4664,"Querétaro",1998,27,"Age-standardized",2,"Female",124.174692647
+70,"mean_SBP",4665,"Quintana Roo",1998,27,"Age-standardized",1,"Male",127.546644625
+70,"mean_SBP",4665,"Quintana Roo",1998,27,"Age-standardized",2,"Female",122.957762615
+70,"mean_SBP",4666,"San Luis Potosí",1998,27,"Age-standardized",1,"Male",127.137153056
+70,"mean_SBP",4666,"San Luis Potosí",1998,27,"Age-standardized",2,"Female",124.035289796
+70,"mean_SBP",4667,"Sinaloa",1998,27,"Age-standardized",1,"Male",128.440977477
+70,"mean_SBP",4667,"Sinaloa",1998,27,"Age-standardized",2,"Female",124.474706227
+70,"mean_SBP",4668,"Sonora",1998,27,"Age-standardized",1,"Male",130.306630822
+70,"mean_SBP",4668,"Sonora",1998,27,"Age-standardized",2,"Female",126.793566815
+70,"mean_SBP",4669,"Tabasco",1998,27,"Age-standardized",1,"Male",126.530963751
+70,"mean_SBP",4669,"Tabasco",1998,27,"Age-standardized",2,"Female",124.581759275
+70,"mean_SBP",4670,"Tamaulipas",1998,27,"Age-standardized",1,"Male",128.670110449
+70,"mean_SBP",4670,"Tamaulipas",1998,27,"Age-standardized",2,"Female",123.604855384
+70,"mean_SBP",4671,"Tlaxcala",1998,27,"Age-standardized",1,"Male",123.940273535
+70,"mean_SBP",4671,"Tlaxcala",1998,27,"Age-standardized",2,"Female",120.917690778
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",1,"Male",125.249903612
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",2,"Female",123.2885033
+70,"mean_SBP",4673,"Yucatán",1998,27,"Age-standardized",1,"Male",127.312362794
+70,"mean_SBP",4673,"Yucatán",1998,27,"Age-standardized",2,"Female",123.77904263
+70,"mean_SBP",4674,"Zacatecas",1998,27,"Age-standardized",1,"Male",128.418874214
+70,"mean_SBP",4674,"Zacatecas",1998,27,"Age-standardized",2,"Female",126.527906322
+70,"mean_SBP",130,"Mexico",1999,27,"Age-standardized",1,"Male",126.778506166
+70,"mean_SBP",130,"Mexico",1999,27,"Age-standardized",2,"Female",123.663376389
+70,"mean_SBP",4643,"Aguascalientes",1999,27,"Age-standardized",1,"Male",128.94108638
+70,"mean_SBP",4643,"Aguascalientes",1999,27,"Age-standardized",2,"Female",126.77509836
+70,"mean_SBP",4644,"Baja California",1999,27,"Age-standardized",1,"Male",130.448606885
+70,"mean_SBP",4644,"Baja California",1999,27,"Age-standardized",2,"Female",128.510576944
+70,"mean_SBP",4645,"Baja California Sur",1999,27,"Age-standardized",1,"Male",127.293605174
+70,"mean_SBP",4645,"Baja California Sur",1999,27,"Age-standardized",2,"Female",124.029710914
+70,"mean_SBP",4646,"Campeche",1999,27,"Age-standardized",1,"Male",125.453264185
+70,"mean_SBP",4646,"Campeche",1999,27,"Age-standardized",2,"Female",123.139077626
+70,"mean_SBP",4647,"Coahuila",1999,27,"Age-standardized",1,"Male",128.017450459
+70,"mean_SBP",4647,"Coahuila",1999,27,"Age-standardized",2,"Female",124.048897574
+70,"mean_SBP",4648,"Colima",1999,27,"Age-standardized",1,"Male",127.603631224
+70,"mean_SBP",4648,"Colima",1999,27,"Age-standardized",2,"Female",124.954876779
+70,"mean_SBP",4649,"Chiapas",1999,27,"Age-standardized",1,"Male",122.18675611
+70,"mean_SBP",4649,"Chiapas",1999,27,"Age-standardized",2,"Female",123.574988417
+70,"mean_SBP",4650,"Chihuahua",1999,27,"Age-standardized",1,"Male",126.806159766
+70,"mean_SBP",4650,"Chihuahua",1999,27,"Age-standardized",2,"Female",124.407480197
+70,"mean_SBP",4651,"Mexico City",1999,27,"Age-standardized",1,"Male",128.314437168
+70,"mean_SBP",4651,"Mexico City",1999,27,"Age-standardized",2,"Female",124.620558578
+70,"mean_SBP",4652,"Durango",1999,27,"Age-standardized",1,"Male",127.52569605
+70,"mean_SBP",4652,"Durango",1999,27,"Age-standardized",2,"Female",125.185063264
+70,"mean_SBP",4653,"Guanajuato",1999,27,"Age-standardized",1,"Male",127.729992106
+70,"mean_SBP",4653,"Guanajuato",1999,27,"Age-standardized",2,"Female",122.899607481
+70,"mean_SBP",4654,"Guerrero",1999,27,"Age-standardized",1,"Male",125.148761533
+70,"mean_SBP",4654,"Guerrero",1999,27,"Age-standardized",2,"Female",120.62059874
+70,"mean_SBP",4655,"Hidalgo",1999,27,"Age-standardized",1,"Male",126.289473909
+70,"mean_SBP",4655,"Hidalgo",1999,27,"Age-standardized",2,"Female",124.467222252
+70,"mean_SBP",4656,"Jalisco",1999,27,"Age-standardized",1,"Male",127.455602029
+70,"mean_SBP",4656,"Jalisco",1999,27,"Age-standardized",2,"Female",124.168352989
+70,"mean_SBP",4657,"México",1999,27,"Age-standardized",1,"Male",126.130226953
+70,"mean_SBP",4657,"México",1999,27,"Age-standardized",2,"Female",122.331121475
+70,"mean_SBP",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",1,"Male",126.809733221
+70,"mean_SBP",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",2,"Female",123.676864046
+70,"mean_SBP",4659,"Morelos",1999,27,"Age-standardized",1,"Male",126.292758928
+70,"mean_SBP",4659,"Morelos",1999,27,"Age-standardized",2,"Female",123.084607307
+70,"mean_SBP",4660,"Nayarit",1999,27,"Age-standardized",1,"Male",126.790508033
+70,"mean_SBP",4660,"Nayarit",1999,27,"Age-standardized",2,"Female",124.546724793
+70,"mean_SBP",4661,"Nuevo León",1999,27,"Age-standardized",1,"Male",127.977485565
+70,"mean_SBP",4661,"Nuevo León",1999,27,"Age-standardized",2,"Female",123.852325344
+70,"mean_SBP",4662,"Oaxaca",1999,27,"Age-standardized",1,"Male",122.359913272
+70,"mean_SBP",4662,"Oaxaca",1999,27,"Age-standardized",2,"Female",122.300364414
+70,"mean_SBP",4663,"Puebla",1999,27,"Age-standardized",1,"Male",125.139088613
+70,"mean_SBP",4663,"Puebla",1999,27,"Age-standardized",2,"Female",122.199036895
+70,"mean_SBP",4664,"Querétaro",1999,27,"Age-standardized",1,"Male",127.579588466
+70,"mean_SBP",4664,"Querétaro",1999,27,"Age-standardized",2,"Female",124.110191147
+70,"mean_SBP",4665,"Quintana Roo",1999,27,"Age-standardized",1,"Male",127.516783919
+70,"mean_SBP",4665,"Quintana Roo",1999,27,"Age-standardized",2,"Female",122.917614881
+70,"mean_SBP",4666,"San Luis Potosí",1999,27,"Age-standardized",1,"Male",127.178859705
+70,"mean_SBP",4666,"San Luis Potosí",1999,27,"Age-standardized",2,"Female",124.015106216
+70,"mean_SBP",4667,"Sinaloa",1999,27,"Age-standardized",1,"Male",128.434942258
+70,"mean_SBP",4667,"Sinaloa",1999,27,"Age-standardized",2,"Female",124.41211552
+70,"mean_SBP",4668,"Sonora",1999,27,"Age-standardized",1,"Male",130.247693669
+70,"mean_SBP",4668,"Sonora",1999,27,"Age-standardized",2,"Female",126.684968867
+70,"mean_SBP",4669,"Tabasco",1999,27,"Age-standardized",1,"Male",126.566243121
+70,"mean_SBP",4669,"Tabasco",1999,27,"Age-standardized",2,"Female",124.586667432
+70,"mean_SBP",4670,"Tamaulipas",1999,27,"Age-standardized",1,"Male",128.599113836
+70,"mean_SBP",4670,"Tamaulipas",1999,27,"Age-standardized",2,"Female",123.499719897
+70,"mean_SBP",4671,"Tlaxcala",1999,27,"Age-standardized",1,"Male",123.938838397
+70,"mean_SBP",4671,"Tlaxcala",1999,27,"Age-standardized",2,"Female",120.833436349
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",1,"Male",125.310883078
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",2,"Female",123.285952444
+70,"mean_SBP",4673,"Yucatán",1999,27,"Age-standardized",1,"Male",127.326580962
+70,"mean_SBP",4673,"Yucatán",1999,27,"Age-standardized",2,"Female",123.726519577
+70,"mean_SBP",4674,"Zacatecas",1999,27,"Age-standardized",1,"Male",128.442628784
+70,"mean_SBP",4674,"Zacatecas",1999,27,"Age-standardized",2,"Female",126.521953811
+70,"mean_SBP",130,"Mexico",2000,27,"Age-standardized",1,"Male",126.768702998
+70,"mean_SBP",130,"Mexico",2000,27,"Age-standardized",2,"Female",123.626853838
+70,"mean_SBP",4643,"Aguascalientes",2000,27,"Age-standardized",1,"Male",128.860175427
+70,"mean_SBP",4643,"Aguascalientes",2000,27,"Age-standardized",2,"Female",126.710743409
+70,"mean_SBP",4644,"Baja California",2000,27,"Age-standardized",1,"Male",130.42495654
+70,"mean_SBP",4644,"Baja California",2000,27,"Age-standardized",2,"Female",128.459077349
+70,"mean_SBP",4645,"Baja California Sur",2000,27,"Age-standardized",1,"Male",127.139778595
+70,"mean_SBP",4645,"Baja California Sur",2000,27,"Age-standardized",2,"Female",123.905570906
+70,"mean_SBP",4646,"Campeche",2000,27,"Age-standardized",1,"Male",125.511990515
+70,"mean_SBP",4646,"Campeche",2000,27,"Age-standardized",2,"Female",123.160253037
+70,"mean_SBP",4647,"Coahuila",2000,27,"Age-standardized",1,"Male",127.957981196
+70,"mean_SBP",4647,"Coahuila",2000,27,"Age-standardized",2,"Female",123.973510825
+70,"mean_SBP",4648,"Colima",2000,27,"Age-standardized",1,"Male",127.560170547
+70,"mean_SBP",4648,"Colima",2000,27,"Age-standardized",2,"Female",124.867330978
+70,"mean_SBP",4649,"Chiapas",2000,27,"Age-standardized",1,"Male",122.222075873
+70,"mean_SBP",4649,"Chiapas",2000,27,"Age-standardized",2,"Female",123.601371785
+70,"mean_SBP",4650,"Chihuahua",2000,27,"Age-standardized",1,"Male",126.761815541
+70,"mean_SBP",4650,"Chihuahua",2000,27,"Age-standardized",2,"Female",124.326027394
+70,"mean_SBP",4651,"Mexico City",2000,27,"Age-standardized",1,"Male",128.228802212
+70,"mean_SBP",4651,"Mexico City",2000,27,"Age-standardized",2,"Female",124.508207278
+70,"mean_SBP",4652,"Durango",2000,27,"Age-standardized",1,"Male",127.557677502
+70,"mean_SBP",4652,"Durango",2000,27,"Age-standardized",2,"Female",125.169199727
+70,"mean_SBP",4653,"Guanajuato",2000,27,"Age-standardized",1,"Male",127.734701082
+70,"mean_SBP",4653,"Guanajuato",2000,27,"Age-standardized",2,"Female",122.881898105
+70,"mean_SBP",4654,"Guerrero",2000,27,"Age-standardized",1,"Male",125.130538191
+70,"mean_SBP",4654,"Guerrero",2000,27,"Age-standardized",2,"Female",120.531385536
+70,"mean_SBP",4655,"Hidalgo",2000,27,"Age-standardized",1,"Male",126.345656923
+70,"mean_SBP",4655,"Hidalgo",2000,27,"Age-standardized",2,"Female",124.464602229
+70,"mean_SBP",4656,"Jalisco",2000,27,"Age-standardized",1,"Male",127.414211022
+70,"mean_SBP",4656,"Jalisco",2000,27,"Age-standardized",2,"Female",124.125638143
+70,"mean_SBP",4657,"México",2000,27,"Age-standardized",1,"Male",126.132933513
+70,"mean_SBP",4657,"México",2000,27,"Age-standardized",2,"Female",122.335777645
+70,"mean_SBP",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",1,"Male",126.867219543
+70,"mean_SBP",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",2,"Female",123.686384503
+70,"mean_SBP",4659,"Morelos",2000,27,"Age-standardized",1,"Male",126.267109571
+70,"mean_SBP",4659,"Morelos",2000,27,"Age-standardized",2,"Female",123.010102664
+70,"mean_SBP",4660,"Nayarit",2000,27,"Age-standardized",1,"Male",126.800958972
+70,"mean_SBP",4660,"Nayarit",2000,27,"Age-standardized",2,"Female",124.53037078
+70,"mean_SBP",4661,"Nuevo León",2000,27,"Age-standardized",1,"Male",127.87948695
+70,"mean_SBP",4661,"Nuevo León",2000,27,"Age-standardized",2,"Female",123.737977978
+70,"mean_SBP",4662,"Oaxaca",2000,27,"Age-standardized",1,"Male",122.370077835
+70,"mean_SBP",4662,"Oaxaca",2000,27,"Age-standardized",2,"Female",122.293269437
+70,"mean_SBP",4663,"Puebla",2000,27,"Age-standardized",1,"Male",125.187064836
+70,"mean_SBP",4663,"Puebla",2000,27,"Age-standardized",2,"Female",122.163864925
+70,"mean_SBP",4664,"Querétaro",2000,27,"Age-standardized",1,"Male",127.640013892
+70,"mean_SBP",4664,"Querétaro",2000,27,"Age-standardized",2,"Female",124.104622782
+70,"mean_SBP",4665,"Quintana Roo",2000,27,"Age-standardized",1,"Male",127.503601425
+70,"mean_SBP",4665,"Quintana Roo",2000,27,"Age-standardized",2,"Female",122.900756292
+70,"mean_SBP",4666,"San Luis Potosí",2000,27,"Age-standardized",1,"Male",127.238970112
+70,"mean_SBP",4666,"San Luis Potosí",2000,27,"Age-standardized",2,"Female",124.004602677
+70,"mean_SBP",4667,"Sinaloa",2000,27,"Age-standardized",1,"Male",128.445854864
+70,"mean_SBP",4667,"Sinaloa",2000,27,"Age-standardized",2,"Female",124.370802003
+70,"mean_SBP",4668,"Sonora",2000,27,"Age-standardized",1,"Male",130.185988006
+70,"mean_SBP",4668,"Sonora",2000,27,"Age-standardized",2,"Female",126.595656957
+70,"mean_SBP",4669,"Tabasco",2000,27,"Age-standardized",1,"Male",126.591172372
+70,"mean_SBP",4669,"Tabasco",2000,27,"Age-standardized",2,"Female",124.59836087
+70,"mean_SBP",4670,"Tamaulipas",2000,27,"Age-standardized",1,"Male",128.529373178
+70,"mean_SBP",4670,"Tamaulipas",2000,27,"Age-standardized",2,"Female",123.404622919
+70,"mean_SBP",4671,"Tlaxcala",2000,27,"Age-standardized",1,"Male",123.947591635
+70,"mean_SBP",4671,"Tlaxcala",2000,27,"Age-standardized",2,"Female",120.793050186
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",1,"Male",125.33945782
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",2,"Female",123.297317019
+70,"mean_SBP",4673,"Yucatán",2000,27,"Age-standardized",1,"Male",127.331034357
+70,"mean_SBP",4673,"Yucatán",2000,27,"Age-standardized",2,"Female",123.695336656
+70,"mean_SBP",4674,"Zacatecas",2000,27,"Age-standardized",1,"Male",128.454070472
+70,"mean_SBP",4674,"Zacatecas",2000,27,"Age-standardized",2,"Female",126.518655533
+70,"mean_SBP",130,"Mexico",2001,27,"Age-standardized",1,"Male",126.774045384
+70,"mean_SBP",130,"Mexico",2001,27,"Age-standardized",2,"Female",123.619350256
+70,"mean_SBP",4643,"Aguascalientes",2001,27,"Age-standardized",1,"Male",128.790080906
+70,"mean_SBP",4643,"Aguascalientes",2001,27,"Age-standardized",2,"Female",126.673731297
+70,"mean_SBP",4644,"Baja California",2001,27,"Age-standardized",1,"Male",130.413336098
+70,"mean_SBP",4644,"Baja California",2001,27,"Age-standardized",2,"Female",128.421327138
+70,"mean_SBP",4645,"Baja California Sur",2001,27,"Age-standardized",1,"Male",127.114817144
+70,"mean_SBP",4645,"Baja California Sur",2001,27,"Age-standardized",2,"Female",123.899651003
+70,"mean_SBP",4646,"Campeche",2001,27,"Age-standardized",1,"Male",125.587292539
+70,"mean_SBP",4646,"Campeche",2001,27,"Age-standardized",2,"Female",123.202435833
+70,"mean_SBP",4647,"Coahuila",2001,27,"Age-standardized",1,"Male",127.914809517
+70,"mean_SBP",4647,"Coahuila",2001,27,"Age-standardized",2,"Female",123.928703065
+70,"mean_SBP",4648,"Colima",2001,27,"Age-standardized",1,"Male",127.524054447
+70,"mean_SBP",4648,"Colima",2001,27,"Age-standardized",2,"Female",124.809811533
+70,"mean_SBP",4649,"Chiapas",2001,27,"Age-standardized",1,"Male",122.19662546
+70,"mean_SBP",4649,"Chiapas",2001,27,"Age-standardized",2,"Female",123.635180846
+70,"mean_SBP",4650,"Chihuahua",2001,27,"Age-standardized",1,"Male",126.749347472
+70,"mean_SBP",4650,"Chihuahua",2001,27,"Age-standardized",2,"Female",124.279176524
+70,"mean_SBP",4651,"Mexico City",2001,27,"Age-standardized",1,"Male",128.175641436
+70,"mean_SBP",4651,"Mexico City",2001,27,"Age-standardized",2,"Female",124.449689009
+70,"mean_SBP",4652,"Durango",2001,27,"Age-standardized",1,"Male",127.567589896
+70,"mean_SBP",4652,"Durango",2001,27,"Age-standardized",2,"Female",125.180751351
+70,"mean_SBP",4653,"Guanajuato",2001,27,"Age-standardized",1,"Male",127.755151266
+70,"mean_SBP",4653,"Guanajuato",2001,27,"Age-standardized",2,"Female",122.887293512
+70,"mean_SBP",4654,"Guerrero",2001,27,"Age-standardized",1,"Male",125.319771391
+70,"mean_SBP",4654,"Guerrero",2001,27,"Age-standardized",2,"Female",120.473558165
+70,"mean_SBP",4655,"Hidalgo",2001,27,"Age-standardized",1,"Male",126.37632519
+70,"mean_SBP",4655,"Hidalgo",2001,27,"Age-standardized",2,"Female",124.482448622
+70,"mean_SBP",4656,"Jalisco",2001,27,"Age-standardized",1,"Male",127.397640257
+70,"mean_SBP",4656,"Jalisco",2001,27,"Age-standardized",2,"Female",124.100764283
+70,"mean_SBP",4657,"México",2001,27,"Age-standardized",1,"Male",126.144427985
+70,"mean_SBP",4657,"México",2001,27,"Age-standardized",2,"Female",122.367032535
+70,"mean_SBP",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",1,"Male",126.918753774
+70,"mean_SBP",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",2,"Female",123.71444128
+70,"mean_SBP",4659,"Morelos",2001,27,"Age-standardized",1,"Male",126.254159974
+70,"mean_SBP",4659,"Morelos",2001,27,"Age-standardized",2,"Female",122.971301631
+70,"mean_SBP",4660,"Nayarit",2001,27,"Age-standardized",1,"Male",126.826285471
+70,"mean_SBP",4660,"Nayarit",2001,27,"Age-standardized",2,"Female",124.53899547
+70,"mean_SBP",4661,"Nuevo León",2001,27,"Age-standardized",1,"Male",127.814642182
+70,"mean_SBP",4661,"Nuevo León",2001,27,"Age-standardized",2,"Female",123.669591539
+70,"mean_SBP",4662,"Oaxaca",2001,27,"Age-standardized",1,"Male",122.444846972
+70,"mean_SBP",4662,"Oaxaca",2001,27,"Age-standardized",2,"Female",122.320176563
+70,"mean_SBP",4663,"Puebla",2001,27,"Age-standardized",1,"Male",125.208726217
+70,"mean_SBP",4663,"Puebla",2001,27,"Age-standardized",2,"Female",122.162820309
+70,"mean_SBP",4664,"Querétaro",2001,27,"Age-standardized",1,"Male",127.701426954
+70,"mean_SBP",4664,"Querétaro",2001,27,"Age-standardized",2,"Female",124.12800559
+70,"mean_SBP",4665,"Quintana Roo",2001,27,"Age-standardized",1,"Male",127.493393748
+70,"mean_SBP",4665,"Quintana Roo",2001,27,"Age-standardized",2,"Female",122.914358809
+70,"mean_SBP",4666,"San Luis Potosí",2001,27,"Age-standardized",1,"Male",127.289217821
+70,"mean_SBP",4666,"San Luis Potosí",2001,27,"Age-standardized",2,"Female",124.005546269
+70,"mean_SBP",4667,"Sinaloa",2001,27,"Age-standardized",1,"Male",128.443150105
+70,"mean_SBP",4667,"Sinaloa",2001,27,"Age-standardized",2,"Female",124.366687577
+70,"mean_SBP",4668,"Sonora",2001,27,"Age-standardized",1,"Male",130.14462959
+70,"mean_SBP",4668,"Sonora",2001,27,"Age-standardized",2,"Female",126.547552329
+70,"mean_SBP",4669,"Tabasco",2001,27,"Age-standardized",1,"Male",126.604380541
+70,"mean_SBP",4669,"Tabasco",2001,27,"Age-standardized",2,"Female",124.621750081
+70,"mean_SBP",4670,"Tamaulipas",2001,27,"Age-standardized",1,"Male",128.474430631
+70,"mean_SBP",4670,"Tamaulipas",2001,27,"Age-standardized",2,"Female",123.333970611
+70,"mean_SBP",4671,"Tlaxcala",2001,27,"Age-standardized",1,"Male",123.996512838
+70,"mean_SBP",4671,"Tlaxcala",2001,27,"Age-standardized",2,"Female",120.808957202
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",1,"Male",125.369248373
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",2,"Female",123.326821536
+70,"mean_SBP",4673,"Yucatán",2001,27,"Age-standardized",1,"Male",127.357376341
+70,"mean_SBP",4673,"Yucatán",2001,27,"Age-standardized",2,"Female",123.694671109
+70,"mean_SBP",4674,"Zacatecas",2001,27,"Age-standardized",1,"Male",128.458736218
+70,"mean_SBP",4674,"Zacatecas",2001,27,"Age-standardized",2,"Female",126.521686315
+70,"mean_SBP",130,"Mexico",2002,27,"Age-standardized",1,"Male",126.798539616
+70,"mean_SBP",130,"Mexico",2002,27,"Age-standardized",2,"Female",123.650590204
+70,"mean_SBP",4643,"Aguascalientes",2002,27,"Age-standardized",1,"Male",128.787282637
+70,"mean_SBP",4643,"Aguascalientes",2002,27,"Age-standardized",2,"Female",126.681523629
+70,"mean_SBP",4644,"Baja California",2002,27,"Age-standardized",1,"Male",130.395422315
+70,"mean_SBP",4644,"Baja California",2002,27,"Age-standardized",2,"Female",128.392928493
+70,"mean_SBP",4645,"Baja California Sur",2002,27,"Age-standardized",1,"Male",127.101605341
+70,"mean_SBP",4645,"Baja California Sur",2002,27,"Age-standardized",2,"Female",123.938349864
+70,"mean_SBP",4646,"Campeche",2002,27,"Age-standardized",1,"Male",125.647918101
+70,"mean_SBP",4646,"Campeche",2002,27,"Age-standardized",2,"Female",123.273139614
+70,"mean_SBP",4647,"Coahuila",2002,27,"Age-standardized",1,"Male",127.898131044
+70,"mean_SBP",4647,"Coahuila",2002,27,"Age-standardized",2,"Female",123.931583936
+70,"mean_SBP",4648,"Colima",2002,27,"Age-standardized",1,"Male",127.514781213
+70,"mean_SBP",4648,"Colima",2002,27,"Age-standardized",2,"Female",124.793685692
+70,"mean_SBP",4649,"Chiapas",2002,27,"Age-standardized",1,"Male",122.304391571
+70,"mean_SBP",4649,"Chiapas",2002,27,"Age-standardized",2,"Female",123.695963354
+70,"mean_SBP",4650,"Chihuahua",2002,27,"Age-standardized",1,"Male",126.789983429
+70,"mean_SBP",4650,"Chihuahua",2002,27,"Age-standardized",2,"Female",124.279696318
+70,"mean_SBP",4651,"Mexico City",2002,27,"Age-standardized",1,"Male",128.165258286
+70,"mean_SBP",4651,"Mexico City",2002,27,"Age-standardized",2,"Female",124.454125967
+70,"mean_SBP",4652,"Durango",2002,27,"Age-standardized",1,"Male",127.594847486
+70,"mean_SBP",4652,"Durango",2002,27,"Age-standardized",2,"Female",125.240059554
+70,"mean_SBP",4653,"Guanajuato",2002,27,"Age-standardized",1,"Male",127.779926282
+70,"mean_SBP",4653,"Guanajuato",2002,27,"Age-standardized",2,"Female",122.926286937
+70,"mean_SBP",4654,"Guerrero",2002,27,"Age-standardized",1,"Male",125.337764495
+70,"mean_SBP",4654,"Guerrero",2002,27,"Age-standardized",2,"Female",120.458525378
+70,"mean_SBP",4655,"Hidalgo",2002,27,"Age-standardized",1,"Male",126.435556431
+70,"mean_SBP",4655,"Hidalgo",2002,27,"Age-standardized",2,"Female",124.530774638
+70,"mean_SBP",4656,"Jalisco",2002,27,"Age-standardized",1,"Male",127.40443653
+70,"mean_SBP",4656,"Jalisco",2002,27,"Age-standardized",2,"Female",124.111584502
+70,"mean_SBP",4657,"México",2002,27,"Age-standardized",1,"Male",126.157729732
+70,"mean_SBP",4657,"México",2002,27,"Age-standardized",2,"Female",122.418705669
+70,"mean_SBP",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",1,"Male",126.976569779
+70,"mean_SBP",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",2,"Female",123.776673739
+70,"mean_SBP",4659,"Morelos",2002,27,"Age-standardized",1,"Male",126.279382664
+70,"mean_SBP",4659,"Morelos",2002,27,"Age-standardized",2,"Female",122.983559252
+70,"mean_SBP",4660,"Nayarit",2002,27,"Age-standardized",1,"Male",126.847377978
+70,"mean_SBP",4660,"Nayarit",2002,27,"Age-standardized",2,"Female",124.578926738
+70,"mean_SBP",4661,"Nuevo León",2002,27,"Age-standardized",1,"Male",127.79409727
+70,"mean_SBP",4661,"Nuevo León",2002,27,"Age-standardized",2,"Female",123.663989181
+70,"mean_SBP",4662,"Oaxaca",2002,27,"Age-standardized",1,"Male",122.565625565
+70,"mean_SBP",4662,"Oaxaca",2002,27,"Age-standardized",2,"Female",122.392512209
+70,"mean_SBP",4663,"Puebla",2002,27,"Age-standardized",1,"Male",125.251100225
+70,"mean_SBP",4663,"Puebla",2002,27,"Age-standardized",2,"Female",122.207340346
+70,"mean_SBP",4664,"Querétaro",2002,27,"Age-standardized",1,"Male",127.723829207
+70,"mean_SBP",4664,"Querétaro",2002,27,"Age-standardized",2,"Female",124.148314387
+70,"mean_SBP",4665,"Quintana Roo",2002,27,"Age-standardized",1,"Male",127.486660426
+70,"mean_SBP",4665,"Quintana Roo",2002,27,"Age-standardized",2,"Female",122.965893202
+70,"mean_SBP",4666,"San Luis Potosí",2002,27,"Age-standardized",1,"Male",127.326744123
+70,"mean_SBP",4666,"San Luis Potosí",2002,27,"Age-standardized",2,"Female",124.03344083
+70,"mean_SBP",4667,"Sinaloa",2002,27,"Age-standardized",1,"Male",128.477624148
+70,"mean_SBP",4667,"Sinaloa",2002,27,"Age-standardized",2,"Female",124.418357887
+70,"mean_SBP",4668,"Sonora",2002,27,"Age-standardized",1,"Male",130.135090929
+70,"mean_SBP",4668,"Sonora",2002,27,"Age-standardized",2,"Female",126.557071839
+70,"mean_SBP",4669,"Tabasco",2002,27,"Age-standardized",1,"Male",126.63470645
+70,"mean_SBP",4669,"Tabasco",2002,27,"Age-standardized",2,"Female",124.668368206
+70,"mean_SBP",4670,"Tamaulipas",2002,27,"Age-standardized",1,"Male",128.453692738
+70,"mean_SBP",4670,"Tamaulipas",2002,27,"Age-standardized",2,"Female",123.306238751
+70,"mean_SBP",4671,"Tlaxcala",2002,27,"Age-standardized",1,"Male",124.06190116
+70,"mean_SBP",4671,"Tlaxcala",2002,27,"Age-standardized",2,"Female",120.868768127
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",1,"Male",125.418186612
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",2,"Female",123.386361807
+70,"mean_SBP",4673,"Yucatán",2002,27,"Age-standardized",1,"Male",127.389499746
+70,"mean_SBP",4673,"Yucatán",2002,27,"Age-standardized",2,"Female",123.738488218
+70,"mean_SBP",4674,"Zacatecas",2002,27,"Age-standardized",1,"Male",128.476456228
+70,"mean_SBP",4674,"Zacatecas",2002,27,"Age-standardized",2,"Female",126.543037959
+70,"mean_SBP",130,"Mexico",2003,27,"Age-standardized",1,"Male",126.834111217
+70,"mean_SBP",130,"Mexico",2003,27,"Age-standardized",2,"Female",123.695958846
+70,"mean_SBP",4643,"Aguascalientes",2003,27,"Age-standardized",1,"Male",128.799605166
+70,"mean_SBP",4643,"Aguascalientes",2003,27,"Age-standardized",2,"Female",126.70348694
+70,"mean_SBP",4644,"Baja California",2003,27,"Age-standardized",1,"Male",130.365418236
+70,"mean_SBP",4644,"Baja California",2003,27,"Age-standardized",2,"Female",128.353895045
+70,"mean_SBP",4645,"Baja California Sur",2003,27,"Age-standardized",1,"Male",127.094170699
+70,"mean_SBP",4645,"Baja California Sur",2003,27,"Age-standardized",2,"Female",123.984375069
+70,"mean_SBP",4646,"Campeche",2003,27,"Age-standardized",1,"Male",125.689916572
+70,"mean_SBP",4646,"Campeche",2003,27,"Age-standardized",2,"Female",123.347607803
+70,"mean_SBP",4647,"Coahuila",2003,27,"Age-standardized",1,"Male",127.902657667
+70,"mean_SBP",4647,"Coahuila",2003,27,"Age-standardized",2,"Female",123.958246134
+70,"mean_SBP",4648,"Colima",2003,27,"Age-standardized",1,"Male",127.520180748
+70,"mean_SBP",4648,"Colima",2003,27,"Age-standardized",2,"Female",124.796220391
+70,"mean_SBP",4649,"Chiapas",2003,27,"Age-standardized",1,"Male",122.479582801
+70,"mean_SBP",4649,"Chiapas",2003,27,"Age-standardized",2,"Female",123.769182671
+70,"mean_SBP",4650,"Chihuahua",2003,27,"Age-standardized",1,"Male",126.832457983
+70,"mean_SBP",4650,"Chihuahua",2003,27,"Age-standardized",2,"Female",124.306920478
+70,"mean_SBP",4651,"Mexico City",2003,27,"Age-standardized",1,"Male",128.160133919
+70,"mean_SBP",4651,"Mexico City",2003,27,"Age-standardized",2,"Female",124.474822687
+70,"mean_SBP",4652,"Durango",2003,27,"Age-standardized",1,"Male",127.67569649
+70,"mean_SBP",4652,"Durango",2003,27,"Age-standardized",2,"Female",125.32697839
+70,"mean_SBP",4653,"Guanajuato",2003,27,"Age-standardized",1,"Male",127.799544954
+70,"mean_SBP",4653,"Guanajuato",2003,27,"Age-standardized",2,"Female",122.983692102
+70,"mean_SBP",4654,"Guerrero",2003,27,"Age-standardized",1,"Male",125.384476572
+70,"mean_SBP",4654,"Guerrero",2003,27,"Age-standardized",2,"Female",120.471377102
+70,"mean_SBP",4655,"Hidalgo",2003,27,"Age-standardized",1,"Male",126.48396337
+70,"mean_SBP",4655,"Hidalgo",2003,27,"Age-standardized",2,"Female",124.593678201
+70,"mean_SBP",4656,"Jalisco",2003,27,"Age-standardized",1,"Male",127.4303033
+70,"mean_SBP",4656,"Jalisco",2003,27,"Age-standardized",2,"Female",124.138432717
+70,"mean_SBP",4657,"México",2003,27,"Age-standardized",1,"Male",126.160024044
+70,"mean_SBP",4657,"México",2003,27,"Age-standardized",2,"Female",122.461953387
+70,"mean_SBP",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",1,"Male",127.043270171
+70,"mean_SBP",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",2,"Female",123.851645574
+70,"mean_SBP",4659,"Morelos",2003,27,"Age-standardized",1,"Male",126.323662745
+70,"mean_SBP",4659,"Morelos",2003,27,"Age-standardized",2,"Female",123.025685405
+70,"mean_SBP",4660,"Nayarit",2003,27,"Age-standardized",1,"Male",126.875278854
+70,"mean_SBP",4660,"Nayarit",2003,27,"Age-standardized",2,"Female",124.625666884
+70,"mean_SBP",4661,"Nuevo León",2003,27,"Age-standardized",1,"Male",127.799297573
+70,"mean_SBP",4661,"Nuevo León",2003,27,"Age-standardized",2,"Female",123.691410305
+70,"mean_SBP",4662,"Oaxaca",2003,27,"Age-standardized",1,"Male",122.671673762
+70,"mean_SBP",4662,"Oaxaca",2003,27,"Age-standardized",2,"Female",122.490130244
+70,"mean_SBP",4663,"Puebla",2003,27,"Age-standardized",1,"Male",125.352036187
+70,"mean_SBP",4663,"Puebla",2003,27,"Age-standardized",2,"Female",122.278562617
+70,"mean_SBP",4664,"Querétaro",2003,27,"Age-standardized",1,"Male",127.711151953
+70,"mean_SBP",4664,"Querétaro",2003,27,"Age-standardized",2,"Female",124.141624948
+70,"mean_SBP",4665,"Quintana Roo",2003,27,"Age-standardized",1,"Male",127.505242527
+70,"mean_SBP",4665,"Quintana Roo",2003,27,"Age-standardized",2,"Female",123.027191382
+70,"mean_SBP",4666,"San Luis Potosí",2003,27,"Age-standardized",1,"Male",127.367765495
+70,"mean_SBP",4666,"San Luis Potosí",2003,27,"Age-standardized",2,"Female",124.067848377
+70,"mean_SBP",4667,"Sinaloa",2003,27,"Age-standardized",1,"Male",128.535540847
+70,"mean_SBP",4667,"Sinaloa",2003,27,"Age-standardized",2,"Female",124.499876023
+70,"mean_SBP",4668,"Sonora",2003,27,"Age-standardized",1,"Male",130.152896501
+70,"mean_SBP",4668,"Sonora",2003,27,"Age-standardized",2,"Female",126.592382491
+70,"mean_SBP",4669,"Tabasco",2003,27,"Age-standardized",1,"Male",126.662435778
+70,"mean_SBP",4669,"Tabasco",2003,27,"Age-standardized",2,"Female",124.722533543
+70,"mean_SBP",4670,"Tamaulipas",2003,27,"Age-standardized",1,"Male",128.447722374
+70,"mean_SBP",4670,"Tamaulipas",2003,27,"Age-standardized",2,"Female",123.301424677
+70,"mean_SBP",4671,"Tlaxcala",2003,27,"Age-standardized",1,"Male",124.117446832
+70,"mean_SBP",4671,"Tlaxcala",2003,27,"Age-standardized",2,"Female",120.936354884
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",1,"Male",125.476880189
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",2,"Female",123.461009244
+70,"mean_SBP",4673,"Yucatán",2003,27,"Age-standardized",1,"Male",127.452000273
+70,"mean_SBP",4673,"Yucatán",2003,27,"Age-standardized",2,"Female",123.802850689
+70,"mean_SBP",4674,"Zacatecas",2003,27,"Age-standardized",1,"Male",128.504499603
+70,"mean_SBP",4674,"Zacatecas",2003,27,"Age-standardized",2,"Female",126.56344619
+70,"mean_SBP",130,"Mexico",2004,27,"Age-standardized",1,"Male",126.897485338
+70,"mean_SBP",130,"Mexico",2004,27,"Age-standardized",2,"Female",123.754628312
+70,"mean_SBP",4643,"Aguascalientes",2004,27,"Age-standardized",1,"Male",128.844897266
+70,"mean_SBP",4643,"Aguascalientes",2004,27,"Age-standardized",2,"Female",126.735535991
+70,"mean_SBP",4644,"Baja California",2004,27,"Age-standardized",1,"Male",130.349604352
+70,"mean_SBP",4644,"Baja California",2004,27,"Age-standardized",2,"Female",128.313383711
+70,"mean_SBP",4645,"Baja California Sur",2004,27,"Age-standardized",1,"Male",127.185919205
+70,"mean_SBP",4645,"Baja California Sur",2004,27,"Age-standardized",2,"Female",124.087970806
+70,"mean_SBP",4646,"Campeche",2004,27,"Age-standardized",1,"Male",125.744867582
+70,"mean_SBP",4646,"Campeche",2004,27,"Age-standardized",2,"Female",123.41725886
+70,"mean_SBP",4647,"Coahuila",2004,27,"Age-standardized",1,"Male",127.932410517
+70,"mean_SBP",4647,"Coahuila",2004,27,"Age-standardized",2,"Female",124.003261347
+70,"mean_SBP",4648,"Colima",2004,27,"Age-standardized",1,"Male",127.556880604
+70,"mean_SBP",4648,"Colima",2004,27,"Age-standardized",2,"Female",124.816174052
+70,"mean_SBP",4649,"Chiapas",2004,27,"Age-standardized",1,"Male",122.575292286
+70,"mean_SBP",4649,"Chiapas",2004,27,"Age-standardized",2,"Female",123.837446403
+70,"mean_SBP",4650,"Chihuahua",2004,27,"Age-standardized",1,"Male",126.88365035
+70,"mean_SBP",4650,"Chihuahua",2004,27,"Age-standardized",2,"Female",124.36166116
+70,"mean_SBP",4651,"Mexico City",2004,27,"Age-standardized",1,"Male",128.182344745
+70,"mean_SBP",4651,"Mexico City",2004,27,"Age-standardized",2,"Female",124.511677951
+70,"mean_SBP",4652,"Durango",2004,27,"Age-standardized",1,"Male",127.765862871
+70,"mean_SBP",4652,"Durango",2004,27,"Age-standardized",2,"Female",125.434584993
+70,"mean_SBP",4653,"Guanajuato",2004,27,"Age-standardized",1,"Male",127.853941048
+70,"mean_SBP",4653,"Guanajuato",2004,27,"Age-standardized",2,"Female",123.0538047
+70,"mean_SBP",4654,"Guerrero",2004,27,"Age-standardized",1,"Male",125.568358853
+70,"mean_SBP",4654,"Guerrero",2004,27,"Age-standardized",2,"Female",120.498615563
+70,"mean_SBP",4655,"Hidalgo",2004,27,"Age-standardized",1,"Male",126.565607571
+70,"mean_SBP",4655,"Hidalgo",2004,27,"Age-standardized",2,"Female",124.661408594
+70,"mean_SBP",4656,"Jalisco",2004,27,"Age-standardized",1,"Male",127.48932175
+70,"mean_SBP",4656,"Jalisco",2004,27,"Age-standardized",2,"Female",124.181158801
+70,"mean_SBP",4657,"México",2004,27,"Age-standardized",1,"Male",126.203133623
+70,"mean_SBP",4657,"México",2004,27,"Age-standardized",2,"Female",122.52041178
+70,"mean_SBP",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",1,"Male",127.150973054
+70,"mean_SBP",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",2,"Female",123.932527347
+70,"mean_SBP",4659,"Morelos",2004,27,"Age-standardized",1,"Male",126.382168905
+70,"mean_SBP",4659,"Morelos",2004,27,"Age-standardized",2,"Female",123.090037235
+70,"mean_SBP",4660,"Nayarit",2004,27,"Age-standardized",1,"Male",126.9377494
+70,"mean_SBP",4660,"Nayarit",2004,27,"Age-standardized",2,"Female",124.678677905
+70,"mean_SBP",4661,"Nuevo León",2004,27,"Age-standardized",1,"Male",127.846970175
+70,"mean_SBP",4661,"Nuevo León",2004,27,"Age-standardized",2,"Female",123.748433443
+70,"mean_SBP",4662,"Oaxaca",2004,27,"Age-standardized",1,"Male",122.82076465
+70,"mean_SBP",4662,"Oaxaca",2004,27,"Age-standardized",2,"Female",122.598300476
+70,"mean_SBP",4663,"Puebla",2004,27,"Age-standardized",1,"Male",125.462179412
+70,"mean_SBP",4663,"Puebla",2004,27,"Age-standardized",2,"Female",122.364637809
+70,"mean_SBP",4664,"Querétaro",2004,27,"Age-standardized",1,"Male",127.711811192
+70,"mean_SBP",4664,"Querétaro",2004,27,"Age-standardized",2,"Female",124.139503734
+70,"mean_SBP",4665,"Quintana Roo",2004,27,"Age-standardized",1,"Male",127.536049967
+70,"mean_SBP",4665,"Quintana Roo",2004,27,"Age-standardized",2,"Female",123.092021032
+70,"mean_SBP",4666,"San Luis Potosí",2004,27,"Age-standardized",1,"Male",127.430618845
+70,"mean_SBP",4666,"San Luis Potosí",2004,27,"Age-standardized",2,"Female",124.10397388
+70,"mean_SBP",4667,"Sinaloa",2004,27,"Age-standardized",1,"Male",128.614535578
+70,"mean_SBP",4667,"Sinaloa",2004,27,"Age-standardized",2,"Female",124.603888877
+70,"mean_SBP",4668,"Sonora",2004,27,"Age-standardized",1,"Male",130.194192795
+70,"mean_SBP",4668,"Sonora",2004,27,"Age-standardized",2,"Female",126.64232219
+70,"mean_SBP",4669,"Tabasco",2004,27,"Age-standardized",1,"Male",126.717133871
+70,"mean_SBP",4669,"Tabasco",2004,27,"Age-standardized",2,"Female",124.778632145
+70,"mean_SBP",4670,"Tamaulipas",2004,27,"Age-standardized",1,"Male",128.46666703
+70,"mean_SBP",4670,"Tamaulipas",2004,27,"Age-standardized",2,"Female",123.3196446
+70,"mean_SBP",4671,"Tlaxcala",2004,27,"Age-standardized",1,"Male",124.215256985
+70,"mean_SBP",4671,"Tlaxcala",2004,27,"Age-standardized",2,"Female",121.019550597
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",1,"Male",125.563993662
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",2,"Female",123.543425649
+70,"mean_SBP",4673,"Yucatán",2004,27,"Age-standardized",1,"Male",127.529755578
+70,"mean_SBP",4673,"Yucatán",2004,27,"Age-standardized",2,"Female",123.878798378
+70,"mean_SBP",4674,"Zacatecas",2004,27,"Age-standardized",1,"Male",128.544797205
+70,"mean_SBP",4674,"Zacatecas",2004,27,"Age-standardized",2,"Female",126.580424352
+70,"mean_SBP",130,"Mexico",2005,27,"Age-standardized",1,"Male",126.995395392
+70,"mean_SBP",130,"Mexico",2005,27,"Age-standardized",2,"Female",123.849095798
+70,"mean_SBP",4643,"Aguascalientes",2005,27,"Age-standardized",1,"Male",128.93179728
+70,"mean_SBP",4643,"Aguascalientes",2005,27,"Age-standardized",2,"Female",126.79868834
+70,"mean_SBP",4644,"Baja California",2005,27,"Age-standardized",1,"Male",130.37058405
+70,"mean_SBP",4644,"Baja California",2005,27,"Age-standardized",2,"Female",128.315971307
+70,"mean_SBP",4645,"Baja California Sur",2005,27,"Age-standardized",1,"Male",127.289863761
+70,"mean_SBP",4645,"Baja California Sur",2005,27,"Age-standardized",2,"Female",124.207359303
+70,"mean_SBP",4646,"Campeche",2005,27,"Age-standardized",1,"Male",125.84412916
+70,"mean_SBP",4646,"Campeche",2005,27,"Age-standardized",2,"Female",123.508294485
+70,"mean_SBP",4647,"Coahuila",2005,27,"Age-standardized",1,"Male",128.002986215
+70,"mean_SBP",4647,"Coahuila",2005,27,"Age-standardized",2,"Female",124.090980103
+70,"mean_SBP",4648,"Colima",2005,27,"Age-standardized",1,"Male",127.640138341
+70,"mean_SBP",4648,"Colima",2005,27,"Age-standardized",2,"Female",124.880687868
+70,"mean_SBP",4649,"Chiapas",2005,27,"Age-standardized",1,"Male",122.69246228
+70,"mean_SBP",4649,"Chiapas",2005,27,"Age-standardized",2,"Female",123.913893397
+70,"mean_SBP",4650,"Chihuahua",2005,27,"Age-standardized",1,"Male",126.969828066
+70,"mean_SBP",4650,"Chihuahua",2005,27,"Age-standardized",2,"Female",124.476176714
+70,"mean_SBP",4651,"Mexico City",2005,27,"Age-standardized",1,"Male",128.261043908
+70,"mean_SBP",4651,"Mexico City",2005,27,"Age-standardized",2,"Female",124.597378363
+70,"mean_SBP",4652,"Durango",2005,27,"Age-standardized",1,"Male",127.864153984
+70,"mean_SBP",4652,"Durango",2005,27,"Age-standardized",2,"Female",125.584690385
+70,"mean_SBP",4653,"Guanajuato",2005,27,"Age-standardized",1,"Male",127.947429835
+70,"mean_SBP",4653,"Guanajuato",2005,27,"Age-standardized",2,"Female",123.157420347
+70,"mean_SBP",4654,"Guerrero",2005,27,"Age-standardized",1,"Male",125.680998763
+70,"mean_SBP",4654,"Guerrero",2005,27,"Age-standardized",2,"Female",120.554631317
+70,"mean_SBP",4655,"Hidalgo",2005,27,"Age-standardized",1,"Male",126.682238488
+70,"mean_SBP",4655,"Hidalgo",2005,27,"Age-standardized",2,"Female",124.750906976
+70,"mean_SBP",4656,"Jalisco",2005,27,"Age-standardized",1,"Male",127.586486448
+70,"mean_SBP",4656,"Jalisco",2005,27,"Age-standardized",2,"Female",124.262418567
+70,"mean_SBP",4657,"México",2005,27,"Age-standardized",1,"Male",126.294489958
+70,"mean_SBP",4657,"México",2005,27,"Age-standardized",2,"Female",122.614319647
+70,"mean_SBP",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",1,"Male",127.263356221
+70,"mean_SBP",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",2,"Female",124.039742155
+70,"mean_SBP",4659,"Morelos",2005,27,"Age-standardized",1,"Male",126.476059808
+70,"mean_SBP",4659,"Morelos",2005,27,"Age-standardized",2,"Female",123.19871972
+70,"mean_SBP",4660,"Nayarit",2005,27,"Age-standardized",1,"Male",127.012264195
+70,"mean_SBP",4660,"Nayarit",2005,27,"Age-standardized",2,"Female",124.761215198
+70,"mean_SBP",4661,"Nuevo León",2005,27,"Age-standardized",1,"Male",127.947128079
+70,"mean_SBP",4661,"Nuevo León",2005,27,"Age-standardized",2,"Female",123.858658958
+70,"mean_SBP",4662,"Oaxaca",2005,27,"Age-standardized",1,"Male",123.007446128
+70,"mean_SBP",4662,"Oaxaca",2005,27,"Age-standardized",2,"Female",122.729429245
+70,"mean_SBP",4663,"Puebla",2005,27,"Age-standardized",1,"Male",125.600972327
+70,"mean_SBP",4663,"Puebla",2005,27,"Age-standardized",2,"Female",122.480094879
+70,"mean_SBP",4664,"Querétaro",2005,27,"Age-standardized",1,"Male",127.77818298
+70,"mean_SBP",4664,"Querétaro",2005,27,"Age-standardized",2,"Female",124.194080486
+70,"mean_SBP",4665,"Quintana Roo",2005,27,"Age-standardized",1,"Male",127.581547183
+70,"mean_SBP",4665,"Quintana Roo",2005,27,"Age-standardized",2,"Female",123.184460657
+70,"mean_SBP",4666,"San Luis Potosí",2005,27,"Age-standardized",1,"Male",127.525784715
+70,"mean_SBP",4666,"San Luis Potosí",2005,27,"Age-standardized",2,"Female",124.170986113
+70,"mean_SBP",4667,"Sinaloa",2005,27,"Age-standardized",1,"Male",128.737196376
+70,"mean_SBP",4667,"Sinaloa",2005,27,"Age-standardized",2,"Female",124.755485872
+70,"mean_SBP",4668,"Sonora",2005,27,"Age-standardized",1,"Male",130.268514241
+70,"mean_SBP",4668,"Sonora",2005,27,"Age-standardized",2,"Female",126.727125122
+70,"mean_SBP",4669,"Tabasco",2005,27,"Age-standardized",1,"Male",126.808486722
+70,"mean_SBP",4669,"Tabasco",2005,27,"Age-standardized",2,"Female",124.863932627
+70,"mean_SBP",4670,"Tamaulipas",2005,27,"Age-standardized",1,"Male",128.552098092
+70,"mean_SBP",4670,"Tamaulipas",2005,27,"Age-standardized",2,"Female",123.389460851
+70,"mean_SBP",4671,"Tlaxcala",2005,27,"Age-standardized",1,"Male",124.336866041
+70,"mean_SBP",4671,"Tlaxcala",2005,27,"Age-standardized",2,"Female",121.12296589
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",1,"Male",125.674435279
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",2,"Female",123.648647597
+70,"mean_SBP",4673,"Yucatán",2005,27,"Age-standardized",1,"Male",127.616869039
+70,"mean_SBP",4673,"Yucatán",2005,27,"Age-standardized",2,"Female",123.984296662
+70,"mean_SBP",4674,"Zacatecas",2005,27,"Age-standardized",1,"Male",128.610436255
+70,"mean_SBP",4674,"Zacatecas",2005,27,"Age-standardized",2,"Female",126.619794507
+70,"mean_SBP",130,"Mexico",2006,27,"Age-standardized",1,"Male",127.10251737
+70,"mean_SBP",130,"Mexico",2006,27,"Age-standardized",2,"Female",123.949266557
+70,"mean_SBP",4643,"Aguascalientes",2006,27,"Age-standardized",1,"Male",129.040160106
+70,"mean_SBP",4643,"Aguascalientes",2006,27,"Age-standardized",2,"Female",126.867125262
+70,"mean_SBP",4644,"Baja California",2006,27,"Age-standardized",1,"Male",130.431590573
+70,"mean_SBP",4644,"Baja California",2006,27,"Age-standardized",2,"Female",128.349127675
+70,"mean_SBP",4645,"Baja California Sur",2006,27,"Age-standardized",1,"Male",127.321021594
+70,"mean_SBP",4645,"Baja California Sur",2006,27,"Age-standardized",2,"Female",124.25395743
+70,"mean_SBP",4646,"Campeche",2006,27,"Age-standardized",1,"Male",125.965413275
+70,"mean_SBP",4646,"Campeche",2006,27,"Age-standardized",2,"Female",123.59947668
+70,"mean_SBP",4647,"Coahuila",2006,27,"Age-standardized",1,"Male",128.088972187
+70,"mean_SBP",4647,"Coahuila",2006,27,"Age-standardized",2,"Female",124.197872863
+70,"mean_SBP",4648,"Colima",2006,27,"Age-standardized",1,"Male",127.725921397
+70,"mean_SBP",4648,"Colima",2006,27,"Age-standardized",2,"Female",124.96059544
+70,"mean_SBP",4649,"Chiapas",2006,27,"Age-standardized",1,"Male",122.782199441
+70,"mean_SBP",4649,"Chiapas",2006,27,"Age-standardized",2,"Female",123.98876132
+70,"mean_SBP",4650,"Chihuahua",2006,27,"Age-standardized",1,"Male",127.085018689
+70,"mean_SBP",4650,"Chihuahua",2006,27,"Age-standardized",2,"Female",124.62397847
+70,"mean_SBP",4651,"Mexico City",2006,27,"Age-standardized",1,"Male",128.349403649
+70,"mean_SBP",4651,"Mexico City",2006,27,"Age-standardized",2,"Female",124.681446584
+70,"mean_SBP",4652,"Durango",2006,27,"Age-standardized",1,"Male",127.981437551
+70,"mean_SBP",4652,"Durango",2006,27,"Age-standardized",2,"Female",125.752856883
+70,"mean_SBP",4653,"Guanajuato",2006,27,"Age-standardized",1,"Male",128.051081339
+70,"mean_SBP",4653,"Guanajuato",2006,27,"Age-standardized",2,"Female",123.273583943
+70,"mean_SBP",4654,"Guerrero",2006,27,"Age-standardized",1,"Male",125.759587139
+70,"mean_SBP",4654,"Guerrero",2006,27,"Age-standardized",2,"Female",120.625059678
+70,"mean_SBP",4655,"Hidalgo",2006,27,"Age-standardized",1,"Male",126.785747813
+70,"mean_SBP",4655,"Hidalgo",2006,27,"Age-standardized",2,"Female",124.843886412
+70,"mean_SBP",4656,"Jalisco",2006,27,"Age-standardized",1,"Male",127.708058162
+70,"mean_SBP",4656,"Jalisco",2006,27,"Age-standardized",2,"Female",124.355199992
+70,"mean_SBP",4657,"México",2006,27,"Age-standardized",1,"Male",126.378850928
+70,"mean_SBP",4657,"México",2006,27,"Age-standardized",2,"Female",122.68784043
+70,"mean_SBP",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",1,"Male",127.381427659
+70,"mean_SBP",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",2,"Female",124.146739383
+70,"mean_SBP",4659,"Morelos",2006,27,"Age-standardized",1,"Male",126.576272549
+70,"mean_SBP",4659,"Morelos",2006,27,"Age-standardized",2,"Female",123.326280271
+70,"mean_SBP",4660,"Nayarit",2006,27,"Age-standardized",1,"Male",127.097242357
+70,"mean_SBP",4660,"Nayarit",2006,27,"Age-standardized",2,"Female",124.850938546
+70,"mean_SBP",4661,"Nuevo León",2006,27,"Age-standardized",1,"Male",128.065602969
+70,"mean_SBP",4661,"Nuevo León",2006,27,"Age-standardized",2,"Female",123.985046922
+70,"mean_SBP",4662,"Oaxaca",2006,27,"Age-standardized",1,"Male",123.172089985
+70,"mean_SBP",4662,"Oaxaca",2006,27,"Age-standardized",2,"Female",122.867538449
+70,"mean_SBP",4663,"Puebla",2006,27,"Age-standardized",1,"Male",125.780905084
+70,"mean_SBP",4663,"Puebla",2006,27,"Age-standardized",2,"Female",122.610268046
+70,"mean_SBP",4664,"Querétaro",2006,27,"Age-standardized",1,"Male",127.86002897
+70,"mean_SBP",4664,"Querétaro",2006,27,"Age-standardized",2,"Female",124.265451957
+70,"mean_SBP",4665,"Quintana Roo",2006,27,"Age-standardized",1,"Male",127.652426041
+70,"mean_SBP",4665,"Quintana Roo",2006,27,"Age-standardized",2,"Female",123.276857
+70,"mean_SBP",4666,"San Luis Potosí",2006,27,"Age-standardized",1,"Male",127.627968705
+70,"mean_SBP",4666,"San Luis Potosí",2006,27,"Age-standardized",2,"Female",124.24881326
+70,"mean_SBP",4667,"Sinaloa",2006,27,"Age-standardized",1,"Male",128.870930146
+70,"mean_SBP",4667,"Sinaloa",2006,27,"Age-standardized",2,"Female",124.919511985
+70,"mean_SBP",4668,"Sonora",2006,27,"Age-standardized",1,"Male",130.363903844
+70,"mean_SBP",4668,"Sonora",2006,27,"Age-standardized",2,"Female",126.820377692
+70,"mean_SBP",4669,"Tabasco",2006,27,"Age-standardized",1,"Male",126.898492459
+70,"mean_SBP",4669,"Tabasco",2006,27,"Age-standardized",2,"Female",124.959968899
+70,"mean_SBP",4670,"Tamaulipas",2006,27,"Age-standardized",1,"Male",128.663458828
+70,"mean_SBP",4670,"Tamaulipas",2006,27,"Age-standardized",2,"Female",123.48573714
+70,"mean_SBP",4671,"Tlaxcala",2006,27,"Age-standardized",1,"Male",124.428414104
+70,"mean_SBP",4671,"Tlaxcala",2006,27,"Age-standardized",2,"Female",121.201802313
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",1,"Male",125.809087698
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",2,"Female",123.762564055
+70,"mean_SBP",4673,"Yucatán",2006,27,"Age-standardized",1,"Male",127.732419598
+70,"mean_SBP",4673,"Yucatán",2006,27,"Age-standardized",2,"Female",124.092655291
+70,"mean_SBP",4674,"Zacatecas",2006,27,"Age-standardized",1,"Male",128.684622861
+70,"mean_SBP",4674,"Zacatecas",2006,27,"Age-standardized",2,"Female",126.664809684
+70,"mean_SBP",130,"Mexico",2007,27,"Age-standardized",1,"Male",127.226698434
+70,"mean_SBP",130,"Mexico",2007,27,"Age-standardized",2,"Female",124.044647912
+70,"mean_SBP",4643,"Aguascalientes",2007,27,"Age-standardized",1,"Male",129.166925019
+70,"mean_SBP",4643,"Aguascalientes",2007,27,"Age-standardized",2,"Female",126.928860771
+70,"mean_SBP",4644,"Baja California",2007,27,"Age-standardized",1,"Male",130.556010468
+70,"mean_SBP",4644,"Baja California",2007,27,"Age-standardized",2,"Female",128.41046096
+70,"mean_SBP",4645,"Baja California Sur",2007,27,"Age-standardized",1,"Male",127.355288073
+70,"mean_SBP",4645,"Baja California Sur",2007,27,"Age-standardized",2,"Female",124.269417603
+70,"mean_SBP",4646,"Campeche",2007,27,"Age-standardized",1,"Male",126.07585337
+70,"mean_SBP",4646,"Campeche",2007,27,"Age-standardized",2,"Female",123.675438499
+70,"mean_SBP",4647,"Coahuila",2007,27,"Age-standardized",1,"Male",128.207566486
+70,"mean_SBP",4647,"Coahuila",2007,27,"Age-standardized",2,"Female",124.311309828
+70,"mean_SBP",4648,"Colima",2007,27,"Age-standardized",1,"Male",127.830620986
+70,"mean_SBP",4648,"Colima",2007,27,"Age-standardized",2,"Female",125.037690279
+70,"mean_SBP",4649,"Chiapas",2007,27,"Age-standardized",1,"Male",122.871765559
+70,"mean_SBP",4649,"Chiapas",2007,27,"Age-standardized",2,"Female",124.051762176
+70,"mean_SBP",4650,"Chihuahua",2007,27,"Age-standardized",1,"Male",127.199977312
+70,"mean_SBP",4650,"Chihuahua",2007,27,"Age-standardized",2,"Female",124.783711868
+70,"mean_SBP",4651,"Mexico City",2007,27,"Age-standardized",1,"Male",128.451879785
+70,"mean_SBP",4651,"Mexico City",2007,27,"Age-standardized",2,"Female",124.75402357
+70,"mean_SBP",4652,"Durango",2007,27,"Age-standardized",1,"Male",128.108794309
+70,"mean_SBP",4652,"Durango",2007,27,"Age-standardized",2,"Female",125.917751099
+70,"mean_SBP",4653,"Guanajuato",2007,27,"Age-standardized",1,"Male",128.165900864
+70,"mean_SBP",4653,"Guanajuato",2007,27,"Age-standardized",2,"Female",123.387412424
+70,"mean_SBP",4654,"Guerrero",2007,27,"Age-standardized",1,"Male",125.88208823
+70,"mean_SBP",4654,"Guerrero",2007,27,"Age-standardized",2,"Female",120.692079531
+70,"mean_SBP",4655,"Hidalgo",2007,27,"Age-standardized",1,"Male",126.92302061
+70,"mean_SBP",4655,"Hidalgo",2007,27,"Age-standardized",2,"Female",124.925603198
+70,"mean_SBP",4656,"Jalisco",2007,27,"Age-standardized",1,"Male",127.850387977
+70,"mean_SBP",4656,"Jalisco",2007,27,"Age-standardized",2,"Female",124.449356403
+70,"mean_SBP",4657,"México",2007,27,"Age-standardized",1,"Male",126.474548682
+70,"mean_SBP",4657,"México",2007,27,"Age-standardized",2,"Female",122.744240585
+70,"mean_SBP",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",1,"Male",127.504116776
+70,"mean_SBP",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",2,"Female",124.236953426
+70,"mean_SBP",4659,"Morelos",2007,27,"Age-standardized",1,"Male",126.695890535
+70,"mean_SBP",4659,"Morelos",2007,27,"Age-standardized",2,"Female",123.459458642
+70,"mean_SBP",4660,"Nayarit",2007,27,"Age-standardized",1,"Male",127.212944232
+70,"mean_SBP",4660,"Nayarit",2007,27,"Age-standardized",2,"Female",124.936365137
+70,"mean_SBP",4661,"Nuevo León",2007,27,"Age-standardized",1,"Male",128.215422605
+70,"mean_SBP",4661,"Nuevo León",2007,27,"Age-standardized",2,"Female",124.110027385
+70,"mean_SBP",4662,"Oaxaca",2007,27,"Age-standardized",1,"Male",123.352386415
+70,"mean_SBP",4662,"Oaxaca",2007,27,"Age-standardized",2,"Female",122.996752747
+70,"mean_SBP",4663,"Puebla",2007,27,"Age-standardized",1,"Male",125.95786571
+70,"mean_SBP",4663,"Puebla",2007,27,"Age-standardized",2,"Female",122.738694969
+70,"mean_SBP",4664,"Querétaro",2007,27,"Age-standardized",1,"Male",127.957086554
+70,"mean_SBP",4664,"Querétaro",2007,27,"Age-standardized",2,"Female",124.338808966
+70,"mean_SBP",4665,"Quintana Roo",2007,27,"Age-standardized",1,"Male",127.760548206
+70,"mean_SBP",4665,"Quintana Roo",2007,27,"Age-standardized",2,"Female",123.36200915
+70,"mean_SBP",4666,"San Luis Potosí",2007,27,"Age-standardized",1,"Male",127.747979616
+70,"mean_SBP",4666,"San Luis Potosí",2007,27,"Age-standardized",2,"Female",124.326606007
+70,"mean_SBP",4667,"Sinaloa",2007,27,"Age-standardized",1,"Male",129.018194161
+70,"mean_SBP",4667,"Sinaloa",2007,27,"Age-standardized",2,"Female",125.078953959
+70,"mean_SBP",4668,"Sonora",2007,27,"Age-standardized",1,"Male",130.485948862
+70,"mean_SBP",4668,"Sonora",2007,27,"Age-standardized",2,"Female",126.910497265
+70,"mean_SBP",4669,"Tabasco",2007,27,"Age-standardized",1,"Male",127.019334225
+70,"mean_SBP",4669,"Tabasco",2007,27,"Age-standardized",2,"Female",125.05322943
+70,"mean_SBP",4670,"Tamaulipas",2007,27,"Age-standardized",1,"Male",128.806013108
+70,"mean_SBP",4670,"Tamaulipas",2007,27,"Age-standardized",2,"Female",123.597020891
+70,"mean_SBP",4671,"Tlaxcala",2007,27,"Age-standardized",1,"Male",124.563122842
+70,"mean_SBP",4671,"Tlaxcala",2007,27,"Age-standardized",2,"Female",121.281035325
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",1,"Male",125.949907773
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",2,"Female",123.87237257
+70,"mean_SBP",4673,"Yucatán",2007,27,"Age-standardized",1,"Male",127.864888101
+70,"mean_SBP",4673,"Yucatán",2007,27,"Age-standardized",2,"Female",124.187540087
+70,"mean_SBP",4674,"Zacatecas",2007,27,"Age-standardized",1,"Male",128.776865595
+70,"mean_SBP",4674,"Zacatecas",2007,27,"Age-standardized",2,"Female",126.707039558
+70,"mean_SBP",130,"Mexico",2008,27,"Age-standardized",1,"Male",127.376248359
+70,"mean_SBP",130,"Mexico",2008,27,"Age-standardized",2,"Female",124.148903033
+70,"mean_SBP",4643,"Aguascalientes",2008,27,"Age-standardized",1,"Male",129.314144584
+70,"mean_SBP",4643,"Aguascalientes",2008,27,"Age-standardized",2,"Female",126.994276687
+70,"mean_SBP",4644,"Baja California",2008,27,"Age-standardized",1,"Male",130.71640532
+70,"mean_SBP",4644,"Baja California",2008,27,"Age-standardized",2,"Female",128.49819322
+70,"mean_SBP",4645,"Baja California Sur",2008,27,"Age-standardized",1,"Male",127.440463211
+70,"mean_SBP",4645,"Baja California Sur",2008,27,"Age-standardized",2,"Female",124.323844521
+70,"mean_SBP",4646,"Campeche",2008,27,"Age-standardized",1,"Male",126.200018113
+70,"mean_SBP",4646,"Campeche",2008,27,"Age-standardized",2,"Female",123.750911204
+70,"mean_SBP",4647,"Coahuila",2008,27,"Age-standardized",1,"Male",128.349338442
+70,"mean_SBP",4647,"Coahuila",2008,27,"Age-standardized",2,"Female",124.435387973
+70,"mean_SBP",4648,"Colima",2008,27,"Age-standardized",1,"Male",127.949236399
+70,"mean_SBP",4648,"Colima",2008,27,"Age-standardized",2,"Female",125.122995921
+70,"mean_SBP",4649,"Chiapas",2008,27,"Age-standardized",1,"Male",123.033120006
+70,"mean_SBP",4649,"Chiapas",2008,27,"Age-standardized",2,"Female",124.111219485
+70,"mean_SBP",4650,"Chihuahua",2008,27,"Age-standardized",1,"Male",127.350308973
+70,"mean_SBP",4650,"Chihuahua",2008,27,"Age-standardized",2,"Female",124.954984592
+70,"mean_SBP",4651,"Mexico City",2008,27,"Age-standardized",1,"Male",128.586132785
+70,"mean_SBP",4651,"Mexico City",2008,27,"Age-standardized",2,"Female",124.84461434
+70,"mean_SBP",4652,"Durango",2008,27,"Age-standardized",1,"Male",128.246094038
+70,"mean_SBP",4652,"Durango",2008,27,"Age-standardized",2,"Female",126.076606363
+70,"mean_SBP",4653,"Guanajuato",2008,27,"Age-standardized",1,"Male",128.311688668
+70,"mean_SBP",4653,"Guanajuato",2008,27,"Age-standardized",2,"Female",123.507908994
+70,"mean_SBP",4654,"Guerrero",2008,27,"Age-standardized",1,"Male",126.033994724
+70,"mean_SBP",4654,"Guerrero",2008,27,"Age-standardized",2,"Female",120.758134713
+70,"mean_SBP",4655,"Hidalgo",2008,27,"Age-standardized",1,"Male",127.076456334
+70,"mean_SBP",4655,"Hidalgo",2008,27,"Age-standardized",2,"Female",125.002484387
+70,"mean_SBP",4656,"Jalisco",2008,27,"Age-standardized",1,"Male",128.007414917
+70,"mean_SBP",4656,"Jalisco",2008,27,"Age-standardized",2,"Female",124.552281421
+70,"mean_SBP",4657,"México",2008,27,"Age-standardized",1,"Male",126.593714322
+70,"mean_SBP",4657,"México",2008,27,"Age-standardized",2,"Female",122.821652063
+70,"mean_SBP",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",1,"Male",127.637614171
+70,"mean_SBP",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",2,"Female",124.319058117
+70,"mean_SBP",4659,"Morelos",2008,27,"Age-standardized",1,"Male",126.853868595
+70,"mean_SBP",4659,"Morelos",2008,27,"Age-standardized",2,"Female",123.605755386
+70,"mean_SBP",4660,"Nayarit",2008,27,"Age-standardized",1,"Male",127.331726272
+70,"mean_SBP",4660,"Nayarit",2008,27,"Age-standardized",2,"Female",125.023314502
+70,"mean_SBP",4661,"Nuevo León",2008,27,"Age-standardized",1,"Male",128.387412165
+70,"mean_SBP",4661,"Nuevo León",2008,27,"Age-standardized",2,"Female",124.240117091
+70,"mean_SBP",4662,"Oaxaca",2008,27,"Age-standardized",1,"Male",123.572569687
+70,"mean_SBP",4662,"Oaxaca",2008,27,"Age-standardized",2,"Female",123.123087112
+70,"mean_SBP",4663,"Puebla",2008,27,"Age-standardized",1,"Male",126.151098604
+70,"mean_SBP",4663,"Puebla",2008,27,"Age-standardized",2,"Female",122.869460815
+70,"mean_SBP",4664,"Querétaro",2008,27,"Age-standardized",1,"Male",128.103620872
+70,"mean_SBP",4664,"Querétaro",2008,27,"Age-standardized",2,"Female",124.443187163
+70,"mean_SBP",4665,"Quintana Roo",2008,27,"Age-standardized",1,"Male",127.887734672
+70,"mean_SBP",4665,"Quintana Roo",2008,27,"Age-standardized",2,"Female",123.452291309
+70,"mean_SBP",4666,"San Luis Potosí",2008,27,"Age-standardized",1,"Male",127.886088015
+70,"mean_SBP",4666,"San Luis Potosí",2008,27,"Age-standardized",2,"Female",124.413722814
+70,"mean_SBP",4667,"Sinaloa",2008,27,"Age-standardized",1,"Male",129.180656634
+70,"mean_SBP",4667,"Sinaloa",2008,27,"Age-standardized",2,"Female",125.241972767
+70,"mean_SBP",4668,"Sonora",2008,27,"Age-standardized",1,"Male",130.635532196
+70,"mean_SBP",4668,"Sonora",2008,27,"Age-standardized",2,"Female",127.006328843
+70,"mean_SBP",4669,"Tabasco",2008,27,"Age-standardized",1,"Male",127.13794443
+70,"mean_SBP",4669,"Tabasco",2008,27,"Age-standardized",2,"Female",125.146454331
+70,"mean_SBP",4670,"Tamaulipas",2008,27,"Age-standardized",1,"Male",128.980738605
+70,"mean_SBP",4670,"Tamaulipas",2008,27,"Age-standardized",2,"Female",123.729052965
+70,"mean_SBP",4671,"Tlaxcala",2008,27,"Age-standardized",1,"Male",124.729334396
+70,"mean_SBP",4671,"Tlaxcala",2008,27,"Age-standardized",2,"Female",121.380176609
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",1,"Male",126.109983659
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",2,"Female",123.983936322
+70,"mean_SBP",4673,"Yucatán",2008,27,"Age-standardized",1,"Male",128.00861342
+70,"mean_SBP",4673,"Yucatán",2008,27,"Age-standardized",2,"Female",124.280149846
+70,"mean_SBP",4674,"Zacatecas",2008,27,"Age-standardized",1,"Male",128.889407469
+70,"mean_SBP",4674,"Zacatecas",2008,27,"Age-standardized",2,"Female",126.755500601
+70,"mean_SBP",130,"Mexico",2009,27,"Age-standardized",1,"Male",127.526680239
+70,"mean_SBP",130,"Mexico",2009,27,"Age-standardized",2,"Female",124.249731994
+70,"mean_SBP",4643,"Aguascalientes",2009,27,"Age-standardized",1,"Male",129.473767416
+70,"mean_SBP",4643,"Aguascalientes",2009,27,"Age-standardized",2,"Female",127.056877168
+70,"mean_SBP",4644,"Baja California",2009,27,"Age-standardized",1,"Male",130.884879612
+70,"mean_SBP",4644,"Baja California",2009,27,"Age-standardized",2,"Female",128.581139587
+70,"mean_SBP",4645,"Baja California Sur",2009,27,"Age-standardized",1,"Male",127.614582715
+70,"mean_SBP",4645,"Baja California Sur",2009,27,"Age-standardized",2,"Female",124.44048938
+70,"mean_SBP",4646,"Campeche",2009,27,"Age-standardized",1,"Male",126.310497944
+70,"mean_SBP",4646,"Campeche",2009,27,"Age-standardized",2,"Female",123.812427208
+70,"mean_SBP",4647,"Coahuila",2009,27,"Age-standardized",1,"Male",128.503736044
+70,"mean_SBP",4647,"Coahuila",2009,27,"Age-standardized",2,"Female",124.561313037
+70,"mean_SBP",4648,"Colima",2009,27,"Age-standardized",1,"Male",128.073745062
+70,"mean_SBP",4648,"Colima",2009,27,"Age-standardized",2,"Female",125.207522458
+70,"mean_SBP",4649,"Chiapas",2009,27,"Age-standardized",1,"Male",123.150745455
+70,"mean_SBP",4649,"Chiapas",2009,27,"Age-standardized",2,"Female",124.160259754
+70,"mean_SBP",4650,"Chihuahua",2009,27,"Age-standardized",1,"Male",127.52603899
+70,"mean_SBP",4650,"Chihuahua",2009,27,"Age-standardized",2,"Female",125.116734108
+70,"mean_SBP",4651,"Mexico City",2009,27,"Age-standardized",1,"Male",128.727179468
+70,"mean_SBP",4651,"Mexico City",2009,27,"Age-standardized",2,"Female",124.9395835
+70,"mean_SBP",4652,"Durango",2009,27,"Age-standardized",1,"Male",128.364006978
+70,"mean_SBP",4652,"Durango",2009,27,"Age-standardized",2,"Female",126.204388224
+70,"mean_SBP",4653,"Guanajuato",2009,27,"Age-standardized",1,"Male",128.452027907
+70,"mean_SBP",4653,"Guanajuato",2009,27,"Age-standardized",2,"Female",123.621674376
+70,"mean_SBP",4654,"Guerrero",2009,27,"Age-standardized",1,"Male",126.11602335
+70,"mean_SBP",4654,"Guerrero",2009,27,"Age-standardized",2,"Female",120.807614495
+70,"mean_SBP",4655,"Hidalgo",2009,27,"Age-standardized",1,"Male",127.209275295
+70,"mean_SBP",4655,"Hidalgo",2009,27,"Age-standardized",2,"Female",125.058098972
+70,"mean_SBP",4656,"Jalisco",2009,27,"Age-standardized",1,"Male",128.157784291
+70,"mean_SBP",4656,"Jalisco",2009,27,"Age-standardized",2,"Female",124.653041765
+70,"mean_SBP",4657,"México",2009,27,"Age-standardized",1,"Male",126.748737638
+70,"mean_SBP",4657,"México",2009,27,"Age-standardized",2,"Female",122.923913691
+70,"mean_SBP",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",1,"Male",127.755808847
+70,"mean_SBP",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",2,"Female",124.378797158
+70,"mean_SBP",4659,"Morelos",2009,27,"Age-standardized",1,"Male",126.993240807
+70,"mean_SBP",4659,"Morelos",2009,27,"Age-standardized",2,"Female",123.743913423
+70,"mean_SBP",4660,"Nayarit",2009,27,"Age-standardized",1,"Male",127.460449027
+70,"mean_SBP",4660,"Nayarit",2009,27,"Age-standardized",2,"Female",125.103288745
+70,"mean_SBP",4661,"Nuevo León",2009,27,"Age-standardized",1,"Male",128.561253385
+70,"mean_SBP",4661,"Nuevo León",2009,27,"Age-standardized",2,"Female",124.362561206
+70,"mean_SBP",4662,"Oaxaca",2009,27,"Age-standardized",1,"Male",123.758433119
+70,"mean_SBP",4662,"Oaxaca",2009,27,"Age-standardized",2,"Female",123.226542497
+70,"mean_SBP",4663,"Puebla",2009,27,"Age-standardized",1,"Male",126.332511784
+70,"mean_SBP",4663,"Puebla",2009,27,"Age-standardized",2,"Female",122.987140317
+70,"mean_SBP",4664,"Querétaro",2009,27,"Age-standardized",1,"Male",128.255740298
+70,"mean_SBP",4664,"Querétaro",2009,27,"Age-standardized",2,"Female",124.559488996
+70,"mean_SBP",4665,"Quintana Roo",2009,27,"Age-standardized",1,"Male",128.030740642
+70,"mean_SBP",4665,"Quintana Roo",2009,27,"Age-standardized",2,"Female",123.538053244
+70,"mean_SBP",4666,"San Luis Potosí",2009,27,"Age-standardized",1,"Male",128.027865978
+70,"mean_SBP",4666,"San Luis Potosí",2009,27,"Age-standardized",2,"Female",124.501185688
+70,"mean_SBP",4667,"Sinaloa",2009,27,"Age-standardized",1,"Male",129.340133336
+70,"mean_SBP",4667,"Sinaloa",2009,27,"Age-standardized",2,"Female",125.386329846
+70,"mean_SBP",4668,"Sonora",2009,27,"Age-standardized",1,"Male",130.791238842
+70,"mean_SBP",4668,"Sonora",2009,27,"Age-standardized",2,"Female",127.094894354
+70,"mean_SBP",4669,"Tabasco",2009,27,"Age-standardized",1,"Male",127.261832762
+70,"mean_SBP",4669,"Tabasco",2009,27,"Age-standardized",2,"Female",125.226063721
+70,"mean_SBP",4670,"Tamaulipas",2009,27,"Age-standardized",1,"Male",129.165059528
+70,"mean_SBP",4670,"Tamaulipas",2009,27,"Age-standardized",2,"Female",123.865342518
+70,"mean_SBP",4671,"Tlaxcala",2009,27,"Age-standardized",1,"Male",124.874354761
+70,"mean_SBP",4671,"Tlaxcala",2009,27,"Age-standardized",2,"Female",121.452598991
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",1,"Male",126.266795533
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",2,"Female",124.082279852
+70,"mean_SBP",4673,"Yucatán",2009,27,"Age-standardized",1,"Male",128.150934817
+70,"mean_SBP",4673,"Yucatán",2009,27,"Age-standardized",2,"Female",124.360600099
+70,"mean_SBP",4674,"Zacatecas",2009,27,"Age-standardized",1,"Male",129.005978081
+70,"mean_SBP",4674,"Zacatecas",2009,27,"Age-standardized",2,"Female",126.800699241
+70,"mean_SBP",130,"Mexico",2010,27,"Age-standardized",1,"Male",127.672678027
+70,"mean_SBP",130,"Mexico",2010,27,"Age-standardized",2,"Female",124.331407205
+70,"mean_SBP",4643,"Aguascalientes",2010,27,"Age-standardized",1,"Male",129.624554141
+70,"mean_SBP",4643,"Aguascalientes",2010,27,"Age-standardized",2,"Female",127.089908674
+70,"mean_SBP",4644,"Baja California",2010,27,"Age-standardized",1,"Male",131.034675907
+70,"mean_SBP",4644,"Baja California",2010,27,"Age-standardized",2,"Female",128.628017724
+70,"mean_SBP",4645,"Baja California Sur",2010,27,"Age-standardized",1,"Male",127.838073001
+70,"mean_SBP",4645,"Baja California Sur",2010,27,"Age-standardized",2,"Female",124.58177412
+70,"mean_SBP",4646,"Campeche",2010,27,"Age-standardized",1,"Male",126.402626618
+70,"mean_SBP",4646,"Campeche",2010,27,"Age-standardized",2,"Female",123.859970482
+70,"mean_SBP",4647,"Coahuila",2010,27,"Age-standardized",1,"Male",128.638605351
+70,"mean_SBP",4647,"Coahuila",2010,27,"Age-standardized",2,"Female",124.654530668
+70,"mean_SBP",4648,"Colima",2010,27,"Age-standardized",1,"Male",128.201764689
+70,"mean_SBP",4648,"Colima",2010,27,"Age-standardized",2,"Female",125.271592332
+70,"mean_SBP",4649,"Chiapas",2010,27,"Age-standardized",1,"Male",123.265622382
+70,"mean_SBP",4649,"Chiapas",2010,27,"Age-standardized",2,"Female",124.20721038
+70,"mean_SBP",4650,"Chihuahua",2010,27,"Age-standardized",1,"Male",127.698489874
+70,"mean_SBP",4650,"Chihuahua",2010,27,"Age-standardized",2,"Female",125.233765632
+70,"mean_SBP",4651,"Mexico City",2010,27,"Age-standardized",1,"Male",128.86108058
+70,"mean_SBP",4651,"Mexico City",2010,27,"Age-standardized",2,"Female",125.020444618
+70,"mean_SBP",4652,"Durango",2010,27,"Age-standardized",1,"Male",128.474089709
+70,"mean_SBP",4652,"Durango",2010,27,"Age-standardized",2,"Female",126.28392867
+70,"mean_SBP",4653,"Guanajuato",2010,27,"Age-standardized",1,"Male",128.583039629
+70,"mean_SBP",4653,"Guanajuato",2010,27,"Age-standardized",2,"Female",123.715648158
+70,"mean_SBP",4654,"Guerrero",2010,27,"Age-standardized",1,"Male",126.230811949
+70,"mean_SBP",4654,"Guerrero",2010,27,"Age-standardized",2,"Female",120.84697613
+70,"mean_SBP",4655,"Hidalgo",2010,27,"Age-standardized",1,"Male",127.328809761
+70,"mean_SBP",4655,"Hidalgo",2010,27,"Age-standardized",2,"Female",125.091512552
+70,"mean_SBP",4656,"Jalisco",2010,27,"Age-standardized",1,"Male",128.286853055
+70,"mean_SBP",4656,"Jalisco",2010,27,"Age-standardized",2,"Female",124.733845228
+70,"mean_SBP",4657,"México",2010,27,"Age-standardized",1,"Male",126.924290439
+70,"mean_SBP",4657,"México",2010,27,"Age-standardized",2,"Female",123.029017565
+70,"mean_SBP",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",1,"Male",127.871621828
+70,"mean_SBP",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",2,"Female",124.412108273
+70,"mean_SBP",4659,"Morelos",2010,27,"Age-standardized",1,"Male",127.122244651
+70,"mean_SBP",4659,"Morelos",2010,27,"Age-standardized",2,"Female",123.855760594
+70,"mean_SBP",4660,"Nayarit",2010,27,"Age-standardized",1,"Male",127.595239287
+70,"mean_SBP",4660,"Nayarit",2010,27,"Age-standardized",2,"Female",125.166590779
+70,"mean_SBP",4661,"Nuevo León",2010,27,"Age-standardized",1,"Male",128.716522985
+70,"mean_SBP",4661,"Nuevo León",2010,27,"Age-standardized",2,"Female",124.440191185
+70,"mean_SBP",4662,"Oaxaca",2010,27,"Age-standardized",1,"Male",123.932412377
+70,"mean_SBP",4662,"Oaxaca",2010,27,"Age-standardized",2,"Female",123.306674322
+70,"mean_SBP",4663,"Puebla",2010,27,"Age-standardized",1,"Male",126.50342313
+70,"mean_SBP",4663,"Puebla",2010,27,"Age-standardized",2,"Female",123.084549119
+70,"mean_SBP",4664,"Querétaro",2010,27,"Age-standardized",1,"Male",128.391469835
+70,"mean_SBP",4664,"Querétaro",2010,27,"Age-standardized",2,"Female",124.653319581
+70,"mean_SBP",4665,"Quintana Roo",2010,27,"Age-standardized",1,"Male",128.177326346
+70,"mean_SBP",4665,"Quintana Roo",2010,27,"Age-standardized",2,"Female",123.602039959
+70,"mean_SBP",4666,"San Luis Potosí",2010,27,"Age-standardized",1,"Male",128.173344065
+70,"mean_SBP",4666,"San Luis Potosí",2010,27,"Age-standardized",2,"Female",124.577656726
+70,"mean_SBP",4667,"Sinaloa",2010,27,"Age-standardized",1,"Male",129.483355301
+70,"mean_SBP",4667,"Sinaloa",2010,27,"Age-standardized",2,"Female",125.487619465
+70,"mean_SBP",4668,"Sonora",2010,27,"Age-standardized",1,"Male",130.92713341
+70,"mean_SBP",4668,"Sonora",2010,27,"Age-standardized",2,"Female",127.156812748
+70,"mean_SBP",4669,"Tabasco",2010,27,"Age-standardized",1,"Male",127.400667177
+70,"mean_SBP",4669,"Tabasco",2010,27,"Age-standardized",2,"Female",125.291577151
+70,"mean_SBP",4670,"Tamaulipas",2010,27,"Age-standardized",1,"Male",129.341468347
+70,"mean_SBP",4670,"Tamaulipas",2010,27,"Age-standardized",2,"Female",123.979687865
+70,"mean_SBP",4671,"Tlaxcala",2010,27,"Age-standardized",1,"Male",124.996311982
+70,"mean_SBP",4671,"Tlaxcala",2010,27,"Age-standardized",2,"Female",121.490069444
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",1,"Male",126.407857451
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",2,"Female",124.160498287
+70,"mean_SBP",4673,"Yucatán",2010,27,"Age-standardized",1,"Male",128.2837753
+70,"mean_SBP",4673,"Yucatán",2010,27,"Age-standardized",2,"Female",124.421572571
+70,"mean_SBP",4674,"Zacatecas",2010,27,"Age-standardized",1,"Male",129.12282248
+70,"mean_SBP",4674,"Zacatecas",2010,27,"Age-standardized",2,"Female",126.835677914
+70,"mean_SBP",130,"Mexico",2011,27,"Age-standardized",1,"Male",127.806166673
+70,"mean_SBP",130,"Mexico",2011,27,"Age-standardized",2,"Female",124.406651141
+70,"mean_SBP",4643,"Aguascalientes",2011,27,"Age-standardized",1,"Male",129.752863997
+70,"mean_SBP",4643,"Aguascalientes",2011,27,"Age-standardized",2,"Female",127.116686383
+70,"mean_SBP",4644,"Baja California",2011,27,"Age-standardized",1,"Male",131.167931599
+70,"mean_SBP",4644,"Baja California",2011,27,"Age-standardized",2,"Female",128.671404958
+70,"mean_SBP",4645,"Baja California Sur",2011,27,"Age-standardized",1,"Male",128.050817492
+70,"mean_SBP",4645,"Baja California Sur",2011,27,"Age-standardized",2,"Female",124.719852109
+70,"mean_SBP",4646,"Campeche",2011,27,"Age-standardized",1,"Male",126.537813245
+70,"mean_SBP",4646,"Campeche",2011,27,"Age-standardized",2,"Female",123.928553289
+70,"mean_SBP",4647,"Coahuila",2011,27,"Age-standardized",1,"Male",128.736401929
+70,"mean_SBP",4647,"Coahuila",2011,27,"Age-standardized",2,"Female",124.72007821
+70,"mean_SBP",4648,"Colima",2011,27,"Age-standardized",1,"Male",128.321928473
+70,"mean_SBP",4648,"Colima",2011,27,"Age-standardized",2,"Female",125.334259448
+70,"mean_SBP",4649,"Chiapas",2011,27,"Age-standardized",1,"Male",123.440718037
+70,"mean_SBP",4649,"Chiapas",2011,27,"Age-standardized",2,"Female",124.268127898
+70,"mean_SBP",4650,"Chihuahua",2011,27,"Age-standardized",1,"Male",127.850445377
+70,"mean_SBP",4650,"Chihuahua",2011,27,"Age-standardized",2,"Female",125.311246203
+70,"mean_SBP",4651,"Mexico City",2011,27,"Age-standardized",1,"Male",128.99771677
+70,"mean_SBP",4651,"Mexico City",2011,27,"Age-standardized",2,"Female",125.112367252
+70,"mean_SBP",4652,"Durango",2011,27,"Age-standardized",1,"Male",128.580535333
+70,"mean_SBP",4652,"Durango",2011,27,"Age-standardized",2,"Female",126.328786329
+70,"mean_SBP",4653,"Guanajuato",2011,27,"Age-standardized",1,"Male",128.695325668
+70,"mean_SBP",4653,"Guanajuato",2011,27,"Age-standardized",2,"Female",123.807649544
+70,"mean_SBP",4654,"Guerrero",2011,27,"Age-standardized",1,"Male",126.416895365
+70,"mean_SBP",4654,"Guerrero",2011,27,"Age-standardized",2,"Female",120.90046987
+70,"mean_SBP",4655,"Hidalgo",2011,27,"Age-standardized",1,"Male",127.450148483
+70,"mean_SBP",4655,"Hidalgo",2011,27,"Age-standardized",2,"Female",125.129270312
+70,"mean_SBP",4656,"Jalisco",2011,27,"Age-standardized",1,"Male",128.397624478
+70,"mean_SBP",4656,"Jalisco",2011,27,"Age-standardized",2,"Female",124.808522804
+70,"mean_SBP",4657,"México",2011,27,"Age-standardized",1,"Male",127.061722838
+70,"mean_SBP",4657,"México",2011,27,"Age-standardized",2,"Female",123.121571603
+70,"mean_SBP",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",1,"Male",127.992287213
+70,"mean_SBP",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",2,"Female",124.436228944
+70,"mean_SBP",4659,"Morelos",2011,27,"Age-standardized",1,"Male",127.251236668
+70,"mean_SBP",4659,"Morelos",2011,27,"Age-standardized",2,"Female",123.95604465
+70,"mean_SBP",4660,"Nayarit",2011,27,"Age-standardized",1,"Male",127.71447295
+70,"mean_SBP",4660,"Nayarit",2011,27,"Age-standardized",2,"Female",125.236521431
+70,"mean_SBP",4661,"Nuevo León",2011,27,"Age-standardized",1,"Male",128.836251668
+70,"mean_SBP",4661,"Nuevo León",2011,27,"Age-standardized",2,"Female",124.481710069
+70,"mean_SBP",4662,"Oaxaca",2011,27,"Age-standardized",1,"Male",124.083132762
+70,"mean_SBP",4662,"Oaxaca",2011,27,"Age-standardized",2,"Female",123.378676133
+70,"mean_SBP",4663,"Puebla",2011,27,"Age-standardized",1,"Male",126.647593102
+70,"mean_SBP",4663,"Puebla",2011,27,"Age-standardized",2,"Female",123.171325
+70,"mean_SBP",4664,"Querétaro",2011,27,"Age-standardized",1,"Male",128.507840745
+70,"mean_SBP",4664,"Querétaro",2011,27,"Age-standardized",2,"Female",124.744446736
+70,"mean_SBP",4665,"Quintana Roo",2011,27,"Age-standardized",1,"Male",128.307857284
+70,"mean_SBP",4665,"Quintana Roo",2011,27,"Age-standardized",2,"Female",123.662458998
+70,"mean_SBP",4666,"San Luis Potosí",2011,27,"Age-standardized",1,"Male",128.317425526
+70,"mean_SBP",4666,"San Luis Potosí",2011,27,"Age-standardized",2,"Female",124.660469696
+70,"mean_SBP",4667,"Sinaloa",2011,27,"Age-standardized",1,"Male",129.61126831
+70,"mean_SBP",4667,"Sinaloa",2011,27,"Age-standardized",2,"Female",125.557697002
+70,"mean_SBP",4668,"Sonora",2011,27,"Age-standardized",1,"Male",131.041734577
+70,"mean_SBP",4668,"Sonora",2011,27,"Age-standardized",2,"Female",127.209341151
+70,"mean_SBP",4669,"Tabasco",2011,27,"Age-standardized",1,"Male",127.520129875
+70,"mean_SBP",4669,"Tabasco",2011,27,"Age-standardized",2,"Female",125.358898746
+70,"mean_SBP",4670,"Tamaulipas",2011,27,"Age-standardized",1,"Male",129.488624904
+70,"mean_SBP",4670,"Tamaulipas",2011,27,"Age-standardized",2,"Female",124.081254817
+70,"mean_SBP",4671,"Tlaxcala",2011,27,"Age-standardized",1,"Male",125.109128598
+70,"mean_SBP",4671,"Tlaxcala",2011,27,"Age-standardized",2,"Female",121.547272313
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",1,"Male",126.538130942
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",2,"Female",124.23827869
+70,"mean_SBP",4673,"Yucatán",2011,27,"Age-standardized",1,"Male",128.397826604
+70,"mean_SBP",4673,"Yucatán",2011,27,"Age-standardized",2,"Female",124.480430277
+70,"mean_SBP",4674,"Zacatecas",2011,27,"Age-standardized",1,"Male",129.234645252
+70,"mean_SBP",4674,"Zacatecas",2011,27,"Age-standardized",2,"Female",126.882463888
+70,"mean_SBP",130,"Mexico",2012,27,"Age-standardized",1,"Male",127.927719138
+70,"mean_SBP",130,"Mexico",2012,27,"Age-standardized",2,"Female",124.445384205
+70,"mean_SBP",4643,"Aguascalientes",2012,27,"Age-standardized",1,"Male",129.877642613
+70,"mean_SBP",4643,"Aguascalientes",2012,27,"Age-standardized",2,"Female",127.114809001
+70,"mean_SBP",4644,"Baja California",2012,27,"Age-standardized",1,"Male",131.302511572
+70,"mean_SBP",4644,"Baja California",2012,27,"Age-standardized",2,"Female",128.680054203
+70,"mean_SBP",4645,"Baja California Sur",2012,27,"Age-standardized",1,"Male",128.230884911
+70,"mean_SBP",4645,"Baja California Sur",2012,27,"Age-standardized",2,"Female",124.800225685
+70,"mean_SBP",4646,"Campeche",2012,27,"Age-standardized",1,"Male",126.675862678
+70,"mean_SBP",4646,"Campeche",2012,27,"Age-standardized",2,"Female",123.981536256
+70,"mean_SBP",4647,"Coahuila",2012,27,"Age-standardized",1,"Male",128.81817635
+70,"mean_SBP",4647,"Coahuila",2012,27,"Age-standardized",2,"Female",124.736915367
+70,"mean_SBP",4648,"Colima",2012,27,"Age-standardized",1,"Male",128.44039398
+70,"mean_SBP",4648,"Colima",2012,27,"Age-standardized",2,"Female",125.367550575
+70,"mean_SBP",4649,"Chiapas",2012,27,"Age-standardized",1,"Male",123.560979658
+70,"mean_SBP",4649,"Chiapas",2012,27,"Age-standardized",2,"Female",124.304975612
+70,"mean_SBP",4650,"Chihuahua",2012,27,"Age-standardized",1,"Male",127.989712023
+70,"mean_SBP",4650,"Chihuahua",2012,27,"Age-standardized",2,"Female",125.320185331
+70,"mean_SBP",4651,"Mexico City",2012,27,"Age-standardized",1,"Male",129.143882181
+70,"mean_SBP",4651,"Mexico City",2012,27,"Age-standardized",2,"Female",125.182211237
+70,"mean_SBP",4652,"Durango",2012,27,"Age-standardized",1,"Male",128.679669235
+70,"mean_SBP",4652,"Durango",2012,27,"Age-standardized",2,"Female",126.309728817
+70,"mean_SBP",4653,"Guanajuato",2012,27,"Age-standardized",1,"Male",128.796635772
+70,"mean_SBP",4653,"Guanajuato",2012,27,"Age-standardized",2,"Female",123.872941453
+70,"mean_SBP",4654,"Guerrero",2012,27,"Age-standardized",1,"Male",126.575601162
+70,"mean_SBP",4654,"Guerrero",2012,27,"Age-standardized",2,"Female",120.922524598
+70,"mean_SBP",4655,"Hidalgo",2012,27,"Age-standardized",1,"Male",127.570548204
+70,"mean_SBP",4655,"Hidalgo",2012,27,"Age-standardized",2,"Female",125.140274007
+70,"mean_SBP",4656,"Jalisco",2012,27,"Age-standardized",1,"Male",128.501829546
+70,"mean_SBP",4656,"Jalisco",2012,27,"Age-standardized",2,"Female",124.850045434
+70,"mean_SBP",4657,"México",2012,27,"Age-standardized",1,"Male",127.183013773
+70,"mean_SBP",4657,"México",2012,27,"Age-standardized",2,"Female",123.177863853
+70,"mean_SBP",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",1,"Male",128.098117966
+70,"mean_SBP",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",2,"Female",124.421635379
+70,"mean_SBP",4659,"Morelos",2012,27,"Age-standardized",1,"Male",127.362286984
+70,"mean_SBP",4659,"Morelos",2012,27,"Age-standardized",2,"Female",124.007758394
+70,"mean_SBP",4660,"Nayarit",2012,27,"Age-standardized",1,"Male",127.839689985
+70,"mean_SBP",4660,"Nayarit",2012,27,"Age-standardized",2,"Female",125.274344679
+70,"mean_SBP",4661,"Nuevo León",2012,27,"Age-standardized",1,"Male",128.939215823
+70,"mean_SBP",4661,"Nuevo León",2012,27,"Age-standardized",2,"Female",124.463605643
+70,"mean_SBP",4662,"Oaxaca",2012,27,"Age-standardized",1,"Male",124.205768429
+70,"mean_SBP",4662,"Oaxaca",2012,27,"Age-standardized",2,"Female",123.412599299
+70,"mean_SBP",4663,"Puebla",2012,27,"Age-standardized",1,"Male",126.764522717
+70,"mean_SBP",4663,"Puebla",2012,27,"Age-standardized",2,"Female",123.214525028
+70,"mean_SBP",4664,"Querétaro",2012,27,"Age-standardized",1,"Male",128.628841337
+70,"mean_SBP",4664,"Querétaro",2012,27,"Age-standardized",2,"Female",124.807876205
+70,"mean_SBP",4665,"Quintana Roo",2012,27,"Age-standardized",1,"Male",128.43623972
+70,"mean_SBP",4665,"Quintana Roo",2012,27,"Age-standardized",2,"Female",123.690432939
+70,"mean_SBP",4666,"San Luis Potosí",2012,27,"Age-standardized",1,"Male",128.458812834
+70,"mean_SBP",4666,"San Luis Potosí",2012,27,"Age-standardized",2,"Female",124.717781975
+70,"mean_SBP",4667,"Sinaloa",2012,27,"Age-standardized",1,"Male",129.72573267
+70,"mean_SBP",4667,"Sinaloa",2012,27,"Age-standardized",2,"Female",125.558949165
+70,"mean_SBP",4668,"Sonora",2012,27,"Age-standardized",1,"Male",131.153726618
+70,"mean_SBP",4668,"Sonora",2012,27,"Age-standardized",2,"Female",127.224589658
+70,"mean_SBP",4669,"Tabasco",2012,27,"Age-standardized",1,"Male",127.629551351
+70,"mean_SBP",4669,"Tabasco",2012,27,"Age-standardized",2,"Female",125.394023994
+70,"mean_SBP",4670,"Tamaulipas",2012,27,"Age-standardized",1,"Male",129.619611217
+70,"mean_SBP",4670,"Tamaulipas",2012,27,"Age-standardized",2,"Female",124.135576091
+70,"mean_SBP",4671,"Tlaxcala",2012,27,"Age-standardized",1,"Male",125.251452301
+70,"mean_SBP",4671,"Tlaxcala",2012,27,"Age-standardized",2,"Female",121.610660378
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",1,"Male",126.654536225
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",2,"Female",124.283876568
+70,"mean_SBP",4673,"Yucatán",2012,27,"Age-standardized",1,"Male",128.496815847
+70,"mean_SBP",4673,"Yucatán",2012,27,"Age-standardized",2,"Female",124.507860389
+70,"mean_SBP",4674,"Zacatecas",2012,27,"Age-standardized",1,"Male",129.345578161
+70,"mean_SBP",4674,"Zacatecas",2012,27,"Age-standardized",2,"Female",126.906339441
+70,"mean_SBP",130,"Mexico",2013,27,"Age-standardized",1,"Male",128.037567893
+70,"mean_SBP",130,"Mexico",2013,27,"Age-standardized",2,"Female",124.480776384
+70,"mean_SBP",4643,"Aguascalientes",2013,27,"Age-standardized",1,"Male",129.993799079
+70,"mean_SBP",4643,"Aguascalientes",2013,27,"Age-standardized",2,"Female",127.118968245
+70,"mean_SBP",4644,"Baja California",2013,27,"Age-standardized",1,"Male",131.410771806
+70,"mean_SBP",4644,"Baja California",2013,27,"Age-standardized",2,"Female",128.672531895
+70,"mean_SBP",4645,"Baja California Sur",2013,27,"Age-standardized",1,"Male",128.359689174
+70,"mean_SBP",4645,"Baja California Sur",2013,27,"Age-standardized",2,"Female",124.849795281
+70,"mean_SBP",4646,"Campeche",2013,27,"Age-standardized",1,"Male",126.788884737
+70,"mean_SBP",4646,"Campeche",2013,27,"Age-standardized",2,"Female",124.045400909
+70,"mean_SBP",4647,"Coahuila",2013,27,"Age-standardized",1,"Male",128.891485465
+70,"mean_SBP",4647,"Coahuila",2013,27,"Age-standardized",2,"Female",124.745236775
+70,"mean_SBP",4648,"Colima",2013,27,"Age-standardized",1,"Male",128.546363763
+70,"mean_SBP",4648,"Colima",2013,27,"Age-standardized",2,"Female",125.403969099
+70,"mean_SBP",4649,"Chiapas",2013,27,"Age-standardized",1,"Male",123.652287789
+70,"mean_SBP",4649,"Chiapas",2013,27,"Age-standardized",2,"Female",124.34494905
+70,"mean_SBP",4650,"Chihuahua",2013,27,"Age-standardized",1,"Male",128.117726361
+70,"mean_SBP",4650,"Chihuahua",2013,27,"Age-standardized",2,"Female",125.288397658
+70,"mean_SBP",4651,"Mexico City",2013,27,"Age-standardized",1,"Male",129.277526879
+70,"mean_SBP",4651,"Mexico City",2013,27,"Age-standardized",2,"Female",125.250890539
+70,"mean_SBP",4652,"Durango",2013,27,"Age-standardized",1,"Male",128.768544866
+70,"mean_SBP",4652,"Durango",2013,27,"Age-standardized",2,"Female",126.261408024
+70,"mean_SBP",4653,"Guanajuato",2013,27,"Age-standardized",1,"Male",128.89514431
+70,"mean_SBP",4653,"Guanajuato",2013,27,"Age-standardized",2,"Female",123.944409623
+70,"mean_SBP",4654,"Guerrero",2013,27,"Age-standardized",1,"Male",126.727282842
+70,"mean_SBP",4654,"Guerrero",2013,27,"Age-standardized",2,"Female",120.933671063
+70,"mean_SBP",4655,"Hidalgo",2013,27,"Age-standardized",1,"Male",127.686949082
+70,"mean_SBP",4655,"Hidalgo",2013,27,"Age-standardized",2,"Female",125.157371808
+70,"mean_SBP",4656,"Jalisco",2013,27,"Age-standardized",1,"Male",128.59901503
+70,"mean_SBP",4656,"Jalisco",2013,27,"Age-standardized",2,"Female",124.898790793
+70,"mean_SBP",4657,"México",2013,27,"Age-standardized",1,"Male",127.29815955
+70,"mean_SBP",4657,"México",2013,27,"Age-standardized",2,"Female",123.237660413
+70,"mean_SBP",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",1,"Male",128.192740387
+70,"mean_SBP",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",2,"Female",124.41026551
+70,"mean_SBP",4659,"Morelos",2013,27,"Age-standardized",1,"Male",127.457747398
+70,"mean_SBP",4659,"Morelos",2013,27,"Age-standardized",2,"Female",124.043344099
+70,"mean_SBP",4660,"Nayarit",2013,27,"Age-standardized",1,"Male",127.969036331
+70,"mean_SBP",4660,"Nayarit",2013,27,"Age-standardized",2,"Female",125.308920855
+70,"mean_SBP",4661,"Nuevo León",2013,27,"Age-standardized",1,"Male",129.035911221
+70,"mean_SBP",4661,"Nuevo León",2013,27,"Age-standardized",2,"Female",124.429676058
+70,"mean_SBP",4662,"Oaxaca",2013,27,"Age-standardized",1,"Male",124.316671294
+70,"mean_SBP",4662,"Oaxaca",2013,27,"Age-standardized",2,"Female",123.447068368
+70,"mean_SBP",4663,"Puebla",2013,27,"Age-standardized",1,"Male",126.859943651
+70,"mean_SBP",4663,"Puebla",2013,27,"Age-standardized",2,"Female",123.251098211
+70,"mean_SBP",4664,"Querétaro",2013,27,"Age-standardized",1,"Male",128.74362991
+70,"mean_SBP",4664,"Querétaro",2013,27,"Age-standardized",2,"Female",124.873112291
+70,"mean_SBP",4665,"Quintana Roo",2013,27,"Age-standardized",1,"Male",128.5474586
+70,"mean_SBP",4665,"Quintana Roo",2013,27,"Age-standardized",2,"Female",123.719581535
+70,"mean_SBP",4666,"San Luis Potosí",2013,27,"Age-standardized",1,"Male",128.588562926
+70,"mean_SBP",4666,"San Luis Potosí",2013,27,"Age-standardized",2,"Female",124.779166433
+70,"mean_SBP",4667,"Sinaloa",2013,27,"Age-standardized",1,"Male",129.825381277
+70,"mean_SBP",4667,"Sinaloa",2013,27,"Age-standardized",2,"Female",125.529711907
+70,"mean_SBP",4668,"Sonora",2013,27,"Age-standardized",1,"Male",131.256716559
+70,"mean_SBP",4668,"Sonora",2013,27,"Age-standardized",2,"Female",127.241710591
+70,"mean_SBP",4669,"Tabasco",2013,27,"Age-standardized",1,"Male",127.727559075
+70,"mean_SBP",4669,"Tabasco",2013,27,"Age-standardized",2,"Female",125.426397377
+70,"mean_SBP",4670,"Tamaulipas",2013,27,"Age-standardized",1,"Male",129.726559217
+70,"mean_SBP",4670,"Tamaulipas",2013,27,"Age-standardized",2,"Female",124.179861561
+70,"mean_SBP",4671,"Tlaxcala",2013,27,"Age-standardized",1,"Male",125.401664234
+70,"mean_SBP",4671,"Tlaxcala",2013,27,"Age-standardized",2,"Female",121.693412455
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",1,"Male",126.754246774
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",2,"Female",124.326575385
+70,"mean_SBP",4673,"Yucatán",2013,27,"Age-standardized",1,"Male",128.592108604
+70,"mean_SBP",4673,"Yucatán",2013,27,"Age-standardized",2,"Female",124.542589301
+70,"mean_SBP",4674,"Zacatecas",2013,27,"Age-standardized",1,"Male",129.45161843
+70,"mean_SBP",4674,"Zacatecas",2013,27,"Age-standardized",2,"Female",126.937389396
+70,"mean_SBP",130,"Mexico",2014,27,"Age-standardized",1,"Male",128.140917777
+70,"mean_SBP",130,"Mexico",2014,27,"Age-standardized",2,"Female",124.503432619
+70,"mean_SBP",4643,"Aguascalientes",2014,27,"Age-standardized",1,"Male",130.093530368
+70,"mean_SBP",4643,"Aguascalientes",2014,27,"Age-standardized",2,"Female",127.110608695
+70,"mean_SBP",4644,"Baja California",2014,27,"Age-standardized",1,"Male",131.489590993
+70,"mean_SBP",4644,"Baja California",2014,27,"Age-standardized",2,"Female",128.632378321
+70,"mean_SBP",4645,"Baja California Sur",2014,27,"Age-standardized",1,"Male",128.456344811
+70,"mean_SBP",4645,"Baja California Sur",2014,27,"Age-standardized",2,"Female",124.873921385
+70,"mean_SBP",4646,"Campeche",2014,27,"Age-standardized",1,"Male",126.909811322
+70,"mean_SBP",4646,"Campeche",2014,27,"Age-standardized",2,"Female",124.109060585
+70,"mean_SBP",4647,"Coahuila",2014,27,"Age-standardized",1,"Male",128.962168513
+70,"mean_SBP",4647,"Coahuila",2014,27,"Age-standardized",2,"Female",124.741607276
+70,"mean_SBP",4648,"Colima",2014,27,"Age-standardized",1,"Male",128.650198417
+70,"mean_SBP",4648,"Colima",2014,27,"Age-standardized",2,"Female",125.431242069
+70,"mean_SBP",4649,"Chiapas",2014,27,"Age-standardized",1,"Male",123.778438592
+70,"mean_SBP",4649,"Chiapas",2014,27,"Age-standardized",2,"Female",124.383885508
+70,"mean_SBP",4650,"Chihuahua",2014,27,"Age-standardized",1,"Male",128.225111135
+70,"mean_SBP",4650,"Chihuahua",2014,27,"Age-standardized",2,"Female",125.197085828
+70,"mean_SBP",4651,"Mexico City",2014,27,"Age-standardized",1,"Male",129.395028126
+70,"mean_SBP",4651,"Mexico City",2014,27,"Age-standardized",2,"Female",125.303042521
+70,"mean_SBP",4652,"Durango",2014,27,"Age-standardized",1,"Male",128.855333668
+70,"mean_SBP",4652,"Durango",2014,27,"Age-standardized",2,"Female",126.173240172
+70,"mean_SBP",4653,"Guanajuato",2014,27,"Age-standardized",1,"Male",128.987857719
+70,"mean_SBP",4653,"Guanajuato",2014,27,"Age-standardized",2,"Female",124.010621641
+70,"mean_SBP",4654,"Guerrero",2014,27,"Age-standardized",1,"Male",126.881342835
+70,"mean_SBP",4654,"Guerrero",2014,27,"Age-standardized",2,"Female",120.914572615
+70,"mean_SBP",4655,"Hidalgo",2014,27,"Age-standardized",1,"Male",127.793567698
+70,"mean_SBP",4655,"Hidalgo",2014,27,"Age-standardized",2,"Female",125.173046885
+70,"mean_SBP",4656,"Jalisco",2014,27,"Age-standardized",1,"Male",128.692542867
+70,"mean_SBP",4656,"Jalisco",2014,27,"Age-standardized",2,"Female",124.943399899
+70,"mean_SBP",4657,"México",2014,27,"Age-standardized",1,"Male",127.413484281
+70,"mean_SBP",4657,"México",2014,27,"Age-standardized",2,"Female",123.296112008
+70,"mean_SBP",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",1,"Male",128.288185605
+70,"mean_SBP",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",2,"Female",124.396672534
+70,"mean_SBP",4659,"Morelos",2014,27,"Age-standardized",1,"Male",127.543047858
+70,"mean_SBP",4659,"Morelos",2014,27,"Age-standardized",2,"Female",124.058104551
+70,"mean_SBP",4660,"Nayarit",2014,27,"Age-standardized",1,"Male",128.081121964
+70,"mean_SBP",4660,"Nayarit",2014,27,"Age-standardized",2,"Female",125.326181194
+70,"mean_SBP",4661,"Nuevo León",2014,27,"Age-standardized",1,"Male",129.119463399
+70,"mean_SBP",4661,"Nuevo León",2014,27,"Age-standardized",2,"Female",124.36832695
+70,"mean_SBP",4662,"Oaxaca",2014,27,"Age-standardized",1,"Male",124.413791242
+70,"mean_SBP",4662,"Oaxaca",2014,27,"Age-standardized",2,"Female",123.47563305
+70,"mean_SBP",4663,"Puebla",2014,27,"Age-standardized",1,"Male",126.946027113
+70,"mean_SBP",4663,"Puebla",2014,27,"Age-standardized",2,"Female",123.282065764
+70,"mean_SBP",4664,"Querétaro",2014,27,"Age-standardized",1,"Male",128.842676303
+70,"mean_SBP",4664,"Querétaro",2014,27,"Age-standardized",2,"Female",124.927768287
+70,"mean_SBP",4665,"Quintana Roo",2014,27,"Age-standardized",1,"Male",128.64159866
+70,"mean_SBP",4665,"Quintana Roo",2014,27,"Age-standardized",2,"Female",123.738818138
+70,"mean_SBP",4666,"San Luis Potosí",2014,27,"Age-standardized",1,"Male",128.705017276
+70,"mean_SBP",4666,"San Luis Potosí",2014,27,"Age-standardized",2,"Female",124.828785631
+70,"mean_SBP",4667,"Sinaloa",2014,27,"Age-standardized",1,"Male",129.915485233
+70,"mean_SBP",4667,"Sinaloa",2014,27,"Age-standardized",2,"Female",125.468618842
+70,"mean_SBP",4668,"Sonora",2014,27,"Age-standardized",1,"Male",131.353509159
+70,"mean_SBP",4668,"Sonora",2014,27,"Age-standardized",2,"Female",127.250982674
+70,"mean_SBP",4669,"Tabasco",2014,27,"Age-standardized",1,"Male",127.826885632
+70,"mean_SBP",4669,"Tabasco",2014,27,"Age-standardized",2,"Female",125.447301949
+70,"mean_SBP",4670,"Tamaulipas",2014,27,"Age-standardized",1,"Male",129.815978534
+70,"mean_SBP",4670,"Tamaulipas",2014,27,"Age-standardized",2,"Female",124.20397078
+70,"mean_SBP",4671,"Tlaxcala",2014,27,"Age-standardized",1,"Male",125.525828818
+70,"mean_SBP",4671,"Tlaxcala",2014,27,"Age-standardized",2,"Female",121.762239688
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",1,"Male",126.854474852
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",2,"Female",124.358822521
+70,"mean_SBP",4673,"Yucatán",2014,27,"Age-standardized",1,"Male",128.687346364
+70,"mean_SBP",4673,"Yucatán",2014,27,"Age-standardized",2,"Female",124.573202767
+70,"mean_SBP",4674,"Zacatecas",2014,27,"Age-standardized",1,"Male",129.549864245
+70,"mean_SBP",4674,"Zacatecas",2014,27,"Age-standardized",2,"Female",126.96434222
+70,"mean_SBP",130,"Mexico",2015,27,"Age-standardized",1,"Male",128.241457316
+70,"mean_SBP",130,"Mexico",2015,27,"Age-standardized",2,"Female",124.510032433
+70,"mean_SBP",4643,"Aguascalientes",2015,27,"Age-standardized",1,"Male",130.189742986
+70,"mean_SBP",4643,"Aguascalientes",2015,27,"Age-standardized",2,"Female",127.087515787
+70,"mean_SBP",4644,"Baja California",2015,27,"Age-standardized",1,"Male",131.558656242
+70,"mean_SBP",4644,"Baja California",2015,27,"Age-standardized",2,"Female",128.566028489
+70,"mean_SBP",4645,"Baja California Sur",2015,27,"Age-standardized",1,"Male",128.550844093
+70,"mean_SBP",4645,"Baja California Sur",2015,27,"Age-standardized",2,"Female",124.888665104
+70,"mean_SBP",4646,"Campeche",2015,27,"Age-standardized",1,"Male",127.028949954
+70,"mean_SBP",4646,"Campeche",2015,27,"Age-standardized",2,"Female",124.164812174
+70,"mean_SBP",4647,"Coahuila",2015,27,"Age-standardized",1,"Male",129.037298981
+70,"mean_SBP",4647,"Coahuila",2015,27,"Age-standardized",2,"Female",124.721725019
+70,"mean_SBP",4648,"Colima",2015,27,"Age-standardized",1,"Male",128.751878235
+70,"mean_SBP",4648,"Colima",2015,27,"Age-standardized",2,"Female",125.442586205
+70,"mean_SBP",4649,"Chiapas",2015,27,"Age-standardized",1,"Male",123.898265316
+70,"mean_SBP",4649,"Chiapas",2015,27,"Age-standardized",2,"Female",124.412891178
+70,"mean_SBP",4650,"Chihuahua",2015,27,"Age-standardized",1,"Male",128.317885743
+70,"mean_SBP",4650,"Chihuahua",2015,27,"Age-standardized",2,"Female",125.041737188
+70,"mean_SBP",4651,"Mexico City",2015,27,"Age-standardized",1,"Male",129.514125794
+70,"mean_SBP",4651,"Mexico City",2015,27,"Age-standardized",2,"Female",125.339513017
+70,"mean_SBP",4652,"Durango",2015,27,"Age-standardized",1,"Male",128.949507782
+70,"mean_SBP",4652,"Durango",2015,27,"Age-standardized",2,"Female",126.039993487
+70,"mean_SBP",4653,"Guanajuato",2015,27,"Age-standardized",1,"Male",129.077728135
+70,"mean_SBP",4653,"Guanajuato",2015,27,"Age-standardized",2,"Female",124.070623961
+70,"mean_SBP",4654,"Guerrero",2015,27,"Age-standardized",1,"Male",126.994869435
+70,"mean_SBP",4654,"Guerrero",2015,27,"Age-standardized",2,"Female",120.852363093
+70,"mean_SBP",4655,"Hidalgo",2015,27,"Age-standardized",1,"Male",127.882108575
+70,"mean_SBP",4655,"Hidalgo",2015,27,"Age-standardized",2,"Female",125.178048641
+70,"mean_SBP",4656,"Jalisco",2015,27,"Age-standardized",1,"Male",128.787242386
+70,"mean_SBP",4656,"Jalisco",2015,27,"Age-standardized",2,"Female",124.979606596
+70,"mean_SBP",4657,"México",2015,27,"Age-standardized",1,"Male",127.532436499
+70,"mean_SBP",4657,"México",2015,27,"Age-standardized",2,"Female",123.347662302
+70,"mean_SBP",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",1,"Male",128.384804024
+70,"mean_SBP",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",2,"Female",124.37655458
+70,"mean_SBP",4659,"Morelos",2015,27,"Age-standardized",1,"Male",127.622516132
+70,"mean_SBP",4659,"Morelos",2015,27,"Age-standardized",2,"Female",124.050745944
+70,"mean_SBP",4660,"Nayarit",2015,27,"Age-standardized",1,"Male",128.181724307
+70,"mean_SBP",4660,"Nayarit",2015,27,"Age-standardized",2,"Female",125.318424445
+70,"mean_SBP",4661,"Nuevo León",2015,27,"Age-standardized",1,"Male",129.198480154
+70,"mean_SBP",4661,"Nuevo León",2015,27,"Age-standardized",2,"Female",124.281574935
+70,"mean_SBP",4662,"Oaxaca",2015,27,"Age-standardized",1,"Male",124.49955618
+70,"mean_SBP",4662,"Oaxaca",2015,27,"Age-standardized",2,"Female",123.491792766
+70,"mean_SBP",4663,"Puebla",2015,27,"Age-standardized",1,"Male",127.043266619
+70,"mean_SBP",4663,"Puebla",2015,27,"Age-standardized",2,"Female",123.30684175
+70,"mean_SBP",4664,"Querétaro",2015,27,"Age-standardized",1,"Male",128.937969269
+70,"mean_SBP",4664,"Querétaro",2015,27,"Age-standardized",2,"Female",124.969437576
+70,"mean_SBP",4665,"Quintana Roo",2015,27,"Age-standardized",1,"Male",128.737238512
+70,"mean_SBP",4665,"Quintana Roo",2015,27,"Age-standardized",2,"Female",123.742446885
+70,"mean_SBP",4666,"San Luis Potosí",2015,27,"Age-standardized",1,"Male",128.811327918
+70,"mean_SBP",4666,"San Luis Potosí",2015,27,"Age-standardized",2,"Female",124.859337599
+70,"mean_SBP",4667,"Sinaloa",2015,27,"Age-standardized",1,"Male",130.001902187
+70,"mean_SBP",4667,"Sinaloa",2015,27,"Age-standardized",2,"Female",125.37341371
+70,"mean_SBP",4668,"Sonora",2015,27,"Age-standardized",1,"Male",131.446077109
+70,"mean_SBP",4668,"Sonora",2015,27,"Age-standardized",2,"Female",127.25034594
+70,"mean_SBP",4669,"Tabasco",2015,27,"Age-standardized",1,"Male",127.923347775
+70,"mean_SBP",4669,"Tabasco",2015,27,"Age-standardized",2,"Female",125.450288343
+70,"mean_SBP",4670,"Tamaulipas",2015,27,"Age-standardized",1,"Male",129.901294739
+70,"mean_SBP",4670,"Tamaulipas",2015,27,"Age-standardized",2,"Female",124.207524867
+70,"mean_SBP",4671,"Tlaxcala",2015,27,"Age-standardized",1,"Male",125.63083387
+70,"mean_SBP",4671,"Tlaxcala",2015,27,"Age-standardized",2,"Female",121.810499741
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",1,"Male",126.957029186
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",2,"Female",124.378365653
+70,"mean_SBP",4673,"Yucatán",2015,27,"Age-standardized",1,"Male",128.778703068
+70,"mean_SBP",4673,"Yucatán",2015,27,"Age-standardized",2,"Female",124.59815703
+70,"mean_SBP",4674,"Zacatecas",2015,27,"Age-standardized",1,"Male",129.64096979
+70,"mean_SBP",4674,"Zacatecas",2015,27,"Age-standardized",2,"Female",126.981139361
+70,"mean_SBP",130,"Mexico",2016,27,"Age-standardized",1,"Male",128.320451872
+70,"mean_SBP",130,"Mexico",2016,27,"Age-standardized",2,"Female",124.498425188
+70,"mean_SBP",4643,"Aguascalientes",2016,27,"Age-standardized",1,"Male",130.260991248
+70,"mean_SBP",4643,"Aguascalientes",2016,27,"Age-standardized",2,"Female",127.049963842
+70,"mean_SBP",4644,"Baja California",2016,27,"Age-standardized",1,"Male",131.610753957
+70,"mean_SBP",4644,"Baja California",2016,27,"Age-standardized",2,"Female",128.481842474
+70,"mean_SBP",4645,"Baja California Sur",2016,27,"Age-standardized",1,"Male",128.628773045
+70,"mean_SBP",4645,"Baja California Sur",2016,27,"Age-standardized",2,"Female",124.895966343
+70,"mean_SBP",4646,"Campeche",2016,27,"Age-standardized",1,"Male",127.122039755
+70,"mean_SBP",4646,"Campeche",2016,27,"Age-standardized",2,"Female",124.209971505
+70,"mean_SBP",4647,"Coahuila",2016,27,"Age-standardized",1,"Male",129.103606308
+70,"mean_SBP",4647,"Coahuila",2016,27,"Age-standardized",2,"Female",124.686232266
+70,"mean_SBP",4648,"Colima",2016,27,"Age-standardized",1,"Male",128.82966757
+70,"mean_SBP",4648,"Colima",2016,27,"Age-standardized",2,"Female",125.437510826
+70,"mean_SBP",4649,"Chiapas",2016,27,"Age-standardized",1,"Male",123.983385394
+70,"mean_SBP",4649,"Chiapas",2016,27,"Age-standardized",2,"Female",124.417350997
+70,"mean_SBP",4650,"Chihuahua",2016,27,"Age-standardized",1,"Male",128.384890202
+70,"mean_SBP",4650,"Chihuahua",2016,27,"Age-standardized",2,"Female",124.830267425
+70,"mean_SBP",4651,"Mexico City",2016,27,"Age-standardized",1,"Male",129.606127771
+70,"mean_SBP",4651,"Mexico City",2016,27,"Age-standardized",2,"Female",125.356673531
+70,"mean_SBP",4652,"Durango",2016,27,"Age-standardized",1,"Male",129.028184648
+70,"mean_SBP",4652,"Durango",2016,27,"Age-standardized",2,"Female",125.863085554
+70,"mean_SBP",4653,"Guanajuato",2016,27,"Age-standardized",1,"Male",129.152367065
+70,"mean_SBP",4653,"Guanajuato",2016,27,"Age-standardized",2,"Female",124.118324905
+70,"mean_SBP",4654,"Guerrero",2016,27,"Age-standardized",1,"Male",127.064692803
+70,"mean_SBP",4654,"Guerrero",2016,27,"Age-standardized",2,"Female",120.753518991
+70,"mean_SBP",4655,"Hidalgo",2016,27,"Age-standardized",1,"Male",127.952926041
+70,"mean_SBP",4655,"Hidalgo",2016,27,"Age-standardized",2,"Female",125.168111623
+70,"mean_SBP",4656,"Jalisco",2016,27,"Age-standardized",1,"Male",128.862882731
+70,"mean_SBP",4656,"Jalisco",2016,27,"Age-standardized",2,"Female",125.003438064
+70,"mean_SBP",4657,"México",2016,27,"Age-standardized",1,"Male",127.629293177
+70,"mean_SBP",4657,"México",2016,27,"Age-standardized",2,"Female",123.386105731
+70,"mean_SBP",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",1,"Male",128.462454694
+70,"mean_SBP",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",2,"Female",124.34529786
+70,"mean_SBP",4659,"Morelos",2016,27,"Age-standardized",1,"Male",127.692311095
+70,"mean_SBP",4659,"Morelos",2016,27,"Age-standardized",2,"Female",124.022605537
+70,"mean_SBP",4660,"Nayarit",2016,27,"Age-standardized",1,"Male",128.260736708
+70,"mean_SBP",4660,"Nayarit",2016,27,"Age-standardized",2,"Female",125.284574632
+70,"mean_SBP",4661,"Nuevo León",2016,27,"Age-standardized",1,"Male",129.263706866
+70,"mean_SBP",4661,"Nuevo León",2016,27,"Age-standardized",2,"Female",124.174669356
+70,"mean_SBP",4662,"Oaxaca",2016,27,"Age-standardized",1,"Male",124.566973486
+70,"mean_SBP",4662,"Oaxaca",2016,27,"Age-standardized",2,"Female",123.493800466
+70,"mean_SBP",4663,"Puebla",2016,27,"Age-standardized",1,"Male",127.11774095
+70,"mean_SBP",4663,"Puebla",2016,27,"Age-standardized",2,"Female",123.319711264
+70,"mean_SBP",4664,"Querétaro",2016,27,"Age-standardized",1,"Male",129.013267268
+70,"mean_SBP",4664,"Querétaro",2016,27,"Age-standardized",2,"Female",124.993418641
+70,"mean_SBP",4665,"Quintana Roo",2016,27,"Age-standardized",1,"Male",128.815412384
+70,"mean_SBP",4665,"Quintana Roo",2016,27,"Age-standardized",2,"Female",123.732104594
+70,"mean_SBP",4666,"San Luis Potosí",2016,27,"Age-standardized",1,"Male",128.889557634
+70,"mean_SBP",4666,"San Luis Potosí",2016,27,"Age-standardized",2,"Female",124.869407061
+70,"mean_SBP",4667,"Sinaloa",2016,27,"Age-standardized",1,"Male",130.070977912
+70,"mean_SBP",4667,"Sinaloa",2016,27,"Age-standardized",2,"Female",125.248595507
+70,"mean_SBP",4668,"Sonora",2016,27,"Age-standardized",1,"Male",131.514687952
+70,"mean_SBP",4668,"Sonora",2016,27,"Age-standardized",2,"Female",127.240309459
+70,"mean_SBP",4669,"Tabasco",2016,27,"Age-standardized",1,"Male",127.997963317
+70,"mean_SBP",4669,"Tabasco",2016,27,"Age-standardized",2,"Female",125.434209454
+70,"mean_SBP",4670,"Tamaulipas",2016,27,"Age-standardized",1,"Male",129.96739205
+70,"mean_SBP",4670,"Tamaulipas",2016,27,"Age-standardized",2,"Female",124.190696354
+70,"mean_SBP",4671,"Tlaxcala",2016,27,"Age-standardized",1,"Male",125.713185635
+70,"mean_SBP",4671,"Tlaxcala",2016,27,"Age-standardized",2,"Female",121.84130134
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",1,"Male",127.034933356
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",2,"Female",124.381574884
+70,"mean_SBP",4673,"Yucatán",2016,27,"Age-standardized",1,"Male",128.857846593
+70,"mean_SBP",4673,"Yucatán",2016,27,"Age-standardized",2,"Female",124.617068732
+70,"mean_SBP",4674,"Zacatecas",2016,27,"Age-standardized",1,"Male",129.715234696
+70,"mean_SBP",4674,"Zacatecas",2016,27,"Age-standardized",2,"Female",126.98602215
+70,"mean_SBP",130,"Mexico",2017,27,"Age-standardized",1,"Male",128.320451872
+70,"mean_SBP",130,"Mexico",2017,27,"Age-standardized",2,"Female",124.498425188
+70,"mean_SBP",4643,"Aguascalientes",2017,27,"Age-standardized",1,"Male",130.260991248
+70,"mean_SBP",4643,"Aguascalientes",2017,27,"Age-standardized",2,"Female",127.049963842
+70,"mean_SBP",4644,"Baja California",2017,27,"Age-standardized",1,"Male",131.610753957
+70,"mean_SBP",4644,"Baja California",2017,27,"Age-standardized",2,"Female",128.481842474
+70,"mean_SBP",4645,"Baja California Sur",2017,27,"Age-standardized",1,"Male",128.628773045
+70,"mean_SBP",4645,"Baja California Sur",2017,27,"Age-standardized",2,"Female",124.895966343
+70,"mean_SBP",4646,"Campeche",2017,27,"Age-standardized",1,"Male",127.122039755
+70,"mean_SBP",4646,"Campeche",2017,27,"Age-standardized",2,"Female",124.209971505
+70,"mean_SBP",4647,"Coahuila",2017,27,"Age-standardized",1,"Male",129.103606308
+70,"mean_SBP",4647,"Coahuila",2017,27,"Age-standardized",2,"Female",124.686232266
+70,"mean_SBP",4648,"Colima",2017,27,"Age-standardized",1,"Male",128.82966757
+70,"mean_SBP",4648,"Colima",2017,27,"Age-standardized",2,"Female",125.437510826
+70,"mean_SBP",4649,"Chiapas",2017,27,"Age-standardized",1,"Male",123.983385394
+70,"mean_SBP",4649,"Chiapas",2017,27,"Age-standardized",2,"Female",124.417350997
+70,"mean_SBP",4650,"Chihuahua",2017,27,"Age-standardized",1,"Male",128.384890202
+70,"mean_SBP",4650,"Chihuahua",2017,27,"Age-standardized",2,"Female",124.830267425
+70,"mean_SBP",4651,"Mexico City",2017,27,"Age-standardized",1,"Male",129.606127771
+70,"mean_SBP",4651,"Mexico City",2017,27,"Age-standardized",2,"Female",125.356673531
+70,"mean_SBP",4652,"Durango",2017,27,"Age-standardized",1,"Male",129.028184648
+70,"mean_SBP",4652,"Durango",2017,27,"Age-standardized",2,"Female",125.863085554
+70,"mean_SBP",4653,"Guanajuato",2017,27,"Age-standardized",1,"Male",129.152367065
+70,"mean_SBP",4653,"Guanajuato",2017,27,"Age-standardized",2,"Female",124.118324905
+70,"mean_SBP",4654,"Guerrero",2017,27,"Age-standardized",1,"Male",127.064692803
+70,"mean_SBP",4654,"Guerrero",2017,27,"Age-standardized",2,"Female",120.753518991
+70,"mean_SBP",4655,"Hidalgo",2017,27,"Age-standardized",1,"Male",127.952926041
+70,"mean_SBP",4655,"Hidalgo",2017,27,"Age-standardized",2,"Female",125.168111623
+70,"mean_SBP",4656,"Jalisco",2017,27,"Age-standardized",1,"Male",128.862882731
+70,"mean_SBP",4656,"Jalisco",2017,27,"Age-standardized",2,"Female",125.003438064
+70,"mean_SBP",4657,"México",2017,27,"Age-standardized",1,"Male",127.629293177
+70,"mean_SBP",4657,"México",2017,27,"Age-standardized",2,"Female",123.386105731
+70,"mean_SBP",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",1,"Male",128.462454694
+70,"mean_SBP",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",2,"Female",124.34529786
+70,"mean_SBP",4659,"Morelos",2017,27,"Age-standardized",1,"Male",127.692311095
+70,"mean_SBP",4659,"Morelos",2017,27,"Age-standardized",2,"Female",124.022605537
+70,"mean_SBP",4660,"Nayarit",2017,27,"Age-standardized",1,"Male",128.260736708
+70,"mean_SBP",4660,"Nayarit",2017,27,"Age-standardized",2,"Female",125.284574632
+70,"mean_SBP",4661,"Nuevo León",2017,27,"Age-standardized",1,"Male",129.263706866
+70,"mean_SBP",4661,"Nuevo León",2017,27,"Age-standardized",2,"Female",124.174669356
+70,"mean_SBP",4662,"Oaxaca",2017,27,"Age-standardized",1,"Male",124.566973486
+70,"mean_SBP",4662,"Oaxaca",2017,27,"Age-standardized",2,"Female",123.493800466
+70,"mean_SBP",4663,"Puebla",2017,27,"Age-standardized",1,"Male",127.11774095
+70,"mean_SBP",4663,"Puebla",2017,27,"Age-standardized",2,"Female",123.319711264
+70,"mean_SBP",4664,"Querétaro",2017,27,"Age-standardized",1,"Male",129.013267268
+70,"mean_SBP",4664,"Querétaro",2017,27,"Age-standardized",2,"Female",124.993418641
+70,"mean_SBP",4665,"Quintana Roo",2017,27,"Age-standardized",1,"Male",128.815412384
+70,"mean_SBP",4665,"Quintana Roo",2017,27,"Age-standardized",2,"Female",123.732104594
+70,"mean_SBP",4666,"San Luis Potosí",2017,27,"Age-standardized",1,"Male",128.889557634
+70,"mean_SBP",4666,"San Luis Potosí",2017,27,"Age-standardized",2,"Female",124.869407061
+70,"mean_SBP",4667,"Sinaloa",2017,27,"Age-standardized",1,"Male",130.070977912
+70,"mean_SBP",4667,"Sinaloa",2017,27,"Age-standardized",2,"Female",125.248595507
+70,"mean_SBP",4668,"Sonora",2017,27,"Age-standardized",1,"Male",131.514687952
+70,"mean_SBP",4668,"Sonora",2017,27,"Age-standardized",2,"Female",127.240309459
+70,"mean_SBP",4669,"Tabasco",2017,27,"Age-standardized",1,"Male",127.997963317
+70,"mean_SBP",4669,"Tabasco",2017,27,"Age-standardized",2,"Female",125.434209454
+70,"mean_SBP",4670,"Tamaulipas",2017,27,"Age-standardized",1,"Male",129.96739205
+70,"mean_SBP",4670,"Tamaulipas",2017,27,"Age-standardized",2,"Female",124.190696354
+70,"mean_SBP",4671,"Tlaxcala",2017,27,"Age-standardized",1,"Male",125.713185635
+70,"mean_SBP",4671,"Tlaxcala",2017,27,"Age-standardized",2,"Female",121.84130134
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",1,"Male",127.034933356
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",2,"Female",124.381574884
+70,"mean_SBP",4673,"Yucatán",2017,27,"Age-standardized",1,"Male",128.857846593
+70,"mean_SBP",4673,"Yucatán",2017,27,"Age-standardized",2,"Female",124.617068732
+70,"mean_SBP",4674,"Zacatecas",2017,27,"Age-standardized",1,"Male",129.715234696
+70,"mean_SBP",4674,"Zacatecas",2017,27,"Age-standardized",2,"Female",126.98602215
+70,"mean_SBP",130,"Mexico",2018,27,"Age-standardized",1,"Male",128.344789771399
+70,"mean_SBP",130,"Mexico",2018,27,"Age-standardized",2,"Female",124.485573673089
+70,"mean_SBP",4643,"Aguascalientes",2018,27,"Age-standardized",1,"Male",130.284232479772
+70,"mean_SBP",4643,"Aguascalientes",2018,27,"Age-standardized",2,"Female",127.037626365623
+70,"mean_SBP",4644,"Baja California",2018,27,"Age-standardized",1,"Male",131.627771062038
+70,"mean_SBP",4644,"Baja California",2018,27,"Age-standardized",2,"Female",128.472800577025
+70,"mean_SBP",4645,"Baja California Sur",2018,27,"Age-standardized",1,"Male",128.648080475237
+70,"mean_SBP",4645,"Baja California Sur",2018,27,"Age-standardized",2,"Female",124.885762793391
+70,"mean_SBP",4646,"Campeche",2018,27,"Age-standardized",1,"Male",127.150189897088
+70,"mean_SBP",4646,"Campeche",2018,27,"Age-standardized",2,"Female",124.195001953058
+70,"mean_SBP",4647,"Coahuila",2018,27,"Age-standardized",1,"Male",129.12648243781
+70,"mean_SBP",4647,"Coahuila",2018,27,"Age-standardized",2,"Female",124.674207680423
+70,"mean_SBP",4648,"Colima",2018,27,"Age-standardized",1,"Male",128.853180629258
+70,"mean_SBP",4648,"Colima",2018,27,"Age-standardized",2,"Female",125.425050588142
+70,"mean_SBP",4649,"Chiapas",2018,27,"Age-standardized",1,"Male",124.013360030488
+70,"mean_SBP",4649,"Chiapas",2018,27,"Age-standardized",2,"Female",124.400980676872
+70,"mean_SBP",4650,"Chihuahua",2018,27,"Age-standardized",1,"Male",128.407752367833
+70,"mean_SBP",4650,"Chihuahua",2018,27,"Age-standardized",2,"Female",124.818168953698
+70,"mean_SBP",4651,"Mexico City",2018,27,"Age-standardized",1,"Male",129.625393614786
+70,"mean_SBP",4651,"Mexico City",2018,27,"Age-standardized",2,"Female",125.346531452542
+70,"mean_SBP",4652,"Durango",2018,27,"Age-standardized",1,"Male",129.056342052183
+70,"mean_SBP",4652,"Durango",2018,27,"Age-standardized",2,"Female",125.848136969144
+70,"mean_SBP",4653,"Guanajuato",2018,27,"Age-standardized",1,"Male",129.179408633939
+70,"mean_SBP",4653,"Guanajuato",2018,27,"Age-standardized",2,"Female",124.104181236557
+70,"mean_SBP",4654,"Guerrero",2018,27,"Age-standardized",1,"Male",127.092851772204
+70,"mean_SBP",4654,"Guerrero",2018,27,"Age-standardized",2,"Female",120.738954872567
+70,"mean_SBP",4655,"Hidalgo",2018,27,"Age-standardized",1,"Male",127.977595043587
+70,"mean_SBP",4655,"Hidalgo",2018,27,"Age-standardized",2,"Female",125.154977615082
+70,"mean_SBP",4656,"Jalisco",2018,27,"Age-standardized",1,"Male",128.887576139947
+70,"mean_SBP",4656,"Jalisco",2018,27,"Age-standardized",2,"Female",124.990401061103
+70,"mean_SBP",4657,"México",2018,27,"Age-standardized",1,"Male",127.653518181038
+70,"mean_SBP",4657,"México",2018,27,"Age-standardized",2,"Female",123.373359465548
+70,"mean_SBP",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",1,"Male",128.491151999537
+70,"mean_SBP",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",2,"Female",124.330180142702
+70,"mean_SBP",4659,"Morelos",2018,27,"Age-standardized",1,"Male",127.715050435794
+70,"mean_SBP",4659,"Morelos",2018,27,"Age-standardized",2,"Female",124.01058507627
+70,"mean_SBP",4660,"Nayarit",2018,27,"Age-standardized",1,"Male",128.289563314145
+70,"mean_SBP",4660,"Nayarit",2018,27,"Age-standardized",2,"Female",125.269250041479
+70,"mean_SBP",4661,"Nuevo León",2018,27,"Age-standardized",1,"Male",129.280851045503
+70,"mean_SBP",4661,"Nuevo León",2018,27,"Age-standardized",2,"Female",124.165705487214
+70,"mean_SBP",4662,"Oaxaca",2018,27,"Age-standardized",1,"Male",124.59666435922
+70,"mean_SBP",4662,"Oaxaca",2018,27,"Age-standardized",2,"Female",123.477780848404
+70,"mean_SBP",4663,"Puebla",2018,27,"Age-standardized",1,"Male",127.142324385136
+70,"mean_SBP",4663,"Puebla",2018,27,"Age-standardized",2,"Female",123.306731377132
+70,"mean_SBP",4664,"Querétaro",2018,27,"Age-standardized",1,"Male",129.031650149238
+70,"mean_SBP",4664,"Querétaro",2018,27,"Age-standardized",2,"Female",124.983725033579
+70,"mean_SBP",4665,"Quintana Roo",2018,27,"Age-standardized",1,"Male",128.832418160412
+70,"mean_SBP",4665,"Quintana Roo",2018,27,"Age-standardized",2,"Female",123.723213941798
+70,"mean_SBP",4666,"San Luis Potosí",2018,27,"Age-standardized",1,"Male",128.916865127853
+70,"mean_SBP",4666,"San Luis Potosí",2018,27,"Age-standardized",2,"Female",124.855008603396
+70,"mean_SBP",4667,"Sinaloa",2018,27,"Age-standardized",1,"Male",130.095406738462
+70,"mean_SBP",4667,"Sinaloa",2018,27,"Age-standardized",2,"Female",125.235792884496
+70,"mean_SBP",4668,"Sonora",2018,27,"Age-standardized",1,"Male",131.535999077788
+70,"mean_SBP",4668,"Sonora",2018,27,"Age-standardized",2,"Female",127.229087482194
+70,"mean_SBP",4669,"Tabasco",2018,27,"Age-standardized",1,"Male",128.026103383178
+70,"mean_SBP",4669,"Tabasco",2018,27,"Age-standardized",2,"Female",125.419201164874
+70,"mean_SBP",4670,"Tamaulipas",2018,27,"Age-standardized",1,"Male",129.988811965367
+70,"mean_SBP",4670,"Tamaulipas",2018,27,"Age-standardized",2,"Female",124.179556384615
+70,"mean_SBP",4671,"Tlaxcala",2018,27,"Age-standardized",1,"Male",125.732228118225
+70,"mean_SBP",4671,"Tlaxcala",2018,27,"Age-standardized",2,"Female",121.831256261415
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",1,"Male",127.06351947798
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",2,"Female",124.366342091395
+70,"mean_SBP",4673,"Yucatán",2018,27,"Age-standardized",1,"Male",128.884460448378
+70,"mean_SBP",4673,"Yucatán",2018,27,"Age-standardized",2,"Female",124.6030608636
+70,"mean_SBP",4674,"Zacatecas",2018,27,"Age-standardized",1,"Male",129.748651210458
+70,"mean_SBP",4674,"Zacatecas",2018,27,"Age-standardized",2,"Female",126.968218602201
+70,"mean_SBP",130,"Mexico",2019,27,"Age-standardized",1,"Male",128.367370576988
+70,"mean_SBP",130,"Mexico",2019,27,"Age-standardized",2,"Female",124.473653348775
+70,"mean_SBP",4643,"Aguascalientes",2019,27,"Age-standardized",1,"Male",130.3063401826
+70,"mean_SBP",4643,"Aguascalientes",2019,27,"Age-standardized",2,"Female",127.025893770522
+70,"mean_SBP",4644,"Baja California",2019,27,"Age-standardized",1,"Male",131.644212476095
+70,"mean_SBP",4644,"Baja California",2019,27,"Age-standardized",2,"Female",128.464066283175
+70,"mean_SBP",4645,"Baja California Sur",2019,27,"Age-standardized",1,"Male",128.666661716206
+70,"mean_SBP",4645,"Baja California Sur",2019,27,"Age-standardized",2,"Female",124.87594525165
+70,"mean_SBP",4646,"Campeche",2019,27,"Age-standardized",1,"Male",127.175901660209
+70,"mean_SBP",4646,"Campeche",2019,27,"Age-standardized",2,"Female",124.181333542635
+70,"mean_SBP",4647,"Coahuila",2019,27,"Age-standardized",1,"Male",129.148235893418
+70,"mean_SBP",4647,"Coahuila",2019,27,"Age-standardized",2,"Female",124.662776267428
+70,"mean_SBP",4648,"Colima",2019,27,"Age-standardized",1,"Male",128.874978023977
+70,"mean_SBP",4648,"Colima",2019,27,"Age-standardized",2,"Female",125.41350266568
+70,"mean_SBP",4649,"Chiapas",2019,27,"Age-standardized",1,"Male",124.039662180434
+70,"mean_SBP",4649,"Chiapas",2019,27,"Age-standardized",2,"Female",124.386621077785
+70,"mean_SBP",4650,"Chihuahua",2019,27,"Age-standardized",1,"Male",128.428557971032
+70,"mean_SBP",4650,"Chihuahua",2019,27,"Age-standardized",2,"Female",124.807161689354
+70,"mean_SBP",4651,"Mexico City",2019,27,"Age-standardized",1,"Male",129.644428223642
+70,"mean_SBP",4651,"Mexico City",2019,27,"Age-standardized",2,"Female",125.336513388522
+70,"mean_SBP",4652,"Durango",2019,27,"Age-standardized",1,"Male",129.081744784202
+70,"mean_SBP",4652,"Durango",2019,27,"Age-standardized",2,"Female",125.834655143153
+70,"mean_SBP",4653,"Guanajuato",2019,27,"Age-standardized",1,"Male",129.20467886601
+70,"mean_SBP",4653,"Guanajuato",2019,27,"Age-standardized",2,"Female",124.090968170382
+70,"mean_SBP",4654,"Guerrero",2019,27,"Age-standardized",1,"Male",127.117910973099
+70,"mean_SBP",4654,"Guerrero",2019,27,"Age-standardized",2,"Female",120.725998177336
+70,"mean_SBP",4655,"Hidalgo",2019,27,"Age-standardized",1,"Male",128.000520436965
+70,"mean_SBP",4655,"Hidalgo",2019,27,"Age-standardized",2,"Female",125.142775425613
+70,"mean_SBP",4656,"Jalisco",2019,27,"Age-standardized",1,"Male",128.910528206137
+70,"mean_SBP",4656,"Jalisco",2019,27,"Age-standardized",2,"Female",124.97828686686
+70,"mean_SBP",4657,"México",2019,27,"Age-standardized",1,"Male",127.675661541557
+70,"mean_SBP",4657,"México",2019,27,"Age-standardized",2,"Female",123.361711748283
+70,"mean_SBP",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",1,"Male",128.517382137163
+70,"mean_SBP",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",2,"Female",124.316366687889
+70,"mean_SBP",4659,"Morelos",2019,27,"Age-standardized",1,"Male",127.736741719493
+70,"mean_SBP",4659,"Morelos",2019,27,"Age-standardized",2,"Female",123.999121718848
+70,"mean_SBP",4660,"Nayarit",2019,27,"Age-standardized",1,"Male",128.316040613318
+70,"mean_SBP",4660,"Nayarit",2019,27,"Age-standardized",2,"Female",125.255179057073
+70,"mean_SBP",4661,"Nuevo León",2019,27,"Age-standardized",1,"Male",129.29782628108
+70,"mean_SBP",4661,"Nuevo León",2019,27,"Age-standardized",2,"Female",124.156831759648
+70,"mean_SBP",4662,"Oaxaca",2019,27,"Age-standardized",1,"Male",124.623545256006
+70,"mean_SBP",4662,"Oaxaca",2019,27,"Age-standardized",2,"Female",123.463282428797
+70,"mean_SBP",4663,"Puebla",2019,27,"Age-standardized",1,"Male",127.165354674151
+70,"mean_SBP",4663,"Puebla",2019,27,"Age-standardized",2,"Female",123.294575056648
+70,"mean_SBP",4664,"Querétaro",2019,27,"Age-standardized",1,"Male",129.05016673922
+70,"mean_SBP",4664,"Querétaro",2019,27,"Age-standardized",2,"Female",124.973963075112
+70,"mean_SBP",4665,"Quintana Roo",2019,27,"Age-standardized",1,"Male",128.849286255898
+70,"mean_SBP",4665,"Quintana Roo",2019,27,"Age-standardized",2,"Female",123.714397059683
+70,"mean_SBP",4666,"San Luis Potosí",2019,27,"Age-standardized",1,"Male",128.941988671632
+70,"mean_SBP",4666,"San Luis Potosí",2019,27,"Age-standardized",2,"Female",124.841765839469
+70,"mean_SBP",4667,"Sinaloa",2019,27,"Age-standardized",1,"Male",130.11849868302
+70,"mean_SBP",4667,"Sinaloa",2019,27,"Age-standardized",2,"Female",125.223694306001
+70,"mean_SBP",4668,"Sonora",2019,27,"Age-standardized",1,"Male",131.556364767171
+70,"mean_SBP",4668,"Sonora",2019,27,"Age-standardized",2,"Female",127.218365975146
+70,"mean_SBP",4669,"Tabasco",2019,27,"Age-standardized",1,"Male",128.05204553339
+70,"mean_SBP",4669,"Tabasco",2019,27,"Age-standardized",2,"Female",125.405369629872
+70,"mean_SBP",4670,"Tamaulipas",2019,27,"Age-standardized",1,"Male",130.009508711329
+70,"mean_SBP",4670,"Tamaulipas",2019,27,"Age-standardized",2,"Female",124.168795210409
+70,"mean_SBP",4671,"Tlaxcala",2019,27,"Age-standardized",1,"Male",125.751469727177
+70,"mean_SBP",4671,"Tlaxcala",2019,27,"Age-standardized",2,"Female",121.821108528425
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",1,"Male",127.089511579452
+70,"mean_SBP",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",2,"Female",124.352496177219
+70,"mean_SBP",4673,"Yucatán",2019,27,"Age-standardized",1,"Male",128.909776358949
+70,"mean_SBP",4673,"Yucatán",2019,27,"Age-standardized",2,"Female",124.589740297095
+70,"mean_SBP",4674,"Zacatecas",2019,27,"Age-standardized",1,"Male",129.778561849886
+70,"mean_SBP",4674,"Zacatecas",2019,27,"Age-standardized",2,"Female",126.952288908448

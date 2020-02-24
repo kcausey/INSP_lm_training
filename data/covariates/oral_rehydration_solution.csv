@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+1102,"ors",130,"Mexico",1990,22,"All Ages",3,"Both",0.0560597472173303
+1102,"ors",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",0.0616419070032153
+1102,"ors",4644,"Baja California",1990,22,"All Ages",3,"Both",0.0633585914569856
+1102,"ors",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",0.0667131588921753
+1102,"ors",4646,"Campeche",1990,22,"All Ages",3,"Both",0.047518245437363
+1102,"ors",4647,"Coahuila",1990,22,"All Ages",3,"Both",0.0570758746471143
+1102,"ors",4648,"Colima",1990,22,"All Ages",3,"Both",0.0583776012373285
+1102,"ors",4649,"Chiapas",1990,22,"All Ages",3,"Both",0.0614986301759747
+1102,"ors",4650,"Chihuahua",1990,22,"All Ages",3,"Both",0.0398113920142789
+1102,"ors",4651,"Mexico City",1990,22,"All Ages",3,"Both",0.0652344505204971
+1102,"ors",4652,"Durango",1990,22,"All Ages",3,"Both",0.0577422923371088
+1102,"ors",4653,"Guanajuato",1990,22,"All Ages",3,"Both",0.052034357789868
+1102,"ors",4654,"Guerrero",1990,22,"All Ages",3,"Both",0.0454208357210194
+1102,"ors",4655,"Hidalgo",1990,22,"All Ages",3,"Both",0.06414057978016
+1102,"ors",4656,"Jalisco",1990,22,"All Ages",3,"Both",0.0587134310285192
+1102,"ors",4657,"México",1990,22,"All Ages",3,"Both",0.0562485972031872
+1102,"ors",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",0.0498222624119499
+1102,"ors",4659,"Morelos",1990,22,"All Ages",3,"Both",0.0446387304122117
+1102,"ors",4660,"Nayarit",1990,22,"All Ages",3,"Both",0.0639191090779711
+1102,"ors",4661,"Nuevo León",1990,22,"All Ages",3,"Both",0.0706411982979142
+1102,"ors",4662,"Oaxaca",1990,22,"All Ages",3,"Both",0.0397280818636946
+1102,"ors",4663,"Puebla",1990,22,"All Ages",3,"Both",0.0459016565649267
+1102,"ors",4664,"Querétaro",1990,22,"All Ages",3,"Both",0.0588070690416459
+1102,"ors",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",0.0566979657106443
+1102,"ors",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",0.0574970249561527
+1102,"ors",4667,"Sinaloa",1990,22,"All Ages",3,"Both",0.068764443562765
+1102,"ors",4668,"Sonora",1990,22,"All Ages",3,"Both",0.0662096112890242
+1102,"ors",4669,"Tabasco",1990,22,"All Ages",3,"Both",0.0550527285842002
+1102,"ors",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",0.0557909767758085
+1102,"ors",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",0.0522578043925445
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",0.0480332280341996
+1102,"ors",4673,"Yucatán",1990,22,"All Ages",3,"Both",0.0636895146525639
+1102,"ors",4674,"Zacatecas",1990,22,"All Ages",3,"Both",0.0606615996818192
+1102,"ors",130,"Mexico",1991,22,"All Ages",3,"Both",0.0586591658562522
+1102,"ors",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",0.0640749841964773
+1102,"ors",4644,"Baja California",1991,22,"All Ages",3,"Both",0.0659830764339671
+1102,"ors",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",0.0690541792185833
+1102,"ors",4646,"Campeche",1991,22,"All Ages",3,"Both",0.0506841446630894
+1102,"ors",4647,"Coahuila",1991,22,"All Ages",3,"Both",0.0604307254970106
+1102,"ors",4648,"Colima",1991,22,"All Ages",3,"Both",0.0622005288692855
+1102,"ors",4649,"Chiapas",1991,22,"All Ages",3,"Both",0.0639186097058004
+1102,"ors",4650,"Chihuahua",1991,22,"All Ages",3,"Both",0.0420993550314031
+1102,"ors",4651,"Mexico City",1991,22,"All Ages",3,"Both",0.0675854257457113
+1102,"ors",4652,"Durango",1991,22,"All Ages",3,"Both",0.0606590239823202
+1102,"ors",4653,"Guanajuato",1991,22,"All Ages",3,"Both",0.0549611609254556
+1102,"ors",4654,"Guerrero",1991,22,"All Ages",3,"Both",0.0471648527829689
+1102,"ors",4655,"Hidalgo",1991,22,"All Ages",3,"Both",0.0668978016439844
+1102,"ors",4656,"Jalisco",1991,22,"All Ages",3,"Both",0.0614938598603719
+1102,"ors",4657,"México",1991,22,"All Ages",3,"Both",0.0578164978980285
+1102,"ors",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",0.0530011730415797
+1102,"ors",4659,"Morelos",1991,22,"All Ages",3,"Both",0.0478487894308882
+1102,"ors",4660,"Nayarit",1991,22,"All Ages",3,"Both",0.0664952587613089
+1102,"ors",4661,"Nuevo León",1991,22,"All Ages",3,"Both",0.0723578157712304
+1102,"ors",4662,"Oaxaca",1991,22,"All Ages",3,"Both",0.0432061552100862
+1102,"ors",4663,"Puebla",1991,22,"All Ages",3,"Both",0.0493225786679301
+1102,"ors",4664,"Querétaro",1991,22,"All Ages",3,"Both",0.0618257058620831
+1102,"ors",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",0.0598194225656511
+1102,"ors",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",0.0601004057191118
+1102,"ors",4667,"Sinaloa",1991,22,"All Ages",3,"Both",0.0707108816649141
+1102,"ors",4668,"Sonora",1991,22,"All Ages",3,"Both",0.0686248842572275
+1102,"ors",4669,"Tabasco",1991,22,"All Ages",3,"Both",0.0582941539748198
+1102,"ors",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",0.059247989411909
+1102,"ors",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",0.0549346370265887
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",0.051191625970506
+1102,"ors",4673,"Yucatán",1991,22,"All Ages",3,"Both",0.0663113406143724
+1102,"ors",4674,"Zacatecas",1991,22,"All Ages",3,"Both",0.0634227125904019
+1102,"ors",130,"Mexico",1992,22,"All Ages",3,"Both",0.061792502390262
+1102,"ors",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",0.0669129524307307
+1102,"ors",4644,"Baja California",1992,22,"All Ages",3,"Both",0.069122738466448
+1102,"ors",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",0.0715916644404136
+1102,"ors",4646,"Campeche",1992,22,"All Ages",3,"Both",0.0546180947408911
+1102,"ors",4647,"Coahuila",1992,22,"All Ages",3,"Both",0.0643272136234786
+1102,"ors",4648,"Colima",1992,22,"All Ages",3,"Both",0.066178224213932
+1102,"ors",4649,"Chiapas",1992,22,"All Ages",3,"Both",0.0669282600420936
+1102,"ors",4650,"Chihuahua",1992,22,"All Ages",3,"Both",0.045321077920317
+1102,"ors",4651,"Mexico City",1992,22,"All Ages",3,"Both",0.0699504743941913
+1102,"ors",4652,"Durango",1992,22,"All Ages",3,"Both",0.0641655007102061
+1102,"ors",4653,"Guanajuato",1992,22,"All Ages",3,"Both",0.058100999495938
+1102,"ors",4654,"Guerrero",1992,22,"All Ages",3,"Both",0.0493844931728263
+1102,"ors",4655,"Hidalgo",1992,22,"All Ages",3,"Both",0.0699878626476104
+1102,"ors",4656,"Jalisco",1992,22,"All Ages",3,"Both",0.0646976940709798
+1102,"ors",4657,"México",1992,22,"All Ages",3,"Both",0.060638870938581
+1102,"ors",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",0.0568313242457806
+1102,"ors",4659,"Morelos",1992,22,"All Ages",3,"Both",0.0518520383564558
+1102,"ors",4660,"Nayarit",1992,22,"All Ages",3,"Both",0.0694192362779772
+1102,"ors",4661,"Nuevo León",1992,22,"All Ages",3,"Both",0.0743212525932449
+1102,"ors",4662,"Oaxaca",1992,22,"All Ages",3,"Both",0.0472464725457865
+1102,"ors",4663,"Puebla",1992,22,"All Ages",3,"Both",0.0533487730142682
+1102,"ors",4664,"Querétaro",1992,22,"All Ages",3,"Both",0.0651617225012751
+1102,"ors",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",0.0633404964610944
+1102,"ors",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",0.0632077169673652
+1102,"ors",4667,"Sinaloa",1992,22,"All Ages",3,"Both",0.0728717736882961
+1102,"ors",4668,"Sonora",1992,22,"All Ages",3,"Both",0.071403149707718
+1102,"ors",4669,"Tabasco",1992,22,"All Ages",3,"Both",0.0614030845532424
+1102,"ors",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",0.0632796189944994
+1102,"ors",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",0.0580842550229979
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",0.0551176249278508
+1102,"ors",4673,"Yucatán",1992,22,"All Ages",3,"Both",0.0692708909678052
+1102,"ors",4674,"Zacatecas",1992,22,"All Ages",3,"Both",0.0664302582444192
+1102,"ors",130,"Mexico",1993,22,"All Ages",3,"Both",0.06550293651631
+1102,"ors",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",0.0700146424555292
+1102,"ors",4644,"Baja California",1993,22,"All Ages",3,"Both",0.0724678330130583
+1102,"ors",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",0.0741620228108777
+1102,"ors",4646,"Campeche",1993,22,"All Ages",3,"Both",0.0589994774786625
+1102,"ors",4647,"Coahuila",1993,22,"All Ages",3,"Both",0.0683290332092068
+1102,"ors",4648,"Colima",1993,22,"All Ages",3,"Both",0.0699884463770712
+1102,"ors",4649,"Chiapas",1993,22,"All Ages",3,"Both",0.0703713590521845
+1102,"ors",4650,"Chihuahua",1993,22,"All Ages",3,"Both",0.049319992312836
+1102,"ors",4651,"Mexico City",1993,22,"All Ages",3,"Both",0.0726870777860199
+1102,"ors",4652,"Durango",1993,22,"All Ages",3,"Both",0.0678293097798643
+1102,"ors",4653,"Guanajuato",1993,22,"All Ages",3,"Both",0.0615992882475368
+1102,"ors",4654,"Guerrero",1993,22,"All Ages",3,"Both",0.0523567193698742
+1102,"ors",4655,"Hidalgo",1993,22,"All Ages",3,"Both",0.0730295447284142
+1102,"ors",4656,"Jalisco",1993,22,"All Ages",3,"Both",0.0683557112366576
+1102,"ors",4657,"México",1993,22,"All Ages",3,"Both",0.0657156756768738
+1102,"ors",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",0.0610790277427747
+1102,"ors",4659,"Morelos",1993,22,"All Ages",3,"Both",0.0563205524792742
+1102,"ors",4660,"Nayarit",1993,22,"All Ages",3,"Both",0.0724318874124672
+1102,"ors",4661,"Nuevo León",1993,22,"All Ages",3,"Both",0.0764327972461536
+1102,"ors",4662,"Oaxaca",1993,22,"All Ages",3,"Both",0.0514610496858675
+1102,"ors",4663,"Puebla",1993,22,"All Ages",3,"Both",0.0579267036326153
+1102,"ors",4664,"Querétaro",1993,22,"All Ages",3,"Both",0.0689179904398264
+1102,"ors",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",0.0669345176562648
+1102,"ors",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",0.0669111016936324
+1102,"ors",4667,"Sinaloa",1993,22,"All Ages",3,"Both",0.075120019120543
+1102,"ors",4668,"Sonora",1993,22,"All Ages",3,"Both",0.0742176324661711
+1102,"ors",4669,"Tabasco",1993,22,"All Ages",3,"Both",0.0644216701118696
+1102,"ors",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",0.0673322653902735
+1102,"ors",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",0.0619531529876481
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",0.0594614905870988
+1102,"ors",4673,"Yucatán",1993,22,"All Ages",3,"Both",0.072392796021652
+1102,"ors",4674,"Zacatecas",1993,22,"All Ages",3,"Both",0.0694643824445776
+1102,"ors",130,"Mexico",1994,22,"All Ages",3,"Both",0.0689981239571076
+1102,"ors",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",0.0729416357097002
+1102,"ors",4644,"Baja California",1994,22,"All Ages",3,"Both",0.0754753248059145
+1102,"ors",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",0.0765058297463694
+1102,"ors",4646,"Campeche",1994,22,"All Ages",3,"Both",0.0629533208269879
+1102,"ors",4647,"Coahuila",1994,22,"All Ages",3,"Both",0.0716703135608314
+1102,"ors",4648,"Colima",1994,22,"All Ages",3,"Both",0.0732073979622461
+1102,"ors",4649,"Chiapas",1994,22,"All Ages",3,"Both",0.0734051693701527
+1102,"ors",4650,"Chihuahua",1994,22,"All Ages",3,"Both",0.0529985875212858
+1102,"ors",4651,"Mexico City",1994,22,"All Ages",3,"Both",0.0756043562746827
+1102,"ors",4652,"Durango",1994,22,"All Ages",3,"Both",0.0709838421098233
+1102,"ors",4653,"Guanajuato",1994,22,"All Ages",3,"Both",0.0651539885643964
+1102,"ors",4654,"Guerrero",1994,22,"All Ages",3,"Both",0.0551925292401026
+1102,"ors",4655,"Hidalgo",1994,22,"All Ages",3,"Both",0.0757783804391908
+1102,"ors",4656,"Jalisco",1994,22,"All Ages",3,"Both",0.0719604045066939
+1102,"ors",4657,"México",1994,22,"All Ages",3,"Both",0.0706748161304352
+1102,"ors",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",0.0647329621487748
+1102,"ors",4659,"Morelos",1994,22,"All Ages",3,"Both",0.0602701645661681
+1102,"ors",4660,"Nayarit",1994,22,"All Ages",3,"Both",0.0750103807127747
+1102,"ors",4661,"Nuevo León",1994,22,"All Ages",3,"Both",0.0784936802354944
+1102,"ors",4662,"Oaxaca",1994,22,"All Ages",3,"Both",0.0550944182716001
+1102,"ors",4663,"Puebla",1994,22,"All Ages",3,"Both",0.0624540382842696
+1102,"ors",4664,"Querétaro",1994,22,"All Ages",3,"Both",0.0726118384622463
+1102,"ors",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",0.0701217251734382
+1102,"ors",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",0.0702165248176888
+1102,"ors",4667,"Sinaloa",1994,22,"All Ages",3,"Both",0.0772447059127718
+1102,"ors",4668,"Sonora",1994,22,"All Ages",3,"Both",0.0767371228406758
+1102,"ors",4669,"Tabasco",1994,22,"All Ages",3,"Both",0.0676567758433123
+1102,"ors",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",0.0707194049115174
+1102,"ors",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",0.0658781417918548
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",0.0632993452563863
+1102,"ors",4673,"Yucatán",1994,22,"All Ages",3,"Both",0.0752781310968414
+1102,"ors",4674,"Zacatecas",1994,22,"All Ages",3,"Both",0.0722019233591334
+1102,"ors",130,"Mexico",1995,22,"All Ages",3,"Both",0.0717464308453913
+1102,"ors",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",0.0754398087353724
+1102,"ors",4644,"Baja California",1995,22,"All Ages",3,"Both",0.0779161117265081
+1102,"ors",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",0.0785148036992623
+1102,"ors",4646,"Campeche",1995,22,"All Ages",3,"Both",0.0660302177924011
+1102,"ors",4647,"Coahuila",1995,22,"All Ages",3,"Both",0.0742234470154939
+1102,"ors",4648,"Colima",1995,22,"All Ages",3,"Both",0.0757187271071903
+1102,"ors",4649,"Chiapas",1995,22,"All Ages",3,"Both",0.0759566079329422
+1102,"ors",4650,"Chihuahua",1995,22,"All Ages",3,"Both",0.0553847612106774
+1102,"ors",4651,"Mexico City",1995,22,"All Ages",3,"Both",0.0782106771381906
+1102,"ors",4652,"Durango",1995,22,"All Ages",3,"Both",0.0734393181344661
+1102,"ors",4653,"Guanajuato",1995,22,"All Ages",3,"Both",0.0682320787275959
+1102,"ors",4654,"Guerrero",1995,22,"All Ages",3,"Both",0.0574681155737503
+1102,"ors",4655,"Hidalgo",1995,22,"All Ages",3,"Both",0.0781136588692596
+1102,"ors",4656,"Jalisco",1995,22,"All Ages",3,"Both",0.0750371897501347
+1102,"ors",4657,"México",1995,22,"All Ages",3,"Both",0.0739160705973695
+1102,"ors",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",0.06759869220321
+1102,"ors",4659,"Morelos",1995,22,"All Ages",3,"Both",0.0632417033002303
+1102,"ors",4660,"Nayarit",1995,22,"All Ages",3,"Both",0.0771238295941239
+1102,"ors",4661,"Nuevo León",1995,22,"All Ages",3,"Both",0.0803945645525667
+1102,"ors",4662,"Oaxaca",1995,22,"All Ages",3,"Both",0.0578983264656034
+1102,"ors",4663,"Puebla",1995,22,"All Ages",3,"Both",0.0658335371476269
+1102,"ors",4664,"Querétaro",1995,22,"All Ages",3,"Both",0.0757946867584656
+1102,"ors",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",0.0726981600773702
+1102,"ors",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",0.072891742522957
+1102,"ors",4667,"Sinaloa",1995,22,"All Ages",3,"Both",0.0791752918439808
+1102,"ors",4668,"Sonora",1995,22,"All Ages",3,"Both",0.078872387916913
+1102,"ors",4669,"Tabasco",1995,22,"All Ages",3,"Both",0.0710493226223474
+1102,"ors",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",0.0732194956225191
+1102,"ors",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",0.0690687273633727
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",0.0662026710925759
+1102,"ors",4673,"Yucatán",1995,22,"All Ages",3,"Both",0.0777446609282184
+1102,"ors",4674,"Zacatecas",1995,22,"All Ages",3,"Both",0.0744959118923188
+1102,"ors",130,"Mexico",1996,22,"All Ages",3,"Both",0.0737800057638694
+1102,"ors",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",0.0773779335857626
+1102,"ors",4644,"Baja California",1996,22,"All Ages",3,"Both",0.0796965914652325
+1102,"ors",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",0.0802050021180915
+1102,"ors",4646,"Campeche",1996,22,"All Ages",3,"Both",0.068427542837723
+1102,"ors",4647,"Coahuila",1996,22,"All Ages",3,"Both",0.0761224210836745
+1102,"ors",4648,"Colima",1996,22,"All Ages",3,"Both",0.0776959668715489
+1102,"ors",4649,"Chiapas",1996,22,"All Ages",3,"Both",0.0779955262468676
+1102,"ors",4650,"Chihuahua",1996,22,"All Ages",3,"Both",0.0568788704328811
+1102,"ors",4651,"Mexico City",1996,22,"All Ages",3,"Both",0.0802308553019706
+1102,"ors",4652,"Durango",1996,22,"All Ages",3,"Both",0.0753194284219671
+1102,"ors",4653,"Guanajuato",1996,22,"All Ages",3,"Both",0.0705592572412008
+1102,"ors",4654,"Guerrero",1996,22,"All Ages",3,"Both",0.0592255108117572
+1102,"ors",4655,"Hidalgo",1996,22,"All Ages",3,"Both",0.0798612966802904
+1102,"ors",4656,"Jalisco",1996,22,"All Ages",3,"Both",0.0772952941394881
+1102,"ors",4657,"México",1996,22,"All Ages",3,"Both",0.075943102907168
+1102,"ors",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",0.0698267187663815
+1102,"ors",4659,"Morelos",1996,22,"All Ages",3,"Both",0.0654808545639154
+1102,"ors",4660,"Nayarit",1996,22,"All Ages",3,"Both",0.0788897350337238
+1102,"ors",4661,"Nuevo León",1996,22,"All Ages",3,"Both",0.0820450300574189
+1102,"ors",4662,"Oaxaca",1996,22,"All Ages",3,"Both",0.0604166444931313
+1102,"ors",4663,"Puebla",1996,22,"All Ages",3,"Both",0.0680762461060664
+1102,"ors",4664,"Querétaro",1996,22,"All Ages",3,"Both",0.0781337324763399
+1102,"ors",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",0.0747383017838104
+1102,"ors",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",0.0748947010427643
+1102,"ors",4667,"Sinaloa",1996,22,"All Ages",3,"Both",0.0809372704662809
+1102,"ors",4668,"Sonora",1996,22,"All Ages",3,"Both",0.0806230929864469
+1102,"ors",4669,"Tabasco",1996,22,"All Ages",3,"Both",0.0739242999376462
+1102,"ors",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",0.0750294323734736
+1102,"ors",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",0.0712379078513029
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",0.0682700720087671
+1102,"ors",4673,"Yucatán",1996,22,"All Ages",3,"Both",0.0797372352508318
+1102,"ors",4674,"Zacatecas",1996,22,"All Ages",3,"Both",0.0763209106291284
+1102,"ors",130,"Mexico",1997,22,"All Ages",3,"Both",0.0758623998963966
+1102,"ors",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",0.0793517081682503
+1102,"ors",4644,"Baja California",1997,22,"All Ages",3,"Both",0.0814246812956766
+1102,"ors",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",0.0820327973760822
+1102,"ors",4646,"Campeche",1997,22,"All Ages",3,"Both",0.0711141169877975
+1102,"ors",4647,"Coahuila",1997,22,"All Ages",3,"Both",0.0781648315895427
+1102,"ors",4648,"Colima",1997,22,"All Ages",3,"Both",0.0798398392398676
+1102,"ors",4649,"Chiapas",1997,22,"All Ages",3,"Both",0.079810237517374
+1102,"ors",4650,"Chihuahua",1997,22,"All Ages",3,"Both",0.0583199265514038
+1102,"ors",4651,"Mexico City",1997,22,"All Ages",3,"Both",0.0821569778355791
+1102,"ors",4652,"Durango",1997,22,"All Ages",3,"Both",0.0774003484677349
+1102,"ors",4653,"Guanajuato",1997,22,"All Ages",3,"Both",0.0728152090237959
+1102,"ors",4654,"Guerrero",1997,22,"All Ages",3,"Both",0.0612206116800561
+1102,"ors",4655,"Hidalgo",1997,22,"All Ages",3,"Both",0.0818021564004989
+1102,"ors",4656,"Jalisco",1997,22,"All Ages",3,"Both",0.0794360074096535
+1102,"ors",4657,"México",1997,22,"All Ages",3,"Both",0.0777764126823629
+1102,"ors",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",0.0722466647444291
+1102,"ors",4659,"Morelos",1997,22,"All Ages",3,"Both",0.068180229918327
+1102,"ors",4660,"Nayarit",1997,22,"All Ages",3,"Both",0.0807219275824836
+1102,"ors",4661,"Nuevo León",1997,22,"All Ages",3,"Both",0.0837514595266753
+1102,"ors",4662,"Oaxaca",1997,22,"All Ages",3,"Both",0.0638594988868626
+1102,"ors",4663,"Puebla",1997,22,"All Ages",3,"Both",0.0702862852317522
+1102,"ors",4664,"Querétaro",1997,22,"All Ages",3,"Both",0.0802934376605312
+1102,"ors",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",0.0768419523313458
+1102,"ors",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",0.0769950789539412
+1102,"ors",4667,"Sinaloa",1997,22,"All Ages",3,"Both",0.0828036926374631
+1102,"ors",4668,"Sonora",1997,22,"All Ages",3,"Both",0.0824888161465641
+1102,"ors",4669,"Tabasco",1997,22,"All Ages",3,"Both",0.0767971421877666
+1102,"ors",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",0.0771424869215066
+1102,"ors",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",0.0731677772047816
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",0.0706460678438336
+1102,"ors",4673,"Yucatán",1997,22,"All Ages",3,"Both",0.0816838367032701
+1102,"ors",4674,"Zacatecas",1997,22,"All Ages",3,"Both",0.0782375455163324
+1102,"ors",130,"Mexico",1998,22,"All Ages",3,"Both",0.0778985418845827
+1102,"ors",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",0.0813533832359935
+1102,"ors",4644,"Baja California",1998,22,"All Ages",3,"Both",0.0831419952868974
+1102,"ors",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",0.0836734517324007
+1102,"ors",4646,"Campeche",1998,22,"All Ages",3,"Both",0.0738309696590038
+1102,"ors",4647,"Coahuila",1998,22,"All Ages",3,"Both",0.0802960742613016
+1102,"ors",4648,"Colima",1998,22,"All Ages",3,"Both",0.0820212967835893
+1102,"ors",4649,"Chiapas",1998,22,"All Ages",3,"Both",0.08129481918234
+1102,"ors",4650,"Chihuahua",1998,22,"All Ages",3,"Both",0.0597035983345736
+1102,"ors",4651,"Mexico City",1998,22,"All Ages",3,"Both",0.0838966220711368
+1102,"ors",4652,"Durango",1998,22,"All Ages",3,"Both",0.0795783573810336
+1102,"ors",4653,"Guanajuato",1998,22,"All Ages",3,"Both",0.0751330909786602
+1102,"ors",4654,"Guerrero",1998,22,"All Ages",3,"Both",0.0632749980492061
+1102,"ors",4655,"Hidalgo",1998,22,"All Ages",3,"Both",0.0838948976571843
+1102,"ors",4656,"Jalisco",1998,22,"All Ages",3,"Both",0.0814795117579088
+1102,"ors",4657,"México",1998,22,"All Ages",3,"Both",0.0795594105306206
+1102,"ors",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",0.0746255364082681
+1102,"ors",4659,"Morelos",1998,22,"All Ages",3,"Both",0.0710568703154111
+1102,"ors",4660,"Nayarit",1998,22,"All Ages",3,"Both",0.082819540026847
+1102,"ors",4661,"Nuevo León",1998,22,"All Ages",3,"Both",0.0854322547203282
+1102,"ors",4662,"Oaxaca",1998,22,"All Ages",3,"Both",0.0669314015473714
+1102,"ors",4663,"Puebla",1998,22,"All Ages",3,"Both",0.072659181105293
+1102,"ors",4664,"Querétaro",1998,22,"All Ages",3,"Both",0.0823481600876779
+1102,"ors",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",0.0788334524039293
+1102,"ors",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",0.0790425509937544
+1102,"ors",4667,"Sinaloa",1998,22,"All Ages",3,"Both",0.0846243256252214
+1102,"ors",4668,"Sonora",1998,22,"All Ages",3,"Both",0.084353335198431
+1102,"ors",4669,"Tabasco",1998,22,"All Ages",3,"Both",0.0792102729912345
+1102,"ors",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",0.0793517644293076
+1102,"ors",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",0.075064026451384
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",0.0730193086063997
+1102,"ors",4673,"Yucatán",1998,22,"All Ages",3,"Both",0.0836324254814522
+1102,"ors",4674,"Zacatecas",1998,22,"All Ages",3,"Both",0.0801883291662571
+1102,"ors",130,"Mexico",1999,22,"All Ages",3,"Both",0.0797223015902124
+1102,"ors",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",0.083150363171367
+1102,"ors",4644,"Baja California",1999,22,"All Ages",3,"Both",0.0847759114528906
+1102,"ors",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",0.0850180702503734
+1102,"ors",4646,"Campeche",1999,22,"All Ages",3,"Both",0.0761586157187657
+1102,"ors",4647,"Coahuila",1999,22,"All Ages",3,"Both",0.0819944505210772
+1102,"ors",4648,"Colima",1999,22,"All Ages",3,"Both",0.0839774344187631
+1102,"ors",4649,"Chiapas",1999,22,"All Ages",3,"Both",0.0826240455556035
+1102,"ors",4650,"Chihuahua",1999,22,"All Ages",3,"Both",0.0614484235068008
+1102,"ors",4651,"Mexico City",1999,22,"All Ages",3,"Both",0.0853776225417975
+1102,"ors",4652,"Durango",1999,22,"All Ages",3,"Both",0.0815866579794755
+1102,"ors",4653,"Guanajuato",1999,22,"All Ages",3,"Both",0.0772966457950222
+1102,"ors",4654,"Guerrero",1999,22,"All Ages",3,"Both",0.0654215887953653
+1102,"ors",4655,"Hidalgo",1999,22,"All Ages",3,"Both",0.0859156467156468
+1102,"ors",4656,"Jalisco",1999,22,"All Ages",3,"Both",0.0831453805638566
+1102,"ors",4657,"México",1999,22,"All Ages",3,"Both",0.0811998359866978
+1102,"ors",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",0.0766693415171285
+1102,"ors",4659,"Morelos",1999,22,"All Ages",3,"Both",0.0736735478341064
+1102,"ors",4660,"Nayarit",1999,22,"All Ages",3,"Both",0.0846834147694231
+1102,"ors",4661,"Nuevo León",1999,22,"All Ages",3,"Both",0.0869824833983976
+1102,"ors",4662,"Oaxaca",1999,22,"All Ages",3,"Both",0.0687082875328569
+1102,"ors",4663,"Puebla",1999,22,"All Ages",3,"Both",0.0750717151874156
+1102,"ors",4664,"Querétaro",1999,22,"All Ages",3,"Both",0.0840812273727
+1102,"ors",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",0.0805944000866779
+1102,"ors",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",0.081101580109164
+1102,"ors",4667,"Sinaloa",1999,22,"All Ages",3,"Both",0.0862972035488012
+1102,"ors",4668,"Sonora",1999,22,"All Ages",3,"Both",0.0859361603122881
+1102,"ors",4669,"Tabasco",1999,22,"All Ages",3,"Both",0.0809475536270081
+1102,"ors",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",0.0813599221138964
+1102,"ors",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",0.076983708658913
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",0.0751976951332938
+1102,"ors",4673,"Yucatán",1999,22,"All Ages",3,"Both",0.0853814750259788
+1102,"ors",4674,"Zacatecas",1999,22,"All Ages",3,"Both",0.0820040566394648
+1102,"ors",130,"Mexico",2000,22,"All Ages",3,"Both",0.0816342528031653
+1102,"ors",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",0.0849013271599848
+1102,"ors",4644,"Baja California",2000,22,"All Ages",3,"Both",0.0865284101437351
+1102,"ors",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",0.086407195570035
+1102,"ors",4646,"Campeche",2000,22,"All Ages",3,"Both",0.078454387866456
+1102,"ors",4647,"Coahuila",2000,22,"All Ages",3,"Both",0.0836285936460148
+1102,"ors",4648,"Colima",2000,22,"All Ages",3,"Both",0.0857839709510498
+1102,"ors",4649,"Chiapas",2000,22,"All Ages",3,"Both",0.0838387264703539
+1102,"ors",4650,"Chihuahua",2000,22,"All Ages",3,"Both",0.064993116228816
+1102,"ors",4651,"Mexico City",2000,22,"All Ages",3,"Both",0.0868891368822656
+1102,"ors",4652,"Durango",2000,22,"All Ages",3,"Both",0.0836130353739675
+1102,"ors",4653,"Guanajuato",2000,22,"All Ages",3,"Both",0.0796016145576563
+1102,"ors",4654,"Guerrero",2000,22,"All Ages",3,"Both",0.0679650336868076
+1102,"ors",4655,"Hidalgo",2000,22,"All Ages",3,"Both",0.0879106308788972
+1102,"ors",4656,"Jalisco",2000,22,"All Ages",3,"Both",0.0849193063801357
+1102,"ors",4657,"México",2000,22,"All Ages",3,"Both",0.0828605876594178
+1102,"ors",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",0.0786000553597515
+1102,"ors",4659,"Morelos",2000,22,"All Ages",3,"Both",0.0761774135583824
+1102,"ors",4660,"Nayarit",2000,22,"All Ages",3,"Both",0.0864678741710568
+1102,"ors",4661,"Nuevo León",2000,22,"All Ages",3,"Both",0.0885310142551124
+1102,"ors",4662,"Oaxaca",2000,22,"All Ages",3,"Both",0.0704742781866534
+1102,"ors",4663,"Puebla",2000,22,"All Ages",3,"Both",0.0776458487923174
+1102,"ors",4664,"Querétaro",2000,22,"All Ages",3,"Both",0.0859394336695737
+1102,"ors",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",0.0822778949692445
+1102,"ors",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",0.0834271444253022
+1102,"ors",4667,"Sinaloa",2000,22,"All Ages",3,"Both",0.0879174258676038
+1102,"ors",4668,"Sonora",2000,22,"All Ages",3,"Both",0.0874870278729409
+1102,"ors",4669,"Tabasco",2000,22,"All Ages",3,"Both",0.0825506021509886
+1102,"ors",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",0.083222128661926
+1102,"ors",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",0.0793183214737161
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",0.0773581405607193
+1102,"ors",4673,"Yucatán",2000,22,"All Ages",3,"Both",0.0871467734895667
+1102,"ors",4674,"Zacatecas",2000,22,"All Ages",3,"Both",0.0839381295412041
+1102,"ors",130,"Mexico",2001,22,"All Ages",3,"Both",0.0833243354487549
+1102,"ors",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",0.0865166939002217
+1102,"ors",4644,"Baja California",2001,22,"All Ages",3,"Both",0.0881483064339436
+1102,"ors",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",0.0875738230498096
+1102,"ors",4646,"Campeche",2001,22,"All Ages",3,"Both",0.080378605719099
+1102,"ors",4647,"Coahuila",2001,22,"All Ages",3,"Both",0.0848749707586839
+1102,"ors",4648,"Colima",2001,22,"All Ages",3,"Both",0.0872853807194679
+1102,"ors",4649,"Chiapas",2001,22,"All Ages",3,"Both",0.0845997157919997
+1102,"ors",4650,"Chihuahua",2001,22,"All Ages",3,"Both",0.06875322597216
+1102,"ors",4651,"Mexico City",2001,22,"All Ages",3,"Both",0.0882873701602297
+1102,"ors",4652,"Durango",2001,22,"All Ages",3,"Both",0.0853113200650482
+1102,"ors",4653,"Guanajuato",2001,22,"All Ages",3,"Both",0.081745305332181
+1102,"ors",4654,"Guerrero",2001,22,"All Ages",3,"Both",0.0699455614487715
+1102,"ors",4655,"Hidalgo",2001,22,"All Ages",3,"Both",0.0897225529927862
+1102,"ors",4656,"Jalisco",2001,22,"All Ages",3,"Both",0.0866133212777397
+1102,"ors",4657,"México",2001,22,"All Ages",3,"Both",0.0843720463678109
+1102,"ors",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",0.0800752802708421
+1102,"ors",4659,"Morelos",2001,22,"All Ages",3,"Both",0.0781249658289807
+1102,"ors",4660,"Nayarit",2001,22,"All Ages",3,"Both",0.0879463030081505
+1102,"ors",4661,"Nuevo León",2001,22,"All Ages",3,"Both",0.0899409044604021
+1102,"ors",4662,"Oaxaca",2001,22,"All Ages",3,"Both",0.0727471431083918
+1102,"ors",4663,"Puebla",2001,22,"All Ages",3,"Both",0.079515061756626
+1102,"ors",4664,"Querétaro",2001,22,"All Ages",3,"Both",0.0876727513958705
+1102,"ors",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",0.0836688755994038
+1102,"ors",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",0.0854162704872078
+1102,"ors",4667,"Sinaloa",2001,22,"All Ages",3,"Both",0.0893156187476938
+1102,"ors",4668,"Sonora",2001,22,"All Ages",3,"Both",0.0887868319944536
+1102,"ors",4669,"Tabasco",2001,22,"All Ages",3,"Both",0.0841304258725791
+1102,"ors",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",0.0847063430853739
+1102,"ors",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",0.0815078010232557
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",0.0791523625317562
+1102,"ors",4673,"Yucatán",2001,22,"All Ages",3,"Both",0.0887742815096746
+1102,"ors",4674,"Zacatecas",2001,22,"All Ages",3,"Both",0.0857009520930457
+1102,"ors",130,"Mexico",2002,22,"All Ages",3,"Both",0.0850579712876976
+1102,"ors",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",0.0882994777744894
+1102,"ors",4644,"Baja California",2002,22,"All Ages",3,"Both",0.0897435558857452
+1102,"ors",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",0.0888482484172267
+1102,"ors",4646,"Campeche",2002,22,"All Ages",3,"Both",0.0822774512867488
+1102,"ors",4647,"Coahuila",2002,22,"All Ages",3,"Both",0.0861345233171266
+1102,"ors",4648,"Colima",2002,22,"All Ages",3,"Both",0.0888279822139759
+1102,"ors",4649,"Chiapas",2002,22,"All Ages",3,"Both",0.0851473131099512
+1102,"ors",4650,"Chihuahua",2002,22,"All Ages",3,"Both",0.0730275598100751
+1102,"ors",4651,"Mexico City",2002,22,"All Ages",3,"Both",0.0897192396877824
+1102,"ors",4652,"Durango",2002,22,"All Ages",3,"Both",0.0870075310262624
+1102,"ors",4653,"Guanajuato",2002,22,"All Ages",3,"Both",0.0837471281303447
+1102,"ors",4654,"Guerrero",2002,22,"All Ages",3,"Both",0.0717365894278495
+1102,"ors",4655,"Hidalgo",2002,22,"All Ages",3,"Both",0.0914304756733109
+1102,"ors",4656,"Jalisco",2002,22,"All Ages",3,"Both",0.0883019642461618
+1102,"ors",4657,"México",2002,22,"All Ages",3,"Both",0.0858595171392464
+1102,"ors",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",0.0814614398275892
+1102,"ors",4659,"Morelos",2002,22,"All Ages",3,"Both",0.080095185430821
+1102,"ors",4660,"Nayarit",2002,22,"All Ages",3,"Both",0.0893699657355648
+1102,"ors",4661,"Nuevo León",2002,22,"All Ages",3,"Both",0.0913583376247988
+1102,"ors",4662,"Oaxaca",2002,22,"All Ages",3,"Both",0.0760708084568192
+1102,"ors",4663,"Puebla",2002,22,"All Ages",3,"Both",0.0815787682070589
+1102,"ors",4664,"Querétaro",2002,22,"All Ages",3,"Both",0.0893175172746496
+1102,"ors",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",0.0850427789293493
+1102,"ors",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",0.0872575803880686
+1102,"ors",4667,"Sinaloa",2002,22,"All Ages",3,"Both",0.090709209714401
+1102,"ors",4668,"Sonora",2002,22,"All Ages",3,"Both",0.0901261714999966
+1102,"ors",4669,"Tabasco",2002,22,"All Ages",3,"Both",0.0857637497188676
+1102,"ors",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",0.0862543570387923
+1102,"ors",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",0.083824103260126
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",0.0809977460470869
+1102,"ors",4673,"Yucatán",2002,22,"All Ages",3,"Both",0.0904259949041639
+1102,"ors",4674,"Zacatecas",2002,22,"All Ages",3,"Both",0.0874560499719461
+1102,"ors",130,"Mexico",2003,22,"All Ages",3,"Both",0.0868856994332529
+1102,"ors",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",0.0902685250305912
+1102,"ors",4644,"Baja California",2003,22,"All Ages",3,"Both",0.0912926544447817
+1102,"ors",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",0.0902650978180612
+1102,"ors",4646,"Campeche",2003,22,"All Ages",3,"Both",0.0843234168306994
+1102,"ors",4647,"Coahuila",2003,22,"All Ages",3,"Both",0.0876260201485651
+1102,"ors",4648,"Colima",2003,22,"All Ages",3,"Both",0.0904610407929424
+1102,"ors",4649,"Chiapas",2003,22,"All Ages",3,"Both",0.085787902083996
+1102,"ors",4650,"Chihuahua",2003,22,"All Ages",3,"Both",0.0768498816033032
+1102,"ors",4651,"Mexico City",2003,22,"All Ages",3,"Both",0.0912161741746532
+1102,"ors",4652,"Durango",2003,22,"All Ages",3,"Both",0.0888219551153929
+1102,"ors",4653,"Guanajuato",2003,22,"All Ages",3,"Both",0.0857046304468078
+1102,"ors",4654,"Guerrero",2003,22,"All Ages",3,"Both",0.0739805215929536
+1102,"ors",4655,"Hidalgo",2003,22,"All Ages",3,"Both",0.0930302555772048
+1102,"ors",4656,"Jalisco",2003,22,"All Ages",3,"Both",0.0899919459320799
+1102,"ors",4657,"México",2003,22,"All Ages",3,"Both",0.0873995679278372
+1102,"ors",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",0.08309862971146
+1102,"ors",4659,"Morelos",2003,22,"All Ages",3,"Both",0.0823027367058217
+1102,"ors",4660,"Nayarit",2003,22,"All Ages",3,"Both",0.0908824259925571
+1102,"ors",4661,"Nuevo León",2003,22,"All Ages",3,"Both",0.092794001889335
+1102,"ors",4662,"Oaxaca",2003,22,"All Ages",3,"Both",0.0794507691602308
+1102,"ors",4663,"Puebla",2003,22,"All Ages",3,"Both",0.0840424900475166
+1102,"ors",4664,"Querétaro",2003,22,"All Ages",3,"Both",0.0909422737371378
+1102,"ors",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",0.0865505589785379
+1102,"ors",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",0.0892022810244069
+1102,"ors",4667,"Sinaloa",2003,22,"All Ages",3,"Both",0.0921452335136338
+1102,"ors",4668,"Sonora",2003,22,"All Ages",3,"Both",0.0915012952096507
+1102,"ors",4669,"Tabasco",2003,22,"All Ages",3,"Both",0.0875503943819856
+1102,"ors",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",0.0879666516147368
+1102,"ors",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",0.0862867144228739
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",0.0830535880198918
+1102,"ors",4673,"Yucatán",2003,22,"All Ages",3,"Both",0.0920998539768835
+1102,"ors",4674,"Zacatecas",2003,22,"All Ages",3,"Both",0.0892997306516322
+1102,"ors",130,"Mexico",2004,22,"All Ages",3,"Both",0.0889481620528018
+1102,"ors",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",0.0924495883593343
+1102,"ors",4644,"Baja California",2004,22,"All Ages",3,"Both",0.0929255565106358
+1102,"ors",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",0.0918814220136051
+1102,"ors",4646,"Campeche",2004,22,"All Ages",3,"Both",0.0866349178091693
+1102,"ors",4647,"Coahuila",2004,22,"All Ages",3,"Both",0.0895217715907622
+1102,"ors",4648,"Colima",2004,22,"All Ages",3,"Both",0.0922575145265511
+1102,"ors",4649,"Chiapas",2004,22,"All Ages",3,"Both",0.086993018202217
+1102,"ors",4650,"Chihuahua",2004,22,"All Ages",3,"Both",0.0801366878049935
+1102,"ors",4651,"Mexico City",2004,22,"All Ages",3,"Both",0.0928644577919161
+1102,"ors",4652,"Durango",2004,22,"All Ages",3,"Both",0.0908983623178667
+1102,"ors",4653,"Guanajuato",2004,22,"All Ages",3,"Both",0.087881127026439
+1102,"ors",4654,"Guerrero",2004,22,"All Ages",3,"Both",0.0770702523103585
+1102,"ors",4655,"Hidalgo",2004,22,"All Ages",3,"Both",0.0947659010540487
+1102,"ors",4656,"Jalisco",2004,22,"All Ages",3,"Both",0.0918383610426616
+1102,"ors",4657,"México",2004,22,"All Ages",3,"Both",0.0892042756048182
+1102,"ors",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",0.085235248349567
+1102,"ors",4659,"Morelos",2004,22,"All Ages",3,"Both",0.0848632555178915
+1102,"ors",4660,"Nayarit",2004,22,"All Ages",3,"Both",0.0927120123043918
+1102,"ors",4661,"Nuevo León",2004,22,"All Ages",3,"Both",0.0943690876766206
+1102,"ors",4662,"Oaxaca",2004,22,"All Ages",3,"Both",0.0827375361927218
+1102,"ors",4663,"Puebla",2004,22,"All Ages",3,"Both",0.0866480997770852
+1102,"ors",4664,"Querétaro",2004,22,"All Ages",3,"Both",0.0927427349409663
+1102,"ors",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",0.0883909368042219
+1102,"ors",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",0.0915265214692109
+1102,"ors",4667,"Sinaloa",2004,22,"All Ages",3,"Both",0.0937859279905085
+1102,"ors",4668,"Sonora",2004,22,"All Ages",3,"Both",0.0930248040912072
+1102,"ors",4669,"Tabasco",2004,22,"All Ages",3,"Both",0.0896025255823297
+1102,"ors",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",0.0899786132221281
+1102,"ors",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",0.088948164350109
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",0.0854514268277076
+1102,"ors",4673,"Yucatán",2004,22,"All Ages",3,"Both",0.0938574728504845
+1102,"ors",4674,"Zacatecas",2004,22,"All Ages",3,"Both",0.0913654160151516
+1102,"ors",130,"Mexico",2005,22,"All Ages",3,"Both",0.0910973820134703
+1102,"ors",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",0.0946539767904757
+1102,"ors",4644,"Baja California",2005,22,"All Ages",3,"Both",0.0945818886000175
+1102,"ors",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",0.0934911789105001
+1102,"ors",4646,"Campeche",2005,22,"All Ages",3,"Both",0.0890702516336056
+1102,"ors",4647,"Coahuila",2005,22,"All Ages",3,"Both",0.0916066971912459
+1102,"ors",4648,"Colima",2005,22,"All Ages",3,"Both",0.0940600364163393
+1102,"ors",4649,"Chiapas",2005,22,"All Ages",3,"Both",0.0886983242459834
+1102,"ors",4650,"Chihuahua",2005,22,"All Ages",3,"Both",0.0831985796338886
+1102,"ors",4651,"Mexico City",2005,22,"All Ages",3,"Both",0.0945433714703789
+1102,"ors",4652,"Durango",2005,22,"All Ages",3,"Both",0.0930249158794455
+1102,"ors",4653,"Guanajuato",2005,22,"All Ages",3,"Both",0.0901681439141144
+1102,"ors",4654,"Guerrero",2005,22,"All Ages",3,"Both",0.0806775509719321
+1102,"ors",4655,"Hidalgo",2005,22,"All Ages",3,"Both",0.096608499965292
+1102,"ors",4656,"Jalisco",2005,22,"All Ages",3,"Both",0.09369394827853
+1102,"ors",4657,"México",2005,22,"All Ages",3,"Both",0.09109371973653
+1102,"ors",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",0.087651676899146
+1102,"ors",4659,"Morelos",2005,22,"All Ages",3,"Both",0.0875942927033796
+1102,"ors",4660,"Nayarit",2005,22,"All Ages",3,"Both",0.0946658508797964
+1102,"ors",4661,"Nuevo León",2005,22,"All Ages",3,"Both",0.0959156283362055
+1102,"ors",4662,"Oaxaca",2005,22,"All Ages",3,"Both",0.0857809301332198
+1102,"ors",4663,"Puebla",2005,22,"All Ages",3,"Both",0.0892257528228633
+1102,"ors",4664,"Querétaro",2005,22,"All Ages",3,"Both",0.0946128826091096
+1102,"ors",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",0.0903891949853549
+1102,"ors",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",0.0940148905582632
+1102,"ors",4667,"Sinaloa",2005,22,"All Ages",3,"Both",0.0954708905798352
+1102,"ors",4668,"Sonora",2005,22,"All Ages",3,"Both",0.0945704794563889
+1102,"ors",4669,"Tabasco",2005,22,"All Ages",3,"Both",0.0917631380153655
+1102,"ors",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",0.0920898707024963
+1102,"ors",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",0.0916218395917356
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",0.0879906354220752
+1102,"ors",4673,"Yucatán",2005,22,"All Ages",3,"Both",0.0955600946782223
+1102,"ors",4674,"Zacatecas",2005,22,"All Ages",3,"Both",0.0934809422445849
+1102,"ors",130,"Mexico",2006,22,"All Ages",3,"Both",0.0930158340096333
+1102,"ors",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",0.0966574104317361
+1102,"ors",4644,"Baja California",2006,22,"All Ages",3,"Both",0.0961297752838669
+1102,"ors",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",0.0949016298025044
+1102,"ors",4646,"Campeche",2006,22,"All Ages",3,"Both",0.0912144123198138
+1102,"ors",4647,"Coahuila",2006,22,"All Ages",3,"Both",0.0934716760160795
+1102,"ors",4648,"Colima",2006,22,"All Ages",3,"Both",0.0956072548494701
+1102,"ors",4649,"Chiapas",2006,22,"All Ages",3,"Both",0.0903197730927472
+1102,"ors",4650,"Chihuahua",2006,22,"All Ages",3,"Both",0.0859756994050353
+1102,"ors",4651,"Mexico City",2006,22,"All Ages",3,"Both",0.0960409107360005
+1102,"ors",4652,"Durango",2006,22,"All Ages",3,"Both",0.0948020118881463
+1102,"ors",4653,"Guanajuato",2006,22,"All Ages",3,"Both",0.0922325150981416
+1102,"ors",4654,"Guerrero",2006,22,"All Ages",3,"Both",0.083742597913869
+1102,"ors",4655,"Hidalgo",2006,22,"All Ages",3,"Both",0.09827725649848
+1102,"ors",4656,"Jalisco",2006,22,"All Ages",3,"Both",0.0953725213320408
+1102,"ors",4657,"México",2006,22,"All Ages",3,"Both",0.0927998165919133
+1102,"ors",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",0.0898562332242751
+1102,"ors",4659,"Morelos",2006,22,"All Ages",3,"Both",0.0900559150416078
+1102,"ors",4660,"Nayarit",2006,22,"All Ages",3,"Both",0.0963209369750296
+1102,"ors",4661,"Nuevo León",2006,22,"All Ages",3,"Both",0.0972523878288832
+1102,"ors",4662,"Oaxaca",2006,22,"All Ages",3,"Both",0.0884294558969173
+1102,"ors",4663,"Puebla",2006,22,"All Ages",3,"Both",0.0916034184591937
+1102,"ors",4664,"Querétaro",2006,22,"All Ages",3,"Both",0.0963019997716042
+1102,"ors",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",0.0921612842095896
+1102,"ors",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",0.0961548518299669
+1102,"ors",4667,"Sinaloa",2006,22,"All Ages",3,"Both",0.0968976799982447
+1102,"ors",4668,"Sonora",2006,22,"All Ages",3,"Both",0.0959675633767558
+1102,"ors",4669,"Tabasco",2006,22,"All Ages",3,"Both",0.0936976335424616
+1102,"ors",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",0.0939324341745383
+1102,"ors",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",0.0940529818037588
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",0.0902288076842785
+1102,"ors",4673,"Yucatán",2006,22,"All Ages",3,"Both",0.0970407404929758
+1102,"ors",4674,"Zacatecas",2006,22,"All Ages",3,"Both",0.0953011361876588
+1102,"ors",130,"Mexico",2007,22,"All Ages",3,"Both",0.0950160878384355
+1102,"ors",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",0.0987460623308819
+1102,"ors",4644,"Baja California",2007,22,"All Ages",3,"Both",0.0979489786773613
+1102,"ors",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",0.096524940886381
+1102,"ors",4646,"Campeche",2007,22,"All Ages",3,"Both",0.0934247618585324
+1102,"ors",4647,"Coahuila",2007,22,"All Ages",3,"Both",0.0954736529366485
+1102,"ors",4648,"Colima",2007,22,"All Ages",3,"Both",0.0972649086753068
+1102,"ors",4649,"Chiapas",2007,22,"All Ages",3,"Both",0.0919914537124311
+1102,"ors",4650,"Chihuahua",2007,22,"All Ages",3,"Both",0.0885761584502388
+1102,"ors",4651,"Mexico City",2007,22,"All Ages",3,"Both",0.0976712049427082
+1102,"ors",4652,"Durango",2007,22,"All Ages",3,"Both",0.0966326784743293
+1102,"ors",4653,"Guanajuato",2007,22,"All Ages",3,"Both",0.0943951389050567
+1102,"ors",4654,"Guerrero",2007,22,"All Ages",3,"Both",0.0865459968548443
+1102,"ors",4655,"Hidalgo",2007,22,"All Ages",3,"Both",0.100054484105707
+1102,"ors",4656,"Jalisco",2007,22,"All Ages",3,"Both",0.0972041618867187
+1102,"ors",4657,"México",2007,22,"All Ages",3,"Both",0.0946423360295938
+1102,"ors",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",0.092132415644381
+1102,"ors",4659,"Morelos",2007,22,"All Ages",3,"Both",0.0925823163989623
+1102,"ors",4660,"Nayarit",2007,22,"All Ages",3,"Both",0.0980601803607536
+1102,"ors",4661,"Nuevo León",2007,22,"All Ages",3,"Both",0.0987539415335913
+1102,"ors",4662,"Oaxaca",2007,22,"All Ages",3,"Both",0.0911369409122149
+1102,"ors",4663,"Puebla",2007,22,"All Ages",3,"Both",0.0939544604086638
+1102,"ors",4664,"Querétaro",2007,22,"All Ages",3,"Both",0.0981034428925498
+1102,"ors",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",0.0940529888573615
+1102,"ors",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",0.0982595922979937
+1102,"ors",4667,"Sinaloa",2007,22,"All Ages",3,"Both",0.0984648275052205
+1102,"ors",4668,"Sonora",2007,22,"All Ages",3,"Both",0.0975304305673632
+1102,"ors",4669,"Tabasco",2007,22,"All Ages",3,"Both",0.0957149823567401
+1102,"ors",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",0.095903526905529
+1102,"ors",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",0.0964843181568919
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",0.0925098760216326
+1102,"ors",4673,"Yucatán",2007,22,"All Ages",3,"Both",0.0986847003053113
+1102,"ors",4674,"Zacatecas",2007,22,"All Ages",3,"Both",0.0972028799324612
+1102,"ors",130,"Mexico",2008,22,"All Ages",3,"Both",0.0971024872140022
+1102,"ors",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",0.10088097447404
+1102,"ors",4644,"Baja California",2008,22,"All Ages",3,"Both",0.0999198243439069
+1102,"ors",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",0.0983327251875199
+1102,"ors",4646,"Campeche",2008,22,"All Ages",3,"Both",0.0956580056177974
+1102,"ors",4647,"Coahuila",2008,22,"All Ages",3,"Both",0.0975313328386877
+1102,"ors",4648,"Colima",2008,22,"All Ages",3,"Both",0.0989894349560209
+1102,"ors",4649,"Chiapas",2008,22,"All Ages",3,"Both",0.0936952122263078
+1102,"ors",4650,"Chihuahua",2008,22,"All Ages",3,"Both",0.0913321323816046
+1102,"ors",4651,"Mexico City",2008,22,"All Ages",3,"Both",0.0994137065009479
+1102,"ors",4652,"Durango",2008,22,"All Ages",3,"Both",0.0985108236197621
+1102,"ors",4653,"Guanajuato",2008,22,"All Ages",3,"Both",0.0966801723081696
+1102,"ors",4654,"Guerrero",2008,22,"All Ages",3,"Both",0.0891554604901427
+1102,"ors",4655,"Hidalgo",2008,22,"All Ages",3,"Both",0.101871669074788
+1102,"ors",4656,"Jalisco",2008,22,"All Ages",3,"Both",0.099152785441817
+1102,"ors",4657,"México",2008,22,"All Ages",3,"Both",0.0966368907366695
+1102,"ors",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",0.094446043670256
+1102,"ors",4659,"Morelos",2008,22,"All Ages",3,"Both",0.0950647568410321
+1102,"ors",4660,"Nayarit",2008,22,"All Ages",3,"Both",0.0998904086640026
+1102,"ors",4661,"Nuevo León",2008,22,"All Ages",3,"Both",0.100376709744547
+1102,"ors",4662,"Oaxaca",2008,22,"All Ages",3,"Both",0.0941372440962632
+1102,"ors",4663,"Puebla",2008,22,"All Ages",3,"Both",0.0963521039867266
+1102,"ors",4664,"Querétaro",2008,22,"All Ages",3,"Both",0.0999806712599909
+1102,"ors",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",0.096047342392499
+1102,"ors",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",0.100366417293458
+1102,"ors",4667,"Sinaloa",2008,22,"All Ages",3,"Both",0.100152787568061
+1102,"ors",4668,"Sonora",2008,22,"All Ages",3,"Both",0.099238835663627
+1102,"ors",4669,"Tabasco",2008,22,"All Ages",3,"Both",0.0977468900877927
+1102,"ors",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",0.0979678350949558
+1102,"ors",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",0.0988390493572269
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",0.0947997301804722
+1102,"ors",4673,"Yucatán",2008,22,"All Ages",3,"Both",0.100486502753887
+1102,"ors",4674,"Zacatecas",2008,22,"All Ages",3,"Both",0.0991791074368695
+1102,"ors",130,"Mexico",2009,22,"All Ages",3,"Both",0.0987720154464516
+1102,"ors",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",0.102563679942875
+1102,"ors",4644,"Baja California",2009,22,"All Ages",3,"Both",0.101515720789795
+1102,"ors",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",0.0998870747951561
+1102,"ors",4646,"Campeche",2009,22,"All Ages",3,"Both",0.0973888570136813
+1102,"ors",4647,"Coahuila",2009,22,"All Ages",3,"Both",0.0990893382423119
+1102,"ors",4648,"Colima",2009,22,"All Ages",3,"Both",0.100356751722282
+1102,"ors",4649,"Chiapas",2009,22,"All Ages",3,"Both",0.0948954878641368
+1102,"ors",4650,"Chihuahua",2009,22,"All Ages",3,"Both",0.0938038805219729
+1102,"ors",4651,"Mexico City",2009,22,"All Ages",3,"Both",0.100834373216735
+1102,"ors",4652,"Durango",2009,22,"All Ages",3,"Both",0.0999755866045974
+1102,"ors",4653,"Guanajuato",2009,22,"All Ages",3,"Both",0.0985704495851208
+1102,"ors",4654,"Guerrero",2009,22,"All Ages",3,"Both",0.0910596416708192
+1102,"ors",4655,"Hidalgo",2009,22,"All Ages",3,"Both",0.10329727983572
+1102,"ors",4656,"Jalisco",2009,22,"All Ages",3,"Both",0.100699396610171
+1102,"ors",4657,"México",2009,22,"All Ages",3,"Both",0.098290139078473
+1102,"ors",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",0.0961602699081742
+1102,"ors",4659,"Morelos",2009,22,"All Ages",3,"Both",0.0969439768683054
+1102,"ors",4660,"Nayarit",2009,22,"All Ages",3,"Both",0.101283084363955
+1102,"ors",4661,"Nuevo León",2009,22,"All Ages",3,"Both",0.101662538075476
+1102,"ors",4662,"Oaxaca",2009,22,"All Ages",3,"Both",0.0966950384228047
+1102,"ors",4663,"Puebla",2009,22,"All Ages",3,"Both",0.0982665692401915
+1102,"ors",4664,"Querétaro",2009,22,"All Ages",3,"Both",0.101481115473823
+1102,"ors",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",0.0977203034418531
+1102,"ors",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",0.101972123166044
+1102,"ors",4667,"Sinaloa",2009,22,"All Ages",3,"Both",0.101527892144599
+1102,"ors",4668,"Sonora",2009,22,"All Ages",3,"Both",0.100615315027861
+1102,"ors",4669,"Tabasco",2009,22,"All Ages",3,"Both",0.09933334253726
+1102,"ors",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",0.0996681541423392
+1102,"ors",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",0.100658762164176
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",0.0965982563072751
+1102,"ors",4673,"Yucatán",2009,22,"All Ages",3,"Both",0.101959167445952
+1102,"ors",4674,"Zacatecas",2009,22,"All Ages",3,"Both",0.10075799265311
+1102,"ors",130,"Mexico",2010,22,"All Ages",3,"Both",0.100340655739115
+1102,"ors",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",0.104049403793884
+1102,"ors",4644,"Baja California",2010,22,"All Ages",3,"Both",0.102977028546091
+1102,"ors",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",0.101394743034436
+1102,"ors",4646,"Campeche",2010,22,"All Ages",3,"Both",0.0990564301297209
+1102,"ors",4647,"Coahuila",2010,22,"All Ages",3,"Both",0.100452035025031
+1102,"ors",4648,"Colima",2010,22,"All Ages",3,"Both",0.101664429958867
+1102,"ors",4649,"Chiapas",2010,22,"All Ages",3,"Both",0.0960437741474479
+1102,"ors",4650,"Chihuahua",2010,22,"All Ages",3,"Both",0.0963504417729234
+1102,"ors",4651,"Mexico City",2010,22,"All Ages",3,"Both",0.102168612694999
+1102,"ors",4652,"Durango",2010,22,"All Ages",3,"Both",0.101342228374191
+1102,"ors",4653,"Guanajuato",2010,22,"All Ages",3,"Both",0.100320354915464
+1102,"ors",4654,"Guerrero",2010,22,"All Ages",3,"Both",0.09294195237014
+1102,"ors",4655,"Hidalgo",2010,22,"All Ages",3,"Both",0.10458748887136
+1102,"ors",4656,"Jalisco",2010,22,"All Ages",3,"Both",0.10212171970173
+1102,"ors",4657,"México",2010,22,"All Ages",3,"Both",0.0999189459680108
+1102,"ors",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",0.0976759521958203
+1102,"ors",4659,"Morelos",2010,22,"All Ages",3,"Both",0.0986431059167439
+1102,"ors",4660,"Nayarit",2010,22,"All Ages",3,"Both",0.102480041995208
+1102,"ors",4661,"Nuevo León",2010,22,"All Ages",3,"Both",0.102838786941549
+1102,"ors",4662,"Oaxaca",2010,22,"All Ages",3,"Both",0.0989847984190156
+1102,"ors",4663,"Puebla",2010,22,"All Ages",3,"Both",0.100039692173612
+1102,"ors",4664,"Querétaro",2010,22,"All Ages",3,"Both",0.102872256939188
+1102,"ors",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",0.099358579938046
+1102,"ors",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",0.103375209186396
+1102,"ors",4667,"Sinaloa",2010,22,"All Ages",3,"Both",0.102813397224964
+1102,"ors",4668,"Sonora",2010,22,"All Ages",3,"Both",0.101917646713497
+1102,"ors",4669,"Tabasco",2010,22,"All Ages",3,"Both",0.100838668028677
+1102,"ors",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",0.101292906227495
+1102,"ors",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",0.102279232195627
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",0.0983149991293839
+1102,"ors",4673,"Yucatán",2010,22,"All Ages",3,"Both",0.103325734974855
+1102,"ors",4674,"Zacatecas",2010,22,"All Ages",3,"Both",0.102195924329073
+1102,"ors",130,"Mexico",2011,22,"All Ages",3,"Both",0.10192593446435
+1102,"ors",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",0.105410299785519
+1102,"ors",4644,"Baja California",2011,22,"All Ages",3,"Both",0.104351775088933
+1102,"ors",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",0.102847100335424
+1102,"ors",4646,"Campeche",2011,22,"All Ages",3,"Both",0.100757317371956
+1102,"ors",4647,"Coahuila",2011,22,"All Ages",3,"Both",0.10185899874994
+1102,"ors",4648,"Colima",2011,22,"All Ages",3,"Both",0.102942847612434
+1102,"ors",4649,"Chiapas",2011,22,"All Ages",3,"Both",0.0976169366901156
+1102,"ors",4650,"Chihuahua",2011,22,"All Ages",3,"Both",0.0992047495209591
+1102,"ors",4651,"Mexico City",2011,22,"All Ages",3,"Both",0.103462586870987
+1102,"ors",4652,"Durango",2011,22,"All Ages",3,"Both",0.102804908084452
+1102,"ors",4653,"Guanajuato",2011,22,"All Ages",3,"Both",0.101958358892232
+1102,"ors",4654,"Guerrero",2011,22,"All Ages",3,"Both",0.0955149447699352
+1102,"ors",4655,"Hidalgo",2011,22,"All Ages",3,"Both",0.105773945093166
+1102,"ors",4656,"Jalisco",2011,22,"All Ages",3,"Both",0.103472041007977
+1102,"ors",4657,"México",2011,22,"All Ages",3,"Both",0.101492554007343
+1102,"ors",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",0.099410122330143
+1102,"ors",4659,"Morelos",2011,22,"All Ages",3,"Both",0.100423067559684
+1102,"ors",4660,"Nayarit",2011,22,"All Ages",3,"Both",0.103690852074706
+1102,"ors",4661,"Nuevo León",2011,22,"All Ages",3,"Both",0.103957628538028
+1102,"ors",4662,"Oaxaca",2011,22,"All Ages",3,"Both",0.10107687236575
+1102,"ors",4663,"Puebla",2011,22,"All Ages",3,"Both",0.101757839168482
+1102,"ors",4664,"Querétaro",2011,22,"All Ages",3,"Both",0.104170341004531
+1102,"ors",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",0.101076649577599
+1102,"ors",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",0.104704877741082
+1102,"ors",4667,"Sinaloa",2011,22,"All Ages",3,"Both",0.104066300440362
+1102,"ors",4668,"Sonora",2011,22,"All Ages",3,"Both",0.10323469774287
+1102,"ors",4669,"Tabasco",2011,22,"All Ages",3,"Both",0.102312279513155
+1102,"ors",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",0.10288277257257
+1102,"ors",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",0.103814612077275
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",0.100056508268013
+1102,"ors",4673,"Yucatán",2011,22,"All Ages",3,"Both",0.10459262170211
+1102,"ors",4674,"Zacatecas",2011,22,"All Ages",3,"Both",0.103570893515505
+1102,"ors",130,"Mexico",2012,22,"All Ages",3,"Both",0.103191775846815
+1102,"ors",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",0.106378507764444
+1102,"ors",4644,"Baja California",2012,22,"All Ages",3,"Both",0.105339654876321
+1102,"ors",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",0.103921419842792
+1102,"ors",4646,"Campeche",2012,22,"All Ages",3,"Both",0.102156029667422
+1102,"ors",4647,"Coahuila",2012,22,"All Ages",3,"Both",0.103033876496065
+1102,"ors",4648,"Colima",2012,22,"All Ages",3,"Both",0.103870121773185
+1102,"ors",4649,"Chiapas",2012,22,"All Ages",3,"Both",0.0991109051536356
+1102,"ors",4650,"Chihuahua",2012,22,"All Ages",3,"Both",0.101549963358946
+1102,"ors",4651,"Mexico City",2012,22,"All Ages",3,"Both",0.104422713132058
+1102,"ors",4652,"Durango",2012,22,"All Ages",3,"Both",0.103990995876177
+1102,"ors",4653,"Guanajuato",2012,22,"All Ages",3,"Both",0.103206612278657
+1102,"ors",4654,"Guerrero",2012,22,"All Ages",3,"Both",0.0978793381965105
+1102,"ors",4655,"Hidalgo",2012,22,"All Ages",3,"Both",0.106578690724321
+1102,"ors",4656,"Jalisco",2012,22,"All Ages",3,"Both",0.104488830940729
+1102,"ors",4657,"México",2012,22,"All Ages",3,"Both",0.102804663683432
+1102,"ors",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",0.101004504570312
+1102,"ors",4659,"Morelos",2012,22,"All Ages",3,"Both",0.10189171746206
+1102,"ors",4660,"Nayarit",2012,22,"All Ages",3,"Both",0.104640510264747
+1102,"ors",4661,"Nuevo León",2012,22,"All Ages",3,"Both",0.104784053261123
+1102,"ors",4662,"Oaxaca",2012,22,"All Ages",3,"Both",0.102658127690798
+1102,"ors",4663,"Puebla",2012,22,"All Ages",3,"Both",0.103105123612976
+1102,"ors",4664,"Querétaro",2012,22,"All Ages",3,"Both",0.10509579914938
+1102,"ors",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",0.102466167065378
+1102,"ors",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",0.105640026138207
+1102,"ors",4667,"Sinaloa",2012,22,"All Ages",3,"Both",0.104963323136056
+1102,"ors",4668,"Sonora",2012,22,"All Ages",3,"Both",0.104248302888144
+1102,"ors",4669,"Tabasco",2012,22,"All Ages",3,"Both",0.103448002073453
+1102,"ors",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",0.104087253846409
+1102,"ors",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",0.104934907662357
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",0.101495321947944
+1102,"ors",4673,"Yucatán",2012,22,"All Ages",3,"Both",0.105478293542234
+1102,"ors",4674,"Zacatecas",2012,22,"All Ages",3,"Both",0.104560747500091
+1102,"ors",130,"Mexico",2013,22,"All Ages",3,"Both",0.10443454530749
+1102,"ors",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",0.107329546841298
+1102,"ors",4644,"Baja California",2013,22,"All Ages",3,"Both",0.10631097405444
+1102,"ors",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",0.104962556675405
+1102,"ors",4646,"Campeche",2013,22,"All Ages",3,"Both",0.103515240800569
+1102,"ors",4647,"Coahuila",2013,22,"All Ages",3,"Both",0.104260422644375
+1102,"ors",4648,"Colima",2013,22,"All Ages",3,"Both",0.104798396197175
+1102,"ors",4649,"Chiapas",2013,22,"All Ages",3,"Both",0.100678394073587
+1102,"ors",4650,"Chihuahua",2013,22,"All Ages",3,"Both",0.103598181851045
+1102,"ors",4651,"Mexico City",2013,22,"All Ages",3,"Both",0.105386430937483
+1102,"ors",4652,"Durango",2013,22,"All Ages",3,"Both",0.105179674848914
+1102,"ors",4653,"Guanajuato",2013,22,"All Ages",3,"Both",0.104422994353035
+1102,"ors",4654,"Guerrero",2013,22,"All Ages",3,"Both",0.100091830229431
+1102,"ors",4655,"Hidalgo",2013,22,"All Ages",3,"Both",0.107382076885414
+1102,"ors",4656,"Jalisco",2013,22,"All Ages",3,"Both",0.105492889102161
+1102,"ors",4657,"México",2013,22,"All Ages",3,"Both",0.104121860257003
+1102,"ors",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",0.102615725564666
+1102,"ors",4659,"Morelos",2013,22,"All Ages",3,"Both",0.103309016634672
+1102,"ors",4660,"Nayarit",2013,22,"All Ages",3,"Both",0.105626441452111
+1102,"ors",4661,"Nuevo León",2013,22,"All Ages",3,"Both",0.105706704049118
+1102,"ors",4662,"Oaxaca",2013,22,"All Ages",3,"Both",0.104064654481112
+1102,"ors",4663,"Puebla",2013,22,"All Ages",3,"Both",0.104393541527028
+1102,"ors",4664,"Querétaro",2013,22,"All Ages",3,"Both",0.106022353122412
+1102,"ors",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",0.103791334410762
+1102,"ors",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",0.106553756179973
+1102,"ors",4667,"Sinaloa",2013,22,"All Ages",3,"Both",0.105896976232192
+1102,"ors",4668,"Sonora",2013,22,"All Ages",3,"Both",0.105285082573175
+1102,"ors",4669,"Tabasco",2013,22,"All Ages",3,"Both",0.104577623418534
+1102,"ors",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",0.10520545316661
+1102,"ors",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",0.106014565860416
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",0.102909032130081
+1102,"ors",4673,"Yucatán",2013,22,"All Ages",3,"Both",0.106346163020631
+1102,"ors",4674,"Zacatecas",2013,22,"All Ages",3,"Both",0.10553651106813
+1102,"ors",130,"Mexico",2014,22,"All Ages",3,"Both",0.105225712705468
+1102,"ors",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",0.107917307436805
+1102,"ors",4644,"Baja California",2014,22,"All Ages",3,"Both",0.106884866241044
+1102,"ors",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",0.105588943713291
+1102,"ors",4646,"Campeche",2014,22,"All Ages",3,"Both",0.104402356608264
+1102,"ors",4647,"Coahuila",2014,22,"All Ages",3,"Both",0.105066706076678
+1102,"ors",4648,"Colima",2014,22,"All Ages",3,"Both",0.105352211162724
+1102,"ors",4649,"Chiapas",2014,22,"All Ages",3,"Both",0.101761114017721
+1102,"ors",4650,"Chihuahua",2014,22,"All Ages",3,"Both",0.10490008573273
+1102,"ors",4651,"Mexico City",2014,22,"All Ages",3,"Both",0.105953218989219
+1102,"ors",4652,"Durango",2014,22,"All Ages",3,"Both",0.105944743551396
+1102,"ors",4653,"Guanajuato",2014,22,"All Ages",3,"Both",0.105219813377127
+1102,"ors",4654,"Guerrero",2014,22,"All Ages",3,"Both",0.101562169546967
+1102,"ors",4655,"Hidalgo",2014,22,"All Ages",3,"Both",0.107816337813221
+1102,"ors",4656,"Jalisco",2014,22,"All Ages",3,"Both",0.106085990518709
+1102,"ors",4657,"México",2014,22,"All Ages",3,"Both",0.104982373558605
+1102,"ors",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",0.103709206160398
+1102,"ors",4659,"Morelos",2014,22,"All Ages",3,"Both",0.104227177754334
+1102,"ors",4660,"Nayarit",2014,22,"All Ages",3,"Both",0.106240195750449
+1102,"ors",4661,"Nuevo León",2014,22,"All Ages",3,"Both",0.10629369916642
+1102,"ors",4662,"Oaxaca",2014,22,"All Ages",3,"Both",0.10491365974334
+1102,"ors",4663,"Puebla",2014,22,"All Ages",3,"Both",0.105200724107181
+1102,"ors",4664,"Querétaro",2014,22,"All Ages",3,"Both",0.106573593596988
+1102,"ors",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",0.104667694244241
+1102,"ors",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",0.10706340754238
+1102,"ors",4667,"Sinaloa",2014,22,"All Ages",3,"Both",0.106498846156069
+1102,"ors",4668,"Sonora",2014,22,"All Ages",3,"Both",0.105919594386558
+1102,"ors",4669,"Tabasco",2014,22,"All Ages",3,"Both",0.105300742830502
+1102,"ors",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",0.105869113675879
+1102,"ors",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",0.106679757438214
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",0.103865501330038
+1102,"ors",4673,"Yucatán",2014,22,"All Ages",3,"Both",0.106847695619576
+1102,"ors",4674,"Zacatecas",2014,22,"All Ages",3,"Both",0.106153314398087
+1102,"ors",130,"Mexico",2015,22,"All Ages",3,"Both",0.105529495545037
+1102,"ors",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",0.108072235315904
+1102,"ors",4644,"Baja California",2015,22,"All Ages",3,"Both",0.107027745892963
+1102,"ors",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",0.105764553042634
+1102,"ors",4646,"Campeche",2015,22,"All Ages",3,"Both",0.104796482698391
+1102,"ors",4647,"Coahuila",2015,22,"All Ages",3,"Both",0.105395956786985
+1102,"ors",4648,"Colima",2015,22,"All Ages",3,"Both",0.10547245958125
+1102,"ors",4649,"Chiapas",2015,22,"All Ages",3,"Both",0.102312285929469
+1102,"ors",4650,"Chihuahua",2015,22,"All Ages",3,"Both",0.105487908684009
+1102,"ors",4651,"Mexico City",2015,22,"All Ages",3,"Both",0.106074720366097
+1102,"ors",4652,"Durango",2015,22,"All Ages",3,"Both",0.106247338722894
+1102,"ors",4653,"Guanajuato",2015,22,"All Ages",3,"Both",0.105552976254701
+1102,"ors",4654,"Guerrero",2015,22,"All Ages",3,"Both",0.102272183210549
+1102,"ors",4655,"Hidalgo",2015,22,"All Ages",3,"Both",0.107861437526512
+1102,"ors",4656,"Jalisco",2015,22,"All Ages",3,"Both",0.106245808850948
+1102,"ors",4657,"México",2015,22,"All Ages",3,"Both",0.10535451813678
+1102,"ors",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",0.104224608608926
+1102,"ors",4659,"Morelos",2015,22,"All Ages",3,"Both",0.104584689610095
+1102,"ors",4660,"Nayarit",2015,22,"All Ages",3,"Both",0.106452625379771
+1102,"ors",4661,"Nuevo León",2015,22,"All Ages",3,"Both",0.10648997722218
+1102,"ors",4662,"Oaxaca",2015,22,"All Ages",3,"Both",0.105208176495904
+1102,"ors",4663,"Puebla",2015,22,"All Ages",3,"Both",0.105484662917296
+1102,"ors",4664,"Querétaro",2015,22,"All Ages",3,"Both",0.106684295539254
+1102,"ors",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",0.105072960217581
+1102,"ors",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",0.107151459848117
+1102,"ors",4667,"Sinaloa",2015,22,"All Ages",3,"Both",0.106709955281487
+1102,"ors",4668,"Sonora",2015,22,"All Ages",3,"Both",0.106110372358578
+1102,"ors",4669,"Tabasco",2015,22,"All Ages",3,"Both",0.105578874846628
+1102,"ors",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",0.106071074933875
+1102,"ors",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",0.106896767149491
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",0.104304262626449
+1102,"ors",4673,"Yucatán",2015,22,"All Ages",3,"Both",0.106954496343983
+1102,"ors",4674,"Zacatecas",2015,22,"All Ages",3,"Both",0.106389598511588
+1102,"ors",130,"Mexico",2016,22,"All Ages",3,"Both",0.105708104243199
+1102,"ors",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",0.108128318259809
+1102,"ors",4644,"Baja California",2016,22,"All Ages",3,"Both",0.107096372848401
+1102,"ors",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",0.105850653245536
+1102,"ors",4646,"Campeche",2016,22,"All Ages",3,"Both",0.105027445665056
+1102,"ors",4647,"Coahuila",2016,22,"All Ages",3,"Both",0.105591538715764
+1102,"ors",4648,"Colima",2016,22,"All Ages",3,"Both",0.105530207288407
+1102,"ors",4649,"Chiapas",2016,22,"All Ages",3,"Both",0.102664200613102
+1102,"ors",4650,"Chihuahua",2016,22,"All Ages",3,"Both",0.105810831229412
+1102,"ors",4651,"Mexico City",2016,22,"All Ages",3,"Both",0.10612380162757
+1102,"ors",4652,"Durango",2016,22,"All Ages",3,"Both",0.106429020867428
+1102,"ors",4653,"Guanajuato",2016,22,"All Ages",3,"Both",0.105765695982384
+1102,"ors",4654,"Guerrero",2016,22,"All Ages",3,"Both",0.10269933064961
+1102,"ors",4655,"Hidalgo",2016,22,"All Ages",3,"Both",0.107871008006586
+1102,"ors",4656,"Jalisco",2016,22,"All Ages",3,"Both",0.106334246207929
+1102,"ors",4657,"México",2016,22,"All Ages",3,"Both",0.105575578517585
+1102,"ors",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",0.104527445235567
+1102,"ors",4659,"Morelos",2016,22,"All Ages",3,"Both",0.104783291052751
+1102,"ors",4660,"Nayarit",2016,22,"All Ages",3,"Both",0.106580938137328
+1102,"ors",4661,"Nuevo León",2016,22,"All Ages",3,"Both",0.106623696767805
+1102,"ors",4662,"Oaxaca",2016,22,"All Ages",3,"Both",0.105364851119716
+1102,"ors",4663,"Puebla",2016,22,"All Ages",3,"Both",0.105619017231669
+1102,"ors",4664,"Querétaro",2016,22,"All Ages",3,"Both",0.106753904877503
+1102,"ors",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",0.105329137777791
+1102,"ors",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",0.107207816074507
+1102,"ors",4667,"Sinaloa",2016,22,"All Ages",3,"Both",0.106858942384537
+1102,"ors",4668,"Sonora",2016,22,"All Ages",3,"Both",0.106227471730974
+1102,"ors",4669,"Tabasco",2016,22,"All Ages",3,"Both",0.105731885377529
+1102,"ors",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",0.106189820966064
+1102,"ors",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",0.107028414059273
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",0.104580056705007
+1102,"ors",4673,"Yucatán",2016,22,"All Ages",3,"Both",0.107012708564063
+1102,"ors",4674,"Zacatecas",2016,22,"All Ages",3,"Both",0.106580615117319
+1102,"ors",130,"Mexico",2017,22,"All Ages",3,"Both",0.105824699033605
+1102,"ors",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",0.108145939219579
+1102,"ors",4644,"Baja California",2017,22,"All Ages",3,"Both",0.107130899624043
+1102,"ors",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",0.105920574722501
+1102,"ors",4646,"Campeche",2017,22,"All Ages",3,"Both",0.105186358042179
+1102,"ors",4647,"Coahuila",2017,22,"All Ages",3,"Both",0.105714824222545
+1102,"ors",4648,"Colima",2017,22,"All Ages",3,"Both",0.105593294909243
+1102,"ors",4649,"Chiapas",2017,22,"All Ages",3,"Both",0.102932660268797
+1102,"ors",4650,"Chihuahua",2017,22,"All Ages",3,"Both",0.105968883915316
+1102,"ors",4651,"Mexico City",2017,22,"All Ages",3,"Both",0.106144897164271
+1102,"ors",4652,"Durango",2017,22,"All Ages",3,"Both",0.10652057505768
+1102,"ors",4653,"Guanajuato",2017,22,"All Ages",3,"Both",0.105906327952913
+1102,"ors",4654,"Guerrero",2017,22,"All Ages",3,"Both",0.10295060194492
+1102,"ors",4655,"Hidalgo",2017,22,"All Ages",3,"Both",0.107887471022991
+1102,"ors",4656,"Jalisco",2017,22,"All Ages",3,"Both",0.106405090247558
+1102,"ors",4657,"México",2017,22,"All Ages",3,"Both",0.10570215903379
+1102,"ors",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",0.104674725288529
+1102,"ors",4659,"Morelos",2017,22,"All Ages",3,"Both",0.104922484234455
+1102,"ors",4660,"Nayarit",2017,22,"All Ages",3,"Both",0.106692239655522
+1102,"ors",4661,"Nuevo León",2017,22,"All Ages",3,"Both",0.10673370467795
+1102,"ors",4662,"Oaxaca",2017,22,"All Ages",3,"Both",0.105463416503108
+1102,"ors",4663,"Puebla",2017,22,"All Ages",3,"Both",0.105704689778491
+1102,"ors",4664,"Querétaro",2017,22,"All Ages",3,"Both",0.10681767112153
+1102,"ors",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",0.105524970437173
+1102,"ors",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",0.107262689204123
+1102,"ors",4667,"Sinaloa",2017,22,"All Ages",3,"Both",0.106982996985419
+1102,"ors",4668,"Sonora",2017,22,"All Ages",3,"Both",0.1063077396377
+1102,"ors",4669,"Tabasco",2017,22,"All Ages",3,"Both",0.105819254180773
+1102,"ors",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",0.106280290573342
+1102,"ors",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",0.10714899864371
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",0.104787013913757
+1102,"ors",4673,"Yucatán",2017,22,"All Ages",3,"Both",0.107056437928431
+1102,"ors",4674,"Zacatecas",2017,22,"All Ages",3,"Both",0.106773037780271
+1102,"ors",130,"Mexico",2018,22,"All Ages",3,"Both",0.106297915354162
+1102,"ors",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",0.108599628607841
+1102,"ors",4644,"Baja California",2018,22,"All Ages",3,"Both",0.107456810551288
+1102,"ors",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",0.106295233406676
+1102,"ors",4646,"Campeche",2018,22,"All Ages",3,"Both",0.105736091762675
+1102,"ors",4647,"Coahuila",2018,22,"All Ages",3,"Both",0.106156461423207
+1102,"ors",4648,"Colima",2018,22,"All Ages",3,"Both",0.106047756574882
+1102,"ors",4649,"Chiapas",2018,22,"All Ages",3,"Both",0.103521589074137
+1102,"ors",4650,"Chihuahua",2018,22,"All Ages",3,"Both",0.106413665980065
+1102,"ors",4651,"Mexico City",2018,22,"All Ages",3,"Both",0.106516616508343
+1102,"ors",4652,"Durango",2018,22,"All Ages",3,"Both",0.107068359344169
+1102,"ors",4653,"Guanajuato",2018,22,"All Ages",3,"Both",0.10642918328459
+1102,"ors",4654,"Guerrero",2018,22,"All Ages",3,"Both",0.103490415937915
+1102,"ors",4655,"Hidalgo",2018,22,"All Ages",3,"Both",0.108376758032658
+1102,"ors",4656,"Jalisco",2018,22,"All Ages",3,"Both",0.106885515933221
+1102,"ors",4657,"México",2018,22,"All Ages",3,"Both",0.106175248418511
+1102,"ors",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",0.105226927167546
+1102,"ors",4659,"Morelos",2018,22,"All Ages",3,"Both",0.105363401699284
+1102,"ors",4660,"Nayarit",2018,22,"All Ages",3,"Both",0.107257234746298
+1102,"ors",4661,"Nuevo León",2018,22,"All Ages",3,"Both",0.107066931182114
+1102,"ors",4662,"Oaxaca",2018,22,"All Ages",3,"Both",0.106056604667851
+1102,"ors",4663,"Puebla",2018,22,"All Ages",3,"Both",0.106186738173281
+1102,"ors",4664,"Querétaro",2018,22,"All Ages",3,"Both",0.107175950132839
+1102,"ors",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",0.105853344017715
+1102,"ors",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",0.107797734996244
+1102,"ors",4667,"Sinaloa",2018,22,"All Ages",3,"Both",0.10745609273028
+1102,"ors",4668,"Sonora",2018,22,"All Ages",3,"Both",0.106713555018754
+1102,"ors",4669,"Tabasco",2018,22,"All Ages",3,"Both",0.106367915383057
+1102,"ors",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",0.106692950977083
+1102,"ors",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",0.107530948754942
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",0.105343793056085
+1102,"ors",4673,"Yucatán",2018,22,"All Ages",3,"Both",0.107577111965256
+1102,"ors",4674,"Zacatecas",2018,22,"All Ages",3,"Both",0.107421291229712
+1102,"ors",130,"Mexico",2019,22,"All Ages",3,"Both",0.106738553107463
+1102,"ors",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",0.109032665278663
+1102,"ors",4644,"Baja California",2019,22,"All Ages",3,"Both",0.107772483725763
+1102,"ors",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",0.106656849197619
+1102,"ors",4646,"Campeche",2019,22,"All Ages",3,"Both",0.106240312379366
+1102,"ors",4647,"Coahuila",2019,22,"All Ages",3,"Both",0.106577859114324
+1102,"ors",4648,"Colima",2019,22,"All Ages",3,"Both",0.106470522259469
+1102,"ors",4649,"Chiapas",2019,22,"All Ages",3,"Both",0.104040697476378
+1102,"ors",4650,"Chihuahua",2019,22,"All Ages",3,"Both",0.106819797048987
+1102,"ors",4651,"Mexico City",2019,22,"All Ages",3,"Both",0.106884945386137
+1102,"ors",4652,"Durango",2019,22,"All Ages",3,"Both",0.107564575793038
+1102,"ors",4653,"Guanajuato",2019,22,"All Ages",3,"Both",0.106919743827564
+1102,"ors",4654,"Guerrero",2019,22,"All Ages",3,"Both",0.103972809392121
+1102,"ors",4655,"Hidalgo",2019,22,"All Ages",3,"Both",0.108833123537571
+1102,"ors",4656,"Jalisco",2019,22,"All Ages",3,"Both",0.107333690988661
+1102,"ors",4657,"México",2019,22,"All Ages",3,"Both",0.106609237749514
+1102,"ors",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",0.105733793420683
+1102,"ors",4659,"Morelos",2019,22,"All Ages",3,"Both",0.105785446280309
+1102,"ors",4660,"Nayarit",2019,22,"All Ages",3,"Both",0.107778389108469
+1102,"ors",4661,"Nuevo León",2019,22,"All Ages",3,"Both",0.107397732027657
+1102,"ors",4662,"Oaxaca",2019,22,"All Ages",3,"Both",0.106596064461536
+1102,"ors",4663,"Puebla",2019,22,"All Ages",3,"Both",0.106640002774501
+1102,"ors",4664,"Querétaro",2019,22,"All Ages",3,"Both",0.107537851870817
+1102,"ors",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",0.106179905674599
+1102,"ors",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",0.108291960178175
+1102,"ors",4667,"Sinaloa",2019,22,"All Ages",3,"Both",0.107904906844248
+1102,"ors",4668,"Sonora",2019,22,"All Ages",3,"Both",0.10710257929548
+1102,"ors",4669,"Tabasco",2019,22,"All Ages",3,"Both",0.106875833796691
+1102,"ors",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",0.107092954004137
+1102,"ors",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",0.10791804966932
+1102,"ors",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",0.105852202268289
+1102,"ors",4673,"Yucatán",2019,22,"All Ages",3,"Both",0.108074358077457
+1102,"ors",4674,"Zacatecas",2019,22,"All Ages",3,"Both",0.108004324677296

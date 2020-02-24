@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+463,"maternal_educ_yrs_pc",130,"Mexico",1990,22,"All Ages",3,"Both",6.48372320293965
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",6.91356807280198
+463,"maternal_educ_yrs_pc",4644,"Baja California",1990,22,"All Ages",3,"Both",7.3708049555779
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",7.25531934184795
+463,"maternal_educ_yrs_pc",4646,"Campeche",1990,22,"All Ages",3,"Both",5.84023167309293
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1990,22,"All Ages",3,"Both",7.44426898861141
+463,"maternal_educ_yrs_pc",4648,"Colima",1990,22,"All Ages",3,"Both",6.85179726418494
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1990,22,"All Ages",3,"Both",3.91453714416424
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1990,22,"All Ages",3,"Both",6.99037210859104
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1990,22,"All Ages",3,"Both",8.60507736278227
+463,"maternal_educ_yrs_pc",4652,"Durango",1990,22,"All Ages",3,"Both",6.60692762913454
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1990,22,"All Ages",3,"Both",5.31686670679104
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1990,22,"All Ages",3,"Both",5.0111613913812
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1990,22,"All Ages",3,"Both",5.55141955575289
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1990,22,"All Ages",3,"Both",6.6527870085094
+463,"maternal_educ_yrs_pc",4657,"México",1990,22,"All Ages",3,"Both",6.73622949256093
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",5.43803327095858
+463,"maternal_educ_yrs_pc",4659,"Morelos",1990,22,"All Ages",3,"Both",6.94264627851324
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1990,22,"All Ages",3,"Both",6.61470355028967
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1990,22,"All Ages",3,"Both",7.92709443436502
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1990,22,"All Ages",3,"Both",4.54757312925694
+463,"maternal_educ_yrs_pc",4663,"Puebla",1990,22,"All Ages",3,"Both",5.72755573335517
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1990,22,"All Ages",3,"Both",6.2600401019925
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",6.15990714607987
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",6.06636578221955
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1990,22,"All Ages",3,"Both",6.84598140982102
+463,"maternal_educ_yrs_pc",4668,"Sonora",1990,22,"All Ages",3,"Both",7.46384594786162
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1990,22,"All Ages",3,"Both",5.72269097553193
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",7.1529002566915
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",6.45990938465607
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",5.61562168184191
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1990,22,"All Ages",3,"Both",5.82547548671745
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1990,22,"All Ages",3,"Both",5.72994855961468
+463,"maternal_educ_yrs_pc",130,"Mexico",1991,22,"All Ages",3,"Both",6.64467261523141
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",7.07907070308404
+463,"maternal_educ_yrs_pc",4644,"Baja California",1991,22,"All Ages",3,"Both",7.51963251157057
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",7.41669612164198
+463,"maternal_educ_yrs_pc",4646,"Campeche",1991,22,"All Ages",3,"Both",6.00775078073536
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1991,22,"All Ages",3,"Both",7.60479308420785
+463,"maternal_educ_yrs_pc",4648,"Colima",1991,22,"All Ages",3,"Both",7.02230736156663
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1991,22,"All Ages",3,"Both",4.05204924116313
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1991,22,"All Ages",3,"Both",7.13763366875832
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1991,22,"All Ages",3,"Both",8.76116933448452
+463,"maternal_educ_yrs_pc",4652,"Durango",1991,22,"All Ages",3,"Both",6.7654917664232
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1991,22,"All Ages",3,"Both",5.48286252690122
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1991,22,"All Ages",3,"Both",5.18733221517752
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1991,22,"All Ages",3,"Both",5.73458935657369
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1991,22,"All Ages",3,"Both",6.81719661491918
+463,"maternal_educ_yrs_pc",4657,"México",1991,22,"All Ages",3,"Both",6.91373156516612
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",5.60221126994098
+463,"maternal_educ_yrs_pc",4659,"Morelos",1991,22,"All Ages",3,"Both",7.11751910170552
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1991,22,"All Ages",3,"Both",6.79657894225204
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1991,22,"All Ages",3,"Both",8.08622693835138
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1991,22,"All Ages",3,"Both",4.71346301434249
+463,"maternal_educ_yrs_pc",4663,"Puebla",1991,22,"All Ages",3,"Both",5.89016874318364
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1991,22,"All Ages",3,"Both",6.44215893806999
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",6.32717455831768
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",6.24635998984396
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1991,22,"All Ages",3,"Both",7.03449356684956
+463,"maternal_educ_yrs_pc",4668,"Sonora",1991,22,"All Ages",3,"Both",7.62973145916161
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1991,22,"All Ages",3,"Both",5.90507619623548
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",7.31635478163775
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",6.64058495232607
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",5.77993005123672
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1991,22,"All Ages",3,"Both",5.97871761102378
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1991,22,"All Ages",3,"Both",5.90101599669607
+463,"maternal_educ_yrs_pc",130,"Mexico",1992,22,"All Ages",3,"Both",6.80368047967555
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",7.24107756938646
+463,"maternal_educ_yrs_pc",4644,"Baja California",1992,22,"All Ages",3,"Both",7.66421667024961
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",7.57475910129539
+463,"maternal_educ_yrs_pc",4646,"Campeche",1992,22,"All Ages",3,"Both",6.17448953053043
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1992,22,"All Ages",3,"Both",7.76115912009353
+463,"maternal_educ_yrs_pc",4648,"Colima",1992,22,"All Ages",3,"Both",7.18913276254588
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1992,22,"All Ages",3,"Both",4.19008032772214
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1992,22,"All Ages",3,"Both",7.28130795190219
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1992,22,"All Ages",3,"Both",8.91224228335002
+463,"maternal_educ_yrs_pc",4652,"Durango",1992,22,"All Ages",3,"Both",6.920926128157
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1992,22,"All Ages",3,"Both",5.64743022139717
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1992,22,"All Ages",3,"Both",5.36212369044712
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1992,22,"All Ages",3,"Both",5.91657246741998
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1992,22,"All Ages",3,"Both",6.97801099097154
+463,"maternal_educ_yrs_pc",4657,"México",1992,22,"All Ages",3,"Both",7.08704370085909
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",5.76406254200841
+463,"maternal_educ_yrs_pc",4659,"Morelos",1992,22,"All Ages",3,"Both",7.28785181299369
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1992,22,"All Ages",3,"Both",6.97511892959585
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1992,22,"All Ages",3,"Both",8.24023276297391
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1992,22,"All Ages",3,"Both",4.87920399005562
+463,"maternal_educ_yrs_pc",4663,"Puebla",1992,22,"All Ages",3,"Both",6.05028454424072
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1992,22,"All Ages",3,"Both",6.62122858619271
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",6.49257128415586
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",6.42365110582972
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1992,22,"All Ages",3,"Both",7.2197811688271
+463,"maternal_educ_yrs_pc",4668,"Sonora",1992,22,"All Ages",3,"Both",7.791625734389
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1992,22,"All Ages",3,"Both",6.08648694764122
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",7.47621377665957
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",6.81796377297191
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",5.9420802196811
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1992,22,"All Ages",3,"Both",6.13069641993695
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1992,22,"All Ages",3,"Both",6.0704022779627
+463,"maternal_educ_yrs_pc",130,"Mexico",1993,22,"All Ages",3,"Both",6.96016597306783
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",7.39934041363596
+463,"maternal_educ_yrs_pc",4644,"Baja California",1993,22,"All Ages",3,"Both",7.80439511756723
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",7.72931627434834
+463,"maternal_educ_yrs_pc",4646,"Campeche",1993,22,"All Ages",3,"Both",6.34013904430988
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1993,22,"All Ages",3,"Both",7.91313888132242
+463,"maternal_educ_yrs_pc",4648,"Colima",1993,22,"All Ages",3,"Both",7.35198692227227
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1993,22,"All Ages",3,"Both",4.32833928724478
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1993,22,"All Ages",3,"Both",7.42121691893745
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1993,22,"All Ages",3,"Both",9.05815121596773
+463,"maternal_educ_yrs_pc",4652,"Durango",1993,22,"All Ages",3,"Both",7.07296641623787
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1993,22,"All Ages",3,"Both",5.81020468635852
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1993,22,"All Ages",3,"Both",5.53503588164212
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1993,22,"All Ages",3,"Both",6.09691202536721
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1993,22,"All Ages",3,"Both",7.13495474577261
+463,"maternal_educ_yrs_pc",4657,"México",1993,22,"All Ages",3,"Both",7.25584115911638
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",5.92321049349821
+463,"maternal_educ_yrs_pc",4659,"Morelos",1993,22,"All Ages",3,"Both",7.45333078646718
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1993,22,"All Ages",3,"Both",7.14993311672313
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1993,22,"All Ages",3,"Both",8.38889005099393
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1993,22,"All Ages",3,"Both",5.04436415945953
+463,"maternal_educ_yrs_pc",4663,"Puebla",1993,22,"All Ages",3,"Both",6.20757688284086
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1993,22,"All Ages",3,"Both",6.79683915142742
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",6.65577310733147
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",6.59781429565366
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1993,22,"All Ages",3,"Both",7.4014264658974
+463,"maternal_educ_yrs_pc",4668,"Sonora",1993,22,"All Ages",3,"Both",7.94928997402709
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1993,22,"All Ages",3,"Both",6.26650997750123
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",7.63221350249227
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",6.99167112158257
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",6.10172220716887
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1993,22,"All Ages",3,"Both",6.28116025693884
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1993,22,"All Ages",3,"Both",6.23773687582462
+463,"maternal_educ_yrs_pc",130,"Mexico",1994,22,"All Ages",3,"Both",7.11357230960482
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",7.5535574200172
+463,"maternal_educ_yrs_pc",4644,"Baja California",1994,22,"All Ages",3,"Both",7.93995155549451
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",7.88011206692977
+463,"maternal_educ_yrs_pc",4646,"Campeche",1994,22,"All Ages",3,"Both",6.50432481658244
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1994,22,"All Ages",3,"Both",8.06044878356264
+463,"maternal_educ_yrs_pc",4648,"Colima",1994,22,"All Ages",3,"Both",7.51053480135966
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1994,22,"All Ages",3,"Both",4.46649084484542
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1994,22,"All Ages",3,"Both",7.55712807795319
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1994,22,"All Ages",3,"Both",9.19867990198903
+463,"maternal_educ_yrs_pc",4652,"Durango",1994,22,"All Ages",3,"Both",7.22129852621623
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1994,22,"All Ages",3,"Both",5.97077841803377
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1994,22,"All Ages",3,"Both",5.70553043291335
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1994,22,"All Ages",3,"Both",6.27510291134386
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1994,22,"All Ages",3,"Both",7.28770669522786
+463,"maternal_educ_yrs_pc",4657,"México",1994,22,"All Ages",3,"Both",7.41976479150701
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",6.07924467587246
+463,"maternal_educ_yrs_pc",4659,"Morelos",1994,22,"All Ages",3,"Both",7.61360603755771
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1994,22,"All Ages",3,"Both",7.32058623153448
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1994,22,"All Ages",3,"Both",8.53192313559363
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1994,22,"All Ages",3,"Both",5.20846824668412
+463,"maternal_educ_yrs_pc",4663,"Puebla",1994,22,"All Ages",3,"Both",6.36167988673574
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1994,22,"All Ages",3,"Both",6.9685395434731
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",6.81639780562406
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",6.76838272745558
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1994,22,"All Ages",3,"Both",7.57896016214141
+463,"maternal_educ_yrs_pc",4668,"Sonora",1994,22,"All Ages",3,"Both",8.10242785257847
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1994,22,"All Ages",3,"Both",6.44467596292423
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",7.78403434595632
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",7.16129019518194
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",6.25846704176486
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1994,22,"All Ages",3,"Both",6.42979820434658
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1994,22,"All Ages",3,"Both",6.40259973245705
+463,"maternal_educ_yrs_pc",130,"Mexico",1995,22,"All Ages",3,"Both",7.26337490816349
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",7.70340335830903
+463,"maternal_educ_yrs_pc",4644,"Baja California",1995,22,"All Ages",3,"Both",8.07065201209693
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",8.02686294597594
+463,"maternal_educ_yrs_pc",4646,"Campeche",1995,22,"All Ages",3,"Both",6.66662046536725
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1995,22,"All Ages",3,"Both",8.20278663509992
+463,"maternal_educ_yrs_pc",4648,"Colima",1995,22,"All Ages",3,"Both",7.66441787154987
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1995,22,"All Ages",3,"Both",4.60415935553493
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1995,22,"All Ages",3,"Both",7.68879053107397
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1995,22,"All Ages",3,"Both",9.33359613654729
+463,"maternal_educ_yrs_pc",4652,"Durango",1995,22,"All Ages",3,"Both",7.36558557555876
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1995,22,"All Ages",3,"Both",6.12871149002576
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1995,22,"All Ages",3,"Both",5.87303148522309
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1995,22,"All Ages",3,"Both",6.45059730675791
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1995,22,"All Ages",3,"Both",7.43592624820538
+463,"maternal_educ_yrs_pc",4657,"México",1995,22,"All Ages",3,"Both",7.57844195103122
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",6.23173214698074
+463,"maternal_educ_yrs_pc",4659,"Morelos",1995,22,"All Ages",3,"Both",7.76831404465629
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1995,22,"All Ages",3,"Both",7.48661641127645
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1995,22,"All Ages",3,"Both",8.66904288700863
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1995,22,"All Ages",3,"Both",5.37099702339019
+463,"maternal_educ_yrs_pc",4663,"Puebla",1995,22,"All Ages",3,"Both",6.5122027445228
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1995,22,"All Ages",3,"Both",7.13585426803489
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",6.97402454217532
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",6.93486107936181
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1995,22,"All Ages",3,"Both",7.75188070959534
+463,"maternal_educ_yrs_pc",4668,"Sonora",1995,22,"All Ages",3,"Both",8.25071956349425
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1995,22,"All Ages",3,"Both",6.62047011171313
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",7.93133298186311
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",7.32637433361801
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",6.41190023305497
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1995,22,"All Ages",3,"Both",6.5762642769056
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1995,22,"All Ages",3,"Both",6.56453390210805
+463,"maternal_educ_yrs_pc",130,"Mexico",1996,22,"All Ages",3,"Both",7.40908922872873
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",7.84876517266493
+463,"maternal_educ_yrs_pc",4644,"Baja California",1996,22,"All Ages",3,"Both",8.19647676283338
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",8.16947765261708
+463,"maternal_educ_yrs_pc",4646,"Campeche",1996,22,"All Ages",3,"Both",6.82680812801826
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1996,22,"All Ages",3,"Both",8.34006695294862
+463,"maternal_educ_yrs_pc",4648,"Colima",1996,22,"All Ages",3,"Both",7.81351669801243
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1996,22,"All Ages",3,"Both",4.74112422006416
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1996,22,"All Ages",3,"Both",7.81614489488971
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1996,22,"All Ages",3,"Both",9.46286462225271
+463,"maternal_educ_yrs_pc",4652,"Durango",1996,22,"All Ages",3,"Both",7.50569989273024
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1996,22,"All Ages",3,"Both",6.2837788262863
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1996,22,"All Ages",3,"Both",6.03722424145034
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1996,22,"All Ages",3,"Both",6.62309185184109
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1996,22,"All Ages",3,"Both",7.57949793387319
+463,"maternal_educ_yrs_pc",4657,"México",1996,22,"All Ages",3,"Both",7.73175190854732
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",6.38047537504255
+463,"maternal_educ_yrs_pc",4659,"Morelos",1996,22,"All Ages",3,"Both",7.91735163497112
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1996,22,"All Ages",3,"Both",7.647821383417
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1996,22,"All Ages",3,"Both",8.80020210477853
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1996,22,"All Ages",3,"Both",5.53164835399352
+463,"maternal_educ_yrs_pc",4663,"Puebla",1996,22,"All Ages",3,"Both",6.65898196202919
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1996,22,"All Ages",3,"Both",7.29855670299205
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",7.12844899175506
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",7.09700964228834
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1996,22,"All Ages",3,"Both",7.91995984337062
+463,"maternal_educ_yrs_pc",4668,"Sonora",1996,22,"All Ages",3,"Both",8.39407077910268
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1996,22,"All Ages",3,"Both",6.79360025984297
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",8.07398896881611
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",7.48675084860633
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",6.56183460425101
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1996,22,"All Ages",3,"Both",6.72038100517137
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1996,22,"All Ages",3,"Both",6.72330789149795
+463,"maternal_educ_yrs_pc",130,"Mexico",1997,22,"All Ages",3,"Both",7.55027813624221
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",7.98928854141043
+463,"maternal_educ_yrs_pc",4644,"Baja California",1997,22,"All Ages",3,"Both",8.31717380686479
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",8.30764066797032
+463,"maternal_educ_yrs_pc",4646,"Campeche",1997,22,"All Ages",3,"Both",6.98437100602499
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1997,22,"All Ages",3,"Both",8.47197126408043
+463,"maternal_educ_yrs_pc",4648,"Colima",1997,22,"All Ages",3,"Both",7.95743545477673
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1997,22,"All Ages",3,"Both",4.87693634769504
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1997,22,"All Ages",3,"Both",7.93892420888607
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1997,22,"All Ages",3,"Both",9.58625901446453
+463,"maternal_educ_yrs_pc",4652,"Durango",1997,22,"All Ages",3,"Both",7.64127556879653
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1997,22,"All Ages",3,"Both",6.43548555211412
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1997,22,"All Ages",3,"Both",6.1974629544017
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1997,22,"All Ages",3,"Both",6.79196122817226
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1997,22,"All Ages",3,"Both",7.71805909068782
+463,"maternal_educ_yrs_pc",4657,"México",1997,22,"All Ages",3,"Both",7.87930344987663
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",6.52500144324041
+463,"maternal_educ_yrs_pc",4659,"Morelos",1997,22,"All Ages",3,"Both",8.06033499287531
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1997,22,"All Ages",3,"Both",7.8036954499585
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1997,22,"All Ages",3,"Both",8.92510285528396
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1997,22,"All Ages",3,"Both",5.68982075485092
+463,"maternal_educ_yrs_pc",4663,"Puebla",1997,22,"All Ages",3,"Both",6.80158414434808
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1997,22,"All Ages",3,"Both",7.45613606204685
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",7.27919304537801
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",7.25428605897711
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1997,22,"All Ages",3,"Both",8.08264418490432
+463,"maternal_educ_yrs_pc",4668,"Sonora",1997,22,"All Ages",3,"Both",8.53213380372926
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1997,22,"All Ages",3,"Both",6.96347370101707
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",8.21163025627753
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",7.64191468843283
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",6.7078129209404
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1997,22,"All Ages",3,"Both",6.86175349623372
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1997,22,"All Ages",3,"Both",6.87840197186261
+463,"maternal_educ_yrs_pc",130,"Mexico",1998,22,"All Ages",3,"Both",7.6865586524785
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",8.12466816046994
+463,"maternal_educ_yrs_pc",4644,"Baja California",1998,22,"All Ages",3,"Both",8.43253007301398
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",8.44105916452654
+463,"maternal_educ_yrs_pc",4646,"Campeche",1998,22,"All Ages",3,"Both",7.13887161199201
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1998,22,"All Ages",3,"Both",8.59822166496826
+463,"maternal_educ_yrs_pc",4648,"Colima",1998,22,"All Ages",3,"Both",8.09585530257549
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1998,22,"All Ages",3,"Both",5.01122114603277
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1998,22,"All Ages",3,"Both",8.05688694243219
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1998,22,"All Ages",3,"Both",9.7035411353144
+463,"maternal_educ_yrs_pc",4652,"Durango",1998,22,"All Ages",3,"Both",7.77200089014267
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1998,22,"All Ages",3,"Both",6.58343325681491
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1998,22,"All Ages",3,"Both",6.35325569318791
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1998,22,"All Ages",3,"Both",6.95670454357137
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1998,22,"All Ages",3,"Both",7.85131522424835
+463,"maternal_educ_yrs_pc",4657,"México",1998,22,"All Ages",3,"Both",8.02079783616498
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",6.66494959015274
+463,"maternal_educ_yrs_pc",4659,"Morelos",1998,22,"All Ages",3,"Both",8.19697503984817
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1998,22,"All Ages",3,"Both",7.95383872840273
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1998,22,"All Ages",3,"Both",9.04349908437836
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1998,22,"All Ages",3,"Both",5.84503681038875
+463,"maternal_educ_yrs_pc",4663,"Puebla",1998,22,"All Ages",3,"Both",6.93967301139948
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1998,22,"All Ages",3,"Both",7.60818388372324
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",7.42585203704374
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",7.40626420309866
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1998,22,"All Ages",3,"Both",8.23949687942028
+463,"maternal_educ_yrs_pc",4668,"Sonora",1998,22,"All Ages",3,"Both",8.66461231758687
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1998,22,"All Ages",3,"Both",7.12959489351746
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",8.34394144019881
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",7.79148808464967
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",6.84947811650996
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1998,22,"All Ages",3,"Both",7.0000242446523
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1998,22,"All Ages",3,"Both",7.0293929317872
+463,"maternal_educ_yrs_pc",130,"Mexico",1999,22,"All Ages",3,"Both",7.8176079611083
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",8.25463975450672
+463,"maternal_educ_yrs_pc",4644,"Baja California",1999,22,"All Ages",3,"Both",8.54237923788919
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",8.56947730606587
+463,"maternal_educ_yrs_pc",4646,"Campeche",1999,22,"All Ages",3,"Both",7.28988727286793
+463,"maternal_educ_yrs_pc",4647,"Coahuila",1999,22,"All Ages",3,"Both",8.71858994674191
+463,"maternal_educ_yrs_pc",4648,"Colima",1999,22,"All Ages",3,"Both",8.22850007469474
+463,"maternal_educ_yrs_pc",4649,"Chiapas",1999,22,"All Ages",3,"Both",5.14361166752645
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",1999,22,"All Ages",3,"Both",8.16983557067084
+463,"maternal_educ_yrs_pc",4651,"Mexico City",1999,22,"All Ages",3,"Both",9.81452939064059
+463,"maternal_educ_yrs_pc",4652,"Durango",1999,22,"All Ages",3,"Both",7.89760474106109
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",1999,22,"All Ages",3,"Both",6.72724921980176
+463,"maternal_educ_yrs_pc",4654,"Guerrero",1999,22,"All Ages",3,"Both",6.50413945396774
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",1999,22,"All Ages",3,"Both",7.1168450890669
+463,"maternal_educ_yrs_pc",4656,"Jalisco",1999,22,"All Ages",3,"Both",7.979015203539
+463,"maternal_educ_yrs_pc",4657,"México",1999,22,"All Ages",3,"Both",8.15598345293601
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",6.79999634330885
+463,"maternal_educ_yrs_pc",4659,"Morelos",1999,22,"All Ages",3,"Both",8.32703304429216
+463,"maternal_educ_yrs_pc",4660,"Nayarit",1999,22,"All Ages",3,"Both",8.09789445448717
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",1999,22,"All Ages",3,"Both",9.1552037575258
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",1999,22,"All Ages",3,"Both",5.99683469642059
+463,"maternal_educ_yrs_pc",4663,"Puebla",1999,22,"All Ages",3,"Both",7.07294747208574
+463,"maternal_educ_yrs_pc",4664,"Querétaro",1999,22,"All Ages",3,"Both",7.75433182453494
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",7.56804885633161
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",7.55255631775121
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",1999,22,"All Ages",3,"Both",8.39012438739572
+463,"maternal_educ_yrs_pc",4668,"Sonora",1999,22,"All Ages",3,"Both",8.79125604230097
+463,"maternal_educ_yrs_pc",4669,"Tabasco",1999,22,"All Ages",3,"Both",7.29148938621596
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",8.47065299310549
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",7.93513117505095
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",6.98650812789704
+463,"maternal_educ_yrs_pc",4673,"Yucatán",1999,22,"All Ages",3,"Both",7.13486142178615
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",1999,22,"All Ages",3,"Both",7.17588416633941
+463,"maternal_educ_yrs_pc",130,"Mexico",2000,22,"All Ages",3,"Both",7.94316853876897
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",8.37878275619496
+463,"maternal_educ_yrs_pc",4644,"Baja California",2000,22,"All Ages",3,"Both",8.6463889554353
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",8.69246932793823
+463,"maternal_educ_yrs_pc",4646,"Campeche",2000,22,"All Ages",3,"Both",7.43686157649346
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2000,22,"All Ages",3,"Both",8.83268311712112
+463,"maternal_educ_yrs_pc",4648,"Colima",2000,22,"All Ages",3,"Both",8.35494387595834
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2000,22,"All Ages",3,"Both",5.27366296621475
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2000,22,"All Ages",3,"Both",8.27741479527941
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2000,22,"All Ages",3,"Both",9.9188346057219
+463,"maternal_educ_yrs_pc",4652,"Durango",2000,22,"All Ages",3,"Both",8.0176720078108
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2000,22,"All Ages",3,"Both",6.86645380582062
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2000,22,"All Ages",3,"Both",6.64956573696034
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2000,22,"All Ages",3,"Both",7.27179915742042
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2000,22,"All Ages",3,"Both",8.10076490258862
+463,"maternal_educ_yrs_pc",4657,"México",2000,22,"All Ages",3,"Both",8.28447129598862
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",6.92971726827353
+463,"maternal_educ_yrs_pc",4659,"Morelos",2000,22,"All Ages",3,"Both",8.45012636173001
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2000,22,"All Ages",3,"Both",8.23537070692316
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2000,22,"All Ages",3,"Both",9.25985635411889
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2000,22,"All Ages",3,"Both",6.14467093159696
+463,"maternal_educ_yrs_pc",4663,"Puebla",2000,22,"All Ages",3,"Both",7.20099315723843
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2000,22,"All Ages",3,"Both",7.89408100213114
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",7.70526724841957
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",7.69265497487163
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2000,22,"All Ages",3,"Both",8.53399463333097
+463,"maternal_educ_yrs_pc",4668,"Sonora",2000,22,"All Ages",3,"Both",8.91165046801615
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2000,22,"All Ages",3,"Both",7.44856187421971
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",8.59134097800001
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",8.0723760535667
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",7.11847187327106
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2000,22,"All Ages",3,"Both",7.26580349701581
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2000,22,"All Ages",3,"Both",7.31735932207672
+463,"maternal_educ_yrs_pc",130,"Mexico",2001,22,"All Ages",3,"Both",8.06305229622097
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",8.49860417301032
+463,"maternal_educ_yrs_pc",4644,"Baja California",2001,22,"All Ages",3,"Both",8.74626674072569
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",8.81160457544889
+463,"maternal_educ_yrs_pc",4646,"Campeche",2001,22,"All Ages",3,"Both",7.58076084516545
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2001,22,"All Ages",3,"Both",8.94217961053081
+463,"maternal_educ_yrs_pc",4648,"Colima",2001,22,"All Ages",3,"Both",8.47665659262455
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2001,22,"All Ages",3,"Both",5.40188672442371
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2001,22,"All Ages",3,"Both",8.38121760410282
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2001,22,"All Ages",3,"Both",10.0185349019157
+463,"maternal_educ_yrs_pc",4652,"Durango",2001,22,"All Ages",3,"Both",8.13361525980466
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2001,22,"All Ages",3,"Both",7.00196422371194
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2001,22,"All Ages",3,"Both",6.79024836328976
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2001,22,"All Ages",3,"Both",7.42239909120481
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2001,22,"All Ages",3,"Both",8.21800684168345
+463,"maternal_educ_yrs_pc",4657,"México",2001,22,"All Ages",3,"Both",8.40771225439643
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",7.0551265664161
+463,"maternal_educ_yrs_pc",4659,"Morelos",2001,22,"All Ages",3,"Both",8.56779204049313
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2001,22,"All Ages",3,"Both",8.36758041776446
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2001,22,"All Ages",3,"Both",9.35931921983982
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2001,22,"All Ages",3,"Both",6.28910675923983
+463,"maternal_educ_yrs_pc",4663,"Puebla",2001,22,"All Ages",3,"Both",7.32491332826242
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2001,22,"All Ages",3,"Both",8.02867660221401
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",7.83867937534476
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",7.82768918785764
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2001,22,"All Ages",3,"Both",8.67240695711841
+463,"maternal_educ_yrs_pc",4668,"Sonora",2001,22,"All Ages",3,"Both",9.02741790185712
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2001,22,"All Ages",3,"Both",7.60171258336823
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",8.70753625267312
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",8.20444997613689
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",7.24642321274742
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2001,22,"All Ages",3,"Both",7.39394644204555
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2001,22,"All Ages",3,"Both",7.4548255066729
+463,"maternal_educ_yrs_pc",130,"Mexico",2002,22,"All Ages",3,"Both",8.17714362906653
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",8.61262804608485
+463,"maternal_educ_yrs_pc",4644,"Baja California",2002,22,"All Ages",3,"Both",8.84055322635681
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",8.92534027755916
+463,"maternal_educ_yrs_pc",4646,"Campeche",2002,22,"All Ages",3,"Both",7.72018635600096
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2002,22,"All Ages",3,"Both",9.04555308447882
+463,"maternal_educ_yrs_pc",4648,"Colima",2002,22,"All Ages",3,"Both",8.59218743761341
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2002,22,"All Ages",3,"Both",5.52732699110524
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2002,22,"All Ages",3,"Both",8.47981507611849
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2002,22,"All Ages",3,"Both",10.1118557157257
+463,"maternal_educ_yrs_pc",4652,"Durango",2002,22,"All Ages",3,"Both",8.24403024057196
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2002,22,"All Ages",3,"Both",7.13256442263419
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2002,22,"All Ages",3,"Both",6.92501274922078
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2002,22,"All Ages",3,"Both",7.56732514439925
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2002,22,"All Ages",3,"Both",8.32935673102366
+463,"maternal_educ_yrs_pc",4657,"México",2002,22,"All Ages",3,"Both",8.52433705885693
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",7.17505908047594
+463,"maternal_educ_yrs_pc",4659,"Morelos",2002,22,"All Ages",3,"Both",8.6786254813627
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2002,22,"All Ages",3,"Both",8.49308089940545
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2002,22,"All Ages",3,"Both",9.45202217776192
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2002,22,"All Ages",3,"Both",6.42903408687863
+463,"maternal_educ_yrs_pc",4663,"Puebla",2002,22,"All Ages",3,"Both",7.44349254524623
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2002,22,"All Ages",3,"Both",8.15670541022005
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",7.96685234632583
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",7.95630238011359
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2002,22,"All Ages",3,"Both",8.80386156303919
+463,"maternal_educ_yrs_pc",4668,"Sonora",2002,22,"All Ages",3,"Both",9.1370254286618
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2002,22,"All Ages",3,"Both",7.74954590667382
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",8.8177516540747
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",8.32998963822934
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",7.36915264023324
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2002,22,"All Ages",3,"Both",7.5179701458517
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2002,22,"All Ages",3,"Both",7.58695791829247
+463,"maternal_educ_yrs_pc",130,"Mexico",2003,22,"All Ages",3,"Both",8.28540129754163
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",8.72095792756503
+463,"maternal_educ_yrs_pc",4644,"Baja California",2003,22,"All Ages",3,"Both",8.92946321458984
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",9.03376938599332
+463,"maternal_educ_yrs_pc",4646,"Campeche",2003,22,"All Ages",3,"Both",7.85498244060318
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2003,22,"All Ages",3,"Both",9.14297746288488
+463,"maternal_educ_yrs_pc",4648,"Colima",2003,22,"All Ages",3,"Both",8.70163642420682
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2003,22,"All Ages",3,"Both",5.64980246057559
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2003,22,"All Ages",3,"Both",8.5733781122532
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2003,22,"All Ages",3,"Both",10.1990562766943
+463,"maternal_educ_yrs_pc",4652,"Durango",2003,22,"All Ages",3,"Both",8.34901034214848
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2003,22,"All Ages",3,"Both",7.25817540926977
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2003,22,"All Ages",3,"Both",7.05370853543139
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2003,22,"All Ages",3,"Both",7.70640781595015
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2003,22,"All Ages",3,"Both",8.43493453279558
+463,"maternal_educ_yrs_pc",4657,"México",2003,22,"All Ages",3,"Both",8.6344791210928
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",7.2895209190517
+463,"maternal_educ_yrs_pc",4659,"Morelos",2003,22,"All Ages",3,"Both",8.78279116260226
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2003,22,"All Ages",3,"Both",8.61190366050944
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2003,22,"All Ages",3,"Both",9.53822152503915
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2003,22,"All Ages",3,"Both",6.5642383305533
+463,"maternal_educ_yrs_pc",4663,"Puebla",2003,22,"All Ages",3,"Both",7.55675266517799
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2003,22,"All Ages",3,"Both",8.27817959853897
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",8.08973700894667
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",8.07847320044185
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2003,22,"All Ages",3,"Both",8.9283548991678
+463,"maternal_educ_yrs_pc",4668,"Sonora",2003,22,"All Ages",3,"Both",9.24060953639355
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2003,22,"All Ages",3,"Both",7.89188395091025
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",8.92210221295499
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",8.44901257544207
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",7.4866607526068
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2003,22,"All Ages",3,"Both",7.63782873774366
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2003,22,"All Ages",3,"Both",7.71367409698731
+463,"maternal_educ_yrs_pc",130,"Mexico",2004,22,"All Ages",3,"Both",8.38785907839833
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",8.82374616065729
+463,"maternal_educ_yrs_pc",4644,"Baja California",2004,22,"All Ages",3,"Both",9.01325610867441
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",9.13702668762297
+463,"maternal_educ_yrs_pc",4646,"Campeche",2004,22,"All Ages",3,"Both",7.98504034911213
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2004,22,"All Ages",3,"Both",9.23467661337619
+463,"maternal_educ_yrs_pc",4648,"Colima",2004,22,"All Ages",3,"Both",8.80515654025294
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2004,22,"All Ages",3,"Both",5.769172844677
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2004,22,"All Ages",3,"Both",8.6621221142089
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2004,22,"All Ages",3,"Both",10.280437571379
+463,"maternal_educ_yrs_pc",4652,"Durango",2004,22,"All Ages",3,"Both",8.4487003450334
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2004,22,"All Ages",3,"Both",7.37877179835535
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2004,22,"All Ages",3,"Both",7.17625223836062
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2004,22,"All Ages",3,"Both",7.83953969980148
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2004,22,"All Ages",3,"Both",8.53491163621868
+463,"maternal_educ_yrs_pc",4657,"México",2004,22,"All Ages",3,"Both",8.7383267932837
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",7.39857604716325
+463,"maternal_educ_yrs_pc",4659,"Morelos",2004,22,"All Ages",3,"Both",8.88051083553429
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2004,22,"All Ages",3,"Both",8.72414282896781
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2004,22,"All Ages",3,"Both",9.61822682037027
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2004,22,"All Ages",3,"Both",6.69456093572836
+463,"maternal_educ_yrs_pc",4663,"Puebla",2004,22,"All Ages",3,"Both",7.66476867497113
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2004,22,"All Ages",3,"Both",8.39317456998033
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",8.20733738427963
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",8.19424489549987
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2004,22,"All Ages",3,"Both",9.04594697116332
+463,"maternal_educ_yrs_pc",4668,"Sonora",2004,22,"All Ages",3,"Both",9.33835602853292
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2004,22,"All Ages",3,"Both",8.02860518666905
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",9.02075472094194
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",8.56159634595094
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",7.59900241905177
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2004,22,"All Ages",3,"Both",7.75351928253824
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2004,22,"All Ages",3,"Both",7.8349480302501
+463,"maternal_educ_yrs_pc",130,"Mexico",2005,22,"All Ages",3,"Both",8.4846251596254
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",8.92113774954508
+463,"maternal_educ_yrs_pc",4644,"Baja California",2005,22,"All Ages",3,"Both",9.09217685136944
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",9.23523089452877
+463,"maternal_educ_yrs_pc",4646,"Campeche",2005,22,"All Ages",3,"Both",8.1102518640736
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2005,22,"All Ages",3,"Both",9.32086497786579
+463,"maternal_educ_yrs_pc",4648,"Colima",2005,22,"All Ages",3,"Both",8.90289821192282
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2005,22,"All Ages",3,"Both",5.88530184061364
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2005,22,"All Ages",3,"Both",8.7462501319465
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2005,22,"All Ages",3,"Both",10.3562782231196
+463,"maternal_educ_yrs_pc",4652,"Durango",2005,22,"All Ages",3,"Both",8.54324160671989
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2005,22,"All Ages",3,"Both",7.49433426170125
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2005,22,"All Ages",3,"Both",7.29258408755431
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2005,22,"All Ages",3,"Both",7.96662745065349
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2005,22,"All Ages",3,"Both",8.62945636153161
+463,"maternal_educ_yrs_pc",4657,"México",2005,22,"All Ages",3,"Both",8.83606586427333
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",7.50229818803604
+463,"maternal_educ_yrs_pc",4659,"Morelos",2005,22,"All Ages",3,"Both",8.97200567346123
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2005,22,"All Ages",3,"Both",8.82990052810989
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2005,22,"All Ages",3,"Both",9.69233887231957
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2005,22,"All Ages",3,"Both",6.8198581816007
+463,"maternal_educ_yrs_pc",4663,"Puebla",2005,22,"All Ages",3,"Both",7.76761981098654
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2005,22,"All Ages",3,"Both",8.50177412032554
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",8.31965962976771
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",8.30367348059095
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2005,22,"All Ages",3,"Both",9.15670768757734
+463,"maternal_educ_yrs_pc",4668,"Sonora",2005,22,"All Ages",3,"Both",9.43044119029071
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2005,22,"All Ages",3,"Both",8.15959623366793
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",9.11387078682602
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",8.6678248407556
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",7.70623862161532
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2005,22,"All Ages",3,"Both",7.86503420987143
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2005,22,"All Ages",3,"Both",7.95076110829675
+463,"maternal_educ_yrs_pc",130,"Mexico",2006,22,"All Ages",3,"Both",8.57588027825192
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",9.01331647353935
+463,"maternal_educ_yrs_pc",4644,"Baja California",2006,22,"All Ages",3,"Both",9.1665030992512
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",9.32853342275761
+463,"maternal_educ_yrs_pc",4646,"Campeche",2006,22,"All Ages",3,"Both",8.2305516004965
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2006,22,"All Ages",3,"Both",9.40179613358414
+463,"maternal_educ_yrs_pc",4648,"Colima",2006,22,"All Ages",3,"Both",8.9950551544868
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2006,22,"All Ages",3,"Both",5.99808374526938
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2006,22,"All Ages",3,"Both",8.82599812046773
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2006,22,"All Ages",3,"Both",10.4268911361283
+463,"maternal_educ_yrs_pc",4652,"Durango",2006,22,"All Ages",3,"Both",8.63281575805107
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2006,22,"All Ages",3,"Both",7.60488538772498
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2006,22,"All Ages",3,"Both",7.40270317410021
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2006,22,"All Ages",3,"Both",8.08763078229277
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2006,22,"All Ages",3,"Both",8.71877773359195
+463,"maternal_educ_yrs_pc",4657,"México",2006,22,"All Ages",3,"Both",8.92792304235026
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",7.60080630077388
+463,"maternal_educ_yrs_pc",4659,"Morelos",2006,22,"All Ages",3,"Both",9.05754137716062
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2006,22,"All Ages",3,"Both",8.92933173000399
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2006,22,"All Ages",3,"Both",9.76090071371862
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2006,22,"All Ages",3,"Both",6.94003291117311
+463,"maternal_educ_yrs_pc",4663,"Puebla",2006,22,"All Ages",3,"Both",7.86542710446827
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2006,22,"All Ages",3,"Both",8.60411273036359
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",8.42675512114862
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",8.40686904322043
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2006,22,"All Ages",3,"Both",9.26076398502308
+463,"maternal_educ_yrs_pc",4668,"Sonora",2006,22,"All Ages",3,"Both",9.51708080911953
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2006,22,"All Ages",3,"Both",8.2847925847476
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",9.20165386569078
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",8.76783146578654
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",7.80847349318717
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2006,22,"All Ages",3,"Both",7.97240103479542
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2006,22,"All Ages",3,"Both",8.06114174718814
+463,"maternal_educ_yrs_pc",130,"Mexico",2007,22,"All Ages",3,"Both",8.66187463271466
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",9.10039133219066
+463,"maternal_educ_yrs_pc",4644,"Baja California",2007,22,"All Ages",3,"Both",9.23642440540387
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",9.41700321537233
+463,"maternal_educ_yrs_pc",4646,"Campeche",2007,22,"All Ages",3,"Both",8.34583084946984
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2007,22,"All Ages",3,"Both",9.47764028688283
+463,"maternal_educ_yrs_pc",4648,"Colima",2007,22,"All Ages",3,"Both",9.08175093338066
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2007,22,"All Ages",3,"Both",6.1073911828239
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2007,22,"All Ages",3,"Both",8.90152039569552
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2007,22,"All Ages",3,"Both",10.4924779930339
+463,"maternal_educ_yrs_pc",4652,"Durango",2007,22,"All Ages",3,"Both",8.71753695347961
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2007,22,"All Ages",3,"Both",7.71040954673558
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2007,22,"All Ages",3,"Both",7.50659348270287
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2007,22,"All Ages",3,"Both",8.20248107177542
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2007,22,"All Ages",3,"Both",8.8030169215038
+463,"maternal_educ_yrs_pc",4657,"México",2007,22,"All Ages",3,"Both",9.01405702370954
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",7.69417942716602
+463,"maternal_educ_yrs_pc",4659,"Morelos",2007,22,"All Ages",3,"Both",9.13731266159316
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2007,22,"All Ages",3,"Both",9.0225363552575
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2007,22,"All Ages",3,"Both",9.82416421607454
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2007,22,"All Ages",3,"Both",7.05497252574364
+463,"maternal_educ_yrs_pc",4663,"Puebla",2007,22,"All Ages",3,"Both",7.95826377503219
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2007,22,"All Ages",3,"Both",8.70027306655397
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",8.52862392199848
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",8.50389877130821
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2007,22,"All Ages",3,"Both",9.3581908102472
+463,"maternal_educ_yrs_pc",4668,"Sonora",2007,22,"All Ages",3,"Both",9.59841021233107
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2007,22,"All Ages",3,"Both",8.40409326608864
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",9.2842337864371
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",8.86169862580202
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",7.90576684976829
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2007,22,"All Ages",3,"Both",8.07559319542875
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2007,22,"All Ages",3,"Both",8.16607671479121
+463,"maternal_educ_yrs_pc",130,"Mexico",2008,22,"All Ages",3,"Both",8.74292363202985
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",9.18267809580403
+463,"maternal_educ_yrs_pc",4644,"Baja California",2008,22,"All Ages",3,"Both",9.30233468356578
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",9.50091876037987
+463,"maternal_educ_yrs_pc",4646,"Campeche",2008,22,"All Ages",3,"Both",8.45617941503614
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2008,22,"All Ages",3,"Both",9.54878170924915
+463,"maternal_educ_yrs_pc",4648,"Colima",2008,22,"All Ages",3,"Both",9.16331828058543
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2008,22,"All Ages",3,"Both",6.21325018483438
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2008,22,"All Ages",3,"Both",8.97317206065498
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2008,22,"All Ages",3,"Both",10.5534647890652
+463,"maternal_educ_yrs_pc",4652,"Durango",2008,22,"All Ages",3,"Both",8.79772273084769
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2008,22,"All Ages",3,"Both",7.8110784643822
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2008,22,"All Ages",3,"Both",7.6044335833725
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2008,22,"All Ages",3,"Both",8.31131614540278
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2008,22,"All Ages",3,"Both",8.88251659705319
+463,"maternal_educ_yrs_pc",4657,"México",2008,22,"All Ages",3,"Both",9.09483273079759
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",7.78268435821211
+463,"maternal_educ_yrs_pc",4659,"Morelos",2008,22,"All Ages",3,"Both",9.21172410488055
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2008,22,"All Ages",3,"Both",9.10983077476143
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2008,22,"All Ages",3,"Both",9.88260147759565
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2008,22,"All Ages",3,"Both",7.16474504138094
+463,"maternal_educ_yrs_pc",4663,"Puebla",2008,22,"All Ages",3,"Both",8.04639240238026
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2008,22,"All Ages",3,"Both",8.790546973804
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",8.62546873013857
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",8.5950394803786
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2008,22,"All Ages",3,"Both",9.44928658602468
+463,"maternal_educ_yrs_pc",4668,"Sonora",2008,22,"All Ages",3,"Both",9.67478100929914
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2008,22,"All Ages",3,"Both",8.51760318271732
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",9.36195337911122
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",8.94971943555869
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",7.9983673909394
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2008,22,"All Ages",3,"Both",8.17477336360147
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2008,22,"All Ages",3,"Both",8.26575281323459
+463,"maternal_educ_yrs_pc",130,"Mexico",2009,22,"All Ages",3,"Both",8.81940257342003
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",9.26063737488869
+463,"maternal_educ_yrs_pc",4644,"Baja California",2009,22,"All Ages",3,"Both",9.36476453207075
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",9.58070315415689
+463,"maternal_educ_yrs_pc",4646,"Campeche",2009,22,"All Ages",3,"Both",8.56184141191818
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2009,22,"All Ages",3,"Both",9.61575067098771
+463,"maternal_educ_yrs_pc",4648,"Colima",2009,22,"All Ages",3,"Both",9.24023793928676
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2009,22,"All Ages",3,"Both",6.31582044896536
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2009,22,"All Ages",3,"Both",9.04144673292643
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2009,22,"All Ages",3,"Both",10.6104179371777
+463,"maternal_educ_yrs_pc",4652,"Durango",2009,22,"All Ages",3,"Both",8.87383629892763
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2009,22,"All Ages",3,"Both",7.9072113308136
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2009,22,"All Ages",3,"Both",7.69655942608541
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2009,22,"All Ages",3,"Both",8.41444001264921
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2009,22,"All Ages",3,"Both",8.95776200019854
+463,"maternal_educ_yrs_pc",4657,"México",2009,22,"All Ages",3,"Both",9.17076251331583
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",7.86673290538604
+463,"maternal_educ_yrs_pc",4659,"Morelos",2009,22,"All Ages",3,"Both",9.28132630830402
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2009,22,"All Ages",3,"Both",9.19168960403096
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2009,22,"All Ages",3,"Both",9.93682890990266
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2009,22,"All Ages",3,"Both",7.2695718491782
+463,"maternal_educ_yrs_pc",4663,"Puebla",2009,22,"All Ages",3,"Both",8.13022003175232
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2009,22,"All Ages",3,"Both",8.87537823341013
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",8.71764131863532
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",8.68072617826701
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2009,22,"All Ages",3,"Both",9.53451418601946
+463,"maternal_educ_yrs_pc",4668,"Sonora",2009,22,"All Ages",3,"Both",9.74669462663305
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2009,22,"All Ages",3,"Both",8.62559095750413
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",9.43530551829221
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",9.03234359189003
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",8.08666939925005
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2009,22,"All Ages",3,"Both",8.27025022969315
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2009,22,"All Ages",3,"Both",8.36051194030892
+463,"maternal_educ_yrs_pc",130,"Mexico",2010,22,"All Ages",3,"Both",8.8917403669552
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",9.33469890329891
+463,"maternal_educ_yrs_pc",4644,"Baja California",2010,22,"All Ages",3,"Both",9.42420392752204
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",9.65674531371646
+463,"maternal_educ_yrs_pc",4646,"Campeche",2010,22,"All Ages",3,"Both",8.6630505983643
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2010,22,"All Ages",3,"Both",9.67904023545312
+463,"maternal_educ_yrs_pc",4648,"Colima",2010,22,"All Ages",3,"Both",9.31296059178179
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2010,22,"All Ages",3,"Both",6.41525825059039
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2010,22,"All Ages",3,"Both",9.1068022076608
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2010,22,"All Ages",3,"Both",10.6638557313099
+463,"maternal_educ_yrs_pc",4652,"Durango",2010,22,"All Ages",3,"Both",8.94631320591586
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2010,22,"All Ages",3,"Both",7.99911503327535
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2010,22,"All Ages",3,"Both",7.783306289389
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2010,22,"All Ages",3,"Both",8.51215087993701
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2010,22,"All Ages",3,"Both",9.02920902990865
+463,"maternal_educ_yrs_pc",4657,"México",2010,22,"All Ages",3,"Both",9.24232619494228
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",7.94672005744386
+463,"maternal_educ_yrs_pc",4659,"Morelos",2010,22,"All Ages",3,"Both",9.34663657634698
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2010,22,"All Ages",3,"Both",9.2685655103982
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2010,22,"All Ages",3,"Both",9.9874202710615
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2010,22,"All Ages",3,"Both",7.3696735812123
+463,"maternal_educ_yrs_pc",4663,"Puebla",2010,22,"All Ages",3,"Both",8.21013331676413
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2010,22,"All Ages",3,"Both",8.95519317375473
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",8.80547884425691
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",8.76137952761887
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2010,22,"All Ages",3,"Both",9.61431636429212
+463,"maternal_educ_yrs_pc",4668,"Sonora",2010,22,"All Ages",3,"Both",9.81461637930297
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2010,22,"All Ages",3,"Both",8.72831750465385
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",9.50475077826225
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",9.10999866029666
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",8.171048156232
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2010,22,"All Ages",3,"Both",8.3623132661012
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2010,22,"All Ages",3,"Both",8.45068413119989
+463,"maternal_educ_yrs_pc",130,"Mexico",2011,22,"All Ages",3,"Both",8.96041244819104
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",9.40520428436637
+463,"maternal_educ_yrs_pc",4644,"Baja California",2011,22,"All Ages",3,"Both",9.48104658003518
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",9.72934349149172
+463,"maternal_educ_yrs_pc",4646,"Campeche",2011,22,"All Ages",3,"Both",8.75997231221658
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2011,22,"All Ages",3,"Both",9.73904807246075
+463,"maternal_educ_yrs_pc",4648,"Colima",2011,22,"All Ages",3,"Both",9.38184861042598
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2011,22,"All Ages",3,"Both",6.51166190315536
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2011,22,"All Ages",3,"Both",9.1696038890328
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2011,22,"All Ages",3,"Both",10.7141927516902
+463,"maternal_educ_yrs_pc",4652,"Durango",2011,22,"All Ages",3,"Both",9.01550348434177
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2011,22,"All Ages",3,"Both",8.08702587636237
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2011,22,"All Ages",3,"Both",7.86495032591399
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2011,22,"All Ages",3,"Both",8.60467848366953
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2011,22,"All Ages",3,"Both",9.09722705501095
+463,"maternal_educ_yrs_pc",4657,"México",2011,22,"All Ages",3,"Both",9.30991099060901
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",8.02296584796258
+463,"maternal_educ_yrs_pc",4659,"Morelos",2011,22,"All Ages",3,"Both",9.4080808116919
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2011,22,"All Ages",3,"Both",9.34082873976536
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2011,22,"All Ages",3,"Both",10.0348492128474
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2011,22,"All Ages",3,"Both",7.46521050672994
+463,"maternal_educ_yrs_pc",4663,"Puebla",2011,22,"All Ages",3,"Both",8.2864402109342
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2011,22,"All Ages",3,"Both",9.03034310796892
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",8.88924770193561
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",8.83734578846438
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2011,22,"All Ages",3,"Both",9.68905389467945
+463,"maternal_educ_yrs_pc",4668,"Sonora",2011,22,"All Ages",3,"Both",9.87891621322275
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2011,22,"All Ages",3,"Both",8.82597430379693
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",9.57065807710966
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",9.18302957293343
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",8.25180089669401
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2011,22,"All Ages",3,"Both",8.45117415886467
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2011,22,"All Ages",3,"Both",8.53652805180084
+463,"maternal_educ_yrs_pc",130,"Mexico",2012,22,"All Ages",3,"Both",9.02593303792595
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",9.47260557880007
+463,"maternal_educ_yrs_pc",4644,"Baja California",2012,22,"All Ages",3,"Both",9.53579298619582
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",9.79891156513933
+463,"maternal_educ_yrs_pc",4646,"Campeche",2012,22,"All Ages",3,"Both",8.85288431443121
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2012,22,"All Ages",3,"Both",9.79628405430719
+463,"maternal_educ_yrs_pc",4648,"Colima",2012,22,"All Ages",3,"Both",9.44737500783136
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2012,22,"All Ages",3,"Both",6.60520645742096
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2012,22,"All Ages",3,"Both",9.2303204085589
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2012,22,"All Ages",3,"Both",10.7619672215187
+463,"maternal_educ_yrs_pc",4652,"Durango",2012,22,"All Ages",3,"Both",9.08186306563303
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2012,22,"All Ages",3,"Both",8.17127781887432
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2012,22,"All Ages",3,"Both",7.94187225179839
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2012,22,"All Ages",3,"Both",8.69236364856514
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2012,22,"All Ages",3,"Both",9.16229056225887
+463,"maternal_educ_yrs_pc",4657,"México",2012,22,"All Ages",3,"Both",9.3740087305316
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",8.09588421143885
+463,"maternal_educ_yrs_pc",4659,"Morelos",2012,22,"All Ages",3,"Both",9.46619371087538
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2012,22,"All Ages",3,"Both",9.40896473582148
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2012,22,"All Ages",3,"Both",10.0797045043429
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2012,22,"All Ages",3,"Both",7.55643668018826
+463,"maternal_educ_yrs_pc",4663,"Puebla",2012,22,"All Ages",3,"Both",8.35954435392981
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2012,22,"All Ages",3,"Both",9.1012931150116
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",8.96932794444296
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",8.90908288799667
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2012,22,"All Ages",3,"Both",9.75920917138245
+463,"maternal_educ_yrs_pc",4668,"Sonora",2012,22,"All Ages",3,"Both",9.940078852625
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2012,22,"All Ages",3,"Both",8.91886594374322
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",9.63350800502657
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",9.25189256727145
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",8.32931914440493
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2012,22,"All Ages",3,"Both",8.53714322578487
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2012,22,"All Ages",3,"Both",8.61840987961661
+463,"maternal_educ_yrs_pc",130,"Mexico",2013,22,"All Ages",3,"Both",9.08884692034121
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",9.53743105094137
+463,"maternal_educ_yrs_pc",4644,"Baja California",2013,22,"All Ages",3,"Both",9.58901036686174
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",9.86594260173473
+463,"maternal_educ_yrs_pc",4646,"Campeche",2013,22,"All Ages",3,"Both",8.94215528353255
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2013,22,"All Ages",3,"Both",9.85133185720055
+463,"maternal_educ_yrs_pc",4648,"Colima",2013,22,"All Ages",3,"Both",9.5100904381972
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2013,22,"All Ages",3,"Both",6.69613389665289
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2013,22,"All Ages",3,"Both",9.28948734069022
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2013,22,"All Ages",3,"Both",10.8077933820299
+463,"maternal_educ_yrs_pc",4652,"Durango",2013,22,"All Ages",3,"Both",9.14592090766916
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2013,22,"All Ages",3,"Both",8.25228099561047
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2013,22,"All Ages",3,"Both",8.01453820608999
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2013,22,"All Ages",3,"Both",8.77563832702998
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2013,22,"All Ages",3,"Both",9.22494630179971
+463,"maternal_educ_yrs_pc",4657,"México",2013,22,"All Ages",3,"Both",9.43518385496132
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",8.1659596551451
+463,"maternal_educ_yrs_pc",4659,"Morelos",2013,22,"All Ages",3,"Both",9.52158296581848
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2013,22,"All Ages",3,"Both",9.47354283720203
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2013,22,"All Ages",3,"Both",10.1226460573908
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2013,22,"All Ages",3,"Both",7.64368782948264
+463,"maternal_educ_yrs_pc",4663,"Puebla",2013,22,"All Ages",3,"Both",8.42992121718684
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2013,22,"All Ages",3,"Both",9.1685884175461
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",9.04618282608042
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",8.97713180421754
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2013,22,"All Ages",3,"Both",9.82535609219098
+463,"maternal_educ_yrs_pc",4668,"Sonora",2013,22,"All Ages",3,"Both",9.99866729442139
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2013,22,"All Ages",3,"Both",9.0073902597203
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",9.69385815633842
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",9.31712674254877
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",8.40406701649064
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2013,22,"All Ages",3,"Both",8.62060817602163
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2013,22,"All Ages",3,"Both",8.69677872454064
+463,"maternal_educ_yrs_pc",130,"Mexico",2014,22,"All Ages",3,"Both",9.14972091739399
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",9.60030850425852
+463,"maternal_educ_yrs_pc",4644,"Baja California",2014,22,"All Ages",3,"Both",9.64135201198508
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",9.93103289806827
+463,"maternal_educ_yrs_pc",4646,"Campeche",2014,22,"All Ages",3,"Both",9.02827764953988
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2014,22,"All Ages",3,"Both",9.90486978564532
+463,"maternal_educ_yrs_pc",4648,"Colima",2014,22,"All Ages",3,"Both",9.57064608894536
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2014,22,"All Ages",3,"Both",6.7847907128641
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2014,22,"All Ages",3,"Both",9.34772932799838
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2014,22,"All Ages",3,"Both",10.8523768182438
+463,"maternal_educ_yrs_pc",4652,"Durango",2014,22,"All Ages",3,"Both",9.20830266027146
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2014,22,"All Ages",3,"Both",8.33055371742151
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2014,22,"All Ages",3,"Both",8.08352864521092
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2014,22,"All Ages",3,"Both",8.85505934416647
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2014,22,"All Ages",3,"Both",9.28583666295781
+463,"maternal_educ_yrs_pc",4657,"México",2014,22,"All Ages",3,"Both",9.49409919943621
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",8.2337754880322
+463,"maternal_educ_yrs_pc",4659,"Morelos",2014,22,"All Ages",3,"Both",9.57495014650223
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2014,22,"All Ages",3,"Both",9.53524019034884
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2014,22,"All Ages",3,"Both",10.1644205995344
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2014,22,"All Ages",3,"Both",7.72741833672008
+463,"maternal_educ_yrs_pc",4663,"Puebla",2014,22,"All Ages",3,"Both",8.49814675423745
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2014,22,"All Ages",3,"Both",9.23287792301862
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",9.12038480529467
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",9.04214215854169
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2014,22,"All Ages",3,"Both",9.88818514311819
+463,"maternal_educ_yrs_pc",4668,"Sonora",2014,22,"All Ages",3,"Both",10.0553458484454
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2014,22,"All Ages",3,"Both",9.0920731391327
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",9.75236656968999
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",9.37938093669081
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",8.47661158533379
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2014,22,"All Ages",3,"Both",8.70206667595332
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2014,22,"All Ages",3,"Both",8.77219613081896
+463,"maternal_educ_yrs_pc",130,"Mexico",2015,22,"All Ages",3,"Both",9.20913523712489
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",9.66190884759612
+463,"maternal_educ_yrs_pc",4644,"Baja California",2015,22,"All Ages",3,"Both",9.69350407595352
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",9.99482435494754
+463,"maternal_educ_yrs_pc",4646,"Campeche",2015,22,"All Ages",3,"Both",9.11181207270152
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2015,22,"All Ages",3,"Both",9.95761320234416
+463,"maternal_educ_yrs_pc",4648,"Colima",2015,22,"All Ages",3,"Both",9.62973639555832
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2015,22,"All Ages",3,"Both",6.87159604840992
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2015,22,"All Ages",3,"Both",9.40570907630388
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2015,22,"All Ages",3,"Both",10.8964478365492
+463,"maternal_educ_yrs_pc",4652,"Durango",2015,22,"All Ages",3,"Both",9.26967911454349
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2015,22,"All Ages",3,"Both",8.40667673083279
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2015,22,"All Ages",3,"Both",8.14949029641477
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2015,22,"All Ages",3,"Both",8.931256356329
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2015,22,"All Ages",3,"Both",9.34564563353847
+463,"maternal_educ_yrs_pc",4657,"México",2015,22,"All Ages",3,"Both",9.55146139942717
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",8.29996879090234
+463,"maternal_educ_yrs_pc",4659,"Morelos",2015,22,"All Ages",3,"Both",9.6270344420451
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2015,22,"All Ages",3,"Both",9.59478406149208
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2015,22,"All Ages",3,"Both",10.2058021886003
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2015,22,"All Ages",3,"Both",7.80815821767034
+463,"maternal_educ_yrs_pc",4663,"Puebla",2015,22,"All Ages",3,"Both",8.56484998051711
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2015,22,"All Ages",3,"Both",9.29486073055549
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",9.19256195440002
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",9.10481946774544
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2015,22,"All Ages",3,"Both",9.94844017609561
+463,"maternal_educ_yrs_pc",4668,"Sonora",2015,22,"All Ages",3,"Both",10.1108205713098
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2015,22,"All Ages",3,"Both",9.17351294953509
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",9.80973452470302
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",9.43935742558208
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",8.54757397503289
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2015,22,"All Ages",3,"Both",8.782076410507
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2015,22,"All Ages",3,"Both",8.84528644697549
+463,"maternal_educ_yrs_pc",130,"Mexico",2016,22,"All Ages",3,"Both",9.26767486882716
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",9.72284738742931
+463,"maternal_educ_yrs_pc",4644,"Baja California",2016,22,"All Ages",3,"Both",9.74609006595354
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",10.0579033969314
+463,"maternal_educ_yrs_pc",4646,"Campeche",2016,22,"All Ages",3,"Both",9.19328796953091
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2016,22,"All Ages",3,"Both",10.0102143241689
+463,"maternal_educ_yrs_pc",4648,"Colima",2016,22,"All Ages",3,"Both",9.68799982941194
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2016,22,"All Ages",3,"Both",6.95696379301859
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2016,22,"All Ages",3,"Both",9.46403270807126
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2016,22,"All Ages",3,"Both",10.940656113354
+463,"maternal_educ_yrs_pc",4652,"Durango",2016,22,"All Ages",3,"Both",9.33067095515959
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2016,22,"All Ages",3,"Both",8.48120203918419
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2016,22,"All Ages",3,"Both",8.21304596492663
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2016,22,"All Ages",3,"Both",9.00483283932712
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2016,22,"All Ages",3,"Both",9.40500280408243
+463,"maternal_educ_yrs_pc",4657,"México",2016,22,"All Ages",3,"Both",9.60792203822455
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",8.36514141060998
+463,"maternal_educ_yrs_pc",4659,"Morelos",2016,22,"All Ages",3,"Both",9.67851473782521
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2016,22,"All Ages",3,"Both",9.65285127132391
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2016,22,"All Ages",3,"Both",10.2474919999532
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2016,22,"All Ages",3,"Both",7.88642402787139
+463,"maternal_educ_yrs_pc",4663,"Puebla",2016,22,"All Ages",3,"Both",8.63062169375182
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2016,22,"All Ages",3,"Both",9.35518994255959
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",9.26330188806599
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",9.16582859632479
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2016,22,"All Ages",3,"Both",10.0068130280376
+463,"maternal_educ_yrs_pc",4668,"Sonora",2016,22,"All Ages",3,"Both",10.1657364174071
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2016,22,"All Ages",3,"Both",9.25227892771514
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",9.86660589736789
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",9.49771189924635
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",8.61753653423561
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2016,22,"All Ages",3,"Both",8.86115993827164
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2016,22,"All Ages",3,"Both",8.91664193644172
+463,"maternal_educ_yrs_pc",130,"Mexico",2017,22,"All Ages",3,"Both",9.32592118636528
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",9.78369040826009
+463,"maternal_educ_yrs_pc",4644,"Baja California",2017,22,"All Ages",3,"Both",9.79967865540591
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",10.1208086843991
+463,"maternal_educ_yrs_pc",4646,"Campeche",2017,22,"All Ages",3,"Both",9.27320320015682
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2017,22,"All Ages",3,"Both",10.0632703603133
+463,"maternal_educ_yrs_pc",4648,"Colima",2017,22,"All Ages",3,"Both",9.74602531468746
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2017,22,"All Ages",3,"Both",7.04128884611598
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2017,22,"All Ages",3,"Both",9.52325444665448
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2017,22,"All Ages",3,"Both",10.9855892550981
+463,"maternal_educ_yrs_pc",4652,"Durango",2017,22,"All Ages",3,"Both",9.39185154802865
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2017,22,"All Ages",3,"Both",8.5546478874889
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2017,22,"All Ages",3,"Both",8.27478937654853
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2017,22,"All Ages",3,"Both",9.0763608091532
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2017,22,"All Ages",3,"Both",9.46448815686557
+463,"maternal_educ_yrs_pc",4657,"México",2017,22,"All Ages",3,"Both",9.66408121270256
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",8.42985581466587
+463,"maternal_educ_yrs_pc",4659,"Morelos",2017,22,"All Ages",3,"Both",9.73001630813903
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2017,22,"All Ages",3,"Both",9.71007206175836
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2017,22,"All Ages",3,"Both",10.29013006434
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2017,22,"All Ages",3,"Both",7.96270853930983
+463,"maternal_educ_yrs_pc",4663,"Puebla",2017,22,"All Ages",3,"Both",8.69601219027535
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2017,22,"All Ages",3,"Both",9.41447562776865
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",9.33315418419205
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",9.22579370458257
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2017,22,"All Ages",3,"Both",10.0639490678404
+463,"maternal_educ_yrs_pc",4668,"Sonora",2017,22,"All Ages",3,"Both",10.2206850622105
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2017,22,"All Ages",3,"Both",9.32890857010252
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",9.92357291826291
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",9.55505557238996
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",8.68704013667781
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2017,22,"All Ages",3,"Both",8.93980248529216
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2017,22,"All Ages",3,"Both",8.98682006748631
+463,"maternal_educ_yrs_pc",130,"Mexico",2018,22,"All Ages",3,"Both",9.38444390683698
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",9.84297358771803
+463,"maternal_educ_yrs_pc",4644,"Baja California",2018,22,"All Ages",3,"Both",9.85279478561564
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",10.1819617698065
+463,"maternal_educ_yrs_pc",4646,"Campeche",2018,22,"All Ages",3,"Both",9.35016970719524
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2018,22,"All Ages",3,"Both",10.1152802487592
+463,"maternal_educ_yrs_pc",4648,"Colima",2018,22,"All Ages",3,"Both",9.80238484104868
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2018,22,"All Ages",3,"Both",7.12363260138617
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2018,22,"All Ages",3,"Both",9.58196378537812
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2018,22,"All Ages",3,"Both",11.0294861497621
+463,"maternal_educ_yrs_pc",4652,"Durango",2018,22,"All Ages",3,"Both",9.451867606728
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2018,22,"All Ages",3,"Both",8.62582478641026
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2018,22,"All Ages",3,"Both",8.33366591553714
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2018,22,"All Ages",3,"Both",9.14460043839504
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2018,22,"All Ages",3,"Both",9.52272565910973
+463,"maternal_educ_yrs_pc",4657,"México",2018,22,"All Ages",3,"Both",9.7185515914593
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",8.49298956851696
+463,"maternal_educ_yrs_pc",4659,"Morelos",2018,22,"All Ages",3,"Both",9.78014293720049
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2018,22,"All Ages",3,"Both",9.76507703680858
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2018,22,"All Ages",3,"Both",10.3321910432175
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2018,22,"All Ages",3,"Both",8.03595903246688
+463,"maternal_educ_yrs_pc",4663,"Puebla",2018,22,"All Ages",3,"Both",8.75982436795807
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2018,22,"All Ages",3,"Both",9.47138399713702
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",9.40074397350526
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",9.28346220121847
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2018,22,"All Ages",3,"Both",10.1184111084472
+463,"maternal_educ_yrs_pc",4668,"Sonora",2018,22,"All Ages",3,"Both",10.2741293812605
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2018,22,"All Ages",3,"Both",9.40206094338642
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",9.9791736079884
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",9.61004363276194
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",8.75488144160265
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2018,22,"All Ages",3,"Both",9.01669083919191
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2018,22,"All Ages",3,"Both",9.05456902813603
+463,"maternal_educ_yrs_pc",130,"Mexico",2019,22,"All Ages",3,"Both",9.44379353266152
+463,"maternal_educ_yrs_pc",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",9.90334731933418
+463,"maternal_educ_yrs_pc",4644,"Baja California",2019,22,"All Ages",3,"Both",9.90808090247747
+463,"maternal_educ_yrs_pc",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",10.2440895931012
+463,"maternal_educ_yrs_pc",4646,"Campeche",2019,22,"All Ages",3,"Both",9.42666907087019
+463,"maternal_educ_yrs_pc",4647,"Coahuila",2019,22,"All Ages",3,"Both",10.1689788905855
+463,"maternal_educ_yrs_pc",4648,"Colima",2019,22,"All Ages",3,"Both",9.85973199405125
+463,"maternal_educ_yrs_pc",4649,"Chiapas",2019,22,"All Ages",3,"Both",7.20577275005276
+463,"maternal_educ_yrs_pc",4650,"Chihuahua",2019,22,"All Ages",3,"Both",9.64270751597232
+463,"maternal_educ_yrs_pc",4651,"Mexico City",2019,22,"All Ages",3,"Both",11.0753474798449
+463,"maternal_educ_yrs_pc",4652,"Durango",2019,22,"All Ages",3,"Both",9.51325492594199
+463,"maternal_educ_yrs_pc",4653,"Guanajuato",2019,22,"All Ages",3,"Both",8.69701334551657
+463,"maternal_educ_yrs_pc",4654,"Guerrero",2019,22,"All Ages",3,"Both",8.39197430865
+463,"maternal_educ_yrs_pc",4655,"Hidalgo",2019,22,"All Ages",3,"Both",9.21200668454951
+463,"maternal_educ_yrs_pc",4656,"Jalisco",2019,22,"All Ages",3,"Both",9.58229193835984
+463,"maternal_educ_yrs_pc",4657,"México",2019,22,"All Ages",3,"Both",9.77395877678354
+463,"maternal_educ_yrs_pc",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",8.55681854576522
+463,"maternal_educ_yrs_pc",4659,"Morelos",2019,22,"All Ages",3,"Both",9.83157487454661
+463,"maternal_educ_yrs_pc",4660,"Nayarit",2019,22,"All Ages",3,"Both",9.82054590571885
+463,"maternal_educ_yrs_pc",4661,"Nuevo León",2019,22,"All Ages",3,"Both",10.3765069122528
+463,"maternal_educ_yrs_pc",4662,"Oaxaca",2019,22,"All Ages",3,"Both",8.10827752942214
+463,"maternal_educ_yrs_pc",4663,"Puebla",2019,22,"All Ages",3,"Both",8.82439240230605
+463,"maternal_educ_yrs_pc",4664,"Querétaro",2019,22,"All Ages",3,"Both",9.52852661900392
+463,"maternal_educ_yrs_pc",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",9.46862038191657
+463,"maternal_educ_yrs_pc",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",9.34138238437878
+463,"maternal_educ_yrs_pc",4667,"Sinaloa",2019,22,"All Ages",3,"Both",10.1729938745755
+463,"maternal_educ_yrs_pc",4668,"Sonora",2019,22,"All Ages",3,"Both",10.3288417023149
+463,"maternal_educ_yrs_pc",4669,"Tabasco",2019,22,"All Ages",3,"Both",9.47424233643288
+463,"maternal_educ_yrs_pc",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",10.0360985111195
+463,"maternal_educ_yrs_pc",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",9.66529814045688
+463,"maternal_educ_yrs_pc",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",8.82338343366407
+463,"maternal_educ_yrs_pc",4673,"Yucatán",2019,22,"All Ages",3,"Both",9.09416817878832
+463,"maternal_educ_yrs_pc",4674,"Zacatecas",2019,22,"All Ages",3,"Both",9.1223139494314

@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+881,"sdi",130,"Mexico",1990,22,"All Ages",3,"Both",0.51290688240173
+881,"sdi",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",0.556324303463076
+881,"sdi",4644,"Baja California",1990,22,"All Ages",3,"Both",0.569929290476948
+881,"sdi",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",0.564296240268235
+881,"sdi",4646,"Campeche",1990,22,"All Ages",3,"Both",0.479867034009882
+881,"sdi",4647,"Coahuila",1990,22,"All Ages",3,"Both",0.54788598299824
+881,"sdi",4648,"Colima",1990,22,"All Ages",3,"Both",0.533878763838606
+881,"sdi",4649,"Chiapas",1990,22,"All Ages",3,"Both",0.392761113326072
+881,"sdi",4650,"Chihuahua",1990,22,"All Ages",3,"Both",0.545204516435927
+881,"sdi",4651,"Mexico City",1990,22,"All Ages",3,"Both",0.603198041206574
+881,"sdi",4652,"Durango",1990,22,"All Ages",3,"Both",0.499209184305517
+881,"sdi",4653,"Guanajuato",1990,22,"All Ages",3,"Both",0.492296136080812
+881,"sdi",4654,"Guerrero",1990,22,"All Ages",3,"Both",0.419530669525835
+881,"sdi",4655,"Hidalgo",1990,22,"All Ages",3,"Both",0.413888582076799
+881,"sdi",4656,"Jalisco",1990,22,"All Ages",3,"Both",0.532516905136708
+881,"sdi",4657,"México",1990,22,"All Ages",3,"Both",0.532975712236819
+881,"sdi",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",0.461286850244431
+881,"sdi",4659,"Morelos",1990,22,"All Ages",3,"Both",0.521744926426578
+881,"sdi",4660,"Nayarit",1990,22,"All Ages",3,"Both",0.488064509130252
+881,"sdi",4661,"Nuevo León",1990,22,"All Ages",3,"Both",0.601054052721609
+881,"sdi",4662,"Oaxaca",1990,22,"All Ages",3,"Both",0.427762548269757
+881,"sdi",4663,"Puebla",1990,22,"All Ages",3,"Both",0.456370245388312
+881,"sdi",4664,"Querétaro",1990,22,"All Ages",3,"Both",0.496152606495451
+881,"sdi",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",0.51533475219026
+881,"sdi",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",0.4795581849895
+881,"sdi",4667,"Sinaloa",1990,22,"All Ages",3,"Both",0.521132087505984
+881,"sdi",4668,"Sonora",1990,22,"All Ages",3,"Both",0.552798966200295
+881,"sdi",4669,"Tabasco",1990,22,"All Ages",3,"Both",0.468512383367359
+881,"sdi",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",0.546155415390334
+881,"sdi",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",0.47621964231791
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",0.46106021908327
+881,"sdi",4673,"Yucatán",1990,22,"All Ages",3,"Both",0.496175551764583
+881,"sdi",4674,"Zacatecas",1990,22,"All Ages",3,"Both",0.478373330249385
+881,"sdi",130,"Mexico",1991,22,"All Ages",3,"Both",0.516112530532468
+881,"sdi",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",0.559470284535362
+881,"sdi",4644,"Baja California",1991,22,"All Ages",3,"Both",0.572473803923519
+881,"sdi",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",0.568260954085855
+881,"sdi",4646,"Campeche",1991,22,"All Ages",3,"Both",0.484919501696908
+881,"sdi",4647,"Coahuila",1991,22,"All Ages",3,"Both",0.553650081046553
+881,"sdi",4648,"Colima",1991,22,"All Ages",3,"Both",0.540168975823677
+881,"sdi",4649,"Chiapas",1991,22,"All Ages",3,"Both",0.396122741752305
+881,"sdi",4650,"Chihuahua",1991,22,"All Ages",3,"Both",0.54829069888882
+881,"sdi",4651,"Mexico City",1991,22,"All Ages",3,"Both",0.608129853229118
+881,"sdi",4652,"Durango",1991,22,"All Ages",3,"Both",0.501170500006171
+881,"sdi",4653,"Guanajuato",1991,22,"All Ages",3,"Both",0.498266030832449
+881,"sdi",4654,"Guerrero",1991,22,"All Ages",3,"Both",0.421562284893904
+881,"sdi",4655,"Hidalgo",1991,22,"All Ages",3,"Both",0.422013310840898
+881,"sdi",4656,"Jalisco",1991,22,"All Ages",3,"Both",0.538584766700957
+881,"sdi",4657,"México",1991,22,"All Ages",3,"Both",0.527703570787242
+881,"sdi",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",0.466870812120573
+881,"sdi",4659,"Morelos",1991,22,"All Ages",3,"Both",0.529372714659161
+881,"sdi",4660,"Nayarit",1991,22,"All Ages",3,"Both",0.493192124096256
+881,"sdi",4661,"Nuevo León",1991,22,"All Ages",3,"Both",0.604857843779588
+881,"sdi",4662,"Oaxaca",1991,22,"All Ages",3,"Both",0.432825003887817
+881,"sdi",4663,"Puebla",1991,22,"All Ages",3,"Both",0.463521991025746
+881,"sdi",4664,"Querétaro",1991,22,"All Ages",3,"Both",0.501149925383992
+881,"sdi",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",0.521426991349983
+881,"sdi",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",0.484040912814758
+881,"sdi",4667,"Sinaloa",1991,22,"All Ages",3,"Both",0.525412412727452
+881,"sdi",4668,"Sonora",1991,22,"All Ages",3,"Both",0.556806593598293
+881,"sdi",4669,"Tabasco",1991,22,"All Ages",3,"Both",0.47396919177543
+881,"sdi",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",0.550460993269754
+881,"sdi",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",0.480307463895059
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",0.463394600582172
+881,"sdi",4673,"Yucatán",1991,22,"All Ages",3,"Both",0.501479187197856
+881,"sdi",4674,"Zacatecas",1991,22,"All Ages",3,"Both",0.484567687386757
+881,"sdi",130,"Mexico",1992,22,"All Ages",3,"Both",0.520705919556268
+881,"sdi",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",0.563785931040384
+881,"sdi",4644,"Baja California",1992,22,"All Ages",3,"Both",0.57629423394672
+881,"sdi",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",0.573519743234163
+881,"sdi",4646,"Campeche",1992,22,"All Ages",3,"Both",0.491877122294016
+881,"sdi",4647,"Coahuila",1992,22,"All Ages",3,"Both",0.560432545741814
+881,"sdi",4648,"Colima",1992,22,"All Ages",3,"Both",0.547148870180804
+881,"sdi",4649,"Chiapas",1992,22,"All Ages",3,"Both",0.402922391178968
+881,"sdi",4650,"Chihuahua",1992,22,"All Ages",3,"Both",0.552049079924083
+881,"sdi",4651,"Mexico City",1992,22,"All Ages",3,"Both",0.611540644916498
+881,"sdi",4652,"Durango",1992,22,"All Ages",3,"Both",0.504687552534029
+881,"sdi",4653,"Guanajuato",1992,22,"All Ages",3,"Both",0.503619751615644
+881,"sdi",4654,"Guerrero",1992,22,"All Ages",3,"Both",0.42550908446352
+881,"sdi",4655,"Hidalgo",1992,22,"All Ages",3,"Both",0.43266056525281
+881,"sdi",4656,"Jalisco",1992,22,"All Ages",3,"Both",0.545726542231274
+881,"sdi",4657,"México",1992,22,"All Ages",3,"Both",0.527327770247009
+881,"sdi",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",0.473686956117642
+881,"sdi",4659,"Morelos",1992,22,"All Ages",3,"Both",0.537887910816089
+881,"sdi",4660,"Nayarit",1992,22,"All Ages",3,"Both",0.499636294822664
+881,"sdi",4661,"Nuevo León",1992,22,"All Ages",3,"Both",0.609518796255078
+881,"sdi",4662,"Oaxaca",1992,22,"All Ages",3,"Both",0.438933115827803
+881,"sdi",4663,"Puebla",1992,22,"All Ages",3,"Both",0.470344820842506
+881,"sdi",4664,"Querétaro",1992,22,"All Ages",3,"Both",0.506948353941461
+881,"sdi",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",0.52968378421854
+881,"sdi",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",0.490523055991105
+881,"sdi",4667,"Sinaloa",1992,22,"All Ages",3,"Both",0.530764936937441
+881,"sdi",4668,"Sonora",1992,22,"All Ages",3,"Both",0.561745057067356
+881,"sdi",4669,"Tabasco",1992,22,"All Ages",3,"Both",0.481055564082012
+881,"sdi",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",0.555859861254011
+881,"sdi",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",0.4851171418778
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",0.467562281493514
+881,"sdi",4673,"Yucatán",1992,22,"All Ages",3,"Both",0.507695774180728
+881,"sdi",4674,"Zacatecas",1992,22,"All Ages",3,"Both",0.491721017709305
+881,"sdi",130,"Mexico",1993,22,"All Ages",3,"Both",0.528282384116229
+881,"sdi",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",0.569688921541923
+881,"sdi",4644,"Baja California",1993,22,"All Ages",3,"Both",0.580611139207701
+881,"sdi",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",0.57918374908011
+881,"sdi",4646,"Campeche",1993,22,"All Ages",3,"Both",0.500009865252488
+881,"sdi",4647,"Coahuila",1993,22,"All Ages",3,"Both",0.567306474995694
+881,"sdi",4648,"Colima",1993,22,"All Ages",3,"Both",0.554142129039727
+881,"sdi",4649,"Chiapas",1993,22,"All Ages",3,"Both",0.412476394565683
+881,"sdi",4650,"Chihuahua",1993,22,"All Ages",3,"Both",0.555750546401149
+881,"sdi",4651,"Mexico City",1993,22,"All Ages",3,"Both",0.618334241455429
+881,"sdi",4652,"Durango",1993,22,"All Ages",3,"Both",0.509238998559609
+881,"sdi",4653,"Guanajuato",1993,22,"All Ages",3,"Both",0.510121075696261
+881,"sdi",4654,"Guerrero",1993,22,"All Ages",3,"Both",0.431392222733558
+881,"sdi",4655,"Hidalgo",1993,22,"All Ages",3,"Both",0.443062042799703
+881,"sdi",4656,"Jalisco",1993,22,"All Ages",3,"Both",0.553111128319194
+881,"sdi",4657,"México",1993,22,"All Ages",3,"Both",0.542297455701192
+881,"sdi",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",0.48102913934978
+881,"sdi",4659,"Morelos",1993,22,"All Ages",3,"Both",0.546422673702534
+881,"sdi",4660,"Nayarit",1993,22,"All Ages",3,"Both",0.506656206764461
+881,"sdi",4661,"Nuevo León",1993,22,"All Ages",3,"Both",0.614406992874689
+881,"sdi",4662,"Oaxaca",1993,22,"All Ages",3,"Both",0.445507986692704
+881,"sdi",4663,"Puebla",1993,22,"All Ages",3,"Both",0.478440462004752
+881,"sdi",4664,"Querétaro",1993,22,"All Ages",3,"Both",0.516488041082598
+881,"sdi",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",0.538952595136279
+881,"sdi",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",0.499021803053279
+881,"sdi",4667,"Sinaloa",1993,22,"All Ages",3,"Both",0.536665971730306
+881,"sdi",4668,"Sonora",1993,22,"All Ages",3,"Both",0.566829601531019
+881,"sdi",4669,"Tabasco",1993,22,"All Ages",3,"Both",0.489147936770015
+881,"sdi",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",0.561761750003862
+881,"sdi",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",0.493721046880991
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",0.4734997907501
+881,"sdi",4673,"Yucatán",1993,22,"All Ages",3,"Both",0.515570408833549
+881,"sdi",4674,"Zacatecas",1993,22,"All Ages",3,"Both",0.499106862401339
+881,"sdi",130,"Mexico",1994,22,"All Ages",3,"Both",0.536505340490507
+881,"sdi",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",0.576410243896791
+881,"sdi",4644,"Baja California",1994,22,"All Ages",3,"Both",0.583925081014805
+881,"sdi",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",0.583531625157841
+881,"sdi",4646,"Campeche",1994,22,"All Ages",3,"Both",0.507369947193022
+881,"sdi",4647,"Coahuila",1994,22,"All Ages",3,"Both",0.572732999964492
+881,"sdi",4648,"Colima",1994,22,"All Ages",3,"Both",0.559818918191476
+881,"sdi",4649,"Chiapas",1994,22,"All Ages",3,"Both",0.421077351882881
+881,"sdi",4650,"Chihuahua",1994,22,"All Ages",3,"Both",0.557972879924556
+881,"sdi",4651,"Mexico City",1994,22,"All Ages",3,"Both",0.63003951976019
+881,"sdi",4652,"Durango",1994,22,"All Ages",3,"Both",0.512901084258087
+881,"sdi",4653,"Guanajuato",1994,22,"All Ages",3,"Both",0.518180885995496
+881,"sdi",4654,"Guerrero",1994,22,"All Ages",3,"Both",0.436517582829608
+881,"sdi",4655,"Hidalgo",1994,22,"All Ages",3,"Both",0.453004838423916
+881,"sdi",4656,"Jalisco",1994,22,"All Ages",3,"Both",0.559333757253645
+881,"sdi",4657,"México",1994,22,"All Ages",3,"Both",0.56133598039479
+881,"sdi",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",0.487250569113918
+881,"sdi",4659,"Morelos",1994,22,"All Ages",3,"Both",0.553525671893436
+881,"sdi",4660,"Nayarit",1994,22,"All Ages",3,"Both",0.512774871420317
+881,"sdi",4661,"Nuevo León",1994,22,"All Ages",3,"Both",0.61809443394487
+881,"sdi",4662,"Oaxaca",1994,22,"All Ages",3,"Both",0.450494177119593
+881,"sdi",4663,"Puebla",1994,22,"All Ages",3,"Both",0.487914166720015
+881,"sdi",4664,"Querétaro",1994,22,"All Ages",3,"Both",0.529307515626474
+881,"sdi",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",0.546988069109334
+881,"sdi",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",0.506770953077855
+881,"sdi",4667,"Sinaloa",1994,22,"All Ages",3,"Both",0.541651380449254
+881,"sdi",4668,"Sonora",1994,22,"All Ages",3,"Both",0.570711466773893
+881,"sdi",4669,"Tabasco",1994,22,"All Ages",3,"Both",0.496569975965458
+881,"sdi",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",0.565953076017097
+881,"sdi",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",0.504830315876922
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",0.47868754984738
+881,"sdi",4673,"Yucatán",1994,22,"All Ages",3,"Both",0.524141325078278
+881,"sdi",4674,"Zacatecas",1994,22,"All Ages",3,"Both",0.505455906034163
+881,"sdi",130,"Mexico",1995,22,"All Ages",3,"Both",0.542826557296197
+881,"sdi",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",0.58341027129559
+881,"sdi",4644,"Baja California",1995,22,"All Ages",3,"Both",0.5864574950695
+881,"sdi",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",0.586617827104008
+881,"sdi",4646,"Campeche",1995,22,"All Ages",3,"Both",0.514125371048468
+881,"sdi",4647,"Coahuila",1995,22,"All Ages",3,"Both",0.576747259439969
+881,"sdi",4648,"Colima",1995,22,"All Ages",3,"Both",0.564315675916085
+881,"sdi",4649,"Chiapas",1995,22,"All Ages",3,"Both",0.428083361695177
+881,"sdi",4650,"Chihuahua",1995,22,"All Ages",3,"Both",0.558980619490024
+881,"sdi",4651,"Mexico City",1995,22,"All Ages",3,"Both",0.642267636531449
+881,"sdi",4652,"Durango",1995,22,"All Ages",3,"Both",0.51581831349671
+881,"sdi",4653,"Guanajuato",1995,22,"All Ages",3,"Both",0.526409509855727
+881,"sdi",4654,"Guerrero",1995,22,"All Ages",3,"Both",0.440662749528107
+881,"sdi",4655,"Hidalgo",1995,22,"All Ages",3,"Both",0.462404371316913
+881,"sdi",4656,"Jalisco",1995,22,"All Ages",3,"Both",0.564389083071787
+881,"sdi",4657,"México",1995,22,"All Ages",3,"Both",0.571390490729057
+881,"sdi",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",0.492331881681966
+881,"sdi",4659,"Morelos",1995,22,"All Ages",3,"Both",0.559066840337072
+881,"sdi",4660,"Nayarit",1995,22,"All Ages",3,"Both",0.518104537991805
+881,"sdi",4661,"Nuevo León",1995,22,"All Ages",3,"Both",0.620342624263516
+881,"sdi",4662,"Oaxaca",1995,22,"All Ages",3,"Both",0.453591639521249
+881,"sdi",4663,"Puebla",1995,22,"All Ages",3,"Both",0.494540664750417
+881,"sdi",4664,"Querétaro",1995,22,"All Ages",3,"Both",0.543333336965074
+881,"sdi",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",0.553830468930066
+881,"sdi",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",0.513163769907675
+881,"sdi",4667,"Sinaloa",1995,22,"All Ages",3,"Both",0.545833339612181
+881,"sdi",4668,"Sonora",1995,22,"All Ages",3,"Both",0.573552088583024
+881,"sdi",4669,"Tabasco",1995,22,"All Ages",3,"Both",0.503417721177282
+881,"sdi",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",0.567913759576623
+881,"sdi",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",0.515580803465419
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",0.482569486213791
+881,"sdi",4673,"Yucatán",1995,22,"All Ages",3,"Both",0.532441719395565
+881,"sdi",4674,"Zacatecas",1995,22,"All Ages",3,"Both",0.510669138902045
+881,"sdi",130,"Mexico",1996,22,"All Ages",3,"Both",0.548825335936902
+881,"sdi",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",0.591241748100105
+881,"sdi",4644,"Baja California",1996,22,"All Ages",3,"Both",0.590592543190801
+881,"sdi",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",0.590842071329686
+881,"sdi",4646,"Campeche",1996,22,"All Ages",3,"Both",0.522907092074947
+881,"sdi",4647,"Coahuila",1996,22,"All Ages",3,"Both",0.58174454844539
+881,"sdi",4648,"Colima",1996,22,"All Ages",3,"Both",0.57003185519899
+881,"sdi",4649,"Chiapas",1996,22,"All Ages",3,"Both",0.43614627721196
+881,"sdi",4650,"Chihuahua",1996,22,"All Ages",3,"Both",0.561463177884973
+881,"sdi",4651,"Mexico City",1996,22,"All Ages",3,"Both",0.651991053693489
+881,"sdi",4652,"Durango",1996,22,"All Ages",3,"Both",0.52106704271269
+881,"sdi",4653,"Guanajuato",1996,22,"All Ages",3,"Both",0.534095335473023
+881,"sdi",4654,"Guerrero",1996,22,"All Ages",3,"Both",0.447136264819101
+881,"sdi",4655,"Hidalgo",1996,22,"All Ages",3,"Both",0.471420730338888
+881,"sdi",4656,"Jalisco",1996,22,"All Ages",3,"Both",0.570575988264708
+881,"sdi",4657,"México",1996,22,"All Ages",3,"Both",0.575937685991717
+881,"sdi",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",0.498848520083137
+881,"sdi",4659,"Morelos",1996,22,"All Ages",3,"Both",0.565425511742061
+881,"sdi",4660,"Nayarit",1996,22,"All Ages",3,"Both",0.525180423538622
+881,"sdi",4661,"Nuevo León",1996,22,"All Ages",3,"Both",0.623542302592832
+881,"sdi",4662,"Oaxaca",1996,22,"All Ages",3,"Both",0.457726102937948
+881,"sdi",4663,"Puebla",1996,22,"All Ages",3,"Both",0.497698181716521
+881,"sdi",4664,"Querétaro",1996,22,"All Ages",3,"Both",0.55685842063548
+881,"sdi",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",0.561849602952971
+881,"sdi",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",0.520826583835867
+881,"sdi",4667,"Sinaloa",1996,22,"All Ages",3,"Both",0.551968052682934
+881,"sdi",4668,"Sonora",1996,22,"All Ages",3,"Both",0.577891926986377
+881,"sdi",4669,"Tabasco",1996,22,"All Ages",3,"Both",0.512272320618634
+881,"sdi",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",0.570280857283136
+881,"sdi",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",0.525207977636723
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",0.488051754755037
+881,"sdi",4673,"Yucatán",1996,22,"All Ages",3,"Both",0.541375261789942
+881,"sdi",4674,"Zacatecas",1996,22,"All Ages",3,"Both",0.517052694663771
+881,"sdi",130,"Mexico",1997,22,"All Ages",3,"Both",0.554753034135939
+881,"sdi",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",0.598452900088922
+881,"sdi",4644,"Baja California",1997,22,"All Ages",3,"Both",0.595739479504711
+881,"sdi",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",0.595821955024883
+881,"sdi",4646,"Campeche",1997,22,"All Ages",3,"Both",0.533117999334547
+881,"sdi",4647,"Coahuila",1997,22,"All Ages",3,"Both",0.587398688806105
+881,"sdi",4648,"Colima",1997,22,"All Ages",3,"Both",0.576568360457964
+881,"sdi",4649,"Chiapas",1997,22,"All Ages",3,"Both",0.444874949164849
+881,"sdi",4650,"Chihuahua",1997,22,"All Ages",3,"Both",0.56510129684317
+881,"sdi",4651,"Mexico City",1997,22,"All Ages",3,"Both",0.658381209925895
+881,"sdi",4652,"Durango",1997,22,"All Ages",3,"Both",0.528480936743522
+881,"sdi",4653,"Guanajuato",1997,22,"All Ages",3,"Both",0.540197143902958
+881,"sdi",4654,"Guerrero",1997,22,"All Ages",3,"Both",0.455591655458053
+881,"sdi",4655,"Hidalgo",1997,22,"All Ages",3,"Both",0.480501191308904
+881,"sdi",4656,"Jalisco",1997,22,"All Ages",3,"Both",0.577409071919345
+881,"sdi",4657,"México",1997,22,"All Ages",3,"Both",0.578626500581757
+881,"sdi",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",0.506427432406113
+881,"sdi",4659,"Morelos",1997,22,"All Ages",3,"Both",0.572314177019292
+881,"sdi",4660,"Nayarit",1997,22,"All Ages",3,"Both",0.533658907868833
+881,"sdi",4661,"Nuevo León",1997,22,"All Ages",3,"Both",0.628051906902866
+881,"sdi",4662,"Oaxaca",1997,22,"All Ages",3,"Both",0.463499852883192
+881,"sdi",4663,"Puebla",1997,22,"All Ages",3,"Both",0.498788508178347
+881,"sdi",4664,"Querétaro",1997,22,"All Ages",3,"Both",0.567416334573258
+881,"sdi",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",0.570339207574327
+881,"sdi",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",0.529224342609271
+881,"sdi",4667,"Sinaloa",1997,22,"All Ages",3,"Both",0.559793508357627
+881,"sdi",4668,"Sonora",1997,22,"All Ages",3,"Both",0.583296858101556
+881,"sdi",4669,"Tabasco",1997,22,"All Ages",3,"Both",0.522327216955968
+881,"sdi",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",0.575133893150585
+881,"sdi",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",0.532154900808378
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",0.495327914445604
+881,"sdi",4673,"Yucatán",1997,22,"All Ages",3,"Both",0.549798602591676
+881,"sdi",4674,"Zacatecas",1997,22,"All Ages",3,"Both",0.524270100796111
+881,"sdi",130,"Mexico",1998,22,"All Ages",3,"Both",0.560459536907607
+881,"sdi",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",0.604056120787192
+881,"sdi",4644,"Baja California",1998,22,"All Ages",3,"Both",0.600774195579085
+881,"sdi",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",0.600491356315008
+881,"sdi",4646,"Campeche",1998,22,"All Ages",3,"Both",0.543291756813029
+881,"sdi",4647,"Coahuila",1998,22,"All Ages",3,"Both",0.592897109155595
+881,"sdi",4648,"Colima",1998,22,"All Ages",3,"Both",0.582988061958866
+881,"sdi",4649,"Chiapas",1998,22,"All Ages",3,"Both",0.452985020733863
+881,"sdi",4650,"Chihuahua",1998,22,"All Ages",3,"Both",0.568956156601629
+881,"sdi",4651,"Mexico City",1998,22,"All Ages",3,"Both",0.662917727027429
+881,"sdi",4652,"Durango",1998,22,"All Ages",3,"Both",0.536593239056097
+881,"sdi",4653,"Guanajuato",1998,22,"All Ages",3,"Both",0.544991515017177
+881,"sdi",4654,"Guerrero",1998,22,"All Ages",3,"Both",0.464153660299122
+881,"sdi",4655,"Hidalgo",1998,22,"All Ages",3,"Both",0.490017327104372
+881,"sdi",4656,"Jalisco",1998,22,"All Ages",3,"Both",0.583932535137965
+881,"sdi",4657,"México",1998,22,"All Ages",3,"Both",0.581445225959516
+881,"sdi",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",0.513915448071137
+881,"sdi",4659,"Morelos",1998,22,"All Ages",3,"Both",0.578775016839075
+881,"sdi",4660,"Nayarit",1998,22,"All Ages",3,"Both",0.542295542488348
+881,"sdi",4661,"Nuevo León",1998,22,"All Ages",3,"Both",0.633538886260226
+881,"sdi",4662,"Oaxaca",1998,22,"All Ages",3,"Both",0.470157479609047
+881,"sdi",4663,"Puebla",1998,22,"All Ages",3,"Both",0.498325271403603
+881,"sdi",4664,"Querétaro",1998,22,"All Ages",3,"Both",0.575430648128904
+881,"sdi",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",0.578089835323841
+881,"sdi",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",0.537232698418029
+881,"sdi",4667,"Sinaloa",1998,22,"All Ages",3,"Both",0.567905805814861
+881,"sdi",4668,"Sonora",1998,22,"All Ages",3,"Both",0.58873221841826
+881,"sdi",4669,"Tabasco",1998,22,"All Ages",3,"Both",0.531859614881513
+881,"sdi",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",0.583075638878503
+881,"sdi",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",0.536953842359779
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",0.503427557930182
+881,"sdi",4673,"Yucatán",1998,22,"All Ages",3,"Both",0.556988223325608
+881,"sdi",4674,"Zacatecas",1998,22,"All Ages",3,"Both",0.531393751112902
+881,"sdi",130,"Mexico",1999,22,"All Ages",3,"Both",0.565935771262821
+881,"sdi",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",0.607597445509296
+881,"sdi",4644,"Baja California",1999,22,"All Ages",3,"Both",0.605098800581277
+881,"sdi",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",0.604247906371012
+881,"sdi",4646,"Campeche",1999,22,"All Ages",3,"Both",0.552460969944551
+881,"sdi",4647,"Coahuila",1999,22,"All Ages",3,"Both",0.597562463663111
+881,"sdi",4648,"Colima",1999,22,"All Ages",3,"Both",0.588719882972792
+881,"sdi",4649,"Chiapas",1999,22,"All Ages",3,"Both",0.459511898286192
+881,"sdi",4650,"Chihuahua",1999,22,"All Ages",3,"Both",0.572504801802302
+881,"sdi",4651,"Mexico City",1999,22,"All Ages",3,"Both",0.667225531371934
+881,"sdi",4652,"Durango",1999,22,"All Ages",3,"Both",0.544153607140113
+881,"sdi",4653,"Guanajuato",1999,22,"All Ages",3,"Both",0.550240598373001
+881,"sdi",4654,"Guerrero",1999,22,"All Ages",3,"Both",0.471627054675018
+881,"sdi",4655,"Hidalgo",1999,22,"All Ages",3,"Both",0.500241076949865
+881,"sdi",4656,"Jalisco",1999,22,"All Ages",3,"Both",0.589683790919765
+881,"sdi",4657,"México",1999,22,"All Ages",3,"Both",0.585556734440319
+881,"sdi",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",0.520512007659492
+881,"sdi",4659,"Morelos",1999,22,"All Ages",3,"Both",0.584263867492307
+881,"sdi",4660,"Nayarit",1999,22,"All Ages",3,"Both",0.550116073461091
+881,"sdi",4661,"Nuevo León",1999,22,"All Ages",3,"Both",0.638765769558622
+881,"sdi",4662,"Oaxaca",1999,22,"All Ages",3,"Both",0.476090202744196
+881,"sdi",4663,"Puebla",1999,22,"All Ages",3,"Both",0.499960574645697
+881,"sdi",4664,"Querétaro",1999,22,"All Ages",3,"Both",0.582899687942068
+881,"sdi",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",0.584466331357741
+881,"sdi",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",0.544213961041992
+881,"sdi",4667,"Sinaloa",1999,22,"All Ages",3,"Both",0.575280198303688
+881,"sdi",4668,"Sonora",1999,22,"All Ages",3,"Both",0.593563113406559
+881,"sdi",4669,"Tabasco",1999,22,"All Ages",3,"Both",0.53996014485741
+881,"sdi",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",0.590731762983152
+881,"sdi",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",0.54082934963404
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",0.510830460815074
+881,"sdi",4673,"Yucatán",1999,22,"All Ages",3,"Both",0.563080183600215
+881,"sdi",4674,"Zacatecas",1999,22,"All Ages",3,"Both",0.537789135884872
+881,"sdi",130,"Mexico",2000,22,"All Ages",3,"Both",0.571447711736895
+881,"sdi",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",0.60961222452304
+881,"sdi",4644,"Baja California",2000,22,"All Ages",3,"Both",0.60891209822436
+881,"sdi",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",0.60741618661443
+881,"sdi",4646,"Campeche",2000,22,"All Ages",3,"Both",0.56067090824499
+881,"sdi",4647,"Coahuila",2000,22,"All Ages",3,"Both",0.601426615423257
+881,"sdi",4648,"Colima",2000,22,"All Ages",3,"Both",0.593922737637483
+881,"sdi",4649,"Chiapas",2000,22,"All Ages",3,"Both",0.464622707946153
+881,"sdi",4650,"Chihuahua",2000,22,"All Ages",3,"Both",0.576003226469132
+881,"sdi",4651,"Mexico City",2000,22,"All Ages",3,"Both",0.672201903435194
+881,"sdi",4652,"Durango",2000,22,"All Ages",3,"Both",0.550997576093389
+881,"sdi",4653,"Guanajuato",2000,22,"All Ages",3,"Both",0.557302454700154
+881,"sdi",4654,"Guerrero",2000,22,"All Ages",3,"Both",0.478196432227386
+881,"sdi",4655,"Hidalgo",2000,22,"All Ages",3,"Both",0.51106514087636
+881,"sdi",4656,"Jalisco",2000,22,"All Ages",3,"Both",0.594931320821419
+881,"sdi",4657,"México",2000,22,"All Ages",3,"Both",0.591021549795643
+881,"sdi",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",0.526445775583801
+881,"sdi",4659,"Morelos",2000,22,"All Ages",3,"Both",0.589166665522169
+881,"sdi",4660,"Nayarit",2000,22,"All Ages",3,"Both",0.557097558227285
+881,"sdi",4661,"Nuevo León",2000,22,"All Ages",3,"Both",0.643453274777323
+881,"sdi",4662,"Oaxaca",2000,22,"All Ages",3,"Both",0.481182197473173
+881,"sdi",4663,"Puebla",2000,22,"All Ages",3,"Both",0.504840482870858
+881,"sdi",4664,"Querétaro",2000,22,"All Ages",3,"Both",0.590890275783988
+881,"sdi",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",0.589804767391182
+881,"sdi",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",0.550472145532962
+881,"sdi",4667,"Sinaloa",2000,22,"All Ages",3,"Both",0.581954375384264
+881,"sdi",4668,"Sonora",2000,22,"All Ages",3,"Both",0.598050685300686
+881,"sdi",4669,"Tabasco",2000,22,"All Ages",3,"Both",0.546856005650921
+881,"sdi",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",0.596689644393033
+881,"sdi",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",0.545049715563023
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",0.517287193792402
+881,"sdi",4673,"Yucatán",2000,22,"All Ages",3,"Both",0.569117778700368
+881,"sdi",4674,"Zacatecas",2000,22,"All Ages",3,"Both",0.543647421956777
+881,"sdi",130,"Mexico",2001,22,"All Ages",3,"Both",0.576344958470057
+881,"sdi",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",0.611440658540393
+881,"sdi",4644,"Baja California",2001,22,"All Ages",3,"Both",0.611984394137407
+881,"sdi",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",0.609907700597059
+881,"sdi",4646,"Campeche",2001,22,"All Ages",3,"Both",0.567415065374094
+881,"sdi",4647,"Coahuila",2001,22,"All Ages",3,"Both",0.604287585998794
+881,"sdi",4648,"Colima",2001,22,"All Ages",3,"Both",0.598263035204113
+881,"sdi",4649,"Chiapas",2001,22,"All Ages",3,"Both",0.468813026136216
+881,"sdi",4650,"Chihuahua",2001,22,"All Ages",3,"Both",0.579320163871412
+881,"sdi",4651,"Mexico City",2001,22,"All Ages",3,"Both",0.677038841536195
+881,"sdi",4652,"Durango",2001,22,"All Ages",3,"Both",0.556991550468818
+881,"sdi",4653,"Guanajuato",2001,22,"All Ages",3,"Both",0.564647984651041
+881,"sdi",4654,"Guerrero",2001,22,"All Ages",3,"Both",0.483809144634245
+881,"sdi",4655,"Hidalgo",2001,22,"All Ages",3,"Both",0.520416863513611
+881,"sdi",4656,"Jalisco",2001,22,"All Ages",3,"Both",0.599346912254888
+881,"sdi",4657,"México",2001,22,"All Ages",3,"Both",0.596389708364162
+881,"sdi",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",0.531531459344579
+881,"sdi",4659,"Morelos",2001,22,"All Ages",3,"Both",0.593212542887194
+881,"sdi",4660,"Nayarit",2001,22,"All Ages",3,"Both",0.562873068440493
+881,"sdi",4661,"Nuevo León",2001,22,"All Ages",3,"Both",0.647358284125924
+881,"sdi",4662,"Oaxaca",2001,22,"All Ages",3,"Both",0.485697695542328
+881,"sdi",4663,"Puebla",2001,22,"All Ages",3,"Both",0.509355047576459
+881,"sdi",4664,"Querétaro",2001,22,"All Ages",3,"Both",0.597877330579374
+881,"sdi",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",0.593976474667354
+881,"sdi",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",0.555714951471668
+881,"sdi",4667,"Sinaloa",2001,22,"All Ages",3,"Both",0.587612204038544
+881,"sdi",4668,"Sonora",2001,22,"All Ages",3,"Both",0.601939202321459
+881,"sdi",4669,"Tabasco",2001,22,"All Ages",3,"Both",0.552326011929749
+881,"sdi",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",0.601234413293527
+881,"sdi",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",0.54981142610172
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",0.522695323602097
+881,"sdi",4673,"Yucatán",2001,22,"All Ages",3,"Both",0.575237091268644
+881,"sdi",4674,"Zacatecas",2001,22,"All Ages",3,"Both",0.548618726389019
+881,"sdi",130,"Mexico",2002,22,"All Ages",3,"Both",0.580850045115971
+881,"sdi",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",0.615172004245315
+881,"sdi",4644,"Baja California",2002,22,"All Ages",3,"Both",0.614806823130665
+881,"sdi",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",0.612440166207248
+881,"sdi",4646,"Campeche",2002,22,"All Ages",3,"Both",0.57304810387137
+881,"sdi",4647,"Coahuila",2002,22,"All Ages",3,"Both",0.607304937360312
+881,"sdi",4648,"Colima",2002,22,"All Ages",3,"Both",0.60229280305321
+881,"sdi",4649,"Chiapas",2002,22,"All Ages",3,"Both",0.473351331184684
+881,"sdi",4650,"Chihuahua",2002,22,"All Ages",3,"Both",0.58298011335212
+881,"sdi",4651,"Mexico City",2002,22,"All Ages",3,"Both",0.681774438593458
+881,"sdi",4652,"Durango",2002,22,"All Ages",3,"Both",0.56310317560084
+881,"sdi",4653,"Guanajuato",2002,22,"All Ages",3,"Both",0.570101067614273
+881,"sdi",4654,"Guerrero",2002,22,"All Ages",3,"Both",0.489605165857106
+881,"sdi",4655,"Hidalgo",2002,22,"All Ages",3,"Both",0.527273933945659
+881,"sdi",4656,"Jalisco",2002,22,"All Ages",3,"Both",0.603356551028108
+881,"sdi",4657,"México",2002,22,"All Ages",3,"Both",0.600544981953894
+881,"sdi",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",0.536335873947367
+881,"sdi",4659,"Morelos",2002,22,"All Ages",3,"Both",0.596843887772964
+881,"sdi",4660,"Nayarit",2002,22,"All Ages",3,"Both",0.568084771733893
+881,"sdi",4661,"Nuevo León",2002,22,"All Ages",3,"Both",0.650856200538352
+881,"sdi",4662,"Oaxaca",2002,22,"All Ages",3,"Both",0.490565407427482
+881,"sdi",4663,"Puebla",2002,22,"All Ages",3,"Both",0.515489236310735
+881,"sdi",4664,"Querétaro",2002,22,"All Ages",3,"Both",0.602784860974211
+881,"sdi",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",0.597458359683282
+881,"sdi",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",0.560387528693116
+881,"sdi",4667,"Sinaloa",2002,22,"All Ages",3,"Both",0.592889489982886
+881,"sdi",4668,"Sonora",2002,22,"All Ages",3,"Both",0.605688453983832
+881,"sdi",4669,"Tabasco",2002,22,"All Ages",3,"Both",0.557062934473565
+881,"sdi",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",0.605112304385853
+881,"sdi",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",0.555201305466707
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",0.527812396972393
+881,"sdi",4673,"Yucatán",2002,22,"All Ages",3,"Both",0.581555197079266
+881,"sdi",4674,"Zacatecas",2002,22,"All Ages",3,"Both",0.553173673252177
+881,"sdi",130,"Mexico",2003,22,"All Ages",3,"Both",0.585121172552347
+881,"sdi",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",0.620649696081762
+881,"sdi",4644,"Baja California",2003,22,"All Ages",3,"Both",0.617752622122314
+881,"sdi",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",0.615338135202427
+881,"sdi",4646,"Campeche",2003,22,"All Ages",3,"Both",0.57799911277592
+881,"sdi",4647,"Coahuila",2003,22,"All Ages",3,"Both",0.611164737811322
+881,"sdi",4648,"Colima",2003,22,"All Ages",3,"Both",0.606360609619802
+881,"sdi",4649,"Chiapas",2003,22,"All Ages",3,"Both",0.478134806070964
+881,"sdi",4650,"Chihuahua",2003,22,"All Ages",3,"Both",0.587053035474861
+881,"sdi",4651,"Mexico City",2003,22,"All Ages",3,"Both",0.686043272819663
+881,"sdi",4652,"Durango",2003,22,"All Ages",3,"Both",0.569524225777559
+881,"sdi",4653,"Guanajuato",2003,22,"All Ages",3,"Both",0.573704059164015
+881,"sdi",4654,"Guerrero",2003,22,"All Ages",3,"Both",0.496140282088462
+881,"sdi",4655,"Hidalgo",2003,22,"All Ages",3,"Both",0.530947360949152
+881,"sdi",4656,"Jalisco",2003,22,"All Ages",3,"Both",0.607269340169464
+881,"sdi",4657,"México",2003,22,"All Ages",3,"Both",0.60354117550181
+881,"sdi",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",0.541090310938259
+881,"sdi",4659,"Morelos",2003,22,"All Ages",3,"Both",0.600291742036856
+881,"sdi",4660,"Nayarit",2003,22,"All Ages",3,"Both",0.573086942715168
+881,"sdi",4661,"Nuevo León",2003,22,"All Ages",3,"Both",0.654168712408072
+881,"sdi",4662,"Oaxaca",2003,22,"All Ages",3,"Both",0.495934806462178
+881,"sdi",4663,"Puebla",2003,22,"All Ages",3,"Both",0.52390832712419
+881,"sdi",4664,"Querétaro",2003,22,"All Ages",3,"Both",0.606094404402317
+881,"sdi",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",0.600564099049356
+881,"sdi",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",0.564802822287279
+881,"sdi",4667,"Sinaloa",2003,22,"All Ages",3,"Both",0.598071693286039
+881,"sdi",4668,"Sonora",2003,22,"All Ages",3,"Both",0.609488802249662
+881,"sdi",4669,"Tabasco",2003,22,"All Ages",3,"Both",0.561518690605138
+881,"sdi",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",0.608751720527075
+881,"sdi",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",0.560931897431508
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",0.532974739659181
+881,"sdi",4673,"Yucatán",2003,22,"All Ages",3,"Both",0.587604582762056
+881,"sdi",4674,"Zacatecas",2003,22,"All Ages",3,"Both",0.557529085986671
+881,"sdi",130,"Mexico",2004,22,"All Ages",3,"Both",0.589548197416273
+881,"sdi",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",0.626637465488795
+881,"sdi",4644,"Baja California",2004,22,"All Ages",3,"Both",0.621228399992295
+881,"sdi",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",0.618624112493252
+881,"sdi",4646,"Campeche",2004,22,"All Ages",3,"Both",0.582775716625139
+881,"sdi",4647,"Coahuila",2004,22,"All Ages",3,"Both",0.615606097399836
+881,"sdi",4648,"Colima",2004,22,"All Ages",3,"Both",0.610738397526001
+881,"sdi",4649,"Chiapas",2004,22,"All Ages",3,"Both",0.482730354820484
+881,"sdi",4650,"Chihuahua",2004,22,"All Ages",3,"Both",0.591535189982022
+881,"sdi",4651,"Mexico City",2004,22,"All Ages",3,"Both",0.690209640367377
+881,"sdi",4652,"Durango",2004,22,"All Ages",3,"Both",0.575940960947277
+881,"sdi",4653,"Guanajuato",2004,22,"All Ages",3,"Both",0.577708983922321
+881,"sdi",4654,"Guerrero",2004,22,"All Ages",3,"Both",0.503026317887579
+881,"sdi",4655,"Hidalgo",2004,22,"All Ages",3,"Both",0.533241105099158
+881,"sdi",4656,"Jalisco",2004,22,"All Ages",3,"Both",0.611447208789141
+881,"sdi",4657,"México",2004,22,"All Ages",3,"Both",0.607519007585969
+881,"sdi",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",0.545876328926681
+881,"sdi",4659,"Morelos",2004,22,"All Ages",3,"Both",0.603910524702695
+881,"sdi",4660,"Nayarit",2004,22,"All Ages",3,"Both",0.578002028436373
+881,"sdi",4661,"Nuevo León",2004,22,"All Ages",3,"Both",0.657680677147843
+881,"sdi",4662,"Oaxaca",2004,22,"All Ages",3,"Both",0.501616992290374
+881,"sdi",4663,"Puebla",2004,22,"All Ages",3,"Both",0.531320003178832
+881,"sdi",4664,"Querétaro",2004,22,"All Ages",3,"Both",0.609311640191764
+881,"sdi",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",0.603680696319883
+881,"sdi",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",0.569328223598474
+881,"sdi",4667,"Sinaloa",2004,22,"All Ages",3,"Both",0.603354127758761
+881,"sdi",4668,"Sonora",2004,22,"All Ages",3,"Both",0.613556135180273
+881,"sdi",4669,"Tabasco",2004,22,"All Ages",3,"Both",0.566057498144707
+881,"sdi",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",0.61258511280174
+881,"sdi",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",0.567098425799859
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",0.538302681799077
+881,"sdi",4673,"Yucatán",2004,22,"All Ages",3,"Both",0.592554559891376
+881,"sdi",4674,"Zacatecas",2004,22,"All Ages",3,"Both",0.561867561846303
+881,"sdi",130,"Mexico",2005,22,"All Ages",3,"Both",0.593838027140326
+881,"sdi",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",0.632122175598498
+881,"sdi",4644,"Baja California",2005,22,"All Ages",3,"Both",0.624927434010481
+881,"sdi",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",0.622166786159078
+881,"sdi",4646,"Campeche",2005,22,"All Ages",3,"Both",0.587120666437949
+881,"sdi",4647,"Coahuila",2005,22,"All Ages",3,"Both",0.619755179049145
+881,"sdi",4648,"Colima",2005,22,"All Ages",3,"Both",0.615317700202465
+881,"sdi",4649,"Chiapas",2005,22,"All Ages",3,"Both",0.487031829290237
+881,"sdi",4650,"Chihuahua",2005,22,"All Ages",3,"Both",0.59624168859244
+881,"sdi",4651,"Mexico City",2005,22,"All Ages",3,"Both",0.694125244054515
+881,"sdi",4652,"Durango",2005,22,"All Ages",3,"Both",0.581777762062205
+881,"sdi",4653,"Guanajuato",2005,22,"All Ages",3,"Both",0.582127641871228
+881,"sdi",4654,"Guerrero",2005,22,"All Ages",3,"Both",0.509298909479127
+881,"sdi",4655,"Hidalgo",2005,22,"All Ages",3,"Both",0.536561088601613
+881,"sdi",4656,"Jalisco",2005,22,"All Ages",3,"Both",0.615635508732669
+881,"sdi",4657,"México",2005,22,"All Ages",3,"Both",0.611536891292476
+881,"sdi",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",0.550496955829364
+881,"sdi",4659,"Morelos",2005,22,"All Ages",3,"Both",0.607457656876888
+881,"sdi",4660,"Nayarit",2005,22,"All Ages",3,"Both",0.582497480168227
+881,"sdi",4661,"Nuevo León",2005,22,"All Ages",3,"Both",0.661134659368523
+881,"sdi",4662,"Oaxaca",2005,22,"All Ages",3,"Both",0.507117572174025
+881,"sdi",4663,"Puebla",2005,22,"All Ages",3,"Both",0.537438560772918
+881,"sdi",4664,"Querétaro",2005,22,"All Ages",3,"Both",0.612641584025261
+881,"sdi",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",0.606622801439028
+881,"sdi",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",0.574027423161701
+881,"sdi",4667,"Sinaloa",2005,22,"All Ages",3,"Both",0.608561827527577
+881,"sdi",4668,"Sonora",2005,22,"All Ages",3,"Both",0.617776725970488
+881,"sdi",4669,"Tabasco",2005,22,"All Ages",3,"Both",0.570535689001777
+881,"sdi",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",0.616391263979384
+881,"sdi",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",0.57260221857417
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",0.543606657539456
+881,"sdi",4673,"Yucatán",2005,22,"All Ages",3,"Both",0.595668708479803
+881,"sdi",4674,"Zacatecas",2005,22,"All Ages",3,"Both",0.566037395076808
+881,"sdi",130,"Mexico",2006,22,"All Ages",3,"Both",0.597722586255969
+881,"sdi",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",0.636973961568837
+881,"sdi",4644,"Baja California",2006,22,"All Ages",3,"Both",0.628790397434978
+881,"sdi",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",0.626369038917762
+881,"sdi",4646,"Campeche",2006,22,"All Ages",3,"Both",0.590977263010225
+881,"sdi",4647,"Coahuila",2006,22,"All Ages",3,"Both",0.623523142508479
+881,"sdi",4648,"Colima",2006,22,"All Ages",3,"Both",0.62031649903528
+881,"sdi",4649,"Chiapas",2006,22,"All Ages",3,"Both",0.4916734120878
+881,"sdi",4650,"Chihuahua",2006,22,"All Ages",3,"Both",0.60140364602084
+881,"sdi",4651,"Mexico City",2006,22,"All Ages",3,"Both",0.696759885470108
+881,"sdi",4652,"Durango",2006,22,"All Ages",3,"Both",0.587199083521811
+881,"sdi",4653,"Guanajuato",2006,22,"All Ages",3,"Both",0.58592876187926
+881,"sdi",4654,"Guerrero",2006,22,"All Ages",3,"Both",0.515174487821618
+881,"sdi",4655,"Hidalgo",2006,22,"All Ages",3,"Both",0.542037686613753
+881,"sdi",4656,"Jalisco",2006,22,"All Ages",3,"Both",0.619808755954192
+881,"sdi",4657,"México",2006,22,"All Ages",3,"Both",0.613172139410017
+881,"sdi",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",0.555196990244588
+881,"sdi",4659,"Morelos",2006,22,"All Ages",3,"Both",0.610975586769501
+881,"sdi",4660,"Nayarit",2006,22,"All Ages",3,"Both",0.586764349101865
+881,"sdi",4661,"Nuevo León",2006,22,"All Ages",3,"Both",0.664471783725661
+881,"sdi",4662,"Oaxaca",2006,22,"All Ages",3,"Both",0.512710532405868
+881,"sdi",4663,"Puebla",2006,22,"All Ages",3,"Both",0.54293779476934
+881,"sdi",4664,"Querétaro",2006,22,"All Ages",3,"Both",0.615793027456433
+881,"sdi",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",0.609501139370495
+881,"sdi",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",0.579274560155689
+881,"sdi",4667,"Sinaloa",2006,22,"All Ages",3,"Both",0.61392458177228
+881,"sdi",4668,"Sonora",2006,22,"All Ages",3,"Both",0.622369149443296
+881,"sdi",4669,"Tabasco",2006,22,"All Ages",3,"Both",0.575247738998194
+881,"sdi",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",0.620230679343905
+881,"sdi",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",0.577322876523796
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",0.549235546681451
+881,"sdi",4673,"Yucatán",2006,22,"All Ages",3,"Both",0.5978208244132
+881,"sdi",4674,"Zacatecas",2006,22,"All Ages",3,"Both",0.570325135474447
+881,"sdi",130,"Mexico",2007,22,"All Ages",3,"Both",0.601507726431212
+881,"sdi",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",0.64090501094945
+881,"sdi",4644,"Baja California",2007,22,"All Ages",3,"Both",0.6330601869669
+881,"sdi",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",0.631303424858
+881,"sdi",4646,"Campeche",2007,22,"All Ages",3,"Both",0.594585826536914
+881,"sdi",4647,"Coahuila",2007,22,"All Ages",3,"Both",0.627222414647829
+881,"sdi",4648,"Colima",2007,22,"All Ages",3,"Both",0.625513271110765
+881,"sdi",4649,"Chiapas",2007,22,"All Ages",3,"Both",0.496956876484419
+881,"sdi",4650,"Chihuahua",2007,22,"All Ages",3,"Both",0.607126897128383
+881,"sdi",4651,"Mexico City",2007,22,"All Ages",3,"Both",0.698571758283232
+881,"sdi",4652,"Durango",2007,22,"All Ages",3,"Both",0.59257529467745
+881,"sdi",4653,"Guanajuato",2007,22,"All Ages",3,"Both",0.589444438629803
+881,"sdi",4654,"Guerrero",2007,22,"All Ages",3,"Both",0.521390562728661
+881,"sdi",4655,"Hidalgo",2007,22,"All Ages",3,"Both",0.548910465906637
+881,"sdi",4656,"Jalisco",2007,22,"All Ages",3,"Both",0.6239901904437
+881,"sdi",4657,"México",2007,22,"All Ages",3,"Both",0.61350136957798
+881,"sdi",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",0.559894886733861
+881,"sdi",4659,"Morelos",2007,22,"All Ages",3,"Both",0.614658930731247
+881,"sdi",4660,"Nayarit",2007,22,"All Ages",3,"Both",0.591093127730641
+881,"sdi",4661,"Nuevo León",2007,22,"All Ages",3,"Both",0.667709359995971
+881,"sdi",4662,"Oaxaca",2007,22,"All Ages",3,"Both",0.51890530598801
+881,"sdi",4663,"Puebla",2007,22,"All Ages",3,"Both",0.547405406425101
+881,"sdi",4664,"Querétaro",2007,22,"All Ages",3,"Both",0.618894205342295
+881,"sdi",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",0.61269097867398
+881,"sdi",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",0.584869241267797
+881,"sdi",4667,"Sinaloa",2007,22,"All Ages",3,"Both",0.619442346047672
+881,"sdi",4668,"Sonora",2007,22,"All Ages",3,"Both",0.627263303661136
+881,"sdi",4669,"Tabasco",2007,22,"All Ages",3,"Both",0.580309486528635
+881,"sdi",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",0.62441141850722
+881,"sdi",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",0.582468811531695
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",0.555222438632122
+881,"sdi",4673,"Yucatán",2007,22,"All Ages",3,"Both",0.600313498292856
+881,"sdi",4674,"Zacatecas",2007,22,"All Ages",3,"Both",0.574741310339835
+881,"sdi",130,"Mexico",2008,22,"All Ages",3,"Both",0.605124227802736
+881,"sdi",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",0.643816784246138
+881,"sdi",4644,"Baja California",2008,22,"All Ages",3,"Both",0.637279849186248
+881,"sdi",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",0.636196937048643
+881,"sdi",4646,"Campeche",2008,22,"All Ages",3,"Both",0.597712080718684
+881,"sdi",4647,"Coahuila",2008,22,"All Ages",3,"Both",0.630408920405141
+881,"sdi",4648,"Colima",2008,22,"All Ages",3,"Both",0.630185210514473
+881,"sdi",4649,"Chiapas",2008,22,"All Ages",3,"Both",0.502028887185597
+881,"sdi",4650,"Chihuahua",2008,22,"All Ages",3,"Both",0.612676076755938
+881,"sdi",4651,"Mexico City",2008,22,"All Ages",3,"Both",0.700683622527774
+881,"sdi",4652,"Durango",2008,22,"All Ages",3,"Both",0.597396022195288
+881,"sdi",4653,"Guanajuato",2008,22,"All Ages",3,"Both",0.593258108902699
+881,"sdi",4654,"Guerrero",2008,22,"All Ages",3,"Both",0.52730676537496
+881,"sdi",4655,"Hidalgo",2008,22,"All Ages",3,"Both",0.55561351521357
+881,"sdi",4656,"Jalisco",2008,22,"All Ages",3,"Both",0.627772177333917
+881,"sdi",4657,"México",2008,22,"All Ages",3,"Both",0.613483742865645
+881,"sdi",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",0.564016233907362
+881,"sdi",4659,"Morelos",2008,22,"All Ages",3,"Both",0.618058049361749
+881,"sdi",4660,"Nayarit",2008,22,"All Ages",3,"Both",0.594973803245041
+881,"sdi",4661,"Nuevo León",2008,22,"All Ages",3,"Both",0.67046509845631
+881,"sdi",4662,"Oaxaca",2008,22,"All Ages",3,"Both",0.525156160537707
+881,"sdi",4663,"Puebla",2008,22,"All Ages",3,"Both",0.552457941265205
+881,"sdi",4664,"Querétaro",2008,22,"All Ages",3,"Both",0.621658905369883
+881,"sdi",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",0.615894665706551
+881,"sdi",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",0.590038822609336
+881,"sdi",4667,"Sinaloa",2008,22,"All Ages",3,"Both",0.624500943945979
+881,"sdi",4668,"Sonora",2008,22,"All Ages",3,"Both",0.631768553333121
+881,"sdi",4669,"Tabasco",2008,22,"All Ages",3,"Both",0.585114051631106
+881,"sdi",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",0.628478789490233
+881,"sdi",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",0.587395292726957
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",0.5607651248295
+881,"sdi",4673,"Yucatán",2008,22,"All Ages",3,"Both",0.603469511670955
+881,"sdi",4674,"Zacatecas",2008,22,"All Ages",3,"Both",0.578696457290048
+881,"sdi",130,"Mexico",2009,22,"All Ages",3,"Both",0.607516238675129
+881,"sdi",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",0.645129789328244
+881,"sdi",4644,"Baja California",2009,22,"All Ages",3,"Both",0.640126319756257
+881,"sdi",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",0.639896393367765
+881,"sdi",4646,"Campeche",2009,22,"All Ages",3,"Both",0.599325015504313
+881,"sdi",4647,"Coahuila",2009,22,"All Ages",3,"Both",0.631851840778134
+881,"sdi",4648,"Colima",2009,22,"All Ages",3,"Both",0.633288972904531
+881,"sdi",4649,"Chiapas",2009,22,"All Ages",3,"Both",0.505308170158129
+881,"sdi",4650,"Chihuahua",2009,22,"All Ages",3,"Both",0.616480975210844
+881,"sdi",4651,"Mexico City",2009,22,"All Ages",3,"Both",0.702074298805814
+881,"sdi",4652,"Durango",2009,22,"All Ages",3,"Both",0.600272028821726
+881,"sdi",4653,"Guanajuato",2009,22,"All Ages",3,"Both",0.596353163452006
+881,"sdi",4654,"Guerrero",2009,22,"All Ages",3,"Both",0.531234718381416
+881,"sdi",4655,"Hidalgo",2009,22,"All Ages",3,"Both",0.560908667012928
+881,"sdi",4656,"Jalisco",2009,22,"All Ages",3,"Both",0.630136639939612
+881,"sdi",4657,"México",2009,22,"All Ages",3,"Both",0.612911016250697
+881,"sdi",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",0.566526364510772
+881,"sdi",4659,"Morelos",2009,22,"All Ages",3,"Both",0.620012248614409
+881,"sdi",4660,"Nayarit",2009,22,"All Ages",3,"Both",0.597271548735274
+881,"sdi",4661,"Nuevo León",2009,22,"All Ages",3,"Both",0.671780434828973
+881,"sdi",4662,"Oaxaca",2009,22,"All Ages",3,"Both",0.529864446336222
+881,"sdi",4663,"Puebla",2009,22,"All Ages",3,"Both",0.557378757049558
+881,"sdi",4664,"Querétaro",2009,22,"All Ages",3,"Both",0.62323685959872
+881,"sdi",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",0.617943109093023
+881,"sdi",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",0.593832202624925
+881,"sdi",4667,"Sinaloa",2009,22,"All Ages",3,"Both",0.627945851917247
+881,"sdi",4668,"Sonora",2009,22,"All Ages",3,"Both",0.634644326641854
+881,"sdi",4669,"Tabasco",2009,22,"All Ages",3,"Both",0.588395865227076
+881,"sdi",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",0.631098437888137
+881,"sdi",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",0.590138814044443
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",0.564676489637783
+881,"sdi",4673,"Yucatán",2009,22,"All Ages",3,"Both",0.60611458854377
+881,"sdi",4674,"Zacatecas",2009,22,"All Ages",3,"Both",0.58119710578841
+881,"sdi",130,"Mexico",2010,22,"All Ages",3,"Both",0.609890903870411
+881,"sdi",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",0.646109786224645
+881,"sdi",4644,"Baja California",2010,22,"All Ages",3,"Both",0.642526887454032
+881,"sdi",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",0.643416398598076
+881,"sdi",4646,"Campeche",2010,22,"All Ages",3,"Both",0.600706716870072
+881,"sdi",4647,"Coahuila",2010,22,"All Ages",3,"Both",0.632734031718246
+881,"sdi",4648,"Colima",2010,22,"All Ages",3,"Both",0.636007360017712
+881,"sdi",4649,"Chiapas",2010,22,"All Ages",3,"Both",0.507816957003004
+881,"sdi",4650,"Chihuahua",2010,22,"All Ages",3,"Both",0.619472258269588
+881,"sdi",4651,"Mexico City",2010,22,"All Ages",3,"Both",0.703452960765017
+881,"sdi",4652,"Durango",2010,22,"All Ages",3,"Both",0.602333071445743
+881,"sdi",4653,"Guanajuato",2010,22,"All Ages",3,"Both",0.599731502658077
+881,"sdi",4654,"Guerrero",2010,22,"All Ages",3,"Both",0.534418055566707
+881,"sdi",4655,"Hidalgo",2010,22,"All Ages",3,"Both",0.566026675315857
+881,"sdi",4656,"Jalisco",2010,22,"All Ages",3,"Both",0.632225384216057
+881,"sdi",4657,"México",2010,22,"All Ages",3,"Both",0.61435072047983
+881,"sdi",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",0.568640898269239
+881,"sdi",4659,"Morelos",2010,22,"All Ages",3,"Both",0.621687955565693
+881,"sdi",4660,"Nayarit",2010,22,"All Ages",3,"Both",0.599323102708242
+881,"sdi",4661,"Nuevo León",2010,22,"All Ages",3,"Both",0.672803237443993
+881,"sdi",4662,"Oaxaca",2010,22,"All Ages",3,"Both",0.53399065394344
+881,"sdi",4663,"Puebla",2010,22,"All Ages",3,"Both",0.561830333909659
+881,"sdi",4664,"Querétaro",2010,22,"All Ages",3,"Both",0.625272737251653
+881,"sdi",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",0.619718985901976
+881,"sdi",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",0.597526752705123
+881,"sdi",4667,"Sinaloa",2010,22,"All Ages",3,"Both",0.630909708422302
+881,"sdi",4668,"Sonora",2010,22,"All Ages",3,"Both",0.637036823673616
+881,"sdi",4669,"Tabasco",2010,22,"All Ages",3,"Both",0.591156181260896
+881,"sdi",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",0.633263566815656
+881,"sdi",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",0.591985812863569
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",0.568361078780749
+881,"sdi",4673,"Yucatán",2010,22,"All Ages",3,"Both",0.608951449946984
+881,"sdi",4674,"Zacatecas",2010,22,"All Ages",3,"Both",0.583604805875306
+881,"sdi",130,"Mexico",2011,22,"All Ages",3,"Both",0.612548684253234
+881,"sdi",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",0.647446794586767
+881,"sdi",4644,"Baja California",2011,22,"All Ages",3,"Both",0.644967231660311
+881,"sdi",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",0.646958586167419
+881,"sdi",4646,"Campeche",2011,22,"All Ages",3,"Both",0.602502452959943
+881,"sdi",4647,"Coahuila",2011,22,"All Ages",3,"Both",0.63355497071039
+881,"sdi",4648,"Colima",2011,22,"All Ages",3,"Both",0.638850720388299
+881,"sdi",4649,"Chiapas",2011,22,"All Ages",3,"Both",0.510441258835625
+881,"sdi",4650,"Chihuahua",2011,22,"All Ages",3,"Both",0.622385853518006
+881,"sdi",4651,"Mexico City",2011,22,"All Ages",3,"Both",0.705071219537245
+881,"sdi",4652,"Durango",2011,22,"All Ages",3,"Both",0.604462777094108
+881,"sdi",4653,"Guanajuato",2011,22,"All Ages",3,"Both",0.603226225597149
+881,"sdi",4654,"Guerrero",2011,22,"All Ages",3,"Both",0.537845578406729
+881,"sdi",4655,"Hidalgo",2011,22,"All Ages",3,"Both",0.571139421926346
+881,"sdi",4656,"Jalisco",2011,22,"All Ages",3,"Both",0.634439790564019
+881,"sdi",4657,"México",2011,22,"All Ages",3,"Both",0.617325624162541
+881,"sdi",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",0.570869581340664
+881,"sdi",4659,"Morelos",2011,22,"All Ages",3,"Both",0.623551337926268
+881,"sdi",4660,"Nayarit",2011,22,"All Ages",3,"Both",0.601762082573164
+881,"sdi",4661,"Nuevo León",2011,22,"All Ages",3,"Both",0.673866782420599
+881,"sdi",4662,"Oaxaca",2011,22,"All Ages",3,"Both",0.538108511348077
+881,"sdi",4663,"Puebla",2011,22,"All Ages",3,"Both",0.566005557018269
+881,"sdi",4664,"Querétaro",2011,22,"All Ages",3,"Both",0.627766488858176
+881,"sdi",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",0.621521969238022
+881,"sdi",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",0.601346011282556
+881,"sdi",4667,"Sinaloa",2011,22,"All Ages",3,"Both",0.633923190012543
+881,"sdi",4668,"Sonora",2011,22,"All Ages",3,"Both",0.63953494258547
+881,"sdi",4669,"Tabasco",2011,22,"All Ages",3,"Both",0.593789805388714
+881,"sdi",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",0.635446371918512
+881,"sdi",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",0.593786844749467
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",0.572205492811086
+881,"sdi",4673,"Yucatán",2011,22,"All Ages",3,"Both",0.611987058566123
+881,"sdi",4674,"Zacatecas",2011,22,"All Ages",3,"Both",0.586390716369054
+881,"sdi",130,"Mexico",2012,22,"All Ages",3,"Both",0.61548379854739
+881,"sdi",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",0.649354353715841
+881,"sdi",4644,"Baja California",2012,22,"All Ages",3,"Both",0.647517072967557
+881,"sdi",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",0.650368496633079
+881,"sdi",4646,"Campeche",2012,22,"All Ages",3,"Both",0.604792434154748
+881,"sdi",4647,"Coahuila",2012,22,"All Ages",3,"Both",0.634608238594552
+881,"sdi",4648,"Colima",2012,22,"All Ages",3,"Both",0.641926517006541
+881,"sdi",4649,"Chiapas",2012,22,"All Ages",3,"Both",0.513459401357259
+881,"sdi",4650,"Chihuahua",2012,22,"All Ages",3,"Both",0.62549922577209
+881,"sdi",4651,"Mexico City",2012,22,"All Ages",3,"Both",0.707071844304047
+881,"sdi",4652,"Durango",2012,22,"All Ages",3,"Both",0.607084803816356
+881,"sdi",4653,"Guanajuato",2012,22,"All Ages",3,"Both",0.606584416547733
+881,"sdi",4654,"Guerrero",2012,22,"All Ages",3,"Both",0.541821322124836
+881,"sdi",4655,"Hidalgo",2012,22,"All Ages",3,"Both",0.576005412074047
+881,"sdi",4656,"Jalisco",2012,22,"All Ages",3,"Both",0.636918227526431
+881,"sdi",4657,"México",2012,22,"All Ages",3,"Both",0.621067662313321
+881,"sdi",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",0.573400708421426
+881,"sdi",4659,"Morelos",2012,22,"All Ages",3,"Both",0.625720755762232
+881,"sdi",4660,"Nayarit",2012,22,"All Ages",3,"Both",0.604752815141576
+881,"sdi",4661,"Nuevo León",2012,22,"All Ages",3,"Both",0.675111421568022
+881,"sdi",4662,"Oaxaca",2012,22,"All Ages",3,"Both",0.542406503830917
+881,"sdi",4663,"Puebla",2012,22,"All Ages",3,"Both",0.569964570299687
+881,"sdi",4664,"Querétaro",2012,22,"All Ages",3,"Both",0.630443552778753
+881,"sdi",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",0.623337234783502
+881,"sdi",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",0.605245606040362
+881,"sdi",4667,"Sinaloa",2012,22,"All Ages",3,"Both",0.637118645787496
+881,"sdi",4668,"Sonora",2012,22,"All Ages",3,"Both",0.642282021675718
+881,"sdi",4669,"Tabasco",2012,22,"All Ages",3,"Both",0.596518728916719
+881,"sdi",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",0.637720854966148
+881,"sdi",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",0.595904032699078
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",0.576191629248793
+881,"sdi",4673,"Yucatán",2012,22,"All Ages",3,"Both",0.615204787537017
+881,"sdi",4674,"Zacatecas",2012,22,"All Ages",3,"Both",0.589639547924405
+881,"sdi",130,"Mexico",2013,22,"All Ages",3,"Both",0.618324627344034
+881,"sdi",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",0.651375313021677
+881,"sdi",4644,"Baja California",2013,22,"All Ages",3,"Both",0.649730559793258
+881,"sdi",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",0.653268256301467
+881,"sdi",4646,"Campeche",2013,22,"All Ages",3,"Both",0.607203640584297
+881,"sdi",4647,"Coahuila",2013,22,"All Ages",3,"Both",0.635894373741531
+881,"sdi",4648,"Colima",2013,22,"All Ages",3,"Both",0.644821003170904
+881,"sdi",4649,"Chiapas",2013,22,"All Ages",3,"Both",0.5166281358898
+881,"sdi",4650,"Chihuahua",2013,22,"All Ages",3,"Both",0.628406091714452
+881,"sdi",4651,"Mexico City",2013,22,"All Ages",3,"Both",0.709119132635561
+881,"sdi",4652,"Durango",2013,22,"All Ages",3,"Both",0.60983010416192
+881,"sdi",4653,"Guanajuato",2013,22,"All Ages",3,"Both",0.609721346396855
+881,"sdi",4654,"Guerrero",2013,22,"All Ages",3,"Both",0.54580967021169
+881,"sdi",4655,"Hidalgo",2013,22,"All Ages",3,"Both",0.580179580981803
+881,"sdi",4656,"Jalisco",2013,22,"All Ages",3,"Both",0.639346903596174
+881,"sdi",4657,"México",2013,22,"All Ages",3,"Both",0.624957296897394
+881,"sdi",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",0.575893567218935
+881,"sdi",4659,"Morelos",2013,22,"All Ages",3,"Both",0.627815417732043
+881,"sdi",4660,"Nayarit",2013,22,"All Ages",3,"Both",0.607817180208066
+881,"sdi",4661,"Nuevo León",2013,22,"All Ages",3,"Both",0.676233752717237
+881,"sdi",4662,"Oaxaca",2013,22,"All Ages",3,"Both",0.546460672851692
+881,"sdi",4663,"Puebla",2013,22,"All Ages",3,"Both",0.573354165044382
+881,"sdi",4664,"Querétaro",2013,22,"All Ages",3,"Both",0.632923607664072
+881,"sdi",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",0.624797671715799
+881,"sdi",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",0.608802864310354
+881,"sdi",4667,"Sinaloa",2013,22,"All Ages",3,"Both",0.640053624744607
+881,"sdi",4668,"Sonora",2013,22,"All Ages",3,"Both",0.644796801256573
+881,"sdi",4669,"Tabasco",2013,22,"All Ages",3,"Both",0.599152219400093
+881,"sdi",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",0.639715022503272
+881,"sdi",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",0.597905328387314
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",0.579949391090627
+881,"sdi",4673,"Yucatán",2013,22,"All Ages",3,"Both",0.618351697676126
+881,"sdi",4674,"Zacatecas",2013,22,"All Ages",3,"Both",0.593020937897909
+881,"sdi",130,"Mexico",2014,22,"All Ages",3,"Both",0.620891739433208
+881,"sdi",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",0.653258160280959
+881,"sdi",4644,"Baja California",2014,22,"All Ages",3,"Both",0.651514250634318
+881,"sdi",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",0.655615402477187
+881,"sdi",4646,"Campeche",2014,22,"All Ages",3,"Both",0.609683250810516
+881,"sdi",4647,"Coahuila",2014,22,"All Ages",3,"Both",0.637455641652328
+881,"sdi",4648,"Colima",2014,22,"All Ages",3,"Both",0.647449553886748
+881,"sdi",4649,"Chiapas",2014,22,"All Ages",3,"Both",0.519777452944999
+881,"sdi",4650,"Chihuahua",2014,22,"All Ages",3,"Both",0.630956016464866
+881,"sdi",4651,"Mexico City",2014,22,"All Ages",3,"Both",0.711074655070603
+881,"sdi",4652,"Durango",2014,22,"All Ages",3,"Both",0.612523400264462
+881,"sdi",4653,"Guanajuato",2014,22,"All Ages",3,"Both",0.612544951917895
+881,"sdi",4654,"Guerrero",2014,22,"All Ages",3,"Both",0.549437618574073
+881,"sdi",4655,"Hidalgo",2014,22,"All Ages",3,"Both",0.583539803714615
+881,"sdi",4656,"Jalisco",2014,22,"All Ages",3,"Both",0.641682761833579
+881,"sdi",4657,"México",2014,22,"All Ages",3,"Both",0.628304711736853
+881,"sdi",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",0.578352356628052
+881,"sdi",4659,"Morelos",2014,22,"All Ages",3,"Both",0.629824266618471
+881,"sdi",4660,"Nayarit",2014,22,"All Ages",3,"Both",0.610744826161586
+881,"sdi",4661,"Nuevo León",2014,22,"All Ages",3,"Both",0.677290976273211
+881,"sdi",4662,"Oaxaca",2014,22,"All Ages",3,"Both",0.550144708834051
+881,"sdi",4663,"Puebla",2014,22,"All Ages",3,"Both",0.576188369466229
+881,"sdi",4664,"Querétaro",2014,22,"All Ages",3,"Both",0.634874361038473
+881,"sdi",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",0.62598996493715
+881,"sdi",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",0.611919069786191
+881,"sdi",4667,"Sinaloa",2014,22,"All Ages",3,"Both",0.642640994026518
+881,"sdi",4668,"Sonora",2014,22,"All Ages",3,"Both",0.646931648157312
+881,"sdi",4669,"Tabasco",2014,22,"All Ages",3,"Both",0.601721489188437
+881,"sdi",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",0.641492093088389
+881,"sdi",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",0.599557912733443
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",0.583324926260163
+881,"sdi",4673,"Yucatán",2014,22,"All Ages",3,"Both",0.621265868508405
+881,"sdi",4674,"Zacatecas",2014,22,"All Ages",3,"Both",0.596420605939693
+881,"sdi",130,"Mexico",2015,22,"All Ages",3,"Both",0.623271065628368
+881,"sdi",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",0.655141230613205
+881,"sdi",4644,"Baja California",2015,22,"All Ages",3,"Both",0.653036235556395
+881,"sdi",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",0.65756948462398
+881,"sdi",4646,"Campeche",2015,22,"All Ages",3,"Both",0.612259097753604
+881,"sdi",4647,"Coahuila",2015,22,"All Ages",3,"Both",0.639265910478621
+881,"sdi",4648,"Colima",2015,22,"All Ages",3,"Both",0.649895924875087
+881,"sdi",4649,"Chiapas",2015,22,"All Ages",3,"Both",0.522805222387463
+881,"sdi",4650,"Chihuahua",2015,22,"All Ages",3,"Both",0.633331115710155
+881,"sdi",4651,"Mexico City",2015,22,"All Ages",3,"Both",0.712876327455793
+881,"sdi",4652,"Durango",2015,22,"All Ages",3,"Both",0.615239298936802
+881,"sdi",4653,"Guanajuato",2015,22,"All Ages",3,"Both",0.615199796841695
+881,"sdi",4654,"Guerrero",2015,22,"All Ages",3,"Both",0.552676675472457
+881,"sdi",4655,"Hidalgo",2015,22,"All Ages",3,"Both",0.586309415121448
+881,"sdi",4656,"Jalisco",2015,22,"All Ages",3,"Both",0.644075763933259
+881,"sdi",4657,"México",2015,22,"All Ages",3,"Both",0.63101531048345
+881,"sdi",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",0.580956867681829
+881,"sdi",4659,"Morelos",2015,22,"All Ages",3,"Both",0.631876020976065
+881,"sdi",4660,"Nayarit",2015,22,"All Ages",3,"Both",0.613640274508716
+881,"sdi",4661,"Nuevo León",2015,22,"All Ages",3,"Both",0.678493022189702
+881,"sdi",4662,"Oaxaca",2015,22,"All Ages",3,"Both",0.5535357658511
+881,"sdi",4663,"Puebla",2015,22,"All Ages",3,"Both",0.578765665489711
+881,"sdi",4664,"Querétaro",2015,22,"All Ages",3,"Both",0.636443697420192
+881,"sdi",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",0.627121037515039
+881,"sdi",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",0.614838371955975
+881,"sdi",4667,"Sinaloa",2015,22,"All Ages",3,"Both",0.645050266037143
+881,"sdi",4668,"Sonora",2015,22,"All Ages",3,"Both",0.648902116975352
+881,"sdi",4669,"Tabasco",2015,22,"All Ages",3,"Both",0.604312199788641
+881,"sdi",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",0.643215066031072
+881,"sdi",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",0.601047646793356
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",0.586434373358087
+881,"sdi",4673,"Yucatán",2015,22,"All Ages",3,"Both",0.624026331880711
+881,"sdi",4674,"Zacatecas",2015,22,"All Ages",3,"Both",0.599882714932667
+881,"sdi",130,"Mexico",2016,22,"All Ages",3,"Both",0.625594036397985
+881,"sdi",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",0.657135982408517
+881,"sdi",4644,"Baja California",2016,22,"All Ages",3,"Both",0.654438244885698
+881,"sdi",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",0.659343819531425
+881,"sdi",4646,"Campeche",2016,22,"All Ages",3,"Both",0.614893540183009
+881,"sdi",4647,"Coahuila",2016,22,"All Ages",3,"Both",0.641226990623564
+881,"sdi",4648,"Colima",2016,22,"All Ages",3,"Both",0.652235444714244
+881,"sdi",4649,"Chiapas",2016,22,"All Ages",3,"Both",0.525814579617388
+881,"sdi",4650,"Chihuahua",2016,22,"All Ages",3,"Both",0.635653581223507
+881,"sdi",4651,"Mexico City",2016,22,"All Ages",3,"Both",0.714597564729582
+881,"sdi",4652,"Durango",2016,22,"All Ages",3,"Both",0.61804042985207
+881,"sdi",4653,"Guanajuato",2016,22,"All Ages",3,"Both",0.617822290123675
+881,"sdi",4654,"Guerrero",2016,22,"All Ages",3,"Both",0.555766602514805
+881,"sdi",4655,"Hidalgo",2016,22,"All Ages",3,"Both",0.588815082730429
+881,"sdi",4656,"Jalisco",2016,22,"All Ages",3,"Both",0.646527362012698
+881,"sdi",4657,"México",2016,22,"All Ages",3,"Both",0.633449123790569
+881,"sdi",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",0.583703961687401
+881,"sdi",4659,"Morelos",2016,22,"All Ages",3,"Both",0.633994854181556
+881,"sdi",4660,"Nayarit",2016,22,"All Ages",3,"Both",0.616576169888054
+881,"sdi",4661,"Nuevo León",2016,22,"All Ages",3,"Both",0.679834376518988
+881,"sdi",4662,"Oaxaca",2016,22,"All Ages",3,"Both",0.55675985364275
+881,"sdi",4663,"Puebla",2016,22,"All Ages",3,"Both",0.581267035389725
+881,"sdi",4664,"Querétaro",2016,22,"All Ages",3,"Both",0.637925332657286
+881,"sdi",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",0.628251719921795
+881,"sdi",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",0.617707719220771
+881,"sdi",4667,"Sinaloa",2016,22,"All Ages",3,"Both",0.647358275955753
+881,"sdi",4668,"Sonora",2016,22,"All Ages",3,"Both",0.650853262150311
+881,"sdi",4669,"Tabasco",2016,22,"All Ages",3,"Both",0.606940896433464
+881,"sdi",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",0.644987065717331
+881,"sdi",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",0.602561161917169
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",0.58944888711942
+881,"sdi",4673,"Yucatán",2016,22,"All Ages",3,"Both",0.62669500921251
+881,"sdi",4674,"Zacatecas",2016,22,"All Ages",3,"Both",0.603392208211202
+881,"sdi",130,"Mexico",2017,22,"All Ages",3,"Both",0.628000438964158
+881,"sdi",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",0.659351822025697
+881,"sdi",4644,"Baja California",2017,22,"All Ages",3,"Both",0.655982461920589
+881,"sdi",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",0.661256201108392
+881,"sdi",4646,"Campeche",2017,22,"All Ages",3,"Both",0.617709215880049
+881,"sdi",4647,"Coahuila",2017,22,"All Ages",3,"Both",0.643463256929687
+881,"sdi",4648,"Colima",2017,22,"All Ages",3,"Both",0.654622673268609
+881,"sdi",4649,"Chiapas",2017,22,"All Ages",3,"Both",0.529026023340504
+881,"sdi",4650,"Chihuahua",2017,22,"All Ages",3,"Both",0.638059984797762
+881,"sdi",4651,"Mexico City",2017,22,"All Ages",3,"Both",0.716385306076806
+881,"sdi",4652,"Durango",2017,22,"All Ages",3,"Both",0.620974989355887
+881,"sdi",4653,"Guanajuato",2017,22,"All Ages",3,"Both",0.620530945530014
+881,"sdi",4654,"Guerrero",2017,22,"All Ages",3,"Both",0.558838137473794
+881,"sdi",4655,"Hidalgo",2017,22,"All Ages",3,"Both",0.591253381678235
+881,"sdi",4656,"Jalisco",2017,22,"All Ages",3,"Both",0.649064857600447
+881,"sdi",4657,"México",2017,22,"All Ages",3,"Both",0.635917187628165
+881,"sdi",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",0.586542136448247
+881,"sdi",4659,"Morelos",2017,22,"All Ages",3,"Both",0.636273734996283
+881,"sdi",4660,"Nayarit",2017,22,"All Ages",3,"Both",0.619610966124219
+881,"sdi",4661,"Nuevo León",2017,22,"All Ages",3,"Both",0.681394998855139
+881,"sdi",4662,"Oaxaca",2017,22,"All Ages",3,"Both",0.559936344216589
+881,"sdi",4663,"Puebla",2017,22,"All Ages",3,"Both",0.58383236546332
+881,"sdi",4664,"Querétaro",2017,22,"All Ages",3,"Both",0.639535559637973
+881,"sdi",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",0.629665194822024
+881,"sdi",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",0.620560630029167
+881,"sdi",4667,"Sinaloa",2017,22,"All Ages",3,"Both",0.64967369685647
+881,"sdi",4668,"Sonora",2017,22,"All Ages",3,"Both",0.652915513794157
+881,"sdi",4669,"Tabasco",2017,22,"All Ages",3,"Both",0.609689812411375
+881,"sdi",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",0.646982762610632
+881,"sdi",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",0.604295615867617
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",0.592460866633034
+881,"sdi",4673,"Yucatán",2017,22,"All Ages",3,"Both",0.629367019567948
+881,"sdi",4674,"Zacatecas",2017,22,"All Ages",3,"Both",0.606942017191336
+881,"sdi",130,"Mexico",2018,22,"All Ages",3,"Both",0.630897477751641
+881,"sdi",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",0.662077121941852
+881,"sdi",4644,"Baja California",2018,22,"All Ages",3,"Both",0.657957495608143
+881,"sdi",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",0.663548979265316
+881,"sdi",4646,"Campeche",2018,22,"All Ages",3,"Both",0.621091576723525
+881,"sdi",4647,"Coahuila",2018,22,"All Ages",3,"Both",0.646169794032961
+881,"sdi",4648,"Colima",2018,22,"All Ages",3,"Both",0.657410475129268
+881,"sdi",4649,"Chiapas",2018,22,"All Ages",3,"Both",0.532718742007977
+881,"sdi",4650,"Chihuahua",2018,22,"All Ages",3,"Both",0.640780010898647
+881,"sdi",4651,"Mexico City",2018,22,"All Ages",3,"Both",0.718655894937282
+881,"sdi",4652,"Durango",2018,22,"All Ages",3,"Both",0.624308247319495
+881,"sdi",4653,"Guanajuato",2018,22,"All Ages",3,"Both",0.623729047700675
+881,"sdi",4654,"Guerrero",2018,22,"All Ages",3,"Both",0.562223085655512
+881,"sdi",4655,"Hidalgo",2018,22,"All Ages",3,"Both",0.594198262929889
+881,"sdi",4656,"Jalisco",2018,22,"All Ages",3,"Both",0.651991838438007
+881,"sdi",4657,"México",2018,22,"All Ages",3,"Both",0.638816403553889
+881,"sdi",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",0.589954259475312
+881,"sdi",4659,"Morelos",2018,22,"All Ages",3,"Both",0.638993821634936
+881,"sdi",4660,"Nayarit",2018,22,"All Ages",3,"Both",0.62304385120757
+881,"sdi",4661,"Nuevo León",2018,22,"All Ages",3,"Both",0.683420906210787
+881,"sdi",4662,"Oaxaca",2018,22,"All Ages",3,"Both",0.563576974570741
+881,"sdi",4663,"Puebla",2018,22,"All Ages",3,"Both",0.58678631241427
+881,"sdi",4664,"Querétaro",2018,22,"All Ages",3,"Both",0.641712049000839
+881,"sdi",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",0.631681741371572
+881,"sdi",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",0.623796763233828
+881,"sdi",4667,"Sinaloa",2018,22,"All Ages",3,"Both",0.652542427020394
+881,"sdi",4668,"Sonora",2018,22,"All Ages",3,"Both",0.655390684914843
+881,"sdi",4669,"Tabasco",2018,22,"All Ages",3,"Both",0.613047827171333
+881,"sdi",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",0.649500183555024
+881,"sdi",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",0.606609374968477
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",0.595897961346746
+881,"sdi",4673,"Yucatán",2018,22,"All Ages",3,"Both",0.632521736223835
+881,"sdi",4674,"Zacatecas",2018,22,"All Ages",3,"Both",0.610876815797784
+881,"sdi",130,"Mexico",2019,22,"All Ages",3,"Both",0.633584871283133
+881,"sdi",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",0.664669051504478
+881,"sdi",4644,"Baja California",2019,22,"All Ages",3,"Both",0.659865471126547
+881,"sdi",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",0.665755196757847
+881,"sdi",4646,"Campeche",2019,22,"All Ages",3,"Both",0.624180301549996
+881,"sdi",4647,"Coahuila",2019,22,"All Ages",3,"Both",0.648743059764577
+881,"sdi",4648,"Colima",2019,22,"All Ages",3,"Both",0.659994406621335
+881,"sdi",4649,"Chiapas",2019,22,"All Ages",3,"Both",0.535958294372941
+881,"sdi",4650,"Chihuahua",2019,22,"All Ages",3,"Both",0.643254936603246
+881,"sdi",4651,"Mexico City",2019,22,"All Ages",3,"Both",0.720898900055672
+881,"sdi",4652,"Durango",2019,22,"All Ages",3,"Both",0.627314784765666
+881,"sdi",4653,"Guanajuato",2019,22,"All Ages",3,"Both",0.626717055616098
+881,"sdi",4654,"Guerrero",2019,22,"All Ages",3,"Both",0.565234784634126
+881,"sdi",4655,"Hidalgo",2019,22,"All Ages",3,"Both",0.596934490637785
+881,"sdi",4656,"Jalisco",2019,22,"All Ages",3,"Both",0.654711910096936
+881,"sdi",4657,"México",2019,22,"All Ages",3,"Both",0.641466009917502
+881,"sdi",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",0.593072368544132
+881,"sdi",4659,"Morelos",2019,22,"All Ages",3,"Both",0.641588088076689
+881,"sdi",4660,"Nayarit",2019,22,"All Ages",3,"Both",0.626196283907957
+881,"sdi",4661,"Nuevo León",2019,22,"All Ages",3,"Both",0.685426584979066
+881,"sdi",4662,"Oaxaca",2019,22,"All Ages",3,"Both",0.566872303524636
+881,"sdi",4663,"Puebla",2019,22,"All Ages",3,"Both",0.589553115116603
+881,"sdi",4664,"Querétaro",2019,22,"All Ages",3,"Both",0.643904055711715
+881,"sdi",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",0.633681698762721
+881,"sdi",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",0.626773477357638
+881,"sdi",4667,"Sinaloa",2019,22,"All Ages",3,"Both",0.655253669014265
+881,"sdi",4668,"Sonora",2019,22,"All Ages",3,"Both",0.657755674048587
+881,"sdi",4669,"Tabasco",2019,22,"All Ages",3,"Both",0.616142906078317
+881,"sdi",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",0.651932218457494
+881,"sdi",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",0.608946972950085
+881,"sdi",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",0.599022489038148
+881,"sdi",4673,"Yucatán",2019,22,"All Ages",3,"Both",0.635521994388714
+881,"sdi",4674,"Zacatecas",2019,22,"All Ages",3,"Both",0.614397937795382

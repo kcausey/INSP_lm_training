@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+57,"LDI_pc",130,"Mexico",1990,22,"All Ages",3,"Both",11529.766
+57,"LDI_pc",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",18025.107
+57,"LDI_pc",4644,"Baja California",1990,22,"All Ages",3,"Both",20488.422
+57,"LDI_pc",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",20068.777
+57,"LDI_pc",4646,"Campeche",1990,22,"All Ages",3,"Both",11939.938
+57,"LDI_pc",4647,"Coahuila",1990,22,"All Ages",3,"Both",14121.855
+57,"LDI_pc",4648,"Colima",1990,22,"All Ages",3,"Both",14131.867
+57,"LDI_pc",4649,"Chiapas",1990,22,"All Ages",3,"Both",8336.499
+57,"LDI_pc",4650,"Chihuahua",1990,22,"All Ages",3,"Both",15363.078
+57,"LDI_pc",4651,"Mexico City",1990,22,"All Ages",3,"Both",12744.903
+57,"LDI_pc",4652,"Durango",1990,22,"All Ages",3,"Both",11578.299
+57,"LDI_pc",4653,"Guanajuato",1990,22,"All Ages",3,"Both",12271.08
+57,"LDI_pc",4654,"Guerrero",1990,22,"All Ages",3,"Both",7039.3281
+57,"LDI_pc",4655,"Hidalgo",1990,22,"All Ages",3,"Both",7793.2583
+57,"LDI_pc",4656,"Jalisco",1990,22,"All Ages",3,"Both",13272.153
+57,"LDI_pc",4657,"México",1990,22,"All Ages",3,"Both",13249.98
+57,"LDI_pc",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",8136.9038
+57,"LDI_pc",4659,"Morelos",1990,22,"All Ages",3,"Both",10812.909
+57,"LDI_pc",4660,"Nayarit",1990,22,"All Ages",3,"Both",10148.623
+57,"LDI_pc",4661,"Nuevo León",1990,22,"All Ages",3,"Both",17316.373
+57,"LDI_pc",4662,"Oaxaca",1990,22,"All Ages",3,"Both",6540.4155
+57,"LDI_pc",4663,"Puebla",1990,22,"All Ages",3,"Both",9225.1855
+57,"LDI_pc",4664,"Querétaro",1990,22,"All Ages",3,"Both",14198.686
+57,"LDI_pc",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",17478.055
+57,"LDI_pc",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",9770.3828
+57,"LDI_pc",4667,"Sinaloa",1990,22,"All Ages",3,"Both",11896.053
+57,"LDI_pc",4668,"Sonora",1990,22,"All Ages",3,"Both",13762.298
+57,"LDI_pc",4669,"Tabasco",1990,22,"All Ages",3,"Both",8665.8477
+57,"LDI_pc",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",14147.766
+57,"LDI_pc",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",8941.4053
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",7529.7993
+57,"LDI_pc",4673,"Yucatán",1990,22,"All Ages",3,"Both",10247.67
+57,"LDI_pc",4674,"Zacatecas",1990,22,"All Ages",3,"Both",8379.165
+57,"LDI_pc",130,"Mexico",1991,22,"All Ages",3,"Both",11521.273
+57,"LDI_pc",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",17827.836
+57,"LDI_pc",4644,"Baja California",1991,22,"All Ages",3,"Both",19974.225
+57,"LDI_pc",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",19703.754
+57,"LDI_pc",4646,"Campeche",1991,22,"All Ages",3,"Both",11821.919
+57,"LDI_pc",4647,"Coahuila",1991,22,"All Ages",3,"Both",14090.458
+57,"LDI_pc",4648,"Colima",1991,22,"All Ages",3,"Both",14067.861
+57,"LDI_pc",4649,"Chiapas",1991,22,"All Ages",3,"Both",8231.4004
+57,"LDI_pc",4650,"Chihuahua",1991,22,"All Ages",3,"Both",15288.054
+57,"LDI_pc",4651,"Mexico City",1991,22,"All Ages",3,"Both",12995.617
+57,"LDI_pc",4652,"Durango",1991,22,"All Ages",3,"Both",11645.229
+57,"LDI_pc",4653,"Guanajuato",1991,22,"All Ages",3,"Both",12287.771
+57,"LDI_pc",4654,"Guerrero",1991,22,"All Ages",3,"Both",7077.2036
+57,"LDI_pc",4655,"Hidalgo",1991,22,"All Ages",3,"Both",7790.6152
+57,"LDI_pc",4656,"Jalisco",1991,22,"All Ages",3,"Both",13258.43
+57,"LDI_pc",4657,"México",1991,22,"All Ages",3,"Both",13096.604
+57,"LDI_pc",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",8170.0322
+57,"LDI_pc",4659,"Morelos",1991,22,"All Ages",3,"Both",10768.173
+57,"LDI_pc",4660,"Nayarit",1991,22,"All Ages",3,"Both",10201.684
+57,"LDI_pc",4661,"Nuevo León",1991,22,"All Ages",3,"Both",17262.375
+57,"LDI_pc",4662,"Oaxaca",1991,22,"All Ages",3,"Both",6552.874
+57,"LDI_pc",4663,"Puebla",1991,22,"All Ages",3,"Both",9205.0713
+57,"LDI_pc",4664,"Querétaro",1991,22,"All Ages",3,"Both",13968.874
+57,"LDI_pc",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",16813.074
+57,"LDI_pc",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",9783.1621
+57,"LDI_pc",4667,"Sinaloa",1991,22,"All Ages",3,"Both",11938.089
+57,"LDI_pc",4668,"Sonora",1991,22,"All Ages",3,"Both",13695.812
+57,"LDI_pc",4669,"Tabasco",1991,22,"All Ages",3,"Both",8585.1533
+57,"LDI_pc",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",14120.124
+57,"LDI_pc",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",8878.4121
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",7544.0098
+57,"LDI_pc",4673,"Yucatán",1991,22,"All Ages",3,"Both",10246.287
+57,"LDI_pc",4674,"Zacatecas",1991,22,"All Ages",3,"Both",8464.8018
+57,"LDI_pc",130,"Mexico",1992,22,"All Ages",3,"Both",11573.751
+57,"LDI_pc",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",17729.002
+57,"LDI_pc",4644,"Baja California",1992,22,"All Ages",3,"Both",19591.568
+57,"LDI_pc",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",19487.596
+57,"LDI_pc",4646,"Campeche",1992,22,"All Ages",3,"Both",11774.222
+57,"LDI_pc",4647,"Coahuila",1992,22,"All Ages",3,"Both",14144.809
+57,"LDI_pc",4648,"Colima",1992,22,"All Ages",3,"Both",14082.013
+57,"LDI_pc",4649,"Chiapas",1992,22,"All Ages",3,"Both",8172.0073
+57,"LDI_pc",4650,"Chihuahua",1992,22,"All Ages",3,"Both",15292.453
+57,"LDI_pc",4651,"Mexico City",1992,22,"All Ages",3,"Both",13312.366
+57,"LDI_pc",4652,"Durango",1992,22,"All Ages",3,"Both",11768.225
+57,"LDI_pc",4653,"Guanajuato",1992,22,"All Ages",3,"Both",12368.009
+57,"LDI_pc",4654,"Guerrero",1992,22,"All Ages",3,"Both",7146.6235
+57,"LDI_pc",4655,"Hidalgo",1992,22,"All Ages",3,"Both",7828.311
+57,"LDI_pc",4656,"Jalisco",1992,22,"All Ages",3,"Both",13318.091
+57,"LDI_pc",4657,"México",1992,22,"All Ages",3,"Both",13018.587
+57,"LDI_pc",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",8242.6885
+57,"LDI_pc",4659,"Morelos",1992,22,"All Ages",3,"Both",10787.243
+57,"LDI_pc",4660,"Nayarit",1992,22,"All Ages",3,"Both",10307.265
+57,"LDI_pc",4661,"Nuevo León",1992,22,"All Ages",3,"Both",17309.85
+57,"LDI_pc",4662,"Oaxaca",1992,22,"All Ages",3,"Both",6598.3945
+57,"LDI_pc",4663,"Puebla",1992,22,"All Ages",3,"Both",9231.0176
+57,"LDI_pc",4664,"Querétaro",1992,22,"All Ages",3,"Both",13830.228
+57,"LDI_pc",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",16307.368
+57,"LDI_pc",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",9845.4043
+57,"LDI_pc",4667,"Sinaloa",1992,22,"All Ages",3,"Both",12056.376
+57,"LDI_pc",4668,"Sonora",1992,22,"All Ages",3,"Both",13709.474
+57,"LDI_pc",4669,"Tabasco",1992,22,"All Ages",3,"Both",8553.5498
+57,"LDI_pc",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",14172.631
+57,"LDI_pc",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",8863.8652
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",7602.396
+57,"LDI_pc",4673,"Yucatán",1992,22,"All Ages",3,"Both",10301.344
+57,"LDI_pc",4674,"Zacatecas",1992,22,"All Ages",3,"Both",8595.3555
+57,"LDI_pc",130,"Mexico",1993,22,"All Ages",3,"Both",11656.126
+57,"LDI_pc",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",17682.311
+57,"LDI_pc",4644,"Baja California",1993,22,"All Ages",3,"Both",19285.266
+57,"LDI_pc",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",19357.652
+57,"LDI_pc",4646,"Campeche",1993,22,"All Ages",3,"Both",11764.297
+57,"LDI_pc",4647,"Coahuila",1993,22,"All Ages",3,"Both",14246.622
+57,"LDI_pc",4648,"Colima",1993,22,"All Ages",3,"Both",14138.439
+57,"LDI_pc",4649,"Chiapas",1993,22,"All Ages",3,"Both",8138.6631
+57,"LDI_pc",4650,"Chihuahua",1993,22,"All Ages",3,"Both",15337.018
+57,"LDI_pc",4651,"Mexico City",1993,22,"All Ages",3,"Both",13659.417
+57,"LDI_pc",4652,"Durango",1993,22,"All Ages",3,"Both",11917.33
+57,"LDI_pc",4653,"Guanajuato",1993,22,"All Ages",3,"Both",12479.389
+57,"LDI_pc",4654,"Guerrero",1993,22,"All Ages",3,"Both",7227.7236
+57,"LDI_pc",4655,"Hidalgo",1993,22,"All Ages",3,"Both",7886.3638
+57,"LDI_pc",4656,"Jalisco",1993,22,"All Ages",3,"Both",13416.302
+57,"LDI_pc",4657,"México",1993,22,"All Ages",3,"Both",12976.753
+57,"LDI_pc",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",8334.2412
+57,"LDI_pc",4659,"Morelos",1993,22,"All Ages",3,"Both",10841.803
+57,"LDI_pc",4660,"Nayarit",1993,22,"All Ages",3,"Both",10438.891
+57,"LDI_pc",4661,"Nuevo León",1993,22,"All Ages",3,"Both",17410.662
+57,"LDI_pc",4662,"Oaxaca",1993,22,"All Ages",3,"Both",6659.6997
+57,"LDI_pc",4663,"Puebla",1993,22,"All Ages",3,"Both",9279.0049
+57,"LDI_pc",4664,"Querétaro",1993,22,"All Ages",3,"Both",13742.51
+57,"LDI_pc",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",15903.266
+57,"LDI_pc",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",9932.4658
+57,"LDI_pc",4667,"Sinaloa",1993,22,"All Ages",3,"Both",12215.03
+57,"LDI_pc",4668,"Sonora",1993,22,"All Ages",3,"Both",13765.92
+57,"LDI_pc",4669,"Tabasco",1993,22,"All Ages",3,"Both",8548.3037
+57,"LDI_pc",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",14267.146
+57,"LDI_pc",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",8871.5156
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",7684.1372
+57,"LDI_pc",4673,"Yucatán",1993,22,"All Ages",3,"Both",10385.092
+57,"LDI_pc",4674,"Zacatecas",1993,22,"All Ages",3,"Both",8749.5693
+57,"LDI_pc",130,"Mexico",1994,22,"All Ages",3,"Both",11801.576
+57,"LDI_pc",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",17734.918
+57,"LDI_pc",4644,"Baja California",1994,22,"All Ages",3,"Both",19095.764
+57,"LDI_pc",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",19350.631
+57,"LDI_pc",4646,"Campeche",1994,22,"All Ages",3,"Both",11821.725
+57,"LDI_pc",4647,"Coahuila",1994,22,"All Ages",3,"Both",14434.421
+57,"LDI_pc",4648,"Colima",1994,22,"All Ages",3,"Both",14276.041
+57,"LDI_pc",4649,"Chiapas",1994,22,"All Ages",3,"Both",8154.9565
+57,"LDI_pc",4650,"Chihuahua",1994,22,"All Ages",3,"Both",15462.86
+57,"LDI_pc",4651,"Mexico City",1994,22,"All Ages",3,"Both",14080.88
+57,"LDI_pc",4652,"Durango",1994,22,"All Ages",3,"Both",12129.159
+57,"LDI_pc",4653,"Guanajuato",1994,22,"All Ages",3,"Both",12658.066
+57,"LDI_pc",4654,"Guerrero",1994,22,"All Ages",3,"Both",7341.5371
+57,"LDI_pc",4655,"Hidalgo",1994,22,"All Ages",3,"Both",7987.8438
+57,"LDI_pc",4656,"Jalisco",1994,22,"All Ages",3,"Both",13591.195
+57,"LDI_pc",4657,"México",1994,22,"All Ages",3,"Both",13006.783
+57,"LDI_pc",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",8470.3682
+57,"LDI_pc",4659,"Morelos",1994,22,"All Ages",3,"Both",10961.553
+57,"LDI_pc",4660,"Nayarit",1994,22,"All Ages",3,"Both",10627.937
+57,"LDI_pc",4661,"Nuevo León",1994,22,"All Ages",3,"Both",17610.029
+57,"LDI_pc",4662,"Oaxaca",1994,22,"All Ages",3,"Both",6755.7925
+57,"LDI_pc",4663,"Puebla",1994,22,"All Ages",3,"Both",9374.8916
+57,"LDI_pc",4664,"Querétaro",1994,22,"All Ages",3,"Both",13738.119
+57,"LDI_pc",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",15621.002
+57,"LDI_pc",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",10074.052
+57,"LDI_pc",4667,"Sinaloa",1994,22,"All Ages",3,"Both",12446.229
+57,"LDI_pc",4668,"Sonora",1994,22,"All Ages",3,"Both",13900.913
+57,"LDI_pc",4669,"Tabasco",1994,22,"All Ages",3,"Both",8592.1914
+57,"LDI_pc",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",14441.564
+57,"LDI_pc",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",8924.835
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",7811.0103
+57,"LDI_pc",4673,"Yucatán",1994,22,"All Ages",3,"Both",10526.437
+57,"LDI_pc",4674,"Zacatecas",1994,22,"All Ages",3,"Both",8955.3789
+57,"LDI_pc",130,"Mexico",1995,22,"All Ages",3,"Both",11755.541
+57,"LDI_pc",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",17516.17
+57,"LDI_pc",4644,"Baja California",1995,22,"All Ages",3,"Both",18638.203
+57,"LDI_pc",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",19055.58
+57,"LDI_pc",4646,"Campeche",1995,22,"All Ages",3,"Both",11695.772
+57,"LDI_pc",4647,"Coahuila",1995,22,"All Ages",3,"Both",14392.281
+57,"LDI_pc",4648,"Colima",1995,22,"All Ages",3,"Both",14188.033
+57,"LDI_pc",4649,"Chiapas",1995,22,"All Ages",3,"Both",8052.2573
+57,"LDI_pc",4650,"Chihuahua",1995,22,"All Ages",3,"Both",15338.921
+57,"LDI_pc",4651,"Mexico City",1995,22,"All Ages",3,"Both",14255.049
+57,"LDI_pc",4652,"Durango",1995,22,"All Ages",3,"Both",12138.479
+57,"LDI_pc",4653,"Guanajuato",1995,22,"All Ages",3,"Both",12629.264
+57,"LDI_pc",4654,"Guerrero",1995,22,"All Ages",3,"Both",7329.1719
+57,"LDI_pc",4655,"Hidalgo",1995,22,"All Ages",3,"Both",7960.3677
+57,"LDI_pc",4656,"Jalisco",1995,22,"All Ages",3,"Both",13548.197
+57,"LDI_pc",4657,"México",1995,22,"All Ages",3,"Both",12840.208
+57,"LDI_pc",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",8467.0254
+57,"LDI_pc",4659,"Morelos",1995,22,"All Ages",3,"Both",10909.312
+57,"LDI_pc",4660,"Nayarit",1995,22,"All Ages",3,"Both",10640.747
+57,"LDI_pc",4661,"Nuevo León",1995,22,"All Ages",3,"Both",17524.836
+57,"LDI_pc",4662,"Oaxaca",1995,22,"All Ages",3,"Both",6739.5801
+57,"LDI_pc",4663,"Puebla",1995,22,"All Ages",3,"Both",9317.6465
+57,"LDI_pc",4664,"Querétaro",1995,22,"All Ages",3,"Both",13532.415
+57,"LDI_pc",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",15144.002
+57,"LDI_pc",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",10052.079
+57,"LDI_pc",4667,"Sinaloa",1995,22,"All Ages",3,"Both",12471.285
+57,"LDI_pc",4668,"Sonora",1995,22,"All Ages",3,"Both",13813.743
+57,"LDI_pc",4669,"Tabasco",1995,22,"All Ages",3,"Both",8504.2676
+57,"LDI_pc",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",14380.641
+57,"LDI_pc",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",8837.0615
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",7811.395
+57,"LDI_pc",4673,"Yucatán",1995,22,"All Ages",3,"Both",10496.303
+57,"LDI_pc",4674,"Zacatecas",1995,22,"All Ages",3,"Both",9012.2637
+57,"LDI_pc",130,"Mexico",1996,22,"All Ages",3,"Both",11808.151
+57,"LDI_pc",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",17448.359
+57,"LDI_pc",4644,"Baja California",1996,22,"All Ages",3,"Both",18345.002
+57,"LDI_pc",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",18922.418
+57,"LDI_pc",4646,"Campeche",1996,22,"All Ages",3,"Both",11669.214
+57,"LDI_pc",4647,"Coahuila",1996,22,"All Ages",3,"Both",14473.262
+57,"LDI_pc",4648,"Colima",1996,22,"All Ages",3,"Both",14222.699
+57,"LDI_pc",4649,"Chiapas",1996,22,"All Ages",3,"Both",8024.9102
+57,"LDI_pc",4650,"Chihuahua",1996,22,"All Ages",3,"Both",15336.021
+57,"LDI_pc",4651,"Mexico City",1996,22,"All Ages",3,"Both",14553.581
+57,"LDI_pc",4652,"Durango",1996,22,"All Ages",3,"Both",12250.129
+57,"LDI_pc",4653,"Guanajuato",1996,22,"All Ages",3,"Both",12706.042
+57,"LDI_pc",4654,"Guerrero",1996,22,"All Ages",3,"Both",7372.8086
+57,"LDI_pc",4655,"Hidalgo",1996,22,"All Ages",3,"Both",8000.2407
+57,"LDI_pc",4656,"Jalisco",1996,22,"All Ages",3,"Both",13622.688
+57,"LDI_pc",4657,"México",1996,22,"All Ages",3,"Both",12786.64
+57,"LDI_pc",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",8535.9443
+57,"LDI_pc",4659,"Morelos",1996,22,"All Ages",3,"Both",10952.942
+57,"LDI_pc",4660,"Nayarit",1996,22,"All Ages",3,"Both",10744.431
+57,"LDI_pc",4661,"Nuevo León",1996,22,"All Ages",3,"Both",17585.273
+57,"LDI_pc",4662,"Oaxaca",1996,22,"All Ages",3,"Both",6777.1475
+57,"LDI_pc",4663,"Puebla",1996,22,"All Ages",3,"Both",9334.6152
+57,"LDI_pc",4664,"Querétaro",1996,22,"All Ages",3,"Both",13451.053
+57,"LDI_pc",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",14810.137
+57,"LDI_pc",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",10115.571
+57,"LDI_pc",4667,"Sinaloa",1996,22,"All Ages",3,"Both",12600.007
+57,"LDI_pc",4668,"Sonora",1996,22,"All Ages",3,"Both",13841.24
+57,"LDI_pc",4669,"Tabasco",1996,22,"All Ages",3,"Both",8491.7334
+57,"LDI_pc",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",14435.655
+57,"LDI_pc",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",8823.959
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",7879.6157
+57,"LDI_pc",4673,"Yucatán",1996,22,"All Ages",3,"Both",10553.567
+57,"LDI_pc",4674,"Zacatecas",1996,22,"All Ages",3,"Both",9149.2314
+57,"LDI_pc",130,"Mexico",1997,22,"All Ages",3,"Both",11964.646
+57,"LDI_pc",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",17534.584
+57,"LDI_pc",4644,"Baja California",1997,22,"All Ages",3,"Both",18209.084
+57,"LDI_pc",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",18946.225
+57,"LDI_pc",4646,"Campeche",1997,22,"All Ages",3,"Both",11744.28
+57,"LDI_pc",4647,"Coahuila",1997,22,"All Ages",3,"Both",14680.493
+57,"LDI_pc",4648,"Colima",1997,22,"All Ages",3,"Both",14385.355
+57,"LDI_pc",4649,"Chiapas",1997,22,"All Ages",3,"Both",8073.7905
+57,"LDI_pc",4650,"Chihuahua",1997,22,"All Ages",3,"Both",15455.021
+57,"LDI_pc",4651,"Mexico City",1997,22,"All Ages",3,"Both",14995.321
+57,"LDI_pc",4652,"Durango",1997,22,"All Ages",3,"Both",12473.249
+57,"LDI_pc",4653,"Guanajuato",1997,22,"All Ages",3,"Both",12894.934
+57,"LDI_pc",4654,"Guerrero",1997,22,"All Ages",3,"Both",7476.936
+57,"LDI_pc",4655,"Hidalgo",1997,22,"All Ages",3,"Both",8110.5967
+57,"LDI_pc",4656,"Jalisco",1997,22,"All Ages",3,"Both",13821.163
+57,"LDI_pc",4657,"México",1997,22,"All Ages",3,"Both",12849.549
+57,"LDI_pc",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",8682.792
+57,"LDI_pc",4659,"Morelos",1997,22,"All Ages",3,"Both",11095.822
+57,"LDI_pc",4660,"Nayarit",1997,22,"All Ages",3,"Both",10946.404
+57,"LDI_pc",4661,"Nuevo León",1997,22,"All Ages",3,"Both",17797.277
+57,"LDI_pc",4662,"Oaxaca",1997,22,"All Ages",3,"Both",6870.6377
+57,"LDI_pc",4663,"Puebla",1997,22,"All Ages",3,"Both",9427.8057
+57,"LDI_pc",4664,"Querétaro",1997,22,"All Ages",3,"Both",13496.041
+57,"LDI_pc",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",14605.028
+57,"LDI_pc",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",10269.315
+57,"LDI_pc",4667,"Sinaloa",1997,22,"All Ages",3,"Both",12837.914
+57,"LDI_pc",4668,"Sonora",1997,22,"All Ages",3,"Both",13986.404
+57,"LDI_pc",4669,"Tabasco",1997,22,"All Ages",3,"Both",8558.082
+57,"LDI_pc",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",14608.76
+57,"LDI_pc",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",8888.6396
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",8020.0264
+57,"LDI_pc",4673,"Yucatán",1997,22,"All Ages",3,"Both",10702.093
+57,"LDI_pc",4674,"Zacatecas",1997,22,"All Ages",3,"Both",9373.4189
+57,"LDI_pc",130,"Mexico",1998,22,"All Ages",3,"Both",12168.28
+57,"LDI_pc",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",17692.432
+57,"LDI_pc",4644,"Baja California",1998,22,"All Ages",3,"Both",18140.816
+57,"LDI_pc",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",19030.127
+57,"LDI_pc",4646,"Campeche",1998,22,"All Ages",3,"Both",11865.397
+57,"LDI_pc",4647,"Coahuila",1998,22,"All Ages",3,"Both",14941.86
+57,"LDI_pc",4648,"Colima",1998,22,"All Ages",3,"Both",14606.875
+57,"LDI_pc",4649,"Chiapas",1998,22,"All Ages",3,"Both",8159.8433
+57,"LDI_pc",4650,"Chihuahua",1998,22,"All Ages",3,"Both",15621.154
+57,"LDI_pc",4651,"Mexico City",1998,22,"All Ages",3,"Both",15509.181
+57,"LDI_pc",4652,"Durango",1998,22,"All Ages",3,"Both",12750.804
+57,"LDI_pc",4653,"Guanajuato",1998,22,"All Ages",3,"Both",13136.016
+57,"LDI_pc",4654,"Guerrero",1998,22,"All Ages",3,"Both",7608.4404
+57,"LDI_pc",4655,"Hidalgo",1998,22,"All Ages",3,"Both",8253.624
+57,"LDI_pc",4656,"Jalisco",1998,22,"All Ages",3,"Both",14078.034
+57,"LDI_pc",4657,"México",1998,22,"All Ages",3,"Both",12967.09
+57,"LDI_pc",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",8868.04
+57,"LDI_pc",4659,"Morelos",1998,22,"All Ages",3,"Both",11284.111
+57,"LDI_pc",4660,"Nayarit",1998,22,"All Ages",3,"Both",11195.288
+57,"LDI_pc",4661,"Nuevo León",1998,22,"All Ages",3,"Both",18073.582
+57,"LDI_pc",4662,"Oaxaca",1998,22,"All Ages",3,"Both",6987.4614
+57,"LDI_pc",4663,"Puebla",1998,22,"All Ages",3,"Both",9552.7588
+57,"LDI_pc",4664,"Querétaro",1998,22,"All Ages",3,"Both",13602.577
+57,"LDI_pc",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",14453.731
+57,"LDI_pc",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",10465.803
+57,"LDI_pc",4667,"Sinaloa",1998,22,"All Ages",3,"Both",13123.801
+57,"LDI_pc",4668,"Sonora",1998,22,"All Ages",3,"Both",14181.385
+57,"LDI_pc",4669,"Tabasco",1998,22,"All Ages",3,"Both",8664.3828
+57,"LDI_pc",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",14827.569
+57,"LDI_pc",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",8989.5371
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",8195.7383
+57,"LDI_pc",4673,"Yucatán",1998,22,"All Ages",3,"Both",10890.563
+57,"LDI_pc",4674,"Zacatecas",1998,22,"All Ages",3,"Both",9640.3193
+57,"LDI_pc",130,"Mexico",1999,22,"All Ages",3,"Both",12386.59
+57,"LDI_pc",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",17875.656
+57,"LDI_pc",4644,"Baja California",1999,22,"All Ages",3,"Both",18089.498
+57,"LDI_pc",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",19116.102
+57,"LDI_pc",4646,"Campeche",1999,22,"All Ages",3,"Both",12002.075
+57,"LDI_pc",4647,"Coahuila",1999,22,"All Ages",3,"Both",15216.108
+57,"LDI_pc",4648,"Colima",1999,22,"All Ages",3,"Both",14848.102
+57,"LDI_pc",4649,"Chiapas",1999,22,"All Ages",3,"Both",8260.0371
+57,"LDI_pc",4650,"Chihuahua",1999,22,"All Ages",3,"Both",15793.003
+57,"LDI_pc",4651,"Mexico City",1999,22,"All Ages",3,"Both",16051.789
+57,"LDI_pc",4652,"Durango",1999,22,"All Ages",3,"Both",13051.896
+57,"LDI_pc",4653,"Guanajuato",1999,22,"All Ages",3,"Both",13396.272
+57,"LDI_pc",4654,"Guerrero",1999,22,"All Ages",3,"Both",7750.061
+57,"LDI_pc",4655,"Hidalgo",1999,22,"All Ages",3,"Both",8408.6328
+57,"LDI_pc",4656,"Jalisco",1999,22,"All Ages",3,"Both",14356.208
+57,"LDI_pc",4657,"México",1999,22,"All Ages",3,"Both",13100.242
+57,"LDI_pc",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",9070.1982
+57,"LDI_pc",4659,"Morelos",1999,22,"All Ages",3,"Both",11487.073
+57,"LDI_pc",4660,"Nayarit",1999,22,"All Ages",3,"Both",11462.414
+57,"LDI_pc",4661,"Nuevo León",1999,22,"All Ages",3,"Both",18364.082
+57,"LDI_pc",4662,"Oaxaca",1999,22,"All Ages",3,"Both",7110.0586
+57,"LDI_pc",4663,"Puebla",1999,22,"All Ages",3,"Both",9685.3848
+57,"LDI_pc",4664,"Querétaro",1999,22,"All Ages",3,"Both",13732.128
+57,"LDI_pc",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",14313.347
+57,"LDI_pc",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",10679.203
+57,"LDI_pc",4667,"Sinaloa",1999,22,"All Ages",3,"Both",13424.109
+57,"LDI_pc",4668,"Sonora",1999,22,"All Ages",3,"Both",14388.025
+57,"LDI_pc",4669,"Tabasco",1999,22,"All Ages",3,"Both",8789.0195
+57,"LDI_pc",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",15050.615
+57,"LDI_pc",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",9101.9141
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",8386.6953
+57,"LDI_pc",4673,"Yucatán",1999,22,"All Ages",3,"Both",11089.875
+57,"LDI_pc",4674,"Zacatecas",1999,22,"All Ages",3,"Both",9924.9004
+57,"LDI_pc",130,"Mexico",2000,22,"All Ages",3,"Both",12677.94
+57,"LDI_pc",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",18165.344
+57,"LDI_pc",4644,"Baja California",2000,22,"All Ages",3,"Both",18132.672
+57,"LDI_pc",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",19281.908
+57,"LDI_pc",4646,"Campeche",2000,22,"All Ages",3,"Both",12209.87
+57,"LDI_pc",4647,"Coahuila",2000,22,"All Ages",3,"Both",15572.986
+57,"LDI_pc",4648,"Colima",2000,22,"All Ages",3,"Both",15177.854
+57,"LDI_pc",4649,"Chiapas",2000,22,"All Ages",3,"Both",8410.1904
+57,"LDI_pc",4650,"Chihuahua",2000,22,"All Ages",3,"Both",16043.453
+57,"LDI_pc",4651,"Mexico City",2000,22,"All Ages",3,"Both",16700.807
+57,"LDI_pc",4652,"Durango",2000,22,"All Ages",3,"Both",13441.436
+57,"LDI_pc",4653,"Guanajuato",2000,22,"All Ages",3,"Both",13740.867
+57,"LDI_pc",4654,"Guerrero",2000,22,"All Ages",3,"Both",7939.7021
+57,"LDI_pc",4655,"Hidalgo",2000,22,"All Ages",3,"Both",8616.6689
+57,"LDI_pc",4656,"Jalisco",2000,22,"All Ages",3,"Both",14725.063
+57,"LDI_pc",4657,"México",2000,22,"All Ages",3,"Both",13307.67
+57,"LDI_pc",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",9334.8281
+57,"LDI_pc",4659,"Morelos",2000,22,"All Ages",3,"Both",11757.579
+57,"LDI_pc",4660,"Nayarit",2000,22,"All Ages",3,"Both",11803.742
+57,"LDI_pc",4661,"Nuevo León",2000,22,"All Ages",3,"Both",18753.266
+57,"LDI_pc",4662,"Oaxaca",2000,22,"All Ages",3,"Both",7272.8892
+57,"LDI_pc",4663,"Puebla",2000,22,"All Ages",3,"Both",9872.0723
+57,"LDI_pc",4664,"Querétaro",2000,22,"All Ages",3,"Both",13945.041
+57,"LDI_pc",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",14238.548
+57,"LDI_pc",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",10961.919
+57,"LDI_pc",4667,"Sinaloa",2000,22,"All Ages",3,"Both",13804.102
+57,"LDI_pc",4668,"Sonora",2000,22,"All Ages",3,"Both",14672.688
+57,"LDI_pc",4669,"Tabasco",2000,22,"All Ages",3,"Both",8973.7871
+57,"LDI_pc",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",15345.236
+57,"LDI_pc",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",9265.4854
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",8635.3242
+57,"LDI_pc",4673,"Yucatán",2000,22,"All Ages",3,"Both",11352.722
+57,"LDI_pc",4674,"Zacatecas",2000,22,"All Ages",3,"Both",10276.223
+57,"LDI_pc",130,"Mexico",2001,22,"All Ages",3,"Both",12888.21
+57,"LDI_pc",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",18342.939
+57,"LDI_pc",4644,"Baja California",2001,22,"All Ages",3,"Both",18063.613
+57,"LDI_pc",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",19302.416
+57,"LDI_pc",4646,"Campeche",2001,22,"All Ages",3,"Both",12342.415
+57,"LDI_pc",4647,"Coahuila",2001,22,"All Ages",3,"Both",15822.07
+57,"LDI_pc",4648,"Colima",2001,22,"All Ages",3,"Both",15410.727
+57,"LDI_pc",4649,"Chiapas",2001,22,"All Ages",3,"Both",8506.6289
+57,"LDI_pc",4650,"Chihuahua",2001,22,"All Ages",3,"Both",16183.686
+57,"LDI_pc",4651,"Mexico City",2001,22,"All Ages",3,"Both",17241.268
+57,"LDI_pc",4652,"Durango",2001,22,"All Ages",3,"Both",13752.952
+57,"LDI_pc",4653,"Guanajuato",2001,22,"All Ages",3,"Both",14001.568
+57,"LDI_pc",4654,"Guerrero",2001,22,"All Ages",3,"Both",8080.7153
+57,"LDI_pc",4655,"Hidalgo",2001,22,"All Ages",3,"Both",8772.9502
+57,"LDI_pc",4656,"Jalisco",2001,22,"All Ages",3,"Both",15004.247
+57,"LDI_pc",4657,"México",2001,22,"All Ages",3,"Both",13433.089
+57,"LDI_pc",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",9547.0928
+57,"LDI_pc",4659,"Morelos",2001,22,"All Ages",3,"Both",11951.022
+57,"LDI_pc",4660,"Nayarit",2001,22,"All Ages",3,"Both",12072.601
+57,"LDI_pc",4661,"Nuevo León",2001,22,"All Ages",3,"Both",19014.111
+57,"LDI_pc",4662,"Oaxaca",2001,22,"All Ages",3,"Both",7388.6782
+57,"LDI_pc",4663,"Puebla",2001,22,"All Ages",3,"Both",9995.7305
+57,"LDI_pc",4664,"Querétaro",2001,22,"All Ages",3,"Both",14073.563
+57,"LDI_pc",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",14069.394
+57,"LDI_pc",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",11179.733
+57,"LDI_pc",4667,"Sinaloa",2001,22,"All Ages",3,"Both",14094.424
+57,"LDI_pc",4668,"Sonora",2001,22,"All Ages",3,"Both",14858.61
+57,"LDI_pc",4669,"Tabasco",2001,22,"All Ages",3,"Both",9109.2041
+57,"LDI_pc",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",15526.184
+57,"LDI_pc",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",9367.7559
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",8835.585
+57,"LDI_pc",4673,"Yucatán",2001,22,"All Ages",3,"Both",11541.414
+57,"LDI_pc",4674,"Zacatecas",2001,22,"All Ages",3,"Both",10563.983
+57,"LDI_pc",130,"Mexico",2002,22,"All Ages",3,"Both",13047.893
+57,"LDI_pc",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",18450.893
+57,"LDI_pc",4644,"Baja California",2002,22,"All Ages",3,"Both",17929.131
+57,"LDI_pc",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",19228.637
+57,"LDI_pc",4646,"Campeche",2002,22,"All Ages",3,"Both",12428.671
+57,"LDI_pc",4647,"Coahuila",2002,22,"All Ages",3,"Both",16000.916
+57,"LDI_pc",4648,"Colima",2002,22,"All Ages",3,"Both",15582.252
+57,"LDI_pc",4649,"Chiapas",2002,22,"All Ages",3,"Both",8568.0664
+57,"LDI_pc",4650,"Chihuahua",2002,22,"All Ages",3,"Both",16255.442
+57,"LDI_pc",4651,"Mexico City",2002,22,"All Ages",3,"Both",17712.324
+57,"LDI_pc",4652,"Durango",2002,22,"All Ages",3,"Both",14017.985
+57,"LDI_pc",4653,"Guanajuato",2002,22,"All Ages",3,"Both",14209.937
+57,"LDI_pc",4654,"Guerrero",2002,22,"All Ages",3,"Both",8193.0527
+57,"LDI_pc",4655,"Hidalgo",2002,22,"All Ages",3,"Both",8897.9365
+57,"LDI_pc",4656,"Jalisco",2002,22,"All Ages",3,"Both",15226.978
+57,"LDI_pc",4657,"México",2002,22,"All Ages",3,"Both",13509.851
+57,"LDI_pc",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",9728.8232
+57,"LDI_pc",4659,"Morelos",2002,22,"All Ages",3,"Both",12095.054
+57,"LDI_pc",4660,"Nayarit",2002,22,"All Ages",3,"Both",12295.584
+57,"LDI_pc",4661,"Nuevo León",2002,22,"All Ages",3,"Both",19191.109
+57,"LDI_pc",4662,"Oaxaca",2002,22,"All Ages",3,"Both",7476.1577
+57,"LDI_pc",4663,"Puebla",2002,22,"All Ages",3,"Both",10081.746
+57,"LDI_pc",4664,"Querétaro",2002,22,"All Ages",3,"Both",14150.243
+57,"LDI_pc",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",13844.996
+57,"LDI_pc",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",11358.485
+57,"LDI_pc",4667,"Sinaloa",2002,22,"All Ages",3,"Both",14328.726
+57,"LDI_pc",4668,"Sonora",2002,22,"All Ages",3,"Both",14981.455
+57,"LDI_pc",4669,"Tabasco",2002,22,"All Ages",3,"Both",9214.7549
+57,"LDI_pc",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",15631.349
+57,"LDI_pc",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",9431.8301
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",9007.7852
+57,"LDI_pc",4673,"Yucatán",2002,22,"All Ages",3,"Both",11682.863
+57,"LDI_pc",4674,"Zacatecas",2002,22,"All Ages",3,"Both",10810.933
+57,"LDI_pc",130,"Mexico",2003,22,"All Ages",3,"Both",13202.97
+57,"LDI_pc",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",18552.279
+57,"LDI_pc",4644,"Baja California",2003,22,"All Ages",3,"Both",17792.375
+57,"LDI_pc",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",19131.125
+57,"LDI_pc",4646,"Campeche",2003,22,"All Ages",3,"Both",12510.889
+57,"LDI_pc",4647,"Coahuila",2003,22,"All Ages",3,"Both",16166.071
+57,"LDI_pc",4648,"Colima",2003,22,"All Ages",3,"Both",15746.421
+57,"LDI_pc",4649,"Chiapas",2003,22,"All Ages",3,"Both",8624.2236
+57,"LDI_pc",4650,"Chihuahua",2003,22,"All Ages",3,"Both",16318.127
+57,"LDI_pc",4651,"Mexico City",2003,22,"All Ages",3,"Both",18178.756
+57,"LDI_pc",4652,"Durango",2003,22,"All Ages",3,"Both",14285.866
+57,"LDI_pc",4653,"Guanajuato",2003,22,"All Ages",3,"Both",14414.745
+57,"LDI_pc",4654,"Guerrero",2003,22,"All Ages",3,"Both",8307.0518
+57,"LDI_pc",4655,"Hidalgo",2003,22,"All Ages",3,"Both",9022.7598
+57,"LDI_pc",4656,"Jalisco",2003,22,"All Ages",3,"Both",15445.348
+57,"LDI_pc",4657,"México",2003,22,"All Ages",3,"Both",13584.472
+57,"LDI_pc",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",9914.0811
+57,"LDI_pc",4659,"Morelos",2003,22,"All Ages",3,"Both",12231.967
+57,"LDI_pc",4660,"Nayarit",2003,22,"All Ages",3,"Both",12514.47
+57,"LDI_pc",4661,"Nuevo León",2003,22,"All Ages",3,"Both",19351.346
+57,"LDI_pc",4662,"Oaxaca",2003,22,"All Ages",3,"Both",7563.4458
+57,"LDI_pc",4663,"Puebla",2003,22,"All Ages",3,"Both",10167.435
+57,"LDI_pc",4664,"Querétaro",2003,22,"All Ages",3,"Both",14222.639
+57,"LDI_pc",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",13615.687
+57,"LDI_pc",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",11537.532
+57,"LDI_pc",4667,"Sinaloa",2003,22,"All Ages",3,"Both",14557.664
+57,"LDI_pc",4668,"Sonora",2003,22,"All Ages",3,"Both",15094.028
+57,"LDI_pc",4669,"Tabasco",2003,22,"All Ages",3,"Both",9320.5342
+57,"LDI_pc",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",15716.12
+57,"LDI_pc",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",9491.8174
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",9183.5693
+57,"LDI_pc",4673,"Yucatán",2003,22,"All Ages",3,"Both",11817.589
+57,"LDI_pc",4674,"Zacatecas",2003,22,"All Ages",3,"Both",11054.168
+57,"LDI_pc",130,"Mexico",2004,22,"All Ages",3,"Both",13424.8
+57,"LDI_pc",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",18744.156
+57,"LDI_pc",4644,"Baja California",2004,22,"All Ages",3,"Both",17741.91
+57,"LDI_pc",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",19113.914
+57,"LDI_pc",4646,"Campeche",2004,22,"All Ages",3,"Both",12653.541
+57,"LDI_pc",4647,"Coahuila",2004,22,"All Ages",3,"Both",16404.613
+57,"LDI_pc",4648,"Colima",2004,22,"All Ages",3,"Both",15987.368
+57,"LDI_pc",4649,"Chiapas",2004,22,"All Ages",3,"Both",8721.5381
+57,"LDI_pc",4650,"Chihuahua",2004,22,"All Ages",3,"Both",16459.756
+57,"LDI_pc",4651,"Mexico City",2004,22,"All Ages",3,"Both",18744.807
+57,"LDI_pc",4652,"Durango",2004,22,"All Ages",3,"Both",14635.503
+57,"LDI_pc",4653,"Guanajuato",2004,22,"All Ages",3,"Both",14693.229
+57,"LDI_pc",4654,"Guerrero",2004,22,"All Ages",3,"Both",8469.9258
+57,"LDI_pc",4655,"Hidalgo",2004,22,"All Ages",3,"Both",9196.4141
+57,"LDI_pc",4656,"Jalisco",2004,22,"All Ages",3,"Both",15742.152
+57,"LDI_pc",4657,"México",2004,22,"All Ages",3,"Both",13727.477
+57,"LDI_pc",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",10157.626
+57,"LDI_pc",4659,"Morelos",2004,22,"All Ages",3,"Both",12427.563
+57,"LDI_pc",4660,"Nayarit",2004,22,"All Ages",3,"Both",12796.343
+57,"LDI_pc",4661,"Nuevo León",2004,22,"All Ages",3,"Both",19597.891
+57,"LDI_pc",4662,"Oaxaca",2004,22,"All Ages",3,"Both",7693.7266
+57,"LDI_pc",4663,"Puebla",2004,22,"All Ages",3,"Both",10309.306
+57,"LDI_pc",4664,"Querétaro",2004,22,"All Ages",3,"Both",14363.319
+57,"LDI_pc",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",13450.272
+57,"LDI_pc",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",11779.247
+57,"LDI_pc",4667,"Sinaloa",2004,22,"All Ages",3,"Both",14860.507
+57,"LDI_pc",4668,"Sonora",2004,22,"All Ages",3,"Both",15276.648
+57,"LDI_pc",4669,"Tabasco",2004,22,"All Ages",3,"Both",9474.6357
+57,"LDI_pc",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",15864.33
+57,"LDI_pc",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",9598.874
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",9413.5049
+57,"LDI_pc",4673,"Yucatán",2004,22,"All Ages",3,"Both",12008.645
+57,"LDI_pc",4674,"Zacatecas",2004,22,"All Ages",3,"Both",11354.564
+57,"LDI_pc",130,"Mexico",2005,22,"All Ages",3,"Both",13671.348
+57,"LDI_pc",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",18967.768
+57,"LDI_pc",4644,"Baja California",2005,22,"All Ages",3,"Both",17721.988
+57,"LDI_pc",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",19126.674
+57,"LDI_pc",4646,"Campeche",2005,22,"All Ages",3,"Both",12815.162
+57,"LDI_pc",4647,"Coahuila",2005,22,"All Ages",3,"Both",16666.096
+57,"LDI_pc",4648,"Colima",2005,22,"All Ages",3,"Both",16254.355
+57,"LDI_pc",4649,"Chiapas",2005,22,"All Ages",3,"Both",8834.2139
+57,"LDI_pc",4650,"Chihuahua",2005,22,"All Ages",3,"Both",16631.439
+57,"LDI_pc",4651,"Mexico City",2005,22,"All Ages",3,"Both",19350.352
+57,"LDI_pc",4652,"Durango",2005,22,"All Ages",3,"Both",15019.485
+57,"LDI_pc",4653,"Guanajuato",2005,22,"All Ages",3,"Both",14998.18
+57,"LDI_pc",4654,"Guerrero",2005,22,"All Ages",3,"Both",8656.6182
+57,"LDI_pc",4655,"Hidalgo",2005,22,"All Ages",3,"Both",9389.8096
+57,"LDI_pc",4656,"Jalisco",2005,22,"All Ages",3,"Both",16066.717
+57,"LDI_pc",4657,"México",2005,22,"All Ages",3,"Both",13895.721
+57,"LDI_pc",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",10426.81
+57,"LDI_pc",4659,"Morelos",2005,22,"All Ages",3,"Both",12643.11
+57,"LDI_pc",4660,"Nayarit",2005,22,"All Ages",3,"Both",13098.715
+57,"LDI_pc",4661,"Nuevo León",2005,22,"All Ages",3,"Both",19870.299
+57,"LDI_pc",4662,"Oaxaca",2005,22,"All Ages",3,"Both",7845.2729
+57,"LDI_pc",4663,"Puebla",2005,22,"All Ages",3,"Both",10477.218
+57,"LDI_pc",4664,"Querétaro",2005,22,"All Ages",3,"Both",14524.853
+57,"LDI_pc",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",13311.383
+57,"LDI_pc",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",12045.467
+57,"LDI_pc",4667,"Sinaloa",2005,22,"All Ages",3,"Both",15189.54
+57,"LDI_pc",4668,"Sonora",2005,22,"All Ages",3,"Both",15482.072
+57,"LDI_pc",4669,"Tabasco",2005,22,"All Ages",3,"Both",9645.3584
+57,"LDI_pc",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",16029.017
+57,"LDI_pc",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",9723.7832
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",9666.9775
+57,"LDI_pc",4673,"Yucatán",2005,22,"All Ages",3,"Both",12217.778
+57,"LDI_pc",4674,"Zacatecas",2005,22,"All Ages",3,"Both",11675.085
+57,"LDI_pc",130,"Mexico",2006,22,"All Ages",3,"Both",13981.063
+57,"LDI_pc",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",19272.695
+57,"LDI_pc",4644,"Baja California",2006,22,"All Ages",3,"Both",17769.994
+57,"LDI_pc",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",19214.912
+57,"LDI_pc",4646,"Campeche",2006,22,"All Ages",3,"Both",13027.852
+57,"LDI_pc",4647,"Coahuila",2006,22,"All Ages",3,"Both",16997.871
+57,"LDI_pc",4648,"Colima",2006,22,"All Ages",3,"Both",16591.527
+57,"LDI_pc",4649,"Chiapas",2006,22,"All Ages",3,"Both",8987.1885
+57,"LDI_pc",4650,"Chihuahua",2006,22,"All Ages",3,"Both",16877.283
+57,"LDI_pc",4651,"Mexico City",2006,22,"All Ages",3,"Both",20056.197
+57,"LDI_pc",4652,"Durango",2006,22,"All Ages",3,"Both",15482.825
+57,"LDI_pc",4653,"Guanajuato",2006,22,"All Ages",3,"Both",15373.075
+57,"LDI_pc",4654,"Guerrero",2006,22,"All Ages",3,"Both",8893.5479
+57,"LDI_pc",4655,"Hidalgo",2006,22,"All Ages",3,"Both",9629.8965
+57,"LDI_pc",4656,"Jalisco",2006,22,"All Ages",3,"Both",16464.965
+57,"LDI_pc",4657,"México",2006,22,"All Ages",3,"Both",14124.546
+57,"LDI_pc",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",10752.901
+57,"LDI_pc",4659,"Morelos",2006,22,"All Ages",3,"Both",12914.226
+57,"LDI_pc",4660,"Nayarit",2006,22,"All Ages",3,"Both",13459.101
+57,"LDI_pc",4661,"Nuevo León",2006,22,"All Ages",3,"Both",20223.404
+57,"LDI_pc",4662,"Oaxaca",2006,22,"All Ages",3,"Both",8042.604
+57,"LDI_pc",4663,"Puebla",2006,22,"All Ages",3,"Both",10701.656
+57,"LDI_pc",4664,"Querétaro",2006,22,"All Ages",3,"Both",14741.529
+57,"LDI_pc",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",13226.294
+57,"LDI_pc",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",12371.533
+57,"LDI_pc",4667,"Sinaloa",2006,22,"All Ages",3,"Both",15589.051
+57,"LDI_pc",4668,"Sonora",2006,22,"All Ages",3,"Both",15752.319
+57,"LDI_pc",4669,"Tabasco",2006,22,"All Ages",3,"Both",9858.04
+57,"LDI_pc",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",16254.335
+57,"LDI_pc",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",9891.8799
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",9973.0811
+57,"LDI_pc",4673,"Yucatán",2006,22,"All Ages",3,"Both",12478.394
+57,"LDI_pc",4674,"Zacatecas",2006,22,"All Ages",3,"Both",12051.753
+57,"LDI_pc",130,"Mexico",2007,22,"All Ages",3,"Both",14291.191
+57,"LDI_pc",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",19574.631
+57,"LDI_pc",4644,"Baja California",2007,22,"All Ages",3,"Both",17811.338
+57,"LDI_pc",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",19294.975
+57,"LDI_pc",4646,"Campeche",2007,22,"All Ages",3,"Both",13233.198
+57,"LDI_pc",4647,"Coahuila",2007,22,"All Ages",3,"Both",17326.105
+57,"LDI_pc",4648,"Colima",2007,22,"All Ages",3,"Both",16924.172
+57,"LDI_pc",4649,"Chiapas",2007,22,"All Ages",3,"Both",9141.9063
+57,"LDI_pc",4650,"Chihuahua",2007,22,"All Ages",3,"Both",17123.912
+57,"LDI_pc",4651,"Mexico City",2007,22,"All Ages",3,"Both",20765.861
+57,"LDI_pc",4652,"Durango",2007,22,"All Ages",3,"Both",15953.922
+57,"LDI_pc",4653,"Guanajuato",2007,22,"All Ages",3,"Both",15749.573
+57,"LDI_pc",4654,"Guerrero",2007,22,"All Ages",3,"Both",9140.8633
+57,"LDI_pc",4655,"Hidalgo",2007,22,"All Ages",3,"Both",9872.8574
+57,"LDI_pc",4656,"Jalisco",2007,22,"All Ages",3,"Both",16862.982
+57,"LDI_pc",4657,"México",2007,22,"All Ages",3,"Both",14350.229
+57,"LDI_pc",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",11085.916
+57,"LDI_pc",4659,"Morelos",2007,22,"All Ages",3,"Both",13183.778
+57,"LDI_pc",4660,"Nayarit",2007,22,"All Ages",3,"Both",13815.339
+57,"LDI_pc",4661,"Nuevo León",2007,22,"All Ages",3,"Both",20569.66
+57,"LDI_pc",4662,"Oaxaca",2007,22,"All Ages",3,"Both",8250.9277
+57,"LDI_pc",4663,"Puebla",2007,22,"All Ages",3,"Both",10935.873
+57,"LDI_pc",4664,"Querétaro",2007,22,"All Ages",3,"Both",14946.939
+57,"LDI_pc",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",13141.968
+57,"LDI_pc",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",12702.14
+57,"LDI_pc",4667,"Sinaloa",2007,22,"All Ages",3,"Both",15988.694
+57,"LDI_pc",4668,"Sonora",2007,22,"All Ages",3,"Both",16018.803
+57,"LDI_pc",4669,"Tabasco",2007,22,"All Ages",3,"Both",10067.511
+57,"LDI_pc",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",16472.164
+57,"LDI_pc",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",10058.493
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",10285.65
+57,"LDI_pc",4673,"Yucatán",2007,22,"All Ages",3,"Both",12734.2
+57,"LDI_pc",4674,"Zacatecas",2007,22,"All Ages",3,"Both",12429.06
+57,"LDI_pc",130,"Mexico",2008,22,"All Ages",3,"Both",14554.607
+57,"LDI_pc",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",19811.588
+57,"LDI_pc",4644,"Baja California",2008,22,"All Ages",3,"Both",17796.225
+57,"LDI_pc",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",19308.697
+57,"LDI_pc",4646,"Campeche",2008,22,"All Ages",3,"Both",13388.749
+57,"LDI_pc",4647,"Coahuila",2008,22,"All Ages",3,"Both",17596.188
+57,"LDI_pc",4648,"Colima",2008,22,"All Ages",3,"Both",17196.904
+57,"LDI_pc",4649,"Chiapas",2008,22,"All Ages",3,"Both",9269.21
+57,"LDI_pc",4650,"Chihuahua",2008,22,"All Ages",3,"Both",17317.172
+57,"LDI_pc",4651,"Mexico City",2008,22,"All Ages",3,"Both",21403.74
+57,"LDI_pc",4652,"Durango",2008,22,"All Ages",3,"Both",16376.483
+57,"LDI_pc",4653,"Guanajuato",2008,22,"All Ages",3,"Both",16076.063
+57,"LDI_pc",4654,"Guerrero",2008,22,"All Ages",3,"Both",9366.8652
+57,"LDI_pc",4655,"Hidalgo",2008,22,"All Ages",3,"Both",10085.19
+57,"LDI_pc",4656,"Jalisco",2008,22,"All Ages",3,"Both",17205.16
+57,"LDI_pc",4657,"México",2008,22,"All Ages",3,"Both",14526.865
+57,"LDI_pc",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",11386.434
+57,"LDI_pc",4659,"Morelos",2008,22,"All Ages",3,"Both",13409.271
+57,"LDI_pc",4660,"Nayarit",2008,22,"All Ages",3,"Both",14120.523
+57,"LDI_pc",4661,"Nuevo León",2008,22,"All Ages",3,"Both",20845.119
+57,"LDI_pc",4662,"Oaxaca",2008,22,"All Ages",3,"Both",8442.8125
+57,"LDI_pc",4663,"Puebla",2008,22,"All Ages",3,"Both",11143.777
+57,"LDI_pc",4664,"Querétaro",2008,22,"All Ages",3,"Both",15095.205
+57,"LDI_pc",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",13022.767
+57,"LDI_pc",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",12994.701
+57,"LDI_pc",4667,"Sinaloa",2008,22,"All Ages",3,"Both",16335.034
+57,"LDI_pc",4668,"Sonora",2008,22,"All Ages",3,"Both",16231.242
+57,"LDI_pc",4669,"Tabasco",2008,22,"All Ages",3,"Both",10240.32
+57,"LDI_pc",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",16634.006
+57,"LDI_pc",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",10191.082
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",10568.565
+57,"LDI_pc",4673,"Yucatán",2008,22,"All Ages",3,"Both",12943.429
+57,"LDI_pc",4674,"Zacatecas",2008,22,"All Ages",3,"Both",12764.248
+57,"LDI_pc",130,"Mexico",2009,22,"All Ages",3,"Both",14601.187
+57,"LDI_pc",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",19758.631
+57,"LDI_pc",4644,"Baja California",2009,22,"All Ages",3,"Both",17537.264
+57,"LDI_pc",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",19048.746
+57,"LDI_pc",4646,"Campeche",2009,22,"All Ages",3,"Both",13343.146
+57,"LDI_pc",4647,"Coahuila",2009,22,"All Ages",3,"Both",17606.221
+57,"LDI_pc",4648,"Colima",2009,22,"All Ages",3,"Both",17210.84
+57,"LDI_pc",4649,"Chiapas",2009,22,"All Ages",3,"Both",9262.1748
+57,"LDI_pc",4650,"Chihuahua",2009,22,"All Ages",3,"Both",17260.574
+57,"LDI_pc",4651,"Mexico City",2009,22,"All Ages",3,"Both",21705.457
+57,"LDI_pc",4652,"Durango",2009,22,"All Ages",3,"Both",16550.369
+57,"LDI_pc",4653,"Guanajuato",2009,22,"All Ages",3,"Both",16163.432
+57,"LDI_pc",4654,"Guerrero",2009,22,"All Ages",3,"Both",9456.9072
+57,"LDI_pc",4655,"Hidalgo",2009,22,"All Ages",3,"Both",10146.798
+57,"LDI_pc",4656,"Jalisco",2009,22,"All Ages",3,"Both",17289.211
+57,"LDI_pc",4657,"México",2009,22,"All Ages",3,"Both",14490.179
+57,"LDI_pc",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",11514.729
+57,"LDI_pc",4659,"Morelos",2009,22,"All Ages",3,"Both",13435.477
+57,"LDI_pc",4660,"Nayarit",2009,22,"All Ages",3,"Both",14207.556
+57,"LDI_pc",4661,"Nuevo León",2009,22,"All Ages",3,"Both",20813.051
+57,"LDI_pc",4662,"Oaxaca",2009,22,"All Ages",3,"Both",8515.9531
+57,"LDI_pc",4663,"Puebla",2009,22,"All Ages",3,"Both",11193.084
+57,"LDI_pc",4664,"Querétaro",2009,22,"All Ages",3,"Both",15019.868
+57,"LDI_pc",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",12735.073
+57,"LDI_pc",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",13093.93
+57,"LDI_pc",4667,"Sinaloa",2009,22,"All Ages",3,"Both",16434.76
+57,"LDI_pc",4668,"Sonora",2009,22,"All Ages",3,"Both",16204.994
+57,"LDI_pc",4669,"Tabasco",2009,22,"All Ages",3,"Both",10257.784
+57,"LDI_pc",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",16555.725
+57,"LDI_pc",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",10173.299
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",10692.6
+57,"LDI_pc",4673,"Yucatán",2009,22,"All Ages",3,"Both",12956.626
+57,"LDI_pc",4674,"Zacatecas",2009,22,"All Ages",3,"Both",12903.059
+57,"LDI_pc",130,"Mexico",2010,22,"All Ages",3,"Both",14738.992
+57,"LDI_pc",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",19827.201
+57,"LDI_pc",4644,"Baja California",2010,22,"All Ages",3,"Both",17390.527
+57,"LDI_pc",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",18903.012
+57,"LDI_pc",4646,"Campeche",2010,22,"All Ages",3,"Both",13373.419
+57,"LDI_pc",4647,"Coahuila",2010,22,"All Ages",3,"Both",17725.637
+57,"LDI_pc",4648,"Colima",2010,22,"All Ages",3,"Both",17326.672
+57,"LDI_pc",4649,"Chiapas",2010,22,"All Ages",3,"Both",9314.3398
+57,"LDI_pc",4650,"Chihuahua",2010,22,"All Ages",3,"Both",17312.527
+57,"LDI_pc",4651,"Mexico City",2010,22,"All Ages",3,"Both",22139.5
+57,"LDI_pc",4652,"Durango",2010,22,"All Ages",3,"Both",16829.543
+57,"LDI_pc",4653,"Guanajuato",2010,22,"All Ages",3,"Both",16355.113
+57,"LDI_pc",4654,"Guerrero",2010,22,"All Ages",3,"Both",9613.0439
+57,"LDI_pc",4655,"Hidalgo",2010,22,"All Ages",3,"Both",10272.818
+57,"LDI_pc",4656,"Jalisco",2010,22,"All Ages",3,"Both",17481.266
+57,"LDI_pc",4657,"México",2010,22,"All Ages",3,"Both",14542.653
+57,"LDI_pc",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",11717.271
+57,"LDI_pc",4659,"Morelos",2010,22,"All Ages",3,"Both",13545.252
+57,"LDI_pc",4660,"Nayarit",2010,22,"All Ages",3,"Both",14378.875
+57,"LDI_pc",4661,"Nuevo León",2010,22,"All Ages",3,"Both",20907.494
+57,"LDI_pc",4662,"Oaxaca",2010,22,"All Ages",3,"Both",8651.6582
+57,"LDI_pc",4663,"Puebla",2010,22,"All Ages",3,"Both",11319.692
+57,"LDI_pc",4664,"Querétaro",2010,22,"All Ages",3,"Both",15033.715
+57,"LDI_pc",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",12531.644
+57,"LDI_pc",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",13279.224
+57,"LDI_pc",4667,"Sinaloa",2010,22,"All Ages",3,"Both",16636.906
+57,"LDI_pc",4668,"Sonora",2010,22,"All Ages",3,"Both",16278.062
+57,"LDI_pc",4669,"Tabasco",2010,22,"All Ages",3,"Both",10335.962
+57,"LDI_pc",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",16582.104
+57,"LDI_pc",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",10216.903
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",10887.602
+57,"LDI_pc",4673,"Yucatán",2010,22,"All Ages",3,"Both",13045.507
+57,"LDI_pc",4674,"Zacatecas",2010,22,"All Ages",3,"Both",13123.57
+57,"LDI_pc",130,"Mexico",2011,22,"All Ages",3,"Both",14950.423
+57,"LDI_pc",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",19994.432
+57,"LDI_pc",4644,"Baja California",2011,22,"All Ages",3,"Both",17337.275
+57,"LDI_pc",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",18853.887
+57,"LDI_pc",4646,"Campeche",2011,22,"All Ages",3,"Both",13464.44
+57,"LDI_pc",4647,"Coahuila",2011,22,"All Ages",3,"Both",17933.123
+57,"LDI_pc",4648,"Colima",2011,22,"All Ages",3,"Both",17523.932
+57,"LDI_pc",4649,"Chiapas",2011,22,"All Ages",3,"Both",9414.125
+57,"LDI_pc",4650,"Chihuahua",2011,22,"All Ages",3,"Both",17452.693
+57,"LDI_pc",4651,"Mexico City",2011,22,"All Ages",3,"Both",22679.158
+57,"LDI_pc",4652,"Durango",2011,22,"All Ages",3,"Both",17192.336
+57,"LDI_pc",4653,"Guanajuato",2011,22,"All Ages",3,"Both",16631.822
+57,"LDI_pc",4654,"Guerrero",2011,22,"All Ages",3,"Both",9823.0713
+57,"LDI_pc",4655,"Hidalgo",2011,22,"All Ages",3,"Both",10450.472
+57,"LDI_pc",4656,"Jalisco",2011,22,"All Ages",3,"Both",17760.174
+57,"LDI_pc",4657,"México",2011,22,"All Ages",3,"Both",14668.432
+57,"LDI_pc",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",11978.783
+57,"LDI_pc",4659,"Morelos",2011,22,"All Ages",3,"Both",13722.718
+57,"LDI_pc",4660,"Nayarit",2011,22,"All Ages",3,"Both",14618.573
+57,"LDI_pc",4661,"Nuevo León",2011,22,"All Ages",3,"Both",21103.074
+57,"LDI_pc",4662,"Oaxaca",2011,22,"All Ages",3,"Both",8837.8984
+57,"LDI_pc",4663,"Puebla",2011,22,"All Ages",3,"Both",11508.189
+57,"LDI_pc",4664,"Querétaro",2011,22,"All Ages",3,"Both",15120.653
+57,"LDI_pc",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",12398.333
+57,"LDI_pc",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",13535.092
+57,"LDI_pc",4667,"Sinaloa",2011,22,"All Ages",3,"Both",16921.402
+57,"LDI_pc",4668,"Sonora",2011,22,"All Ages",3,"Both",16430.947
+57,"LDI_pc",4669,"Tabasco",2011,22,"All Ages",3,"Both",10463.419
+57,"LDI_pc",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",16695.213
+57,"LDI_pc",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",10309.371
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",11140.172
+57,"LDI_pc",4673,"Yucatán",2011,22,"All Ages",3,"Both",13194.63
+57,"LDI_pc",4674,"Zacatecas",2011,22,"All Ages",3,"Both",13411.37
+57,"LDI_pc",130,"Mexico",2012,22,"All Ages",3,"Both",15187.79
+57,"LDI_pc",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",20197.115
+57,"LDI_pc",4644,"Baja California",2012,22,"All Ages",3,"Both",17322.67
+57,"LDI_pc",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",18846.885
+57,"LDI_pc",4646,"Campeche",2012,22,"All Ages",3,"Both",13574.662
+57,"LDI_pc",4647,"Coahuila",2012,22,"All Ages",3,"Both",18170.59
+57,"LDI_pc",4648,"Colima",2012,22,"All Ages",3,"Both",17747.406
+57,"LDI_pc",4649,"Chiapas",2012,22,"All Ages",3,"Both",9530.167
+57,"LDI_pc",4650,"Chihuahua",2012,22,"All Ages",3,"Both",17625.76
+57,"LDI_pc",4651,"Mexico City",2012,22,"All Ages",3,"Both",23254.912
+57,"LDI_pc",4652,"Durango",2012,22,"All Ages",3,"Both",17582.621
+57,"LDI_pc",4653,"Guanajuato",2012,22,"All Ages",3,"Both",16940.299
+57,"LDI_pc",4654,"Guerrero",2012,22,"All Ages",3,"Both",10054.748
+57,"LDI_pc",4655,"Hidalgo",2012,22,"All Ages",3,"Both",10645.983
+57,"LDI_pc",4656,"Jalisco",2012,22,"All Ages",3,"Both",18068.951
+57,"LDI_pc",4657,"México",2012,22,"All Ages",3,"Both",14822.451
+57,"LDI_pc",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",12260.084
+57,"LDI_pc",4659,"Morelos",2012,22,"All Ages",3,"Both",13924.133
+57,"LDI_pc",4660,"Nayarit",2012,22,"All Ages",3,"Both",14881.796
+57,"LDI_pc",4661,"Nuevo León",2012,22,"All Ages",3,"Both",21331.787
+57,"LDI_pc",4662,"Oaxaca",2012,22,"All Ages",3,"Both",9043.9629
+57,"LDI_pc",4663,"Puebla",2012,22,"All Ages",3,"Both",11719.042
+57,"LDI_pc",4664,"Querétaro",2012,22,"All Ages",3,"Both",15233.979
+57,"LDI_pc",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",12295.09
+57,"LDI_pc",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",13818.866
+57,"LDI_pc",4667,"Sinaloa",2012,22,"All Ages",3,"Both",17234.098
+57,"LDI_pc",4668,"Sonora",2012,22,"All Ages",3,"Both",16610.957
+57,"LDI_pc",4669,"Tabasco",2012,22,"All Ages",3,"Both",10607.761
+57,"LDI_pc",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",16842.479
+57,"LDI_pc",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",10417.929
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",11414.297
+57,"LDI_pc",4673,"Yucatán",2012,22,"All Ages",3,"Both",13362.314
+57,"LDI_pc",4674,"Zacatecas",2012,22,"All Ages",3,"Both",13725.189
+57,"LDI_pc",130,"Mexico",2013,22,"All Ages",3,"Both",15376.305
+57,"LDI_pc",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",20337.936
+57,"LDI_pc",4644,"Baja California",2013,22,"All Ages",3,"Both",17264.143
+57,"LDI_pc",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",18796.479
+57,"LDI_pc",4646,"Campeche",2013,22,"All Ages",3,"Both",13640.43
+57,"LDI_pc",4647,"Coahuila",2013,22,"All Ages",3,"Both",18347.752
+57,"LDI_pc",4648,"Colima",2013,22,"All Ages",3,"Both",17911.463
+57,"LDI_pc",4649,"Chiapas",2013,22,"All Ages",3,"Both",9615.1152
+57,"LDI_pc",4650,"Chihuahua",2013,22,"All Ages",3,"Both",17746.314
+57,"LDI_pc",4651,"Mexico City",2013,22,"All Ages",3,"Both",23753.121
+57,"LDI_pc",4652,"Durango",2013,22,"All Ages",3,"Both",17912.031
+57,"LDI_pc",4653,"Guanajuato",2013,22,"All Ages",3,"Both",17196.109
+57,"LDI_pc",4654,"Guerrero",2013,22,"All Ages",3,"Both",10257.684
+57,"LDI_pc",4655,"Hidalgo",2013,22,"All Ages",3,"Both",10806.424
+57,"LDI_pc",4656,"Jalisco",2013,22,"All Ages",3,"Both",18318.039
+57,"LDI_pc",4657,"México",2013,22,"All Ages",3,"Both",14934.125
+57,"LDI_pc",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",12499.349
+57,"LDI_pc",4659,"Morelos",2013,22,"All Ages",3,"Both",14080.617
+57,"LDI_pc",4660,"Nayarit",2013,22,"All Ages",3,"Both",15097.019
+57,"LDI_pc",4661,"Nuevo León",2013,22,"All Ages",3,"Both",21488.941
+57,"LDI_pc",4662,"Oaxaca",2013,22,"All Ages",3,"Both",9221.8828
+57,"LDI_pc",4663,"Puebla",2013,22,"All Ages",3,"Both",11891.327
+57,"LDI_pc",4664,"Querétaro",2013,22,"All Ages",3,"Both",15301.531
+57,"LDI_pc",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",12164.589
+57,"LDI_pc",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",14062.398
+57,"LDI_pc",4667,"Sinaloa",2013,22,"All Ages",3,"Both",17489.076
+57,"LDI_pc",4668,"Sonora",2013,22,"All Ages",3,"Both",16736.807
+57,"LDI_pc",4669,"Tabasco",2013,22,"All Ages",3,"Both",10717.991
+57,"LDI_pc",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",16941.824
+57,"LDI_pc",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",10492.573
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",11651.782
+57,"LDI_pc",4673,"Yucatán",2013,22,"All Ages",3,"Both",13483.513
+57,"LDI_pc",4674,"Zacatecas",2013,22,"All Ages",3,"Both",13997.717
+57,"LDI_pc",130,"Mexico",2014,22,"All Ages",3,"Both",15560.283
+57,"LDI_pc",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",20475.068
+57,"LDI_pc",4644,"Baja California",2014,22,"All Ages",3,"Both",17207.785
+57,"LDI_pc",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",18754.373
+57,"LDI_pc",4646,"Campeche",2014,22,"All Ages",3,"Both",13702.334
+57,"LDI_pc",4647,"Coahuila",2014,22,"All Ages",3,"Both",18515.922
+57,"LDI_pc",4648,"Colima",2014,22,"All Ages",3,"Both",18069.18
+57,"LDI_pc",4649,"Chiapas",2014,22,"All Ages",3,"Both",9695.7959
+57,"LDI_pc",4650,"Chihuahua",2014,22,"All Ages",3,"Both",17864.48
+57,"LDI_pc",4651,"Mexico City",2014,22,"All Ages",3,"Both",24248.373
+57,"LDI_pc",4652,"Durango",2014,22,"All Ages",3,"Both",18233.43
+57,"LDI_pc",4653,"Guanajuato",2014,22,"All Ages",3,"Both",17448.479
+57,"LDI_pc",4654,"Guerrero",2014,22,"All Ages",3,"Both",10462.111
+57,"LDI_pc",4655,"Hidalgo",2014,22,"All Ages",3,"Both",10963.29
+57,"LDI_pc",4656,"Jalisco",2014,22,"All Ages",3,"Both",18560.539
+57,"LDI_pc",4657,"México",2014,22,"All Ages",3,"Both",15046.685
+57,"LDI_pc",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",12733.509
+57,"LDI_pc",4659,"Morelos",2014,22,"All Ages",3,"Both",14232.25
+57,"LDI_pc",4660,"Nayarit",2014,22,"All Ages",3,"Both",15310.136
+57,"LDI_pc",4661,"Nuevo León",2014,22,"All Ages",3,"Both",21635.063
+57,"LDI_pc",4662,"Oaxaca",2014,22,"All Ages",3,"Both",9396.4551
+57,"LDI_pc",4663,"Puebla",2014,22,"All Ages",3,"Both",12057.171
+57,"LDI_pc",4664,"Querétaro",2014,22,"All Ages",3,"Both",15367.04
+57,"LDI_pc",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",12038.853
+57,"LDI_pc",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",14307.73
+57,"LDI_pc",4667,"Sinaloa",2014,22,"All Ages",3,"Both",17736.846
+57,"LDI_pc",4668,"Sonora",2014,22,"All Ages",3,"Both",16855.865
+57,"LDI_pc",4669,"Tabasco",2014,22,"All Ages",3,"Both",10825.729
+57,"LDI_pc",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",17039.9
+57,"LDI_pc",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",10563.87
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",11886.469
+57,"LDI_pc",4673,"Yucatán",2014,22,"All Ages",3,"Both",13597.467
+57,"LDI_pc",4674,"Zacatecas",2014,22,"All Ages",3,"Both",14271.26
+57,"LDI_pc",130,"Mexico",2015,22,"All Ages",3,"Both",15753.647
+57,"LDI_pc",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",20627.008
+57,"LDI_pc",4644,"Baja California",2015,22,"All Ages",3,"Both",17167.166
+57,"LDI_pc",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",18734.428
+57,"LDI_pc",4646,"Campeche",2015,22,"All Ages",3,"Both",13774.473
+57,"LDI_pc",4647,"Coahuila",2015,22,"All Ages",3,"Both",18691.158
+57,"LDI_pc",4648,"Colima",2015,22,"All Ages",3,"Both",18238.486
+57,"LDI_pc",4649,"Chiapas",2015,22,"All Ages",3,"Both",9780.3975
+57,"LDI_pc",4650,"Chihuahua",2015,22,"All Ages",3,"Both",17995.49
+57,"LDI_pc",4651,"Mexico City",2015,22,"All Ages",3,"Both",24767.188
+57,"LDI_pc",4652,"Durango",2015,22,"All Ages",3,"Both",18564.336
+57,"LDI_pc",4653,"Guanajuato",2015,22,"All Ages",3,"Both",17712.74
+57,"LDI_pc",4654,"Guerrero",2015,22,"All Ages",3,"Both",10677.295
+57,"LDI_pc",4655,"Hidalgo",2015,22,"All Ages",3,"Both",11126.746
+57,"LDI_pc",4656,"Jalisco",2015,22,"All Ages",3,"Both",18813.695
+57,"LDI_pc",4657,"México",2015,22,"All Ages",3,"Both",15173.471
+57,"LDI_pc",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",12974.796
+57,"LDI_pc",4659,"Morelos",2015,22,"All Ages",3,"Both",14391.536
+57,"LDI_pc",4660,"Nayarit",2015,22,"All Ages",3,"Both",15536.577
+57,"LDI_pc",4661,"Nuevo León",2015,22,"All Ages",3,"Both",21789.453
+57,"LDI_pc",4662,"Oaxaca",2015,22,"All Ages",3,"Both",9574.3252
+57,"LDI_pc",4663,"Puebla",2015,22,"All Ages",3,"Both",12225.664
+57,"LDI_pc",4664,"Querétaro",2015,22,"All Ages",3,"Both",15444.385
+57,"LDI_pc",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",11927.582
+57,"LDI_pc",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",14568.296
+57,"LDI_pc",4667,"Sinaloa",2015,22,"All Ages",3,"Both",17993.391
+57,"LDI_pc",4668,"Sonora",2015,22,"All Ages",3,"Both",16983.219
+57,"LDI_pc",4669,"Tabasco",2015,22,"All Ages",3,"Both",10941.152
+57,"LDI_pc",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",17150.191
+57,"LDI_pc",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",10642.127
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",12128.797
+57,"LDI_pc",4673,"Yucatán",2015,22,"All Ages",3,"Both",13717.124
+57,"LDI_pc",4674,"Zacatecas",2015,22,"All Ages",3,"Both",14559.764
+57,"LDI_pc",130,"Mexico",2016,22,"All Ages",3,"Both",15949.952
+57,"LDI_pc",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",20785.223
+57,"LDI_pc",4644,"Baja California",2016,22,"All Ages",3,"Both",17133.004
+57,"LDI_pc",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",18725.137
+57,"LDI_pc",4646,"Campeche",2016,22,"All Ages",3,"Both",13852.337
+57,"LDI_pc",4647,"Coahuila",2016,22,"All Ages",3,"Both",18866.242
+57,"LDI_pc",4648,"Colima",2016,22,"All Ages",3,"Both",18413.258
+57,"LDI_pc",4649,"Chiapas",2016,22,"All Ages",3,"Both",9864.834
+57,"LDI_pc",4650,"Chihuahua",2016,22,"All Ages",3,"Both",18130.48
+57,"LDI_pc",4651,"Mexico City",2016,22,"All Ages",3,"Both",25302.836
+57,"LDI_pc",4652,"Durango",2016,22,"All Ages",3,"Both",18899.043
+57,"LDI_pc",4653,"Guanajuato",2016,22,"All Ages",3,"Both",17981.672
+57,"LDI_pc",4654,"Guerrero",2016,22,"All Ages",3,"Both",10898.324
+57,"LDI_pc",4655,"Hidalgo",2016,22,"All Ages",3,"Both",11292.649
+57,"LDI_pc",4656,"Jalisco",2016,22,"All Ages",3,"Both",19070.889
+57,"LDI_pc",4657,"México",2016,22,"All Ages",3,"Both",15307.769
+57,"LDI_pc",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",13219.178
+57,"LDI_pc",4659,"Morelos",2016,22,"All Ages",3,"Both",14552.591
+57,"LDI_pc",4660,"Nayarit",2016,22,"All Ages",3,"Both",15771.151
+57,"LDI_pc",4661,"Nuevo León",2016,22,"All Ages",3,"Both",21943.91
+57,"LDI_pc",4662,"Oaxaca",2016,22,"All Ages",3,"Both",9750.4531
+57,"LDI_pc",4663,"Puebla",2016,22,"All Ages",3,"Both",12390.976
+57,"LDI_pc",4664,"Querétaro",2016,22,"All Ages",3,"Both",15527.288
+57,"LDI_pc",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",11824.555
+57,"LDI_pc",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",14837.955
+57,"LDI_pc",4667,"Sinaloa",2016,22,"All Ages",3,"Both",18251.598
+57,"LDI_pc",4668,"Sonora",2016,22,"All Ages",3,"Both",17112.145
+57,"LDI_pc",4669,"Tabasco",2016,22,"All Ages",3,"Both",11059.883
+57,"LDI_pc",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",17263.641
+57,"LDI_pc",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",10723.835
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",12373.679
+57,"LDI_pc",4673,"Yucatán",2016,22,"All Ages",3,"Both",13837.617
+57,"LDI_pc",4674,"Zacatecas",2016,22,"All Ages",3,"Both",14858.299
+57,"LDI_pc",130,"Mexico",2017,22,"All Ages",3,"Both",16158.917
+57,"LDI_pc",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",20981.521
+57,"LDI_pc",4644,"Baja California",2017,22,"All Ages",3,"Both",17159.451
+57,"LDI_pc",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",18777.434
+57,"LDI_pc",4646,"Campeche",2017,22,"All Ages",3,"Both",13959.994
+57,"LDI_pc",4647,"Coahuila",2017,22,"All Ages",3,"Both",19064.984
+57,"LDI_pc",4648,"Colima",2017,22,"All Ages",3,"Both",18609.297
+57,"LDI_pc",4649,"Chiapas",2017,22,"All Ages",3,"Both",9966.917
+57,"LDI_pc",4650,"Chihuahua",2017,22,"All Ages",3,"Both",18295.406
+57,"LDI_pc",4651,"Mexico City",2017,22,"All Ages",3,"Both",25808.941
+57,"LDI_pc",4652,"Durango",2017,22,"All Ages",3,"Both",19231.289
+57,"LDI_pc",4653,"Guanajuato",2017,22,"All Ages",3,"Both",18260.471
+57,"LDI_pc",4654,"Guerrero",2017,22,"All Ages",3,"Both",11116.659
+57,"LDI_pc",4655,"Hidalgo",2017,22,"All Ages",3,"Both",11462.516
+57,"LDI_pc",4656,"Jalisco",2017,22,"All Ages",3,"Both",19339.246
+57,"LDI_pc",4657,"México",2017,22,"All Ages",3,"Both",15464.727
+57,"LDI_pc",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",13460.6
+57,"LDI_pc",4659,"Morelos",2017,22,"All Ages",3,"Both",14726.728
+57,"LDI_pc",4660,"Nayarit",2017,22,"All Ages",3,"Both",16011.504
+57,"LDI_pc",4661,"Nuevo León",2017,22,"All Ages",3,"Both",22132.529
+57,"LDI_pc",4662,"Oaxaca",2017,22,"All Ages",3,"Both",9924.8076
+57,"LDI_pc",4663,"Puebla",2017,22,"All Ages",3,"Both",12563.92
+57,"LDI_pc",4664,"Querétaro",2017,22,"All Ages",3,"Both",15645.274
+57,"LDI_pc",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",11780.082
+57,"LDI_pc",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",15106.146
+57,"LDI_pc",4667,"Sinaloa",2017,22,"All Ages",3,"Both",18516.871
+57,"LDI_pc",4668,"Sonora",2017,22,"All Ages",3,"Both",17267.98
+57,"LDI_pc",4669,"Tabasco",2017,22,"All Ages",3,"Both",11192.029
+57,"LDI_pc",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",17408.387
+57,"LDI_pc",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",10824.091
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",12609.864
+57,"LDI_pc",4673,"Yucatán",2017,22,"All Ages",3,"Both",13976.607
+57,"LDI_pc",4674,"Zacatecas",2017,22,"All Ages",3,"Both",15151.461
+57,"LDI_pc",130,"Mexico",2018,22,"All Ages",3,"Both",16387.037
+57,"LDI_pc",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",21216.883
+57,"LDI_pc",4644,"Baja California",2018,22,"All Ages",3,"Both",17243.676
+57,"LDI_pc",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",18889.4
+57,"LDI_pc",4646,"Campeche",2018,22,"All Ages",3,"Both",14097.918
+57,"LDI_pc",4647,"Coahuila",2018,22,"All Ages",3,"Both",19292.318
+57,"LDI_pc",4648,"Colima",2018,22,"All Ages",3,"Both",18833.83
+57,"LDI_pc",4649,"Chiapas",2018,22,"All Ages",3,"Both",10085.114
+57,"LDI_pc",4650,"Chihuahua",2018,22,"All Ages",3,"Both",18494.545
+57,"LDI_pc",4651,"Mexico City",2018,22,"All Ages",3,"Both",26311.984
+57,"LDI_pc",4652,"Durango",2018,22,"All Ages",3,"Both",19567.314
+57,"LDI_pc",4653,"Guanajuato",2018,22,"All Ages",3,"Both",18552.207
+57,"LDI_pc",4654,"Guerrero",2018,22,"All Ages",3,"Both",11333.888
+57,"LDI_pc",4655,"Hidalgo",2018,22,"All Ages",3,"Both",11641.072
+57,"LDI_pc",4656,"Jalisco",2018,22,"All Ages",3,"Both",19624.834
+57,"LDI_pc",4657,"México",2018,22,"All Ages",3,"Both",15648.899
+57,"LDI_pc",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",13703.694
+57,"LDI_pc",4659,"Morelos",2018,22,"All Ages",3,"Both",14920.426
+57,"LDI_pc",4660,"Nayarit",2018,22,"All Ages",3,"Both",16262.987
+57,"LDI_pc",4661,"Nuevo León",2018,22,"All Ages",3,"Both",22362.154
+57,"LDI_pc",4662,"Oaxaca",2018,22,"All Ages",3,"Both",10100.871
+57,"LDI_pc",4663,"Puebla",2018,22,"All Ages",3,"Both",12748.163
+57,"LDI_pc",4664,"Querétaro",2018,22,"All Ages",3,"Both",15798.608
+57,"LDI_pc",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",11788.6
+57,"LDI_pc",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",15378.195
+57,"LDI_pc",4667,"Sinaloa",2018,22,"All Ages",3,"Both",18796.115
+57,"LDI_pc",4668,"Sonora",2018,22,"All Ages",3,"Both",17454.246
+57,"LDI_pc",4669,"Tabasco",2018,22,"All Ages",3,"Both",11339.441
+57,"LDI_pc",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",17588.16
+57,"LDI_pc",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",10944.907
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",12845.679
+57,"LDI_pc",4673,"Yucatán",2018,22,"All Ages",3,"Both",14138.416
+57,"LDI_pc",4674,"Zacatecas",2018,22,"All Ages",3,"Both",15443.722
+57,"LDI_pc",130,"Mexico",2019,22,"All Ages",3,"Both",16652.533
+57,"LDI_pc",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",21512.855
+57,"LDI_pc",4644,"Baja California",2019,22,"All Ages",3,"Both",17400.465
+57,"LDI_pc",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",19078.404
+57,"LDI_pc",4646,"Campeche",2019,22,"All Ages",3,"Both",14280.351
+57,"LDI_pc",4647,"Coahuila",2019,22,"All Ages",3,"Both",19569.91
+57,"LDI_pc",4648,"Colima",2019,22,"All Ages",3,"Both",19107.928
+57,"LDI_pc",4649,"Chiapas",2019,22,"All Ages",3,"Both",10230.263
+57,"LDI_pc",4650,"Chihuahua",2019,22,"All Ages",3,"Both",18747.26
+57,"LDI_pc",4651,"Mexico City",2019,22,"All Ages",3,"Both",26844.381
+57,"LDI_pc",4652,"Durango",2019,22,"All Ages",3,"Both",19932.293
+57,"LDI_pc",4653,"Guanajuato",2019,22,"All Ages",3,"Both",18877.951
+57,"LDI_pc",4654,"Guerrero",2019,22,"All Ages",3,"Both",11564.187
+57,"LDI_pc",4655,"Hidalgo",2019,22,"All Ages",3,"Both",11841.624
+57,"LDI_pc",4656,"Jalisco",2019,22,"All Ages",3,"Both",19950.645
+57,"LDI_pc",4657,"México",2019,22,"All Ages",3,"Both",15875.979
+57,"LDI_pc",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",13965.578
+57,"LDI_pc",4659,"Morelos",2019,22,"All Ages",3,"Both",15149.626
+57,"LDI_pc",4660,"Nayarit",2019,22,"All Ages",3,"Both",16545.617
+57,"LDI_pc",4661,"Nuevo León",2019,22,"All Ages",3,"Both",22657.213
+57,"LDI_pc",4662,"Oaxaca",2019,22,"All Ages",3,"Both",10290.725
+57,"LDI_pc",4663,"Puebla",2019,22,"All Ages",3,"Both",12957.904
+57,"LDI_pc",4664,"Querétaro",2019,22,"All Ages",3,"Both",16002.058
+57,"LDI_pc",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",11858.397
+57,"LDI_pc",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",15672.668
+57,"LDI_pc",4667,"Sinaloa",2019,22,"All Ages",3,"Both",19112.174
+57,"LDI_pc",4668,"Sonora",2019,22,"All Ages",3,"Both",17690.518
+57,"LDI_pc",4669,"Tabasco",2019,22,"All Ages",3,"Both",11514.505
+57,"LDI_pc",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",17820.705
+57,"LDI_pc",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",11097.095
+57,"LDI_pc",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",13097.076
+57,"LDI_pc",4673,"Yucatán",2019,22,"All Ages",3,"Both",14338.457
+57,"LDI_pc",4674,"Zacatecas",2019,22,"All Ages",3,"Both",15754.623

@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+105,"pollution_indoor_total_prev",130,"Mexico",1990,22,"All Ages",3,"Both",0.249308285
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",0.0650351905
+105,"pollution_indoor_total_prev",4644,"Baja California",1990,22,"All Ages",3,"Both",0.0260668665
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",0.102804195
+105,"pollution_indoor_total_prev",4646,"Campeche",1990,22,"All Ages",3,"Both",0.36772345
+105,"pollution_indoor_total_prev",4647,"Coahuila",1990,22,"All Ages",3,"Both",0.0594966115
+105,"pollution_indoor_total_prev",4648,"Colima",1990,22,"All Ages",3,"Both",0.11572912
+105,"pollution_indoor_total_prev",4649,"Chiapas",1990,22,"All Ages",3,"Both",0.693218915
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1990,22,"All Ages",3,"Both",0.157095925
+105,"pollution_indoor_total_prev",4651,"Mexico City",1990,22,"All Ages",3,"Both",0.00987975395
+105,"pollution_indoor_total_prev",4652,"Durango",1990,22,"All Ages",3,"Both",0.21757519
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1990,22,"All Ages",3,"Both",0.22634566
+105,"pollution_indoor_total_prev",4654,"Guerrero",1990,22,"All Ages",3,"Both",0.53556174
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1990,22,"All Ages",3,"Both",0.474600445
+105,"pollution_indoor_total_prev",4656,"Jalisco",1990,22,"All Ages",3,"Both",0.10388252
+105,"pollution_indoor_total_prev",4657,"México",1990,22,"All Ages",3,"Both",0.136676075
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",0.3196402
+105,"pollution_indoor_total_prev",4659,"Morelos",1990,22,"All Ages",3,"Both",0.14129594
+105,"pollution_indoor_total_prev",4660,"Nayarit",1990,22,"All Ages",3,"Both",0.159988685
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1990,22,"All Ages",3,"Both",0.0601986575
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1990,22,"All Ages",3,"Both",0.68734714
+105,"pollution_indoor_total_prev",4663,"Puebla",1990,22,"All Ages",3,"Both",0.434022995
+105,"pollution_indoor_total_prev",4664,"Querétaro",1990,22,"All Ages",3,"Both",0.28953184
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",0.31668286
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",0.436876995
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1990,22,"All Ages",3,"Both",0.16104059
+105,"pollution_indoor_total_prev",4668,"Sonora",1990,22,"All Ages",3,"Both",0.11020025
+105,"pollution_indoor_total_prev",4669,"Tabasco",1990,22,"All Ages",3,"Both",0.356635795
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",0.11780292
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",0.25956352
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",0.393419835
+105,"pollution_indoor_total_prev",4673,"Yucatán",1990,22,"All Ages",3,"Both",0.42407852
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1990,22,"All Ages",3,"Both",0.211923285
+105,"pollution_indoor_total_prev",130,"Mexico",1991,22,"All Ages",3,"Both",0.239040765
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",0.059022326
+105,"pollution_indoor_total_prev",4644,"Baja California",1991,22,"All Ages",3,"Both",0.0239673365
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",0.096999653
+105,"pollution_indoor_total_prev",4646,"Campeche",1991,22,"All Ages",3,"Both",0.35656382
+105,"pollution_indoor_total_prev",4647,"Coahuila",1991,22,"All Ages",3,"Both",0.055259878
+105,"pollution_indoor_total_prev",4648,"Colima",1991,22,"All Ages",3,"Both",0.110819415
+105,"pollution_indoor_total_prev",4649,"Chiapas",1991,22,"All Ages",3,"Both",0.67645735
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1991,22,"All Ages",3,"Both",0.14887163
+105,"pollution_indoor_total_prev",4651,"Mexico City",1991,22,"All Ages",3,"Both",0.00897937595
+105,"pollution_indoor_total_prev",4652,"Durango",1991,22,"All Ages",3,"Both",0.20662153
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1991,22,"All Ages",3,"Both",0.214758695
+105,"pollution_indoor_total_prev",4654,"Guerrero",1991,22,"All Ages",3,"Both",0.516819745
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1991,22,"All Ages",3,"Both",0.451273025
+105,"pollution_indoor_total_prev",4656,"Jalisco",1991,22,"All Ages",3,"Both",0.097487714
+105,"pollution_indoor_total_prev",4657,"México",1991,22,"All Ages",3,"Both",0.127683175
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",0.30375072
+105,"pollution_indoor_total_prev",4659,"Morelos",1991,22,"All Ages",3,"Both",0.134171355
+105,"pollution_indoor_total_prev",4660,"Nayarit",1991,22,"All Ages",3,"Both",0.152867175
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1991,22,"All Ages",3,"Both",0.0556201545
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1991,22,"All Ages",3,"Both",0.6697855
+105,"pollution_indoor_total_prev",4663,"Puebla",1991,22,"All Ages",3,"Both",0.41650492
+105,"pollution_indoor_total_prev",4664,"Querétaro",1991,22,"All Ages",3,"Both",0.274432615
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",0.304052115
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",0.4152201
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1991,22,"All Ages",3,"Both",0.152700455
+105,"pollution_indoor_total_prev",4668,"Sonora",1991,22,"All Ages",3,"Both",0.10356577
+105,"pollution_indoor_total_prev",4669,"Tabasco",1991,22,"All Ages",3,"Both",0.34645647
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",0.111623445
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",0.24200356
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",0.3773379
+105,"pollution_indoor_total_prev",4673,"Yucatán",1991,22,"All Ages",3,"Both",0.41345973
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1991,22,"All Ages",3,"Both",0.19846309
+105,"pollution_indoor_total_prev",130,"Mexico",1992,22,"All Ages",3,"Both",0.229533535
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",0.0539155415
+105,"pollution_indoor_total_prev",4644,"Baja California",1992,22,"All Ages",3,"Both",0.0223753825
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",0.0927862525
+105,"pollution_indoor_total_prev",4646,"Campeche",1992,22,"All Ages",3,"Both",0.348091755
+105,"pollution_indoor_total_prev",4647,"Coahuila",1992,22,"All Ages",3,"Both",0.051428249
+105,"pollution_indoor_total_prev",4648,"Colima",1992,22,"All Ages",3,"Both",0.10731707
+105,"pollution_indoor_total_prev",4649,"Chiapas",1992,22,"All Ages",3,"Both",0.66169676
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1992,22,"All Ages",3,"Both",0.14157804
+105,"pollution_indoor_total_prev",4651,"Mexico City",1992,22,"All Ages",3,"Both",0.00831907615
+105,"pollution_indoor_total_prev",4652,"Durango",1992,22,"All Ages",3,"Both",0.197614785
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1992,22,"All Ages",3,"Both",0.204896695
+105,"pollution_indoor_total_prev",4654,"Guerrero",1992,22,"All Ages",3,"Both",0.5010812
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1992,22,"All Ages",3,"Both",0.42902872
+105,"pollution_indoor_total_prev",4656,"Jalisco",1992,22,"All Ages",3,"Both",0.0924383925
+105,"pollution_indoor_total_prev",4657,"México",1992,22,"All Ages",3,"Both",0.120027855
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",0.289701135
+105,"pollution_indoor_total_prev",4659,"Morelos",1992,22,"All Ages",3,"Both",0.12878032
+105,"pollution_indoor_total_prev",4660,"Nayarit",1992,22,"All Ages",3,"Both",0.14816822
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1992,22,"All Ages",3,"Both",0.0516481845
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1992,22,"All Ages",3,"Both",0.65460086
+105,"pollution_indoor_total_prev",4663,"Puebla",1992,22,"All Ages",3,"Both",0.400413185
+105,"pollution_indoor_total_prev",4664,"Querétaro",1992,22,"All Ages",3,"Both",0.260863765
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",0.29326555
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",0.394946665
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1992,22,"All Ages",3,"Both",0.14633999
+105,"pollution_indoor_total_prev",4668,"Sonora",1992,22,"All Ages",3,"Both",0.0979161225
+105,"pollution_indoor_total_prev",4669,"Tabasco",1992,22,"All Ages",3,"Both",0.340032815
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",0.106571195
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",0.22616524
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",0.36503707
+105,"pollution_indoor_total_prev",4673,"Yucatán",1992,22,"All Ages",3,"Both",0.40534598
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1992,22,"All Ages",3,"Both",0.186194405
+105,"pollution_indoor_total_prev",130,"Mexico",1993,22,"All Ages",3,"Both",0.22197643
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",0.049603475
+105,"pollution_indoor_total_prev",4644,"Baja California",1993,22,"All Ages",3,"Both",0.0209091315
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",0.088975083
+105,"pollution_indoor_total_prev",4646,"Campeche",1993,22,"All Ages",3,"Both",0.339024765
+105,"pollution_indoor_total_prev",4647,"Coahuila",1993,22,"All Ages",3,"Both",0.048089858
+105,"pollution_indoor_total_prev",4648,"Colima",1993,22,"All Ages",3,"Both",0.1053318
+105,"pollution_indoor_total_prev",4649,"Chiapas",1993,22,"All Ages",3,"Both",0.645410985
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1993,22,"All Ages",3,"Both",0.13635066
+105,"pollution_indoor_total_prev",4651,"Mexico City",1993,22,"All Ages",3,"Both",0.0076852061
+105,"pollution_indoor_total_prev",4652,"Durango",1993,22,"All Ages",3,"Both",0.1898423
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1993,22,"All Ages",3,"Both",0.196070995
+105,"pollution_indoor_total_prev",4654,"Guerrero",1993,22,"All Ages",3,"Both",0.48693186
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1993,22,"All Ages",3,"Both",0.40896377
+105,"pollution_indoor_total_prev",4656,"Jalisco",1993,22,"All Ages",3,"Both",0.088871375
+105,"pollution_indoor_total_prev",4657,"México",1993,22,"All Ages",3,"Both",0.11293433
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",0.277553675
+105,"pollution_indoor_total_prev",4659,"Morelos",1993,22,"All Ages",3,"Both",0.12498839
+105,"pollution_indoor_total_prev",4660,"Nayarit",1993,22,"All Ages",3,"Both",0.145216995
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1993,22,"All Ages",3,"Both",0.047804117
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1993,22,"All Ages",3,"Both",0.639857085
+105,"pollution_indoor_total_prev",4663,"Puebla",1993,22,"All Ages",3,"Both",0.386393145
+105,"pollution_indoor_total_prev",4664,"Querétaro",1993,22,"All Ages",3,"Both",0.249319075
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",0.285060585
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",0.376129465
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1993,22,"All Ages",3,"Both",0.142053485
+105,"pollution_indoor_total_prev",4668,"Sonora",1993,22,"All Ages",3,"Both",0.0933350735
+105,"pollution_indoor_total_prev",4669,"Tabasco",1993,22,"All Ages",3,"Both",0.336859225
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",0.102901855
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",0.211364335
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",0.354846685
+105,"pollution_indoor_total_prev",4673,"Yucatán",1993,22,"All Ages",3,"Both",0.398213445
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1993,22,"All Ages",3,"Both",0.1769148
+105,"pollution_indoor_total_prev",130,"Mexico",1994,22,"All Ages",3,"Both",0.2151254
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",0.0455773155
+105,"pollution_indoor_total_prev",4644,"Baja California",1994,22,"All Ages",3,"Both",0.01968501
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",0.085943494
+105,"pollution_indoor_total_prev",4646,"Campeche",1994,22,"All Ages",3,"Both",0.33025582
+105,"pollution_indoor_total_prev",4647,"Coahuila",1994,22,"All Ages",3,"Both",0.045417929
+105,"pollution_indoor_total_prev",4648,"Colima",1994,22,"All Ages",3,"Both",0.104236355
+105,"pollution_indoor_total_prev",4649,"Chiapas",1994,22,"All Ages",3,"Both",0.62859741
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1994,22,"All Ages",3,"Both",0.131034525
+105,"pollution_indoor_total_prev",4651,"Mexico City",1994,22,"All Ages",3,"Both",0.00710678985
+105,"pollution_indoor_total_prev",4652,"Durango",1994,22,"All Ages",3,"Both",0.182492385
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1994,22,"All Ages",3,"Both",0.1883066
+105,"pollution_indoor_total_prev",4654,"Guerrero",1994,22,"All Ages",3,"Both",0.47382416
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1994,22,"All Ages",3,"Both",0.38797465
+105,"pollution_indoor_total_prev",4656,"Jalisco",1994,22,"All Ages",3,"Both",0.085624289
+105,"pollution_indoor_total_prev",4657,"México",1994,22,"All Ages",3,"Both",0.10646428
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",0.266416535
+105,"pollution_indoor_total_prev",4659,"Morelos",1994,22,"All Ages",3,"Both",0.12209573
+105,"pollution_indoor_total_prev",4660,"Nayarit",1994,22,"All Ages",3,"Both",0.1431321
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1994,22,"All Ages",3,"Both",0.044510707
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1994,22,"All Ages",3,"Both",0.622637155
+105,"pollution_indoor_total_prev",4663,"Puebla",1994,22,"All Ages",3,"Both",0.37233524
+105,"pollution_indoor_total_prev",4664,"Querétaro",1994,22,"All Ages",3,"Both",0.239964865
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",0.277917785
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",0.35859013
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1994,22,"All Ages",3,"Both",0.13788339
+105,"pollution_indoor_total_prev",4668,"Sonora",1994,22,"All Ages",3,"Both",0.0890952835
+105,"pollution_indoor_total_prev",4669,"Tabasco",1994,22,"All Ages",3,"Both",0.335126605
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",0.0999299585
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",0.198596595
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",0.34459339
+105,"pollution_indoor_total_prev",4673,"Yucatán",1994,22,"All Ages",3,"Both",0.39169179
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1994,22,"All Ages",3,"Both",0.1679584
+105,"pollution_indoor_total_prev",130,"Mexico",1995,22,"All Ages",3,"Both",0.208207875
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",0.0418112555
+105,"pollution_indoor_total_prev",4644,"Baja California",1995,22,"All Ages",3,"Both",0.0185358385
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",0.0836507755
+105,"pollution_indoor_total_prev",4646,"Campeche",1995,22,"All Ages",3,"Both",0.32559128
+105,"pollution_indoor_total_prev",4647,"Coahuila",1995,22,"All Ages",3,"Both",0.043289449
+105,"pollution_indoor_total_prev",4648,"Colima",1995,22,"All Ages",3,"Both",0.104456845
+105,"pollution_indoor_total_prev",4649,"Chiapas",1995,22,"All Ages",3,"Both",0.60801727
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1995,22,"All Ages",3,"Both",0.12617807
+105,"pollution_indoor_total_prev",4651,"Mexico City",1995,22,"All Ages",3,"Both",0.00655187715
+105,"pollution_indoor_total_prev",4652,"Durango",1995,22,"All Ages",3,"Both",0.1755443
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1995,22,"All Ages",3,"Both",0.181901635
+105,"pollution_indoor_total_prev",4654,"Guerrero",1995,22,"All Ages",3,"Both",0.46126512
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1995,22,"All Ages",3,"Both",0.36839676
+105,"pollution_indoor_total_prev",4656,"Jalisco",1995,22,"All Ages",3,"Both",0.0830641945
+105,"pollution_indoor_total_prev",4657,"México",1995,22,"All Ages",3,"Both",0.100701585
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",0.256457165
+105,"pollution_indoor_total_prev",4659,"Morelos",1995,22,"All Ages",3,"Both",0.121035385
+105,"pollution_indoor_total_prev",4660,"Nayarit",1995,22,"All Ages",3,"Both",0.141792305
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1995,22,"All Ages",3,"Both",0.0414305725
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1995,22,"All Ages",3,"Both",0.603324235
+105,"pollution_indoor_total_prev",4663,"Puebla",1995,22,"All Ages",3,"Both",0.360440135
+105,"pollution_indoor_total_prev",4664,"Querétaro",1995,22,"All Ages",3,"Both",0.23059342
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",0.2709527
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",0.34021397
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1995,22,"All Ages",3,"Both",0.135834665
+105,"pollution_indoor_total_prev",4668,"Sonora",1995,22,"All Ages",3,"Both",0.085333232
+105,"pollution_indoor_total_prev",4669,"Tabasco",1995,22,"All Ages",3,"Both",0.335285765
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",0.0975496805
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",0.1868559
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",0.335481615
+105,"pollution_indoor_total_prev",4673,"Yucatán",1995,22,"All Ages",3,"Both",0.38680132
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1995,22,"All Ages",3,"Both",0.15971487
+105,"pollution_indoor_total_prev",130,"Mexico",1996,22,"All Ages",3,"Both",0.20478364
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",0.0389511195
+105,"pollution_indoor_total_prev",4644,"Baja California",1996,22,"All Ages",3,"Both",0.0177038265
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",0.082418945
+105,"pollution_indoor_total_prev",4646,"Campeche",1996,22,"All Ages",3,"Both",0.32561834
+105,"pollution_indoor_total_prev",4647,"Coahuila",1996,22,"All Ages",3,"Both",0.041554758
+105,"pollution_indoor_total_prev",4648,"Colima",1996,22,"All Ages",3,"Both",0.106106955
+105,"pollution_indoor_total_prev",4649,"Chiapas",1996,22,"All Ages",3,"Both",0.594692855
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1996,22,"All Ages",3,"Both",0.124051225
+105,"pollution_indoor_total_prev",4651,"Mexico City",1996,22,"All Ages",3,"Both",0.00614640675
+105,"pollution_indoor_total_prev",4652,"Durango",1996,22,"All Ages",3,"Both",0.170898415
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1996,22,"All Ages",3,"Both",0.17748329
+105,"pollution_indoor_total_prev",4654,"Guerrero",1996,22,"All Ages",3,"Both",0.45481874
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1996,22,"All Ages",3,"Both",0.35369025
+105,"pollution_indoor_total_prev",4656,"Jalisco",1996,22,"All Ages",3,"Both",0.08193028
+105,"pollution_indoor_total_prev",4657,"México",1996,22,"All Ages",3,"Both",0.0967669525
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",0.25041969
+105,"pollution_indoor_total_prev",4659,"Morelos",1996,22,"All Ages",3,"Both",0.12232449
+105,"pollution_indoor_total_prev",4660,"Nayarit",1996,22,"All Ages",3,"Both",0.144236275
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1996,22,"All Ages",3,"Both",0.0388402365
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1996,22,"All Ages",3,"Both",0.591370225
+105,"pollution_indoor_total_prev",4663,"Puebla",1996,22,"All Ages",3,"Both",0.354866475
+105,"pollution_indoor_total_prev",4664,"Querétaro",1996,22,"All Ages",3,"Both",0.224999185
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",0.268257095
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",0.327022685
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1996,22,"All Ages",3,"Both",0.135504895
+105,"pollution_indoor_total_prev",4668,"Sonora",1996,22,"All Ages",3,"Both",0.083261758
+105,"pollution_indoor_total_prev",4669,"Tabasco",1996,22,"All Ages",3,"Both",0.34135215
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",0.0953439025
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",0.178183405
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",0.33197165
+105,"pollution_indoor_total_prev",4673,"Yucatán",1996,22,"All Ages",3,"Both",0.385071635
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1996,22,"All Ages",3,"Both",0.15489445
+105,"pollution_indoor_total_prev",130,"Mexico",1997,22,"All Ages",3,"Both",0.20079774
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",0.0364552155
+105,"pollution_indoor_total_prev",4644,"Baja California",1997,22,"All Ages",3,"Both",0.017090249
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",0.081965614
+105,"pollution_indoor_total_prev",4646,"Campeche",1997,22,"All Ages",3,"Both",0.32651198
+105,"pollution_indoor_total_prev",4647,"Coahuila",1997,22,"All Ages",3,"Both",0.040455604
+105,"pollution_indoor_total_prev",4648,"Colima",1997,22,"All Ages",3,"Both",0.10875115
+105,"pollution_indoor_total_prev",4649,"Chiapas",1997,22,"All Ages",3,"Both",0.58277005
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1997,22,"All Ages",3,"Both",0.12203577
+105,"pollution_indoor_total_prev",4651,"Mexico City",1997,22,"All Ages",3,"Both",0.0057999925
+105,"pollution_indoor_total_prev",4652,"Durango",1997,22,"All Ages",3,"Both",0.168247655
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1997,22,"All Ages",3,"Both",0.174011825
+105,"pollution_indoor_total_prev",4654,"Guerrero",1997,22,"All Ages",3,"Both",0.44809045
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1997,22,"All Ages",3,"Both",0.34196804
+105,"pollution_indoor_total_prev",4656,"Jalisco",1997,22,"All Ages",3,"Both",0.080910433
+105,"pollution_indoor_total_prev",4657,"México",1997,22,"All Ages",3,"Both",0.093909152
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",0.246554895
+105,"pollution_indoor_total_prev",4659,"Morelos",1997,22,"All Ages",3,"Both",0.12385195
+105,"pollution_indoor_total_prev",4660,"Nayarit",1997,22,"All Ages",3,"Both",0.14735031
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1997,22,"All Ages",3,"Both",0.0368460605
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1997,22,"All Ages",3,"Both",0.58113548
+105,"pollution_indoor_total_prev",4663,"Puebla",1997,22,"All Ages",3,"Both",0.35000156
+105,"pollution_indoor_total_prev",4664,"Querétaro",1997,22,"All Ages",3,"Both",0.220496545
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",0.266608435
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",0.315488545
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1997,22,"All Ages",3,"Both",0.1367891
+105,"pollution_indoor_total_prev",4668,"Sonora",1997,22,"All Ages",3,"Both",0.0819616095
+105,"pollution_indoor_total_prev",4669,"Tabasco",1997,22,"All Ages",3,"Both",0.34645875
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",0.094737366
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",0.170563035
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",0.32898146
+105,"pollution_indoor_total_prev",4673,"Yucatán",1997,22,"All Ages",3,"Both",0.384560645
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1997,22,"All Ages",3,"Both",0.151066905
+105,"pollution_indoor_total_prev",130,"Mexico",1998,22,"All Ages",3,"Both",0.198040425
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",0.034243211
+105,"pollution_indoor_total_prev",4644,"Baja California",1998,22,"All Ages",3,"Both",0.016679278
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",0.0808962065
+105,"pollution_indoor_total_prev",4646,"Campeche",1998,22,"All Ages",3,"Both",0.327388735
+105,"pollution_indoor_total_prev",4647,"Coahuila",1998,22,"All Ages",3,"Both",0.0391477905
+105,"pollution_indoor_total_prev",4648,"Colima",1998,22,"All Ages",3,"Both",0.111006025
+105,"pollution_indoor_total_prev",4649,"Chiapas",1998,22,"All Ages",3,"Both",0.57133177
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1998,22,"All Ages",3,"Both",0.119247105
+105,"pollution_indoor_total_prev",4651,"Mexico City",1998,22,"All Ages",3,"Both",0.00546628165
+105,"pollution_indoor_total_prev",4652,"Durango",1998,22,"All Ages",3,"Both",0.16562788
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1998,22,"All Ages",3,"Both",0.1712469
+105,"pollution_indoor_total_prev",4654,"Guerrero",1998,22,"All Ages",3,"Both",0.444381445
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1998,22,"All Ages",3,"Both",0.33147818
+105,"pollution_indoor_total_prev",4656,"Jalisco",1998,22,"All Ages",3,"Both",0.080724567
+105,"pollution_indoor_total_prev",4657,"México",1998,22,"All Ages",3,"Both",0.091344491
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",0.2423252
+105,"pollution_indoor_total_prev",4659,"Morelos",1998,22,"All Ages",3,"Both",0.12527059
+105,"pollution_indoor_total_prev",4660,"Nayarit",1998,22,"All Ages",3,"Both",0.15004152
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1998,22,"All Ages",3,"Both",0.034972653
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1998,22,"All Ages",3,"Both",0.57136908
+105,"pollution_indoor_total_prev",4663,"Puebla",1998,22,"All Ages",3,"Both",0.34320265
+105,"pollution_indoor_total_prev",4664,"Querétaro",1998,22,"All Ages",3,"Both",0.21495377
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",0.263810575
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",0.304565085
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1998,22,"All Ages",3,"Both",0.13759424
+105,"pollution_indoor_total_prev",4668,"Sonora",1998,22,"All Ages",3,"Both",0.080645226
+105,"pollution_indoor_total_prev",4669,"Tabasco",1998,22,"All Ages",3,"Both",0.352750465
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",0.093835853
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",0.16378973
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",0.326965925
+105,"pollution_indoor_total_prev",4673,"Yucatán",1998,22,"All Ages",3,"Both",0.38447413
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1998,22,"All Ages",3,"Both",0.147654045
+105,"pollution_indoor_total_prev",130,"Mexico",1999,22,"All Ages",3,"Both",0.194098835
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",0.03233327
+105,"pollution_indoor_total_prev",4644,"Baja California",1999,22,"All Ages",3,"Both",0.015876225
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",0.078022722
+105,"pollution_indoor_total_prev",4646,"Campeche",1999,22,"All Ages",3,"Both",0.323716805
+105,"pollution_indoor_total_prev",4647,"Coahuila",1999,22,"All Ages",3,"Both",0.037559079
+105,"pollution_indoor_total_prev",4648,"Colima",1999,22,"All Ages",3,"Both",0.110304275
+105,"pollution_indoor_total_prev",4649,"Chiapas",1999,22,"All Ages",3,"Both",0.55868483
+105,"pollution_indoor_total_prev",4650,"Chihuahua",1999,22,"All Ages",3,"Both",0.11495909
+105,"pollution_indoor_total_prev",4651,"Mexico City",1999,22,"All Ages",3,"Both",0.0051335299
+105,"pollution_indoor_total_prev",4652,"Durango",1999,22,"All Ages",3,"Both",0.16152394
+105,"pollution_indoor_total_prev",4653,"Guanajuato",1999,22,"All Ages",3,"Both",0.166441435
+105,"pollution_indoor_total_prev",4654,"Guerrero",1999,22,"All Ages",3,"Both",0.437309265
+105,"pollution_indoor_total_prev",4655,"Hidalgo",1999,22,"All Ages",3,"Both",0.321373965
+105,"pollution_indoor_total_prev",4656,"Jalisco",1999,22,"All Ages",3,"Both",0.0790046785
+105,"pollution_indoor_total_prev",4657,"México",1999,22,"All Ages",3,"Both",0.0888974815
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",0.236697365
+105,"pollution_indoor_total_prev",4659,"Morelos",1999,22,"All Ages",3,"Both",0.12474647
+105,"pollution_indoor_total_prev",4660,"Nayarit",1999,22,"All Ages",3,"Both",0.14987578
+105,"pollution_indoor_total_prev",4661,"Nuevo León",1999,22,"All Ages",3,"Both",0.033491753
+105,"pollution_indoor_total_prev",4662,"Oaxaca",1999,22,"All Ages",3,"Both",0.55983943
+105,"pollution_indoor_total_prev",4663,"Puebla",1999,22,"All Ages",3,"Both",0.335905615
+105,"pollution_indoor_total_prev",4664,"Querétaro",1999,22,"All Ages",3,"Both",0.207899645
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",0.258346395
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",0.29407978
+105,"pollution_indoor_total_prev",4667,"Sinaloa",1999,22,"All Ages",3,"Both",0.13478864
+105,"pollution_indoor_total_prev",4668,"Sonora",1999,22,"All Ages",3,"Both",0.077955663
+105,"pollution_indoor_total_prev",4669,"Tabasco",1999,22,"All Ages",3,"Both",0.352050335
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",0.0914126
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",0.157382735
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",0.32293679
+105,"pollution_indoor_total_prev",4673,"Yucatán",1999,22,"All Ages",3,"Both",0.37960404
+105,"pollution_indoor_total_prev",4674,"Zacatecas",1999,22,"All Ages",3,"Both",0.14342982
+105,"pollution_indoor_total_prev",130,"Mexico",2000,22,"All Ages",3,"Both",0.187674685
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",0.030638923
+105,"pollution_indoor_total_prev",4644,"Baja California",2000,22,"All Ages",3,"Both",0.015104349
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",0.0737263675
+105,"pollution_indoor_total_prev",4646,"Campeche",2000,22,"All Ages",3,"Both",0.31669615
+105,"pollution_indoor_total_prev",4647,"Coahuila",2000,22,"All Ages",3,"Both",0.035323091
+105,"pollution_indoor_total_prev",4648,"Colima",2000,22,"All Ages",3,"Both",0.107323955
+105,"pollution_indoor_total_prev",4649,"Chiapas",2000,22,"All Ages",3,"Both",0.544064345
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2000,22,"All Ages",3,"Both",0.108928525
+105,"pollution_indoor_total_prev",4651,"Mexico City",2000,22,"All Ages",3,"Both",0.0047722883
+105,"pollution_indoor_total_prev",4652,"Durango",2000,22,"All Ages",3,"Both",0.155044515
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2000,22,"All Ages",3,"Both",0.159664045
+105,"pollution_indoor_total_prev",4654,"Guerrero",2000,22,"All Ages",3,"Both",0.42567991
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2000,22,"All Ages",3,"Both",0.308149915
+105,"pollution_indoor_total_prev",4656,"Jalisco",2000,22,"All Ages",3,"Both",0.075877745
+105,"pollution_indoor_total_prev",4657,"México",2000,22,"All Ages",3,"Both",0.0847965405
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",0.229357315
+105,"pollution_indoor_total_prev",4659,"Morelos",2000,22,"All Ages",3,"Both",0.12162312
+105,"pollution_indoor_total_prev",4660,"Nayarit",2000,22,"All Ages",3,"Both",0.146424665
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2000,22,"All Ages",3,"Both",0.0315470155
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2000,22,"All Ages",3,"Both",0.54494387
+105,"pollution_indoor_total_prev",4663,"Puebla",2000,22,"All Ages",3,"Both",0.325155955
+105,"pollution_indoor_total_prev",4664,"Querétaro",2000,22,"All Ages",3,"Both",0.197650495
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",0.24818577
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",0.281085115
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2000,22,"All Ages",3,"Both",0.13007857
+105,"pollution_indoor_total_prev",4668,"Sonora",2000,22,"All Ages",3,"Both",0.0743499175
+105,"pollution_indoor_total_prev",4669,"Tabasco",2000,22,"All Ages",3,"Both",0.34532575
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",0.0864809825
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",0.14896068
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",0.315038725
+105,"pollution_indoor_total_prev",4673,"Yucatán",2000,22,"All Ages",3,"Both",0.370373875
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2000,22,"All Ages",3,"Both",0.137018195
+105,"pollution_indoor_total_prev",130,"Mexico",2001,22,"All Ages",3,"Both",0.178062975
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",0.0288390985
+105,"pollution_indoor_total_prev",4644,"Baja California",2001,22,"All Ages",3,"Both",0.0139647185
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",0.0680969875
+105,"pollution_indoor_total_prev",4646,"Campeche",2001,22,"All Ages",3,"Both",0.301609905
+105,"pollution_indoor_total_prev",4647,"Coahuila",2001,22,"All Ages",3,"Both",0.03289962
+105,"pollution_indoor_total_prev",4648,"Colima",2001,22,"All Ages",3,"Both",0.1013497
+105,"pollution_indoor_total_prev",4649,"Chiapas",2001,22,"All Ages",3,"Both",0.51967016
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2001,22,"All Ages",3,"Both",0.10090652
+105,"pollution_indoor_total_prev",4651,"Mexico City",2001,22,"All Ages",3,"Both",0.00441882365
+105,"pollution_indoor_total_prev",4652,"Durango",2001,22,"All Ages",3,"Both",0.14666194
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2001,22,"All Ages",3,"Both",0.14971818
+105,"pollution_indoor_total_prev",4654,"Guerrero",2001,22,"All Ages",3,"Both",0.40675931
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2001,22,"All Ages",3,"Both",0.29144375
+105,"pollution_indoor_total_prev",4656,"Jalisco",2001,22,"All Ages",3,"Both",0.071168456
+105,"pollution_indoor_total_prev",4657,"México",2001,22,"All Ages",3,"Both",0.0794906205
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",0.21840193
+105,"pollution_indoor_total_prev",4659,"Morelos",2001,22,"All Ages",3,"Both",0.11541005
+105,"pollution_indoor_total_prev",4660,"Nayarit",2001,22,"All Ages",3,"Both",0.139146995
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2001,22,"All Ages",3,"Both",0.029524195
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2001,22,"All Ages",3,"Both",0.51926893
+105,"pollution_indoor_total_prev",4663,"Puebla",2001,22,"All Ages",3,"Both",0.305122825
+105,"pollution_indoor_total_prev",4664,"Querétaro",2001,22,"All Ages",3,"Both",0.182753105
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",0.23185267
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",0.26535873
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2001,22,"All Ages",3,"Both",0.120432985
+105,"pollution_indoor_total_prev",4668,"Sonora",2001,22,"All Ages",3,"Both",0.0695516765
+105,"pollution_indoor_total_prev",4669,"Tabasco",2001,22,"All Ages",3,"Both",0.32969904
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",0.0795691945
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",0.139493215
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",0.30113189
+105,"pollution_indoor_total_prev",4673,"Yucatán",2001,22,"All Ages",3,"Both",0.352918
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2001,22,"All Ages",3,"Both",0.128784865
+105,"pollution_indoor_total_prev",130,"Mexico",2002,22,"All Ages",3,"Both",0.169797355
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",0.027636492
+105,"pollution_indoor_total_prev",4644,"Baja California",2002,22,"All Ages",3,"Both",0.0128911955
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",0.0627709405
+105,"pollution_indoor_total_prev",4646,"Campeche",2002,22,"All Ages",3,"Both",0.287277315
+105,"pollution_indoor_total_prev",4647,"Coahuila",2002,22,"All Ages",3,"Both",0.0306298095
+105,"pollution_indoor_total_prev",4648,"Colima",2002,22,"All Ages",3,"Both",0.095576946
+105,"pollution_indoor_total_prev",4649,"Chiapas",2002,22,"All Ages",3,"Both",0.498193175
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2002,22,"All Ages",3,"Both",0.093147047
+105,"pollution_indoor_total_prev",4651,"Mexico City",2002,22,"All Ages",3,"Both",0.0041368594
+105,"pollution_indoor_total_prev",4652,"Durango",2002,22,"All Ages",3,"Both",0.138446435
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2002,22,"All Ages",3,"Both",0.14063796
+105,"pollution_indoor_total_prev",4654,"Guerrero",2002,22,"All Ages",3,"Both",0.390022695
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2002,22,"All Ages",3,"Both",0.277245985
+105,"pollution_indoor_total_prev",4656,"Jalisco",2002,22,"All Ages",3,"Both",0.0673009195
+105,"pollution_indoor_total_prev",4657,"México",2002,22,"All Ages",3,"Both",0.0756025015
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",0.209373945
+105,"pollution_indoor_total_prev",4659,"Morelos",2002,22,"All Ages",3,"Both",0.11044457
+105,"pollution_indoor_total_prev",4660,"Nayarit",2002,22,"All Ages",3,"Both",0.13299887
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2002,22,"All Ages",3,"Both",0.0272685815
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2002,22,"All Ages",3,"Both",0.49832231
+105,"pollution_indoor_total_prev",4663,"Puebla",2002,22,"All Ages",3,"Both",0.289417475
+105,"pollution_indoor_total_prev",4664,"Querétaro",2002,22,"All Ages",3,"Both",0.16927085
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",0.21626442
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",0.25125447
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2002,22,"All Ages",3,"Both",0.11297977
+105,"pollution_indoor_total_prev",4668,"Sonora",2002,22,"All Ages",3,"Both",0.065754544
+105,"pollution_indoor_total_prev",4669,"Tabasco",2002,22,"All Ages",3,"Both",0.314309345
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",0.073511608
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",0.13185849
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",0.289126275
+105,"pollution_indoor_total_prev",4673,"Yucatán",2002,22,"All Ages",3,"Both",0.33582537
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2002,22,"All Ages",3,"Both",0.12206091
+105,"pollution_indoor_total_prev",130,"Mexico",2003,22,"All Ages",3,"Both",0.163876385
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",0.0272452505
+105,"pollution_indoor_total_prev",4644,"Baja California",2003,22,"All Ages",3,"Both",0.011917176
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",0.0588738565
+105,"pollution_indoor_total_prev",4646,"Campeche",2003,22,"All Ages",3,"Both",0.27881834
+105,"pollution_indoor_total_prev",4647,"Coahuila",2003,22,"All Ages",3,"Both",0.0289123375
+105,"pollution_indoor_total_prev",4648,"Colima",2003,22,"All Ages",3,"Both",0.0914322025
+105,"pollution_indoor_total_prev",4649,"Chiapas",2003,22,"All Ages",3,"Both",0.482244655
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2003,22,"All Ages",3,"Both",0.087566275
+105,"pollution_indoor_total_prev",4651,"Mexico City",2003,22,"All Ages",3,"Both",0.0039566462
+105,"pollution_indoor_total_prev",4652,"Durango",2003,22,"All Ages",3,"Both",0.133987075
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2003,22,"All Ages",3,"Both",0.13364208
+105,"pollution_indoor_total_prev",4654,"Guerrero",2003,22,"All Ages",3,"Both",0.381413225
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2003,22,"All Ages",3,"Both",0.26916462
+105,"pollution_indoor_total_prev",4656,"Jalisco",2003,22,"All Ages",3,"Both",0.0645509065
+105,"pollution_indoor_total_prev",4657,"México",2003,22,"All Ages",3,"Both",0.0733976365
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",0.204428055
+105,"pollution_indoor_total_prev",4659,"Morelos",2003,22,"All Ages",3,"Both",0.10665874
+105,"pollution_indoor_total_prev",4660,"Nayarit",2003,22,"All Ages",3,"Both",0.12881798
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2003,22,"All Ages",3,"Both",0.025785733
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2003,22,"All Ages",3,"Both",0.48425919
+105,"pollution_indoor_total_prev",4663,"Puebla",2003,22,"All Ages",3,"Both",0.27946201
+105,"pollution_indoor_total_prev",4664,"Querétaro",2003,22,"All Ages",3,"Both",0.159522995
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",0.20527739
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",0.242364435
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2003,22,"All Ages",3,"Both",0.10786447
+105,"pollution_indoor_total_prev",4668,"Sonora",2003,22,"All Ages",3,"Both",0.063122824
+105,"pollution_indoor_total_prev",4669,"Tabasco",2003,22,"All Ages",3,"Both",0.305724485
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",0.0692414045
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",0.12697369
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",0.283358215
+105,"pollution_indoor_total_prev",4673,"Yucatán",2003,22,"All Ages",3,"Both",0.326251895
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2003,22,"All Ages",3,"Both",0.11767134
+105,"pollution_indoor_total_prev",130,"Mexico",2004,22,"All Ages",3,"Both",0.160799
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",0.0269259605
+105,"pollution_indoor_total_prev",4644,"Baja California",2004,22,"All Ages",3,"Both",0.0112740805
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",0.055723263
+105,"pollution_indoor_total_prev",4646,"Campeche",2004,22,"All Ages",3,"Both",0.271779165
+105,"pollution_indoor_total_prev",4647,"Coahuila",2004,22,"All Ages",3,"Both",0.028018106
+105,"pollution_indoor_total_prev",4648,"Colima",2004,22,"All Ages",3,"Both",0.0884700415
+105,"pollution_indoor_total_prev",4649,"Chiapas",2004,22,"All Ages",3,"Both",0.476482705
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2004,22,"All Ages",3,"Both",0.0835314765
+105,"pollution_indoor_total_prev",4651,"Mexico City",2004,22,"All Ages",3,"Both",0.00381442625
+105,"pollution_indoor_total_prev",4652,"Durango",2004,22,"All Ages",3,"Both",0.13090062
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2004,22,"All Ages",3,"Both",0.129028325
+105,"pollution_indoor_total_prev",4654,"Guerrero",2004,22,"All Ages",3,"Both",0.37700744
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2004,22,"All Ages",3,"Both",0.26498042
+105,"pollution_indoor_total_prev",4656,"Jalisco",2004,22,"All Ages",3,"Both",0.0629303715
+105,"pollution_indoor_total_prev",4657,"México",2004,22,"All Ages",3,"Both",0.07214915
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",0.202055435
+105,"pollution_indoor_total_prev",4659,"Morelos",2004,22,"All Ages",3,"Both",0.10479322
+105,"pollution_indoor_total_prev",4660,"Nayarit",2004,22,"All Ages",3,"Both",0.12670748
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2004,22,"All Ages",3,"Both",0.0249192975
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2004,22,"All Ages",3,"Both",0.477246315
+105,"pollution_indoor_total_prev",4663,"Puebla",2004,22,"All Ages",3,"Both",0.27300943
+105,"pollution_indoor_total_prev",4664,"Querétaro",2004,22,"All Ages",3,"Both",0.151241285
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",0.1964171
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",0.237065375
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2004,22,"All Ages",3,"Both",0.103854545
+105,"pollution_indoor_total_prev",4668,"Sonora",2004,22,"All Ages",3,"Both",0.061350409
+105,"pollution_indoor_total_prev",4669,"Tabasco",2004,22,"All Ages",3,"Both",0.298225535
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",0.065592747
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",0.12399461
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",0.2805517
+105,"pollution_indoor_total_prev",4673,"Yucatán",2004,22,"All Ages",3,"Both",0.319892615
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2004,22,"All Ages",3,"Both",0.11525806
+105,"pollution_indoor_total_prev",130,"Mexico",2005,22,"All Ages",3,"Both",0.15947673
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",0.0267237575
+105,"pollution_indoor_total_prev",4644,"Baja California",2005,22,"All Ages",3,"Both",0.010731324
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",0.053157382
+105,"pollution_indoor_total_prev",4646,"Campeche",2005,22,"All Ages",3,"Both",0.268166095
+105,"pollution_indoor_total_prev",4647,"Coahuila",2005,22,"All Ages",3,"Both",0.027195638
+105,"pollution_indoor_total_prev",4648,"Colima",2005,22,"All Ages",3,"Both",0.086577546
+105,"pollution_indoor_total_prev",4649,"Chiapas",2005,22,"All Ages",3,"Both",0.47369866
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2005,22,"All Ages",3,"Both",0.0803194535
+105,"pollution_indoor_total_prev",4651,"Mexico City",2005,22,"All Ages",3,"Both",0.00370663835
+105,"pollution_indoor_total_prev",4652,"Durango",2005,22,"All Ages",3,"Both",0.12885443
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2005,22,"All Ages",3,"Both",0.125497205
+105,"pollution_indoor_total_prev",4654,"Guerrero",2005,22,"All Ages",3,"Both",0.377480715
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2005,22,"All Ages",3,"Both",0.26332389
+105,"pollution_indoor_total_prev",4656,"Jalisco",2005,22,"All Ages",3,"Both",0.0615394785
+105,"pollution_indoor_total_prev",4657,"México",2005,22,"All Ages",3,"Both",0.0714248305
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",0.20320641
+105,"pollution_indoor_total_prev",4659,"Morelos",2005,22,"All Ages",3,"Both",0.103671635
+105,"pollution_indoor_total_prev",4660,"Nayarit",2005,22,"All Ages",3,"Both",0.12536464
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2005,22,"All Ages",3,"Both",0.024227636
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2005,22,"All Ages",3,"Both",0.47451234
+105,"pollution_indoor_total_prev",4663,"Puebla",2005,22,"All Ages",3,"Both",0.26845394
+105,"pollution_indoor_total_prev",4664,"Querétaro",2005,22,"All Ages",3,"Both",0.14478303
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",0.187982755
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",0.23433388
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2005,22,"All Ages",3,"Both",0.10081387
+105,"pollution_indoor_total_prev",4668,"Sonora",2005,22,"All Ages",3,"Both",0.0596478355
+105,"pollution_indoor_total_prev",4669,"Tabasco",2005,22,"All Ages",3,"Both",0.29588297
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",0.062814232
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",0.122622785
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",0.28026494
+105,"pollution_indoor_total_prev",4673,"Yucatán",2005,22,"All Ages",3,"Both",0.31602135
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2005,22,"All Ages",3,"Both",0.11410855
+105,"pollution_indoor_total_prev",130,"Mexico",2006,22,"All Ages",3,"Both",0.15831914
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",0.0268918425
+105,"pollution_indoor_total_prev",4644,"Baja California",2006,22,"All Ages",3,"Both",0.010327996
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",0.0512444225
+105,"pollution_indoor_total_prev",4646,"Campeche",2006,22,"All Ages",3,"Both",0.265473815
+105,"pollution_indoor_total_prev",4647,"Coahuila",2006,22,"All Ages",3,"Both",0.0267312685
+105,"pollution_indoor_total_prev",4648,"Colima",2006,22,"All Ages",3,"Both",0.0848699695
+105,"pollution_indoor_total_prev",4649,"Chiapas",2006,22,"All Ages",3,"Both",0.47526045
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2006,22,"All Ages",3,"Both",0.0780124925
+105,"pollution_indoor_total_prev",4651,"Mexico City",2006,22,"All Ages",3,"Both",0.00361185055
+105,"pollution_indoor_total_prev",4652,"Durango",2006,22,"All Ages",3,"Both",0.12798194
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2006,22,"All Ages",3,"Both",0.123232465
+105,"pollution_indoor_total_prev",4654,"Guerrero",2006,22,"All Ages",3,"Both",0.38038628
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2006,22,"All Ages",3,"Both",0.26387319
+105,"pollution_indoor_total_prev",4656,"Jalisco",2006,22,"All Ages",3,"Both",0.0610755905
+105,"pollution_indoor_total_prev",4657,"México",2006,22,"All Ages",3,"Both",0.07079187
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",0.204600425
+105,"pollution_indoor_total_prev",4659,"Morelos",2006,22,"All Ages",3,"Both",0.10308454
+105,"pollution_indoor_total_prev",4660,"Nayarit",2006,22,"All Ages",3,"Both",0.12449794
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2006,22,"All Ages",3,"Both",0.023811346
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2006,22,"All Ages",3,"Both",0.475535885
+105,"pollution_indoor_total_prev",4663,"Puebla",2006,22,"All Ages",3,"Both",0.26680532
+105,"pollution_indoor_total_prev",4664,"Querétaro",2006,22,"All Ages",3,"Both",0.14039418
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",0.183527005
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",0.23318738
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2006,22,"All Ages",3,"Both",0.099179681
+105,"pollution_indoor_total_prev",4668,"Sonora",2006,22,"All Ages",3,"Both",0.0586297305
+105,"pollution_indoor_total_prev",4669,"Tabasco",2006,22,"All Ages",3,"Both",0.29440455
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",0.0609009045
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",0.122253605
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",0.28207232
+105,"pollution_indoor_total_prev",4673,"Yucatán",2006,22,"All Ages",3,"Both",0.315959115
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2006,22,"All Ages",3,"Both",0.113178865
+105,"pollution_indoor_total_prev",130,"Mexico",2007,22,"All Ages",3,"Both",0.15755058
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",0.027110326
+105,"pollution_indoor_total_prev",4644,"Baja California",2007,22,"All Ages",3,"Both",0.010110256
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",0.0495769545
+105,"pollution_indoor_total_prev",4646,"Campeche",2007,22,"All Ages",3,"Both",0.263794105
+105,"pollution_indoor_total_prev",4647,"Coahuila",2007,22,"All Ages",3,"Both",0.0262787355
+105,"pollution_indoor_total_prev",4648,"Colima",2007,22,"All Ages",3,"Both",0.0837490525
+105,"pollution_indoor_total_prev",4649,"Chiapas",2007,22,"All Ages",3,"Both",0.477039335
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2007,22,"All Ages",3,"Both",0.0759284455
+105,"pollution_indoor_total_prev",4651,"Mexico City",2007,22,"All Ages",3,"Both",0.003559964
+105,"pollution_indoor_total_prev",4652,"Durango",2007,22,"All Ages",3,"Both",0.12803037
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2007,22,"All Ages",3,"Both",0.121175895
+105,"pollution_indoor_total_prev",4654,"Guerrero",2007,22,"All Ages",3,"Both",0.38454843
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2007,22,"All Ages",3,"Both",0.26438083
+105,"pollution_indoor_total_prev",4656,"Jalisco",2007,22,"All Ages",3,"Both",0.0603665375
+105,"pollution_indoor_total_prev",4657,"México",2007,22,"All Ages",3,"Both",0.0702810285
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",0.206407985
+105,"pollution_indoor_total_prev",4659,"Morelos",2007,22,"All Ages",3,"Both",0.103435225
+105,"pollution_indoor_total_prev",4660,"Nayarit",2007,22,"All Ages",3,"Both",0.123350085
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2007,22,"All Ages",3,"Both",0.023532489
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2007,22,"All Ages",3,"Both",0.47845738
+105,"pollution_indoor_total_prev",4663,"Puebla",2007,22,"All Ages",3,"Both",0.26416373
+105,"pollution_indoor_total_prev",4664,"Querétaro",2007,22,"All Ages",3,"Both",0.137128585
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",0.17868418
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",0.232578695
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2007,22,"All Ages",3,"Both",0.0969980765
+105,"pollution_indoor_total_prev",4668,"Sonora",2007,22,"All Ages",3,"Both",0.057172386
+105,"pollution_indoor_total_prev",4669,"Tabasco",2007,22,"All Ages",3,"Both",0.29354812
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",0.0585684255
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",0.12234079
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",0.2837753
+105,"pollution_indoor_total_prev",4673,"Yucatán",2007,22,"All Ages",3,"Both",0.315878835
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2007,22,"All Ages",3,"Both",0.112958405
+105,"pollution_indoor_total_prev",130,"Mexico",2008,22,"All Ages",3,"Both",0.157483035
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",0.0277065995
+105,"pollution_indoor_total_prev",4644,"Baja California",2008,22,"All Ages",3,"Both",0.0098898844
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",0.047908446
+105,"pollution_indoor_total_prev",4646,"Campeche",2008,22,"All Ages",3,"Both",0.263146085
+105,"pollution_indoor_total_prev",4647,"Coahuila",2008,22,"All Ages",3,"Both",0.0256780245
+105,"pollution_indoor_total_prev",4648,"Colima",2008,22,"All Ages",3,"Both",0.082832679
+105,"pollution_indoor_total_prev",4649,"Chiapas",2008,22,"All Ages",3,"Both",0.481278005
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2008,22,"All Ages",3,"Both",0.074056119
+105,"pollution_indoor_total_prev",4651,"Mexico City",2008,22,"All Ages",3,"Both",0.0034738765
+105,"pollution_indoor_total_prev",4652,"Durango",2008,22,"All Ages",3,"Both",0.12813454
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2008,22,"All Ages",3,"Both",0.11919729
+105,"pollution_indoor_total_prev",4654,"Guerrero",2008,22,"All Ages",3,"Both",0.38857883
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2008,22,"All Ages",3,"Both",0.26480754
+105,"pollution_indoor_total_prev",4656,"Jalisco",2008,22,"All Ages",3,"Both",0.059415402
+105,"pollution_indoor_total_prev",4657,"México",2008,22,"All Ages",3,"Both",0.0699539405
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",0.20938351
+105,"pollution_indoor_total_prev",4659,"Morelos",2008,22,"All Ages",3,"Both",0.102979135
+105,"pollution_indoor_total_prev",4660,"Nayarit",2008,22,"All Ages",3,"Both",0.121874905
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2008,22,"All Ages",3,"Both",0.0232098565
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2008,22,"All Ages",3,"Both",0.482660215
+105,"pollution_indoor_total_prev",4663,"Puebla",2008,22,"All Ages",3,"Both",0.261594905
+105,"pollution_indoor_total_prev",4664,"Querétaro",2008,22,"All Ages",3,"Both",0.133170115
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",0.17476284
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",0.23256344
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2008,22,"All Ages",3,"Both",0.0950715135
+105,"pollution_indoor_total_prev",4668,"Sonora",2008,22,"All Ages",3,"Both",0.05656212
+105,"pollution_indoor_total_prev",4669,"Tabasco",2008,22,"All Ages",3,"Both",0.290349575
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",0.0564426895
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",0.12202684
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",0.285616635
+105,"pollution_indoor_total_prev",4673,"Yucatán",2008,22,"All Ages",3,"Both",0.31449285
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2008,22,"All Ages",3,"Both",0.112590995
+105,"pollution_indoor_total_prev",130,"Mexico",2009,22,"All Ages",3,"Both",0.1562533
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",0.02772637
+105,"pollution_indoor_total_prev",4644,"Baja California",2009,22,"All Ages",3,"Both",0.0096505769
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",0.046685962
+105,"pollution_indoor_total_prev",4646,"Campeche",2009,22,"All Ages",3,"Both",0.26029168
+105,"pollution_indoor_total_prev",4647,"Coahuila",2009,22,"All Ages",3,"Both",0.0250982725
+105,"pollution_indoor_total_prev",4648,"Colima",2009,22,"All Ages",3,"Both",0.0813526545
+105,"pollution_indoor_total_prev",4649,"Chiapas",2009,22,"All Ages",3,"Both",0.48499182
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2009,22,"All Ages",3,"Both",0.072292119
+105,"pollution_indoor_total_prev",4651,"Mexico City",2009,22,"All Ages",3,"Both",0.003352066
+105,"pollution_indoor_total_prev",4652,"Durango",2009,22,"All Ages",3,"Both",0.12707139
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2009,22,"All Ages",3,"Both",0.116527405
+105,"pollution_indoor_total_prev",4654,"Guerrero",2009,22,"All Ages",3,"Both",0.39280361
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2009,22,"All Ages",3,"Both",0.26348816
+105,"pollution_indoor_total_prev",4656,"Jalisco",2009,22,"All Ages",3,"Both",0.05791565
+105,"pollution_indoor_total_prev",4657,"México",2009,22,"All Ages",3,"Both",0.069482729
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",0.211194305
+105,"pollution_indoor_total_prev",4659,"Morelos",2009,22,"All Ages",3,"Both",0.102474165
+105,"pollution_indoor_total_prev",4660,"Nayarit",2009,22,"All Ages",3,"Both",0.12025916
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2009,22,"All Ages",3,"Both",0.022750401
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2009,22,"All Ages",3,"Both",0.48666729
+105,"pollution_indoor_total_prev",4663,"Puebla",2009,22,"All Ages",3,"Both",0.260826705
+105,"pollution_indoor_total_prev",4664,"Querétaro",2009,22,"All Ages",3,"Both",0.1291207
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",0.16889643
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",0.22863275
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2009,22,"All Ages",3,"Both",0.0927752035
+105,"pollution_indoor_total_prev",4668,"Sonora",2009,22,"All Ages",3,"Both",0.055719286
+105,"pollution_indoor_total_prev",4669,"Tabasco",2009,22,"All Ages",3,"Both",0.287377255
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",0.0552260395
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",0.120978965
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",0.2856075
+105,"pollution_indoor_total_prev",4673,"Yucatán",2009,22,"All Ages",3,"Both",0.311999395
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2009,22,"All Ages",3,"Both",0.111989255
+105,"pollution_indoor_total_prev",130,"Mexico",2010,22,"All Ages",3,"Both",0.153846435
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",0.027548394
+105,"pollution_indoor_total_prev",4644,"Baja California",2010,22,"All Ages",3,"Both",0.0094416905
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",0.0446596295
+105,"pollution_indoor_total_prev",4646,"Campeche",2010,22,"All Ages",3,"Both",0.25629604
+105,"pollution_indoor_total_prev",4647,"Coahuila",2010,22,"All Ages",3,"Both",0.02474086
+105,"pollution_indoor_total_prev",4648,"Colima",2010,22,"All Ages",3,"Both",0.0794476645
+105,"pollution_indoor_total_prev",4649,"Chiapas",2010,22,"All Ages",3,"Both",0.48492068
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2010,22,"All Ages",3,"Both",0.0694703235
+105,"pollution_indoor_total_prev",4651,"Mexico City",2010,22,"All Ages",3,"Both",0.00326696555
+105,"pollution_indoor_total_prev",4652,"Durango",2010,22,"All Ages",3,"Both",0.12439431
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2010,22,"All Ages",3,"Both",0.113170615
+105,"pollution_indoor_total_prev",4654,"Guerrero",2010,22,"All Ages",3,"Both",0.3940956
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2010,22,"All Ages",3,"Both",0.259461685
+105,"pollution_indoor_total_prev",4656,"Jalisco",2010,22,"All Ages",3,"Both",0.0562483145
+105,"pollution_indoor_total_prev",4657,"México",2010,22,"All Ages",3,"Both",0.067803029
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",0.21103794
+105,"pollution_indoor_total_prev",4659,"Morelos",2010,22,"All Ages",3,"Both",0.10101022
+105,"pollution_indoor_total_prev",4660,"Nayarit",2010,22,"All Ages",3,"Both",0.118053195
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2010,22,"All Ages",3,"Both",0.022353643
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2010,22,"All Ages",3,"Both",0.487552495
+105,"pollution_indoor_total_prev",4663,"Puebla",2010,22,"All Ages",3,"Both",0.25680815
+105,"pollution_indoor_total_prev",4664,"Querétaro",2010,22,"All Ages",3,"Both",0.123699465
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",0.16316017
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",0.22529772
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2010,22,"All Ages",3,"Both",0.090551913
+105,"pollution_indoor_total_prev",4668,"Sonora",2010,22,"All Ages",3,"Both",0.0541823305
+105,"pollution_indoor_total_prev",4669,"Tabasco",2010,22,"All Ages",3,"Both",0.28144133
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",0.0537484865
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",0.119464965
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",0.28279945
+105,"pollution_indoor_total_prev",4673,"Yucatán",2010,22,"All Ages",3,"Both",0.30494067
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2010,22,"All Ages",3,"Both",0.11021255
+105,"pollution_indoor_total_prev",130,"Mexico",2011,22,"All Ages",3,"Both",0.145947175
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",0.025844332
+105,"pollution_indoor_total_prev",4644,"Baja California",2011,22,"All Ages",3,"Both",0.0088893962
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",0.040854175
+105,"pollution_indoor_total_prev",4646,"Campeche",2011,22,"All Ages",3,"Both",0.238933735
+105,"pollution_indoor_total_prev",4647,"Coahuila",2011,22,"All Ages",3,"Both",0.022812317
+105,"pollution_indoor_total_prev",4648,"Colima",2011,22,"All Ages",3,"Both",0.073644366
+105,"pollution_indoor_total_prev",4649,"Chiapas",2011,22,"All Ages",3,"Both",0.46797535
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2011,22,"All Ages",3,"Both",0.0654528925
+105,"pollution_indoor_total_prev",4651,"Mexico City",2011,22,"All Ages",3,"Both",0.0030310397
+105,"pollution_indoor_total_prev",4652,"Durango",2011,22,"All Ages",3,"Both",0.11597377
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2011,22,"All Ages",3,"Both",0.10507681
+105,"pollution_indoor_total_prev",4654,"Guerrero",2011,22,"All Ages",3,"Both",0.377930075
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2011,22,"All Ages",3,"Both",0.244763525
+105,"pollution_indoor_total_prev",4656,"Jalisco",2011,22,"All Ages",3,"Both",0.0521575155
+105,"pollution_indoor_total_prev",4657,"México",2011,22,"All Ages",3,"Both",0.0631035235
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",0.19870458
+105,"pollution_indoor_total_prev",4659,"Morelos",2011,22,"All Ages",3,"Both",0.0940464475
+105,"pollution_indoor_total_prev",4660,"Nayarit",2011,22,"All Ages",3,"Both",0.109589715
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2011,22,"All Ages",3,"Both",0.0209204845
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2011,22,"All Ages",3,"Both",0.470145005
+105,"pollution_indoor_total_prev",4663,"Puebla",2011,22,"All Ages",3,"Both",0.24130703
+105,"pollution_indoor_total_prev",4664,"Querétaro",2011,22,"All Ages",3,"Both",0.113892375
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",0.15035994
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",0.21187684
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2011,22,"All Ages",3,"Both",0.083811812
+105,"pollution_indoor_total_prev",4668,"Sonora",2011,22,"All Ages",3,"Both",0.049990032
+105,"pollution_indoor_total_prev",4669,"Tabasco",2011,22,"All Ages",3,"Both",0.26222208
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",0.0494661575
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",0.112160055
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",0.26743637
+105,"pollution_indoor_total_prev",4673,"Yucatán",2011,22,"All Ages",3,"Both",0.28656055
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2011,22,"All Ages",3,"Both",0.10270424
+105,"pollution_indoor_total_prev",130,"Mexico",2012,22,"All Ages",3,"Both",0.136762485
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",0.024034657
+105,"pollution_indoor_total_prev",4644,"Baja California",2012,22,"All Ages",3,"Both",0.00823755985
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",0.0373420265
+105,"pollution_indoor_total_prev",4646,"Campeche",2012,22,"All Ages",3,"Both",0.220959105
+105,"pollution_indoor_total_prev",4647,"Coahuila",2012,22,"All Ages",3,"Both",0.0211669745
+105,"pollution_indoor_total_prev",4648,"Colima",2012,22,"All Ages",3,"Both",0.067847848
+105,"pollution_indoor_total_prev",4649,"Chiapas",2012,22,"All Ages",3,"Both",0.44817835
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2012,22,"All Ages",3,"Both",0.0604321565
+105,"pollution_indoor_total_prev",4651,"Mexico City",2012,22,"All Ages",3,"Both",0.00280331085
+105,"pollution_indoor_total_prev",4652,"Durango",2012,22,"All Ages",3,"Both",0.1071918
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2012,22,"All Ages",3,"Both",0.0974851775
+105,"pollution_indoor_total_prev",4654,"Guerrero",2012,22,"All Ages",3,"Both",0.36009717
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2012,22,"All Ages",3,"Both",0.22550173
+105,"pollution_indoor_total_prev",4656,"Jalisco",2012,22,"All Ages",3,"Both",0.048313158
+105,"pollution_indoor_total_prev",4657,"México",2012,22,"All Ages",3,"Both",0.0580435655
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",0.185645795
+105,"pollution_indoor_total_prev",4659,"Morelos",2012,22,"All Ages",3,"Both",0.0872792675
+105,"pollution_indoor_total_prev",4660,"Nayarit",2012,22,"All Ages",3,"Both",0.100832475
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2012,22,"All Ages",3,"Both",0.019486312
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2012,22,"All Ages",3,"Both",0.44897443
+105,"pollution_indoor_total_prev",4663,"Puebla",2012,22,"All Ages",3,"Both",0.224868345
+105,"pollution_indoor_total_prev",4664,"Querétaro",2012,22,"All Ages",3,"Both",0.104552045
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",0.138220395
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",0.197895685
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2012,22,"All Ages",3,"Both",0.0761032365
+105,"pollution_indoor_total_prev",4668,"Sonora",2012,22,"All Ages",3,"Both",0.046264531
+105,"pollution_indoor_total_prev",4669,"Tabasco",2012,22,"All Ages",3,"Both",0.240897115
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",0.045609191
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",0.10327732
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",0.251479315
+105,"pollution_indoor_total_prev",4673,"Yucatán",2012,22,"All Ages",3,"Both",0.26626681
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2012,22,"All Ages",3,"Both",0.0950154885
+105,"pollution_indoor_total_prev",130,"Mexico",2013,22,"All Ages",3,"Both",0.12654452
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",0.0221368965
+105,"pollution_indoor_total_prev",4644,"Baja California",2013,22,"All Ages",3,"Both",0.0076513314
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",0.0340367445
+105,"pollution_indoor_total_prev",4646,"Campeche",2013,22,"All Ages",3,"Both",0.202688595
+105,"pollution_indoor_total_prev",4647,"Coahuila",2013,22,"All Ages",3,"Both",0.0196370935
+105,"pollution_indoor_total_prev",4648,"Colima",2013,22,"All Ages",3,"Both",0.0628976225
+105,"pollution_indoor_total_prev",4649,"Chiapas",2013,22,"All Ages",3,"Both",0.42631285
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2013,22,"All Ages",3,"Both",0.0559030995
+105,"pollution_indoor_total_prev",4651,"Mexico City",2013,22,"All Ages",3,"Both",0.0025648711
+105,"pollution_indoor_total_prev",4652,"Durango",2013,22,"All Ages",3,"Both",0.09942662
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2013,22,"All Ages",3,"Both",0.089153826
+105,"pollution_indoor_total_prev",4654,"Guerrero",2013,22,"All Ages",3,"Both",0.33878161
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2013,22,"All Ages",3,"Both",0.20767438
+105,"pollution_indoor_total_prev",4656,"Jalisco",2013,22,"All Ages",3,"Both",0.0449867115
+105,"pollution_indoor_total_prev",4657,"México",2013,22,"All Ages",3,"Both",0.0530038085
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",0.172088315
+105,"pollution_indoor_total_prev",4659,"Morelos",2013,22,"All Ages",3,"Both",0.0812943315
+105,"pollution_indoor_total_prev",4660,"Nayarit",2013,22,"All Ages",3,"Both",0.0926821905
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2013,22,"All Ages",3,"Both",0.0182226255
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2013,22,"All Ages",3,"Both",0.42558375
+105,"pollution_indoor_total_prev",4663,"Puebla",2013,22,"All Ages",3,"Both",0.209832985
+105,"pollution_indoor_total_prev",4664,"Querétaro",2013,22,"All Ages",3,"Both",0.094908126
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",0.126004645
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",0.18368431
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2013,22,"All Ages",3,"Both",0.0701483975
+105,"pollution_indoor_total_prev",4668,"Sonora",2013,22,"All Ages",3,"Both",0.0427442935
+105,"pollution_indoor_total_prev",4669,"Tabasco",2013,22,"All Ages",3,"Both",0.219751505
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",0.0418994485
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",0.09498024
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",0.2329261
+105,"pollution_indoor_total_prev",4673,"Yucatán",2013,22,"All Ages",3,"Both",0.24565457
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2013,22,"All Ages",3,"Both",0.0872827095
+105,"pollution_indoor_total_prev",130,"Mexico",2014,22,"All Ages",3,"Both",0.116190985
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",0.0205243555
+105,"pollution_indoor_total_prev",4644,"Baja California",2014,22,"All Ages",3,"Both",0.00707523525
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",0.030881486
+105,"pollution_indoor_total_prev",4646,"Campeche",2014,22,"All Ages",3,"Both",0.18644216
+105,"pollution_indoor_total_prev",4647,"Coahuila",2014,22,"All Ages",3,"Both",0.018177113
+105,"pollution_indoor_total_prev",4648,"Colima",2014,22,"All Ages",3,"Both",0.057327319
+105,"pollution_indoor_total_prev",4649,"Chiapas",2014,22,"All Ages",3,"Both",0.4035967
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2014,22,"All Ages",3,"Both",0.0509586185
+105,"pollution_indoor_total_prev",4651,"Mexico City",2014,22,"All Ages",3,"Both",0.0023409871
+105,"pollution_indoor_total_prev",4652,"Durango",2014,22,"All Ages",3,"Both",0.092681296
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2014,22,"All Ages",3,"Both",0.0819421225
+105,"pollution_indoor_total_prev",4654,"Guerrero",2014,22,"All Ages",3,"Both",0.319050625
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2014,22,"All Ages",3,"Both",0.189241625
+105,"pollution_indoor_total_prev",4656,"Jalisco",2014,22,"All Ages",3,"Both",0.041501239
+105,"pollution_indoor_total_prev",4657,"México",2014,22,"All Ages",3,"Both",0.048760835
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",0.161235995
+105,"pollution_indoor_total_prev",4659,"Morelos",2014,22,"All Ages",3,"Both",0.075130645
+105,"pollution_indoor_total_prev",4660,"Nayarit",2014,22,"All Ages",3,"Both",0.0850268155
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2014,22,"All Ages",3,"Both",0.017213813
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2014,22,"All Ages",3,"Both",0.402785375
+105,"pollution_indoor_total_prev",4663,"Puebla",2014,22,"All Ages",3,"Both",0.19444863
+105,"pollution_indoor_total_prev",4664,"Querétaro",2014,22,"All Ages",3,"Both",0.086361762
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",0.114405935
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",0.168353715
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2014,22,"All Ages",3,"Both",0.06398334
+105,"pollution_indoor_total_prev",4668,"Sonora",2014,22,"All Ages",3,"Both",0.0392981305
+105,"pollution_indoor_total_prev",4669,"Tabasco",2014,22,"All Ages",3,"Both",0.199168875
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",0.038491996
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",0.0868711435
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",0.21551682
+105,"pollution_indoor_total_prev",4673,"Yucatán",2014,22,"All Ages",3,"Both",0.2251639
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2014,22,"All Ages",3,"Both",0.0801033225
+105,"pollution_indoor_total_prev",130,"Mexico",2015,22,"All Ages",3,"Both",0.10755265
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",0.0188141645
+105,"pollution_indoor_total_prev",4644,"Baja California",2015,22,"All Ages",3,"Both",0.00650022015
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",0.0283711665
+105,"pollution_indoor_total_prev",4646,"Campeche",2015,22,"All Ages",3,"Both",0.170486585
+105,"pollution_indoor_total_prev",4647,"Coahuila",2015,22,"All Ages",3,"Both",0.0166336105
+105,"pollution_indoor_total_prev",4648,"Colima",2015,22,"All Ages",3,"Both",0.052135037
+105,"pollution_indoor_total_prev",4649,"Chiapas",2015,22,"All Ages",3,"Both",0.37909348
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2015,22,"All Ages",3,"Both",0.046648426
+105,"pollution_indoor_total_prev",4651,"Mexico City",2015,22,"All Ages",3,"Both",0.0021644209
+105,"pollution_indoor_total_prev",4652,"Durango",2015,22,"All Ages",3,"Both",0.0850055255
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2015,22,"All Ages",3,"Both",0.0750987865
+105,"pollution_indoor_total_prev",4654,"Guerrero",2015,22,"All Ages",3,"Both",0.297035325
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2015,22,"All Ages",3,"Both",0.17203063
+105,"pollution_indoor_total_prev",4656,"Jalisco",2015,22,"All Ages",3,"Both",0.03828446
+105,"pollution_indoor_total_prev",4657,"México",2015,22,"All Ages",3,"Both",0.0447661055
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",0.148675375
+105,"pollution_indoor_total_prev",4659,"Morelos",2015,22,"All Ages",3,"Both",0.069090188
+105,"pollution_indoor_total_prev",4660,"Nayarit",2015,22,"All Ages",3,"Both",0.077423431
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2015,22,"All Ages",3,"Both",0.015663594
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2015,22,"All Ages",3,"Both",0.37765135
+105,"pollution_indoor_total_prev",4663,"Puebla",2015,22,"All Ages",3,"Both",0.17907378
+105,"pollution_indoor_total_prev",4664,"Querétaro",2015,22,"All Ages",3,"Both",0.0791766755
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",0.1045144
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",0.155198425
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2015,22,"All Ages",3,"Both",0.0586600475
+105,"pollution_indoor_total_prev",4668,"Sonora",2015,22,"All Ages",3,"Both",0.0360885465
+105,"pollution_indoor_total_prev",4669,"Tabasco",2015,22,"All Ages",3,"Both",0.17964526
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",0.035508472
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",0.0790857265
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",0.198281055
+105,"pollution_indoor_total_prev",4673,"Yucatán",2015,22,"All Ages",3,"Both",0.20496296
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2015,22,"All Ages",3,"Both",0.0732364805
+105,"pollution_indoor_total_prev",130,"Mexico",2016,22,"All Ages",3,"Both",0.0986818785
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",0.0174298525
+105,"pollution_indoor_total_prev",4644,"Baja California",2016,22,"All Ages",3,"Both",0.0060343996
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",0.0262512705
+105,"pollution_indoor_total_prev",4646,"Campeche",2016,22,"All Ages",3,"Both",0.154954515
+105,"pollution_indoor_total_prev",4647,"Coahuila",2016,22,"All Ages",3,"Both",0.0154485995
+105,"pollution_indoor_total_prev",4648,"Colima",2016,22,"All Ages",3,"Both",0.047775153
+105,"pollution_indoor_total_prev",4649,"Chiapas",2016,22,"All Ages",3,"Both",0.35504994
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2016,22,"All Ages",3,"Both",0.0429556165
+105,"pollution_indoor_total_prev",4651,"Mexico City",2016,22,"All Ages",3,"Both",0.0019990414
+105,"pollution_indoor_total_prev",4652,"Durango",2016,22,"All Ages",3,"Both",0.0776235235
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2016,22,"All Ages",3,"Both",0.0688769855
+105,"pollution_indoor_total_prev",4654,"Guerrero",2016,22,"All Ages",3,"Both",0.276466295
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2016,22,"All Ages",3,"Both",0.1567477
+105,"pollution_indoor_total_prev",4656,"Jalisco",2016,22,"All Ages",3,"Both",0.035256378
+105,"pollution_indoor_total_prev",4657,"México",2016,22,"All Ages",3,"Both",0.041779684
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",0.13811238
+105,"pollution_indoor_total_prev",4659,"Morelos",2016,22,"All Ages",3,"Both",0.062878288
+105,"pollution_indoor_total_prev",4660,"Nayarit",2016,22,"All Ages",3,"Both",0.071067162
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2016,22,"All Ages",3,"Both",0.014772505
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2016,22,"All Ages",3,"Both",0.3537115
+105,"pollution_indoor_total_prev",4663,"Puebla",2016,22,"All Ages",3,"Both",0.163689815
+105,"pollution_indoor_total_prev",4664,"Querétaro",2016,22,"All Ages",3,"Both",0.0733716975
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",0.094932374
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",0.143319415
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2016,22,"All Ages",3,"Both",0.053682687
+105,"pollution_indoor_total_prev",4668,"Sonora",2016,22,"All Ages",3,"Both",0.0329526435
+105,"pollution_indoor_total_prev",4669,"Tabasco",2016,22,"All Ages",3,"Both",0.16310299
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",0.032687293
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",0.072546825
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",0.181157415
+105,"pollution_indoor_total_prev",4673,"Yucatán",2016,22,"All Ages",3,"Both",0.18806014
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2016,22,"All Ages",3,"Both",0.0667307155
+105,"pollution_indoor_total_prev",130,"Mexico",2017,22,"All Ages",3,"Both",0.0986818785
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",0.0174298525
+105,"pollution_indoor_total_prev",4644,"Baja California",2017,22,"All Ages",3,"Both",0.0060343996
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",0.0262512705
+105,"pollution_indoor_total_prev",4646,"Campeche",2017,22,"All Ages",3,"Both",0.154954515
+105,"pollution_indoor_total_prev",4647,"Coahuila",2017,22,"All Ages",3,"Both",0.0154485995
+105,"pollution_indoor_total_prev",4648,"Colima",2017,22,"All Ages",3,"Both",0.047775153
+105,"pollution_indoor_total_prev",4649,"Chiapas",2017,22,"All Ages",3,"Both",0.35504994
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2017,22,"All Ages",3,"Both",0.0429556165
+105,"pollution_indoor_total_prev",4651,"Mexico City",2017,22,"All Ages",3,"Both",0.0019990414
+105,"pollution_indoor_total_prev",4652,"Durango",2017,22,"All Ages",3,"Both",0.0776235235
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2017,22,"All Ages",3,"Both",0.0688769855
+105,"pollution_indoor_total_prev",4654,"Guerrero",2017,22,"All Ages",3,"Both",0.276466295
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2017,22,"All Ages",3,"Both",0.1567477
+105,"pollution_indoor_total_prev",4656,"Jalisco",2017,22,"All Ages",3,"Both",0.035256378
+105,"pollution_indoor_total_prev",4657,"México",2017,22,"All Ages",3,"Both",0.041779684
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",0.13811238
+105,"pollution_indoor_total_prev",4659,"Morelos",2017,22,"All Ages",3,"Both",0.062878288
+105,"pollution_indoor_total_prev",4660,"Nayarit",2017,22,"All Ages",3,"Both",0.071067162
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2017,22,"All Ages",3,"Both",0.014772505
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2017,22,"All Ages",3,"Both",0.3537115
+105,"pollution_indoor_total_prev",4663,"Puebla",2017,22,"All Ages",3,"Both",0.163689815
+105,"pollution_indoor_total_prev",4664,"Querétaro",2017,22,"All Ages",3,"Both",0.0733716975
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",0.094932374
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",0.143319415
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2017,22,"All Ages",3,"Both",0.053682687
+105,"pollution_indoor_total_prev",4668,"Sonora",2017,22,"All Ages",3,"Both",0.0329526435
+105,"pollution_indoor_total_prev",4669,"Tabasco",2017,22,"All Ages",3,"Both",0.16310299
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",0.032687293
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",0.072546825
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",0.181157415
+105,"pollution_indoor_total_prev",4673,"Yucatán",2017,22,"All Ages",3,"Both",0.18806014
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2017,22,"All Ages",3,"Both",0.0667307155
+105,"pollution_indoor_total_prev",130,"Mexico",2018,22,"All Ages",3,"Both",0.0955918130511808
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",0.0168711495867941
+105,"pollution_indoor_total_prev",4644,"Baja California",2018,22,"All Ages",3,"Both",0.00589201049789235
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",0.0255477577843152
+105,"pollution_indoor_total_prev",4646,"Campeche",2018,22,"All Ages",3,"Both",0.149643678429276
+105,"pollution_indoor_total_prev",4647,"Coahuila",2018,22,"All Ages",3,"Both",0.0149557996342404
+105,"pollution_indoor_total_prev",4648,"Colima",2018,22,"All Ages",3,"Both",0.046256025861791
+105,"pollution_indoor_total_prev",4649,"Chiapas",2018,22,"All Ages",3,"Both",0.344833219153707
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2018,22,"All Ages",3,"Both",0.041615912189594
+105,"pollution_indoor_total_prev",4651,"Mexico City",2018,22,"All Ages",3,"Both",0.00194469481456463
+105,"pollution_indoor_total_prev",4652,"Durango",2018,22,"All Ages",3,"Both",0.0747700187458821
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2018,22,"All Ages",3,"Both",0.0664237599101414
+105,"pollution_indoor_total_prev",4654,"Guerrero",2018,22,"All Ages",3,"Both",0.268306971218725
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2018,22,"All Ages",3,"Both",0.152071272811022
+105,"pollution_indoor_total_prev",4656,"Jalisco",2018,22,"All Ages",3,"Both",0.034065305497599
+105,"pollution_indoor_total_prev",4657,"México",2018,22,"All Ages",3,"Both",0.0403905440861128
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",0.133245922460419
+105,"pollution_indoor_total_prev",4659,"Morelos",2018,22,"All Ages",3,"Both",0.0609567666839328
+105,"pollution_indoor_total_prev",4660,"Nayarit",2018,22,"All Ages",3,"Both",0.0683595784923644
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2018,22,"All Ages",3,"Both",0.0144181266127532
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2018,22,"All Ages",3,"Both",0.343655667071143
+105,"pollution_indoor_total_prev",4663,"Puebla",2018,22,"All Ages",3,"Both",0.158830557655342
+105,"pollution_indoor_total_prev",4664,"Querétaro",2018,22,"All Ages",3,"Both",0.0715920715406866
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",0.0928458224772079
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",0.138554218606406
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2018,22,"All Ages",3,"Both",0.0519374808741972
+105,"pollution_indoor_total_prev",4668,"Sonora",2018,22,"All Ages",3,"Both",0.0320066514411667
+105,"pollution_indoor_total_prev",4669,"Tabasco",2018,22,"All Ages",3,"Both",0.157604260356034
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",0.0317328750726707
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",0.0706759377868179
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",0.175038483913496
+105,"pollution_indoor_total_prev",4673,"Yucatán",2018,22,"All Ages",3,"Both",0.182271167244362
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2018,22,"All Ages",3,"Both",0.0638112639968057
+105,"pollution_indoor_total_prev",130,"Mexico",2019,22,"All Ages",3,"Both",0.092803024365363
+105,"pollution_indoor_total_prev",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",0.0163561361112421
+105,"pollution_indoor_total_prev",4644,"Baja California",2019,22,"All Ages",3,"Both",0.00575762896055932
+105,"pollution_indoor_total_prev",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",0.0248881554967345
+105,"pollution_indoor_total_prev",4646,"Campeche",2019,22,"All Ages",3,"Both",0.14492576806025
+105,"pollution_indoor_total_prev",4647,"Coahuila",2019,22,"All Ages",3,"Both",0.0145016363176604
+105,"pollution_indoor_total_prev",4648,"Colima",2019,22,"All Ages",3,"Both",0.0448891252124476
+105,"pollution_indoor_total_prev",4649,"Chiapas",2019,22,"All Ages",3,"Both",0.335986474447721
+105,"pollution_indoor_total_prev",4650,"Chihuahua",2019,22,"All Ages",3,"Both",0.0404317321513528
+105,"pollution_indoor_total_prev",4651,"Mexico City",2019,22,"All Ages",3,"Both",0.00189245652570837
+105,"pollution_indoor_total_prev",4652,"Durango",2019,22,"All Ages",3,"Both",0.0722792386616619
+105,"pollution_indoor_total_prev",4653,"Guanajuato",2019,22,"All Ages",3,"Both",0.0642052649814687
+105,"pollution_indoor_total_prev",4654,"Guerrero",2019,22,"All Ages",3,"Both",0.261176890569144
+105,"pollution_indoor_total_prev",4655,"Hidalgo",2019,22,"All Ages",3,"Both",0.147829379388627
+105,"pollution_indoor_total_prev",4656,"Jalisco",2019,22,"All Ages",3,"Both",0.0329932967461115
+105,"pollution_indoor_total_prev",4657,"México",2019,22,"All Ages",3,"Both",0.0391597836021026
+105,"pollution_indoor_total_prev",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",0.128926445002025
+105,"pollution_indoor_total_prev",4659,"Morelos",2019,22,"All Ages",3,"Both",0.0591754060236729
+105,"pollution_indoor_total_prev",4660,"Nayarit",2019,22,"All Ages",3,"Both",0.0659576900978189
+105,"pollution_indoor_total_prev",4661,"Nuevo León",2019,22,"All Ages",3,"Both",0.0140755419988329
+105,"pollution_indoor_total_prev",4662,"Oaxaca",2019,22,"All Ages",3,"Both",0.334672617188499
+105,"pollution_indoor_total_prev",4663,"Puebla",2019,22,"All Ages",3,"Both",0.154385903836333
+105,"pollution_indoor_total_prev",4664,"Querétaro",2019,22,"All Ages",3,"Both",0.069840094553988
+105,"pollution_indoor_total_prev",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",0.0908171899803205
+105,"pollution_indoor_total_prev",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",0.13428909065434
+105,"pollution_indoor_total_prev",4667,"Sinaloa",2019,22,"All Ages",3,"Both",0.0503374886837419
+105,"pollution_indoor_total_prev",4668,"Sonora",2019,22,"All Ages",3,"Both",0.0311273347794032
+105,"pollution_indoor_total_prev",4669,"Tabasco",2019,22,"All Ages",3,"Both",0.152670436575632
+105,"pollution_indoor_total_prev",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",0.030836459723193
+105,"pollution_indoor_total_prev",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",0.068831130265229
+105,"pollution_indoor_total_prev",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",0.16961835056376
+105,"pollution_indoor_total_prev",4673,"Yucatán",2019,22,"All Ages",3,"Both",0.176895005532481
+105,"pollution_indoor_total_prev",4674,"Zacatecas",2019,22,"All Ages",3,"Both",0.0613000767589583

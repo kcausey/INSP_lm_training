@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+69,"mean_cholesterol",130,"Mexico",1990,27,"Age-standardized",1,"Male",4.98921153859
+69,"mean_cholesterol",130,"Mexico",1990,27,"Age-standardized",2,"Female",5.10710496622
+69,"mean_cholesterol",4643,"Aguascalientes",1990,27,"Age-standardized",1,"Male",5.22837602746
+69,"mean_cholesterol",4643,"Aguascalientes",1990,27,"Age-standardized",2,"Female",5.25963025168
+69,"mean_cholesterol",4644,"Baja California",1990,27,"Age-standardized",1,"Male",5.63942373568
+69,"mean_cholesterol",4644,"Baja California",1990,27,"Age-standardized",2,"Female",5.89923166298
+69,"mean_cholesterol",4645,"Baja California Sur",1990,27,"Age-standardized",1,"Male",5.4709796677
+69,"mean_cholesterol",4645,"Baja California Sur",1990,27,"Age-standardized",2,"Female",5.58642694494
+69,"mean_cholesterol",4646,"Campeche",1990,27,"Age-standardized",1,"Male",5.12088108901
+69,"mean_cholesterol",4646,"Campeche",1990,27,"Age-standardized",2,"Female",5.35008502459
+69,"mean_cholesterol",4647,"Coahuila",1990,27,"Age-standardized",1,"Male",4.65997073923
+69,"mean_cholesterol",4647,"Coahuila",1990,27,"Age-standardized",2,"Female",4.9301370983
+69,"mean_cholesterol",4648,"Colima",1990,27,"Age-standardized",1,"Male",5.34826255385
+69,"mean_cholesterol",4648,"Colima",1990,27,"Age-standardized",2,"Female",5.66572103962
+69,"mean_cholesterol",4649,"Chiapas",1990,27,"Age-standardized",1,"Male",5.13247252891
+69,"mean_cholesterol",4649,"Chiapas",1990,27,"Age-standardized",2,"Female",5.25121989956
+69,"mean_cholesterol",4650,"Chihuahua",1990,27,"Age-standardized",1,"Male",4.79384660048
+69,"mean_cholesterol",4650,"Chihuahua",1990,27,"Age-standardized",2,"Female",4.9821889272
+69,"mean_cholesterol",4651,"Mexico City",1990,27,"Age-standardized",1,"Male",4.94614402464
+69,"mean_cholesterol",4651,"Mexico City",1990,27,"Age-standardized",2,"Female",5.00276120385
+69,"mean_cholesterol",4652,"Durango",1990,27,"Age-standardized",1,"Male",5.05016266939
+69,"mean_cholesterol",4652,"Durango",1990,27,"Age-standardized",2,"Female",5.22698238659
+69,"mean_cholesterol",4653,"Guanajuato",1990,27,"Age-standardized",1,"Male",4.85702223154
+69,"mean_cholesterol",4653,"Guanajuato",1990,27,"Age-standardized",2,"Female",4.9715054701
+69,"mean_cholesterol",4654,"Guerrero",1990,27,"Age-standardized",1,"Male",4.56491139827
+69,"mean_cholesterol",4654,"Guerrero",1990,27,"Age-standardized",2,"Female",4.82587250666
+69,"mean_cholesterol",4655,"Hidalgo",1990,27,"Age-standardized",1,"Male",4.98836152144
+69,"mean_cholesterol",4655,"Hidalgo",1990,27,"Age-standardized",2,"Female",5.00859145787
+69,"mean_cholesterol",4656,"Jalisco",1990,27,"Age-standardized",1,"Male",5.05450638413
+69,"mean_cholesterol",4656,"Jalisco",1990,27,"Age-standardized",2,"Female",5.18888968312
+69,"mean_cholesterol",4657,"México",1990,27,"Age-standardized",1,"Male",5.08132037613
+69,"mean_cholesterol",4657,"México",1990,27,"Age-standardized",2,"Female",5.1873654894
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",1,"Male",4.7859885999
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",2,"Female",5.00491676579
+69,"mean_cholesterol",4659,"Morelos",1990,27,"Age-standardized",1,"Male",4.91483252261
+69,"mean_cholesterol",4659,"Morelos",1990,27,"Age-standardized",2,"Female",4.9034202624
+69,"mean_cholesterol",4660,"Nayarit",1990,27,"Age-standardized",1,"Male",4.92878071502
+69,"mean_cholesterol",4660,"Nayarit",1990,27,"Age-standardized",2,"Female",4.95720533278
+69,"mean_cholesterol",4661,"Nuevo León",1990,27,"Age-standardized",1,"Male",5.11826226282
+69,"mean_cholesterol",4661,"Nuevo León",1990,27,"Age-standardized",2,"Female",5.24482736496
+69,"mean_cholesterol",4662,"Oaxaca",1990,27,"Age-standardized",1,"Male",4.78451813385
+69,"mean_cholesterol",4662,"Oaxaca",1990,27,"Age-standardized",2,"Female",4.76083459492
+69,"mean_cholesterol",4663,"Puebla",1990,27,"Age-standardized",1,"Male",5.05194237397
+69,"mean_cholesterol",4663,"Puebla",1990,27,"Age-standardized",2,"Female",5.11558488104
+69,"mean_cholesterol",4664,"Querétaro",1990,27,"Age-standardized",1,"Male",5.00674116844
+69,"mean_cholesterol",4664,"Querétaro",1990,27,"Age-standardized",2,"Female",5.08934355423
+69,"mean_cholesterol",4665,"Quintana Roo",1990,27,"Age-standardized",1,"Male",5.06750910802
+69,"mean_cholesterol",4665,"Quintana Roo",1990,27,"Age-standardized",2,"Female",5.33737540701
+69,"mean_cholesterol",4666,"San Luis Potosí",1990,27,"Age-standardized",1,"Male",4.78597447939
+69,"mean_cholesterol",4666,"San Luis Potosí",1990,27,"Age-standardized",2,"Female",4.9327593159
+69,"mean_cholesterol",4667,"Sinaloa",1990,27,"Age-standardized",1,"Male",5.36936123794
+69,"mean_cholesterol",4667,"Sinaloa",1990,27,"Age-standardized",2,"Female",5.51581442149
+69,"mean_cholesterol",4668,"Sonora",1990,27,"Age-standardized",1,"Male",5.33862993654
+69,"mean_cholesterol",4668,"Sonora",1990,27,"Age-standardized",2,"Female",5.45320646665
+69,"mean_cholesterol",4669,"Tabasco",1990,27,"Age-standardized",1,"Male",4.92147671098
+69,"mean_cholesterol",4669,"Tabasco",1990,27,"Age-standardized",2,"Female",5.12809953447
+69,"mean_cholesterol",4670,"Tamaulipas",1990,27,"Age-standardized",1,"Male",5.29221844757
+69,"mean_cholesterol",4670,"Tamaulipas",1990,27,"Age-standardized",2,"Female",5.54478864787
+69,"mean_cholesterol",4671,"Tlaxcala",1990,27,"Age-standardized",1,"Male",4.93130816616
+69,"mean_cholesterol",4671,"Tlaxcala",1990,27,"Age-standardized",2,"Female",5.02492621949
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",1,"Male",4.73178027046
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",2,"Female",4.83527871829
+69,"mean_cholesterol",4673,"Yucatán",1990,27,"Age-standardized",1,"Male",5.02332086255
+69,"mean_cholesterol",4673,"Yucatán",1990,27,"Age-standardized",2,"Female",5.23027817686
+69,"mean_cholesterol",4674,"Zacatecas",1990,27,"Age-standardized",1,"Male",5.16855191073
+69,"mean_cholesterol",4674,"Zacatecas",1990,27,"Age-standardized",2,"Female",5.19968923228
+69,"mean_cholesterol",130,"Mexico",1991,27,"Age-standardized",1,"Male",4.99491768368
+69,"mean_cholesterol",130,"Mexico",1991,27,"Age-standardized",2,"Female",5.12307895702
+69,"mean_cholesterol",4643,"Aguascalientes",1991,27,"Age-standardized",1,"Male",5.23243117227
+69,"mean_cholesterol",4643,"Aguascalientes",1991,27,"Age-standardized",2,"Female",5.27679129818
+69,"mean_cholesterol",4644,"Baja California",1991,27,"Age-standardized",1,"Male",5.63061105362
+69,"mean_cholesterol",4644,"Baja California",1991,27,"Age-standardized",2,"Female",5.90045521424
+69,"mean_cholesterol",4645,"Baja California Sur",1991,27,"Age-standardized",1,"Male",5.47018356216
+69,"mean_cholesterol",4645,"Baja California Sur",1991,27,"Age-standardized",2,"Female",5.59766838132
+69,"mean_cholesterol",4646,"Campeche",1991,27,"Age-standardized",1,"Male",5.12323168473
+69,"mean_cholesterol",4646,"Campeche",1991,27,"Age-standardized",2,"Female",5.36221662836
+69,"mean_cholesterol",4647,"Coahuila",1991,27,"Age-standardized",1,"Male",4.67710147861
+69,"mean_cholesterol",4647,"Coahuila",1991,27,"Age-standardized",2,"Female",4.95571613025
+69,"mean_cholesterol",4648,"Colima",1991,27,"Age-standardized",1,"Male",5.35119543439
+69,"mean_cholesterol",4648,"Colima",1991,27,"Age-standardized",2,"Female",5.67837281356
+69,"mean_cholesterol",4649,"Chiapas",1991,27,"Age-standardized",1,"Male",5.13867143941
+69,"mean_cholesterol",4649,"Chiapas",1991,27,"Age-standardized",2,"Female",5.26774085733
+69,"mean_cholesterol",4650,"Chihuahua",1991,27,"Age-standardized",1,"Male",4.80409038734
+69,"mean_cholesterol",4650,"Chihuahua",1991,27,"Age-standardized",2,"Female",5.0022305726
+69,"mean_cholesterol",4651,"Mexico City",1991,27,"Age-standardized",1,"Male",4.95492206341
+69,"mean_cholesterol",4651,"Mexico City",1991,27,"Age-standardized",2,"Female",5.02114900477
+69,"mean_cholesterol",4652,"Durango",1991,27,"Age-standardized",1,"Male",5.04748296293
+69,"mean_cholesterol",4652,"Durango",1991,27,"Age-standardized",2,"Female",5.23665338592
+69,"mean_cholesterol",4653,"Guanajuato",1991,27,"Age-standardized",1,"Male",4.86600869962
+69,"mean_cholesterol",4653,"Guanajuato",1991,27,"Age-standardized",2,"Female",4.99127586782
+69,"mean_cholesterol",4654,"Guerrero",1991,27,"Age-standardized",1,"Male",4.56634453229
+69,"mean_cholesterol",4654,"Guerrero",1991,27,"Age-standardized",2,"Female",4.835019324
+69,"mean_cholesterol",4655,"Hidalgo",1991,27,"Age-standardized",1,"Male",4.99396655898
+69,"mean_cholesterol",4655,"Hidalgo",1991,27,"Age-standardized",2,"Female",5.0265731881
+69,"mean_cholesterol",4656,"Jalisco",1991,27,"Age-standardized",1,"Male",5.06137740235
+69,"mean_cholesterol",4656,"Jalisco",1991,27,"Age-standardized",2,"Female",5.20499815888
+69,"mean_cholesterol",4657,"México",1991,27,"Age-standardized",1,"Male",5.0676191121
+69,"mean_cholesterol",4657,"México",1991,27,"Age-standardized",2,"Female",5.18740295149
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",1,"Male",4.79853032012
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",2,"Female",5.02453460007
+69,"mean_cholesterol",4659,"Morelos",1991,27,"Age-standardized",1,"Male",4.92660691326
+69,"mean_cholesterol",4659,"Morelos",1991,27,"Age-standardized",2,"Female",4.9254536339
+69,"mean_cholesterol",4660,"Nayarit",1991,27,"Age-standardized",1,"Male",4.93740002657
+69,"mean_cholesterol",4660,"Nayarit",1991,27,"Age-standardized",2,"Female",4.97817171455
+69,"mean_cholesterol",4661,"Nuevo León",1991,27,"Age-standardized",1,"Male",5.12378408404
+69,"mean_cholesterol",4661,"Nuevo León",1991,27,"Age-standardized",2,"Female",5.2594518486
+69,"mean_cholesterol",4662,"Oaxaca",1991,27,"Age-standardized",1,"Male",4.79553339557
+69,"mean_cholesterol",4662,"Oaxaca",1991,27,"Age-standardized",2,"Female",4.78240481825
+69,"mean_cholesterol",4663,"Puebla",1991,27,"Age-standardized",1,"Male",5.05843613301
+69,"mean_cholesterol",4663,"Puebla",1991,27,"Age-standardized",2,"Female",5.13211426924
+69,"mean_cholesterol",4664,"Querétaro",1991,27,"Age-standardized",1,"Male",5.01245538184
+69,"mean_cholesterol",4664,"Querétaro",1991,27,"Age-standardized",2,"Female",5.10604870844
+69,"mean_cholesterol",4665,"Quintana Roo",1991,27,"Age-standardized",1,"Male",5.075776589
+69,"mean_cholesterol",4665,"Quintana Roo",1991,27,"Age-standardized",2,"Female",5.35319159332
+69,"mean_cholesterol",4666,"San Luis Potosí",1991,27,"Age-standardized",1,"Male",4.79725929449
+69,"mean_cholesterol",4666,"San Luis Potosí",1991,27,"Age-standardized",2,"Female",4.9543121532
+69,"mean_cholesterol",4667,"Sinaloa",1991,27,"Age-standardized",1,"Male",5.36759016397
+69,"mean_cholesterol",4667,"Sinaloa",1991,27,"Age-standardized",2,"Female",5.5253394394
+69,"mean_cholesterol",4668,"Sonora",1991,27,"Age-standardized",1,"Male",5.34526637243
+69,"mean_cholesterol",4668,"Sonora",1991,27,"Age-standardized",2,"Female",5.46890528636
+69,"mean_cholesterol",4669,"Tabasco",1991,27,"Age-standardized",1,"Male",4.9303252595
+69,"mean_cholesterol",4669,"Tabasco",1991,27,"Age-standardized",2,"Female",5.14568162684
+69,"mean_cholesterol",4670,"Tamaulipas",1991,27,"Age-standardized",1,"Male",5.29752614161
+69,"mean_cholesterol",4670,"Tamaulipas",1991,27,"Age-standardized",2,"Female",5.55986134308
+69,"mean_cholesterol",4671,"Tlaxcala",1991,27,"Age-standardized",1,"Male",4.93813988631
+69,"mean_cholesterol",4671,"Tlaxcala",1991,27,"Age-standardized",2,"Female",5.04131343351
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",1,"Male",4.74322127024
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",2,"Female",4.85604053786
+69,"mean_cholesterol",4673,"Yucatán",1991,27,"Age-standardized",1,"Male",5.03281515913
+69,"mean_cholesterol",4673,"Yucatán",1991,27,"Age-standardized",2,"Female",5.24818507957
+69,"mean_cholesterol",4674,"Zacatecas",1991,27,"Age-standardized",1,"Male",5.17710422697
+69,"mean_cholesterol",4674,"Zacatecas",1991,27,"Age-standardized",2,"Female",5.22069988198
+69,"mean_cholesterol",130,"Mexico",1992,27,"Age-standardized",1,"Male",4.99941959944
+69,"mean_cholesterol",130,"Mexico",1992,27,"Age-standardized",2,"Female",5.13941296071
+69,"mean_cholesterol",4643,"Aguascalientes",1992,27,"Age-standardized",1,"Male",5.23563459213
+69,"mean_cholesterol",4643,"Aguascalientes",1992,27,"Age-standardized",2,"Female",5.29507122053
+69,"mean_cholesterol",4644,"Baja California",1992,27,"Age-standardized",1,"Male",5.6216722144
+69,"mean_cholesterol",4644,"Baja California",1992,27,"Age-standardized",2,"Female",5.90285606635
+69,"mean_cholesterol",4645,"Baja California Sur",1992,27,"Age-standardized",1,"Male",5.46559885716
+69,"mean_cholesterol",4645,"Baja California Sur",1992,27,"Age-standardized",2,"Female",5.60623189354
+69,"mean_cholesterol",4646,"Campeche",1992,27,"Age-standardized",1,"Male",5.12441844318
+69,"mean_cholesterol",4646,"Campeche",1992,27,"Age-standardized",2,"Female",5.37457633
+69,"mean_cholesterol",4647,"Coahuila",1992,27,"Age-standardized",1,"Male",4.69510540638
+69,"mean_cholesterol",4647,"Coahuila",1992,27,"Age-standardized",2,"Female",4.98347063952
+69,"mean_cholesterol",4648,"Colima",1992,27,"Age-standardized",1,"Male",5.35183970705
+69,"mean_cholesterol",4648,"Colima",1992,27,"Age-standardized",2,"Female",5.68960984738
+69,"mean_cholesterol",4649,"Chiapas",1992,27,"Age-standardized",1,"Male",5.15314042214
+69,"mean_cholesterol",4649,"Chiapas",1992,27,"Age-standardized",2,"Female",5.29478270865
+69,"mean_cholesterol",4650,"Chihuahua",1992,27,"Age-standardized",1,"Male",4.81398406033
+69,"mean_cholesterol",4650,"Chihuahua",1992,27,"Age-standardized",2,"Female",5.02327813252
+69,"mean_cholesterol",4651,"Mexico City",1992,27,"Age-standardized",1,"Male",4.95887705142
+69,"mean_cholesterol",4651,"Mexico City",1992,27,"Age-standardized",2,"Female",5.03635635746
+69,"mean_cholesterol",4652,"Durango",1992,27,"Age-standardized",1,"Male",5.04362564812
+69,"mean_cholesterol",4652,"Durango",1992,27,"Age-standardized",2,"Female",5.24675735634
+69,"mean_cholesterol",4653,"Guanajuato",1992,27,"Age-standardized",1,"Male",4.87412126988
+69,"mean_cholesterol",4653,"Guanajuato",1992,27,"Age-standardized",2,"Female",5.0115523894
+69,"mean_cholesterol",4654,"Guerrero",1992,27,"Age-standardized",1,"Male",4.56637530606
+69,"mean_cholesterol",4654,"Guerrero",1992,27,"Age-standardized",2,"Female",4.84384512937
+69,"mean_cholesterol",4655,"Hidalgo",1992,27,"Age-standardized",1,"Male",4.99859073872
+69,"mean_cholesterol",4655,"Hidalgo",1992,27,"Age-standardized",2,"Female",5.04550744194
+69,"mean_cholesterol",4656,"Jalisco",1992,27,"Age-standardized",1,"Male",5.06793248996
+69,"mean_cholesterol",4656,"Jalisco",1992,27,"Age-standardized",2,"Female",5.22157414885
+69,"mean_cholesterol",4657,"México",1992,27,"Age-standardized",1,"Male",5.05193882068
+69,"mean_cholesterol",4657,"México",1992,27,"Age-standardized",2,"Female",5.18762948843
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",1,"Male",4.81034658986
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",2,"Female",5.04462759364
+69,"mean_cholesterol",4659,"Morelos",1992,27,"Age-standardized",1,"Male",4.93736708946
+69,"mean_cholesterol",4659,"Morelos",1992,27,"Age-standardized",2,"Female",4.94829147109
+69,"mean_cholesterol",4660,"Nayarit",1992,27,"Age-standardized",1,"Male",4.94580146148
+69,"mean_cholesterol",4660,"Nayarit",1992,27,"Age-standardized",2,"Female",5.00050375526
+69,"mean_cholesterol",4661,"Nuevo León",1992,27,"Age-standardized",1,"Male",5.12896252579
+69,"mean_cholesterol",4661,"Nuevo León",1992,27,"Age-standardized",2,"Female",5.27470867677
+69,"mean_cholesterol",4662,"Oaxaca",1992,27,"Age-standardized",1,"Male",4.80476771837
+69,"mean_cholesterol",4662,"Oaxaca",1992,27,"Age-standardized",2,"Female",4.80454496354
+69,"mean_cholesterol",4663,"Puebla",1992,27,"Age-standardized",1,"Male",5.06233343563
+69,"mean_cholesterol",4663,"Puebla",1992,27,"Age-standardized",2,"Female",5.1478546574
+69,"mean_cholesterol",4664,"Querétaro",1992,27,"Age-standardized",1,"Male",5.01506471934
+69,"mean_cholesterol",4664,"Querétaro",1992,27,"Age-standardized",2,"Female",5.12086434413
+69,"mean_cholesterol",4665,"Quintana Roo",1992,27,"Age-standardized",1,"Male",5.0860070944
+69,"mean_cholesterol",4665,"Quintana Roo",1992,27,"Age-standardized",2,"Female",5.37169810334
+69,"mean_cholesterol",4666,"San Luis Potosí",1992,27,"Age-standardized",1,"Male",4.80785145573
+69,"mean_cholesterol",4666,"San Luis Potosí",1992,27,"Age-standardized",2,"Female",4.97673391028
+69,"mean_cholesterol",4667,"Sinaloa",1992,27,"Age-standardized",1,"Male",5.36278605131
+69,"mean_cholesterol",4667,"Sinaloa",1992,27,"Age-standardized",2,"Female",5.53326207353
+69,"mean_cholesterol",4668,"Sonora",1992,27,"Age-standardized",1,"Male",5.35011283093
+69,"mean_cholesterol",4668,"Sonora",1992,27,"Age-standardized",2,"Female",5.4844806501
+69,"mean_cholesterol",4669,"Tabasco",1992,27,"Age-standardized",1,"Male",4.93900106808
+69,"mean_cholesterol",4669,"Tabasco",1992,27,"Age-standardized",2,"Female",5.16439012844
+69,"mean_cholesterol",4670,"Tamaulipas",1992,27,"Age-standardized",1,"Male",5.3014171403
+69,"mean_cholesterol",4670,"Tamaulipas",1992,27,"Age-standardized",2,"Female",5.57451888174
+69,"mean_cholesterol",4671,"Tlaxcala",1992,27,"Age-standardized",1,"Male",4.93916682999
+69,"mean_cholesterol",4671,"Tlaxcala",1992,27,"Age-standardized",2,"Female",5.05355894538
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",1,"Male",4.75549355122
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",2,"Female",4.87944585512
+69,"mean_cholesterol",4673,"Yucatán",1992,27,"Age-standardized",1,"Male",5.04239692047
+69,"mean_cholesterol",4673,"Yucatán",1992,27,"Age-standardized",2,"Female",5.26767152951
+69,"mean_cholesterol",4674,"Zacatecas",1992,27,"Age-standardized",1,"Male",5.18491021728
+69,"mean_cholesterol",4674,"Zacatecas",1992,27,"Age-standardized",2,"Female",5.24245819808
+69,"mean_cholesterol",130,"Mexico",1993,27,"Age-standardized",1,"Male",5.00268851779
+69,"mean_cholesterol",130,"Mexico",1993,27,"Age-standardized",2,"Female",5.1556765317
+69,"mean_cholesterol",4643,"Aguascalientes",1993,27,"Age-standardized",1,"Male",5.23323948772
+69,"mean_cholesterol",4643,"Aguascalientes",1993,27,"Age-standardized",2,"Female",5.30910768136
+69,"mean_cholesterol",4644,"Baja California",1993,27,"Age-standardized",1,"Male",5.61079210838
+69,"mean_cholesterol",4644,"Baja California",1993,27,"Age-standardized",2,"Female",5.9040154221
+69,"mean_cholesterol",4645,"Baja California Sur",1993,27,"Age-standardized",1,"Male",5.45456825161
+69,"mean_cholesterol",4645,"Baja California Sur",1993,27,"Age-standardized",2,"Female",5.60877237071
+69,"mean_cholesterol",4646,"Campeche",1993,27,"Age-standardized",1,"Male",5.12013574032
+69,"mean_cholesterol",4646,"Campeche",1993,27,"Age-standardized",2,"Female",5.38254254731
+69,"mean_cholesterol",4647,"Coahuila",1993,27,"Age-standardized",1,"Male",4.71053890308
+69,"mean_cholesterol",4647,"Coahuila",1993,27,"Age-standardized",2,"Female",5.00925299972
+69,"mean_cholesterol",4648,"Colima",1993,27,"Age-standardized",1,"Male",5.34656892005
+69,"mean_cholesterol",4648,"Colima",1993,27,"Age-standardized",2,"Female",5.69532668342
+69,"mean_cholesterol",4649,"Chiapas",1993,27,"Age-standardized",1,"Male",5.16290421173
+69,"mean_cholesterol",4649,"Chiapas",1993,27,"Age-standardized",2,"Female",5.31911139985
+69,"mean_cholesterol",4650,"Chihuahua",1993,27,"Age-standardized",1,"Male",4.82004650698
+69,"mean_cholesterol",4650,"Chihuahua",1993,27,"Age-standardized",2,"Female",5.04121598315
+69,"mean_cholesterol",4651,"Mexico City",1993,27,"Age-standardized",1,"Male",4.96141760414
+69,"mean_cholesterol",4651,"Mexico City",1993,27,"Age-standardized",2,"Female",5.05124594736
+69,"mean_cholesterol",4652,"Durango",1993,27,"Age-standardized",1,"Male",5.03303157486
+69,"mean_cholesterol",4652,"Durango",1993,27,"Age-standardized",2,"Female",5.25116653617
+69,"mean_cholesterol",4653,"Guanajuato",1993,27,"Age-standardized",1,"Male",4.8770507161
+69,"mean_cholesterol",4653,"Guanajuato",1993,27,"Age-standardized",2,"Female",5.02779988641
+69,"mean_cholesterol",4654,"Guerrero",1993,27,"Age-standardized",1,"Male",4.56078952983
+69,"mean_cholesterol",4654,"Guerrero",1993,27,"Age-standardized",2,"Female",4.84771386365
+69,"mean_cholesterol",4655,"Hidalgo",1993,27,"Age-standardized",1,"Male",4.99726871085
+69,"mean_cholesterol",4655,"Hidalgo",1993,27,"Age-standardized",2,"Female",5.0602488616
+69,"mean_cholesterol",4656,"Jalisco",1993,27,"Age-standardized",1,"Male",5.06946676324
+69,"mean_cholesterol",4656,"Jalisco",1993,27,"Age-standardized",2,"Female",5.23343920488
+69,"mean_cholesterol",4657,"México",1993,27,"Age-standardized",1,"Male",5.05662541299
+69,"mean_cholesterol",4657,"México",1993,27,"Age-standardized",2,"Female",5.21045686011
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",1,"Male",4.81642608537
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",2,"Female",5.0597198097
+69,"mean_cholesterol",4659,"Morelos",1993,27,"Age-standardized",1,"Male",4.94367813049
+69,"mean_cholesterol",4659,"Morelos",1993,27,"Age-standardized",2,"Female",4.96796162075
+69,"mean_cholesterol",4660,"Nayarit",1993,27,"Age-standardized",1,"Male",4.9496777719
+69,"mean_cholesterol",4660,"Nayarit",1993,27,"Age-standardized",2,"Female",5.01960315143
+69,"mean_cholesterol",4661,"Nuevo León",1993,27,"Age-standardized",1,"Male",5.13026202765
+69,"mean_cholesterol",4661,"Nuevo León",1993,27,"Age-standardized",2,"Female",5.28630043346
+69,"mean_cholesterol",4662,"Oaxaca",1993,27,"Age-standardized",1,"Male",4.80769558886
+69,"mean_cholesterol",4662,"Oaxaca",1993,27,"Age-standardized",2,"Female",4.82271450015
+69,"mean_cholesterol",4663,"Puebla",1993,27,"Age-standardized",1,"Male",5.05910050279
+69,"mean_cholesterol",4663,"Puebla",1993,27,"Age-standardized",2,"Female",5.15781879583
+69,"mean_cholesterol",4664,"Querétaro",1993,27,"Age-standardized",1,"Male",5.01750042062
+69,"mean_cholesterol",4664,"Querétaro",1993,27,"Age-standardized",2,"Female",5.13625016514
+69,"mean_cholesterol",4665,"Quintana Roo",1993,27,"Age-standardized",1,"Male",5.0938824314
+69,"mean_cholesterol",4665,"Quintana Roo",1993,27,"Age-standardized",2,"Female",5.38790763451
+69,"mean_cholesterol",4666,"San Luis Potosí",1993,27,"Age-standardized",1,"Male",4.8136987103
+69,"mean_cholesterol",4666,"San Luis Potosí",1993,27,"Age-standardized",2,"Female",4.99552805111
+69,"mean_cholesterol",4667,"Sinaloa",1993,27,"Age-standardized",1,"Male",5.35054362285
+69,"mean_cholesterol",4667,"Sinaloa",1993,27,"Age-standardized",2,"Female",5.53488493471
+69,"mean_cholesterol",4668,"Sonora",1993,27,"Age-standardized",1,"Male",5.34902453592
+69,"mean_cholesterol",4668,"Sonora",1993,27,"Age-standardized",2,"Female",5.49539110623
+69,"mean_cholesterol",4669,"Tabasco",1993,27,"Age-standardized",1,"Male",4.94297165193
+69,"mean_cholesterol",4669,"Tabasco",1993,27,"Age-standardized",2,"Female",5.17935783881
+69,"mean_cholesterol",4670,"Tamaulipas",1993,27,"Age-standardized",1,"Male",5.30003927674
+69,"mean_cholesterol",4670,"Tamaulipas",1993,27,"Age-standardized",2,"Female",5.58412125637
+69,"mean_cholesterol",4671,"Tlaxcala",1993,27,"Age-standardized",1,"Male",4.9414692358
+69,"mean_cholesterol",4671,"Tlaxcala",1993,27,"Age-standardized",2,"Female",5.06835675597
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",1,"Male",4.7646313473
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",2,"Female",4.9009425499
+69,"mean_cholesterol",4673,"Yucatán",1993,27,"Age-standardized",1,"Male",5.04827206262
+69,"mean_cholesterol",4673,"Yucatán",1993,27,"Age-standardized",2,"Female",5.28437977082
+69,"mean_cholesterol",4674,"Zacatecas",1993,27,"Age-standardized",1,"Male",5.18755360761
+69,"mean_cholesterol",4674,"Zacatecas",1993,27,"Age-standardized",2,"Female",5.26022679777
+69,"mean_cholesterol",130,"Mexico",1994,27,"Age-standardized",1,"Male",5.0048349486
+69,"mean_cholesterol",130,"Mexico",1994,27,"Age-standardized",2,"Female",5.17273454259
+69,"mean_cholesterol",4643,"Aguascalientes",1994,27,"Age-standardized",1,"Male",5.22682181309
+69,"mean_cholesterol",4643,"Aguascalientes",1994,27,"Age-standardized",2,"Female",5.32116239213
+69,"mean_cholesterol",4644,"Baja California",1994,27,"Age-standardized",1,"Male",5.6000393966
+69,"mean_cholesterol",4644,"Baja California",1994,27,"Age-standardized",2,"Female",5.906951798
+69,"mean_cholesterol",4645,"Baja California Sur",1994,27,"Age-standardized",1,"Male",5.44029811867
+69,"mean_cholesterol",4645,"Baja California Sur",1994,27,"Age-standardized",2,"Female",5.60970248097
+69,"mean_cholesterol",4646,"Campeche",1994,27,"Age-standardized",1,"Male",5.112202605
+69,"mean_cholesterol",4646,"Campeche",1994,27,"Age-standardized",2,"Female",5.38874640375
+69,"mean_cholesterol",4647,"Coahuila",1994,27,"Age-standardized",1,"Male",4.72428999294
+69,"mean_cholesterol",4647,"Coahuila",1994,27,"Age-standardized",2,"Female",5.03484340025
+69,"mean_cholesterol",4648,"Colima",1994,27,"Age-standardized",1,"Male",5.33715330091
+69,"mean_cholesterol",4648,"Colima",1994,27,"Age-standardized",2,"Female",5.69815833021
+69,"mean_cholesterol",4649,"Chiapas",1994,27,"Age-standardized",1,"Male",5.16886891478
+69,"mean_cholesterol",4649,"Chiapas",1994,27,"Age-standardized",2,"Female",5.34240776446
+69,"mean_cholesterol",4650,"Chihuahua",1994,27,"Age-standardized",1,"Male",4.822683285
+69,"mean_cholesterol",4650,"Chihuahua",1994,27,"Age-standardized",2,"Female",5.05718566795
+69,"mean_cholesterol",4651,"Mexico City",1994,27,"Age-standardized",1,"Male",4.96867221764
+69,"mean_cholesterol",4651,"Mexico City",1994,27,"Age-standardized",2,"Female",5.07258573195
+69,"mean_cholesterol",4652,"Durango",1994,27,"Age-standardized",1,"Male",5.01772757217
+69,"mean_cholesterol",4652,"Durango",1994,27,"Age-standardized",2,"Female",5.25288185433
+69,"mean_cholesterol",4653,"Guanajuato",1994,27,"Age-standardized",1,"Male",4.8762873854
+69,"mean_cholesterol",4653,"Guanajuato",1994,27,"Age-standardized",2,"Female",5.04243720042
+69,"mean_cholesterol",4654,"Guerrero",1994,27,"Age-standardized",1,"Male",4.553870225
+69,"mean_cholesterol",4654,"Guerrero",1994,27,"Age-standardized",2,"Female",4.85161100146
+69,"mean_cholesterol",4655,"Hidalgo",1994,27,"Age-standardized",1,"Male",4.99226321353
+69,"mean_cholesterol",4655,"Hidalgo",1994,27,"Age-standardized",2,"Female",5.07354444844
+69,"mean_cholesterol",4656,"Jalisco",1994,27,"Age-standardized",1,"Male",5.06743649223
+69,"mean_cholesterol",4656,"Jalisco",1994,27,"Age-standardized",2,"Female",5.24277933009
+69,"mean_cholesterol",4657,"México",1994,27,"Age-standardized",1,"Male",5.0654235353
+69,"mean_cholesterol",4657,"México",1994,27,"Age-standardized",2,"Female",5.24035324012
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",1,"Male",4.8189173206
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",2,"Female",5.07263213947
+69,"mean_cholesterol",4659,"Morelos",1994,27,"Age-standardized",1,"Male",4.94687725201
+69,"mean_cholesterol",4659,"Morelos",1994,27,"Age-standardized",2,"Female",4.98634933789
+69,"mean_cholesterol",4660,"Nayarit",1994,27,"Age-standardized",1,"Male",4.95114544506
+69,"mean_cholesterol",4660,"Nayarit",1994,27,"Age-standardized",2,"Female",5.03807220103
+69,"mean_cholesterol",4661,"Nuevo León",1994,27,"Age-standardized",1,"Male",5.12797150489
+69,"mean_cholesterol",4661,"Nuevo León",1994,27,"Age-standardized",2,"Female",5.29558707911
+69,"mean_cholesterol",4662,"Oaxaca",1994,27,"Age-standardized",1,"Male",4.80649895809
+69,"mean_cholesterol",4662,"Oaxaca",1994,27,"Age-standardized",2,"Female",4.83963708069
+69,"mean_cholesterol",4663,"Puebla",1994,27,"Age-standardized",1,"Male",5.05064615
+69,"mean_cholesterol",4663,"Puebla",1994,27,"Age-standardized",2,"Female",5.16442219856
+69,"mean_cholesterol",4664,"Querétaro",1994,27,"Age-standardized",1,"Male",5.02628676635
+69,"mean_cholesterol",4664,"Querétaro",1994,27,"Age-standardized",2,"Female",5.15952983928
+69,"mean_cholesterol",4665,"Quintana Roo",1994,27,"Age-standardized",1,"Male",5.09999861966
+69,"mean_cholesterol",4665,"Quintana Roo",1994,27,"Age-standardized",2,"Female",5.4032685007
+69,"mean_cholesterol",4666,"San Luis Potosí",1994,27,"Age-standardized",1,"Male",4.81654873337
+69,"mean_cholesterol",4666,"San Luis Potosí",1994,27,"Age-standardized",2,"Female",5.01300794941
+69,"mean_cholesterol",4667,"Sinaloa",1994,27,"Age-standardized",1,"Male",5.33318701969
+69,"mean_cholesterol",4667,"Sinaloa",1994,27,"Age-standardized",2,"Female",5.53354862366
+69,"mean_cholesterol",4668,"Sonora",1994,27,"Age-standardized",1,"Male",5.34325723249
+69,"mean_cholesterol",4668,"Sonora",1994,27,"Age-standardized",2,"Female",5.5037752728
+69,"mean_cholesterol",4669,"Tabasco",1994,27,"Age-standardized",1,"Male",4.9447314765
+69,"mean_cholesterol",4669,"Tabasco",1994,27,"Age-standardized",2,"Female",5.19398904835
+69,"mean_cholesterol",4670,"Tamaulipas",1994,27,"Age-standardized",1,"Male",5.29491021311
+69,"mean_cholesterol",4670,"Tamaulipas",1994,27,"Age-standardized",2,"Female",5.59124355978
+69,"mean_cholesterol",4671,"Tlaxcala",1994,27,"Age-standardized",1,"Male",4.95277923178
+69,"mean_cholesterol",4671,"Tlaxcala",1994,27,"Age-standardized",2,"Female",5.0942108563
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",1,"Male",4.77279945057
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",2,"Female",4.92333144805
+69,"mean_cholesterol",4673,"Yucatán",1994,27,"Age-standardized",1,"Male",5.05215028412
+69,"mean_cholesterol",4673,"Yucatán",1994,27,"Age-standardized",2,"Female",5.30079992761
+69,"mean_cholesterol",4674,"Zacatecas",1994,27,"Age-standardized",1,"Male",5.18648380879
+69,"mean_cholesterol",4674,"Zacatecas",1994,27,"Age-standardized",2,"Female",5.27642726582
+69,"mean_cholesterol",130,"Mexico",1995,27,"Age-standardized",1,"Male",5.00508567493
+69,"mean_cholesterol",130,"Mexico",1995,27,"Age-standardized",2,"Female",5.18995095926
+69,"mean_cholesterol",4643,"Aguascalientes",1995,27,"Age-standardized",1,"Male",5.2195806199
+69,"mean_cholesterol",4643,"Aguascalientes",1995,27,"Age-standardized",2,"Female",5.33479495779
+69,"mean_cholesterol",4644,"Baja California",1995,27,"Age-standardized",1,"Male",5.58974245655
+69,"mean_cholesterol",4644,"Baja California",1995,27,"Age-standardized",2,"Female",5.91230437836
+69,"mean_cholesterol",4645,"Baja California Sur",1995,27,"Age-standardized",1,"Male",5.42459739546
+69,"mean_cholesterol",4645,"Baja California Sur",1995,27,"Age-standardized",2,"Female",5.6115506681
+69,"mean_cholesterol",4646,"Campeche",1995,27,"Age-standardized",1,"Male",5.10337651389
+69,"mean_cholesterol",4646,"Campeche",1995,27,"Age-standardized",2,"Female",5.39630601924
+69,"mean_cholesterol",4647,"Coahuila",1995,27,"Age-standardized",1,"Male",4.73907829973
+69,"mean_cholesterol",4647,"Coahuila",1995,27,"Age-standardized",2,"Female",5.06321679007
+69,"mean_cholesterol",4648,"Colima",1995,27,"Age-standardized",1,"Male",5.32589682885
+69,"mean_cholesterol",4648,"Colima",1995,27,"Age-standardized",2,"Female",5.70044474097
+69,"mean_cholesterol",4649,"Chiapas",1995,27,"Age-standardized",1,"Male",5.17387100729
+69,"mean_cholesterol",4649,"Chiapas",1995,27,"Age-standardized",2,"Female",5.36770298597
+69,"mean_cholesterol",4650,"Chihuahua",1995,27,"Age-standardized",1,"Male",4.8240945418
+69,"mean_cholesterol",4650,"Chihuahua",1995,27,"Age-standardized",2,"Female",5.07351837087
+69,"mean_cholesterol",4651,"Mexico City",1995,27,"Age-standardized",1,"Male",4.97884307914
+69,"mean_cholesterol",4651,"Mexico City",1995,27,"Age-standardized",2,"Female",5.09852212326
+69,"mean_cholesterol",4652,"Durango",1995,27,"Age-standardized",1,"Male",5.00199926608
+69,"mean_cholesterol",4652,"Durango",1995,27,"Age-standardized",2,"Female",5.2564525251
+69,"mean_cholesterol",4653,"Guanajuato",1995,27,"Age-standardized",1,"Male",4.8750008636
+69,"mean_cholesterol",4653,"Guanajuato",1995,27,"Age-standardized",2,"Female",5.05882940953
+69,"mean_cholesterol",4654,"Guerrero",1995,27,"Age-standardized",1,"Male",4.55375457416
+69,"mean_cholesterol",4654,"Guerrero",1995,27,"Age-standardized",2,"Female",4.86403882565
+69,"mean_cholesterol",4655,"Hidalgo",1995,27,"Age-standardized",1,"Male",4.98726890587
+69,"mean_cholesterol",4655,"Hidalgo",1995,27,"Age-standardized",2,"Female",5.08922314754
+69,"mean_cholesterol",4656,"Jalisco",1995,27,"Age-standardized",1,"Male",5.06468474308
+69,"mean_cholesterol",4656,"Jalisco",1995,27,"Age-standardized",2,"Female",5.25231011992
+69,"mean_cholesterol",4657,"México",1995,27,"Age-standardized",1,"Male",5.05448431503
+69,"mean_cholesterol",4657,"México",1995,27,"Age-standardized",2,"Female",5.25322463496
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",1,"Male",4.82193716511
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",2,"Female",5.08768193385
+69,"mean_cholesterol",4659,"Morelos",1995,27,"Age-standardized",1,"Male",4.94905791801
+69,"mean_cholesterol",4659,"Morelos",1995,27,"Age-standardized",2,"Female",5.00555453486
+69,"mean_cholesterol",4660,"Nayarit",1995,27,"Age-standardized",1,"Male",4.95406713132
+69,"mean_cholesterol",4660,"Nayarit",1995,27,"Age-standardized",2,"Female",5.05985586822
+69,"mean_cholesterol",4661,"Nuevo León",1995,27,"Age-standardized",1,"Male",5.12417037839
+69,"mean_cholesterol",4661,"Nuevo León",1995,27,"Age-standardized",2,"Female",5.30475955513
+69,"mean_cholesterol",4662,"Oaxaca",1995,27,"Age-standardized",1,"Male",4.80579689501
+69,"mean_cholesterol",4662,"Oaxaca",1995,27,"Age-standardized",2,"Female",4.86044980102
+69,"mean_cholesterol",4663,"Puebla",1995,27,"Age-standardized",1,"Male",5.0401999633
+69,"mean_cholesterol",4663,"Puebla",1995,27,"Age-standardized",2,"Female",5.1710520722
+69,"mean_cholesterol",4664,"Querétaro",1995,27,"Age-standardized",1,"Male",5.04203489941
+69,"mean_cholesterol",4664,"Querétaro",1995,27,"Age-standardized",2,"Female",5.19153518002
+69,"mean_cholesterol",4665,"Quintana Roo",1995,27,"Age-standardized",1,"Male",5.10625892693
+69,"mean_cholesterol",4665,"Quintana Roo",1995,27,"Age-standardized",2,"Female",5.419795147
+69,"mean_cholesterol",4666,"San Luis Potosí",1995,27,"Age-standardized",1,"Male",4.81976994123
+69,"mean_cholesterol",4666,"San Luis Potosí",1995,27,"Age-standardized",2,"Female",5.0327769216
+69,"mean_cholesterol",4667,"Sinaloa",1995,27,"Age-standardized",1,"Male",5.31432360912
+69,"mean_cholesterol",4667,"Sinaloa",1995,27,"Age-standardized",2,"Female",5.5330814043
+69,"mean_cholesterol",4668,"Sonora",1995,27,"Age-standardized",1,"Male",5.33557006733
+69,"mean_cholesterol",4668,"Sonora",1995,27,"Age-standardized",2,"Female",5.51270839486
+69,"mean_cholesterol",4669,"Tabasco",1995,27,"Age-standardized",1,"Male",4.94820430381
+69,"mean_cholesterol",4669,"Tabasco",1995,27,"Age-standardized",2,"Female",5.21254971245
+69,"mean_cholesterol",4670,"Tamaulipas",1995,27,"Age-standardized",1,"Male",5.2890081334
+69,"mean_cholesterol",4670,"Tamaulipas",1995,27,"Age-standardized",2,"Female",5.59902837584
+69,"mean_cholesterol",4671,"Tlaxcala",1995,27,"Age-standardized",1,"Male",4.96609593807
+69,"mean_cholesterol",4671,"Tlaxcala",1995,27,"Age-standardized",2,"Female",5.12403367336
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",1,"Male",4.78456929221
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",2,"Female",4.95145940769
+69,"mean_cholesterol",4673,"Yucatán",1995,27,"Age-standardized",1,"Male",5.05717673281
+69,"mean_cholesterol",4673,"Yucatán",1995,27,"Age-standardized",2,"Female",5.32025424345
+69,"mean_cholesterol",4674,"Zacatecas",1995,27,"Age-standardized",1,"Male",5.18461839017
+69,"mean_cholesterol",4674,"Zacatecas",1995,27,"Age-standardized",2,"Female",5.29428612782
+69,"mean_cholesterol",130,"Mexico",1996,27,"Age-standardized",1,"Male",5.00688577706
+69,"mean_cholesterol",130,"Mexico",1996,27,"Age-standardized",2,"Female",5.21082280032
+69,"mean_cholesterol",4643,"Aguascalientes",1996,27,"Age-standardized",1,"Male",5.21489513722
+69,"mean_cholesterol",4643,"Aguascalientes",1996,27,"Age-standardized",2,"Female",5.35351127481
+69,"mean_cholesterol",4644,"Baja California",1996,27,"Age-standardized",1,"Male",5.57749479595
+69,"mean_cholesterol",4644,"Baja California",1996,27,"Age-standardized",2,"Female",5.91749558566
+69,"mean_cholesterol",4645,"Baja California Sur",1996,27,"Age-standardized",1,"Male",5.40807111871
+69,"mean_cholesterol",4645,"Baja California Sur",1996,27,"Age-standardized",2,"Female",5.6152605813
+69,"mean_cholesterol",4646,"Campeche",1996,27,"Age-standardized",1,"Male",5.09779808334
+69,"mean_cholesterol",4646,"Campeche",1996,27,"Age-standardized",2,"Female",5.4097487269
+69,"mean_cholesterol",4647,"Coahuila",1996,27,"Age-standardized",1,"Male",4.75968109069
+69,"mean_cholesterol",4647,"Coahuila",1996,27,"Age-standardized",2,"Female",5.09933156936
+69,"mean_cholesterol",4648,"Colima",1996,27,"Age-standardized",1,"Male",5.31680612426
+69,"mean_cholesterol",4648,"Colima",1996,27,"Age-standardized",2,"Female",5.70633448902
+69,"mean_cholesterol",4649,"Chiapas",1996,27,"Age-standardized",1,"Male",5.17844648655
+69,"mean_cholesterol",4649,"Chiapas",1996,27,"Age-standardized",2,"Female",5.39610605596
+69,"mean_cholesterol",4650,"Chihuahua",1996,27,"Age-standardized",1,"Male",4.82888167556
+69,"mean_cholesterol",4650,"Chihuahua",1996,27,"Age-standardized",2,"Female",5.09474698288
+69,"mean_cholesterol",4651,"Mexico City",1996,27,"Age-standardized",1,"Male",4.98766929704
+69,"mean_cholesterol",4651,"Mexico City",1996,27,"Age-standardized",2,"Female",5.12454711821
+69,"mean_cholesterol",4652,"Durango",1996,27,"Age-standardized",1,"Male",4.98860946525
+69,"mean_cholesterol",4652,"Durango",1996,27,"Age-standardized",2,"Female",5.26498471009
+69,"mean_cholesterol",4653,"Guanajuato",1996,27,"Age-standardized",1,"Male",4.87623142994
+69,"mean_cholesterol",4653,"Guanajuato",1996,27,"Age-standardized",2,"Female",5.08031035421
+69,"mean_cholesterol",4654,"Guerrero",1996,27,"Age-standardized",1,"Male",4.56502580618
+69,"mean_cholesterol",4654,"Guerrero",1996,27,"Age-standardized",2,"Female",4.88979229921
+69,"mean_cholesterol",4655,"Hidalgo",1996,27,"Age-standardized",1,"Male",4.98627674211
+69,"mean_cholesterol",4655,"Hidalgo",1996,27,"Age-standardized",2,"Female",5.11164045025
+69,"mean_cholesterol",4656,"Jalisco",1996,27,"Age-standardized",1,"Male",5.06424090112
+69,"mean_cholesterol",4656,"Jalisco",1996,27,"Age-standardized",2,"Female",5.26467394912
+69,"mean_cholesterol",4657,"México",1996,27,"Age-standardized",1,"Male",5.0338664502
+69,"mean_cholesterol",4657,"México",1996,27,"Age-standardized",2,"Female",5.25934319855
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",1,"Male",4.82929615001
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",2,"Female",5.10875263049
+69,"mean_cholesterol",4659,"Morelos",1996,27,"Age-standardized",1,"Male",4.95428308103
+69,"mean_cholesterol",4659,"Morelos",1996,27,"Age-standardized",2,"Female",5.02934943815
+69,"mean_cholesterol",4660,"Nayarit",1996,27,"Age-standardized",1,"Male",4.96293358008
+69,"mean_cholesterol",4660,"Nayarit",1996,27,"Age-standardized",2,"Female",5.08938195145
+69,"mean_cholesterol",4661,"Nuevo León",1996,27,"Age-standardized",1,"Male",5.12226511286
+69,"mean_cholesterol",4661,"Nuevo León",1996,27,"Age-standardized",2,"Female",5.31678032128
+69,"mean_cholesterol",4662,"Oaxaca",1996,27,"Age-standardized",1,"Male",4.81132663009
+69,"mean_cholesterol",4662,"Oaxaca",1996,27,"Age-standardized",2,"Female",4.89160440932
+69,"mean_cholesterol",4663,"Puebla",1996,27,"Age-standardized",1,"Male",5.03163864603
+69,"mean_cholesterol",4663,"Puebla",1996,27,"Age-standardized",2,"Female",5.18179128714
+69,"mean_cholesterol",4664,"Querétaro",1996,27,"Age-standardized",1,"Male",5.059565073
+69,"mean_cholesterol",4664,"Querétaro",1996,27,"Age-standardized",2,"Female",5.22724433073
+69,"mean_cholesterol",4665,"Quintana Roo",1996,27,"Age-standardized",1,"Male",5.11703049088
+69,"mean_cholesterol",4665,"Quintana Roo",1996,27,"Age-standardized",2,"Female",5.44190554078
+69,"mean_cholesterol",4666,"San Luis Potosí",1996,27,"Age-standardized",1,"Male",4.82778291532
+69,"mean_cholesterol",4666,"San Luis Potosí",1996,27,"Age-standardized",2,"Female",5.05941791007
+69,"mean_cholesterol",4667,"Sinaloa",1996,27,"Age-standardized",1,"Male",5.2968154187
+69,"mean_cholesterol",4667,"Sinaloa",1996,27,"Age-standardized",2,"Female",5.53617248474
+69,"mean_cholesterol",4668,"Sonora",1996,27,"Age-standardized",1,"Male",5.33034703001
+69,"mean_cholesterol",4668,"Sonora",1996,27,"Age-standardized",2,"Female",5.52678764643
+69,"mean_cholesterol",4669,"Tabasco",1996,27,"Age-standardized",1,"Male",4.95711392997
+69,"mean_cholesterol",4669,"Tabasco",1996,27,"Age-standardized",2,"Female",5.23903142781
+69,"mean_cholesterol",4670,"Tamaulipas",1996,27,"Age-standardized",1,"Male",5.28608756746
+69,"mean_cholesterol",4670,"Tamaulipas",1996,27,"Age-standardized",2,"Female",5.61116837838
+69,"mean_cholesterol",4671,"Tlaxcala",1996,27,"Age-standardized",1,"Male",4.97835713841
+69,"mean_cholesterol",4671,"Tlaxcala",1996,27,"Age-standardized",2,"Female",5.15494209394
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",1,"Male",4.80521280021
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",2,"Female",4.9911746889
+69,"mean_cholesterol",4673,"Yucatán",1996,27,"Age-standardized",1,"Male",5.06805563778
+69,"mean_cholesterol",4673,"Yucatán",1996,27,"Age-standardized",2,"Female",5.34735637976
+69,"mean_cholesterol",4674,"Zacatecas",1996,27,"Age-standardized",1,"Male",5.18619991236
+69,"mean_cholesterol",4674,"Zacatecas",1996,27,"Age-standardized",2,"Female",5.31851121707
+69,"mean_cholesterol",130,"Mexico",1997,27,"Age-standardized",1,"Male",5.00845041365
+69,"mean_cholesterol",130,"Mexico",1997,27,"Age-standardized",2,"Female",5.23390350489
+69,"mean_cholesterol",4643,"Aguascalientes",1997,27,"Age-standardized",1,"Male",5.20984671029
+69,"mean_cholesterol",4643,"Aguascalientes",1997,27,"Age-standardized",2,"Female",5.37506167445
+69,"mean_cholesterol",4644,"Baja California",1997,27,"Age-standardized",1,"Male",5.5590346001
+69,"mean_cholesterol",4644,"Baja California",1997,27,"Age-standardized",2,"Female",5.9187390789
+69,"mean_cholesterol",4645,"Baja California Sur",1997,27,"Age-standardized",1,"Male",5.38287104574
+69,"mean_cholesterol",4645,"Baja California Sur",1997,27,"Age-standardized",2,"Female",5.61398646289
+69,"mean_cholesterol",4646,"Campeche",1997,27,"Age-standardized",1,"Male",5.09224589609
+69,"mean_cholesterol",4646,"Campeche",1997,27,"Age-standardized",2,"Female",5.42648013012
+69,"mean_cholesterol",4647,"Coahuila",1997,27,"Age-standardized",1,"Male",4.78656658567
+69,"mean_cholesterol",4647,"Coahuila",1997,27,"Age-standardized",2,"Female",5.14395336167
+69,"mean_cholesterol",4648,"Colima",1997,27,"Age-standardized",1,"Male",5.30768521957
+69,"mean_cholesterol",4648,"Colima",1997,27,"Age-standardized",2,"Female",5.71321572492
+69,"mean_cholesterol",4649,"Chiapas",1997,27,"Age-standardized",1,"Male",5.17801258282
+69,"mean_cholesterol",4649,"Chiapas",1997,27,"Age-standardized",2,"Female",5.42356301156
+69,"mean_cholesterol",4650,"Chihuahua",1997,27,"Age-standardized",1,"Male",4.83673283232
+69,"mean_cholesterol",4650,"Chihuahua",1997,27,"Age-standardized",2,"Female",5.1205379454
+69,"mean_cholesterol",4651,"Mexico City",1997,27,"Age-standardized",1,"Male",4.99159867868
+69,"mean_cholesterol",4651,"Mexico City",1997,27,"Age-standardized",2,"Female",5.14730740619
+69,"mean_cholesterol",4652,"Durango",1997,27,"Age-standardized",1,"Male",4.97286516559
+69,"mean_cholesterol",4652,"Durango",1997,27,"Age-standardized",2,"Female",5.27422479488
+69,"mean_cholesterol",4653,"Guanajuato",1997,27,"Age-standardized",1,"Male",4.87663978059
+69,"mean_cholesterol",4653,"Guanajuato",1997,27,"Age-standardized",2,"Female",5.10420569492
+69,"mean_cholesterol",4654,"Guerrero",1997,27,"Age-standardized",1,"Male",4.58512632879
+69,"mean_cholesterol",4654,"Guerrero",1997,27,"Age-standardized",2,"Female",4.92560936469
+69,"mean_cholesterol",4655,"Hidalgo",1997,27,"Age-standardized",1,"Male",4.98717716122
+69,"mean_cholesterol",4655,"Hidalgo",1997,27,"Age-standardized",2,"Female",5.13966406172
+69,"mean_cholesterol",4656,"Jalisco",1997,27,"Age-standardized",1,"Male",5.06249920728
+69,"mean_cholesterol",4656,"Jalisco",1997,27,"Age-standardized",2,"Female",5.2759109838
+69,"mean_cholesterol",4657,"México",1997,27,"Age-standardized",1,"Male",5.00746468324
+69,"mean_cholesterol",4657,"México",1997,27,"Age-standardized",2,"Female",5.26312022715
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",1,"Male",4.83847865117
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",2,"Female",5.13335023505
+69,"mean_cholesterol",4659,"Morelos",1997,27,"Age-standardized",1,"Male",4.96202242297
+69,"mean_cholesterol",4659,"Morelos",1997,27,"Age-standardized",2,"Female",5.05678212978
+69,"mean_cholesterol",4660,"Nayarit",1997,27,"Age-standardized",1,"Male",4.97669887693
+69,"mean_cholesterol",4660,"Nayarit",1997,27,"Age-standardized",2,"Female",5.125723242
+69,"mean_cholesterol",4661,"Nuevo León",1997,27,"Age-standardized",1,"Male",5.11921946662
+69,"mean_cholesterol",4661,"Nuevo León",1997,27,"Age-standardized",2,"Female",5.32867229106
+69,"mean_cholesterol",4662,"Oaxaca",1997,27,"Age-standardized",1,"Male",4.82268771866
+69,"mean_cholesterol",4662,"Oaxaca",1997,27,"Age-standardized",2,"Female",4.934137616
+69,"mean_cholesterol",4663,"Puebla",1997,27,"Age-standardized",1,"Male",5.02263266275
+69,"mean_cholesterol",4663,"Puebla",1997,27,"Age-standardized",2,"Female",5.1945755628
+69,"mean_cholesterol",4664,"Querétaro",1997,27,"Age-standardized",1,"Male",5.07172740853
+69,"mean_cholesterol",4664,"Querétaro",1997,27,"Age-standardized",2,"Female",5.25991769743
+69,"mean_cholesterol",4665,"Quintana Roo",1997,27,"Age-standardized",1,"Male",5.13075636573
+69,"mean_cholesterol",4665,"Quintana Roo",1997,27,"Age-standardized",2,"Female",5.46859454369
+69,"mean_cholesterol",4666,"San Luis Potosí",1997,27,"Age-standardized",1,"Male",4.83861391997
+69,"mean_cholesterol",4666,"San Luis Potosí",1997,27,"Age-standardized",2,"Female",5.09131234296
+69,"mean_cholesterol",4667,"Sinaloa",1997,27,"Age-standardized",1,"Male",5.27614530353
+69,"mean_cholesterol",4667,"Sinaloa",1997,27,"Age-standardized",2,"Female",5.53834400627
+69,"mean_cholesterol",4668,"Sonora",1997,27,"Age-standardized",1,"Male",5.32541063154
+69,"mean_cholesterol",4668,"Sonora",1997,27,"Age-standardized",2,"Female",5.5443634835
+69,"mean_cholesterol",4669,"Tabasco",1997,27,"Age-standardized",1,"Male",4.96914994082
+69,"mean_cholesterol",4669,"Tabasco",1997,27,"Age-standardized",2,"Female",5.27117291422
+69,"mean_cholesterol",4670,"Tamaulipas",1997,27,"Age-standardized",1,"Male",5.2831004677
+69,"mean_cholesterol",4670,"Tamaulipas",1997,27,"Age-standardized",2,"Female",5.62487177275
+69,"mean_cholesterol",4671,"Tlaxcala",1997,27,"Age-standardized",1,"Male",4.98702225302
+69,"mean_cholesterol",4671,"Tlaxcala",1997,27,"Age-standardized",2,"Female",5.18492332695
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",1,"Male",4.83461002619
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",2,"Female",5.04310152697
+69,"mean_cholesterol",4673,"Yucatán",1997,27,"Age-standardized",1,"Male",5.08422911733
+69,"mean_cholesterol",4673,"Yucatán",1997,27,"Age-standardized",2,"Female",5.3815236679
+69,"mean_cholesterol",4674,"Zacatecas",1997,27,"Age-standardized",1,"Male",5.18911247816
+69,"mean_cholesterol",4674,"Zacatecas",1997,27,"Age-standardized",2,"Female",5.34779522686
+69,"mean_cholesterol",130,"Mexico",1998,27,"Age-standardized",1,"Male",5.0122899902
+69,"mean_cholesterol",130,"Mexico",1998,27,"Age-standardized",2,"Female",5.25837021687
+69,"mean_cholesterol",4643,"Aguascalientes",1998,27,"Age-standardized",1,"Male",5.20616915079
+69,"mean_cholesterol",4643,"Aguascalientes",1998,27,"Age-standardized",2,"Female",5.39786200215
+69,"mean_cholesterol",4644,"Baja California",1998,27,"Age-standardized",1,"Male",5.54052180539
+69,"mean_cholesterol",4644,"Baja California",1998,27,"Age-standardized",2,"Female",5.91931409807
+69,"mean_cholesterol",4645,"Baja California Sur",1998,27,"Age-standardized",1,"Male",5.34556813727
+69,"mean_cholesterol",4645,"Baja California Sur",1998,27,"Age-standardized",2,"Female",5.60104193982
+69,"mean_cholesterol",4646,"Campeche",1998,27,"Age-standardized",1,"Male",5.08636944496
+69,"mean_cholesterol",4646,"Campeche",1998,27,"Age-standardized",2,"Female",5.44324854502
+69,"mean_cholesterol",4647,"Coahuila",1998,27,"Age-standardized",1,"Male",4.82640126425
+69,"mean_cholesterol",4647,"Coahuila",1998,27,"Age-standardized",2,"Female",5.19918282436
+69,"mean_cholesterol",4648,"Colima",1998,27,"Age-standardized",1,"Male",5.30053207201
+69,"mean_cholesterol",4648,"Colima",1998,27,"Age-standardized",2,"Female",5.71829425338
+69,"mean_cholesterol",4649,"Chiapas",1998,27,"Age-standardized",1,"Male",5.17231970086
+69,"mean_cholesterol",4649,"Chiapas",1998,27,"Age-standardized",2,"Female",5.44759992108
+69,"mean_cholesterol",4650,"Chihuahua",1998,27,"Age-standardized",1,"Male",4.85226533991
+69,"mean_cholesterol",4650,"Chihuahua",1998,27,"Age-standardized",2,"Female",5.15160948435
+69,"mean_cholesterol",4651,"Mexico City",1998,27,"Age-standardized",1,"Male",4.99542938883
+69,"mean_cholesterol",4651,"Mexico City",1998,27,"Age-standardized",2,"Female",5.16840899451
+69,"mean_cholesterol",4652,"Durango",1998,27,"Age-standardized",1,"Male",4.95368006504
+69,"mean_cholesterol",4652,"Durango",1998,27,"Age-standardized",2,"Female",5.27959650986
+69,"mean_cholesterol",4653,"Guanajuato",1998,27,"Age-standardized",1,"Male",4.87644348236
+69,"mean_cholesterol",4653,"Guanajuato",1998,27,"Age-standardized",2,"Female",5.12820131025
+69,"mean_cholesterol",4654,"Guerrero",1998,27,"Age-standardized",1,"Male",4.61722628385
+69,"mean_cholesterol",4654,"Guerrero",1998,27,"Age-standardized",2,"Female",4.96999727613
+69,"mean_cholesterol",4655,"Hidalgo",1998,27,"Age-standardized",1,"Male",4.99171749754
+69,"mean_cholesterol",4655,"Hidalgo",1998,27,"Age-standardized",2,"Female",5.17305836276
+69,"mean_cholesterol",4656,"Jalisco",1998,27,"Age-standardized",1,"Male",5.06002819593
+69,"mean_cholesterol",4656,"Jalisco",1998,27,"Age-standardized",2,"Female",5.28210311215
+69,"mean_cholesterol",4657,"México",1998,27,"Age-standardized",1,"Male",4.97753443979
+69,"mean_cholesterol",4657,"México",1998,27,"Age-standardized",2,"Female",5.26329039526
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",1,"Male",4.85103139293
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",2,"Female",5.15944862457
+69,"mean_cholesterol",4659,"Morelos",1998,27,"Age-standardized",1,"Male",4.97711121082
+69,"mean_cholesterol",4659,"Morelos",1998,27,"Age-standardized",2,"Female",5.08832141747
+69,"mean_cholesterol",4660,"Nayarit",1998,27,"Age-standardized",1,"Male",5.00057775947
+69,"mean_cholesterol",4660,"Nayarit",1998,27,"Age-standardized",2,"Female",5.17074372441
+69,"mean_cholesterol",4661,"Nuevo León",1998,27,"Age-standardized",1,"Male",5.11690841658
+69,"mean_cholesterol",4661,"Nuevo León",1998,27,"Age-standardized",2,"Female",5.33803896255
+69,"mean_cholesterol",4662,"Oaxaca",1998,27,"Age-standardized",1,"Male",4.84300557278
+69,"mean_cholesterol",4662,"Oaxaca",1998,27,"Age-standardized",2,"Female",4.98947473339
+69,"mean_cholesterol",4663,"Puebla",1998,27,"Age-standardized",1,"Male",5.013350193
+69,"mean_cholesterol",4663,"Puebla",1998,27,"Age-standardized",2,"Female",5.20654057614
+69,"mean_cholesterol",4664,"Querétaro",1998,27,"Age-standardized",1,"Male",5.08267693969
+69,"mean_cholesterol",4664,"Querétaro",1998,27,"Age-standardized",2,"Female",5.2910710242
+69,"mean_cholesterol",4665,"Quintana Roo",1998,27,"Age-standardized",1,"Male",5.1514326897
+69,"mean_cholesterol",4665,"Quintana Roo",1998,27,"Age-standardized",2,"Female",5.5012198588
+69,"mean_cholesterol",4666,"San Luis Potosí",1998,27,"Age-standardized",1,"Male",4.85517617305
+69,"mean_cholesterol",4666,"San Luis Potosí",1998,27,"Age-standardized",2,"Female",5.12817801587
+69,"mean_cholesterol",4667,"Sinaloa",1998,27,"Age-standardized",1,"Male",5.25241920459
+69,"mean_cholesterol",4667,"Sinaloa",1998,27,"Age-standardized",2,"Female",5.53469014293
+69,"mean_cholesterol",4668,"Sonora",1998,27,"Age-standardized",1,"Male",5.32319777481
+69,"mean_cholesterol",4668,"Sonora",1998,27,"Age-standardized",2,"Female",5.56459715292
+69,"mean_cholesterol",4669,"Tabasco",1998,27,"Age-standardized",1,"Male",4.98633321838
+69,"mean_cholesterol",4669,"Tabasco",1998,27,"Age-standardized",2,"Female",5.30744222578
+69,"mean_cholesterol",4670,"Tamaulipas",1998,27,"Age-standardized",1,"Male",5.282003361
+69,"mean_cholesterol",4670,"Tamaulipas",1998,27,"Age-standardized",2,"Female",5.63812604881
+69,"mean_cholesterol",4671,"Tlaxcala",1998,27,"Age-standardized",1,"Male",4.99947904196
+69,"mean_cholesterol",4671,"Tlaxcala",1998,27,"Age-standardized",2,"Female",5.21914627996
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",1,"Male",4.87697592821
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",2,"Female",5.10868732045
+69,"mean_cholesterol",4673,"Yucatán",1998,27,"Age-standardized",1,"Male",5.11058418414
+69,"mean_cholesterol",4673,"Yucatán",1998,27,"Age-standardized",2,"Female",5.4236345277
+69,"mean_cholesterol",4674,"Zacatecas",1998,27,"Age-standardized",1,"Male",5.19576088976
+69,"mean_cholesterol",4674,"Zacatecas",1998,27,"Age-standardized",2,"Female",5.38213732447
+69,"mean_cholesterol",130,"Mexico",1999,27,"Age-standardized",1,"Male",5.01696347912
+69,"mean_cholesterol",130,"Mexico",1999,27,"Age-standardized",2,"Female",5.26833765516
+69,"mean_cholesterol",4643,"Aguascalientes",1999,27,"Age-standardized",1,"Male",5.19932611835
+69,"mean_cholesterol",4643,"Aguascalientes",1999,27,"Age-standardized",2,"Female",5.40503288516
+69,"mean_cholesterol",4644,"Baja California",1999,27,"Age-standardized",1,"Male",5.51792581561
+69,"mean_cholesterol",4644,"Baja California",1999,27,"Age-standardized",2,"Female",5.89947694856
+69,"mean_cholesterol",4645,"Baja California Sur",1999,27,"Age-standardized",1,"Male",5.29149920285
+69,"mean_cholesterol",4645,"Baja California Sur",1999,27,"Age-standardized",2,"Female",5.5586854435
+69,"mean_cholesterol",4646,"Campeche",1999,27,"Age-standardized",1,"Male",5.07235779854
+69,"mean_cholesterol",4646,"Campeche",1999,27,"Age-standardized",2,"Female",5.43690580569
+69,"mean_cholesterol",4647,"Coahuila",1999,27,"Age-standardized",1,"Male",4.88165454793
+69,"mean_cholesterol",4647,"Coahuila",1999,27,"Age-standardized",2,"Female",5.24747025115
+69,"mean_cholesterol",4648,"Colima",1999,27,"Age-standardized",1,"Male",5.29069326126
+69,"mean_cholesterol",4648,"Colima",1999,27,"Age-standardized",2,"Female",5.69913847307
+69,"mean_cholesterol",4649,"Chiapas",1999,27,"Age-standardized",1,"Male",5.15448573683
+69,"mean_cholesterol",4649,"Chiapas",1999,27,"Age-standardized",2,"Female",5.44663604569
+69,"mean_cholesterol",4650,"Chihuahua",1999,27,"Age-standardized",1,"Male",4.87830656298
+69,"mean_cholesterol",4650,"Chihuahua",1999,27,"Age-standardized",2,"Female",5.17581355271
+69,"mean_cholesterol",4651,"Mexico City",1999,27,"Age-standardized",1,"Male",5.00121731646
+69,"mean_cholesterol",4651,"Mexico City",1999,27,"Age-standardized",2,"Female",5.17764666079
+69,"mean_cholesterol",4652,"Durango",1999,27,"Age-standardized",1,"Male",4.93305041156
+69,"mean_cholesterol",4652,"Durango",1999,27,"Age-standardized",2,"Female",5.26676569923
+69,"mean_cholesterol",4653,"Guanajuato",1999,27,"Age-standardized",1,"Male",4.87375881075
+69,"mean_cholesterol",4653,"Guanajuato",1999,27,"Age-standardized",2,"Female",5.1360958098
+69,"mean_cholesterol",4654,"Guerrero",1999,27,"Age-standardized",1,"Male",4.66620470972
+69,"mean_cholesterol",4654,"Guerrero",1999,27,"Age-standardized",2,"Female",5.01036779451
+69,"mean_cholesterol",4655,"Hidalgo",1999,27,"Age-standardized",1,"Male",4.99678466583
+69,"mean_cholesterol",4655,"Hidalgo",1999,27,"Age-standardized",2,"Female",5.19620871472
+69,"mean_cholesterol",4656,"Jalisco",1999,27,"Age-standardized",1,"Male",5.05535105024
+69,"mean_cholesterol",4656,"Jalisco",1999,27,"Age-standardized",2,"Female",5.26876925847
+69,"mean_cholesterol",4657,"México",1999,27,"Age-standardized",1,"Male",4.94358386022
+69,"mean_cholesterol",4657,"México",1999,27,"Age-standardized",2,"Female",5.24351909594
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",1,"Male",4.86547392111
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",2,"Female",5.17141256587
+69,"mean_cholesterol",4659,"Morelos",1999,27,"Age-standardized",1,"Male",5.00103399876
+69,"mean_cholesterol",4659,"Morelos",1999,27,"Age-standardized",2,"Female",5.11208146947
+69,"mean_cholesterol",4660,"Nayarit",1999,27,"Age-standardized",1,"Male",5.03802605101
+69,"mean_cholesterol",4660,"Nayarit",1999,27,"Age-standardized",2,"Female",5.21500147545
+69,"mean_cholesterol",4661,"Nuevo León",1999,27,"Age-standardized",1,"Male",5.11253840894
+69,"mean_cholesterol",4661,"Nuevo León",1999,27,"Age-standardized",2,"Female",5.33083380273
+69,"mean_cholesterol",4662,"Oaxaca",1999,27,"Age-standardized",1,"Male",4.86895817153
+69,"mean_cholesterol",4662,"Oaxaca",1999,27,"Age-standardized",2,"Female",5.03834743879
+69,"mean_cholesterol",4663,"Puebla",1999,27,"Age-standardized",1,"Male",5.00147207183
+69,"mean_cholesterol",4663,"Puebla",1999,27,"Age-standardized",2,"Female",5.2012471617
+69,"mean_cholesterol",4664,"Querétaro",1999,27,"Age-standardized",1,"Male",5.09957039585
+69,"mean_cholesterol",4664,"Querétaro",1999,27,"Age-standardized",2,"Female",5.31586044839
+69,"mean_cholesterol",4665,"Quintana Roo",1999,27,"Age-standardized",1,"Male",5.17826819621
+69,"mean_cholesterol",4665,"Quintana Roo",1999,27,"Age-standardized",2,"Female",5.52574699517
+69,"mean_cholesterol",4666,"San Luis Potosí",1999,27,"Age-standardized",1,"Male",4.87694919334
+69,"mean_cholesterol",4666,"San Luis Potosí",1999,27,"Age-standardized",2,"Female",5.15531872721
+69,"mean_cholesterol",4667,"Sinaloa",1999,27,"Age-standardized",1,"Male",5.22608722291
+69,"mean_cholesterol",4667,"Sinaloa",1999,27,"Age-standardized",2,"Female",5.50921478802
+69,"mean_cholesterol",4668,"Sonora",1999,27,"Age-standardized",1,"Male",5.32038533622
+69,"mean_cholesterol",4668,"Sonora",1999,27,"Age-standardized",2,"Female",5.56941717992
+69,"mean_cholesterol",4669,"Tabasco",1999,27,"Age-standardized",1,"Male",5.0078935297
+69,"mean_cholesterol",4669,"Tabasco",1999,27,"Age-standardized",2,"Female",5.33112835793
+69,"mean_cholesterol",4670,"Tamaulipas",1999,27,"Age-standardized",1,"Male",5.27876133496
+69,"mean_cholesterol",4670,"Tamaulipas",1999,27,"Age-standardized",2,"Female",5.63141631626
+69,"mean_cholesterol",4671,"Tlaxcala",1999,27,"Age-standardized",1,"Male",5.01957608156
+69,"mean_cholesterol",4671,"Tlaxcala",1999,27,"Age-standardized",2,"Female",5.24828281911
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",1,"Male",4.92605595294
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",2,"Female",5.16632584355
+69,"mean_cholesterol",4673,"Yucatán",1999,27,"Age-standardized",1,"Male",5.14017616414
+69,"mean_cholesterol",4673,"Yucatán",1999,27,"Age-standardized",2,"Female",5.45172218948
+69,"mean_cholesterol",4674,"Zacatecas",1999,27,"Age-standardized",1,"Male",5.20323578957
+69,"mean_cholesterol",4674,"Zacatecas",1999,27,"Age-standardized",2,"Female",5.40588624923
+69,"mean_cholesterol",130,"Mexico",2000,27,"Age-standardized",1,"Male",5.02497426066
+69,"mean_cholesterol",130,"Mexico",2000,27,"Age-standardized",2,"Female",5.27539858384
+69,"mean_cholesterol",4643,"Aguascalientes",2000,27,"Age-standardized",1,"Male",5.19769589549
+69,"mean_cholesterol",4643,"Aguascalientes",2000,27,"Age-standardized",2,"Female",5.40802497871
+69,"mean_cholesterol",4644,"Baja California",2000,27,"Age-standardized",1,"Male",5.501884529
+69,"mean_cholesterol",4644,"Baja California",2000,27,"Age-standardized",2,"Female",5.87992040493
+69,"mean_cholesterol",4645,"Baja California Sur",2000,27,"Age-standardized",1,"Male",5.25262510839
+69,"mean_cholesterol",4645,"Baja California Sur",2000,27,"Age-standardized",2,"Female",5.52523204759
+69,"mean_cholesterol",4646,"Campeche",2000,27,"Age-standardized",1,"Male",5.06329409619
+69,"mean_cholesterol",4646,"Campeche",2000,27,"Age-standardized",2,"Female",5.4271091141
+69,"mean_cholesterol",4647,"Coahuila",2000,27,"Age-standardized",1,"Male",4.93055176258
+69,"mean_cholesterol",4647,"Coahuila",2000,27,"Age-standardized",2,"Female",5.28153726625
+69,"mean_cholesterol",4648,"Colima",2000,27,"Age-standardized",1,"Male",5.28494308449
+69,"mean_cholesterol",4648,"Colima",2000,27,"Age-standardized",2,"Female",5.6772756946
+69,"mean_cholesterol",4649,"Chiapas",2000,27,"Age-standardized",1,"Male",5.13957831334
+69,"mean_cholesterol",4649,"Chiapas",2000,27,"Age-standardized",2,"Female",5.4395279125
+69,"mean_cholesterol",4650,"Chihuahua",2000,27,"Age-standardized",1,"Male",4.90637304714
+69,"mean_cholesterol",4650,"Chihuahua",2000,27,"Age-standardized",2,"Female",5.19705377142
+69,"mean_cholesterol",4651,"Mexico City",2000,27,"Age-standardized",1,"Male",5.0101316526
+69,"mean_cholesterol",4651,"Mexico City",2000,27,"Age-standardized",2,"Female",5.18541504787
+69,"mean_cholesterol",4652,"Durango",2000,27,"Age-standardized",1,"Male",4.9239671255
+69,"mean_cholesterol",4652,"Durango",2000,27,"Age-standardized",2,"Female",5.25729979019
+69,"mean_cholesterol",4653,"Guanajuato",2000,27,"Age-standardized",1,"Male",4.87392473705
+69,"mean_cholesterol",4653,"Guanajuato",2000,27,"Age-standardized",2,"Female",5.14098132513
+69,"mean_cholesterol",4654,"Guerrero",2000,27,"Age-standardized",1,"Male",4.71660239629
+69,"mean_cholesterol",4654,"Guerrero",2000,27,"Age-standardized",2,"Female",5.04791814656
+69,"mean_cholesterol",4655,"Hidalgo",2000,27,"Age-standardized",1,"Male",5.00433844379
+69,"mean_cholesterol",4655,"Hidalgo",2000,27,"Age-standardized",2,"Female",5.21609771467
+69,"mean_cholesterol",4656,"Jalisco",2000,27,"Age-standardized",1,"Male",5.05495659242
+69,"mean_cholesterol",4656,"Jalisco",2000,27,"Age-standardized",2,"Female",5.25699013912
+69,"mean_cholesterol",4657,"México",2000,27,"Age-standardized",1,"Male",4.92399979505
+69,"mean_cholesterol",4657,"México",2000,27,"Age-standardized",2,"Female",5.22780933027
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",1,"Male",4.88177536191
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",2,"Female",5.18103383232
+69,"mean_cholesterol",4659,"Morelos",2000,27,"Age-standardized",1,"Male",5.02503860043
+69,"mean_cholesterol",4659,"Morelos",2000,27,"Age-standardized",2,"Female",5.13088349619
+69,"mean_cholesterol",4660,"Nayarit",2000,27,"Age-standardized",1,"Male",5.07688141496
+69,"mean_cholesterol",4660,"Nayarit",2000,27,"Age-standardized",2,"Female",5.25619399111
+69,"mean_cholesterol",4661,"Nuevo León",2000,27,"Age-standardized",1,"Male",5.11145441135
+69,"mean_cholesterol",4661,"Nuevo León",2000,27,"Age-standardized",2,"Female",5.32263540596
+69,"mean_cholesterol",4662,"Oaxaca",2000,27,"Age-standardized",1,"Male",4.89455649303
+69,"mean_cholesterol",4662,"Oaxaca",2000,27,"Age-standardized",2,"Female",5.07539832221
+69,"mean_cholesterol",4663,"Puebla",2000,27,"Age-standardized",1,"Male",4.99431355439
+69,"mean_cholesterol",4663,"Puebla",2000,27,"Age-standardized",2,"Female",5.1958550548
+69,"mean_cholesterol",4664,"Querétaro",2000,27,"Age-standardized",1,"Male",5.1230776862
+69,"mean_cholesterol",4664,"Querétaro",2000,27,"Age-standardized",2,"Female",5.34352926489
+69,"mean_cholesterol",4665,"Quintana Roo",2000,27,"Age-standardized",1,"Male",5.20481546367
+69,"mean_cholesterol",4665,"Quintana Roo",2000,27,"Age-standardized",2,"Female",5.54583210402
+69,"mean_cholesterol",4666,"San Luis Potosí",2000,27,"Age-standardized",1,"Male",4.90146928975
+69,"mean_cholesterol",4666,"San Luis Potosí",2000,27,"Age-standardized",2,"Female",5.17838608727
+69,"mean_cholesterol",4667,"Sinaloa",2000,27,"Age-standardized",1,"Male",5.21201515579
+69,"mean_cholesterol",4667,"Sinaloa",2000,27,"Age-standardized",2,"Female",5.48814273109
+69,"mean_cholesterol",4668,"Sonora",2000,27,"Age-standardized",1,"Male",5.3218600296
+69,"mean_cholesterol",4668,"Sonora",2000,27,"Age-standardized",2,"Female",5.57120596956
+69,"mean_cholesterol",4669,"Tabasco",2000,27,"Age-standardized",1,"Male",5.03048780966
+69,"mean_cholesterol",4669,"Tabasco",2000,27,"Age-standardized",2,"Female",5.34974764561
+69,"mean_cholesterol",4670,"Tamaulipas",2000,27,"Age-standardized",1,"Male",5.27648887287
+69,"mean_cholesterol",4670,"Tamaulipas",2000,27,"Age-standardized",2,"Female",5.62047604087
+69,"mean_cholesterol",4671,"Tlaxcala",2000,27,"Age-standardized",1,"Male",5.04250283421
+69,"mean_cholesterol",4671,"Tlaxcala",2000,27,"Age-standardized",2,"Female",5.27616995408
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",1,"Male",4.96665472908
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",2,"Female",5.20788940842
+69,"mean_cholesterol",4673,"Yucatán",2000,27,"Age-standardized",1,"Male",5.16671849496
+69,"mean_cholesterol",4673,"Yucatán",2000,27,"Age-standardized",2,"Female",5.47120971083
+69,"mean_cholesterol",4674,"Zacatecas",2000,27,"Age-standardized",1,"Male",5.21164317797
+69,"mean_cholesterol",4674,"Zacatecas",2000,27,"Age-standardized",2,"Female",5.42468665835
+69,"mean_cholesterol",130,"Mexico",2001,27,"Age-standardized",1,"Male",5.03411953863
+69,"mean_cholesterol",130,"Mexico",2001,27,"Age-standardized",2,"Female",5.28199440525
+69,"mean_cholesterol",4643,"Aguascalientes",2001,27,"Age-standardized",1,"Male",5.19774933583
+69,"mean_cholesterol",4643,"Aguascalientes",2001,27,"Age-standardized",2,"Female",5.41049216675
+69,"mean_cholesterol",4644,"Baja California",2001,27,"Age-standardized",1,"Male",5.48936295885
+69,"mean_cholesterol",4644,"Baja California",2001,27,"Age-standardized",2,"Female",5.86097497957
+69,"mean_cholesterol",4645,"Baja California Sur",2001,27,"Age-standardized",1,"Male",5.23238473444
+69,"mean_cholesterol",4645,"Baja California Sur",2001,27,"Age-standardized",2,"Female",5.50851908657
+69,"mean_cholesterol",4646,"Campeche",2001,27,"Age-standardized",1,"Male",5.05823318712
+69,"mean_cholesterol",4646,"Campeche",2001,27,"Age-standardized",2,"Female",5.41696220889
+69,"mean_cholesterol",4647,"Coahuila",2001,27,"Age-standardized",1,"Male",4.97210602421
+69,"mean_cholesterol",4647,"Coahuila",2001,27,"Age-standardized",2,"Female",5.3063608628
+69,"mean_cholesterol",4648,"Colima",2001,27,"Age-standardized",1,"Male",5.28112922173
+69,"mean_cholesterol",4648,"Colima",2001,27,"Age-standardized",2,"Female",5.65690336356
+69,"mean_cholesterol",4649,"Chiapas",2001,27,"Age-standardized",1,"Male",5.12802831643
+69,"mean_cholesterol",4649,"Chiapas",2001,27,"Age-standardized",2,"Female",5.43108141151
+69,"mean_cholesterol",4650,"Chihuahua",2001,27,"Age-standardized",1,"Male",4.93365829662
+69,"mean_cholesterol",4650,"Chihuahua",2001,27,"Age-standardized",2,"Female",5.21717306178
+69,"mean_cholesterol",4651,"Mexico City",2001,27,"Age-standardized",1,"Male",5.0212907195
+69,"mean_cholesterol",4651,"Mexico City",2001,27,"Age-standardized",2,"Female",5.1941943347
+69,"mean_cholesterol",4652,"Durango",2001,27,"Age-standardized",1,"Male",4.92206194279
+69,"mean_cholesterol",4652,"Durango",2001,27,"Age-standardized",2,"Female",5.25287120102
+69,"mean_cholesterol",4653,"Guanajuato",2001,27,"Age-standardized",1,"Male",4.87610323537
+69,"mean_cholesterol",4653,"Guanajuato",2001,27,"Age-standardized",2,"Female",5.14535071993
+69,"mean_cholesterol",4654,"Guerrero",2001,27,"Age-standardized",1,"Male",4.76409445635
+69,"mean_cholesterol",4654,"Guerrero",2001,27,"Age-standardized",2,"Female",5.08377735286
+69,"mean_cholesterol",4655,"Hidalgo",2001,27,"Age-standardized",1,"Male",5.01316738972
+69,"mean_cholesterol",4655,"Hidalgo",2001,27,"Age-standardized",2,"Female",5.2341142188
+69,"mean_cholesterol",4656,"Jalisco",2001,27,"Age-standardized",1,"Male",5.05685098491
+69,"mean_cholesterol",4656,"Jalisco",2001,27,"Age-standardized",2,"Female",5.24884875467
+69,"mean_cholesterol",4657,"México",2001,27,"Age-standardized",1,"Male",4.91255746239
+69,"mean_cholesterol",4657,"México",2001,27,"Age-standardized",2,"Female",5.21670419586
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",1,"Male",4.89803682256
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",2,"Female",5.19031900617
+69,"mean_cholesterol",4659,"Morelos",2001,27,"Age-standardized",1,"Male",5.04694803701
+69,"mean_cholesterol",4659,"Morelos",2001,27,"Age-standardized",2,"Female",5.14664555442
+69,"mean_cholesterol",4660,"Nayarit",2001,27,"Age-standardized",1,"Male",5.11289883034
+69,"mean_cholesterol",4660,"Nayarit",2001,27,"Age-standardized",2,"Female",5.2943735708
+69,"mean_cholesterol",4661,"Nuevo León",2001,27,"Age-standardized",1,"Male",5.11261684888
+69,"mean_cholesterol",4661,"Nuevo León",2001,27,"Age-standardized",2,"Female",5.31686939543
+69,"mean_cholesterol",4662,"Oaxaca",2001,27,"Age-standardized",1,"Male",4.91805960217
+69,"mean_cholesterol",4662,"Oaxaca",2001,27,"Age-standardized",2,"Female",5.10511332067
+69,"mean_cholesterol",4663,"Puebla",2001,27,"Age-standardized",1,"Male",4.99065986096
+69,"mean_cholesterol",4663,"Puebla",2001,27,"Age-standardized",2,"Female",5.19280566502
+69,"mean_cholesterol",4664,"Querétaro",2001,27,"Age-standardized",1,"Male",5.14674881362
+69,"mean_cholesterol",4664,"Querétaro",2001,27,"Age-standardized",2,"Female",5.37011391299
+69,"mean_cholesterol",4665,"Quintana Roo",2001,27,"Age-standardized",1,"Male",5.22983497113
+69,"mean_cholesterol",4665,"Quintana Roo",2001,27,"Age-standardized",2,"Female",5.56288570925
+69,"mean_cholesterol",4666,"San Luis Potosí",2001,27,"Age-standardized",1,"Male",4.92465724917
+69,"mean_cholesterol",4666,"San Luis Potosí",2001,27,"Age-standardized",2,"Female",5.19855805863
+69,"mean_cholesterol",4667,"Sinaloa",2001,27,"Age-standardized",1,"Male",5.20567842046
+69,"mean_cholesterol",4667,"Sinaloa",2001,27,"Age-standardized",2,"Female",5.47338642095
+69,"mean_cholesterol",4668,"Sonora",2001,27,"Age-standardized",1,"Male",5.3262045473
+69,"mean_cholesterol",4668,"Sonora",2001,27,"Age-standardized",2,"Female",5.57362785648
+69,"mean_cholesterol",4669,"Tabasco",2001,27,"Age-standardized",1,"Male",5.05166385073
+69,"mean_cholesterol",4669,"Tabasco",2001,27,"Age-standardized",2,"Female",5.36512273224
+69,"mean_cholesterol",4670,"Tamaulipas",2001,27,"Age-standardized",1,"Male",5.27416928667
+69,"mean_cholesterol",4670,"Tamaulipas",2001,27,"Age-standardized",2,"Female",5.60921387291
+69,"mean_cholesterol",4671,"Tlaxcala",2001,27,"Age-standardized",1,"Male",5.06790917146
+69,"mean_cholesterol",4671,"Tlaxcala",2001,27,"Age-standardized",2,"Female",5.3048549717
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",1,"Male",4.99903475826
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",2,"Female",5.23892283741
+69,"mean_cholesterol",4673,"Yucatán",2001,27,"Age-standardized",1,"Male",5.18888616348
+69,"mean_cholesterol",4673,"Yucatán",2001,27,"Age-standardized",2,"Female",5.48608846956
+69,"mean_cholesterol",4674,"Zacatecas",2001,27,"Age-standardized",1,"Male",5.21939402604
+69,"mean_cholesterol",4674,"Zacatecas",2001,27,"Age-standardized",2,"Female",5.44006728446
+69,"mean_cholesterol",130,"Mexico",2002,27,"Age-standardized",1,"Male",5.04431295345
+69,"mean_cholesterol",130,"Mexico",2002,27,"Age-standardized",2,"Female",5.28912793001
+69,"mean_cholesterol",4643,"Aguascalientes",2002,27,"Age-standardized",1,"Male",5.19996717229
+69,"mean_cholesterol",4643,"Aguascalientes",2002,27,"Age-standardized",2,"Female",5.41423466923
+69,"mean_cholesterol",4644,"Baja California",2002,27,"Age-standardized",1,"Male",5.47755149209
+69,"mean_cholesterol",4644,"Baja California",2002,27,"Age-standardized",2,"Female",5.84138903794
+69,"mean_cholesterol",4645,"Baja California Sur",2002,27,"Age-standardized",1,"Male",5.2173059262
+69,"mean_cholesterol",4645,"Baja California Sur",2002,27,"Age-standardized",2,"Female",5.49580358153
+69,"mean_cholesterol",4646,"Campeche",2002,27,"Age-standardized",1,"Male",5.05629446602
+69,"mean_cholesterol",4646,"Campeche",2002,27,"Age-standardized",2,"Female",5.40746622148
+69,"mean_cholesterol",4647,"Coahuila",2002,27,"Age-standardized",1,"Male",5.00862688339
+69,"mean_cholesterol",4647,"Coahuila",2002,27,"Age-standardized",2,"Female",5.32639195025
+69,"mean_cholesterol",4648,"Colima",2002,27,"Age-standardized",1,"Male",5.27949785869
+69,"mean_cholesterol",4648,"Colima",2002,27,"Age-standardized",2,"Female",5.63966235248
+69,"mean_cholesterol",4649,"Chiapas",2002,27,"Age-standardized",1,"Male",5.12185620207
+69,"mean_cholesterol",4649,"Chiapas",2002,27,"Age-standardized",2,"Female",5.42490941852
+69,"mean_cholesterol",4650,"Chihuahua",2002,27,"Age-standardized",1,"Male",4.96063890068
+69,"mean_cholesterol",4650,"Chihuahua",2002,27,"Age-standardized",2,"Female",5.23743625056
+69,"mean_cholesterol",4651,"Mexico City",2002,27,"Age-standardized",1,"Male",5.034005973
+69,"mean_cholesterol",4651,"Mexico City",2002,27,"Age-standardized",2,"Female",5.204385475
+69,"mean_cholesterol",4652,"Durango",2002,27,"Age-standardized",1,"Male",4.92590773475
+69,"mean_cholesterol",4652,"Durango",2002,27,"Age-standardized",2,"Female",5.2536543273
+69,"mean_cholesterol",4653,"Guanajuato",2002,27,"Age-standardized",1,"Male",4.88053549386
+69,"mean_cholesterol",4653,"Guanajuato",2002,27,"Age-standardized",2,"Female",5.15050430867
+69,"mean_cholesterol",4654,"Guerrero",2002,27,"Age-standardized",1,"Male",4.80923609529
+69,"mean_cholesterol",4654,"Guerrero",2002,27,"Age-standardized",2,"Female",5.11864925807
+69,"mean_cholesterol",4655,"Hidalgo",2002,27,"Age-standardized",1,"Male",5.0237343007
+69,"mean_cholesterol",4655,"Hidalgo",2002,27,"Age-standardized",2,"Female",5.25137374779
+69,"mean_cholesterol",4656,"Jalisco",2002,27,"Age-standardized",1,"Male",5.06097042451
+69,"mean_cholesterol",4656,"Jalisco",2002,27,"Age-standardized",2,"Female",5.24466637059
+69,"mean_cholesterol",4657,"México",2002,27,"Age-standardized",1,"Male",4.90482364044
+69,"mean_cholesterol",4657,"México",2002,27,"Age-standardized",2,"Female",5.20790280278
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",1,"Male",4.9150104689
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",2,"Female",5.20049795652
+69,"mean_cholesterol",4659,"Morelos",2002,27,"Age-standardized",1,"Male",5.06784535844
+69,"mean_cholesterol",4659,"Morelos",2002,27,"Age-standardized",2,"Female",5.16134730066
+69,"mean_cholesterol",4660,"Nayarit",2002,27,"Age-standardized",1,"Male",5.14601996256
+69,"mean_cholesterol",4660,"Nayarit",2002,27,"Age-standardized",2,"Female",5.3299417219
+69,"mean_cholesterol",4661,"Nuevo León",2002,27,"Age-standardized",1,"Male",5.11666227719
+69,"mean_cholesterol",4661,"Nuevo León",2002,27,"Age-standardized",2,"Female",5.31505650583
+69,"mean_cholesterol",4662,"Oaxaca",2002,27,"Age-standardized",1,"Male",4.94162864659
+69,"mean_cholesterol",4662,"Oaxaca",2002,27,"Age-standardized",2,"Female",5.1314053139
+69,"mean_cholesterol",4663,"Puebla",2002,27,"Age-standardized",1,"Male",4.99114248769
+69,"mean_cholesterol",4663,"Puebla",2002,27,"Age-standardized",2,"Female",5.19320578353
+69,"mean_cholesterol",4664,"Querétaro",2002,27,"Age-standardized",1,"Male",5.16497798896
+69,"mean_cholesterol",4664,"Querétaro",2002,27,"Age-standardized",2,"Female",5.39037611835
+69,"mean_cholesterol",4665,"Quintana Roo",2002,27,"Age-standardized",1,"Male",5.2541789879
+69,"mean_cholesterol",4665,"Quintana Roo",2002,27,"Age-standardized",2,"Female",5.57844582888
+69,"mean_cholesterol",4666,"San Luis Potosí",2002,27,"Age-standardized",1,"Male",4.94683635741
+69,"mean_cholesterol",4666,"San Luis Potosí",2002,27,"Age-standardized",2,"Female",5.21704810434
+69,"mean_cholesterol",4667,"Sinaloa",2002,27,"Age-standardized",1,"Male",5.20551757575
+69,"mean_cholesterol",4667,"Sinaloa",2002,27,"Age-standardized",2,"Female",5.46507928764
+69,"mean_cholesterol",4668,"Sonora",2002,27,"Age-standardized",1,"Male",5.33375836039
+69,"mean_cholesterol",4668,"Sonora",2002,27,"Age-standardized",2,"Female",5.57849283655
+69,"mean_cholesterol",4669,"Tabasco",2002,27,"Age-standardized",1,"Male",5.07198564931
+69,"mean_cholesterol",4669,"Tabasco",2002,27,"Age-standardized",2,"Female",5.37875391462
+69,"mean_cholesterol",4670,"Tamaulipas",2002,27,"Age-standardized",1,"Male",5.27284672316
+69,"mean_cholesterol",4670,"Tamaulipas",2002,27,"Age-standardized",2,"Female",5.59980134733
+69,"mean_cholesterol",4671,"Tlaxcala",2002,27,"Age-standardized",1,"Male",5.09314302923
+69,"mean_cholesterol",4671,"Tlaxcala",2002,27,"Age-standardized",2,"Female",5.33204402303
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",1,"Male",5.02688699396
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",2,"Female",5.26441566542
+69,"mean_cholesterol",4673,"Yucatán",2002,27,"Age-standardized",1,"Male",5.20848852723
+69,"mean_cholesterol",4673,"Yucatán",2002,27,"Age-standardized",2,"Female",5.49911967335
+69,"mean_cholesterol",4674,"Zacatecas",2002,27,"Age-standardized",1,"Male",5.22720639921
+69,"mean_cholesterol",4674,"Zacatecas",2002,27,"Age-standardized",2,"Female",5.45357874586
+69,"mean_cholesterol",130,"Mexico",2003,27,"Age-standardized",1,"Male",5.05435067604
+69,"mean_cholesterol",130,"Mexico",2003,27,"Age-standardized",2,"Female",5.29551599703
+69,"mean_cholesterol",4643,"Aguascalientes",2003,27,"Age-standardized",1,"Male",5.2032855496
+69,"mean_cholesterol",4643,"Aguascalientes",2003,27,"Age-standardized",2,"Female",5.41795041884
+69,"mean_cholesterol",4644,"Baja California",2003,27,"Age-standardized",1,"Male",5.46517088065
+69,"mean_cholesterol",4644,"Baja California",2003,27,"Age-standardized",2,"Female",5.81992195764
+69,"mean_cholesterol",4645,"Baja California Sur",2003,27,"Age-standardized",1,"Male",5.20550322408
+69,"mean_cholesterol",4645,"Baja California Sur",2003,27,"Age-standardized",2,"Female",5.48406188829
+69,"mean_cholesterol",4646,"Campeche",2003,27,"Age-standardized",1,"Male",5.05562587056
+69,"mean_cholesterol",4646,"Campeche",2003,27,"Age-standardized",2,"Female",5.39755539163
+69,"mean_cholesterol",4647,"Coahuila",2003,27,"Age-standardized",1,"Male",5.0409009907
+69,"mean_cholesterol",4647,"Coahuila",2003,27,"Age-standardized",2,"Female",5.34252457462
+69,"mean_cholesterol",4648,"Colima",2003,27,"Age-standardized",1,"Male",5.27905257301
+69,"mean_cholesterol",4648,"Colima",2003,27,"Age-standardized",2,"Female",5.62440024117
+69,"mean_cholesterol",4649,"Chiapas",2003,27,"Age-standardized",1,"Male",5.11993498913
+69,"mean_cholesterol",4649,"Chiapas",2003,27,"Age-standardized",2,"Female",5.42083081522
+69,"mean_cholesterol",4650,"Chihuahua",2003,27,"Age-standardized",1,"Male",4.98659785614
+69,"mean_cholesterol",4650,"Chihuahua",2003,27,"Age-standardized",2,"Female",5.2566184248
+69,"mean_cholesterol",4651,"Mexico City",2003,27,"Age-standardized",1,"Male",5.04535649877
+69,"mean_cholesterol",4651,"Mexico City",2003,27,"Age-standardized",2,"Female",5.21272117703
+69,"mean_cholesterol",4652,"Durango",2003,27,"Age-standardized",1,"Male",4.93332420741
+69,"mean_cholesterol",4652,"Durango",2003,27,"Age-standardized",2,"Female",5.25743744647
+69,"mean_cholesterol",4653,"Guanajuato",2003,27,"Age-standardized",1,"Male",4.88628879371
+69,"mean_cholesterol",4653,"Guanajuato",2003,27,"Age-standardized",2,"Female",5.15572559022
+69,"mean_cholesterol",4654,"Guerrero",2003,27,"Age-standardized",1,"Male",4.85191626426
+69,"mean_cholesterol",4654,"Guerrero",2003,27,"Age-standardized",2,"Female",5.15190727872
+69,"mean_cholesterol",4655,"Hidalgo",2003,27,"Age-standardized",1,"Male",5.03513211079
+69,"mean_cholesterol",4655,"Hidalgo",2003,27,"Age-standardized",2,"Female",5.26717643489
+69,"mean_cholesterol",4656,"Jalisco",2003,27,"Age-standardized",1,"Male",5.06608073106
+69,"mean_cholesterol",4656,"Jalisco",2003,27,"Age-standardized",2,"Female",5.24238929368
+69,"mean_cholesterol",4657,"México",2003,27,"Age-standardized",1,"Male",4.89756988169
+69,"mean_cholesterol",4657,"México",2003,27,"Age-standardized",2,"Female",5.19877627614
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",1,"Male",4.93152582953
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",2,"Female",5.21052564354
+69,"mean_cholesterol",4659,"Morelos",2003,27,"Age-standardized",1,"Male",5.08765194835
+69,"mean_cholesterol",4659,"Morelos",2003,27,"Age-standardized",2,"Female",5.17464141653
+69,"mean_cholesterol",4660,"Nayarit",2003,27,"Age-standardized",1,"Male",5.17579563245
+69,"mean_cholesterol",4660,"Nayarit",2003,27,"Age-standardized",2,"Female",5.36172190434
+69,"mean_cholesterol",4661,"Nuevo León",2003,27,"Age-standardized",1,"Male",5.12259416173
+69,"mean_cholesterol",4661,"Nuevo León",2003,27,"Age-standardized",2,"Female",5.31507741476
+69,"mean_cholesterol",4662,"Oaxaca",2003,27,"Age-standardized",1,"Male",4.96551184806
+69,"mean_cholesterol",4662,"Oaxaca",2003,27,"Age-standardized",2,"Female",5.15518921578
+69,"mean_cholesterol",4663,"Puebla",2003,27,"Age-standardized",1,"Male",4.99512092145
+69,"mean_cholesterol",4663,"Puebla",2003,27,"Age-standardized",2,"Female",5.19611856908
+69,"mean_cholesterol",4664,"Querétaro",2003,27,"Age-standardized",1,"Male",5.17693712084
+69,"mean_cholesterol",4664,"Querétaro",2003,27,"Age-standardized",2,"Female",5.40328757118
+69,"mean_cholesterol",4665,"Quintana Roo",2003,27,"Age-standardized",1,"Male",5.2767838625
+69,"mean_cholesterol",4665,"Quintana Roo",2003,27,"Age-standardized",2,"Female",5.59153041008
+69,"mean_cholesterol",4666,"San Luis Potosí",2003,27,"Age-standardized",1,"Male",4.96720482699
+69,"mean_cholesterol",4666,"San Luis Potosí",2003,27,"Age-standardized",2,"Female",5.23300071926
+69,"mean_cholesterol",4667,"Sinaloa",2003,27,"Age-standardized",1,"Male",5.20920306104
+69,"mean_cholesterol",4667,"Sinaloa",2003,27,"Age-standardized",2,"Female",5.46071069682
+69,"mean_cholesterol",4668,"Sonora",2003,27,"Age-standardized",1,"Male",5.34329971261
+69,"mean_cholesterol",4668,"Sonora",2003,27,"Age-standardized",2,"Female",5.58418041852
+69,"mean_cholesterol",4669,"Tabasco",2003,27,"Age-standardized",1,"Male",5.09085554728
+69,"mean_cholesterol",4669,"Tabasco",2003,27,"Age-standardized",2,"Female",5.39020709434
+69,"mean_cholesterol",4670,"Tamaulipas",2003,27,"Age-standardized",1,"Male",5.27238027524
+69,"mean_cholesterol",4670,"Tamaulipas",2003,27,"Age-standardized",2,"Female",5.59150133358
+69,"mean_cholesterol",4671,"Tlaxcala",2003,27,"Age-standardized",1,"Male",5.11570571451
+69,"mean_cholesterol",4671,"Tlaxcala",2003,27,"Age-standardized",2,"Female",5.35511034787
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",1,"Male",5.05123422165
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",2,"Female",5.28576155987
+69,"mean_cholesterol",4673,"Yucatán",2003,27,"Age-standardized",1,"Male",5.22549943511
+69,"mean_cholesterol",4673,"Yucatán",2003,27,"Age-standardized",2,"Female",5.5099591285
+69,"mean_cholesterol",4674,"Zacatecas",2003,27,"Age-standardized",1,"Male",5.23450189972
+69,"mean_cholesterol",4674,"Zacatecas",2003,27,"Age-standardized",2,"Female",5.46461619754
+69,"mean_cholesterol",130,"Mexico",2004,27,"Age-standardized",1,"Male",5.06346732482
+69,"mean_cholesterol",130,"Mexico",2004,27,"Age-standardized",2,"Female",5.30129318458
+69,"mean_cholesterol",4643,"Aguascalientes",2004,27,"Age-standardized",1,"Male",5.20578969231
+69,"mean_cholesterol",4643,"Aguascalientes",2004,27,"Age-standardized",2,"Female",5.42115123136
+69,"mean_cholesterol",4644,"Baja California",2004,27,"Age-standardized",1,"Male",5.45185274827
+69,"mean_cholesterol",4644,"Baja California",2004,27,"Age-standardized",2,"Female",5.79775784516
+69,"mean_cholesterol",4645,"Baja California Sur",2004,27,"Age-standardized",1,"Male",5.20165423938
+69,"mean_cholesterol",4645,"Baja California Sur",2004,27,"Age-standardized",2,"Female",5.48027579678
+69,"mean_cholesterol",4646,"Campeche",2004,27,"Age-standardized",1,"Male",5.05449158262
+69,"mean_cholesterol",4646,"Campeche",2004,27,"Age-standardized",2,"Female",5.38702758003
+69,"mean_cholesterol",4647,"Coahuila",2004,27,"Age-standardized",1,"Male",5.06848581292
+69,"mean_cholesterol",4647,"Coahuila",2004,27,"Age-standardized",2,"Female",5.35582227524
+69,"mean_cholesterol",4648,"Colima",2004,27,"Age-standardized",1,"Male",5.27827193641
+69,"mean_cholesterol",4648,"Colima",2004,27,"Age-standardized",2,"Female",5.61087054416
+69,"mean_cholesterol",4649,"Chiapas",2004,27,"Age-standardized",1,"Male",5.1190519899
+69,"mean_cholesterol",4649,"Chiapas",2004,27,"Age-standardized",2,"Female",5.41659976286
+69,"mean_cholesterol",4650,"Chihuahua",2004,27,"Age-standardized",1,"Male",5.01004153422
+69,"mean_cholesterol",4650,"Chihuahua",2004,27,"Age-standardized",2,"Female",5.27401956092
+69,"mean_cholesterol",4651,"Mexico City",2004,27,"Age-standardized",1,"Male",5.05458015938
+69,"mean_cholesterol",4651,"Mexico City",2004,27,"Age-standardized",2,"Female",5.21963549385
+69,"mean_cholesterol",4652,"Durango",2004,27,"Age-standardized",1,"Male",4.9417545412
+69,"mean_cholesterol",4652,"Durango",2004,27,"Age-standardized",2,"Female",5.26231759974
+69,"mean_cholesterol",4653,"Guanajuato",2004,27,"Age-standardized",1,"Male",4.89198667158
+69,"mean_cholesterol",4653,"Guanajuato",2004,27,"Age-standardized",2,"Female",5.16064364242
+69,"mean_cholesterol",4654,"Guerrero",2004,27,"Age-standardized",1,"Male",4.89044325722
+69,"mean_cholesterol",4654,"Guerrero",2004,27,"Age-standardized",2,"Female",5.18190931369
+69,"mean_cholesterol",4655,"Hidalgo",2004,27,"Age-standardized",1,"Male",5.0459179835
+69,"mean_cholesterol",4655,"Hidalgo",2004,27,"Age-standardized",2,"Female",5.28097701837
+69,"mean_cholesterol",4656,"Jalisco",2004,27,"Age-standardized",1,"Male",5.07054112332
+69,"mean_cholesterol",4656,"Jalisco",2004,27,"Age-standardized",2,"Female",5.24115829189
+69,"mean_cholesterol",4657,"México",2004,27,"Age-standardized",1,"Male",4.89275228532
+69,"mean_cholesterol",4657,"México",2004,27,"Age-standardized",2,"Female",5.19208686014
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",1,"Male",4.94639279328
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",2,"Female",5.21938543614
+69,"mean_cholesterol",4659,"Morelos",2004,27,"Age-standardized",1,"Male",5.10506280295
+69,"mean_cholesterol",4659,"Morelos",2004,27,"Age-standardized",2,"Female",5.18631866558
+69,"mean_cholesterol",4660,"Nayarit",2004,27,"Age-standardized",1,"Male",5.20114975908
+69,"mean_cholesterol",4660,"Nayarit",2004,27,"Age-standardized",2,"Female",5.38927559877
+69,"mean_cholesterol",4661,"Nuevo León",2004,27,"Age-standardized",1,"Male",5.12864485987
+69,"mean_cholesterol",4661,"Nuevo León",2004,27,"Age-standardized",2,"Female",5.31643831931
+69,"mean_cholesterol",4662,"Oaxaca",2004,27,"Age-standardized",1,"Male",4.98798901941
+69,"mean_cholesterol",4662,"Oaxaca",2004,27,"Age-standardized",2,"Female",5.17630899435
+69,"mean_cholesterol",4663,"Puebla",2004,27,"Age-standardized",1,"Male",5.00034551344
+69,"mean_cholesterol",4663,"Puebla",2004,27,"Age-standardized",2,"Female",5.19994814339
+69,"mean_cholesterol",4664,"Querétaro",2004,27,"Age-standardized",1,"Male",5.18582752612
+69,"mean_cholesterol",4664,"Querétaro",2004,27,"Age-standardized",2,"Female",5.41305094681
+69,"mean_cholesterol",4665,"Quintana Roo",2004,27,"Age-standardized",1,"Male",5.29595548846
+69,"mean_cholesterol",4665,"Quintana Roo",2004,27,"Age-standardized",2,"Female",5.60162526745
+69,"mean_cholesterol",4666,"San Luis Potosí",2004,27,"Age-standardized",1,"Male",4.98454915648
+69,"mean_cholesterol",4666,"San Luis Potosí",2004,27,"Age-standardized",2,"Female",5.24629791523
+69,"mean_cholesterol",4667,"Sinaloa",2004,27,"Age-standardized",1,"Male",5.21411400872
+69,"mean_cholesterol",4667,"Sinaloa",2004,27,"Age-standardized",2,"Female",5.45877290634
+69,"mean_cholesterol",4668,"Sonora",2004,27,"Age-standardized",1,"Male",5.35223517338
+69,"mean_cholesterol",4668,"Sonora",2004,27,"Age-standardized",2,"Female",5.58983150973
+69,"mean_cholesterol",4669,"Tabasco",2004,27,"Age-standardized",1,"Male",5.10718801922
+69,"mean_cholesterol",4669,"Tabasco",2004,27,"Age-standardized",2,"Female",5.39939041765
+69,"mean_cholesterol",4670,"Tamaulipas",2004,27,"Age-standardized",1,"Male",5.27177220396
+69,"mean_cholesterol",4670,"Tamaulipas",2004,27,"Age-standardized",2,"Female",5.58434863925
+69,"mean_cholesterol",4671,"Tlaxcala",2004,27,"Age-standardized",1,"Male",5.13693427514
+69,"mean_cholesterol",4671,"Tlaxcala",2004,27,"Age-standardized",2,"Female",5.37648211765
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",1,"Male",5.07223609346
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",2,"Female",5.30355247484
+69,"mean_cholesterol",4673,"Yucatán",2004,27,"Age-standardized",1,"Male",5.23937325676
+69,"mean_cholesterol",4673,"Yucatán",2004,27,"Age-standardized",2,"Female",5.51848420913
+69,"mean_cholesterol",4674,"Zacatecas",2004,27,"Age-standardized",1,"Male",5.23995241527
+69,"mean_cholesterol",4674,"Zacatecas",2004,27,"Age-standardized",2,"Female",5.4728454117
+69,"mean_cholesterol",130,"Mexico",2005,27,"Age-standardized",1,"Male",5.07103546786
+69,"mean_cholesterol",130,"Mexico",2005,27,"Age-standardized",2,"Female",5.30597473011
+69,"mean_cholesterol",4643,"Aguascalientes",2005,27,"Age-standardized",1,"Male",5.20646573917
+69,"mean_cholesterol",4643,"Aguascalientes",2005,27,"Age-standardized",2,"Female",5.42301595053
+69,"mean_cholesterol",4644,"Baja California",2005,27,"Age-standardized",1,"Male",5.43866068908
+69,"mean_cholesterol",4644,"Baja California",2005,27,"Age-standardized",2,"Female",5.77629769395
+69,"mean_cholesterol",4645,"Baja California Sur",2005,27,"Age-standardized",1,"Male",5.19585716962
+69,"mean_cholesterol",4645,"Baja California Sur",2005,27,"Age-standardized",2,"Female",5.47463987085
+69,"mean_cholesterol",4646,"Campeche",2005,27,"Age-standardized",1,"Male",5.05244668979
+69,"mean_cholesterol",4646,"Campeche",2005,27,"Age-standardized",2,"Female",5.37572781091
+69,"mean_cholesterol",4647,"Coahuila",2005,27,"Age-standardized",1,"Male",5.09137052426
+69,"mean_cholesterol",4647,"Coahuila",2005,27,"Age-standardized",2,"Female",5.36660936239
+69,"mean_cholesterol",4648,"Colima",2005,27,"Age-standardized",1,"Male",5.27644313461
+69,"mean_cholesterol",4648,"Colima",2005,27,"Age-standardized",2,"Female",5.59819874426
+69,"mean_cholesterol",4649,"Chiapas",2005,27,"Age-standardized",1,"Male",5.11720272282
+69,"mean_cholesterol",4649,"Chiapas",2005,27,"Age-standardized",2,"Female",5.41043792985
+69,"mean_cholesterol",4650,"Chihuahua",2005,27,"Age-standardized",1,"Male",5.03102762607
+69,"mean_cholesterol",4650,"Chihuahua",2005,27,"Age-standardized",2,"Female",5.28957174461
+69,"mean_cholesterol",4651,"Mexico City",2005,27,"Age-standardized",1,"Male",5.06198882576
+69,"mean_cholesterol",4651,"Mexico City",2005,27,"Age-standardized",2,"Female",5.22591088378
+69,"mean_cholesterol",4652,"Durango",2005,27,"Age-standardized",1,"Male",4.94994824684
+69,"mean_cholesterol",4652,"Durango",2005,27,"Age-standardized",2,"Female",5.26679090083
+69,"mean_cholesterol",4653,"Guanajuato",2005,27,"Age-standardized",1,"Male",4.89722342189
+69,"mean_cholesterol",4653,"Guanajuato",2005,27,"Age-standardized",2,"Female",5.16471625638
+69,"mean_cholesterol",4654,"Guerrero",2005,27,"Age-standardized",1,"Male",4.92359688221
+69,"mean_cholesterol",4654,"Guerrero",2005,27,"Age-standardized",2,"Female",5.20692930109
+69,"mean_cholesterol",4655,"Hidalgo",2005,27,"Age-standardized",1,"Male",5.05520393968
+69,"mean_cholesterol",4655,"Hidalgo",2005,27,"Age-standardized",2,"Female",5.29204442534
+69,"mean_cholesterol",4656,"Jalisco",2005,27,"Age-standardized",1,"Male",5.0735349128
+69,"mean_cholesterol",4656,"Jalisco",2005,27,"Age-standardized",2,"Female",5.24004524994
+69,"mean_cholesterol",4657,"México",2005,27,"Age-standardized",1,"Male",4.88912614108
+69,"mean_cholesterol",4657,"México",2005,27,"Age-standardized",2,"Female",5.18706210666
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",1,"Male",4.95854299481
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",2,"Female",5.22616147727
+69,"mean_cholesterol",4659,"Morelos",2005,27,"Age-standardized",1,"Male",5.11961120888
+69,"mean_cholesterol",4659,"Morelos",2005,27,"Age-standardized",2,"Female",5.19613670177
+69,"mean_cholesterol",4660,"Nayarit",2005,27,"Age-standardized",1,"Male",5.22158872698
+69,"mean_cholesterol",4660,"Nayarit",2005,27,"Age-standardized",2,"Female",5.41192203024
+69,"mean_cholesterol",4661,"Nuevo León",2005,27,"Age-standardized",1,"Male",5.13378618606
+69,"mean_cholesterol",4661,"Nuevo León",2005,27,"Age-standardized",2,"Female",5.31850296402
+69,"mean_cholesterol",4662,"Oaxaca",2005,27,"Age-standardized",1,"Male",5.00805927114
+69,"mean_cholesterol",4662,"Oaxaca",2005,27,"Age-standardized",2,"Female",5.19415002513
+69,"mean_cholesterol",4663,"Puebla",2005,27,"Age-standardized",1,"Male",5.00567078384
+69,"mean_cholesterol",4663,"Puebla",2005,27,"Age-standardized",2,"Female",5.20360556639
+69,"mean_cholesterol",4664,"Querétaro",2005,27,"Age-standardized",1,"Male",5.19449402858
+69,"mean_cholesterol",4664,"Querétaro",2005,27,"Age-standardized",2,"Female",5.42262679115
+69,"mean_cholesterol",4665,"Quintana Roo",2005,27,"Age-standardized",1,"Male",5.31123148938
+69,"mean_cholesterol",4665,"Quintana Roo",2005,27,"Age-standardized",2,"Female",5.60839298409
+69,"mean_cholesterol",4666,"San Luis Potosí",2005,27,"Age-standardized",1,"Male",4.99859979008
+69,"mean_cholesterol",4666,"San Luis Potosí",2005,27,"Age-standardized",2,"Female",5.25681376717
+69,"mean_cholesterol",4667,"Sinaloa",2005,27,"Age-standardized",1,"Male",5.21918856278
+69,"mean_cholesterol",4667,"Sinaloa",2005,27,"Age-standardized",2,"Female",5.45802493562
+69,"mean_cholesterol",4668,"Sonora",2005,27,"Age-standardized",1,"Male",5.35921518908
+69,"mean_cholesterol",4668,"Sonora",2005,27,"Age-standardized",2,"Female",5.5944020703
+69,"mean_cholesterol",4669,"Tabasco",2005,27,"Age-standardized",1,"Male",5.12102854394
+69,"mean_cholesterol",4669,"Tabasco",2005,27,"Age-standardized",2,"Female",5.40612130265
+69,"mean_cholesterol",4670,"Tamaulipas",2005,27,"Age-standardized",1,"Male",5.27117725178
+69,"mean_cholesterol",4670,"Tamaulipas",2005,27,"Age-standardized",2,"Female",5.57814419452
+69,"mean_cholesterol",4671,"Tlaxcala",2005,27,"Age-standardized",1,"Male",5.15433404183
+69,"mean_cholesterol",4671,"Tlaxcala",2005,27,"Age-standardized",2,"Female",5.39340532147
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",1,"Male",5.08971657579
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",2,"Female",5.31767490278
+69,"mean_cholesterol",4673,"Yucatán",2005,27,"Age-standardized",1,"Male",5.2494942007
+69,"mean_cholesterol",4673,"Yucatán",2005,27,"Age-standardized",2,"Female",5.52401079325
+69,"mean_cholesterol",4674,"Zacatecas",2005,27,"Age-standardized",1,"Male",5.24287736946
+69,"mean_cholesterol",4674,"Zacatecas",2005,27,"Age-standardized",2,"Female",5.47785894912
+69,"mean_cholesterol",130,"Mexico",2006,27,"Age-standardized",1,"Male",5.0783181282
+69,"mean_cholesterol",130,"Mexico",2006,27,"Age-standardized",2,"Female",5.30936233263
+69,"mean_cholesterol",4643,"Aguascalientes",2006,27,"Age-standardized",1,"Male",5.2071576808
+69,"mean_cholesterol",4643,"Aguascalientes",2006,27,"Age-standardized",2,"Female",5.424185439
+69,"mean_cholesterol",4644,"Baja California",2006,27,"Age-standardized",1,"Male",5.43195678741
+69,"mean_cholesterol",4644,"Baja California",2006,27,"Age-standardized",2,"Female",5.75845552922
+69,"mean_cholesterol",4645,"Baja California Sur",2006,27,"Age-standardized",1,"Male",5.18190853637
+69,"mean_cholesterol",4645,"Baja California Sur",2006,27,"Age-standardized",2,"Female",5.45874710135
+69,"mean_cholesterol",4646,"Campeche",2006,27,"Age-standardized",1,"Male",5.05220735264
+69,"mean_cholesterol",4646,"Campeche",2006,27,"Age-standardized",2,"Female",5.36454734453
+69,"mean_cholesterol",4647,"Coahuila",2006,27,"Age-standardized",1,"Male",5.11273134564
+69,"mean_cholesterol",4647,"Coahuila",2006,27,"Age-standardized",2,"Female",5.37601268959
+69,"mean_cholesterol",4648,"Colima",2006,27,"Age-standardized",1,"Male",5.2748092919
+69,"mean_cholesterol",4648,"Colima",2006,27,"Age-standardized",2,"Female",5.58648201074
+69,"mean_cholesterol",4649,"Chiapas",2006,27,"Age-standardized",1,"Male",5.11661680212
+69,"mean_cholesterol",4649,"Chiapas",2006,27,"Age-standardized",2,"Female",5.40401401333
+69,"mean_cholesterol",4650,"Chihuahua",2006,27,"Age-standardized",1,"Male",5.05171500598
+69,"mean_cholesterol",4650,"Chihuahua",2006,27,"Age-standardized",2,"Female",5.30423609032
+69,"mean_cholesterol",4651,"Mexico City",2006,27,"Age-standardized",1,"Male",5.06568688088
+69,"mean_cholesterol",4651,"Mexico City",2006,27,"Age-standardized",2,"Female",5.22916922446
+69,"mean_cholesterol",4652,"Durango",2006,27,"Age-standardized",1,"Male",4.95948237472
+69,"mean_cholesterol",4652,"Durango",2006,27,"Age-standardized",2,"Female",5.27120482593
+69,"mean_cholesterol",4653,"Guanajuato",2006,27,"Age-standardized",1,"Male",4.90450278202
+69,"mean_cholesterol",4653,"Guanajuato",2006,27,"Age-standardized",2,"Female",5.16871400748
+69,"mean_cholesterol",4654,"Guerrero",2006,27,"Age-standardized",1,"Male",4.95344374407
+69,"mean_cholesterol",4654,"Guerrero",2006,27,"Age-standardized",2,"Female",5.2285026056
+69,"mean_cholesterol",4655,"Hidalgo",2006,27,"Age-standardized",1,"Male",5.06578479642
+69,"mean_cholesterol",4655,"Hidalgo",2006,27,"Age-standardized",2,"Female",5.30158987628
+69,"mean_cholesterol",4656,"Jalisco",2006,27,"Age-standardized",1,"Male",5.07750926651
+69,"mean_cholesterol",4656,"Jalisco",2006,27,"Age-standardized",2,"Female",5.23934397754
+69,"mean_cholesterol",4657,"México",2006,27,"Age-standardized",1,"Male",4.88390624536
+69,"mean_cholesterol",4657,"México",2006,27,"Age-standardized",2,"Female",5.17903324106
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",1,"Male",4.97036332225
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",2,"Female",5.23142430958
+69,"mean_cholesterol",4659,"Morelos",2006,27,"Age-standardized",1,"Male",5.13349936716
+69,"mean_cholesterol",4659,"Morelos",2006,27,"Age-standardized",2,"Female",5.20479938413
+69,"mean_cholesterol",4660,"Nayarit",2006,27,"Age-standardized",1,"Male",5.23958031917
+69,"mean_cholesterol",4660,"Nayarit",2006,27,"Age-standardized",2,"Female",5.43087305047
+69,"mean_cholesterol",4661,"Nuevo León",2006,27,"Age-standardized",1,"Male",5.13989350209
+69,"mean_cholesterol",4661,"Nuevo León",2006,27,"Age-standardized",2,"Female",5.32114238896
+69,"mean_cholesterol",4662,"Oaxaca",2006,27,"Age-standardized",1,"Male",5.02726428912
+69,"mean_cholesterol",4662,"Oaxaca",2006,27,"Age-standardized",2,"Female",5.21014097639
+69,"mean_cholesterol",4663,"Puebla",2006,27,"Age-standardized",1,"Male",5.01404151316
+69,"mean_cholesterol",4663,"Puebla",2006,27,"Age-standardized",2,"Female",5.20823130921
+69,"mean_cholesterol",4664,"Querétaro",2006,27,"Age-standardized",1,"Male",5.2030476833
+69,"mean_cholesterol",4664,"Querétaro",2006,27,"Age-standardized",2,"Female",5.43060532239
+69,"mean_cholesterol",4665,"Quintana Roo",2006,27,"Age-standardized",1,"Male",5.32536147998
+69,"mean_cholesterol",4665,"Quintana Roo",2006,27,"Age-standardized",2,"Female",5.61320676671
+69,"mean_cholesterol",4666,"San Luis Potosí",2006,27,"Age-standardized",1,"Male",5.01065563599
+69,"mean_cholesterol",4666,"San Luis Potosí",2006,27,"Age-standardized",2,"Female",5.26570142173
+69,"mean_cholesterol",4667,"Sinaloa",2006,27,"Age-standardized",1,"Male",5.22620488728
+69,"mean_cholesterol",4667,"Sinaloa",2006,27,"Age-standardized",2,"Female",5.45829296925
+69,"mean_cholesterol",4668,"Sonora",2006,27,"Age-standardized",1,"Male",5.36651488305
+69,"mean_cholesterol",4668,"Sonora",2006,27,"Age-standardized",2,"Female",5.59862737897
+69,"mean_cholesterol",4669,"Tabasco",2006,27,"Age-standardized",1,"Male",5.13506237367
+69,"mean_cholesterol",4669,"Tabasco",2006,27,"Age-standardized",2,"Female",5.41170740199
+69,"mean_cholesterol",4670,"Tamaulipas",2006,27,"Age-standardized",1,"Male",5.27313144015
+69,"mean_cholesterol",4670,"Tamaulipas",2006,27,"Age-standardized",2,"Female",5.573732122
+69,"mean_cholesterol",4671,"Tlaxcala",2006,27,"Age-standardized",1,"Male",5.16721418653
+69,"mean_cholesterol",4671,"Tlaxcala",2006,27,"Age-standardized",2,"Female",5.40385878446
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",1,"Male",5.10621552884
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",2,"Female",5.32986902742
+69,"mean_cholesterol",4673,"Yucatán",2006,27,"Age-standardized",1,"Male",5.25869550051
+69,"mean_cholesterol",4673,"Yucatán",2006,27,"Age-standardized",2,"Female",5.52749435049
+69,"mean_cholesterol",4674,"Zacatecas",2006,27,"Age-standardized",1,"Male",5.24625387016
+69,"mean_cholesterol",4674,"Zacatecas",2006,27,"Age-standardized",2,"Female",5.481246121
+69,"mean_cholesterol",130,"Mexico",2007,27,"Age-standardized",1,"Male",5.08488624587
+69,"mean_cholesterol",130,"Mexico",2007,27,"Age-standardized",2,"Female",5.30918778609
+69,"mean_cholesterol",4643,"Aguascalientes",2007,27,"Age-standardized",1,"Male",5.20743881531
+69,"mean_cholesterol",4643,"Aguascalientes",2007,27,"Age-standardized",2,"Female",5.42193078484
+69,"mean_cholesterol",4644,"Baja California",2007,27,"Age-standardized",1,"Male",5.43000268874
+69,"mean_cholesterol",4644,"Baja California",2007,27,"Age-standardized",2,"Female",5.74305759009
+69,"mean_cholesterol",4645,"Baja California Sur",2007,27,"Age-standardized",1,"Male",5.16572061942
+69,"mean_cholesterol",4645,"Baja California Sur",2007,27,"Age-standardized",2,"Female",5.43722560815
+69,"mean_cholesterol",4646,"Campeche",2007,27,"Age-standardized",1,"Male",5.05166753472
+69,"mean_cholesterol",4646,"Campeche",2007,27,"Age-standardized",2,"Female",5.35062671427
+69,"mean_cholesterol",4647,"Coahuila",2007,27,"Age-standardized",1,"Male",5.13132381835
+69,"mean_cholesterol",4647,"Coahuila",2007,27,"Age-standardized",2,"Female",5.38164619241
+69,"mean_cholesterol",4648,"Colima",2007,27,"Age-standardized",1,"Male",5.27281218561
+69,"mean_cholesterol",4648,"Colima",2007,27,"Age-standardized",2,"Female",5.57259773278
+69,"mean_cholesterol",4649,"Chiapas",2007,27,"Age-standardized",1,"Male",5.11663519525
+69,"mean_cholesterol",4649,"Chiapas",2007,27,"Age-standardized",2,"Female",5.39480567988
+69,"mean_cholesterol",4650,"Chihuahua",2007,27,"Age-standardized",1,"Male",5.07109737265
+69,"mean_cholesterol",4650,"Chihuahua",2007,27,"Age-standardized",2,"Female",5.31522839534
+69,"mean_cholesterol",4651,"Mexico City",2007,27,"Age-standardized",1,"Male",5.06722322804
+69,"mean_cholesterol",4651,"Mexico City",2007,27,"Age-standardized",2,"Female",5.22746594147
+69,"mean_cholesterol",4652,"Durango",2007,27,"Age-standardized",1,"Male",4.96904385025
+69,"mean_cholesterol",4652,"Durango",2007,27,"Age-standardized",2,"Female",5.27243676885
+69,"mean_cholesterol",4653,"Guanajuato",2007,27,"Age-standardized",1,"Male",4.91224142462
+69,"mean_cholesterol",4653,"Guanajuato",2007,27,"Age-standardized",2,"Female",5.17005623546
+69,"mean_cholesterol",4654,"Guerrero",2007,27,"Age-standardized",1,"Male",4.97981120577
+69,"mean_cholesterol",4654,"Guerrero",2007,27,"Age-standardized",2,"Female",5.24399470441
+69,"mean_cholesterol",4655,"Hidalgo",2007,27,"Age-standardized",1,"Male",5.07591696248
+69,"mean_cholesterol",4655,"Hidalgo",2007,27,"Age-standardized",2,"Female",5.30697498036
+69,"mean_cholesterol",4656,"Jalisco",2007,27,"Age-standardized",1,"Male",5.08115929664
+69,"mean_cholesterol",4656,"Jalisco",2007,27,"Age-standardized",2,"Female",5.2362126185
+69,"mean_cholesterol",4657,"México",2007,27,"Age-standardized",1,"Male",4.87791824992
+69,"mean_cholesterol",4657,"México",2007,27,"Age-standardized",2,"Female",5.16721083166
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",1,"Male",4.98047048953
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",2,"Female",5.2322542548
+69,"mean_cholesterol",4659,"Morelos",2007,27,"Age-standardized",1,"Male",5.14637917178
+69,"mean_cholesterol",4659,"Morelos",2007,27,"Age-standardized",2,"Female",5.20983652834
+69,"mean_cholesterol",4660,"Nayarit",2007,27,"Age-standardized",1,"Male",5.25496367004
+69,"mean_cholesterol",4660,"Nayarit",2007,27,"Age-standardized",2,"Female",5.44373931645
+69,"mean_cholesterol",4661,"Nuevo León",2007,27,"Age-standardized",1,"Male",5.14553712044
+69,"mean_cholesterol",4661,"Nuevo León",2007,27,"Age-standardized",2,"Female",5.32129278581
+69,"mean_cholesterol",4662,"Oaxaca",2007,27,"Age-standardized",1,"Male",5.04548516026
+69,"mean_cholesterol",4662,"Oaxaca",2007,27,"Age-standardized",2,"Female",5.22164396781
+69,"mean_cholesterol",4663,"Puebla",2007,27,"Age-standardized",1,"Male",5.02331514447
+69,"mean_cholesterol",4663,"Puebla",2007,27,"Age-standardized",2,"Female",5.21046341244
+69,"mean_cholesterol",4664,"Querétaro",2007,27,"Age-standardized",1,"Male",5.21058709453
+69,"mean_cholesterol",4664,"Querétaro",2007,27,"Age-standardized",2,"Female",5.43458664033
+69,"mean_cholesterol",4665,"Quintana Roo",2007,27,"Age-standardized",1,"Male",5.337810732
+69,"mean_cholesterol",4665,"Quintana Roo",2007,27,"Age-standardized",2,"Female",5.61403177634
+69,"mean_cholesterol",4666,"San Luis Potosí",2007,27,"Age-standardized",1,"Male",5.02150398398
+69,"mean_cholesterol",4666,"San Luis Potosí",2007,27,"Age-standardized",2,"Female",5.27053149672
+69,"mean_cholesterol",4667,"Sinaloa",2007,27,"Age-standardized",1,"Male",5.23333224891
+69,"mean_cholesterol",4667,"Sinaloa",2007,27,"Age-standardized",2,"Female",5.45628549183
+69,"mean_cholesterol",4668,"Sonora",2007,27,"Age-standardized",1,"Male",5.37308274418
+69,"mean_cholesterol",4668,"Sonora",2007,27,"Age-standardized",2,"Female",5.5994668661
+69,"mean_cholesterol",4669,"Tabasco",2007,27,"Age-standardized",1,"Male",5.14814912644
+69,"mean_cholesterol",4669,"Tabasco",2007,27,"Age-standardized",2,"Female",5.41348534579
+69,"mean_cholesterol",4670,"Tamaulipas",2007,27,"Age-standardized",1,"Male",5.27682059246
+69,"mean_cholesterol",4670,"Tamaulipas",2007,27,"Age-standardized",2,"Female",5.5683270456
+69,"mean_cholesterol",4671,"Tlaxcala",2007,27,"Age-standardized",1,"Male",5.17977761273
+69,"mean_cholesterol",4671,"Tlaxcala",2007,27,"Age-standardized",2,"Female",5.41070179539
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",1,"Male",5.12122171751
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",2,"Female",5.33744016194
+69,"mean_cholesterol",4673,"Yucatán",2007,27,"Age-standardized",1,"Male",5.26638236894
+69,"mean_cholesterol",4673,"Yucatán",2007,27,"Age-standardized",2,"Female",5.5265076524
+69,"mean_cholesterol",4674,"Zacatecas",2007,27,"Age-standardized",1,"Male",5.24905940129
+69,"mean_cholesterol",4674,"Zacatecas",2007,27,"Age-standardized",2,"Female",5.48030393018
+69,"mean_cholesterol",130,"Mexico",2008,27,"Age-standardized",1,"Male",5.09312123533
+69,"mean_cholesterol",130,"Mexico",2008,27,"Age-standardized",2,"Female",5.31070078346
+69,"mean_cholesterol",4643,"Aguascalientes",2008,27,"Age-standardized",1,"Male",5.20858500621
+69,"mean_cholesterol",4643,"Aguascalientes",2008,27,"Age-standardized",2,"Female",5.42082094513
+69,"mean_cholesterol",4644,"Baja California",2008,27,"Age-standardized",1,"Male",5.43316794921
+69,"mean_cholesterol",4644,"Baja California",2008,27,"Age-standardized",2,"Female",5.73375202598
+69,"mean_cholesterol",4645,"Baja California Sur",2008,27,"Age-standardized",1,"Male",5.15718023342
+69,"mean_cholesterol",4645,"Baja California Sur",2008,27,"Age-standardized",2,"Female",5.42336197411
+69,"mean_cholesterol",4646,"Campeche",2008,27,"Age-standardized",1,"Male",5.05272344584
+69,"mean_cholesterol",4646,"Campeche",2008,27,"Age-standardized",2,"Female",5.33878355465
+69,"mean_cholesterol",4647,"Coahuila",2008,27,"Age-standardized",1,"Male",5.1490041964
+69,"mean_cholesterol",4647,"Coahuila",2008,27,"Age-standardized",2,"Female",5.38818216714
+69,"mean_cholesterol",4648,"Colima",2008,27,"Age-standardized",1,"Male",5.27248719937
+69,"mean_cholesterol",4648,"Colima",2008,27,"Age-standardized",2,"Female",5.5615464469
+69,"mean_cholesterol",4649,"Chiapas",2008,27,"Age-standardized",1,"Male",5.11891617534
+69,"mean_cholesterol",4649,"Chiapas",2008,27,"Age-standardized",2,"Female",5.38772390098
+69,"mean_cholesterol",4650,"Chihuahua",2008,27,"Age-standardized",1,"Male",5.09056920729
+69,"mean_cholesterol",4650,"Chihuahua",2008,27,"Age-standardized",2,"Female",5.32710919822
+69,"mean_cholesterol",4651,"Mexico City",2008,27,"Age-standardized",1,"Male",5.07123362046
+69,"mean_cholesterol",4651,"Mexico City",2008,27,"Age-standardized",2,"Female",5.22757106531
+69,"mean_cholesterol",4652,"Durango",2008,27,"Age-standardized",1,"Male",4.97935955063
+69,"mean_cholesterol",4652,"Durango",2008,27,"Age-standardized",2,"Female",5.27443027878
+69,"mean_cholesterol",4653,"Guanajuato",2008,27,"Age-standardized",1,"Male",4.92183351892
+69,"mean_cholesterol",4653,"Guanajuato",2008,27,"Age-standardized",2,"Female",5.1729669253
+69,"mean_cholesterol",4654,"Guerrero",2008,27,"Age-standardized",1,"Male",5.00411933851
+69,"mean_cholesterol",4654,"Guerrero",2008,27,"Age-standardized",2,"Female",5.25753031639
+69,"mean_cholesterol",4655,"Hidalgo",2008,27,"Age-standardized",1,"Male",5.0868424689
+69,"mean_cholesterol",4655,"Hidalgo",2008,27,"Age-standardized",2,"Female",5.31226268295
+69,"mean_cholesterol",4656,"Jalisco",2008,27,"Age-standardized",1,"Male",5.08667959073
+69,"mean_cholesterol",4656,"Jalisco",2008,27,"Age-standardized",2,"Female",5.23494824238
+69,"mean_cholesterol",4657,"México",2008,27,"Age-standardized",1,"Male",4.87571969391
+69,"mean_cholesterol",4657,"México",2008,27,"Age-standardized",2,"Female",5.15947490443
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",1,"Male",4.99064569172
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",2,"Female",5.23328291021
+69,"mean_cholesterol",4659,"Morelos",2008,27,"Age-standardized",1,"Male",5.16016881363
+69,"mean_cholesterol",4659,"Morelos",2008,27,"Age-standardized",2,"Female",5.21571519388
+69,"mean_cholesterol",4660,"Nayarit",2008,27,"Age-standardized",1,"Male",5.26982647093
+69,"mean_cholesterol",4660,"Nayarit",2008,27,"Age-standardized",2,"Female",5.45553368364
+69,"mean_cholesterol",4661,"Nuevo León",2008,27,"Age-standardized",1,"Male",5.15210340764
+69,"mean_cholesterol",4661,"Nuevo León",2008,27,"Age-standardized",2,"Female",5.32307195821
+69,"mean_cholesterol",4662,"Oaxaca",2008,27,"Age-standardized",1,"Male",5.06402947774
+69,"mean_cholesterol",4662,"Oaxaca",2008,27,"Age-standardized",2,"Female",5.23291960811
+69,"mean_cholesterol",4663,"Puebla",2008,27,"Age-standardized",1,"Male",5.03429438383
+69,"mean_cholesterol",4663,"Puebla",2008,27,"Age-standardized",2,"Female",5.21385088454
+69,"mean_cholesterol",4664,"Querétaro",2008,27,"Age-standardized",1,"Male",5.22192615385
+69,"mean_cholesterol",4664,"Querétaro",2008,27,"Age-standardized",2,"Female",5.44211527752
+69,"mean_cholesterol",4665,"Quintana Roo",2008,27,"Age-standardized",1,"Male",5.35089128987
+69,"mean_cholesterol",4665,"Quintana Roo",2008,27,"Age-standardized",2,"Female",5.61624618285
+69,"mean_cholesterol",4666,"San Luis Potosí",2008,27,"Age-standardized",1,"Male",5.03296821508
+69,"mean_cholesterol",4666,"San Luis Potosí",2008,27,"Age-standardized",2,"Female",5.27602446374
+69,"mean_cholesterol",4667,"Sinaloa",2008,27,"Age-standardized",1,"Male",5.24212875097
+69,"mean_cholesterol",4667,"Sinaloa",2008,27,"Age-standardized",2,"Female",5.45638189236
+69,"mean_cholesterol",4668,"Sonora",2008,27,"Age-standardized",1,"Male",5.38063784249
+69,"mean_cholesterol",4668,"Sonora",2008,27,"Age-standardized",2,"Female",5.60161234477
+69,"mean_cholesterol",4669,"Tabasco",2008,27,"Age-standardized",1,"Male",5.16169548774
+69,"mean_cholesterol",4669,"Tabasco",2008,27,"Age-standardized",2,"Female",5.41595420475
+69,"mean_cholesterol",4670,"Tamaulipas",2008,27,"Age-standardized",1,"Male",5.28385910468
+69,"mean_cholesterol",4670,"Tamaulipas",2008,27,"Age-standardized",2,"Female",5.56671300015
+69,"mean_cholesterol",4671,"Tlaxcala",2008,27,"Age-standardized",1,"Male",5.19521285611
+69,"mean_cholesterol",4671,"Tlaxcala",2008,27,"Age-standardized",2,"Female",5.42012742832
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",1,"Male",5.13641268792
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",2,"Female",5.34500473337
+69,"mean_cholesterol",4673,"Yucatán",2008,27,"Age-standardized",1,"Male",5.27495161968
+69,"mean_cholesterol",4673,"Yucatán",2008,27,"Age-standardized",2,"Female",5.52637077541
+69,"mean_cholesterol",4674,"Zacatecas",2008,27,"Age-standardized",1,"Male",5.25320477492
+69,"mean_cholesterol",4674,"Zacatecas",2008,27,"Age-standardized",2,"Female",5.48011459948
+69,"mean_cholesterol",130,"Mexico",2009,27,"Age-standardized",1,"Male",5.09924755743
+69,"mean_cholesterol",130,"Mexico",2009,27,"Age-standardized",2,"Female",5.31081758328
+69,"mean_cholesterol",4643,"Aguascalientes",2009,27,"Age-standardized",1,"Male",5.2074406473
+69,"mean_cholesterol",4643,"Aguascalientes",2009,27,"Age-standardized",2,"Female",5.41814481681
+69,"mean_cholesterol",4644,"Baja California",2009,27,"Age-standardized",1,"Male",5.4341583736
+69,"mean_cholesterol",4644,"Baja California",2009,27,"Age-standardized",2,"Female",5.72396222802
+69,"mean_cholesterol",4645,"Baja California Sur",2009,27,"Age-standardized",1,"Male",5.15693629282
+69,"mean_cholesterol",4645,"Baja California Sur",2009,27,"Age-standardized",2,"Female",5.41857984792
+69,"mean_cholesterol",4646,"Campeche",2009,27,"Age-standardized",1,"Male",5.05177414068
+69,"mean_cholesterol",4646,"Campeche",2009,27,"Age-standardized",2,"Female",5.3258828365
+69,"mean_cholesterol",4647,"Coahuila",2009,27,"Age-standardized",1,"Male",5.16220610259
+69,"mean_cholesterol",4647,"Coahuila",2009,27,"Age-standardized",2,"Female",5.39238810523
+69,"mean_cholesterol",4648,"Colima",2009,27,"Age-standardized",1,"Male",5.27012724479
+69,"mean_cholesterol",4648,"Colima",2009,27,"Age-standardized",2,"Female",5.55017435485
+69,"mean_cholesterol",4649,"Chiapas",2009,27,"Age-standardized",1,"Male",5.11987750674
+69,"mean_cholesterol",4649,"Chiapas",2009,27,"Age-standardized",2,"Female",5.3795160177
+69,"mean_cholesterol",4650,"Chihuahua",2009,27,"Age-standardized",1,"Male",5.10628445599
+69,"mean_cholesterol",4650,"Chihuahua",2009,27,"Age-standardized",2,"Female",5.33677326415
+69,"mean_cholesterol",4651,"Mexico City",2009,27,"Age-standardized",1,"Male",5.07315313696
+69,"mean_cholesterol",4651,"Mexico City",2009,27,"Age-standardized",2,"Female",5.22636853931
+69,"mean_cholesterol",4652,"Durango",2009,27,"Age-standardized",1,"Male",4.98621307948
+69,"mean_cholesterol",4652,"Durango",2009,27,"Age-standardized",2,"Female",5.27341067925
+69,"mean_cholesterol",4653,"Guanajuato",2009,27,"Age-standardized",1,"Male",4.92930351358
+69,"mean_cholesterol",4653,"Guanajuato",2009,27,"Age-standardized",2,"Female",5.17421862559
+69,"mean_cholesterol",4654,"Guerrero",2009,27,"Age-standardized",1,"Male",5.02311413157
+69,"mean_cholesterol",4654,"Guerrero",2009,27,"Age-standardized",2,"Female",5.26642444597
+69,"mean_cholesterol",4655,"Hidalgo",2009,27,"Age-standardized",1,"Male",5.09417415767
+69,"mean_cholesterol",4655,"Hidalgo",2009,27,"Age-standardized",2,"Female",5.31386876865
+69,"mean_cholesterol",4656,"Jalisco",2009,27,"Age-standardized",1,"Male",5.08982239232
+69,"mean_cholesterol",4656,"Jalisco",2009,27,"Age-standardized",2,"Female",5.23247149096
+69,"mean_cholesterol",4657,"México",2009,27,"Age-standardized",1,"Male",4.87617599686
+69,"mean_cholesterol",4657,"México",2009,27,"Age-standardized",2,"Female",5.15508080113
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",1,"Male",4.99719287209
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",2,"Female",5.23136537439
+69,"mean_cholesterol",4659,"Morelos",2009,27,"Age-standardized",1,"Male",5.17048975067
+69,"mean_cholesterol",4659,"Morelos",2009,27,"Age-standardized",2,"Female",5.21905300618
+69,"mean_cholesterol",4660,"Nayarit",2009,27,"Age-standardized",1,"Male",5.28060420058
+69,"mean_cholesterol",4660,"Nayarit",2009,27,"Age-standardized",2,"Female",5.46365301257
+69,"mean_cholesterol",4661,"Nuevo León",2009,27,"Age-standardized",1,"Male",5.15528182277
+69,"mean_cholesterol",4661,"Nuevo León",2009,27,"Age-standardized",2,"Female",5.32309663279
+69,"mean_cholesterol",4662,"Oaxaca",2009,27,"Age-standardized",1,"Male",5.07836572826
+69,"mean_cholesterol",4662,"Oaxaca",2009,27,"Age-standardized",2,"Female",5.23990610102
+69,"mean_cholesterol",4663,"Puebla",2009,27,"Age-standardized",1,"Male",5.04258322746
+69,"mean_cholesterol",4663,"Puebla",2009,27,"Age-standardized",2,"Female",5.21470798004
+69,"mean_cholesterol",4664,"Querétaro",2009,27,"Age-standardized",1,"Male",5.23175663115
+69,"mean_cholesterol",4664,"Querétaro",2009,27,"Age-standardized",2,"Female",5.44848780808
+69,"mean_cholesterol",4665,"Quintana Roo",2009,27,"Age-standardized",1,"Male",5.36080828311
+69,"mean_cholesterol",4665,"Quintana Roo",2009,27,"Age-standardized",2,"Female",5.61674743527
+69,"mean_cholesterol",4666,"San Luis Potosí",2009,27,"Age-standardized",1,"Male",5.04168533385
+69,"mean_cholesterol",4666,"San Luis Potosí",2009,27,"Age-standardized",2,"Female",5.27967055145
+69,"mean_cholesterol",4667,"Sinaloa",2009,27,"Age-standardized",1,"Male",5.24802736227
+69,"mean_cholesterol",4667,"Sinaloa",2009,27,"Age-standardized",2,"Female",5.45464189208
+69,"mean_cholesterol",4668,"Sonora",2009,27,"Age-standardized",1,"Male",5.38479373324
+69,"mean_cholesterol",4668,"Sonora",2009,27,"Age-standardized",2,"Female",5.60131625057
+69,"mean_cholesterol",4669,"Tabasco",2009,27,"Age-standardized",1,"Male",5.17202983446
+69,"mean_cholesterol",4669,"Tabasco",2009,27,"Age-standardized",2,"Female",5.41593260372
+69,"mean_cholesterol",4670,"Tamaulipas",2009,27,"Age-standardized",1,"Male",5.28978246596
+69,"mean_cholesterol",4670,"Tamaulipas",2009,27,"Age-standardized",2,"Female",5.5649234084
+69,"mean_cholesterol",4671,"Tlaxcala",2009,27,"Age-standardized",1,"Male",5.20526709006
+69,"mean_cholesterol",4671,"Tlaxcala",2009,27,"Age-standardized",2,"Female",5.42441752419
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",1,"Male",5.14781738308
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",2,"Female",5.3489499877
+69,"mean_cholesterol",4673,"Yucatán",2009,27,"Age-standardized",1,"Male",5.28013195853
+69,"mean_cholesterol",4673,"Yucatán",2009,27,"Age-standardized",2,"Female",5.52340532821
+69,"mean_cholesterol",4674,"Zacatecas",2009,27,"Age-standardized",1,"Male",5.2551376466
+69,"mean_cholesterol",4674,"Zacatecas",2009,27,"Age-standardized",2,"Female",5.47789531677
+69,"mean_cholesterol",130,"Mexico",2010,27,"Age-standardized",1,"Male",5.10406698414
+69,"mean_cholesterol",130,"Mexico",2010,27,"Age-standardized",2,"Female",5.30949658022
+69,"mean_cholesterol",4643,"Aguascalientes",2010,27,"Age-standardized",1,"Male",5.20508157194
+69,"mean_cholesterol",4643,"Aguascalientes",2010,27,"Age-standardized",2,"Female",5.41389362368
+69,"mean_cholesterol",4644,"Baja California",2010,27,"Age-standardized",1,"Male",5.43284759377
+69,"mean_cholesterol",4644,"Baja California",2010,27,"Age-standardized",2,"Female",5.71223662002
+69,"mean_cholesterol",4645,"Baja California Sur",2010,27,"Age-standardized",1,"Male",5.1633498761
+69,"mean_cholesterol",4645,"Baja California Sur",2010,27,"Age-standardized",2,"Female",5.42011373618
+69,"mean_cholesterol",4646,"Campeche",2010,27,"Age-standardized",1,"Male",5.05045018504
+69,"mean_cholesterol",4646,"Campeche",2010,27,"Age-standardized",2,"Female",5.31332667025
+69,"mean_cholesterol",4647,"Coahuila",2010,27,"Age-standardized",1,"Male",5.17147473911
+69,"mean_cholesterol",4647,"Coahuila",2010,27,"Age-standardized",2,"Female",5.3930595735
+69,"mean_cholesterol",4648,"Colima",2010,27,"Age-standardized",1,"Male",5.26674561956
+69,"mean_cholesterol",4648,"Colima",2010,27,"Age-standardized",2,"Female",5.53818529102
+69,"mean_cholesterol",4649,"Chiapas",2010,27,"Age-standardized",1,"Male",5.12105972533
+69,"mean_cholesterol",4649,"Chiapas",2010,27,"Age-standardized",2,"Female",5.37187709439
+69,"mean_cholesterol",4650,"Chihuahua",2010,27,"Age-standardized",1,"Male",5.11863157881
+69,"mean_cholesterol",4650,"Chihuahua",2010,27,"Age-standardized",2,"Female",5.3435538094
+69,"mean_cholesterol",4651,"Mexico City",2010,27,"Age-standardized",1,"Male",5.07555683157
+69,"mean_cholesterol",4651,"Mexico City",2010,27,"Age-standardized",2,"Female",5.22420798983
+69,"mean_cholesterol",4652,"Durango",2010,27,"Age-standardized",1,"Male",4.9904457458
+69,"mean_cholesterol",4652,"Durango",2010,27,"Age-standardized",2,"Female",5.26951960875
+69,"mean_cholesterol",4653,"Guanajuato",2010,27,"Age-standardized",1,"Male",4.93554957346
+69,"mean_cholesterol",4653,"Guanajuato",2010,27,"Age-standardized",2,"Female",5.17378216672
+69,"mean_cholesterol",4654,"Guerrero",2010,27,"Age-standardized",1,"Male",5.03952802801
+69,"mean_cholesterol",4654,"Guerrero",2010,27,"Age-standardized",2,"Female",5.27363508288
+69,"mean_cholesterol",4655,"Hidalgo",2010,27,"Age-standardized",1,"Male",5.09873194123
+69,"mean_cholesterol",4655,"Hidalgo",2010,27,"Age-standardized",2,"Female",5.31274556973
+69,"mean_cholesterol",4656,"Jalisco",2010,27,"Age-standardized",1,"Male",5.09167293167
+69,"mean_cholesterol",4656,"Jalisco",2010,27,"Age-standardized",2,"Female",5.22844251604
+69,"mean_cholesterol",4657,"México",2010,27,"Age-standardized",1,"Male",4.87904707262
+69,"mean_cholesterol",4657,"México",2010,27,"Age-standardized",2,"Female",5.15306190845
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",1,"Male",5.00151200364
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",2,"Female",5.22730089533
+69,"mean_cholesterol",4659,"Morelos",2010,27,"Age-standardized",1,"Male",5.17781948482
+69,"mean_cholesterol",4659,"Morelos",2010,27,"Age-standardized",2,"Female",5.2200820353
+69,"mean_cholesterol",4660,"Nayarit",2010,27,"Age-standardized",1,"Male",5.28902974409
+69,"mean_cholesterol",4660,"Nayarit",2010,27,"Age-standardized",2,"Female",5.46930196997
+69,"mean_cholesterol",4661,"Nuevo León",2010,27,"Age-standardized",1,"Male",5.155305868
+69,"mean_cholesterol",4661,"Nuevo León",2010,27,"Age-standardized",2,"Female",5.32001900937
+69,"mean_cholesterol",4662,"Oaxaca",2010,27,"Age-standardized",1,"Male",5.08889644632
+69,"mean_cholesterol",4662,"Oaxaca",2010,27,"Age-standardized",2,"Female",5.24296891657
+69,"mean_cholesterol",4663,"Puebla",2010,27,"Age-standardized",1,"Male",5.0489036085
+69,"mean_cholesterol",4663,"Puebla",2010,27,"Age-standardized",2,"Female",5.21326920729
+69,"mean_cholesterol",4664,"Querétaro",2010,27,"Age-standardized",1,"Male",5.23886794515
+69,"mean_cholesterol",4664,"Querétaro",2010,27,"Age-standardized",2,"Female",5.45143851758
+69,"mean_cholesterol",4665,"Quintana Roo",2010,27,"Age-standardized",1,"Male",5.36860921466
+69,"mean_cholesterol",4665,"Quintana Roo",2010,27,"Age-standardized",2,"Female",5.61576873849
+69,"mean_cholesterol",4666,"San Luis Potosí",2010,27,"Age-standardized",1,"Male",5.04924178125
+69,"mean_cholesterol",4666,"San Luis Potosí",2010,27,"Age-standardized",2,"Female",5.28215986572
+69,"mean_cholesterol",4667,"Sinaloa",2010,27,"Age-standardized",1,"Male",5.25127929364
+69,"mean_cholesterol",4667,"Sinaloa",2010,27,"Age-standardized",2,"Female",5.45047527561
+69,"mean_cholesterol",4668,"Sonora",2010,27,"Age-standardized",1,"Male",5.38624773219
+69,"mean_cholesterol",4668,"Sonora",2010,27,"Age-standardized",2,"Female",5.59781513092
+69,"mean_cholesterol",4669,"Tabasco",2010,27,"Age-standardized",1,"Male",5.18054204367
+69,"mean_cholesterol",4669,"Tabasco",2010,27,"Age-standardized",2,"Female",5.41461599642
+69,"mean_cholesterol",4670,"Tamaulipas",2010,27,"Age-standardized",1,"Male",5.29431442397
+69,"mean_cholesterol",4670,"Tamaulipas",2010,27,"Age-standardized",2,"Female",5.56183684557
+69,"mean_cholesterol",4671,"Tlaxcala",2010,27,"Age-standardized",1,"Male",5.21015629791
+69,"mean_cholesterol",4671,"Tlaxcala",2010,27,"Age-standardized",2,"Female",5.42350299594
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",1,"Male",5.15614908481
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",2,"Female",5.34977002354
+69,"mean_cholesterol",4673,"Yucatán",2010,27,"Age-standardized",1,"Male",5.28236221369
+69,"mean_cholesterol",4673,"Yucatán",2010,27,"Age-standardized",2,"Female",5.51753691405
+69,"mean_cholesterol",4674,"Zacatecas",2010,27,"Age-standardized",1,"Male",5.25648076832
+69,"mean_cholesterol",4674,"Zacatecas",2010,27,"Age-standardized",2,"Female",5.47469882784
+69,"mean_cholesterol",130,"Mexico",2011,27,"Age-standardized",1,"Male",5.10844235945
+69,"mean_cholesterol",130,"Mexico",2011,27,"Age-standardized",2,"Female",5.30746400083
+69,"mean_cholesterol",4643,"Aguascalientes",2011,27,"Age-standardized",1,"Male",5.20331341974
+69,"mean_cholesterol",4643,"Aguascalientes",2011,27,"Age-standardized",2,"Female",5.40914085552
+69,"mean_cholesterol",4644,"Baja California",2011,27,"Age-standardized",1,"Male",5.43229706464
+69,"mean_cholesterol",4644,"Baja California",2011,27,"Age-standardized",2,"Female",5.70131868912
+69,"mean_cholesterol",4645,"Baja California Sur",2011,27,"Age-standardized",1,"Male",5.17317224235
+69,"mean_cholesterol",4645,"Baja California Sur",2011,27,"Age-standardized",2,"Female",5.42393903084
+69,"mean_cholesterol",4646,"Campeche",2011,27,"Age-standardized",1,"Male",5.05130938379
+69,"mean_cholesterol",4646,"Campeche",2011,27,"Age-standardized",2,"Female",5.30359676694
+69,"mean_cholesterol",4647,"Coahuila",2011,27,"Age-standardized",1,"Male",5.17766030546
+69,"mean_cholesterol",4647,"Coahuila",2011,27,"Age-standardized",2,"Female",5.39087218434
+69,"mean_cholesterol",4648,"Colima",2011,27,"Age-standardized",1,"Male",5.26396505793
+69,"mean_cholesterol",4648,"Colima",2011,27,"Age-standardized",2,"Female",5.52688296743
+69,"mean_cholesterol",4649,"Chiapas",2011,27,"Age-standardized",1,"Male",5.12280132054
+69,"mean_cholesterol",4649,"Chiapas",2011,27,"Age-standardized",2,"Female",5.36521321115
+69,"mean_cholesterol",4650,"Chihuahua",2011,27,"Age-standardized",1,"Male",5.12806544065
+69,"mean_cholesterol",4650,"Chihuahua",2011,27,"Age-standardized",2,"Female",5.34748803422
+69,"mean_cholesterol",4651,"Mexico City",2011,27,"Age-standardized",1,"Male",5.08072941695
+69,"mean_cholesterol",4651,"Mexico City",2011,27,"Age-standardized",2,"Female",5.22491369237
+69,"mean_cholesterol",4652,"Durango",2011,27,"Age-standardized",1,"Male",4.99599621353
+69,"mean_cholesterol",4652,"Durango",2011,27,"Age-standardized",2,"Female",5.26534199246
+69,"mean_cholesterol",4653,"Guanajuato",2011,27,"Age-standardized",1,"Male",4.94315576332
+69,"mean_cholesterol",4653,"Guanajuato",2011,27,"Age-standardized",2,"Female",5.17337543331
+69,"mean_cholesterol",4654,"Guerrero",2011,27,"Age-standardized",1,"Male",5.05505029714
+69,"mean_cholesterol",4654,"Guerrero",2011,27,"Age-standardized",2,"Female",5.28108432904
+69,"mean_cholesterol",4655,"Hidalgo",2011,27,"Age-standardized",1,"Male",5.10236459502
+69,"mean_cholesterol",4655,"Hidalgo",2011,27,"Age-standardized",2,"Female",5.31065858044
+69,"mean_cholesterol",4656,"Jalisco",2011,27,"Age-standardized",1,"Male",5.09436071072
+69,"mean_cholesterol",4656,"Jalisco",2011,27,"Age-standardized",2,"Female",5.22496801174
+69,"mean_cholesterol",4657,"México",2011,27,"Age-standardized",1,"Male",4.88093128539
+69,"mean_cholesterol",4657,"México",2011,27,"Age-standardized",2,"Female",5.14919223536
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",1,"Male",5.00640904488
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",2,"Female",5.22341980534
+69,"mean_cholesterol",4659,"Morelos",2011,27,"Age-standardized",1,"Male",5.18344101544
+69,"mean_cholesterol",4659,"Morelos",2011,27,"Age-standardized",2,"Female",5.22136915413
+69,"mean_cholesterol",4660,"Nayarit",2011,27,"Age-standardized",1,"Male",5.29657403495
+69,"mean_cholesterol",4660,"Nayarit",2011,27,"Age-standardized",2,"Female",5.47334854556
+69,"mean_cholesterol",4661,"Nuevo León",2011,27,"Age-standardized",1,"Male",5.15368236371
+69,"mean_cholesterol",4661,"Nuevo León",2011,27,"Age-standardized",2,"Female",5.31534815582
+69,"mean_cholesterol",4662,"Oaxaca",2011,27,"Age-standardized",1,"Male",5.09611308833
+69,"mean_cholesterol",4662,"Oaxaca",2011,27,"Age-standardized",2,"Female",5.24257603655
+69,"mean_cholesterol",4663,"Puebla",2011,27,"Age-standardized",1,"Male",5.05546105006
+69,"mean_cholesterol",4663,"Puebla",2011,27,"Age-standardized",2,"Female",5.21096005295
+69,"mean_cholesterol",4664,"Querétaro",2011,27,"Age-standardized",1,"Male",5.2450212252
+69,"mean_cholesterol",4664,"Querétaro",2011,27,"Age-standardized",2,"Female",5.45240994261
+69,"mean_cholesterol",4665,"Quintana Roo",2011,27,"Age-standardized",1,"Male",5.37535112587
+69,"mean_cholesterol",4665,"Quintana Roo",2011,27,"Age-standardized",2,"Female",5.61402549377
+69,"mean_cholesterol",4666,"San Luis Potosí",2011,27,"Age-standardized",1,"Male",5.05707618359
+69,"mean_cholesterol",4666,"San Luis Potosí",2011,27,"Age-standardized",2,"Female",5.28452906633
+69,"mean_cholesterol",4667,"Sinaloa",2011,27,"Age-standardized",1,"Male",5.25369063706
+69,"mean_cholesterol",4667,"Sinaloa",2011,27,"Age-standardized",2,"Female",5.44554483715
+69,"mean_cholesterol",4668,"Sonora",2011,27,"Age-standardized",1,"Male",5.38607861971
+69,"mean_cholesterol",4668,"Sonora",2011,27,"Age-standardized",2,"Female",5.59170606489
+69,"mean_cholesterol",4669,"Tabasco",2011,27,"Age-standardized",1,"Male",5.18796470598
+69,"mean_cholesterol",4669,"Tabasco",2011,27,"Age-standardized",2,"Female",5.41269500434
+69,"mean_cholesterol",4670,"Tamaulipas",2011,27,"Age-standardized",1,"Male",5.29766335588
+69,"mean_cholesterol",4670,"Tamaulipas",2011,27,"Age-standardized",2,"Female",5.55744290927
+69,"mean_cholesterol",4671,"Tlaxcala",2011,27,"Age-standardized",1,"Male",5.21477083242
+69,"mean_cholesterol",4671,"Tlaxcala",2011,27,"Age-standardized",2,"Female",5.422052836
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",1,"Male",5.16227710293
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",2,"Female",5.34826239845
+69,"mean_cholesterol",4673,"Yucatán",2011,27,"Age-standardized",1,"Male",5.28022038074
+69,"mean_cholesterol",4673,"Yucatán",2011,27,"Age-standardized",2,"Female",5.50753144809
+69,"mean_cholesterol",4674,"Zacatecas",2011,27,"Age-standardized",1,"Male",5.25849003633
+69,"mean_cholesterol",4674,"Zacatecas",2011,27,"Age-standardized",2,"Female",5.47149964227
+69,"mean_cholesterol",130,"Mexico",2012,27,"Age-standardized",1,"Male",5.10803207998
+69,"mean_cholesterol",130,"Mexico",2012,27,"Age-standardized",2,"Female",5.30510787862
+69,"mean_cholesterol",4643,"Aguascalientes",2012,27,"Age-standardized",1,"Male",5.1995388864
+69,"mean_cholesterol",4643,"Aguascalientes",2012,27,"Age-standardized",2,"Female",5.40521622268
+69,"mean_cholesterol",4644,"Baja California",2012,27,"Age-standardized",1,"Male",5.4283205679
+69,"mean_cholesterol",4644,"Baja California",2012,27,"Age-standardized",2,"Female",5.69382991749
+69,"mean_cholesterol",4645,"Baja California Sur",2012,27,"Age-standardized",1,"Male",5.17549005148
+69,"mean_cholesterol",4645,"Baja California Sur",2012,27,"Age-standardized",2,"Female",5.42525116881
+69,"mean_cholesterol",4646,"Campeche",2012,27,"Age-standardized",1,"Male",5.05030163872
+69,"mean_cholesterol",4646,"Campeche",2012,27,"Age-standardized",2,"Female",5.29876631013
+69,"mean_cholesterol",4647,"Coahuila",2012,27,"Age-standardized",1,"Male",5.17601114415
+69,"mean_cholesterol",4647,"Coahuila",2012,27,"Age-standardized",2,"Female",5.38573611984
+69,"mean_cholesterol",4648,"Colima",2012,27,"Age-standardized",1,"Male",5.25961325241
+69,"mean_cholesterol",4648,"Colima",2012,27,"Age-standardized",2,"Female",5.51880752505
+69,"mean_cholesterol",4649,"Chiapas",2012,27,"Age-standardized",1,"Male",5.12171111257
+69,"mean_cholesterol",4649,"Chiapas",2012,27,"Age-standardized",2,"Female",5.36057878576
+69,"mean_cholesterol",4650,"Chihuahua",2012,27,"Age-standardized",1,"Male",5.13021421895
+69,"mean_cholesterol",4650,"Chihuahua",2012,27,"Age-standardized",2,"Female",5.34833359038
+69,"mean_cholesterol",4651,"Mexico City",2012,27,"Age-standardized",1,"Male",5.08361643646
+69,"mean_cholesterol",4651,"Mexico City",2012,27,"Age-standardized",2,"Female",5.22632099487
+69,"mean_cholesterol",4652,"Durango",2012,27,"Age-standardized",1,"Male",4.99283846615
+69,"mean_cholesterol",4652,"Durango",2012,27,"Age-standardized",2,"Female",5.25908858795
+69,"mean_cholesterol",4653,"Guanajuato",2012,27,"Age-standardized",1,"Male",4.9455431767
+69,"mean_cholesterol",4653,"Guanajuato",2012,27,"Age-standardized",2,"Female",5.17258070262
+69,"mean_cholesterol",4654,"Guerrero",2012,27,"Age-standardized",1,"Male",5.06373879005
+69,"mean_cholesterol",4654,"Guerrero",2012,27,"Age-standardized",2,"Female",5.28679807539
+69,"mean_cholesterol",4655,"Hidalgo",2012,27,"Age-standardized",1,"Male",5.10157343657
+69,"mean_cholesterol",4655,"Hidalgo",2012,27,"Age-standardized",2,"Female",5.30815826121
+69,"mean_cholesterol",4656,"Jalisco",2012,27,"Age-standardized",1,"Male",5.09197439785
+69,"mean_cholesterol",4656,"Jalisco",2012,27,"Age-standardized",2,"Female",5.22105648618
+69,"mean_cholesterol",4657,"México",2012,27,"Age-standardized",1,"Male",4.87998474773
+69,"mean_cholesterol",4657,"México",2012,27,"Age-standardized",2,"Female",5.14641457192
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",1,"Male",5.00466363811
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",2,"Female",5.21853017816
+69,"mean_cholesterol",4659,"Morelos",2012,27,"Age-standardized",1,"Male",5.18216010444
+69,"mean_cholesterol",4659,"Morelos",2012,27,"Age-standardized",2,"Female",5.21904039661
+69,"mean_cholesterol",4660,"Nayarit",2012,27,"Age-standardized",1,"Male",5.29794461418
+69,"mean_cholesterol",4660,"Nayarit",2012,27,"Age-standardized",2,"Female",5.47406984031
+69,"mean_cholesterol",4661,"Nuevo León",2012,27,"Age-standardized",1,"Male",5.14570989462
+69,"mean_cholesterol",4661,"Nuevo León",2012,27,"Age-standardized",2,"Female",5.30833179271
+69,"mean_cholesterol",4662,"Oaxaca",2012,27,"Age-standardized",1,"Male",5.09652076663
+69,"mean_cholesterol",4662,"Oaxaca",2012,27,"Age-standardized",2,"Female",5.24092916362
+69,"mean_cholesterol",4663,"Puebla",2012,27,"Age-standardized",1,"Male",5.05436554728
+69,"mean_cholesterol",4663,"Puebla",2012,27,"Age-standardized",2,"Female",5.20724703607
+69,"mean_cholesterol",4664,"Querétaro",2012,27,"Age-standardized",1,"Male",5.24760366118
+69,"mean_cholesterol",4664,"Querétaro",2012,27,"Age-standardized",2,"Female",5.45273762873
+69,"mean_cholesterol",4665,"Quintana Roo",2012,27,"Age-standardized",1,"Male",5.37556912022
+69,"mean_cholesterol",4665,"Quintana Roo",2012,27,"Age-standardized",2,"Female",5.6113569357
+69,"mean_cholesterol",4666,"San Luis Potosí",2012,27,"Age-standardized",1,"Male",5.06203345525
+69,"mean_cholesterol",4666,"San Luis Potosí",2012,27,"Age-standardized",2,"Female",5.28695696728
+69,"mean_cholesterol",4667,"Sinaloa",2012,27,"Age-standardized",1,"Male",5.24837332222
+69,"mean_cholesterol",4667,"Sinaloa",2012,27,"Age-standardized",2,"Female",5.43821750656
+69,"mean_cholesterol",4668,"Sonora",2012,27,"Age-standardized",1,"Male",5.38157186021
+69,"mean_cholesterol",4668,"Sonora",2012,27,"Age-standardized",2,"Female",5.58502880364
+69,"mean_cholesterol",4669,"Tabasco",2012,27,"Age-standardized",1,"Male",5.18947627994
+69,"mean_cholesterol",4669,"Tabasco",2012,27,"Age-standardized",2,"Female",5.41016771697
+69,"mean_cholesterol",4670,"Tamaulipas",2012,27,"Age-standardized",1,"Male",5.29652031021
+69,"mean_cholesterol",4670,"Tamaulipas",2012,27,"Age-standardized",2,"Female",5.55302931824
+69,"mean_cholesterol",4671,"Tlaxcala",2012,27,"Age-standardized",1,"Male",5.21756295696
+69,"mean_cholesterol",4671,"Tlaxcala",2012,27,"Age-standardized",2,"Female",5.42294204377
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",1,"Male",5.16269522419
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",2,"Female",5.34545607728
+69,"mean_cholesterol",4673,"Yucatán",2012,27,"Age-standardized",1,"Male",5.27592471268
+69,"mean_cholesterol",4673,"Yucatán",2012,27,"Age-standardized",2,"Female",5.50017385454
+69,"mean_cholesterol",4674,"Zacatecas",2012,27,"Age-standardized",1,"Male",5.25746706862
+69,"mean_cholesterol",4674,"Zacatecas",2012,27,"Age-standardized",2,"Female",5.46858951365
+69,"mean_cholesterol",130,"Mexico",2013,27,"Age-standardized",1,"Male",5.10656815969
+69,"mean_cholesterol",130,"Mexico",2013,27,"Age-standardized",2,"Female",5.3027114016
+69,"mean_cholesterol",4643,"Aguascalientes",2013,27,"Age-standardized",1,"Male",5.19542872124
+69,"mean_cholesterol",4643,"Aguascalientes",2013,27,"Age-standardized",2,"Female",5.40156058057
+69,"mean_cholesterol",4644,"Baja California",2013,27,"Age-standardized",1,"Male",5.42193614035
+69,"mean_cholesterol",4644,"Baja California",2013,27,"Age-standardized",2,"Female",5.68521954381
+69,"mean_cholesterol",4645,"Baja California Sur",2013,27,"Age-standardized",1,"Male",5.17262667484
+69,"mean_cholesterol",4645,"Baja California Sur",2013,27,"Age-standardized",2,"Female",5.42214993861
+69,"mean_cholesterol",4646,"Campeche",2013,27,"Age-standardized",1,"Male",5.04976659948
+69,"mean_cholesterol",4646,"Campeche",2013,27,"Age-standardized",2,"Female",5.2956323031
+69,"mean_cholesterol",4647,"Coahuila",2013,27,"Age-standardized",1,"Male",5.1724330028
+69,"mean_cholesterol",4647,"Coahuila",2013,27,"Age-standardized",2,"Female",5.37964272477
+69,"mean_cholesterol",4648,"Colima",2013,27,"Age-standardized",1,"Male",5.2554784604
+69,"mean_cholesterol",4648,"Colima",2013,27,"Age-standardized",2,"Female",5.51200183963
+69,"mean_cholesterol",4649,"Chiapas",2013,27,"Age-standardized",1,"Male",5.12052571755
+69,"mean_cholesterol",4649,"Chiapas",2013,27,"Age-standardized",2,"Female",5.35693114855
+69,"mean_cholesterol",4650,"Chihuahua",2013,27,"Age-standardized",1,"Male",5.12841496343
+69,"mean_cholesterol",4650,"Chihuahua",2013,27,"Age-standardized",2,"Female",5.34657384541
+69,"mean_cholesterol",4651,"Mexico City",2013,27,"Age-standardized",1,"Male",5.08581772718
+69,"mean_cholesterol",4651,"Mexico City",2013,27,"Age-standardized",2,"Female",5.22780148474
+69,"mean_cholesterol",4652,"Durango",2013,27,"Age-standardized",1,"Male",4.98726273576
+69,"mean_cholesterol",4652,"Durango",2013,27,"Age-standardized",2,"Female",5.25211209523
+69,"mean_cholesterol",4653,"Guanajuato",2013,27,"Age-standardized",1,"Male",4.94764149442
+69,"mean_cholesterol",4653,"Guanajuato",2013,27,"Age-standardized",2,"Female",5.17218693084
+69,"mean_cholesterol",4654,"Guerrero",2013,27,"Age-standardized",1,"Male",5.06952465851
+69,"mean_cholesterol",4654,"Guerrero",2013,27,"Age-standardized",2,"Female",5.29079054294
+69,"mean_cholesterol",4655,"Hidalgo",2013,27,"Age-standardized",1,"Male",5.09999504414
+69,"mean_cholesterol",4655,"Hidalgo",2013,27,"Age-standardized",2,"Female",5.30574363408
+69,"mean_cholesterol",4656,"Jalisco",2013,27,"Age-standardized",1,"Male",5.08965863833
+69,"mean_cholesterol",4656,"Jalisco",2013,27,"Age-standardized",2,"Female",5.21803245527
+69,"mean_cholesterol",4657,"México",2013,27,"Age-standardized",1,"Male",4.87974161134
+69,"mean_cholesterol",4657,"México",2013,27,"Age-standardized",2,"Female",5.14513821683
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",1,"Male",5.00199347669
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",2,"Female",5.21411285736
+69,"mean_cholesterol",4659,"Morelos",2013,27,"Age-standardized",1,"Male",5.17854392297
+69,"mean_cholesterol",4659,"Morelos",2013,27,"Age-standardized",2,"Female",5.21551451077
+69,"mean_cholesterol",4660,"Nayarit",2013,27,"Age-standardized",1,"Male",5.29792614496
+69,"mean_cholesterol",4660,"Nayarit",2013,27,"Age-standardized",2,"Female",5.47410702757
+69,"mean_cholesterol",4661,"Nuevo León",2013,27,"Age-standardized",1,"Male",5.13631956719
+69,"mean_cholesterol",4661,"Nuevo León",2013,27,"Age-standardized",2,"Female",5.30084145855
+69,"mean_cholesterol",4662,"Oaxaca",2013,27,"Age-standardized",1,"Male",5.0949557258
+69,"mean_cholesterol",4662,"Oaxaca",2013,27,"Age-standardized",2,"Female",5.23852751271
+69,"mean_cholesterol",4663,"Puebla",2013,27,"Age-standardized",1,"Male",5.05124092732
+69,"mean_cholesterol",4663,"Puebla",2013,27,"Age-standardized",2,"Female",5.20304092477
+69,"mean_cholesterol",4664,"Querétaro",2013,27,"Age-standardized",1,"Male",5.24920115343
+69,"mean_cholesterol",4664,"Querétaro",2013,27,"Age-standardized",2,"Female",5.45266916275
+69,"mean_cholesterol",4665,"Quintana Roo",2013,27,"Age-standardized",1,"Male",5.37448718634
+69,"mean_cholesterol",4665,"Quintana Roo",2013,27,"Age-standardized",2,"Female",5.60852176333
+69,"mean_cholesterol",4666,"San Luis Potosí",2013,27,"Age-standardized",1,"Male",5.06634755912
+69,"mean_cholesterol",4666,"San Luis Potosí",2013,27,"Age-standardized",2,"Female",5.28941878109
+69,"mean_cholesterol",4667,"Sinaloa",2013,27,"Age-standardized",1,"Male",5.2400236091
+69,"mean_cholesterol",4667,"Sinaloa",2013,27,"Age-standardized",2,"Female",5.4294479794
+69,"mean_cholesterol",4668,"Sonora",2013,27,"Age-standardized",1,"Male",5.37623985742
+69,"mean_cholesterol",4668,"Sonora",2013,27,"Age-standardized",2,"Female",5.57832073846
+69,"mean_cholesterol",4669,"Tabasco",2013,27,"Age-standardized",1,"Male",5.18926179556
+69,"mean_cholesterol",4669,"Tabasco",2013,27,"Age-standardized",2,"Female",5.40726158722
+69,"mean_cholesterol",4670,"Tamaulipas",2013,27,"Age-standardized",1,"Male",5.29359607914
+69,"mean_cholesterol",4670,"Tamaulipas",2013,27,"Age-standardized",2,"Female",5.54787570401
+69,"mean_cholesterol",4671,"Tlaxcala",2013,27,"Age-standardized",1,"Male",5.2212041146
+69,"mean_cholesterol",4671,"Tlaxcala",2013,27,"Age-standardized",2,"Female",5.42549723015
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",1,"Male",5.16114946998
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",2,"Female",5.34179730193
+69,"mean_cholesterol",4673,"Yucatán",2013,27,"Age-standardized",1,"Male",5.27132020327
+69,"mean_cholesterol",4673,"Yucatán",2013,27,"Age-standardized",2,"Female",5.49352356834
+69,"mean_cholesterol",4674,"Zacatecas",2013,27,"Age-standardized",1,"Male",5.25644997597
+69,"mean_cholesterol",4674,"Zacatecas",2013,27,"Age-standardized",2,"Female",5.46639574736
+69,"mean_cholesterol",130,"Mexico",2014,27,"Age-standardized",1,"Male",5.10481344944
+69,"mean_cholesterol",130,"Mexico",2014,27,"Age-standardized",2,"Female",5.30044986769
+69,"mean_cholesterol",4643,"Aguascalientes",2014,27,"Age-standardized",1,"Male",5.19116870366
+69,"mean_cholesterol",4643,"Aguascalientes",2014,27,"Age-standardized",2,"Female",5.39774244275
+69,"mean_cholesterol",4644,"Baja California",2014,27,"Age-standardized",1,"Male",5.41329247737
+69,"mean_cholesterol",4644,"Baja California",2014,27,"Age-standardized",2,"Female",5.67472797705
+69,"mean_cholesterol",4645,"Baja California Sur",2014,27,"Age-standardized",1,"Male",5.16754032237
+69,"mean_cholesterol",4645,"Baja California Sur",2014,27,"Age-standardized",2,"Female",5.41706851192
+69,"mean_cholesterol",4646,"Campeche",2014,27,"Age-standardized",1,"Male",5.04987751258
+69,"mean_cholesterol",4646,"Campeche",2014,27,"Age-standardized",2,"Female",5.29372737424
+69,"mean_cholesterol",4647,"Coahuila",2014,27,"Age-standardized",1,"Male",5.16849318171
+69,"mean_cholesterol",4647,"Coahuila",2014,27,"Age-standardized",2,"Female",5.3734788311
+69,"mean_cholesterol",4648,"Colima",2014,27,"Age-standardized",1,"Male",5.25202451189
+69,"mean_cholesterol",4648,"Colima",2014,27,"Age-standardized",2,"Female",5.50611518061
+69,"mean_cholesterol",4649,"Chiapas",2014,27,"Age-standardized",1,"Male",5.12019017695
+69,"mean_cholesterol",4649,"Chiapas",2014,27,"Age-standardized",2,"Female",5.3547092316
+69,"mean_cholesterol",4650,"Chihuahua",2014,27,"Age-standardized",1,"Male",5.12285007292
+69,"mean_cholesterol",4650,"Chihuahua",2014,27,"Age-standardized",2,"Female",5.34186210534
+69,"mean_cholesterol",4651,"Mexico City",2014,27,"Age-standardized",1,"Male",5.08770095688
+69,"mean_cholesterol",4651,"Mexico City",2014,27,"Age-standardized",2,"Female",5.22901425834
+69,"mean_cholesterol",4652,"Durango",2014,27,"Age-standardized",1,"Male",4.98010808381
+69,"mean_cholesterol",4652,"Durango",2014,27,"Age-standardized",2,"Female",5.24454283937
+69,"mean_cholesterol",4653,"Guanajuato",2014,27,"Age-standardized",1,"Male",4.95012039583
+69,"mean_cholesterol",4653,"Guanajuato",2014,27,"Age-standardized",2,"Female",5.17225285201
+69,"mean_cholesterol",4654,"Guerrero",2014,27,"Age-standardized",1,"Male",5.07195456164
+69,"mean_cholesterol",4654,"Guerrero",2014,27,"Age-standardized",2,"Female",5.29228987925
+69,"mean_cholesterol",4655,"Hidalgo",2014,27,"Age-standardized",1,"Male",5.09814008693
+69,"mean_cholesterol",4655,"Hidalgo",2014,27,"Age-standardized",2,"Female",5.30356446916
+69,"mean_cholesterol",4656,"Jalisco",2014,27,"Age-standardized",1,"Male",5.08806256987
+69,"mean_cholesterol",4656,"Jalisco",2014,27,"Age-standardized",2,"Female",5.21593650933
+69,"mean_cholesterol",4657,"México",2014,27,"Age-standardized",1,"Male",4.88121663
+69,"mean_cholesterol",4657,"México",2014,27,"Age-standardized",2,"Female",5.14578195566
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",1,"Male",4.99931696963
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",2,"Female",5.21053573214
+69,"mean_cholesterol",4659,"Morelos",2014,27,"Age-standardized",1,"Male",5.17392196632
+69,"mean_cholesterol",4659,"Morelos",2014,27,"Age-standardized",2,"Female",5.21159972974
+69,"mean_cholesterol",4660,"Nayarit",2014,27,"Age-standardized",1,"Male",5.297077248
+69,"mean_cholesterol",4660,"Nayarit",2014,27,"Age-standardized",2,"Female",5.47348973737
+69,"mean_cholesterol",4661,"Nuevo León",2014,27,"Age-standardized",1,"Male",5.12641996167
+69,"mean_cholesterol",4661,"Nuevo León",2014,27,"Age-standardized",2,"Female",5.29306799667
+69,"mean_cholesterol",4662,"Oaxaca",2014,27,"Age-standardized",1,"Male",5.09242578451
+69,"mean_cholesterol",4662,"Oaxaca",2014,27,"Age-standardized",2,"Female",5.23588485088
+69,"mean_cholesterol",4663,"Puebla",2014,27,"Age-standardized",1,"Male",5.04782459144
+69,"mean_cholesterol",4663,"Puebla",2014,27,"Age-standardized",2,"Female",5.1994216755
+69,"mean_cholesterol",4664,"Querétaro",2014,27,"Age-standardized",1,"Male",5.24999165231
+69,"mean_cholesterol",4664,"Querétaro",2014,27,"Age-standardized",2,"Female",5.45190596763
+69,"mean_cholesterol",4665,"Quintana Roo",2014,27,"Age-standardized",1,"Male",5.37266027142
+69,"mean_cholesterol",4665,"Quintana Roo",2014,27,"Age-standardized",2,"Female",5.605268855
+69,"mean_cholesterol",4666,"San Luis Potosí",2014,27,"Age-standardized",1,"Male",5.07021681809
+69,"mean_cholesterol",4666,"San Luis Potosí",2014,27,"Age-standardized",2,"Female",5.29153646185
+69,"mean_cholesterol",4667,"Sinaloa",2014,27,"Age-standardized",1,"Male",5.23012106224
+69,"mean_cholesterol",4667,"Sinaloa",2014,27,"Age-standardized",2,"Female",5.41992265475
+69,"mean_cholesterol",4668,"Sonora",2014,27,"Age-standardized",1,"Male",5.37096105138
+69,"mean_cholesterol",4668,"Sonora",2014,27,"Age-standardized",2,"Female",5.57188161244
+69,"mean_cholesterol",4669,"Tabasco",2014,27,"Age-standardized",1,"Male",5.18798274693
+69,"mean_cholesterol",4669,"Tabasco",2014,27,"Age-standardized",2,"Female",5.40425268497
+69,"mean_cholesterol",4670,"Tamaulipas",2014,27,"Age-standardized",1,"Male",5.28937080058
+69,"mean_cholesterol",4670,"Tamaulipas",2014,27,"Age-standardized",2,"Female",5.54209294976
+69,"mean_cholesterol",4671,"Tlaxcala",2014,27,"Age-standardized",1,"Male",5.22329306752
+69,"mean_cholesterol",4671,"Tlaxcala",2014,27,"Age-standardized",2,"Female",5.42665940733
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",1,"Male",5.15906556155
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",2,"Female",5.33818780867
+69,"mean_cholesterol",4673,"Yucatán",2014,27,"Age-standardized",1,"Male",5.26708027915
+69,"mean_cholesterol",4673,"Yucatán",2014,27,"Age-standardized",2,"Female",5.48766087929
+69,"mean_cholesterol",4674,"Zacatecas",2014,27,"Age-standardized",1,"Male",5.2557752901
+69,"mean_cholesterol",4674,"Zacatecas",2014,27,"Age-standardized",2,"Female",5.46475966327
+69,"mean_cholesterol",130,"Mexico",2015,27,"Age-standardized",1,"Male",5.10283457404
+69,"mean_cholesterol",130,"Mexico",2015,27,"Age-standardized",2,"Female",5.29851602352
+69,"mean_cholesterol",4643,"Aguascalientes",2015,27,"Age-standardized",1,"Male",5.18680668511
+69,"mean_cholesterol",4643,"Aguascalientes",2015,27,"Age-standardized",2,"Female",5.3940632371
+69,"mean_cholesterol",4644,"Baja California",2015,27,"Age-standardized",1,"Male",5.40349254786
+69,"mean_cholesterol",4644,"Baja California",2015,27,"Age-standardized",2,"Female",5.66378529455
+69,"mean_cholesterol",4645,"Baja California Sur",2015,27,"Age-standardized",1,"Male",5.16272939714
+69,"mean_cholesterol",4645,"Baja California Sur",2015,27,"Age-standardized",2,"Female",5.41261596593
+69,"mean_cholesterol",4646,"Campeche",2015,27,"Age-standardized",1,"Male",5.05030376555
+69,"mean_cholesterol",4646,"Campeche",2015,27,"Age-standardized",2,"Female",5.29279561793
+69,"mean_cholesterol",4647,"Coahuila",2015,27,"Age-standardized",1,"Male",5.16469741342
+69,"mean_cholesterol",4647,"Coahuila",2015,27,"Age-standardized",2,"Female",5.36800310891
+69,"mean_cholesterol",4648,"Colima",2015,27,"Age-standardized",1,"Male",5.24872211898
+69,"mean_cholesterol",4648,"Colima",2015,27,"Age-standardized",2,"Female",5.50099198858
+69,"mean_cholesterol",4649,"Chiapas",2015,27,"Age-standardized",1,"Male",5.12012341794
+69,"mean_cholesterol",4649,"Chiapas",2015,27,"Age-standardized",2,"Female",5.35329376882
+69,"mean_cholesterol",4650,"Chihuahua",2015,27,"Age-standardized",1,"Male",5.11356481603
+69,"mean_cholesterol",4650,"Chihuahua",2015,27,"Age-standardized",2,"Female",5.33447211582
+69,"mean_cholesterol",4651,"Mexico City",2015,27,"Age-standardized",1,"Male",5.08971091029
+69,"mean_cholesterol",4651,"Mexico City",2015,27,"Age-standardized",2,"Female",5.23076040144
+69,"mean_cholesterol",4652,"Durango",2015,27,"Age-standardized",1,"Male",4.97131493899
+69,"mean_cholesterol",4652,"Durango",2015,27,"Age-standardized",2,"Female",5.23651234989
+69,"mean_cholesterol",4653,"Guanajuato",2015,27,"Age-standardized",1,"Male",4.95298226368
+69,"mean_cholesterol",4653,"Guanajuato",2015,27,"Age-standardized",2,"Female",5.17307492725
+69,"mean_cholesterol",4654,"Guerrero",2015,27,"Age-standardized",1,"Male",5.07021867349
+69,"mean_cholesterol",4654,"Guerrero",2015,27,"Age-standardized",2,"Female",5.29057172997
+69,"mean_cholesterol",4655,"Hidalgo",2015,27,"Age-standardized",1,"Male",5.09582028574
+69,"mean_cholesterol",4655,"Hidalgo",2015,27,"Age-standardized",2,"Female",5.30133343657
+69,"mean_cholesterol",4656,"Jalisco",2015,27,"Age-standardized",1,"Male",5.08716791147
+69,"mean_cholesterol",4656,"Jalisco",2015,27,"Age-standardized",2,"Female",5.21486373009
+69,"mean_cholesterol",4657,"México",2015,27,"Age-standardized",1,"Male",4.88398005791
+69,"mean_cholesterol",4657,"México",2015,27,"Age-standardized",2,"Female",5.14807373478
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",1,"Male",4.99661994766
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",2,"Female",5.20773415782
+69,"mean_cholesterol",4659,"Morelos",2015,27,"Age-standardized",1,"Male",5.16845354447
+69,"mean_cholesterol",4659,"Morelos",2015,27,"Age-standardized",2,"Female",5.20771116438
+69,"mean_cholesterol",4660,"Nayarit",2015,27,"Age-standardized",1,"Male",5.29512765196
+69,"mean_cholesterol",4660,"Nayarit",2015,27,"Age-standardized",2,"Female",5.47226171375
+69,"mean_cholesterol",4661,"Nuevo León",2015,27,"Age-standardized",1,"Male",5.11625766567
+69,"mean_cholesterol",4661,"Nuevo León",2015,27,"Age-standardized",2,"Female",5.2854118985
+69,"mean_cholesterol",4662,"Oaxaca",2015,27,"Age-standardized",1,"Male",5.08918102718
+69,"mean_cholesterol",4662,"Oaxaca",2015,27,"Age-standardized",2,"Female",5.23312716768
+69,"mean_cholesterol",4663,"Puebla",2015,27,"Age-standardized",1,"Male",5.04465350608
+69,"mean_cholesterol",4663,"Puebla",2015,27,"Age-standardized",2,"Female",5.19671913586
+69,"mean_cholesterol",4664,"Querétaro",2015,27,"Age-standardized",1,"Male",5.25050954858
+69,"mean_cholesterol",4664,"Querétaro",2015,27,"Age-standardized",2,"Female",5.4511185722
+69,"mean_cholesterol",4665,"Quintana Roo",2015,27,"Age-standardized",1,"Male",5.3701891843
+69,"mean_cholesterol",4665,"Quintana Roo",2015,27,"Age-standardized",2,"Female",5.60197892958
+69,"mean_cholesterol",4666,"San Luis Potosí",2015,27,"Age-standardized",1,"Male",5.07325864479
+69,"mean_cholesterol",4666,"San Luis Potosí",2015,27,"Age-standardized",2,"Female",5.29316812828
+69,"mean_cholesterol",4667,"Sinaloa",2015,27,"Age-standardized",1,"Male",5.21892006409
+69,"mean_cholesterol",4667,"Sinaloa",2015,27,"Age-standardized",2,"Female",5.41010418396
+69,"mean_cholesterol",4668,"Sonora",2015,27,"Age-standardized",1,"Male",5.36573484797
+69,"mean_cholesterol",4668,"Sonora",2015,27,"Age-standardized",2,"Female",5.56581602984
+69,"mean_cholesterol",4669,"Tabasco",2015,27,"Age-standardized",1,"Male",5.18583944306
+69,"mean_cholesterol",4669,"Tabasco",2015,27,"Age-standardized",2,"Female",5.40122130559
+69,"mean_cholesterol",4670,"Tamaulipas",2015,27,"Age-standardized",1,"Male",5.28414099447
+69,"mean_cholesterol",4670,"Tamaulipas",2015,27,"Age-standardized",2,"Female",5.53616628568
+69,"mean_cholesterol",4671,"Tlaxcala",2015,27,"Age-standardized",1,"Male",5.22360604864
+69,"mean_cholesterol",4671,"Tlaxcala",2015,27,"Age-standardized",2,"Female",5.42649458171
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",1,"Male",5.1567014199
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",2,"Female",5.33483912163
+69,"mean_cholesterol",4673,"Yucatán",2015,27,"Age-standardized",1,"Male",5.26333029809
+69,"mean_cholesterol",4673,"Yucatán",2015,27,"Age-standardized",2,"Female",5.48279531389
+69,"mean_cholesterol",4674,"Zacatecas",2015,27,"Age-standardized",1,"Male",5.25530620478
+69,"mean_cholesterol",4674,"Zacatecas",2015,27,"Age-standardized",2,"Female",5.46361728807
+69,"mean_cholesterol",130,"Mexico",2016,27,"Age-standardized",1,"Male",5.10006631012
+69,"mean_cholesterol",130,"Mexico",2016,27,"Age-standardized",2,"Female",5.29571551564
+69,"mean_cholesterol",4643,"Aguascalientes",2016,27,"Age-standardized",1,"Male",5.18225025248
+69,"mean_cholesterol",4643,"Aguascalientes",2016,27,"Age-standardized",2,"Female",5.38974055615
+69,"mean_cholesterol",4644,"Baja California",2016,27,"Age-standardized",1,"Male",5.39332588968
+69,"mean_cholesterol",4644,"Baja California",2016,27,"Age-standardized",2,"Female",5.65252721789
+69,"mean_cholesterol",4645,"Baja California Sur",2016,27,"Age-standardized",1,"Male",5.15861418662
+69,"mean_cholesterol",4645,"Baja California Sur",2016,27,"Age-standardized",2,"Female",5.40824447536
+69,"mean_cholesterol",4646,"Campeche",2016,27,"Age-standardized",1,"Male",5.05076963163
+69,"mean_cholesterol",4646,"Campeche",2016,27,"Age-standardized",2,"Female",5.29145916349
+69,"mean_cholesterol",4647,"Coahuila",2016,27,"Age-standardized",1,"Male",5.16059582475
+69,"mean_cholesterol",4647,"Coahuila",2016,27,"Age-standardized",2,"Female",5.36233219207
+69,"mean_cholesterol",4648,"Colima",2016,27,"Age-standardized",1,"Male",5.24494258359
+69,"mean_cholesterol",4648,"Colima",2016,27,"Age-standardized",2,"Female",5.49568748794
+69,"mean_cholesterol",4649,"Chiapas",2016,27,"Age-standardized",1,"Male",5.11843017557
+69,"mean_cholesterol",4649,"Chiapas",2016,27,"Age-standardized",2,"Female",5.35007051015
+69,"mean_cholesterol",4650,"Chihuahua",2016,27,"Age-standardized",1,"Male",5.10044815239
+69,"mean_cholesterol",4650,"Chihuahua",2016,27,"Age-standardized",2,"Female",5.32380578332
+69,"mean_cholesterol",4651,"Mexico City",2016,27,"Age-standardized",1,"Male",5.09004514356
+69,"mean_cholesterol",4651,"Mexico City",2016,27,"Age-standardized",2,"Female",5.23154444013
+69,"mean_cholesterol",4652,"Durango",2016,27,"Age-standardized",1,"Male",4.96031297124
+69,"mean_cholesterol",4652,"Durango",2016,27,"Age-standardized",2,"Female",5.22669864291
+69,"mean_cholesterol",4653,"Guanajuato",2016,27,"Age-standardized",1,"Male",4.95526204903
+69,"mean_cholesterol",4653,"Guanajuato",2016,27,"Age-standardized",2,"Female",5.17342989811
+69,"mean_cholesterol",4654,"Guerrero",2016,27,"Age-standardized",1,"Male",5.06435779128
+69,"mean_cholesterol",4654,"Guerrero",2016,27,"Age-standardized",2,"Female",5.28504050185
+69,"mean_cholesterol",4655,"Hidalgo",2016,27,"Age-standardized",1,"Male",5.09248309623
+69,"mean_cholesterol",4655,"Hidalgo",2016,27,"Age-standardized",2,"Female",5.29808423023
+69,"mean_cholesterol",4656,"Jalisco",2016,27,"Age-standardized",1,"Male",5.08636802551
+69,"mean_cholesterol",4656,"Jalisco",2016,27,"Age-standardized",2,"Female",5.21369284635
+69,"mean_cholesterol",4657,"México",2016,27,"Age-standardized",1,"Male",4.88676598258
+69,"mean_cholesterol",4657,"México",2016,27,"Age-standardized",2,"Female",5.14983052955
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",1,"Male",4.99359769929
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",2,"Female",5.20444907271
+69,"mean_cholesterol",4659,"Morelos",2016,27,"Age-standardized",1,"Male",5.16240173089
+69,"mean_cholesterol",4659,"Morelos",2016,27,"Age-standardized",2,"Female",5.20328082527
+69,"mean_cholesterol",4660,"Nayarit",2016,27,"Age-standardized",1,"Male",5.29168762054
+69,"mean_cholesterol",4660,"Nayarit",2016,27,"Age-standardized",2,"Female",5.46920846775
+69,"mean_cholesterol",4661,"Nuevo León",2016,27,"Age-standardized",1,"Male",5.10624190043
+69,"mean_cholesterol",4661,"Nuevo León",2016,27,"Age-standardized",2,"Female",5.27751894619
+69,"mean_cholesterol",4662,"Oaxaca",2016,27,"Age-standardized",1,"Male",5.08492400416
+69,"mean_cholesterol",4662,"Oaxaca",2016,27,"Age-standardized",2,"Female",5.22936618496
+69,"mean_cholesterol",4663,"Puebla",2016,27,"Age-standardized",1,"Male",5.04149465371
+69,"mean_cholesterol",4663,"Puebla",2016,27,"Age-standardized",2,"Female",5.19385166566
+69,"mean_cholesterol",4664,"Querétaro",2016,27,"Age-standardized",1,"Male",5.24982690508
+69,"mean_cholesterol",4664,"Querétaro",2016,27,"Age-standardized",2,"Female",5.44921321377
+69,"mean_cholesterol",4665,"Quintana Roo",2016,27,"Age-standardized",1,"Male",5.36690959446
+69,"mean_cholesterol",4665,"Quintana Roo",2016,27,"Age-standardized",2,"Female",5.59782828672
+69,"mean_cholesterol",4666,"San Luis Potosí",2016,27,"Age-standardized",1,"Male",5.07431335553
+69,"mean_cholesterol",4666,"San Luis Potosí",2016,27,"Age-standardized",2,"Female",5.29308898293
+69,"mean_cholesterol",4667,"Sinaloa",2016,27,"Age-standardized",1,"Male",5.20666983197
+69,"mean_cholesterol",4667,"Sinaloa",2016,27,"Age-standardized",2,"Female",5.39928757372
+69,"mean_cholesterol",4668,"Sonora",2016,27,"Age-standardized",1,"Male",5.36035462915
+69,"mean_cholesterol",4668,"Sonora",2016,27,"Age-standardized",2,"Female",5.55924722226
+69,"mean_cholesterol",4669,"Tabasco",2016,27,"Age-standardized",1,"Male",5.18276587226
+69,"mean_cholesterol",4669,"Tabasco",2016,27,"Age-standardized",2,"Female",5.39720295231
+69,"mean_cholesterol",4670,"Tamaulipas",2016,27,"Age-standardized",1,"Male",5.27811288548
+69,"mean_cholesterol",4670,"Tamaulipas",2016,27,"Age-standardized",2,"Female",5.52956911349
+69,"mean_cholesterol",4671,"Tlaxcala",2016,27,"Age-standardized",1,"Male",5.22293414228
+69,"mean_cholesterol",4671,"Tlaxcala",2016,27,"Age-standardized",2,"Female",5.42480605075
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",1,"Male",5.15374816915
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",2,"Female",5.33056515164
+69,"mean_cholesterol",4673,"Yucatán",2016,27,"Age-standardized",1,"Male",5.26021332892
+69,"mean_cholesterol",4673,"Yucatán",2016,27,"Age-standardized",2,"Female",5.47808647965
+69,"mean_cholesterol",4674,"Zacatecas",2016,27,"Age-standardized",1,"Male",5.25414100797
+69,"mean_cholesterol",4674,"Zacatecas",2016,27,"Age-standardized",2,"Female",5.46168127261
+69,"mean_cholesterol",130,"Mexico",2017,27,"Age-standardized",1,"Male",5.10006631012
+69,"mean_cholesterol",130,"Mexico",2017,27,"Age-standardized",2,"Female",5.29571551564
+69,"mean_cholesterol",4643,"Aguascalientes",2017,27,"Age-standardized",1,"Male",5.18225025248
+69,"mean_cholesterol",4643,"Aguascalientes",2017,27,"Age-standardized",2,"Female",5.38974055615
+69,"mean_cholesterol",4644,"Baja California",2017,27,"Age-standardized",1,"Male",5.39332588968
+69,"mean_cholesterol",4644,"Baja California",2017,27,"Age-standardized",2,"Female",5.65252721789
+69,"mean_cholesterol",4645,"Baja California Sur",2017,27,"Age-standardized",1,"Male",5.15861418662
+69,"mean_cholesterol",4645,"Baja California Sur",2017,27,"Age-standardized",2,"Female",5.40824447536
+69,"mean_cholesterol",4646,"Campeche",2017,27,"Age-standardized",1,"Male",5.05076963163
+69,"mean_cholesterol",4646,"Campeche",2017,27,"Age-standardized",2,"Female",5.29145916349
+69,"mean_cholesterol",4647,"Coahuila",2017,27,"Age-standardized",1,"Male",5.16059582475
+69,"mean_cholesterol",4647,"Coahuila",2017,27,"Age-standardized",2,"Female",5.36233219207
+69,"mean_cholesterol",4648,"Colima",2017,27,"Age-standardized",1,"Male",5.24494258359
+69,"mean_cholesterol",4648,"Colima",2017,27,"Age-standardized",2,"Female",5.49568748794
+69,"mean_cholesterol",4649,"Chiapas",2017,27,"Age-standardized",1,"Male",5.11843017557
+69,"mean_cholesterol",4649,"Chiapas",2017,27,"Age-standardized",2,"Female",5.35007051015
+69,"mean_cholesterol",4650,"Chihuahua",2017,27,"Age-standardized",1,"Male",5.10044815239
+69,"mean_cholesterol",4650,"Chihuahua",2017,27,"Age-standardized",2,"Female",5.32380578332
+69,"mean_cholesterol",4651,"Mexico City",2017,27,"Age-standardized",1,"Male",5.09004514356
+69,"mean_cholesterol",4651,"Mexico City",2017,27,"Age-standardized",2,"Female",5.23154444013
+69,"mean_cholesterol",4652,"Durango",2017,27,"Age-standardized",1,"Male",4.96031297124
+69,"mean_cholesterol",4652,"Durango",2017,27,"Age-standardized",2,"Female",5.22669864291
+69,"mean_cholesterol",4653,"Guanajuato",2017,27,"Age-standardized",1,"Male",4.95526204903
+69,"mean_cholesterol",4653,"Guanajuato",2017,27,"Age-standardized",2,"Female",5.17342989811
+69,"mean_cholesterol",4654,"Guerrero",2017,27,"Age-standardized",1,"Male",5.06435779128
+69,"mean_cholesterol",4654,"Guerrero",2017,27,"Age-standardized",2,"Female",5.28504050185
+69,"mean_cholesterol",4655,"Hidalgo",2017,27,"Age-standardized",1,"Male",5.09248309623
+69,"mean_cholesterol",4655,"Hidalgo",2017,27,"Age-standardized",2,"Female",5.29808423023
+69,"mean_cholesterol",4656,"Jalisco",2017,27,"Age-standardized",1,"Male",5.08636802551
+69,"mean_cholesterol",4656,"Jalisco",2017,27,"Age-standardized",2,"Female",5.21369284635
+69,"mean_cholesterol",4657,"México",2017,27,"Age-standardized",1,"Male",4.88676598258
+69,"mean_cholesterol",4657,"México",2017,27,"Age-standardized",2,"Female",5.14983052955
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",1,"Male",4.99359769929
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",2,"Female",5.20444907271
+69,"mean_cholesterol",4659,"Morelos",2017,27,"Age-standardized",1,"Male",5.16240173089
+69,"mean_cholesterol",4659,"Morelos",2017,27,"Age-standardized",2,"Female",5.20328082527
+69,"mean_cholesterol",4660,"Nayarit",2017,27,"Age-standardized",1,"Male",5.29168762054
+69,"mean_cholesterol",4660,"Nayarit",2017,27,"Age-standardized",2,"Female",5.46920846775
+69,"mean_cholesterol",4661,"Nuevo León",2017,27,"Age-standardized",1,"Male",5.10624190043
+69,"mean_cholesterol",4661,"Nuevo León",2017,27,"Age-standardized",2,"Female",5.27751894619
+69,"mean_cholesterol",4662,"Oaxaca",2017,27,"Age-standardized",1,"Male",5.08492400416
+69,"mean_cholesterol",4662,"Oaxaca",2017,27,"Age-standardized",2,"Female",5.22936618496
+69,"mean_cholesterol",4663,"Puebla",2017,27,"Age-standardized",1,"Male",5.04149465371
+69,"mean_cholesterol",4663,"Puebla",2017,27,"Age-standardized",2,"Female",5.19385166566
+69,"mean_cholesterol",4664,"Querétaro",2017,27,"Age-standardized",1,"Male",5.24982690508
+69,"mean_cholesterol",4664,"Querétaro",2017,27,"Age-standardized",2,"Female",5.44921321377
+69,"mean_cholesterol",4665,"Quintana Roo",2017,27,"Age-standardized",1,"Male",5.36690959446
+69,"mean_cholesterol",4665,"Quintana Roo",2017,27,"Age-standardized",2,"Female",5.59782828672
+69,"mean_cholesterol",4666,"San Luis Potosí",2017,27,"Age-standardized",1,"Male",5.07431335553
+69,"mean_cholesterol",4666,"San Luis Potosí",2017,27,"Age-standardized",2,"Female",5.29308898293
+69,"mean_cholesterol",4667,"Sinaloa",2017,27,"Age-standardized",1,"Male",5.20666983197
+69,"mean_cholesterol",4667,"Sinaloa",2017,27,"Age-standardized",2,"Female",5.39928757372
+69,"mean_cholesterol",4668,"Sonora",2017,27,"Age-standardized",1,"Male",5.36035462915
+69,"mean_cholesterol",4668,"Sonora",2017,27,"Age-standardized",2,"Female",5.55924722226
+69,"mean_cholesterol",4669,"Tabasco",2017,27,"Age-standardized",1,"Male",5.18276587226
+69,"mean_cholesterol",4669,"Tabasco",2017,27,"Age-standardized",2,"Female",5.39720295231
+69,"mean_cholesterol",4670,"Tamaulipas",2017,27,"Age-standardized",1,"Male",5.27811288548
+69,"mean_cholesterol",4670,"Tamaulipas",2017,27,"Age-standardized",2,"Female",5.52956911349
+69,"mean_cholesterol",4671,"Tlaxcala",2017,27,"Age-standardized",1,"Male",5.22293414228
+69,"mean_cholesterol",4671,"Tlaxcala",2017,27,"Age-standardized",2,"Female",5.42480605075
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",1,"Male",5.15374816915
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",2,"Female",5.33056515164
+69,"mean_cholesterol",4673,"Yucatán",2017,27,"Age-standardized",1,"Male",5.26021332892
+69,"mean_cholesterol",4673,"Yucatán",2017,27,"Age-standardized",2,"Female",5.47808647965
+69,"mean_cholesterol",4674,"Zacatecas",2017,27,"Age-standardized",1,"Male",5.25414100797
+69,"mean_cholesterol",4674,"Zacatecas",2017,27,"Age-standardized",2,"Female",5.46168127261
+69,"mean_cholesterol",130,"Mexico",2018,27,"Age-standardized",1,"Male",5.10113578969079
+69,"mean_cholesterol",130,"Mexico",2018,27,"Age-standardized",2,"Female",5.29666499682493
+69,"mean_cholesterol",4643,"Aguascalientes",2018,27,"Age-standardized",1,"Male",5.18327253832051
+69,"mean_cholesterol",4643,"Aguascalientes",2018,27,"Age-standardized",2,"Female",5.39064960508346
+69,"mean_cholesterol",4644,"Baja California",2018,27,"Age-standardized",1,"Male",5.39409689795695
+69,"mean_cholesterol",4644,"Baja California",2018,27,"Age-standardized",2,"Female",5.6532181131074
+69,"mean_cholesterol",4645,"Baja California Sur",2018,27,"Age-standardized",1,"Male",5.15947029342103
+69,"mean_cholesterol",4645,"Baja California Sur",2018,27,"Age-standardized",2,"Female",5.40901186801346
+69,"mean_cholesterol",4646,"Campeche",2018,27,"Age-standardized",1,"Male",5.05200622663173
+69,"mean_cholesterol",4646,"Campeche",2018,27,"Age-standardized",2,"Female",5.29256683073919
+69,"mean_cholesterol",4647,"Coahuila",2018,27,"Age-standardized",1,"Male",5.16160682950496
+69,"mean_cholesterol",4647,"Coahuila",2018,27,"Age-standardized",2,"Female",5.36323039102649
+69,"mean_cholesterol",4648,"Colima",2018,27,"Age-standardized",1,"Male",5.24600096763807
+69,"mean_cholesterol",4648,"Colima",2018,27,"Age-standardized",2,"Female",5.49663566593178
+69,"mean_cholesterol",4649,"Chiapas",2018,27,"Age-standardized",1,"Male",5.11979833866369
+69,"mean_cholesterol",4649,"Chiapas",2018,27,"Age-standardized",2,"Female",5.35129322116995
+69,"mean_cholesterol",4650,"Chihuahua",2018,27,"Age-standardized",1,"Male",5.10145235417045
+69,"mean_cholesterol",4650,"Chihuahua",2018,27,"Age-standardized",2,"Female",5.32470197375173
+69,"mean_cholesterol",4651,"Mexico City",2018,27,"Age-standardized",1,"Male",5.09088169500102
+69,"mean_cholesterol",4651,"Mexico City",2018,27,"Age-standardized",2,"Female",5.23227957565427
+69,"mean_cholesterol",4652,"Durango",2018,27,"Age-standardized",1,"Male",4.96150978678392
+69,"mean_cholesterol",4652,"Durango",2018,27,"Age-standardized",2,"Female",5.22777686854805
+69,"mean_cholesterol",4653,"Guanajuato",2018,27,"Age-standardized",1,"Male",4.95640916163663
+69,"mean_cholesterol",4653,"Guanajuato",2018,27,"Age-standardized",2,"Female",5.17445385660849
+69,"mean_cholesterol",4654,"Guerrero",2018,27,"Age-standardized",1,"Male",5.06559866170628
+69,"mean_cholesterol",4654,"Guerrero",2018,27,"Age-standardized",2,"Female",5.28614767184467
+69,"mean_cholesterol",4655,"Hidalgo",2018,27,"Age-standardized",1,"Male",5.09356862289416
+69,"mean_cholesterol",4655,"Hidalgo",2018,27,"Age-standardized",2,"Female",5.29904982453341
+69,"mean_cholesterol",4656,"Jalisco",2018,27,"Age-standardized",1,"Male",5.08744565753869
+69,"mean_cholesterol",4656,"Jalisco",2018,27,"Age-standardized",2,"Female",5.21463728364785
+69,"mean_cholesterol",4657,"México",2018,27,"Age-standardized",1,"Male",4.88779150343913
+69,"mean_cholesterol",4657,"México",2018,27,"Age-standardized",2,"Female",5.15075454862097
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",1,"Male",4.99483105596585
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",2,"Female",5.20554811340311
+69,"mean_cholesterol",4659,"Morelos",2018,27,"Age-standardized",1,"Male",5.16341815302485
+69,"mean_cholesterol",4659,"Morelos",2018,27,"Age-standardized",2,"Female",5.20415674645719
+69,"mean_cholesterol",4660,"Nayarit",2018,27,"Age-standardized",1,"Male",5.29300255542366
+69,"mean_cholesterol",4660,"Nayarit",2018,27,"Age-standardized",2,"Female",5.4703704469397
+69,"mean_cholesterol",4661,"Nuevo León",2018,27,"Age-standardized",1,"Male",5.10699067249821
+69,"mean_cholesterol",4661,"Nuevo León",2018,27,"Age-standardized",2,"Female",5.27818062173306
+69,"mean_cholesterol",4662,"Oaxaca",2018,27,"Age-standardized",1,"Male",5.08626403594522
+69,"mean_cholesterol",4662,"Oaxaca",2018,27,"Age-standardized",2,"Female",5.2305444501269
+69,"mean_cholesterol",4663,"Puebla",2018,27,"Age-standardized",1,"Male",5.0425726201928
+69,"mean_cholesterol",4663,"Puebla",2018,27,"Age-standardized",2,"Female",5.1948011775446
+69,"mean_cholesterol",4664,"Querétaro",2018,27,"Age-standardized",1,"Male",5.25065395660921
+69,"mean_cholesterol",4664,"Querétaro",2018,27,"Age-standardized",2,"Female",5.4499472002726
+69,"mean_cholesterol",4665,"Quintana Roo",2018,27,"Age-standardized",1,"Male",5.36769295384934
+69,"mean_cholesterol",4665,"Quintana Roo",2018,27,"Age-standardized",2,"Female",5.59852687838277
+69,"mean_cholesterol",4666,"San Luis Potosí",2018,27,"Age-standardized",1,"Male",5.07550199832554
+69,"mean_cholesterol",4666,"San Luis Potosí",2018,27,"Age-standardized",2,"Female",5.29414908467106
+69,"mean_cholesterol",4667,"Sinaloa",2018,27,"Age-standardized",1,"Male",5.20775099616405
+69,"mean_cholesterol",4667,"Sinaloa",2018,27,"Age-standardized",2,"Female",5.40024616436226
+69,"mean_cholesterol",4668,"Sonora",2018,27,"Age-standardized",1,"Male",5.36131499007635
+69,"mean_cholesterol",4668,"Sonora",2018,27,"Age-standardized",2,"Female",5.56009879736009
+69,"mean_cholesterol",4669,"Tabasco",2018,27,"Age-standardized",1,"Male",5.18402564961266
+69,"mean_cholesterol",4669,"Tabasco",2018,27,"Age-standardized",2,"Female",5.39832462191355
+69,"mean_cholesterol",4670,"Tamaulipas",2018,27,"Age-standardized",1,"Male",5.27907465477889
+69,"mean_cholesterol",4670,"Tamaulipas",2018,27,"Age-standardized",2,"Female",5.53043060189551
+69,"mean_cholesterol",4671,"Tlaxcala",2018,27,"Age-standardized",1,"Male",5.22380885588788
+69,"mean_cholesterol",4671,"Tlaxcala",2018,27,"Age-standardized",2,"Female",5.42558283770574
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",1,"Male",5.15503039799307
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",2,"Female",5.33169906381738
+69,"mean_cholesterol",4673,"Yucatán",2018,27,"Age-standardized",1,"Male",5.26141451454582
+69,"mean_cholesterol",4673,"Yucatán",2018,27,"Age-standardized",2,"Female",5.47915602723572
+69,"mean_cholesterol",4674,"Zacatecas",2018,27,"Age-standardized",1,"Male",5.25563752927438
+69,"mean_cholesterol",4674,"Zacatecas",2018,27,"Age-standardized",2,"Female",5.46301132948757
+69,"mean_cholesterol",130,"Mexico",2019,27,"Age-standardized",1,"Male",5.10212807649819
+69,"mean_cholesterol",130,"Mexico",2019,27,"Age-standardized",2,"Female",5.29754592066284
+69,"mean_cholesterol",4643,"Aguascalientes",2019,27,"Age-standardized",1,"Male",5.18424498277725
+69,"mean_cholesterol",4643,"Aguascalientes",2019,27,"Age-standardized",2,"Female",5.39151430935593
+69,"mean_cholesterol",4644,"Baja California",2019,27,"Age-standardized",1,"Male",5.39484183291846
+69,"mean_cholesterol",4644,"Baja California",2019,27,"Age-standardized",2,"Female",5.65388563060609
+69,"mean_cholesterol",4645,"Baja California Sur",2019,27,"Age-standardized",1,"Male",5.16029421322708
+69,"mean_cholesterol",4645,"Baja California Sur",2019,27,"Age-standardized",2,"Female",5.40975039161872
+69,"mean_cholesterol",4646,"Campeche",2019,27,"Age-standardized",1,"Male",5.05313573244172
+69,"mean_cholesterol",4646,"Campeche",2019,27,"Age-standardized",2,"Female",5.29357853959563
+69,"mean_cholesterol",4647,"Coahuila",2019,27,"Age-standardized",1,"Male",5.16256823550597
+69,"mean_cholesterol",4647,"Coahuila",2019,27,"Age-standardized",2,"Female",5.36408450169303
+69,"mean_cholesterol",4648,"Colima",2019,27,"Age-standardized",1,"Male",5.24698214337633
+69,"mean_cholesterol",4648,"Colima",2019,27,"Age-standardized",2,"Female",5.49751465028719
+69,"mean_cholesterol",4649,"Chiapas",2019,27,"Age-standardized",1,"Male",5.12099890345626
+69,"mean_cholesterol",4649,"Chiapas",2019,27,"Age-standardized",2,"Female",5.35236611256476
+69,"mean_cholesterol",4650,"Chihuahua",2019,27,"Age-standardized",1,"Male",5.10236623954541
+69,"mean_cholesterol",4650,"Chihuahua",2019,27,"Age-standardized",2,"Female",5.32551753992664
+69,"mean_cholesterol",4651,"Mexico City",2019,27,"Age-standardized",1,"Male",5.09170821877588
+69,"mean_cholesterol",4651,"Mexico City",2019,27,"Age-standardized",2,"Female",5.23300588197493
+69,"mean_cholesterol",4652,"Durango",2019,27,"Age-standardized",1,"Male",4.96258954011149
+69,"mean_cholesterol",4652,"Durango",2019,27,"Age-standardized",2,"Female",5.22874959905815
+69,"mean_cholesterol",4653,"Guanajuato",2019,27,"Age-standardized",1,"Male",4.95748115645198
+69,"mean_cholesterol",4653,"Guanajuato",2019,27,"Age-standardized",2,"Female",5.17541073090971
+69,"mean_cholesterol",4654,"Guerrero",2019,27,"Age-standardized",1,"Male",5.06670296025824
+69,"mean_cholesterol",4654,"Guerrero",2019,27,"Age-standardized",2,"Female",5.28713295214611
+69,"mean_cholesterol",4655,"Hidalgo",2019,27,"Age-standardized",1,"Male",5.09457744416561
+69,"mean_cholesterol",4655,"Hidalgo",2019,27,"Age-standardized",2,"Female",5.29994716134608
+69,"mean_cholesterol",4656,"Jalisco",2019,27,"Age-standardized",1,"Male",5.08844731610109
+69,"mean_cholesterol",4656,"Jalisco",2019,27,"Age-standardized",2,"Female",5.21551511174849
+69,"mean_cholesterol",4657,"México",2019,27,"Age-standardized",1,"Male",4.88872891974133
+69,"mean_cholesterol",4657,"México",2019,27,"Age-standardized",2,"Female",5.15159915876718
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",1,"Male",4.99595840381534
+69,"mean_cholesterol",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",2,"Female",5.20655265550725
+69,"mean_cholesterol",4659,"Morelos",2019,27,"Age-standardized",1,"Male",5.16438774603721
+69,"mean_cholesterol",4659,"Morelos",2019,27,"Age-standardized",2,"Female",5.20499228845528
+69,"mean_cholesterol",4660,"Nayarit",2019,27,"Age-standardized",1,"Male",5.29421035341209
+69,"mean_cholesterol",4660,"Nayarit",2019,27,"Age-standardized",2,"Female",5.47143771472169
+69,"mean_cholesterol",4661,"Nuevo León",2019,27,"Age-standardized",1,"Male",5.10773207627318
+69,"mean_cholesterol",4661,"Nuevo León",2019,27,"Age-standardized",2,"Female",5.27883577219768
+69,"mean_cholesterol",4662,"Oaxaca",2019,27,"Age-standardized",1,"Male",5.08747727475951
+69,"mean_cholesterol",4662,"Oaxaca",2019,27,"Age-standardized",2,"Female",5.23161118975769
+69,"mean_cholesterol",4663,"Puebla",2019,27,"Age-standardized",1,"Male",5.04358250227343
+69,"mean_cholesterol",4663,"Puebla",2019,27,"Age-standardized",2,"Female",5.19569069152398
+69,"mean_cholesterol",4664,"Querétaro",2019,27,"Age-standardized",1,"Male",5.25148703631727
+69,"mean_cholesterol",4664,"Querétaro",2019,27,"Age-standardized",2,"Female",5.45068651967938
+69,"mean_cholesterol",4665,"Quintana Roo",2019,27,"Age-standardized",1,"Male",5.36846998185062
+69,"mean_cholesterol",4665,"Quintana Roo",2019,27,"Age-standardized",2,"Female",5.59921980917718
+69,"mean_cholesterol",4666,"San Luis Potosí",2019,27,"Age-standardized",1,"Male",5.07659560145392
+69,"mean_cholesterol",4666,"San Luis Potosí",2019,27,"Age-standardized",2,"Female",5.29512439263867
+69,"mean_cholesterol",4667,"Sinaloa",2019,27,"Age-standardized",1,"Male",5.20877301272577
+69,"mean_cholesterol",4667,"Sinaloa",2019,27,"Age-standardized",2,"Female",5.40115228651754
+69,"mean_cholesterol",4668,"Sonora",2019,27,"Age-standardized",1,"Male",5.36223276137474
+69,"mean_cholesterol",4668,"Sonora",2019,27,"Age-standardized",2,"Female",5.56091258654704
+69,"mean_cholesterol",4669,"Tabasco",2019,27,"Age-standardized",1,"Male",5.18518705634791
+69,"mean_cholesterol",4669,"Tabasco",2019,27,"Age-standardized",2,"Female",5.39935867013026
+69,"mean_cholesterol",4670,"Tamaulipas",2019,27,"Age-standardized",1,"Male",5.28000396916243
+69,"mean_cholesterol",4670,"Tamaulipas",2019,27,"Age-standardized",2,"Female",5.53126299774853
+69,"mean_cholesterol",4671,"Tlaxcala",2019,27,"Age-standardized",1,"Male",5.22469273051849
+69,"mean_cholesterol",4671,"Tlaxcala",2019,27,"Age-standardized",2,"Female",5.42636774092596
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",1,"Male",5.15619629864313
+69,"mean_cholesterol",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",2,"Female",5.3327300681017
+69,"mean_cholesterol",4673,"Yucatán",2019,27,"Age-standardized",1,"Male",5.26255714324409
+69,"mean_cholesterol",4673,"Yucatán",2019,27,"Age-standardized",2,"Female",5.48017340229674
+69,"mean_cholesterol",4674,"Zacatecas",2019,27,"Age-standardized",1,"Male",5.25697707840489
+69,"mean_cholesterol",4674,"Zacatecas",2019,27,"Age-standardized",2,"Female",5.46420182829999

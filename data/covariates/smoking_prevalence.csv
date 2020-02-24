@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+282,"smok_prev_agestd_both",130,"Mexico",1990,27,"Age-standardized",3,"Both",0.203700347187
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1990,27,"Age-standardized",3,"Both",0.264739670223
+282,"smok_prev_agestd_both",4644,"Baja California",1990,27,"Age-standardized",3,"Both",0.232587697965
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1990,27,"Age-standardized",3,"Both",0.260483012471
+282,"smok_prev_agestd_both",4646,"Campeche",1990,27,"Age-standardized",3,"Both",0.165947284726
+282,"smok_prev_agestd_both",4647,"Coahuila",1990,27,"Age-standardized",3,"Both",0.215019970597
+282,"smok_prev_agestd_both",4648,"Colima",1990,27,"Age-standardized",3,"Both",0.22860728647
+282,"smok_prev_agestd_both",4649,"Chiapas",1990,27,"Age-standardized",3,"Both",0.104173110392
+282,"smok_prev_agestd_both",4650,"Chihuahua",1990,27,"Age-standardized",3,"Both",0.270263469636
+282,"smok_prev_agestd_both",4651,"Mexico City",1990,27,"Age-standardized",3,"Both",0.233878597186
+282,"smok_prev_agestd_both",4652,"Durango",1990,27,"Age-standardized",3,"Both",0.235490761212
+282,"smok_prev_agestd_both",4653,"Guanajuato",1990,27,"Age-standardized",3,"Both",0.230719302446
+282,"smok_prev_agestd_both",4654,"Guerrero",1990,27,"Age-standardized",3,"Both",0.155785287543
+282,"smok_prev_agestd_both",4655,"Hidalgo",1990,27,"Age-standardized",3,"Both",0.153109311483
+282,"smok_prev_agestd_both",4656,"Jalisco",1990,27,"Age-standardized",3,"Both",0.24673069093
+282,"smok_prev_agestd_both",4657,"México",1990,27,"Age-standardized",3,"Both",0.239662072641
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",3,"Both",0.194286004712
+282,"smok_prev_agestd_both",4659,"Morelos",1990,27,"Age-standardized",3,"Both",0.176518049379
+282,"smok_prev_agestd_both",4660,"Nayarit",1990,27,"Age-standardized",3,"Both",0.225201194798
+282,"smok_prev_agestd_both",4661,"Nuevo León",1990,27,"Age-standardized",3,"Both",0.238557260553
+282,"smok_prev_agestd_both",4662,"Oaxaca",1990,27,"Age-standardized",3,"Both",0.126238931766
+282,"smok_prev_agestd_both",4663,"Puebla",1990,27,"Age-standardized",3,"Both",0.153174810062
+282,"smok_prev_agestd_both",4664,"Querétaro",1990,27,"Age-standardized",3,"Both",0.198060604485
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1990,27,"Age-standardized",3,"Both",0.170303211349
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1990,27,"Age-standardized",3,"Both",0.174857800747
+282,"smok_prev_agestd_both",4667,"Sinaloa",1990,27,"Age-standardized",3,"Both",0.22788681609
+282,"smok_prev_agestd_both",4668,"Sonora",1990,27,"Age-standardized",3,"Both",0.247803044176
+282,"smok_prev_agestd_both",4669,"Tabasco",1990,27,"Age-standardized",3,"Both",0.142872096863
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1990,27,"Age-standardized",3,"Both",0.207086764005
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1990,27,"Age-standardized",3,"Both",0.142800771134
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",3,"Both",0.157457239343
+282,"smok_prev_agestd_both",4673,"Yucatán",1990,27,"Age-standardized",3,"Both",0.142809972516
+282,"smok_prev_agestd_both",4674,"Zacatecas",1990,27,"Age-standardized",3,"Both",0.205658084487
+282,"smok_prev_agestd_both",130,"Mexico",1991,27,"Age-standardized",3,"Both",0.206660979957
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1991,27,"Age-standardized",3,"Both",0.268003807177
+282,"smok_prev_agestd_both",4644,"Baja California",1991,27,"Age-standardized",3,"Both",0.236714814526
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1991,27,"Age-standardized",3,"Both",0.264876394303
+282,"smok_prev_agestd_both",4646,"Campeche",1991,27,"Age-standardized",3,"Both",0.167989834902
+282,"smok_prev_agestd_both",4647,"Coahuila",1991,27,"Age-standardized",3,"Both",0.21899959138
+282,"smok_prev_agestd_both",4648,"Colima",1991,27,"Age-standardized",3,"Both",0.233393622858
+282,"smok_prev_agestd_both",4649,"Chiapas",1991,27,"Age-standardized",3,"Both",0.105280375906
+282,"smok_prev_agestd_both",4650,"Chihuahua",1991,27,"Age-standardized",3,"Both",0.273574236333
+282,"smok_prev_agestd_both",4651,"Mexico City",1991,27,"Age-standardized",3,"Both",0.23682254784
+282,"smok_prev_agestd_both",4652,"Durango",1991,27,"Age-standardized",3,"Both",0.239537703292
+282,"smok_prev_agestd_both",4653,"Guanajuato",1991,27,"Age-standardized",3,"Both",0.234625229936
+282,"smok_prev_agestd_both",4654,"Guerrero",1991,27,"Age-standardized",3,"Both",0.157608564147
+282,"smok_prev_agestd_both",4655,"Hidalgo",1991,27,"Age-standardized",3,"Both",0.154101265674
+282,"smok_prev_agestd_both",4656,"Jalisco",1991,27,"Age-standardized",3,"Both",0.251197868669
+282,"smok_prev_agestd_both",4657,"México",1991,27,"Age-standardized",3,"Both",0.242967376722
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",3,"Both",0.197207064485
+282,"smok_prev_agestd_both",4659,"Morelos",1991,27,"Age-standardized",3,"Both",0.178453436987
+282,"smok_prev_agestd_both",4660,"Nayarit",1991,27,"Age-standardized",3,"Both",0.22793091884
+282,"smok_prev_agestd_both",4661,"Nuevo León",1991,27,"Age-standardized",3,"Both",0.243082219486
+282,"smok_prev_agestd_both",4662,"Oaxaca",1991,27,"Age-standardized",3,"Both",0.12760684462
+282,"smok_prev_agestd_both",4663,"Puebla",1991,27,"Age-standardized",3,"Both",0.154619730997
+282,"smok_prev_agestd_both",4664,"Querétaro",1991,27,"Age-standardized",3,"Both",0.200907600772
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1991,27,"Age-standardized",3,"Both",0.173058917085
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1991,27,"Age-standardized",3,"Both",0.176238708645
+282,"smok_prev_agestd_both",4667,"Sinaloa",1991,27,"Age-standardized",3,"Both",0.230955379039
+282,"smok_prev_agestd_both",4668,"Sonora",1991,27,"Age-standardized",3,"Both",0.252581234556
+282,"smok_prev_agestd_both",4669,"Tabasco",1991,27,"Age-standardized",3,"Both",0.14485308102
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1991,27,"Age-standardized",3,"Both",0.210030006385
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1991,27,"Age-standardized",3,"Both",0.144134422491
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",3,"Both",0.159649172859
+282,"smok_prev_agestd_both",4673,"Yucatán",1991,27,"Age-standardized",3,"Both",0.145037344177
+282,"smok_prev_agestd_both",4674,"Zacatecas",1991,27,"Age-standardized",3,"Both",0.208411160665
+282,"smok_prev_agestd_both",130,"Mexico",1992,27,"Age-standardized",3,"Both",0.210009121348
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1992,27,"Age-standardized",3,"Both",0.272075514116
+282,"smok_prev_agestd_both",4644,"Baja California",1992,27,"Age-standardized",3,"Both",0.241556415193
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1992,27,"Age-standardized",3,"Both",0.270174063969
+282,"smok_prev_agestd_both",4646,"Campeche",1992,27,"Age-standardized",3,"Both",0.17031591104
+282,"smok_prev_agestd_both",4647,"Coahuila",1992,27,"Age-standardized",3,"Both",0.223412168155
+282,"smok_prev_agestd_both",4648,"Colima",1992,27,"Age-standardized",3,"Both",0.238185364469
+282,"smok_prev_agestd_both",4649,"Chiapas",1992,27,"Age-standardized",3,"Both",0.106639686901
+282,"smok_prev_agestd_both",4650,"Chihuahua",1992,27,"Age-standardized",3,"Both",0.277675407418
+282,"smok_prev_agestd_both",4651,"Mexico City",1992,27,"Age-standardized",3,"Both",0.239985743955
+282,"smok_prev_agestd_both",4652,"Durango",1992,27,"Age-standardized",3,"Both",0.244407256028
+282,"smok_prev_agestd_both",4653,"Guanajuato",1992,27,"Age-standardized",3,"Both",0.238730644789
+282,"smok_prev_agestd_both",4654,"Guerrero",1992,27,"Age-standardized",3,"Both",0.159909678477
+282,"smok_prev_agestd_both",4655,"Hidalgo",1992,27,"Age-standardized",3,"Both",0.155440824914
+282,"smok_prev_agestd_both",4656,"Jalisco",1992,27,"Age-standardized",3,"Both",0.256469546866
+282,"smok_prev_agestd_both",4657,"México",1992,27,"Age-standardized",3,"Both",0.246536171141
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",3,"Both",0.200287948948
+282,"smok_prev_agestd_both",4659,"Morelos",1992,27,"Age-standardized",3,"Both",0.180879247433
+282,"smok_prev_agestd_both",4660,"Nayarit",1992,27,"Age-standardized",3,"Both",0.231209119544
+282,"smok_prev_agestd_both",4661,"Nuevo León",1992,27,"Age-standardized",3,"Both",0.248077314995
+282,"smok_prev_agestd_both",4662,"Oaxaca",1992,27,"Age-standardized",3,"Both",0.128988167303
+282,"smok_prev_agestd_both",4663,"Puebla",1992,27,"Age-standardized",3,"Both",0.156399683342
+282,"smok_prev_agestd_both",4664,"Querétaro",1992,27,"Age-standardized",3,"Both",0.204250709266
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1992,27,"Age-standardized",3,"Both",0.176109224194
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1992,27,"Age-standardized",3,"Both",0.178164407356
+282,"smok_prev_agestd_both",4667,"Sinaloa",1992,27,"Age-standardized",3,"Both",0.234736574482
+282,"smok_prev_agestd_both",4668,"Sonora",1992,27,"Age-standardized",3,"Both",0.258159543018
+282,"smok_prev_agestd_both",4669,"Tabasco",1992,27,"Age-standardized",3,"Both",0.147021590689
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1992,27,"Age-standardized",3,"Both",0.213537266101
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1992,27,"Age-standardized",3,"Both",0.145860747846
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",3,"Both",0.161885731865
+282,"smok_prev_agestd_both",4673,"Yucatán",1992,27,"Age-standardized",3,"Both",0.147349164239
+282,"smok_prev_agestd_both",4674,"Zacatecas",1992,27,"Age-standardized",3,"Both",0.211891058962
+282,"smok_prev_agestd_both",130,"Mexico",1993,27,"Age-standardized",3,"Both",0.213505623529
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1993,27,"Age-standardized",3,"Both",0.276774944329
+282,"smok_prev_agestd_both",4644,"Baja California",1993,27,"Age-standardized",3,"Both",0.246744760384
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1993,27,"Age-standardized",3,"Both",0.276044143773
+282,"smok_prev_agestd_both",4646,"Campeche",1993,27,"Age-standardized",3,"Both",0.172818325609
+282,"smok_prev_agestd_both",4647,"Coahuila",1993,27,"Age-standardized",3,"Both",0.228097160802
+282,"smok_prev_agestd_both",4648,"Colima",1993,27,"Age-standardized",3,"Both",0.242692647518
+282,"smok_prev_agestd_both",4649,"Chiapas",1993,27,"Age-standardized",3,"Both",0.10816583778
+282,"smok_prev_agestd_both",4650,"Chihuahua",1993,27,"Age-standardized",3,"Both",0.282386282466
+282,"smok_prev_agestd_both",4651,"Mexico City",1993,27,"Age-standardized",3,"Both",0.24299770541
+282,"smok_prev_agestd_both",4652,"Durango",1993,27,"Age-standardized",3,"Both",0.249878419038
+282,"smok_prev_agestd_both",4653,"Guanajuato",1993,27,"Age-standardized",3,"Both",0.242515224786
+282,"smok_prev_agestd_both",4654,"Guerrero",1993,27,"Age-standardized",3,"Both",0.162618796211
+282,"smok_prev_agestd_both",4655,"Hidalgo",1993,27,"Age-standardized",3,"Both",0.156977525813
+282,"smok_prev_agestd_both",4656,"Jalisco",1993,27,"Age-standardized",3,"Both",0.262181138613
+282,"smok_prev_agestd_both",4657,"México",1993,27,"Age-standardized",3,"Both",0.250039072957
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",3,"Both",0.203261600833
+282,"smok_prev_agestd_both",4659,"Morelos",1993,27,"Age-standardized",3,"Both",0.183615408276
+282,"smok_prev_agestd_both",4660,"Nayarit",1993,27,"Age-standardized",3,"Both",0.23481093921
+282,"smok_prev_agestd_both",4661,"Nuevo León",1993,27,"Age-standardized",3,"Both",0.253215245117
+282,"smok_prev_agestd_both",4662,"Oaxaca",1993,27,"Age-standardized",3,"Both",0.13022098269
+282,"smok_prev_agestd_both",4663,"Puebla",1993,27,"Age-standardized",3,"Both",0.158386663703
+282,"smok_prev_agestd_both",4664,"Querétaro",1993,27,"Age-standardized",3,"Both",0.207996789051
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1993,27,"Age-standardized",3,"Both",0.179318786976
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1993,27,"Age-standardized",3,"Both",0.180587334323
+282,"smok_prev_agestd_both",4667,"Sinaloa",1993,27,"Age-standardized",3,"Both",0.239119156395
+282,"smok_prev_agestd_both",4668,"Sonora",1993,27,"Age-standardized",3,"Both",0.264262962608
+282,"smok_prev_agestd_both",4669,"Tabasco",1993,27,"Age-standardized",3,"Both",0.149299203367
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1993,27,"Age-standardized",3,"Both",0.217416088667
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1993,27,"Age-standardized",3,"Both",0.147827560898
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",3,"Both",0.164055197759
+282,"smok_prev_agestd_both",4673,"Yucatán",1993,27,"Age-standardized",3,"Both",0.149554860727
+282,"smok_prev_agestd_both",4674,"Zacatecas",1993,27,"Age-standardized",3,"Both",0.215913927214
+282,"smok_prev_agestd_both",130,"Mexico",1994,27,"Age-standardized",3,"Both",0.211676762699
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1994,27,"Age-standardized",3,"Both",0.277127852636
+282,"smok_prev_agestd_both",4644,"Baja California",1994,27,"Age-standardized",3,"Both",0.246847880262
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1994,27,"Age-standardized",3,"Both",0.277113846316
+282,"smok_prev_agestd_both",4646,"Campeche",1994,27,"Age-standardized",3,"Both",0.169706437561
+282,"smok_prev_agestd_both",4647,"Coahuila",1994,27,"Age-standardized",3,"Both",0.228538986915
+282,"smok_prev_agestd_both",4648,"Colima",1994,27,"Age-standardized",3,"Both",0.239499348203
+282,"smok_prev_agestd_both",4649,"Chiapas",1994,27,"Age-standardized",3,"Both",0.107932497803
+282,"smok_prev_agestd_both",4650,"Chihuahua",1994,27,"Age-standardized",3,"Both",0.282224018801
+282,"smok_prev_agestd_both",4651,"Mexico City",1994,27,"Age-standardized",3,"Both",0.238074923469
+282,"smok_prev_agestd_both",4652,"Durango",1994,27,"Age-standardized",3,"Both",0.251194476875
+282,"smok_prev_agestd_both",4653,"Guanajuato",1994,27,"Age-standardized",3,"Both",0.239228852448
+282,"smok_prev_agestd_both",4654,"Guerrero",1994,27,"Age-standardized",3,"Both",0.162689037804
+282,"smok_prev_agestd_both",4655,"Hidalgo",1994,27,"Age-standardized",3,"Both",0.156007655021
+282,"smok_prev_agestd_both",4656,"Jalisco",1994,27,"Age-standardized",3,"Both",0.262764855935
+282,"smok_prev_agestd_both",4657,"México",1994,27,"Age-standardized",3,"Both",0.245394690193
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",3,"Both",0.20054601018
+282,"smok_prev_agestd_both",4659,"Morelos",1994,27,"Age-standardized",3,"Both",0.183189079352
+282,"smok_prev_agestd_both",4660,"Nayarit",1994,27,"Age-standardized",3,"Both",0.23461613973
+282,"smok_prev_agestd_both",4661,"Nuevo León",1994,27,"Age-standardized",3,"Both",0.253262101094
+282,"smok_prev_agestd_both",4662,"Oaxaca",1994,27,"Age-standardized",3,"Both",0.125623696278
+282,"smok_prev_agestd_both",4663,"Puebla",1994,27,"Age-standardized",3,"Both",0.157681059848
+282,"smok_prev_agestd_both",4664,"Querétaro",1994,27,"Age-standardized",3,"Both",0.208060008497
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1994,27,"Age-standardized",3,"Both",0.179362960429
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1994,27,"Age-standardized",3,"Both",0.180127700152
+282,"smok_prev_agestd_both",4667,"Sinaloa",1994,27,"Age-standardized",3,"Both",0.239824609333
+282,"smok_prev_agestd_both",4668,"Sonora",1994,27,"Age-standardized",3,"Both",0.265531794275
+282,"smok_prev_agestd_both",4669,"Tabasco",1994,27,"Age-standardized",3,"Both",0.146394294395
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1994,27,"Age-standardized",3,"Both",0.217512039544
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1994,27,"Age-standardized",3,"Both",0.147378356211
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",3,"Both",0.160058257955
+282,"smok_prev_agestd_both",4673,"Yucatán",1994,27,"Age-standardized",3,"Both",0.147182869353
+282,"smok_prev_agestd_both",4674,"Zacatecas",1994,27,"Age-standardized",3,"Both",0.216404276416
+282,"smok_prev_agestd_both",130,"Mexico",1995,27,"Age-standardized",3,"Both",0.209228333582
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1995,27,"Age-standardized",3,"Both",0.27745752116
+282,"smok_prev_agestd_both",4644,"Baja California",1995,27,"Age-standardized",3,"Both",0.246299419167
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1995,27,"Age-standardized",3,"Both",0.277873457423
+282,"smok_prev_agestd_both",4646,"Campeche",1995,27,"Age-standardized",3,"Both",0.166164783494
+282,"smok_prev_agestd_both",4647,"Coahuila",1995,27,"Age-standardized",3,"Both",0.22845959421
+282,"smok_prev_agestd_both",4648,"Colima",1995,27,"Age-standardized",3,"Both",0.23508739156
+282,"smok_prev_agestd_both",4649,"Chiapas",1995,27,"Age-standardized",3,"Both",0.107643400008
+282,"smok_prev_agestd_both",4650,"Chihuahua",1995,27,"Age-standardized",3,"Both",0.281716641942
+282,"smok_prev_agestd_both",4651,"Mexico City",1995,27,"Age-standardized",3,"Both",0.232190399786
+282,"smok_prev_agestd_both",4652,"Durango",1995,27,"Age-standardized",3,"Both",0.252266769711
+282,"smok_prev_agestd_both",4653,"Guanajuato",1995,27,"Age-standardized",3,"Both",0.234881683537
+282,"smok_prev_agestd_both",4654,"Guerrero",1995,27,"Age-standardized",3,"Both",0.162664163281
+282,"smok_prev_agestd_both",4655,"Hidalgo",1995,27,"Age-standardized",3,"Both",0.15502649576
+282,"smok_prev_agestd_both",4656,"Jalisco",1995,27,"Age-standardized",3,"Both",0.262581098858
+282,"smok_prev_agestd_both",4657,"México",1995,27,"Age-standardized",3,"Both",0.239415009266
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",3,"Both",0.19696526279
+282,"smok_prev_agestd_both",4659,"Morelos",1995,27,"Age-standardized",3,"Both",0.182463104095
+282,"smok_prev_agestd_both",4660,"Nayarit",1995,27,"Age-standardized",3,"Both",0.234313458977
+282,"smok_prev_agestd_both",4661,"Nuevo León",1995,27,"Age-standardized",3,"Both",0.252623808927
+282,"smok_prev_agestd_both",4662,"Oaxaca",1995,27,"Age-standardized",3,"Both",0.120438164967
+282,"smok_prev_agestd_both",4663,"Puebla",1995,27,"Age-standardized",3,"Both",0.156892422857
+282,"smok_prev_agestd_both",4664,"Querétaro",1995,27,"Age-standardized",3,"Both",0.207762121604
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1995,27,"Age-standardized",3,"Both",0.179167459933
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1995,27,"Age-standardized",3,"Both",0.17962594248
+282,"smok_prev_agestd_both",4667,"Sinaloa",1995,27,"Age-standardized",3,"Both",0.240452282549
+282,"smok_prev_agestd_both",4668,"Sonora",1995,27,"Age-standardized",3,"Both",0.266169162657
+282,"smok_prev_agestd_both",4669,"Tabasco",1995,27,"Age-standardized",3,"Both",0.142866451953
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1995,27,"Age-standardized",3,"Both",0.217352269866
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1995,27,"Age-standardized",3,"Both",0.146795025256
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",3,"Both",0.155365883005
+282,"smok_prev_agestd_both",4673,"Yucatán",1995,27,"Age-standardized",3,"Both",0.144295437861
+282,"smok_prev_agestd_both",4674,"Zacatecas",1995,27,"Age-standardized",3,"Both",0.216637246682
+282,"smok_prev_agestd_both",130,"Mexico",1996,27,"Age-standardized",3,"Both",0.206024786657
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1996,27,"Age-standardized",3,"Both",0.277052877645
+282,"smok_prev_agestd_both",4644,"Baja California",1996,27,"Age-standardized",3,"Both",0.245019467351
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1996,27,"Age-standardized",3,"Both",0.277692200378
+282,"smok_prev_agestd_both",4646,"Campeche",1996,27,"Age-standardized",3,"Both",0.162018280449
+282,"smok_prev_agestd_both",4647,"Coahuila",1996,27,"Age-standardized",3,"Both",0.227533128515
+282,"smok_prev_agestd_both",4648,"Colima",1996,27,"Age-standardized",3,"Both",0.22950930373
+282,"smok_prev_agestd_both",4649,"Chiapas",1996,27,"Age-standardized",3,"Both",0.107241037272
+282,"smok_prev_agestd_both",4650,"Chihuahua",1996,27,"Age-standardized",3,"Both",0.280483347936
+282,"smok_prev_agestd_both",4651,"Mexico City",1996,27,"Age-standardized",3,"Both",0.225705213579
+282,"smok_prev_agestd_both",4652,"Durango",1996,27,"Age-standardized",3,"Both",0.252597913306
+282,"smok_prev_agestd_both",4653,"Guanajuato",1996,27,"Age-standardized",3,"Both",0.229408649019
+282,"smok_prev_agestd_both",4654,"Guerrero",1996,27,"Age-standardized",3,"Both",0.1622506847
+282,"smok_prev_agestd_both",4655,"Hidalgo",1996,27,"Age-standardized",3,"Both",0.153801428582
+282,"smok_prev_agestd_both",4656,"Jalisco",1996,27,"Age-standardized",3,"Both",0.261518387896
+282,"smok_prev_agestd_both",4657,"México",1996,27,"Age-standardized",3,"Both",0.23192424223
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",3,"Both",0.192425137719
+282,"smok_prev_agestd_both",4659,"Morelos",1996,27,"Age-standardized",3,"Both",0.181147697721
+282,"smok_prev_agestd_both",4660,"Nayarit",1996,27,"Age-standardized",3,"Both",0.233452277493
+282,"smok_prev_agestd_both",4661,"Nuevo León",1996,27,"Age-standardized",3,"Both",0.251090801208
+282,"smok_prev_agestd_both",4662,"Oaxaca",1996,27,"Age-standardized",3,"Both",0.114823587191
+282,"smok_prev_agestd_both",4663,"Puebla",1996,27,"Age-standardized",3,"Both",0.155811982166
+282,"smok_prev_agestd_both",4664,"Querétaro",1996,27,"Age-standardized",3,"Both",0.206855779731
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1996,27,"Age-standardized",3,"Both",0.178385267657
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1996,27,"Age-standardized",3,"Both",0.178815461095
+282,"smok_prev_agestd_both",4667,"Sinaloa",1996,27,"Age-standardized",3,"Both",0.240526488089
+282,"smok_prev_agestd_both",4668,"Sonora",1996,27,"Age-standardized",3,"Both",0.265580894472
+282,"smok_prev_agestd_both",4669,"Tabasco",1996,27,"Age-standardized",3,"Both",0.138672934331
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1996,27,"Age-standardized",3,"Both",0.216701471181
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1996,27,"Age-standardized",3,"Both",0.145913212255
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",3,"Both",0.149921701339
+282,"smok_prev_agestd_both",4673,"Yucatán",1996,27,"Age-standardized",3,"Both",0.140947168492
+282,"smok_prev_agestd_both",4674,"Zacatecas",1996,27,"Age-standardized",3,"Both",0.216203768467
+282,"smok_prev_agestd_both",130,"Mexico",1997,27,"Age-standardized",3,"Both",0.201762453191
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1997,27,"Age-standardized",3,"Both",0.275393346825
+282,"smok_prev_agestd_both",4644,"Baja California",1997,27,"Age-standardized",3,"Both",0.242319438124
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1997,27,"Age-standardized",3,"Both",0.276031247111
+282,"smok_prev_agestd_both",4646,"Campeche",1997,27,"Age-standardized",3,"Both",0.156999114324
+282,"smok_prev_agestd_both",4647,"Coahuila",1997,27,"Age-standardized",3,"Both",0.225296287913
+282,"smok_prev_agestd_both",4648,"Colima",1997,27,"Age-standardized",3,"Both",0.222707191304
+282,"smok_prev_agestd_both",4649,"Chiapas",1997,27,"Age-standardized",3,"Both",0.106647532038
+282,"smok_prev_agestd_both",4650,"Chihuahua",1997,27,"Age-standardized",3,"Both",0.277989536491
+282,"smok_prev_agestd_both",4651,"Mexico City",1997,27,"Age-standardized",3,"Both",0.218482991936
+282,"smok_prev_agestd_both",4652,"Durango",1997,27,"Age-standardized",3,"Both",0.251560844295
+282,"smok_prev_agestd_both",4653,"Guanajuato",1997,27,"Age-standardized",3,"Both",0.222675798322
+282,"smok_prev_agestd_both",4654,"Guerrero",1997,27,"Age-standardized",3,"Both",0.161141149467
+282,"smok_prev_agestd_both",4655,"Hidalgo",1997,27,"Age-standardized",3,"Both",0.152080751728
+282,"smok_prev_agestd_both",4656,"Jalisco",1997,27,"Age-standardized",3,"Both",0.258975636768
+282,"smok_prev_agestd_both",4657,"México",1997,27,"Age-standardized",3,"Both",0.222477630664
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",3,"Both",0.186863719207
+282,"smok_prev_agestd_both",4659,"Morelos",1997,27,"Age-standardized",3,"Both",0.179031261611
+282,"smok_prev_agestd_both",4660,"Nayarit",1997,27,"Age-standardized",3,"Both",0.231645557384
+282,"smok_prev_agestd_both",4661,"Nuevo León",1997,27,"Age-standardized",3,"Both",0.248144906967
+282,"smok_prev_agestd_both",4662,"Oaxaca",1997,27,"Age-standardized",3,"Both",0.108860160716
+282,"smok_prev_agestd_both",4663,"Puebla",1997,27,"Age-standardized",3,"Both",0.15431352278
+282,"smok_prev_agestd_both",4664,"Querétaro",1997,27,"Age-standardized",3,"Both",0.204840355266
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1997,27,"Age-standardized",3,"Both",0.176806888728
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1997,27,"Age-standardized",3,"Both",0.177362996113
+282,"smok_prev_agestd_both",4667,"Sinaloa",1997,27,"Age-standardized",3,"Both",0.239512456615
+282,"smok_prev_agestd_both",4668,"Sonora",1997,27,"Age-standardized",3,"Both",0.263208424195
+282,"smok_prev_agestd_both",4669,"Tabasco",1997,27,"Age-standardized",3,"Both",0.133715047654
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1997,27,"Age-standardized",3,"Both",0.215207793368
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1997,27,"Age-standardized",3,"Both",0.144466333302
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",3,"Both",0.143821631194
+282,"smok_prev_agestd_both",4673,"Yucatán",1997,27,"Age-standardized",3,"Both",0.136964471935
+282,"smok_prev_agestd_both",4674,"Zacatecas",1997,27,"Age-standardized",3,"Both",0.214707001459
+282,"smok_prev_agestd_both",130,"Mexico",1998,27,"Age-standardized",3,"Both",0.196128027648
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1998,27,"Age-standardized",3,"Both",0.27174693602
+282,"smok_prev_agestd_both",4644,"Baja California",1998,27,"Age-standardized",3,"Both",0.237689411677
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1998,27,"Age-standardized",3,"Both",0.272112004551
+282,"smok_prev_agestd_both",4646,"Campeche",1998,27,"Age-standardized",3,"Both",0.151128770671
+282,"smok_prev_agestd_both",4647,"Coahuila",1998,27,"Age-standardized",3,"Both",0.221502603729
+282,"smok_prev_agestd_both",4648,"Colima",1998,27,"Age-standardized",3,"Both",0.214761790363
+282,"smok_prev_agestd_both",4649,"Chiapas",1998,27,"Age-standardized",3,"Both",0.105645372517
+282,"smok_prev_agestd_both",4650,"Chihuahua",1998,27,"Age-standardized",3,"Both",0.273305336355
+282,"smok_prev_agestd_both",4651,"Mexico City",1998,27,"Age-standardized",3,"Both",0.210437536285
+282,"smok_prev_agestd_both",4652,"Durango",1998,27,"Age-standardized",3,"Both",0.248409073855
+282,"smok_prev_agestd_both",4653,"Guanajuato",1998,27,"Age-standardized",3,"Both",0.214866510374
+282,"smok_prev_agestd_both",4654,"Guerrero",1998,27,"Age-standardized",3,"Both",0.158941128693
+282,"smok_prev_agestd_both",4655,"Hidalgo",1998,27,"Age-standardized",3,"Both",0.149627344189
+282,"smok_prev_agestd_both",4656,"Jalisco",1998,27,"Age-standardized",3,"Both",0.254256003582
+282,"smok_prev_agestd_both",4657,"México",1998,27,"Age-standardized",3,"Both",0.210696359767
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",3,"Both",0.180383017086
+282,"smok_prev_agestd_both",4659,"Morelos",1998,27,"Age-standardized",3,"Both",0.175826565649
+282,"smok_prev_agestd_both",4660,"Nayarit",1998,27,"Age-standardized",3,"Both",0.228241578868
+282,"smok_prev_agestd_both",4661,"Nuevo León",1998,27,"Age-standardized",3,"Both",0.243353766612
+282,"smok_prev_agestd_both",4662,"Oaxaca",1998,27,"Age-standardized",3,"Both",0.102712565652
+282,"smok_prev_agestd_both",4663,"Puebla",1998,27,"Age-standardized",3,"Both",0.152089170807
+282,"smok_prev_agestd_both",4664,"Querétaro",1998,27,"Age-standardized",3,"Both",0.201145056744
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1998,27,"Age-standardized",3,"Both",0.174014530701
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1998,27,"Age-standardized",3,"Both",0.174847699503
+282,"smok_prev_agestd_both",4667,"Sinaloa",1998,27,"Age-standardized",3,"Both",0.23651353414
+282,"smok_prev_agestd_both",4668,"Sonora",1998,27,"Age-standardized",3,"Both",0.258511867541
+282,"smok_prev_agestd_both",4669,"Tabasco",1998,27,"Age-standardized",3,"Both",0.128077109172
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1998,27,"Age-standardized",3,"Both",0.212206359974
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1998,27,"Age-standardized",3,"Both",0.142043621269
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",3,"Both",0.137235825408
+282,"smok_prev_agestd_both",4673,"Yucatán",1998,27,"Age-standardized",3,"Both",0.132315231342
+282,"smok_prev_agestd_both",4674,"Zacatecas",1998,27,"Age-standardized",3,"Both",0.211548100142
+282,"smok_prev_agestd_both",130,"Mexico",1999,27,"Age-standardized",3,"Both",0.17691040875
+282,"smok_prev_agestd_both",4643,"Aguascalientes",1999,27,"Age-standardized",3,"Both",0.248524891523
+282,"smok_prev_agestd_both",4644,"Baja California",1999,27,"Age-standardized",3,"Both",0.215853191168
+282,"smok_prev_agestd_both",4645,"Baja California Sur",1999,27,"Age-standardized",3,"Both",0.246964911053
+282,"smok_prev_agestd_both",4646,"Campeche",1999,27,"Age-standardized",3,"Both",0.134020221372
+282,"smok_prev_agestd_both",4647,"Coahuila",1999,27,"Age-standardized",3,"Both",0.203021512563
+282,"smok_prev_agestd_both",4648,"Colima",1999,27,"Age-standardized",3,"Both",0.192259639384
+282,"smok_prev_agestd_both",4649,"Chiapas",1999,27,"Age-standardized",3,"Both",0.0947848146674
+282,"smok_prev_agestd_both",4650,"Chihuahua",1999,27,"Age-standardized",3,"Both",0.248931101011
+282,"smok_prev_agestd_both",4651,"Mexico City",1999,27,"Age-standardized",3,"Both",0.191406348253
+282,"smok_prev_agestd_both",4652,"Durango",1999,27,"Age-standardized",3,"Both",0.225000343116
+282,"smok_prev_agestd_both",4653,"Guanajuato",1999,27,"Age-standardized",3,"Both",0.19366463962
+282,"smok_prev_agestd_both",4654,"Guerrero",1999,27,"Age-standardized",3,"Both",0.141841154071
+282,"smok_prev_agestd_both",4655,"Hidalgo",1999,27,"Age-standardized",3,"Both",0.137035822059
+282,"smok_prev_agestd_both",4656,"Jalisco",1999,27,"Age-standardized",3,"Both",0.23217455042
+282,"smok_prev_agestd_both",4657,"México",1999,27,"Age-standardized",3,"Both",0.184493894768
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",3,"Both",0.163011821908
+282,"smok_prev_agestd_both",4659,"Morelos",1999,27,"Age-standardized",3,"Both",0.159614244873
+282,"smok_prev_agestd_both",4660,"Nayarit",1999,27,"Age-standardized",3,"Both",0.206990358863
+282,"smok_prev_agestd_both",4661,"Nuevo León",1999,27,"Age-standardized",3,"Both",0.222867484769
+282,"smok_prev_agestd_both",4662,"Oaxaca",1999,27,"Age-standardized",3,"Both",0.0901637884798
+282,"smok_prev_agestd_both",4663,"Puebla",1999,27,"Age-standardized",3,"Both",0.138505837456
+282,"smok_prev_agestd_both",4664,"Querétaro",1999,27,"Age-standardized",3,"Both",0.182940365368
+282,"smok_prev_agestd_both",4665,"Quintana Roo",1999,27,"Age-standardized",3,"Both",0.156533905226
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",1999,27,"Age-standardized",3,"Both",0.15849890681
+282,"smok_prev_agestd_both",4667,"Sinaloa",1999,27,"Age-standardized",3,"Both",0.21389480328
+282,"smok_prev_agestd_both",4668,"Sonora",1999,27,"Age-standardized",3,"Both",0.236035197984
+282,"smok_prev_agestd_both",4669,"Tabasco",1999,27,"Age-standardized",3,"Both",0.1113501805
+282,"smok_prev_agestd_both",4670,"Tamaulipas",1999,27,"Age-standardized",3,"Both",0.19266378877
+282,"smok_prev_agestd_both",4671,"Tlaxcala",1999,27,"Age-standardized",3,"Both",0.128198209082
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",3,"Both",0.121869552888
+282,"smok_prev_agestd_both",4673,"Yucatán",1999,27,"Age-standardized",3,"Both",0.118001683244
+282,"smok_prev_agestd_both",4674,"Zacatecas",1999,27,"Age-standardized",3,"Both",0.192253265233
+282,"smok_prev_agestd_both",130,"Mexico",2000,27,"Age-standardized",3,"Both",0.161147094065
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2000,27,"Age-standardized",3,"Both",0.227330195371
+282,"smok_prev_agestd_both",4644,"Baja California",2000,27,"Age-standardized",3,"Both",0.196005800678
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2000,27,"Age-standardized",3,"Both",0.222430384204
+282,"smok_prev_agestd_both",4646,"Campeche",2000,27,"Age-standardized",3,"Both",0.119173673646
+282,"smok_prev_agestd_both",4647,"Coahuila",2000,27,"Age-standardized",3,"Both",0.187495538746
+282,"smok_prev_agestd_both",4648,"Colima",2000,27,"Age-standardized",3,"Both",0.173075517534
+282,"smok_prev_agestd_both",4649,"Chiapas",2000,27,"Age-standardized",3,"Both",0.0835604925886
+282,"smok_prev_agestd_both",4650,"Chihuahua",2000,27,"Age-standardized",3,"Both",0.225873966866
+282,"smok_prev_agestd_both",4651,"Mexico City",2000,27,"Age-standardized",3,"Both",0.179566127475
+282,"smok_prev_agestd_both",4652,"Durango",2000,27,"Age-standardized",3,"Both",0.200942092567
+282,"smok_prev_agestd_both",4653,"Guanajuato",2000,27,"Age-standardized",3,"Both",0.176796980954
+282,"smok_prev_agestd_both",4654,"Guerrero",2000,27,"Age-standardized",3,"Both",0.123269879364
+282,"smok_prev_agestd_both",4655,"Hidalgo",2000,27,"Age-standardized",3,"Both",0.126839067275
+282,"smok_prev_agestd_both",4656,"Jalisco",2000,27,"Age-standardized",3,"Both",0.212899182528
+282,"smok_prev_agestd_both",4657,"México",2000,27,"Age-standardized",3,"Both",0.167913110233
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",3,"Both",0.149616375244
+282,"smok_prev_agestd_both",4659,"Morelos",2000,27,"Age-standardized",3,"Both",0.144389629941
+282,"smok_prev_agestd_both",4660,"Nayarit",2000,27,"Age-standardized",3,"Both",0.185198054428
+282,"smok_prev_agestd_both",4661,"Nuevo León",2000,27,"Age-standardized",3,"Both",0.20622337718
+282,"smok_prev_agestd_both",4662,"Oaxaca",2000,27,"Age-standardized",3,"Both",0.0805574949237
+282,"smok_prev_agestd_both",4663,"Puebla",2000,27,"Age-standardized",3,"Both",0.125930736544
+282,"smok_prev_agestd_both",4664,"Querétaro",2000,27,"Age-standardized",3,"Both",0.166951916672
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2000,27,"Age-standardized",3,"Both",0.139348941194
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2000,27,"Age-standardized",3,"Both",0.14300459239
+282,"smok_prev_agestd_both",4667,"Sinaloa",2000,27,"Age-standardized",3,"Both",0.190630243997
+282,"smok_prev_agestd_both",4668,"Sonora",2000,27,"Age-standardized",3,"Both",0.216324253645
+282,"smok_prev_agestd_both",4669,"Tabasco",2000,27,"Age-standardized",3,"Both",0.0955052405181
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2000,27,"Age-standardized",3,"Both",0.173748095673
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2000,27,"Age-standardized",3,"Both",0.114601497064
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",3,"Both",0.110027779803
+282,"smok_prev_agestd_both",4673,"Yucatán",2000,27,"Age-standardized",3,"Both",0.105545157789
+282,"smok_prev_agestd_both",4674,"Zacatecas",2000,27,"Age-standardized",3,"Both",0.173948581124
+282,"smok_prev_agestd_both",130,"Mexico",2001,27,"Age-standardized",3,"Both",0.148618489884
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2001,27,"Age-standardized",3,"Both",0.209790231052
+282,"smok_prev_agestd_both",4644,"Baja California",2001,27,"Age-standardized",3,"Both",0.178736604499
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2001,27,"Age-standardized",3,"Both",0.201731310403
+282,"smok_prev_agestd_both",4646,"Campeche",2001,27,"Age-standardized",3,"Both",0.10732423067
+282,"smok_prev_agestd_both",4647,"Coahuila",2001,27,"Age-standardized",3,"Both",0.174770748923
+282,"smok_prev_agestd_both",4648,"Colima",2001,27,"Age-standardized",3,"Both",0.157266151935
+282,"smok_prev_agestd_both",4649,"Chiapas",2001,27,"Age-standardized",3,"Both",0.075007078768
+282,"smok_prev_agestd_both",4650,"Chihuahua",2001,27,"Age-standardized",3,"Both",0.206955467241
+282,"smok_prev_agestd_both",4651,"Mexico City",2001,27,"Age-standardized",3,"Both",0.170318232859
+282,"smok_prev_agestd_both",4652,"Durango",2001,27,"Age-standardized",3,"Both",0.180956656213
+282,"smok_prev_agestd_both",4653,"Guanajuato",2001,27,"Age-standardized",3,"Both",0.163067865843
+282,"smok_prev_agestd_both",4654,"Guerrero",2001,27,"Age-standardized",3,"Both",0.108736773024
+282,"smok_prev_agestd_both",4655,"Hidalgo",2001,27,"Age-standardized",3,"Both",0.119155790621
+282,"smok_prev_agestd_both",4656,"Jalisco",2001,27,"Age-standardized",3,"Both",0.196211518775
+282,"smok_prev_agestd_both",4657,"México",2001,27,"Age-standardized",3,"Both",0.156815348356
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",3,"Both",0.139087905009
+282,"smok_prev_agestd_both",4659,"Morelos",2001,27,"Age-standardized",3,"Both",0.132328599926
+282,"smok_prev_agestd_both",4660,"Nayarit",2001,27,"Age-standardized",3,"Both",0.167089326394
+282,"smok_prev_agestd_both",4661,"Nuevo León",2001,27,"Age-standardized",3,"Both",0.192396461349
+282,"smok_prev_agestd_both",4662,"Oaxaca",2001,27,"Age-standardized",3,"Both",0.0729877820378
+282,"smok_prev_agestd_both",4663,"Puebla",2001,27,"Age-standardized",3,"Both",0.116350232324
+282,"smok_prev_agestd_both",4664,"Querétaro",2001,27,"Age-standardized",3,"Both",0.153470925523
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2001,27,"Age-standardized",3,"Both",0.125957860239
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2001,27,"Age-standardized",3,"Both",0.131149981078
+282,"smok_prev_agestd_both",4667,"Sinaloa",2001,27,"Age-standardized",3,"Both",0.170977362164
+282,"smok_prev_agestd_both",4668,"Sonora",2001,27,"Age-standardized",3,"Both",0.19892488646
+282,"smok_prev_agestd_both",4669,"Tabasco",2001,27,"Age-standardized",3,"Both",0.0829295495133
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2001,27,"Age-standardized",3,"Both",0.158175094985
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2001,27,"Age-standardized",3,"Both",0.104147068274
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",3,"Both",0.100819428677
+282,"smok_prev_agestd_both",4673,"Yucatán",2001,27,"Age-standardized",3,"Both",0.0957278370608
+282,"smok_prev_agestd_both",4674,"Zacatecas",2001,27,"Age-standardized",3,"Both",0.159210798011
+282,"smok_prev_agestd_both",130,"Mexico",2002,27,"Age-standardized",3,"Both",0.138934863797
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2002,27,"Age-standardized",3,"Both",0.195528159275
+282,"smok_prev_agestd_both",4644,"Baja California",2002,27,"Age-standardized",3,"Both",0.164489005123
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2002,27,"Age-standardized",3,"Both",0.184696690332
+282,"smok_prev_agestd_both",4646,"Campeche",2002,27,"Age-standardized",3,"Both",0.0981417116087
+282,"smok_prev_agestd_both",4647,"Coahuila",2002,27,"Age-standardized",3,"Both",0.164469583685
+282,"smok_prev_agestd_both",4648,"Colima",2002,27,"Age-standardized",3,"Both",0.144462774286
+282,"smok_prev_agestd_both",4649,"Chiapas",2002,27,"Age-standardized",3,"Both",0.0686713302538
+282,"smok_prev_agestd_both",4650,"Chihuahua",2002,27,"Age-standardized",3,"Both",0.191967109002
+282,"smok_prev_agestd_both",4651,"Mexico City",2002,27,"Age-standardized",3,"Both",0.163398003255
+282,"smok_prev_agestd_both",4652,"Durango",2002,27,"Age-standardized",3,"Both",0.165009499776
+282,"smok_prev_agestd_both",4653,"Guanajuato",2002,27,"Age-standardized",3,"Both",0.152104498779
+282,"smok_prev_agestd_both",4654,"Guerrero",2002,27,"Age-standardized",3,"Both",0.0978775135722
+282,"smok_prev_agestd_both",4655,"Hidalgo",2002,27,"Age-standardized",3,"Both",0.113352621915
+282,"smok_prev_agestd_both",4656,"Jalisco",2002,27,"Age-standardized",3,"Both",0.182264775059
+282,"smok_prev_agestd_both",4657,"México",2002,27,"Age-standardized",3,"Both",0.149537419684
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",3,"Both",0.130956334463
+282,"smok_prev_agestd_both",4659,"Morelos",2002,27,"Age-standardized",3,"Both",0.122994356426
+282,"smok_prev_agestd_both",4660,"Nayarit",2002,27,"Age-standardized",3,"Both",0.152505650953
+282,"smok_prev_agestd_both",4661,"Nuevo León",2002,27,"Age-standardized",3,"Both",0.181143300055
+282,"smok_prev_agestd_both",4662,"Oaxaca",2002,27,"Age-standardized",3,"Both",0.0672595271488
+282,"smok_prev_agestd_both",4663,"Puebla",2002,27,"Age-standardized",3,"Both",0.109269710922
+282,"smok_prev_agestd_both",4664,"Querétaro",2002,27,"Age-standardized",3,"Both",0.14261038648
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2002,27,"Age-standardized",3,"Both",0.115749785472
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2002,27,"Age-standardized",3,"Both",0.122218223253
+282,"smok_prev_agestd_both",4667,"Sinaloa",2002,27,"Age-standardized",3,"Both",0.155168288867
+282,"smok_prev_agestd_both",4668,"Sonora",2002,27,"Age-standardized",3,"Both",0.18419959163
+282,"smok_prev_agestd_both",4669,"Tabasco",2002,27,"Age-standardized",3,"Both",0.0733587623448
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2002,27,"Age-standardized",3,"Both",0.145799662337
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2002,27,"Age-standardized",3,"Both",0.0964134683227
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",3,"Both",0.0937621821091
+282,"smok_prev_agestd_both",4673,"Yucatán",2002,27,"Age-standardized",3,"Both",0.0881675999617
+282,"smok_prev_agestd_both",4674,"Zacatecas",2002,27,"Age-standardized",3,"Both",0.147478610532
+282,"smok_prev_agestd_both",130,"Mexico",2003,27,"Age-standardized",3,"Both",0.135743695322
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2003,27,"Age-standardized",3,"Both",0.189718725924
+282,"smok_prev_agestd_both",4644,"Baja California",2003,27,"Age-standardized",3,"Both",0.157769180012
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2003,27,"Age-standardized",3,"Both",0.176092574995
+282,"smok_prev_agestd_both",4646,"Campeche",2003,27,"Age-standardized",3,"Both",0.0943690983273
+282,"smok_prev_agestd_both",4647,"Coahuila",2003,27,"Age-standardized",3,"Both",0.161304119845
+282,"smok_prev_agestd_both",4648,"Colima",2003,27,"Age-standardized",3,"Both",0.138510299087
+282,"smok_prev_agestd_both",4649,"Chiapas",2003,27,"Age-standardized",3,"Both",0.0662427753285
+282,"smok_prev_agestd_both",4650,"Chihuahua",2003,27,"Age-standardized",3,"Both",0.185723065754
+282,"smok_prev_agestd_both",4651,"Mexico City",2003,27,"Age-standardized",3,"Both",0.1628973493
+282,"smok_prev_agestd_both",4652,"Durango",2003,27,"Age-standardized",3,"Both",0.157392618132
+282,"smok_prev_agestd_both",4653,"Guanajuato",2003,27,"Age-standardized",3,"Both",0.148211712963
+282,"smok_prev_agestd_both",4654,"Guerrero",2003,27,"Age-standardized",3,"Both",0.0929785361736
+282,"smok_prev_agestd_both",4655,"Hidalgo",2003,27,"Age-standardized",3,"Both",0.112833871704
+282,"smok_prev_agestd_both",4656,"Jalisco",2003,27,"Age-standardized",3,"Both",0.176107367903
+282,"smok_prev_agestd_both",4657,"México",2003,27,"Age-standardized",3,"Both",0.149433021687
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",3,"Both",0.128917658931
+282,"smok_prev_agestd_both",4659,"Morelos",2003,27,"Age-standardized",3,"Both",0.119661005365
+282,"smok_prev_agestd_both",4660,"Nayarit",2003,27,"Age-standardized",3,"Both",0.14561226626
+282,"smok_prev_agestd_both",4661,"Nuevo León",2003,27,"Age-standardized",3,"Both",0.177600854221
+282,"smok_prev_agestd_both",4662,"Oaxaca",2003,27,"Age-standardized",3,"Both",0.0653105891355
+282,"smok_prev_agestd_both",4663,"Puebla",2003,27,"Age-standardized",3,"Both",0.107609844499
+282,"smok_prev_agestd_both",4664,"Querétaro",2003,27,"Age-standardized",3,"Both",0.1384362794
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2003,27,"Age-standardized",3,"Both",0.111528590556
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2003,27,"Age-standardized",3,"Both",0.119346555226
+282,"smok_prev_agestd_both",4667,"Sinaloa",2003,27,"Age-standardized",3,"Both",0.147350127656
+282,"smok_prev_agestd_both",4668,"Sonora",2003,27,"Age-standardized",3,"Both",0.177447469266
+282,"smok_prev_agestd_both",4669,"Tabasco",2003,27,"Age-standardized",3,"Both",0.0685332113586
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2003,27,"Age-standardized",3,"Both",0.14052765028
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2003,27,"Age-standardized",3,"Both",0.0940714789266
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",3,"Both",0.0913818925033
+282,"smok_prev_agestd_both",4673,"Yucatán",2003,27,"Age-standardized",3,"Both",0.085422561165
+282,"smok_prev_agestd_both",4674,"Zacatecas",2003,27,"Age-standardized",3,"Both",0.142752521705
+282,"smok_prev_agestd_both",130,"Mexico",2004,27,"Age-standardized",3,"Both",0.133410855009
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2004,27,"Age-standardized",3,"Both",0.184954096024
+282,"smok_prev_agestd_both",4644,"Baja California",2004,27,"Age-standardized",3,"Both",0.152124262651
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2004,27,"Age-standardized",3,"Both",0.168678798978
+282,"smok_prev_agestd_both",4646,"Campeche",2004,27,"Age-standardized",3,"Both",0.0915760714104
+282,"smok_prev_agestd_both",4647,"Coahuila",2004,27,"Age-standardized",3,"Both",0.159026922176
+282,"smok_prev_agestd_both",4648,"Colima",2004,27,"Age-standardized",3,"Both",0.133580089375
+282,"smok_prev_agestd_both",4649,"Chiapas",2004,27,"Age-standardized",3,"Both",0.0645008707313
+282,"smok_prev_agestd_both",4650,"Chihuahua",2004,27,"Age-standardized",3,"Both",0.180978856461
+282,"smok_prev_agestd_both",4651,"Mexico City",2004,27,"Age-standardized",3,"Both",0.162835729305
+282,"smok_prev_agestd_both",4652,"Durango",2004,27,"Age-standardized",3,"Both",0.151285483272
+282,"smok_prev_agestd_both",4653,"Guanajuato",2004,27,"Age-standardized",3,"Both",0.145182148615
+282,"smok_prev_agestd_both",4654,"Guerrero",2004,27,"Age-standardized",3,"Both",0.0894667845352
+282,"smok_prev_agestd_both",4655,"Hidalgo",2004,27,"Age-standardized",3,"Both",0.112766278314
+282,"smok_prev_agestd_both",4656,"Jalisco",2004,27,"Age-standardized",3,"Both",0.170916270514
+282,"smok_prev_agestd_both",4657,"México",2004,27,"Age-standardized",3,"Both",0.150132687681
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",3,"Both",0.127628765888
+282,"smok_prev_agestd_both",4659,"Morelos",2004,27,"Age-standardized",3,"Both",0.117281044378
+282,"smok_prev_agestd_both",4660,"Nayarit",2004,27,"Age-standardized",3,"Both",0.140004112616
+282,"smok_prev_agestd_both",4661,"Nuevo León",2004,27,"Age-standardized",3,"Both",0.174958207827
+282,"smok_prev_agestd_both",4662,"Oaxaca",2004,27,"Age-standardized",3,"Both",0.0640352076061
+282,"smok_prev_agestd_both",4663,"Puebla",2004,27,"Age-standardized",3,"Both",0.106627879934
+282,"smok_prev_agestd_both",4664,"Querétaro",2004,27,"Age-standardized",3,"Both",0.135201578912
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2004,27,"Age-standardized",3,"Both",0.108389018364
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2004,27,"Age-standardized",3,"Both",0.117196489394
+282,"smok_prev_agestd_both",4667,"Sinaloa",2004,27,"Age-standardized",3,"Both",0.140837647628
+282,"smok_prev_agestd_both",4668,"Sonora",2004,27,"Age-standardized",3,"Both",0.17155442257
+282,"smok_prev_agestd_both",4669,"Tabasco",2004,27,"Age-standardized",3,"Both",0.0650524951617
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2004,27,"Age-standardized",3,"Both",0.136244042345
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2004,27,"Age-standardized",3,"Both",0.0926750428389
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",3,"Both",0.0897051737906
+282,"smok_prev_agestd_both",4673,"Yucatán",2004,27,"Age-standardized",3,"Both",0.0835632821854
+282,"smok_prev_agestd_both",4674,"Zacatecas",2004,27,"Age-standardized",3,"Both",0.13901760614
+282,"smok_prev_agestd_both",130,"Mexico",2005,27,"Age-standardized",3,"Both",0.131838028845
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2005,27,"Age-standardized",3,"Both",0.181552232704
+282,"smok_prev_agestd_both",4644,"Baja California",2005,27,"Age-standardized",3,"Both",0.14739967502
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2005,27,"Age-standardized",3,"Both",0.162509858302
+282,"smok_prev_agestd_both",4646,"Campeche",2005,27,"Age-standardized",3,"Both",0.0896701009909
+282,"smok_prev_agestd_both",4647,"Coahuila",2005,27,"Age-standardized",3,"Both",0.157479609658
+282,"smok_prev_agestd_both",4648,"Colima",2005,27,"Age-standardized",3,"Both",0.129506862974
+282,"smok_prev_agestd_both",4649,"Chiapas",2005,27,"Age-standardized",3,"Both",0.0633435242456
+282,"smok_prev_agestd_both",4650,"Chihuahua",2005,27,"Age-standardized",3,"Both",0.17791329035
+282,"smok_prev_agestd_both",4651,"Mexico City",2005,27,"Age-standardized",3,"Both",0.162944943767
+282,"smok_prev_agestd_both",4652,"Durango",2005,27,"Age-standardized",3,"Both",0.14660534634
+282,"smok_prev_agestd_both",4653,"Guanajuato",2005,27,"Age-standardized",3,"Both",0.143007962813
+282,"smok_prev_agestd_both",4654,"Guerrero",2005,27,"Age-standardized",3,"Both",0.0871502306936
+282,"smok_prev_agestd_both",4655,"Hidalgo",2005,27,"Age-standardized",3,"Both",0.113053176439
+282,"smok_prev_agestd_both",4656,"Jalisco",2005,27,"Age-standardized",3,"Both",0.16662924558
+282,"smok_prev_agestd_both",4657,"México",2005,27,"Age-standardized",3,"Both",0.151206558469
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",3,"Both",0.127142523805
+282,"smok_prev_agestd_both",4659,"Morelos",2005,27,"Age-standardized",3,"Both",0.115809464306
+282,"smok_prev_agestd_both",4660,"Nayarit",2005,27,"Age-standardized",3,"Both",0.135910330794
+282,"smok_prev_agestd_both",4661,"Nuevo León",2005,27,"Age-standardized",3,"Both",0.173172897311
+282,"smok_prev_agestd_both",4662,"Oaxaca",2005,27,"Age-standardized",3,"Both",0.0633212133984
+282,"smok_prev_agestd_both",4663,"Puebla",2005,27,"Age-standardized",3,"Both",0.106584006641
+282,"smok_prev_agestd_both",4664,"Querétaro",2005,27,"Age-standardized",3,"Both",0.132801368746
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2005,27,"Age-standardized",3,"Both",0.106144759629
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2005,27,"Age-standardized",3,"Both",0.115719015362
+282,"smok_prev_agestd_both",4667,"Sinaloa",2005,27,"Age-standardized",3,"Both",0.135623940577
+282,"smok_prev_agestd_both",4668,"Sonora",2005,27,"Age-standardized",3,"Both",0.166647268327
+282,"smok_prev_agestd_both",4669,"Tabasco",2005,27,"Age-standardized",3,"Both",0.0626256088585
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2005,27,"Age-standardized",3,"Both",0.133042138446
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2005,27,"Age-standardized",3,"Both",0.0923074920318
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",3,"Both",0.0886487065894
+282,"smok_prev_agestd_both",4673,"Yucatán",2005,27,"Age-standardized",3,"Both",0.0824805625233
+282,"smok_prev_agestd_both",4674,"Zacatecas",2005,27,"Age-standardized",3,"Both",0.136374556461
+282,"smok_prev_agestd_both",130,"Mexico",2006,27,"Age-standardized",3,"Both",0.129678822048
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2006,27,"Age-standardized",3,"Both",0.178822086506
+282,"smok_prev_agestd_both",4644,"Baja California",2006,27,"Age-standardized",3,"Both",0.142094859987
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2006,27,"Age-standardized",3,"Both",0.15591544
+282,"smok_prev_agestd_both",4646,"Campeche",2006,27,"Age-standardized",3,"Both",0.0873048738905
+282,"smok_prev_agestd_both",4647,"Coahuila",2006,27,"Age-standardized",3,"Both",0.156607484815
+282,"smok_prev_agestd_both",4648,"Colima",2006,27,"Age-standardized",3,"Both",0.124906629322
+282,"smok_prev_agestd_both",4649,"Chiapas",2006,27,"Age-standardized",3,"Both",0.0596502805794
+282,"smok_prev_agestd_both",4650,"Chihuahua",2006,27,"Age-standardized",3,"Both",0.176869547391
+282,"smok_prev_agestd_both",4651,"Mexico City",2006,27,"Age-standardized",3,"Both",0.162255688993
+282,"smok_prev_agestd_both",4652,"Durango",2006,27,"Age-standardized",3,"Both",0.141714813241
+282,"smok_prev_agestd_both",4653,"Guanajuato",2006,27,"Age-standardized",3,"Both",0.141556691235
+282,"smok_prev_agestd_both",4654,"Guerrero",2006,27,"Age-standardized",3,"Both",0.0838524325037
+282,"smok_prev_agestd_both",4655,"Hidalgo",2006,27,"Age-standardized",3,"Both",0.112408435678
+282,"smok_prev_agestd_both",4656,"Jalisco",2006,27,"Age-standardized",3,"Both",0.162950740856
+282,"smok_prev_agestd_both",4657,"México",2006,27,"Age-standardized",3,"Both",0.14906080543
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",3,"Both",0.127738959689
+282,"smok_prev_agestd_both",4659,"Morelos",2006,27,"Age-standardized",3,"Both",0.113880000865
+282,"smok_prev_agestd_both",4660,"Nayarit",2006,27,"Age-standardized",3,"Both",0.132397437015
+282,"smok_prev_agestd_both",4661,"Nuevo León",2006,27,"Age-standardized",3,"Both",0.172606840833
+282,"smok_prev_agestd_both",4662,"Oaxaca",2006,27,"Age-standardized",3,"Both",0.0625164134272
+282,"smok_prev_agestd_both",4663,"Puebla",2006,27,"Age-standardized",3,"Both",0.105587061555
+282,"smok_prev_agestd_both",4664,"Querétaro",2006,27,"Age-standardized",3,"Both",0.130855078162
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2006,27,"Age-standardized",3,"Both",0.102629521592
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2006,27,"Age-standardized",3,"Both",0.112900988875
+282,"smok_prev_agestd_both",4667,"Sinaloa",2006,27,"Age-standardized",3,"Both",0.129869830027
+282,"smok_prev_agestd_both",4668,"Sonora",2006,27,"Age-standardized",3,"Both",0.162968798137
+282,"smok_prev_agestd_both",4669,"Tabasco",2006,27,"Age-standardized",3,"Both",0.0595729778496
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2006,27,"Age-standardized",3,"Both",0.128771365019
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2006,27,"Age-standardized",3,"Both",0.092826924937
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",3,"Both",0.0868940557863
+282,"smok_prev_agestd_both",4673,"Yucatán",2006,27,"Age-standardized",3,"Both",0.0810357841608
+282,"smok_prev_agestd_both",4674,"Zacatecas",2006,27,"Age-standardized",3,"Both",0.133764944785
+282,"smok_prev_agestd_both",130,"Mexico",2007,27,"Age-standardized",3,"Both",0.128100412957
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2007,27,"Age-standardized",3,"Both",0.177092259482
+282,"smok_prev_agestd_both",4644,"Baja California",2007,27,"Age-standardized",3,"Both",0.137494450958
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2007,27,"Age-standardized",3,"Both",0.150252130215
+282,"smok_prev_agestd_both",4646,"Campeche",2007,27,"Age-standardized",3,"Both",0.0855208407244
+282,"smok_prev_agestd_both",4647,"Coahuila",2007,27,"Age-standardized",3,"Both",0.156384353376
+282,"smok_prev_agestd_both",4648,"Colima",2007,27,"Age-standardized",3,"Both",0.120873357967
+282,"smok_prev_agestd_both",4649,"Chiapas",2007,27,"Age-standardized",3,"Both",0.0564959714976
+282,"smok_prev_agestd_both",4650,"Chihuahua",2007,27,"Age-standardized",3,"Both",0.177056490718
+282,"smok_prev_agestd_both",4651,"Mexico City",2007,27,"Age-standardized",3,"Both",0.161814138856
+282,"smok_prev_agestd_both",4652,"Durango",2007,27,"Age-standardized",3,"Both",0.137811024655
+282,"smok_prev_agestd_both",4653,"Guanajuato",2007,27,"Age-standardized",3,"Both",0.140658239166
+282,"smok_prev_agestd_both",4654,"Guerrero",2007,27,"Age-standardized",3,"Both",0.0814174701193
+282,"smok_prev_agestd_both",4655,"Hidalgo",2007,27,"Age-standardized",3,"Both",0.112067586498
+282,"smok_prev_agestd_both",4656,"Jalisco",2007,27,"Age-standardized",3,"Both",0.159984789685
+282,"smok_prev_agestd_both",4657,"México",2007,27,"Age-standardized",3,"Both",0.147305001189
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",3,"Both",0.12884566913
+282,"smok_prev_agestd_both",4659,"Morelos",2007,27,"Age-standardized",3,"Both",0.112515848815
+282,"smok_prev_agestd_both",4660,"Nayarit",2007,27,"Age-standardized",3,"Both",0.129658999393
+282,"smok_prev_agestd_both",4661,"Nuevo León",2007,27,"Age-standardized",3,"Both",0.172540401136
+282,"smok_prev_agestd_both",4662,"Oaxaca",2007,27,"Age-standardized",3,"Both",0.0621159683272
+282,"smok_prev_agestd_both",4663,"Puebla",2007,27,"Age-standardized",3,"Both",0.105086662589
+282,"smok_prev_agestd_both",4664,"Querétaro",2007,27,"Age-standardized",3,"Both",0.129578155449
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2007,27,"Age-standardized",3,"Both",0.0998804023704
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2007,27,"Age-standardized",3,"Both",0.110686506451
+282,"smok_prev_agestd_both",4667,"Sinaloa",2007,27,"Age-standardized",3,"Both",0.125055410462
+282,"smok_prev_agestd_both",4668,"Sonora",2007,27,"Age-standardized",3,"Both",0.160138812479
+282,"smok_prev_agestd_both",4669,"Tabasco",2007,27,"Age-standardized",3,"Both",0.0571644687338
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2007,27,"Age-standardized",3,"Both",0.125295498105
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2007,27,"Age-standardized",3,"Both",0.094220291862
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",3,"Both",0.085679976534
+282,"smok_prev_agestd_both",4673,"Yucatán",2007,27,"Age-standardized",3,"Both",0.0801607178085
+282,"smok_prev_agestd_both",4674,"Zacatecas",2007,27,"Age-standardized",3,"Both",0.131981743354
+282,"smok_prev_agestd_both",130,"Mexico",2008,27,"Age-standardized",3,"Both",0.127037864752
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2008,27,"Age-standardized",3,"Both",0.176217414772
+282,"smok_prev_agestd_both",4644,"Baja California",2008,27,"Age-standardized",3,"Both",0.133687880814
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2008,27,"Age-standardized",3,"Both",0.14559398734
+282,"smok_prev_agestd_both",4646,"Campeche",2008,27,"Age-standardized",3,"Both",0.0842067500822
+282,"smok_prev_agestd_both",4647,"Coahuila",2008,27,"Age-standardized",3,"Both",0.15657461381
+282,"smok_prev_agestd_both",4648,"Colima",2008,27,"Age-standardized",3,"Both",0.11742226839
+282,"smok_prev_agestd_both",4649,"Chiapas",2008,27,"Age-standardized",3,"Both",0.0538647077379
+282,"smok_prev_agestd_both",4650,"Chihuahua",2008,27,"Age-standardized",3,"Both",0.178207526093
+282,"smok_prev_agestd_both",4651,"Mexico City",2008,27,"Age-standardized",3,"Both",0.161638062169
+282,"smok_prev_agestd_both",4652,"Durango",2008,27,"Age-standardized",3,"Both",0.134833077258
+282,"smok_prev_agestd_both",4653,"Guanajuato",2008,27,"Age-standardized",3,"Both",0.140134137968
+282,"smok_prev_agestd_both",4654,"Guerrero",2008,27,"Age-standardized",3,"Both",0.079592631942
+282,"smok_prev_agestd_both",4655,"Hidalgo",2008,27,"Age-standardized",3,"Both",0.111966318487
+282,"smok_prev_agestd_both",4656,"Jalisco",2008,27,"Age-standardized",3,"Both",0.157643965713
+282,"smok_prev_agestd_both",4657,"México",2008,27,"Age-standardized",3,"Both",0.146013005704
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",3,"Both",0.130316607854
+282,"smok_prev_agestd_both",4659,"Morelos",2008,27,"Age-standardized",3,"Both",0.111662571598
+282,"smok_prev_agestd_both",4660,"Nayarit",2008,27,"Age-standardized",3,"Both",0.127545624234
+282,"smok_prev_agestd_both",4661,"Nuevo León",2008,27,"Age-standardized",3,"Both",0.172847967341
+282,"smok_prev_agestd_both",4662,"Oaxaca",2008,27,"Age-standardized",3,"Both",0.0620462334026
+282,"smok_prev_agestd_both",4663,"Puebla",2008,27,"Age-standardized",3,"Both",0.105113474745
+282,"smok_prev_agestd_both",4664,"Querétaro",2008,27,"Age-standardized",3,"Both",0.128854406481
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2008,27,"Age-standardized",3,"Both",0.0977924131286
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2008,27,"Age-standardized",3,"Both",0.108983014348
+282,"smok_prev_agestd_both",4667,"Sinaloa",2008,27,"Age-standardized",3,"Both",0.121123244127
+282,"smok_prev_agestd_both",4668,"Sonora",2008,27,"Age-standardized",3,"Both",0.157932314722
+282,"smok_prev_agestd_both",4669,"Tabasco",2008,27,"Age-standardized",3,"Both",0.0552488881111
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2008,27,"Age-standardized",3,"Both",0.122618152842
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2008,27,"Age-standardized",3,"Both",0.0962860803448
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",3,"Both",0.0849135595598
+282,"smok_prev_agestd_both",4673,"Yucatán",2008,27,"Age-standardized",3,"Both",0.0796958334474
+282,"smok_prev_agestd_both",4674,"Zacatecas",2008,27,"Age-standardized",3,"Both",0.130933167805
+282,"smok_prev_agestd_both",130,"Mexico",2009,27,"Age-standardized",3,"Both",0.128381808275
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2009,27,"Age-standardized",3,"Both",0.177429988624
+282,"smok_prev_agestd_both",4644,"Baja California",2009,27,"Age-standardized",3,"Both",0.132662601759
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2009,27,"Age-standardized",3,"Both",0.144357811485
+282,"smok_prev_agestd_both",4646,"Campeche",2009,27,"Age-standardized",3,"Both",0.0855360899934
+282,"smok_prev_agestd_both",4647,"Coahuila",2009,27,"Age-standardized",3,"Both",0.15780285975
+282,"smok_prev_agestd_both",4648,"Colima",2009,27,"Age-standardized",3,"Both",0.116581550896
+282,"smok_prev_agestd_both",4649,"Chiapas",2009,27,"Age-standardized",3,"Both",0.0554375477925
+282,"smok_prev_agestd_both",4650,"Chihuahua",2009,27,"Age-standardized",3,"Both",0.181654540926
+282,"smok_prev_agestd_both",4651,"Mexico City",2009,27,"Age-standardized",3,"Both",0.162053494557
+282,"smok_prev_agestd_both",4652,"Durango",2009,27,"Age-standardized",3,"Both",0.136028634915
+282,"smok_prev_agestd_both",4653,"Guanajuato",2009,27,"Age-standardized",3,"Both",0.140734255844
+282,"smok_prev_agestd_both",4654,"Guerrero",2009,27,"Age-standardized",3,"Both",0.0832343324537
+282,"smok_prev_agestd_both",4655,"Hidalgo",2009,27,"Age-standardized",3,"Both",0.113403886211
+282,"smok_prev_agestd_both",4656,"Jalisco",2009,27,"Age-standardized",3,"Both",0.156287254988
+282,"smok_prev_agestd_both",4657,"México",2009,27,"Age-standardized",3,"Both",0.148732377607
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",3,"Both",0.132038382185
+282,"smok_prev_agestd_both",4659,"Morelos",2009,27,"Age-standardized",3,"Both",0.113449895775
+282,"smok_prev_agestd_both",4660,"Nayarit",2009,27,"Age-standardized",3,"Both",0.128370870692
+282,"smok_prev_agestd_both",4661,"Nuevo León",2009,27,"Age-standardized",3,"Both",0.172207859362
+282,"smok_prev_agestd_both",4662,"Oaxaca",2009,27,"Age-standardized",3,"Both",0.0636698444758
+282,"smok_prev_agestd_both",4663,"Puebla",2009,27,"Age-standardized",3,"Both",0.109738462828
+282,"smok_prev_agestd_both",4664,"Querétaro",2009,27,"Age-standardized",3,"Both",0.129865773545
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2009,27,"Age-standardized",3,"Both",0.0998330041832
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2009,27,"Age-standardized",3,"Both",0.110968837367
+282,"smok_prev_agestd_both",4667,"Sinaloa",2009,27,"Age-standardized",3,"Both",0.120932255148
+282,"smok_prev_agestd_both",4668,"Sonora",2009,27,"Age-standardized",3,"Both",0.156248186525
+282,"smok_prev_agestd_both",4669,"Tabasco",2009,27,"Age-standardized",3,"Both",0.056968612296
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2009,27,"Age-standardized",3,"Both",0.122756167926
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2009,27,"Age-standardized",3,"Both",0.101431085306
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",3,"Both",0.086556292335
+282,"smok_prev_agestd_both",4673,"Yucatán",2009,27,"Age-standardized",3,"Both",0.0822520686016
+282,"smok_prev_agestd_both",4674,"Zacatecas",2009,27,"Age-standardized",3,"Both",0.133095382374
+282,"smok_prev_agestd_both",130,"Mexico",2010,27,"Age-standardized",3,"Both",0.129943150815
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2010,27,"Age-standardized",3,"Both",0.17908343542
+282,"smok_prev_agestd_both",4644,"Baja California",2010,27,"Age-standardized",3,"Both",0.132193650942
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2010,27,"Age-standardized",3,"Both",0.143880479012
+282,"smok_prev_agestd_both",4646,"Campeche",2010,27,"Age-standardized",3,"Both",0.0869647350849
+282,"smok_prev_agestd_both",4647,"Coahuila",2010,27,"Age-standardized",3,"Both",0.159244939355
+282,"smok_prev_agestd_both",4648,"Colima",2010,27,"Age-standardized",3,"Both",0.11617116013
+282,"smok_prev_agestd_both",4649,"Chiapas",2010,27,"Age-standardized",3,"Both",0.0570993559156
+282,"smok_prev_agestd_both",4650,"Chihuahua",2010,27,"Age-standardized",3,"Both",0.18541486753
+282,"smok_prev_agestd_both",4651,"Mexico City",2010,27,"Age-standardized",3,"Both",0.162656409826
+282,"smok_prev_agestd_both",4652,"Durango",2010,27,"Age-standardized",3,"Both",0.13785092928
+282,"smok_prev_agestd_both",4653,"Guanajuato",2010,27,"Age-standardized",3,"Both",0.141404082711
+282,"smok_prev_agestd_both",4654,"Guerrero",2010,27,"Age-standardized",3,"Both",0.0867368022922
+282,"smok_prev_agestd_both",4655,"Hidalgo",2010,27,"Age-standardized",3,"Both",0.114959044689
+282,"smok_prev_agestd_both",4656,"Jalisco",2010,27,"Age-standardized",3,"Both",0.15519908607
+282,"smok_prev_agestd_both",4657,"México",2010,27,"Age-standardized",3,"Both",0.151626047737
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",3,"Both",0.133907170046
+282,"smok_prev_agestd_both",4659,"Morelos",2010,27,"Age-standardized",3,"Both",0.115481193305
+282,"smok_prev_agestd_both",4660,"Nayarit",2010,27,"Age-standardized",3,"Both",0.129483621465
+282,"smok_prev_agestd_both",4661,"Nuevo León",2010,27,"Age-standardized",3,"Both",0.172107959011
+282,"smok_prev_agestd_both",4662,"Oaxaca",2010,27,"Age-standardized",3,"Both",0.0654068519546
+282,"smok_prev_agestd_both",4663,"Puebla",2010,27,"Age-standardized",3,"Both",0.114311210803
+282,"smok_prev_agestd_both",4664,"Querétaro",2010,27,"Age-standardized",3,"Both",0.131351447784
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2010,27,"Age-standardized",3,"Both",0.102156676462
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2010,27,"Age-standardized",3,"Both",0.112971463455
+282,"smok_prev_agestd_both",4667,"Sinaloa",2010,27,"Age-standardized",3,"Both",0.121107121658
+282,"smok_prev_agestd_both",4668,"Sonora",2010,27,"Age-standardized",3,"Both",0.154889297973
+282,"smok_prev_agestd_both",4669,"Tabasco",2010,27,"Age-standardized",3,"Both",0.0588307149007
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2010,27,"Age-standardized",3,"Both",0.123344435919
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2010,27,"Age-standardized",3,"Both",0.106679904346
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",3,"Both",0.0883297276318
+282,"smok_prev_agestd_both",4673,"Yucatán",2010,27,"Age-standardized",3,"Both",0.0848757776752
+282,"smok_prev_agestd_both",4674,"Zacatecas",2010,27,"Age-standardized",3,"Both",0.135484453325
+282,"smok_prev_agestd_both",130,"Mexico",2011,27,"Age-standardized",3,"Both",0.130606891033
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2011,27,"Age-standardized",3,"Both",0.179667208974
+282,"smok_prev_agestd_both",4644,"Baja California",2011,27,"Age-standardized",3,"Both",0.131132422441
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2011,27,"Age-standardized",3,"Both",0.143060059823
+282,"smok_prev_agestd_both",4646,"Campeche",2011,27,"Age-standardized",3,"Both",0.0878457132433
+282,"smok_prev_agestd_both",4647,"Coahuila",2011,27,"Age-standardized",3,"Both",0.159551156992
+282,"smok_prev_agestd_both",4648,"Colima",2011,27,"Age-standardized",3,"Both",0.115233512664
+282,"smok_prev_agestd_both",4649,"Chiapas",2011,27,"Age-standardized",3,"Both",0.0584302808249
+282,"smok_prev_agestd_both",4650,"Chihuahua",2011,27,"Age-standardized",3,"Both",0.187785873774
+282,"smok_prev_agestd_both",4651,"Mexico City",2011,27,"Age-standardized",3,"Both",0.16212403059
+282,"smok_prev_agestd_both",4652,"Durango",2011,27,"Age-standardized",3,"Both",0.138873311214
+282,"smok_prev_agestd_both",4653,"Guanajuato",2011,27,"Age-standardized",3,"Both",0.141083547805
+282,"smok_prev_agestd_both",4654,"Guerrero",2011,27,"Age-standardized",3,"Both",0.0894724013362
+282,"smok_prev_agestd_both",4655,"Hidalgo",2011,27,"Age-standardized",3,"Both",0.115812299987
+282,"smok_prev_agestd_both",4656,"Jalisco",2011,27,"Age-standardized",3,"Both",0.153332337422
+282,"smok_prev_agestd_both",4657,"México",2011,27,"Age-standardized",3,"Both",0.153223535086
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",3,"Both",0.134674791914
+282,"smok_prev_agestd_both",4659,"Morelos",2011,27,"Age-standardized",3,"Both",0.116795156803
+282,"smok_prev_agestd_both",4660,"Nayarit",2011,27,"Age-standardized",3,"Both",0.129848903216
+282,"smok_prev_agestd_both",4661,"Nuevo León",2011,27,"Age-standardized",3,"Both",0.170728705499
+282,"smok_prev_agestd_both",4662,"Oaxaca",2011,27,"Age-standardized",3,"Both",0.0666901770623
+282,"smok_prev_agestd_both",4663,"Puebla",2011,27,"Age-standardized",3,"Both",0.117615178003
+282,"smok_prev_agestd_both",4664,"Querétaro",2011,27,"Age-standardized",3,"Both",0.132030482236
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2011,27,"Age-standardized",3,"Both",0.103916852451
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2011,27,"Age-standardized",3,"Both",0.114316645489
+282,"smok_prev_agestd_both",4667,"Sinaloa",2011,27,"Age-standardized",3,"Both",0.120870334326
+282,"smok_prev_agestd_both",4668,"Sonora",2011,27,"Age-standardized",3,"Both",0.152851608619
+282,"smok_prev_agestd_both",4669,"Tabasco",2011,27,"Age-standardized",3,"Both",0.0602502616491
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2011,27,"Age-standardized",3,"Both",0.123424893788
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2011,27,"Age-standardized",3,"Both",0.110915617496
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",3,"Both",0.0894664443389
+282,"smok_prev_agestd_both",4673,"Yucatán",2011,27,"Age-standardized",3,"Both",0.0868387629186
+282,"smok_prev_agestd_both",4674,"Zacatecas",2011,27,"Age-standardized",3,"Both",0.136912399378
+282,"smok_prev_agestd_both",130,"Mexico",2012,27,"Age-standardized",3,"Both",0.127825449697
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2012,27,"Age-standardized",3,"Both",0.176370190315
+282,"smok_prev_agestd_both",4644,"Baja California",2012,27,"Age-standardized",3,"Both",0.127862418707
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2012,27,"Age-standardized",3,"Both",0.14010232143
+282,"smok_prev_agestd_both",4646,"Campeche",2012,27,"Age-standardized",3,"Both",0.0865312419093
+282,"smok_prev_agestd_both",4647,"Coahuila",2012,27,"Age-standardized",3,"Both",0.156086207027
+282,"smok_prev_agestd_both",4648,"Colima",2012,27,"Age-standardized",3,"Both",0.112648434403
+282,"smok_prev_agestd_both",4649,"Chiapas",2012,27,"Age-standardized",3,"Both",0.0573405039351
+282,"smok_prev_agestd_both",4650,"Chihuahua",2012,27,"Age-standardized",3,"Both",0.184493226792
+282,"smok_prev_agestd_both",4651,"Mexico City",2012,27,"Age-standardized",3,"Both",0.157768040241
+282,"smok_prev_agestd_both",4652,"Durango",2012,27,"Age-standardized",3,"Both",0.135999220675
+282,"smok_prev_agestd_both",4653,"Guanajuato",2012,27,"Age-standardized",3,"Both",0.1379590255
+282,"smok_prev_agestd_both",4654,"Guerrero",2012,27,"Age-standardized",3,"Both",0.0877669429015
+282,"smok_prev_agestd_both",4655,"Hidalgo",2012,27,"Age-standardized",3,"Both",0.113792669803
+282,"smok_prev_agestd_both",4656,"Jalisco",2012,27,"Age-standardized",3,"Both",0.149338306116
+282,"smok_prev_agestd_both",4657,"México",2012,27,"Age-standardized",3,"Both",0.149681284738
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",3,"Both",0.132140187764
+282,"smok_prev_agestd_both",4659,"Morelos",2012,27,"Age-standardized",3,"Both",0.115107396883
+282,"smok_prev_agestd_both",4660,"Nayarit",2012,27,"Age-standardized",3,"Both",0.127398621943
+282,"smok_prev_agestd_both",4661,"Nuevo León",2012,27,"Age-standardized",3,"Both",0.16618603499
+282,"smok_prev_agestd_both",4662,"Oaxaca",2012,27,"Age-standardized",3,"Both",0.0660877537652
+282,"smok_prev_agestd_both",4663,"Puebla",2012,27,"Age-standardized",3,"Both",0.115801763351
+282,"smok_prev_agestd_both",4664,"Querétaro",2012,27,"Age-standardized",3,"Both",0.129344948757
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2012,27,"Age-standardized",3,"Both",0.102253796531
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2012,27,"Age-standardized",3,"Both",0.112305381669
+282,"smok_prev_agestd_both",4667,"Sinaloa",2012,27,"Age-standardized",3,"Both",0.118304142234
+282,"smok_prev_agestd_both",4668,"Sonora",2012,27,"Age-standardized",3,"Both",0.148917675965
+282,"smok_prev_agestd_both",4669,"Tabasco",2012,27,"Age-standardized",3,"Both",0.059415320931
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2012,27,"Age-standardized",3,"Both",0.121349452439
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2012,27,"Age-standardized",3,"Both",0.110063757376
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",3,"Both",0.0880707897906
+282,"smok_prev_agestd_both",4673,"Yucatán",2012,27,"Age-standardized",3,"Both",0.0857439041091
+282,"smok_prev_agestd_both",4674,"Zacatecas",2012,27,"Age-standardized",3,"Both",0.134598853775
+282,"smok_prev_agestd_both",130,"Mexico",2013,27,"Age-standardized",3,"Both",0.123864231495
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2013,27,"Age-standardized",3,"Both",0.171483561965
+282,"smok_prev_agestd_both",4644,"Baja California",2013,27,"Age-standardized",3,"Both",0.123801061223
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2013,27,"Age-standardized",3,"Both",0.136317541888
+282,"smok_prev_agestd_both",4646,"Campeche",2013,27,"Age-standardized",3,"Both",0.0842939885033
+282,"smok_prev_agestd_both",4647,"Coahuila",2013,27,"Age-standardized",3,"Both",0.151128543551
+282,"smok_prev_agestd_both",4648,"Colima",2013,27,"Age-standardized",3,"Both",0.109249986418
+282,"smok_prev_agestd_both",4649,"Chiapas",2013,27,"Age-standardized",3,"Both",0.0556524177366
+282,"smok_prev_agestd_both",4650,"Chihuahua",2013,27,"Age-standardized",3,"Both",0.179262148206
+282,"smok_prev_agestd_both",4651,"Mexico City",2013,27,"Age-standardized",3,"Both",0.152418921663
+282,"smok_prev_agestd_both",4652,"Durango",2013,27,"Age-standardized",3,"Both",0.131807424185
+282,"smok_prev_agestd_both",4653,"Guanajuato",2013,27,"Age-standardized",3,"Both",0.133561095262
+282,"smok_prev_agestd_both",4654,"Guerrero",2013,27,"Age-standardized",3,"Both",0.0849830185415
+282,"smok_prev_agestd_both",4655,"Hidalgo",2013,27,"Age-standardized",3,"Both",0.11066231217
+282,"smok_prev_agestd_both",4656,"Jalisco",2013,27,"Age-standardized",3,"Both",0.144368601281
+282,"smok_prev_agestd_both",4657,"México",2013,27,"Age-standardized",3,"Both",0.144680619595
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",3,"Both",0.128227781583
+282,"smok_prev_agestd_both",4659,"Morelos",2013,27,"Age-standardized",3,"Both",0.112252671447
+282,"smok_prev_agestd_both",4660,"Nayarit",2013,27,"Age-standardized",3,"Both",0.123686854188
+282,"smok_prev_agestd_both",4661,"Nuevo León",2013,27,"Age-standardized",3,"Both",0.16027599218
+282,"smok_prev_agestd_both",4662,"Oaxaca",2013,27,"Age-standardized",3,"Both",0.0646779780698
+282,"smok_prev_agestd_both",4663,"Puebla",2013,27,"Age-standardized",3,"Both",0.112265690447
+282,"smok_prev_agestd_both",4664,"Querétaro",2013,27,"Age-standardized",3,"Both",0.125474352748
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2013,27,"Age-standardized",3,"Both",0.0997515948653
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2013,27,"Age-standardized",3,"Both",0.109107373188
+282,"smok_prev_agestd_both",4667,"Sinaloa",2013,27,"Age-standardized",3,"Both",0.114757877984
+282,"smok_prev_agestd_both",4668,"Sonora",2013,27,"Age-standardized",3,"Both",0.143938699283
+282,"smok_prev_agestd_both",4669,"Tabasco",2013,27,"Age-standardized",3,"Both",0.0580312877297
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2013,27,"Age-standardized",3,"Both",0.118219915667
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2013,27,"Age-standardized",3,"Both",0.107506018665
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",3,"Both",0.0857748132603
+282,"smok_prev_agestd_both",4673,"Yucatán",2013,27,"Age-standardized",3,"Both",0.0836022644444
+282,"smok_prev_agestd_both",4674,"Zacatecas",2013,27,"Age-standardized",3,"Both",0.131000362187
+282,"smok_prev_agestd_both",130,"Mexico",2014,27,"Age-standardized",3,"Both",0.119401436635
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2014,27,"Age-standardized",3,"Both",0.16575678739
+282,"smok_prev_agestd_both",4644,"Baja California",2014,27,"Age-standardized",3,"Both",0.119528451118
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2014,27,"Age-standardized",3,"Both",0.132251170504
+282,"smok_prev_agestd_both",4646,"Campeche",2014,27,"Age-standardized",3,"Both",0.081791628572
+282,"smok_prev_agestd_both",4647,"Coahuila",2014,27,"Age-standardized",3,"Both",0.145593526837
+282,"smok_prev_agestd_both",4648,"Colima",2014,27,"Age-standardized",3,"Both",0.105603807626
+282,"smok_prev_agestd_both",4649,"Chiapas",2014,27,"Age-standardized",3,"Both",0.0537248563136
+282,"smok_prev_agestd_both",4650,"Chihuahua",2014,27,"Age-standardized",3,"Both",0.172961136406
+282,"smok_prev_agestd_both",4651,"Mexico City",2014,27,"Age-standardized",3,"Both",0.146581900173
+282,"smok_prev_agestd_both",4652,"Durango",2014,27,"Age-standardized",3,"Both",0.127151764468
+282,"smok_prev_agestd_both",4653,"Guanajuato",2014,27,"Age-standardized",3,"Both",0.128724344711
+282,"smok_prev_agestd_both",4654,"Guerrero",2014,27,"Age-standardized",3,"Both",0.0817962790418
+282,"smok_prev_agestd_both",4655,"Hidalgo",2014,27,"Age-standardized",3,"Both",0.107032643333
+282,"smok_prev_agestd_both",4656,"Jalisco",2014,27,"Age-standardized",3,"Both",0.139161500224
+282,"smok_prev_agestd_both",4657,"México",2014,27,"Age-standardized",3,"Both",0.138945278817
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",3,"Both",0.123869989907
+282,"smok_prev_agestd_both",4659,"Morelos",2014,27,"Age-standardized",3,"Both",0.108848693385
+282,"smok_prev_agestd_both",4660,"Nayarit",2014,27,"Age-standardized",3,"Both",0.119404734313
+282,"smok_prev_agestd_both",4661,"Nuevo León",2014,27,"Age-standardized",3,"Both",0.15386555236
+282,"smok_prev_agestd_both",4662,"Oaxaca",2014,27,"Age-standardized",3,"Both",0.0629894658025
+282,"smok_prev_agestd_both",4663,"Puebla",2014,27,"Age-standardized",3,"Both",0.107790254965
+282,"smok_prev_agestd_both",4664,"Querétaro",2014,27,"Age-standardized",3,"Both",0.121131282798
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2014,27,"Age-standardized",3,"Both",0.0968304614908
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2014,27,"Age-standardized",3,"Both",0.105421460951
+282,"smok_prev_agestd_both",4667,"Sinaloa",2014,27,"Age-standardized",3,"Both",0.110850522183
+282,"smok_prev_agestd_both",4668,"Sonora",2014,27,"Age-standardized",3,"Both",0.138652769656
+282,"smok_prev_agestd_both",4669,"Tabasco",2014,27,"Age-standardized",3,"Both",0.0564350991897
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2014,27,"Age-standardized",3,"Both",0.114632493157
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2014,27,"Age-standardized",3,"Both",0.104017549676
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",3,"Both",0.0831193960941
+282,"smok_prev_agestd_both",4673,"Yucatán",2014,27,"Age-standardized",3,"Both",0.0811129368058
+282,"smok_prev_agestd_both",4674,"Zacatecas",2014,27,"Age-standardized",3,"Both",0.126780623878
+282,"smok_prev_agestd_both",130,"Mexico",2015,27,"Age-standardized",3,"Both",0.114648615496
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2015,27,"Age-standardized",3,"Both",0.159714667782
+282,"smok_prev_agestd_both",4644,"Baja California",2015,27,"Age-standardized",3,"Both",0.115300676671
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2015,27,"Age-standardized",3,"Both",0.128134878854
+282,"smok_prev_agestd_both",4646,"Campeche",2015,27,"Age-standardized",3,"Both",0.0789654400133
+282,"smok_prev_agestd_both",4647,"Coahuila",2015,27,"Age-standardized",3,"Both",0.13978410168
+282,"smok_prev_agestd_both",4648,"Colima",2015,27,"Age-standardized",3,"Both",0.101736670778
+282,"smok_prev_agestd_both",4649,"Chiapas",2015,27,"Age-standardized",3,"Both",0.0514341832989
+282,"smok_prev_agestd_both",4650,"Chihuahua",2015,27,"Age-standardized",3,"Both",0.166443142208
+282,"smok_prev_agestd_both",4651,"Mexico City",2015,27,"Age-standardized",3,"Both",0.140407610284
+282,"smok_prev_agestd_both",4652,"Durango",2015,27,"Age-standardized",3,"Both",0.122164886328
+282,"smok_prev_agestd_both",4653,"Guanajuato",2015,27,"Age-standardized",3,"Both",0.123612762657
+282,"smok_prev_agestd_both",4654,"Guerrero",2015,27,"Age-standardized",3,"Both",0.0779706583235
+282,"smok_prev_agestd_both",4655,"Hidalgo",2015,27,"Age-standardized",3,"Both",0.103212168003
+282,"smok_prev_agestd_both",4656,"Jalisco",2015,27,"Age-standardized",3,"Both",0.133920583797
+282,"smok_prev_agestd_both",4657,"México",2015,27,"Age-standardized",3,"Both",0.132943978186
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",3,"Both",0.119293681981
+282,"smok_prev_agestd_both",4659,"Morelos",2015,27,"Age-standardized",3,"Both",0.104885593052
+282,"smok_prev_agestd_both",4660,"Nayarit",2015,27,"Age-standardized",3,"Both",0.11500134463
+282,"smok_prev_agestd_both",4661,"Nuevo León",2015,27,"Age-standardized",3,"Both",0.147531479695
+282,"smok_prev_agestd_both",4662,"Oaxaca",2015,27,"Age-standardized",3,"Both",0.0609082892544
+282,"smok_prev_agestd_both",4663,"Puebla",2015,27,"Age-standardized",3,"Both",0.102623673114
+282,"smok_prev_agestd_both",4664,"Querétaro",2015,27,"Age-standardized",3,"Both",0.116525434712
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2015,27,"Age-standardized",3,"Both",0.0934934258262
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2015,27,"Age-standardized",3,"Both",0.101408782319
+282,"smok_prev_agestd_both",4667,"Sinaloa",2015,27,"Age-standardized",3,"Both",0.106966699102
+282,"smok_prev_agestd_both",4668,"Sonora",2015,27,"Age-standardized",3,"Both",0.133493185379
+282,"smok_prev_agestd_both",4669,"Tabasco",2015,27,"Age-standardized",3,"Both",0.0545119740935
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2015,27,"Age-standardized",3,"Both",0.110718339626
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2015,27,"Age-standardized",3,"Both",0.0996426497512
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",3,"Both",0.0800109143227
+282,"smok_prev_agestd_both",4673,"Yucatán",2015,27,"Age-standardized",3,"Both",0.0781164912435
+282,"smok_prev_agestd_both",4674,"Zacatecas",2015,27,"Age-standardized",3,"Both",0.121923238408
+282,"smok_prev_agestd_both",130,"Mexico",2016,27,"Age-standardized",3,"Both",0.11157211464
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2016,27,"Age-standardized",3,"Both",0.155880761195
+282,"smok_prev_agestd_both",4644,"Baja California",2016,27,"Age-standardized",3,"Both",0.112763842839
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2016,27,"Age-standardized",3,"Both",0.125875630199
+282,"smok_prev_agestd_both",4646,"Campeche",2016,27,"Age-standardized",3,"Both",0.0773171018294
+282,"smok_prev_agestd_both",4647,"Coahuila",2016,27,"Age-standardized",3,"Both",0.136054340172
+282,"smok_prev_agestd_both",4648,"Colima",2016,27,"Age-standardized",3,"Both",0.09947333417
+282,"smok_prev_agestd_both",4649,"Chiapas",2016,27,"Age-standardized",3,"Both",0.0499557010379
+282,"smok_prev_agestd_both",4650,"Chihuahua",2016,27,"Age-standardized",3,"Both",0.162225078608
+282,"smok_prev_agestd_both",4651,"Mexico City",2016,27,"Age-standardized",3,"Both",0.136214811271
+282,"smok_prev_agestd_both",4652,"Durango",2016,27,"Age-standardized",3,"Both",0.119019746763
+282,"smok_prev_agestd_both",4653,"Guanajuato",2016,27,"Age-standardized",3,"Both",0.120374192579
+282,"smok_prev_agestd_both",4654,"Guerrero",2016,27,"Age-standardized",3,"Both",0.0753912071093
+282,"smok_prev_agestd_both",4655,"Hidalgo",2016,27,"Age-standardized",3,"Both",0.100888413643
+282,"smok_prev_agestd_both",4656,"Jalisco",2016,27,"Age-standardized",3,"Both",0.130671892482
+282,"smok_prev_agestd_both",4657,"México",2016,27,"Age-standardized",3,"Both",0.12882361375
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",3,"Both",0.116492016886
+282,"smok_prev_agestd_both",4659,"Morelos",2016,27,"Age-standardized",3,"Both",0.102428584211
+282,"smok_prev_agestd_both",4660,"Nayarit",2016,27,"Age-standardized",3,"Both",0.112350679113
+282,"smok_prev_agestd_both",4661,"Nuevo León",2016,27,"Age-standardized",3,"Both",0.143442768308
+282,"smok_prev_agestd_both",4662,"Oaxaca",2016,27,"Age-standardized",3,"Both",0.0597131507698
+282,"smok_prev_agestd_both",4663,"Puebla",2016,27,"Age-standardized",3,"Both",0.0989041654711
+282,"smok_prev_agestd_both",4664,"Querétaro",2016,27,"Age-standardized",3,"Both",0.113640944454
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2016,27,"Age-standardized",3,"Both",0.0914491048144
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2016,27,"Age-standardized",3,"Both",0.0988794280465
+282,"smok_prev_agestd_both",4667,"Sinaloa",2016,27,"Age-standardized",3,"Both",0.104715365412
+282,"smok_prev_agestd_both",4668,"Sonora",2016,27,"Age-standardized",3,"Both",0.130331380054
+282,"smok_prev_agestd_both",4669,"Tabasco",2016,27,"Age-standardized",3,"Both",0.0533666163047
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2016,27,"Age-standardized",3,"Both",0.108419508273
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2016,27,"Age-standardized",3,"Both",0.0966918583592
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",3,"Both",0.0781045077531
+282,"smok_prev_agestd_both",4673,"Yucatán",2016,27,"Age-standardized",3,"Both",0.0762311583732
+282,"smok_prev_agestd_both",4674,"Zacatecas",2016,27,"Age-standardized",3,"Both",0.118850558985
+282,"smok_prev_agestd_both",130,"Mexico",2017,27,"Age-standardized",3,"Both",0.11157211464
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2017,27,"Age-standardized",3,"Both",0.155880761195
+282,"smok_prev_agestd_both",4644,"Baja California",2017,27,"Age-standardized",3,"Both",0.112763842839
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2017,27,"Age-standardized",3,"Both",0.125875630199
+282,"smok_prev_agestd_both",4646,"Campeche",2017,27,"Age-standardized",3,"Both",0.0773171018294
+282,"smok_prev_agestd_both",4647,"Coahuila",2017,27,"Age-standardized",3,"Both",0.136054340172
+282,"smok_prev_agestd_both",4648,"Colima",2017,27,"Age-standardized",3,"Both",0.09947333417
+282,"smok_prev_agestd_both",4649,"Chiapas",2017,27,"Age-standardized",3,"Both",0.0499557010379
+282,"smok_prev_agestd_both",4650,"Chihuahua",2017,27,"Age-standardized",3,"Both",0.162225078608
+282,"smok_prev_agestd_both",4651,"Mexico City",2017,27,"Age-standardized",3,"Both",0.136214811271
+282,"smok_prev_agestd_both",4652,"Durango",2017,27,"Age-standardized",3,"Both",0.119019746763
+282,"smok_prev_agestd_both",4653,"Guanajuato",2017,27,"Age-standardized",3,"Both",0.120374192579
+282,"smok_prev_agestd_both",4654,"Guerrero",2017,27,"Age-standardized",3,"Both",0.0753912071093
+282,"smok_prev_agestd_both",4655,"Hidalgo",2017,27,"Age-standardized",3,"Both",0.100888413643
+282,"smok_prev_agestd_both",4656,"Jalisco",2017,27,"Age-standardized",3,"Both",0.130671892482
+282,"smok_prev_agestd_both",4657,"México",2017,27,"Age-standardized",3,"Both",0.12882361375
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",3,"Both",0.116492016886
+282,"smok_prev_agestd_both",4659,"Morelos",2017,27,"Age-standardized",3,"Both",0.102428584211
+282,"smok_prev_agestd_both",4660,"Nayarit",2017,27,"Age-standardized",3,"Both",0.112350679113
+282,"smok_prev_agestd_both",4661,"Nuevo León",2017,27,"Age-standardized",3,"Both",0.143442768308
+282,"smok_prev_agestd_both",4662,"Oaxaca",2017,27,"Age-standardized",3,"Both",0.0597131507698
+282,"smok_prev_agestd_both",4663,"Puebla",2017,27,"Age-standardized",3,"Both",0.0989041654711
+282,"smok_prev_agestd_both",4664,"Querétaro",2017,27,"Age-standardized",3,"Both",0.113640944454
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2017,27,"Age-standardized",3,"Both",0.0914491048144
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2017,27,"Age-standardized",3,"Both",0.0988794280465
+282,"smok_prev_agestd_both",4667,"Sinaloa",2017,27,"Age-standardized",3,"Both",0.104715365412
+282,"smok_prev_agestd_both",4668,"Sonora",2017,27,"Age-standardized",3,"Both",0.130331380054
+282,"smok_prev_agestd_both",4669,"Tabasco",2017,27,"Age-standardized",3,"Both",0.0533666163047
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2017,27,"Age-standardized",3,"Both",0.108419508273
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2017,27,"Age-standardized",3,"Both",0.0966918583592
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",3,"Both",0.0781045077531
+282,"smok_prev_agestd_both",4673,"Yucatán",2017,27,"Age-standardized",3,"Both",0.0762311583732
+282,"smok_prev_agestd_both",4674,"Zacatecas",2017,27,"Age-standardized",3,"Both",0.118850558985
+282,"smok_prev_agestd_both",130,"Mexico",2018,27,"Age-standardized",3,"Both",0.11157211464
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2018,27,"Age-standardized",3,"Both",0.156831278815861
+282,"smok_prev_agestd_both",4644,"Baja California",2018,27,"Age-standardized",3,"Both",0.112763842839
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2018,27,"Age-standardized",3,"Both",0.126455349842663
+282,"smok_prev_agestd_both",4646,"Campeche",2018,27,"Age-standardized",3,"Both",0.0773171018294
+282,"smok_prev_agestd_both",4647,"Coahuila",2018,27,"Age-standardized",3,"Both",0.136054340172
+282,"smok_prev_agestd_both",4648,"Colima",2018,27,"Age-standardized",3,"Both",0.09947333417
+282,"smok_prev_agestd_both",4649,"Chiapas",2018,27,"Age-standardized",3,"Both",0.0503772676938361
+282,"smok_prev_agestd_both",4650,"Chihuahua",2018,27,"Age-standardized",3,"Both",0.163555253523426
+282,"smok_prev_agestd_both",4651,"Mexico City",2018,27,"Age-standardized",3,"Both",0.136214811271
+282,"smok_prev_agestd_both",4652,"Durango",2018,27,"Age-standardized",3,"Both",0.120052214255675
+282,"smok_prev_agestd_both",4653,"Guanajuato",2018,27,"Age-standardized",3,"Both",0.120374192579
+282,"smok_prev_agestd_both",4654,"Guerrero",2018,27,"Age-standardized",3,"Both",0.0763045036984058
+282,"smok_prev_agestd_both",4655,"Hidalgo",2018,27,"Age-standardized",3,"Both",0.100888413643
+282,"smok_prev_agestd_both",4656,"Jalisco",2018,27,"Age-standardized",3,"Both",0.130671892482
+282,"smok_prev_agestd_both",4657,"México",2018,27,"Age-standardized",3,"Both",0.12882361375
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",3,"Both",0.116492016886
+282,"smok_prev_agestd_both",4659,"Morelos",2018,27,"Age-standardized",3,"Both",0.103120370057576
+282,"smok_prev_agestd_both",4660,"Nayarit",2018,27,"Age-standardized",3,"Both",0.113178484288834
+282,"smok_prev_agestd_both",4661,"Nuevo León",2018,27,"Age-standardized",3,"Both",0.143442768308
+282,"smok_prev_agestd_both",4662,"Oaxaca",2018,27,"Age-standardized",3,"Both",0.0597131507698
+282,"smok_prev_agestd_both",4663,"Puebla",2018,27,"Age-standardized",3,"Both",0.100123189724037
+282,"smok_prev_agestd_both",4664,"Querétaro",2018,27,"Age-standardized",3,"Both",0.113640944454
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2018,27,"Age-standardized",3,"Both",0.0920519912955632
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2018,27,"Age-standardized",3,"Both",0.0989045804777324
+282,"smok_prev_agestd_both",4667,"Sinaloa",2018,27,"Age-standardized",3,"Both",0.105395520116076
+282,"smok_prev_agestd_both",4668,"Sonora",2018,27,"Age-standardized",3,"Both",0.130331380054
+282,"smok_prev_agestd_both",4669,"Tabasco",2018,27,"Age-standardized",3,"Both",0.0536528918715444
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2018,27,"Age-standardized",3,"Both",0.109029492369329
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2018,27,"Age-standardized",3,"Both",0.0978088068523092
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",3,"Both",0.0781045077531
+282,"smok_prev_agestd_both",4673,"Yucatán",2018,27,"Age-standardized",3,"Both",0.0762311583732
+282,"smok_prev_agestd_both",4674,"Zacatecas",2018,27,"Age-standardized",3,"Both",0.119747789731096
+282,"smok_prev_agestd_both",130,"Mexico",2019,27,"Age-standardized",3,"Both",0.11157211464
+282,"smok_prev_agestd_both",4643,"Aguascalientes",2019,27,"Age-standardized",3,"Both",0.157820071883054
+282,"smok_prev_agestd_both",4644,"Baja California",2019,27,"Age-standardized",3,"Both",0.112763842839
+282,"smok_prev_agestd_both",4645,"Baja California Sur",2019,27,"Age-standardized",3,"Both",0.127081332779221
+282,"smok_prev_agestd_both",4646,"Campeche",2019,27,"Age-standardized",3,"Both",0.0773171018294
+282,"smok_prev_agestd_both",4647,"Coahuila",2019,27,"Age-standardized",3,"Both",0.136054340172
+282,"smok_prev_agestd_both",4648,"Colima",2019,27,"Age-standardized",3,"Both",0.09947333417
+282,"smok_prev_agestd_both",4649,"Chiapas",2019,27,"Age-standardized",3,"Both",0.0508121523584939
+282,"smok_prev_agestd_both",4650,"Chihuahua",2019,27,"Age-standardized",3,"Both",0.165029089717516
+282,"smok_prev_agestd_both",4651,"Mexico City",2019,27,"Age-standardized",3,"Both",0.136214811271
+282,"smok_prev_agestd_both",4652,"Durango",2019,27,"Age-standardized",3,"Both",0.121219379724244
+282,"smok_prev_agestd_both",4653,"Guanajuato",2019,27,"Age-standardized",3,"Both",0.120374192579
+282,"smok_prev_agestd_both",4654,"Guerrero",2019,27,"Age-standardized",3,"Both",0.0773320653124799
+282,"smok_prev_agestd_both",4655,"Hidalgo",2019,27,"Age-standardized",3,"Both",0.100888413643
+282,"smok_prev_agestd_both",4656,"Jalisco",2019,27,"Age-standardized",3,"Both",0.130671892482
+282,"smok_prev_agestd_both",4657,"México",2019,27,"Age-standardized",3,"Both",0.12882361375
+282,"smok_prev_agestd_both",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",3,"Both",0.116492016886
+282,"smok_prev_agestd_both",4659,"Morelos",2019,27,"Age-standardized",3,"Both",0.103859280068656
+282,"smok_prev_agestd_both",4660,"Nayarit",2019,27,"Age-standardized",3,"Both",0.114109000502303
+282,"smok_prev_agestd_both",4661,"Nuevo León",2019,27,"Age-standardized",3,"Both",0.143442768308
+282,"smok_prev_agestd_both",4662,"Oaxaca",2019,27,"Age-standardized",3,"Both",0.0597131507698
+282,"smok_prev_agestd_both",4663,"Puebla",2019,27,"Age-standardized",3,"Both",0.101409197654797
+282,"smok_prev_agestd_both",4664,"Querétaro",2019,27,"Age-standardized",3,"Both",0.113640944454
+282,"smok_prev_agestd_both",4665,"Quintana Roo",2019,27,"Age-standardized",3,"Both",0.0926994330365178
+282,"smok_prev_agestd_both",4666,"San Luis Potosí",2019,27,"Age-standardized",3,"Both",0.09816457063889
+282,"smok_prev_agestd_both",4667,"Sinaloa",2019,27,"Age-standardized",3,"Both",0.106154498180202
+282,"smok_prev_agestd_both",4668,"Sonora",2019,27,"Age-standardized",3,"Both",0.130331380054
+282,"smok_prev_agestd_both",4669,"Tabasco",2019,27,"Age-standardized",3,"Both",0.0539658156810355
+282,"smok_prev_agestd_both",4670,"Tamaulipas",2019,27,"Age-standardized",3,"Both",0.109679201552173
+282,"smok_prev_agestd_both",4671,"Tlaxcala",2019,27,"Age-standardized",3,"Both",0.0990746403851385
+282,"smok_prev_agestd_both",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",3,"Both",0.0781045077531
+282,"smok_prev_agestd_both",4673,"Yucatán",2019,27,"Age-standardized",3,"Both",0.0762311583732
+282,"smok_prev_agestd_both",4674,"Zacatecas",2019,27,"Age-standardized",3,"Both",0.120718828188296

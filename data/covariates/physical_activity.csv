@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+1978,"phys_act_age_std",130,"Mexico",1990,22,"All Ages",1,"Male",6271.3784
+1978,"phys_act_age_std",130,"Mexico",1990,22,"All Ages",2,"Female",5448.9717
+1978,"phys_act_age_std",4643,"Aguascalientes",1990,22,"All Ages",1,"Male",6671.4658
+1978,"phys_act_age_std",4643,"Aguascalientes",1990,22,"All Ages",2,"Female",6402.4541
+1978,"phys_act_age_std",4644,"Baja California",1990,22,"All Ages",1,"Male",6232.6099
+1978,"phys_act_age_std",4644,"Baja California",1990,22,"All Ages",2,"Female",5241.6655
+1978,"phys_act_age_std",4645,"Baja California Sur",1990,22,"All Ages",1,"Male",6443.6348
+1978,"phys_act_age_std",4645,"Baja California Sur",1990,22,"All Ages",2,"Female",5232.5435
+1978,"phys_act_age_std",4646,"Campeche",1990,22,"All Ages",1,"Male",6566.0352
+1978,"phys_act_age_std",4646,"Campeche",1990,22,"All Ages",2,"Female",5398.7017
+1978,"phys_act_age_std",4647,"Coahuila",1990,22,"All Ages",1,"Male",6412.6069
+1978,"phys_act_age_std",4647,"Coahuila",1990,22,"All Ages",2,"Female",5060.0537
+1978,"phys_act_age_std",4648,"Colima",1990,22,"All Ages",1,"Male",6784.418
+1978,"phys_act_age_std",4648,"Colima",1990,22,"All Ages",2,"Female",5349.7104
+1978,"phys_act_age_std",4649,"Chiapas",1990,22,"All Ages",1,"Male",7164.0386
+1978,"phys_act_age_std",4649,"Chiapas",1990,22,"All Ages",2,"Female",6451.0024
+1978,"phys_act_age_std",4650,"Chihuahua",1990,22,"All Ages",1,"Male",6696.9092
+1978,"phys_act_age_std",4650,"Chihuahua",1990,22,"All Ages",2,"Female",5436.7813
+1978,"phys_act_age_std",4651,"Mexico City",1990,22,"All Ages",1,"Male",3266.7275
+1978,"phys_act_age_std",4651,"Mexico City",1990,22,"All Ages",2,"Female",4375.2427
+1978,"phys_act_age_std",4652,"Durango",1990,22,"All Ages",1,"Male",6875.5186
+1978,"phys_act_age_std",4652,"Durango",1990,22,"All Ages",2,"Female",4766.2827
+1978,"phys_act_age_std",4653,"Guanajuato",1990,22,"All Ages",1,"Male",6826.3862
+1978,"phys_act_age_std",4653,"Guanajuato",1990,22,"All Ages",2,"Female",5087.3633
+1978,"phys_act_age_std",4654,"Guerrero",1990,22,"All Ages",1,"Male",7352.7905
+1978,"phys_act_age_std",4654,"Guerrero",1990,22,"All Ages",2,"Female",5598.7378
+1978,"phys_act_age_std",4655,"Hidalgo",1990,22,"All Ages",1,"Male",7417.481
+1978,"phys_act_age_std",4655,"Hidalgo",1990,22,"All Ages",2,"Female",6733.6968
+1978,"phys_act_age_std",4656,"Jalisco",1990,22,"All Ages",1,"Male",6916.1768
+1978,"phys_act_age_std",4656,"Jalisco",1990,22,"All Ages",2,"Female",6252.2988
+1978,"phys_act_age_std",4657,"México",1990,22,"All Ages",1,"Male",6279.3916
+1978,"phys_act_age_std",4657,"México",1990,22,"All Ages",2,"Female",5480.0225
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1990,22,"All Ages",1,"Male",6691.875
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1990,22,"All Ages",2,"Female",4417.0273
+1978,"phys_act_age_std",4659,"Morelos",1990,22,"All Ages",1,"Male",6777.6714
+1978,"phys_act_age_std",4659,"Morelos",1990,22,"All Ages",2,"Female",5408.5498
+1978,"phys_act_age_std",4660,"Nayarit",1990,22,"All Ages",1,"Male",6783.0513
+1978,"phys_act_age_std",4660,"Nayarit",1990,22,"All Ages",2,"Female",5384.4336
+1978,"phys_act_age_std",4661,"Nuevo León",1990,22,"All Ages",1,"Male",4917.3804
+1978,"phys_act_age_std",4661,"Nuevo León",1990,22,"All Ages",2,"Female",4096.7207
+1978,"phys_act_age_std",4662,"Oaxaca",1990,22,"All Ages",1,"Male",7659.4443
+1978,"phys_act_age_std",4662,"Oaxaca",1990,22,"All Ages",2,"Female",8642.6992
+1978,"phys_act_age_std",4663,"Puebla",1990,22,"All Ages",1,"Male",7059.8667
+1978,"phys_act_age_std",4663,"Puebla",1990,22,"All Ages",2,"Female",5794.0195
+1978,"phys_act_age_std",4664,"Querétaro",1990,22,"All Ages",1,"Male",7715.3599
+1978,"phys_act_age_std",4664,"Querétaro",1990,22,"All Ages",2,"Female",5789.4526
+1978,"phys_act_age_std",4665,"Quintana Roo",1990,22,"All Ages",1,"Male",6574.3818
+1978,"phys_act_age_std",4665,"Quintana Roo",1990,22,"All Ages",2,"Female",5239.4673
+1978,"phys_act_age_std",4666,"San Luis Potosí",1990,22,"All Ages",1,"Male",6625.5786
+1978,"phys_act_age_std",4666,"San Luis Potosí",1990,22,"All Ages",2,"Female",5512.3628
+1978,"phys_act_age_std",4667,"Sinaloa",1990,22,"All Ages",1,"Male",6693.7822
+1978,"phys_act_age_std",4667,"Sinaloa",1990,22,"All Ages",2,"Female",5788.8188
+1978,"phys_act_age_std",4668,"Sonora",1990,22,"All Ages",1,"Male",6450.9609
+1978,"phys_act_age_std",4668,"Sonora",1990,22,"All Ages",2,"Female",6297.7056
+1978,"phys_act_age_std",4669,"Tabasco",1990,22,"All Ages",1,"Male",6551.8848
+1978,"phys_act_age_std",4669,"Tabasco",1990,22,"All Ages",2,"Female",5274.3804
+1978,"phys_act_age_std",4670,"Tamaulipas",1990,22,"All Ages",1,"Male",6419.5532
+1978,"phys_act_age_std",4670,"Tamaulipas",1990,22,"All Ages",2,"Female",4434.0796
+1978,"phys_act_age_std",4671,"Tlaxcala",1990,22,"All Ages",1,"Male",7003.4214
+1978,"phys_act_age_std",4671,"Tlaxcala",1990,22,"All Ages",2,"Female",6272.3843
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",1,"Male",6671.1543
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",2,"Female",5450.1489
+1978,"phys_act_age_std",4673,"Yucatán",1990,22,"All Ages",1,"Male",6304.3169
+1978,"phys_act_age_std",4673,"Yucatán",1990,22,"All Ages",2,"Female",5354.1113
+1978,"phys_act_age_std",4674,"Zacatecas",1990,22,"All Ages",1,"Male",6736.6519
+1978,"phys_act_age_std",4674,"Zacatecas",1990,22,"All Ages",2,"Female",5415.0479
+1978,"phys_act_age_std",130,"Mexico",1991,22,"All Ages",1,"Male",6273.4775
+1978,"phys_act_age_std",130,"Mexico",1991,22,"All Ages",2,"Female",5450.5796
+1978,"phys_act_age_std",4643,"Aguascalientes",1991,22,"All Ages",1,"Male",6673.6641
+1978,"phys_act_age_std",4643,"Aguascalientes",1991,22,"All Ages",2,"Female",6399.1499
+1978,"phys_act_age_std",4644,"Baja California",1991,22,"All Ages",1,"Male",6233.9438
+1978,"phys_act_age_std",4644,"Baja California",1991,22,"All Ages",2,"Female",5241.1431
+1978,"phys_act_age_std",4645,"Baja California Sur",1991,22,"All Ages",1,"Male",6447.2534
+1978,"phys_act_age_std",4645,"Baja California Sur",1991,22,"All Ages",2,"Female",5229.6602
+1978,"phys_act_age_std",4646,"Campeche",1991,22,"All Ages",1,"Male",6562.293
+1978,"phys_act_age_std",4646,"Campeche",1991,22,"All Ages",2,"Female",5394.2285
+1978,"phys_act_age_std",4647,"Coahuila",1991,22,"All Ages",1,"Male",6413.9019
+1978,"phys_act_age_std",4647,"Coahuila",1991,22,"All Ages",2,"Female",5061.4932
+1978,"phys_act_age_std",4648,"Colima",1991,22,"All Ages",1,"Male",6782.5103
+1978,"phys_act_age_std",4648,"Colima",1991,22,"All Ages",2,"Female",5349.5547
+1978,"phys_act_age_std",4649,"Chiapas",1991,22,"All Ages",1,"Male",7162.8208
+1978,"phys_act_age_std",4649,"Chiapas",1991,22,"All Ages",2,"Female",6452.4639
+1978,"phys_act_age_std",4650,"Chihuahua",1991,22,"All Ages",1,"Male",6696.0679
+1978,"phys_act_age_std",4650,"Chihuahua",1991,22,"All Ages",2,"Female",5442.625
+1978,"phys_act_age_std",4651,"Mexico City",1991,22,"All Ages",1,"Male",3266.0686
+1978,"phys_act_age_std",4651,"Mexico City",1991,22,"All Ages",2,"Female",4376.2192
+1978,"phys_act_age_std",4652,"Durango",1991,22,"All Ages",1,"Male",6877.5059
+1978,"phys_act_age_std",4652,"Durango",1991,22,"All Ages",2,"Female",4758.0786
+1978,"phys_act_age_std",4653,"Guanajuato",1991,22,"All Ages",1,"Male",6823.3945
+1978,"phys_act_age_std",4653,"Guanajuato",1991,22,"All Ages",2,"Female",5093.9976
+1978,"phys_act_age_std",4654,"Guerrero",1991,22,"All Ages",1,"Male",7353.1147
+1978,"phys_act_age_std",4654,"Guerrero",1991,22,"All Ages",2,"Female",5596.8857
+1978,"phys_act_age_std",4655,"Hidalgo",1991,22,"All Ages",1,"Male",7420
+1978,"phys_act_age_std",4655,"Hidalgo",1991,22,"All Ages",2,"Female",6731.7891
+1978,"phys_act_age_std",4656,"Jalisco",1991,22,"All Ages",1,"Male",6916.7852
+1978,"phys_act_age_std",4656,"Jalisco",1991,22,"All Ages",2,"Female",6258.7207
+1978,"phys_act_age_std",4657,"México",1991,22,"All Ages",1,"Male",6276.2065
+1978,"phys_act_age_std",4657,"México",1991,22,"All Ages",2,"Female",5481.3501
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1991,22,"All Ages",1,"Male",6685.6758
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1991,22,"All Ages",2,"Female",4416.873
+1978,"phys_act_age_std",4659,"Morelos",1991,22,"All Ages",1,"Male",6778.3745
+1978,"phys_act_age_std",4659,"Morelos",1991,22,"All Ages",2,"Female",5408.7173
+1978,"phys_act_age_std",4660,"Nayarit",1991,22,"All Ages",1,"Male",6778.5801
+1978,"phys_act_age_std",4660,"Nayarit",1991,22,"All Ages",2,"Female",5387.1265
+1978,"phys_act_age_std",4661,"Nuevo León",1991,22,"All Ages",1,"Male",4914.7783
+1978,"phys_act_age_std",4661,"Nuevo León",1991,22,"All Ages",2,"Female",4105.4121
+1978,"phys_act_age_std",4662,"Oaxaca",1991,22,"All Ages",1,"Male",7658.8618
+1978,"phys_act_age_std",4662,"Oaxaca",1991,22,"All Ages",2,"Female",8643.4912
+1978,"phys_act_age_std",4663,"Puebla",1991,22,"All Ages",1,"Male",7058.3955
+1978,"phys_act_age_std",4663,"Puebla",1991,22,"All Ages",2,"Female",5797.5845
+1978,"phys_act_age_std",4664,"Querétaro",1991,22,"All Ages",1,"Male",7720.1909
+1978,"phys_act_age_std",4664,"Querétaro",1991,22,"All Ages",2,"Female",5791.0234
+1978,"phys_act_age_std",4665,"Quintana Roo",1991,22,"All Ages",1,"Male",6570.873
+1978,"phys_act_age_std",4665,"Quintana Roo",1991,22,"All Ages",2,"Female",5238.1606
+1978,"phys_act_age_std",4666,"San Luis Potosí",1991,22,"All Ages",1,"Male",6621.8496
+1978,"phys_act_age_std",4666,"San Luis Potosí",1991,22,"All Ages",2,"Female",5511.1055
+1978,"phys_act_age_std",4667,"Sinaloa",1991,22,"All Ages",1,"Male",6693.79
+1978,"phys_act_age_std",4667,"Sinaloa",1991,22,"All Ages",2,"Female",5792.2227
+1978,"phys_act_age_std",4668,"Sonora",1991,22,"All Ages",1,"Male",6447.8638
+1978,"phys_act_age_std",4668,"Sonora",1991,22,"All Ages",2,"Female",6284.8882
+1978,"phys_act_age_std",4669,"Tabasco",1991,22,"All Ages",1,"Male",6549.5469
+1978,"phys_act_age_std",4669,"Tabasco",1991,22,"All Ages",2,"Female",5273.8374
+1978,"phys_act_age_std",4670,"Tamaulipas",1991,22,"All Ages",1,"Male",6420.4702
+1978,"phys_act_age_std",4670,"Tamaulipas",1991,22,"All Ages",2,"Female",4435.9448
+1978,"phys_act_age_std",4671,"Tlaxcala",1991,22,"All Ages",1,"Male",7000.8809
+1978,"phys_act_age_std",4671,"Tlaxcala",1991,22,"All Ages",2,"Female",6277.5015
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",1,"Male",6662.5464
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",2,"Female",5442.7847
+1978,"phys_act_age_std",4673,"Yucatán",1991,22,"All Ages",1,"Male",6306.3364
+1978,"phys_act_age_std",4673,"Yucatán",1991,22,"All Ages",2,"Female",5357.7813
+1978,"phys_act_age_std",4674,"Zacatecas",1991,22,"All Ages",1,"Male",6731.2661
+1978,"phys_act_age_std",4674,"Zacatecas",1991,22,"All Ages",2,"Female",5417.7979
+1978,"phys_act_age_std",130,"Mexico",1992,22,"All Ages",1,"Male",6274.9087
+1978,"phys_act_age_std",130,"Mexico",1992,22,"All Ages",2,"Female",5450.3208
+1978,"phys_act_age_std",4643,"Aguascalientes",1992,22,"All Ages",1,"Male",6674.7856
+1978,"phys_act_age_std",4643,"Aguascalientes",1992,22,"All Ages",2,"Female",6395.3154
+1978,"phys_act_age_std",4644,"Baja California",1992,22,"All Ages",1,"Male",6234.46
+1978,"phys_act_age_std",4644,"Baja California",1992,22,"All Ages",2,"Female",5239.6973
+1978,"phys_act_age_std",4645,"Baja California Sur",1992,22,"All Ages",1,"Male",6449.5581
+1978,"phys_act_age_std",4645,"Baja California Sur",1992,22,"All Ages",2,"Female",5225.6826
+1978,"phys_act_age_std",4646,"Campeche",1992,22,"All Ages",1,"Male",6558.3687
+1978,"phys_act_age_std",4646,"Campeche",1992,22,"All Ages",2,"Female",5389.5361
+1978,"phys_act_age_std",4647,"Coahuila",1992,22,"All Ages",1,"Male",6413.8862
+1978,"phys_act_age_std",4647,"Coahuila",1992,22,"All Ages",2,"Female",5060.252
+1978,"phys_act_age_std",4648,"Colima",1992,22,"All Ages",1,"Male",6779.1572
+1978,"phys_act_age_std",4648,"Colima",1992,22,"All Ages",2,"Female",5349.1401
+1978,"phys_act_age_std",4649,"Chiapas",1992,22,"All Ages",1,"Male",7160.9722
+1978,"phys_act_age_std",4649,"Chiapas",1992,22,"All Ages",2,"Female",6451.8013
+1978,"phys_act_age_std",4650,"Chihuahua",1992,22,"All Ages",1,"Male",6695.0513
+1978,"phys_act_age_std",4650,"Chihuahua",1992,22,"All Ages",2,"Female",5445.6343
+1978,"phys_act_age_std",4651,"Mexico City",1992,22,"All Ages",1,"Male",3263.7964
+1978,"phys_act_age_std",4651,"Mexico City",1992,22,"All Ages",2,"Female",4375.2954
+1978,"phys_act_age_std",4652,"Durango",1992,22,"All Ages",1,"Male",6879.1157
+1978,"phys_act_age_std",4652,"Durango",1992,22,"All Ages",2,"Female",4750.5732
+1978,"phys_act_age_std",4653,"Guanajuato",1992,22,"All Ages",1,"Male",6820.5552
+1978,"phys_act_age_std",4653,"Guanajuato",1992,22,"All Ages",2,"Female",5097.6528
+1978,"phys_act_age_std",4654,"Guerrero",1992,22,"All Ages",1,"Male",7351.8154
+1978,"phys_act_age_std",4654,"Guerrero",1992,22,"All Ages",2,"Female",5594.3179
+1978,"phys_act_age_std",4655,"Hidalgo",1992,22,"All Ages",1,"Male",7421.1875
+1978,"phys_act_age_std",4655,"Hidalgo",1992,22,"All Ages",2,"Female",6729.5654
+1978,"phys_act_age_std",4656,"Jalisco",1992,22,"All Ages",1,"Male",6916.6553
+1978,"phys_act_age_std",4656,"Jalisco",1992,22,"All Ages",2,"Female",6262.7827
+1978,"phys_act_age_std",4657,"México",1992,22,"All Ages",1,"Male",6272.8809
+1978,"phys_act_age_std",4657,"México",1992,22,"All Ages",2,"Female",5480.5313
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1992,22,"All Ages",1,"Male",6678.6265
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1992,22,"All Ages",2,"Female",4417.6299
+1978,"phys_act_age_std",4659,"Morelos",1992,22,"All Ages",1,"Male",6777.9297
+1978,"phys_act_age_std",4659,"Morelos",1992,22,"All Ages",2,"Female",5406.4556
+1978,"phys_act_age_std",4660,"Nayarit",1992,22,"All Ages",1,"Male",6773.6631
+1978,"phys_act_age_std",4660,"Nayarit",1992,22,"All Ages",2,"Female",5387.9741
+1978,"phys_act_age_std",4661,"Nuevo León",1992,22,"All Ages",1,"Male",4911.4961
+1978,"phys_act_age_std",4661,"Nuevo León",1992,22,"All Ages",2,"Female",4111.1641
+1978,"phys_act_age_std",4662,"Oaxaca",1992,22,"All Ages",1,"Male",7658.1865
+1978,"phys_act_age_std",4662,"Oaxaca",1992,22,"All Ages",2,"Female",8644.1191
+1978,"phys_act_age_std",4663,"Puebla",1992,22,"All Ages",1,"Male",7056.979
+1978,"phys_act_age_std",4663,"Puebla",1992,22,"All Ages",2,"Female",5797.1763
+1978,"phys_act_age_std",4664,"Querétaro",1992,22,"All Ages",1,"Male",7724.0669
+1978,"phys_act_age_std",4664,"Querétaro",1992,22,"All Ages",2,"Female",5789.7969
+1978,"phys_act_age_std",4665,"Quintana Roo",1992,22,"All Ages",1,"Male",6567.3066
+1978,"phys_act_age_std",4665,"Quintana Roo",1992,22,"All Ages",2,"Female",5235.4717
+1978,"phys_act_age_std",4666,"San Luis Potosí",1992,22,"All Ages",1,"Male",6617.9546
+1978,"phys_act_age_std",4666,"San Luis Potosí",1992,22,"All Ages",2,"Female",5508.1318
+1978,"phys_act_age_std",4667,"Sinaloa",1992,22,"All Ages",1,"Male",6692.3574
+1978,"phys_act_age_std",4667,"Sinaloa",1992,22,"All Ages",2,"Female",5795.2036
+1978,"phys_act_age_std",4668,"Sonora",1992,22,"All Ages",1,"Male",6444.0073
+1978,"phys_act_age_std",4668,"Sonora",1992,22,"All Ages",2,"Female",6265.1714
+1978,"phys_act_age_std",4669,"Tabasco",1992,22,"All Ages",1,"Male",6546.6279
+1978,"phys_act_age_std",4669,"Tabasco",1992,22,"All Ages",2,"Female",5271.5381
+1978,"phys_act_age_std",4670,"Tamaulipas",1992,22,"All Ages",1,"Male",6420.0586
+1978,"phys_act_age_std",4670,"Tamaulipas",1992,22,"All Ages",2,"Female",4435.8179
+1978,"phys_act_age_std",4671,"Tlaxcala",1992,22,"All Ages",1,"Male",6998.2095
+1978,"phys_act_age_std",4671,"Tlaxcala",1992,22,"All Ages",2,"Female",6279.7524
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",1,"Male",6654.5166
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",2,"Female",5435.5576
+1978,"phys_act_age_std",4673,"Yucatán",1992,22,"All Ages",1,"Male",6307.0005
+1978,"phys_act_age_std",4673,"Yucatán",1992,22,"All Ages",2,"Female",5358.8394
+1978,"phys_act_age_std",4674,"Zacatecas",1992,22,"All Ages",1,"Male",6726.0679
+1978,"phys_act_age_std",4674,"Zacatecas",1992,22,"All Ages",2,"Female",5418.3516
+1978,"phys_act_age_std",130,"Mexico",1993,22,"All Ages",1,"Male",6275.6113
+1978,"phys_act_age_std",130,"Mexico",1993,22,"All Ages",2,"Female",5448.0244
+1978,"phys_act_age_std",4643,"Aguascalientes",1993,22,"All Ages",1,"Male",6674.7324
+1978,"phys_act_age_std",4643,"Aguascalientes",1993,22,"All Ages",2,"Female",6390.9028
+1978,"phys_act_age_std",4644,"Baja California",1993,22,"All Ages",1,"Male",6234.084
+1978,"phys_act_age_std",4644,"Baja California",1993,22,"All Ages",2,"Female",5237.2441
+1978,"phys_act_age_std",4645,"Baja California Sur",1993,22,"All Ages",1,"Male",6450.4302
+1978,"phys_act_age_std",4645,"Baja California Sur",1993,22,"All Ages",2,"Female",5220.5117
+1978,"phys_act_age_std",4646,"Campeche",1993,22,"All Ages",1,"Male",6554.2461
+1978,"phys_act_age_std",4646,"Campeche",1993,22,"All Ages",2,"Female",5384.603
+1978,"phys_act_age_std",4647,"Coahuila",1993,22,"All Ages",1,"Male",6412.4424
+1978,"phys_act_age_std",4647,"Coahuila",1993,22,"All Ages",2,"Female",5056.0869
+1978,"phys_act_age_std",4648,"Colima",1993,22,"All Ages",1,"Male",6774.229
+1978,"phys_act_age_std",4648,"Colima",1993,22,"All Ages",2,"Female",5348.4424
+1978,"phys_act_age_std",4649,"Chiapas",1993,22,"All Ages",1,"Male",7158.4346
+1978,"phys_act_age_std",4649,"Chiapas",1993,22,"All Ages",2,"Female",6448.8218
+1978,"phys_act_age_std",4650,"Chihuahua",1993,22,"All Ages",1,"Male",6693.8442
+1978,"phys_act_age_std",4650,"Chihuahua",1993,22,"All Ages",2,"Female",5445.5518
+1978,"phys_act_age_std",4651,"Mexico City",1993,22,"All Ages",1,"Male",3259.7644
+1978,"phys_act_age_std",4651,"Mexico City",1993,22,"All Ages",2,"Female",4372.2979
+1978,"phys_act_age_std",4652,"Durango",1993,22,"All Ages",1,"Male",6880.3135
+1978,"phys_act_age_std",4652,"Durango",1993,22,"All Ages",2,"Female",4743.8306
+1978,"phys_act_age_std",4653,"Guanajuato",1993,22,"All Ages",1,"Male",6817.8833
+1978,"phys_act_age_std",4653,"Guanajuato",1993,22,"All Ages",2,"Female",5098.0591
+1978,"phys_act_age_std",4654,"Guerrero",1993,22,"All Ages",1,"Male",7348.7446
+1978,"phys_act_age_std",4654,"Guerrero",1993,22,"All Ages",2,"Female",5590.9688
+1978,"phys_act_age_std",4655,"Hidalgo",1993,22,"All Ages",1,"Male",7420.9214
+1978,"phys_act_age_std",4655,"Hidalgo",1993,22,"All Ages",2,"Female",6726.9966
+1978,"phys_act_age_std",4656,"Jalisco",1993,22,"All Ages",1,"Male",6915.7212
+1978,"phys_act_age_std",4656,"Jalisco",1993,22,"All Ages",2,"Female",6264.2705
+1978,"phys_act_age_std",4657,"México",1993,22,"All Ages",1,"Male",6269.4023
+1978,"phys_act_age_std",4657,"México",1993,22,"All Ages",2,"Female",5477.3721
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1993,22,"All Ages",1,"Male",6670.6504
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1993,22,"All Ages",2,"Female",4419.3809
+1978,"phys_act_age_std",4659,"Morelos",1993,22,"All Ages",1,"Male",6776.2334
+1978,"phys_act_age_std",4659,"Morelos",1993,22,"All Ages",2,"Female",5401.5444
+1978,"phys_act_age_std",4660,"Nayarit",1993,22,"All Ages",1,"Male",6768.2598
+1978,"phys_act_age_std",4660,"Nayarit",1993,22,"All Ages",2,"Female",5386.8091
+1978,"phys_act_age_std",4661,"Nuevo León",1993,22,"All Ages",1,"Male",4907.4722
+1978,"phys_act_age_std",4661,"Nuevo León",1993,22,"All Ages",2,"Female",4113.709
+1978,"phys_act_age_std",4662,"Oaxaca",1993,22,"All Ages",1,"Male",7657.4097
+1978,"phys_act_age_std",4662,"Oaxaca",1993,22,"All Ages",2,"Female",8644.5674
+1978,"phys_act_age_std",4663,"Puebla",1993,22,"All Ages",1,"Male",7055.6221
+1978,"phys_act_age_std",4663,"Puebla",1993,22,"All Ages",2,"Female",5792.4341
+1978,"phys_act_age_std",4664,"Querétaro",1993,22,"All Ages",1,"Male",7726.9009
+1978,"phys_act_age_std",4664,"Querétaro",1993,22,"All Ages",2,"Female",5785.5181
+1978,"phys_act_age_std",4665,"Quintana Roo",1993,22,"All Ages",1,"Male",6563.6768
+1978,"phys_act_age_std",4665,"Quintana Roo",1993,22,"All Ages",2,"Female",5231.2749
+1978,"phys_act_age_std",4666,"San Luis Potosí",1993,22,"All Ages",1,"Male",6613.8774
+1978,"phys_act_age_std",4666,"San Luis Potosí",1993,22,"All Ages",2,"Female",5503.2866
+1978,"phys_act_age_std",4667,"Sinaloa",1993,22,"All Ages",1,"Male",6689.3535
+1978,"phys_act_age_std",4667,"Sinaloa",1993,22,"All Ages",2,"Female",5797.7241
+1978,"phys_act_age_std",4668,"Sonora",1993,22,"All Ages",1,"Male",6439.3223
+1978,"phys_act_age_std",4668,"Sonora",1993,22,"All Ages",2,"Female",6237.9277
+1978,"phys_act_age_std",4669,"Tabasco",1993,22,"All Ages",1,"Male",6543.0752
+1978,"phys_act_age_std",4669,"Tabasco",1993,22,"All Ages",2,"Female",5267.3228
+1978,"phys_act_age_std",4670,"Tamaulipas",1993,22,"All Ages",1,"Male",6418.1987
+1978,"phys_act_age_std",4670,"Tamaulipas",1993,22,"All Ages",2,"Female",4433.5181
+1978,"phys_act_age_std",4671,"Tlaxcala",1993,22,"All Ages",1,"Male",6995.3945
+1978,"phys_act_age_std",4671,"Tlaxcala",1993,22,"All Ages",2,"Female",6278.8765
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",1,"Male",6647.1177
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",2,"Female",5428.4814
+1978,"phys_act_age_std",4673,"Yucatán",1993,22,"All Ages",1,"Male",6306.1865
+1978,"phys_act_age_std",4673,"Yucatán",1993,22,"All Ages",2,"Female",5357.0474
+1978,"phys_act_age_std",4674,"Zacatecas",1993,22,"All Ages",1,"Male",6721.0742
+1978,"phys_act_age_std",4674,"Zacatecas",1993,22,"All Ages",2,"Female",5416.5093
+1978,"phys_act_age_std",130,"Mexico",1994,22,"All Ages",1,"Male",6275.5166
+1978,"phys_act_age_std",130,"Mexico",1994,22,"All Ages",2,"Female",5443.5024
+1978,"phys_act_age_std",4643,"Aguascalientes",1994,22,"All Ages",1,"Male",6673.395
+1978,"phys_act_age_std",4643,"Aguascalientes",1994,22,"All Ages",2,"Female",6385.8613
+1978,"phys_act_age_std",4644,"Baja California",1994,22,"All Ages",1,"Male",6232.7324
+1978,"phys_act_age_std",4644,"Baja California",1994,22,"All Ages",2,"Female",5233.6924
+1978,"phys_act_age_std",4645,"Baja California Sur",1994,22,"All Ages",1,"Male",6449.7339
+1978,"phys_act_age_std",4645,"Baja California Sur",1994,22,"All Ages",2,"Female",5214.04
+1978,"phys_act_age_std",4646,"Campeche",1994,22,"All Ages",1,"Male",6549.9102
+1978,"phys_act_age_std",4646,"Campeche",1994,22,"All Ages",2,"Female",5379.4126
+1978,"phys_act_age_std",4647,"Coahuila",1994,22,"All Ages",1,"Male",6409.4365
+1978,"phys_act_age_std",4647,"Coahuila",1994,22,"All Ages",2,"Female",5048.728
+1978,"phys_act_age_std",4648,"Colima",1994,22,"All Ages",1,"Male",6767.582
+1978,"phys_act_age_std",4648,"Colima",1994,22,"All Ages",2,"Female",5347.4365
+1978,"phys_act_age_std",4649,"Chiapas",1994,22,"All Ages",1,"Male",7155.146
+1978,"phys_act_age_std",4649,"Chiapas",1994,22,"All Ages",2,"Female",6443.311
+1978,"phys_act_age_std",4650,"Chihuahua",1994,22,"All Ages",1,"Male",6692.4297
+1978,"phys_act_age_std",4650,"Chihuahua",1994,22,"All Ages",2,"Female",5442.0879
+1978,"phys_act_age_std",4651,"Mexico City",1994,22,"All Ages",1,"Male",3253.8118
+1978,"phys_act_age_std",4651,"Mexico City",1994,22,"All Ages",2,"Female",4367.0356
+1978,"phys_act_age_std",4652,"Durango",1994,22,"All Ages",1,"Male",6881.0591
+1978,"phys_act_age_std",4652,"Durango",1994,22,"All Ages",2,"Female",4737.9282
+1978,"phys_act_age_std",4653,"Guanajuato",1994,22,"All Ages",1,"Male",6815.396
+1978,"phys_act_age_std",4653,"Guanajuato",1994,22,"All Ages",2,"Female",5094.9116
+1978,"phys_act_age_std",4654,"Guerrero",1994,22,"All Ages",1,"Male",7343.7393
+1978,"phys_act_age_std",4654,"Guerrero",1994,22,"All Ages",2,"Female",5586.769
+1978,"phys_act_age_std",4655,"Hidalgo",1994,22,"All Ages",1,"Male",7419.0664
+1978,"phys_act_age_std",4655,"Hidalgo",1994,22,"All Ages",2,"Female",6724.0527
+1978,"phys_act_age_std",4656,"Jalisco",1994,22,"All Ages",1,"Male",6913.9072
+1978,"phys_act_age_std",4656,"Jalisco",1994,22,"All Ages",2,"Female",6262.9424
+1978,"phys_act_age_std",4657,"México",1994,22,"All Ages",1,"Male",6265.7593
+1978,"phys_act_age_std",4657,"México",1994,22,"All Ages",2,"Female",5471.6553
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1994,22,"All Ages",1,"Male",6661.6675
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1994,22,"All Ages",2,"Female",4422.2163
+1978,"phys_act_age_std",4659,"Morelos",1994,22,"All Ages",1,"Male",6773.1694
+1978,"phys_act_age_std",4659,"Morelos",1994,22,"All Ages",2,"Female",5393.7407
+1978,"phys_act_age_std",4660,"Nayarit",1994,22,"All Ages",1,"Male",6762.3291
+1978,"phys_act_age_std",4660,"Nayarit",1994,22,"All Ages",2,"Female",5383.4443
+1978,"phys_act_age_std",4661,"Nuevo León",1994,22,"All Ages",1,"Male",4902.6406
+1978,"phys_act_age_std",4661,"Nuevo León",1994,22,"All Ages",2,"Female",4112.7451
+1978,"phys_act_age_std",4662,"Oaxaca",1994,22,"All Ages",1,"Male",7656.5229
+1978,"phys_act_age_std",4662,"Oaxaca",1994,22,"All Ages",2,"Female",8644.8213
+1978,"phys_act_age_std",4663,"Puebla",1994,22,"All Ages",1,"Male",7054.332
+1978,"phys_act_age_std",4663,"Puebla",1994,22,"All Ages",2,"Female",5782.9565
+1978,"phys_act_age_std",4664,"Querétaro",1994,22,"All Ages",1,"Male",7728.5928
+1978,"phys_act_age_std",4664,"Querétaro",1994,22,"All Ages",2,"Female",5777.9063
+1978,"phys_act_age_std",4665,"Quintana Roo",1994,22,"All Ages",1,"Male",6559.981
+1978,"phys_act_age_std",4665,"Quintana Roo",1994,22,"All Ages",2,"Female",5225.4321
+1978,"phys_act_age_std",4666,"San Luis Potosí",1994,22,"All Ages",1,"Male",6609.6064
+1978,"phys_act_age_std",4666,"San Luis Potosí",1994,22,"All Ages",2,"Female",5496.3989
+1978,"phys_act_age_std",4667,"Sinaloa",1994,22,"All Ages",1,"Male",6684.6343
+1978,"phys_act_age_std",4667,"Sinaloa",1994,22,"All Ages",2,"Female",5799.7378
+1978,"phys_act_age_std",4668,"Sonora",1994,22,"All Ages",1,"Male",6433.7354
+1978,"phys_act_age_std",4668,"Sonora",1994,22,"All Ages",2,"Female",6202.4795
+1978,"phys_act_age_std",4669,"Tabasco",1994,22,"All Ages",1,"Male",6538.8325
+1978,"phys_act_age_std",4669,"Tabasco",1994,22,"All Ages",2,"Female",5261.0171
+1978,"phys_act_age_std",4670,"Tamaulipas",1994,22,"All Ages",1,"Male",6414.7563
+1978,"phys_act_age_std",4670,"Tamaulipas",1994,22,"All Ages",2,"Female",4428.8442
+1978,"phys_act_age_std",4671,"Tlaxcala",1994,22,"All Ages",1,"Male",6992.4253
+1978,"phys_act_age_std",4671,"Tlaxcala",1994,22,"All Ages",2,"Female",6274.5825
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",1,"Male",6640.416
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",2,"Female",5421.5762
+1978,"phys_act_age_std",4673,"Yucatán",1994,22,"All Ages",1,"Male",6303.7563
+1978,"phys_act_age_std",4673,"Yucatán",1994,22,"All Ages",2,"Female",5352.1416
+1978,"phys_act_age_std",4674,"Zacatecas",1994,22,"All Ages",1,"Male",6716.3096
+1978,"phys_act_age_std",4674,"Zacatecas",1994,22,"All Ages",2,"Female",5412.0488
+1978,"phys_act_age_std",130,"Mexico",1995,22,"All Ages",1,"Male",6274.5474
+1978,"phys_act_age_std",130,"Mexico",1995,22,"All Ages",2,"Female",5436.5469
+1978,"phys_act_age_std",4643,"Aguascalientes",1995,22,"All Ages",1,"Male",6670.6509
+1978,"phys_act_age_std",4643,"Aguascalientes",1995,22,"All Ages",2,"Female",6380.1396
+1978,"phys_act_age_std",4644,"Baja California",1995,22,"All Ages",1,"Male",6230.3135
+1978,"phys_act_age_std",4644,"Baja California",1995,22,"All Ages",2,"Female",5228.9409
+1978,"phys_act_age_std",4645,"Baja California Sur",1995,22,"All Ages",1,"Male",6447.3193
+1978,"phys_act_age_std",4645,"Baja California Sur",1995,22,"All Ages",2,"Female",5206.1528
+1978,"phys_act_age_std",4646,"Campeche",1995,22,"All Ages",1,"Male",6545.3477
+1978,"phys_act_age_std",4646,"Campeche",1995,22,"All Ages",2,"Female",5373.9478
+1978,"phys_act_age_std",4647,"Coahuila",1995,22,"All Ages",1,"Male",6404.7236
+1978,"phys_act_age_std",4647,"Coahuila",1995,22,"All Ages",2,"Female",5037.8779
+1978,"phys_act_age_std",4648,"Colima",1995,22,"All Ages",1,"Male",6759.0615
+1978,"phys_act_age_std",4648,"Colima",1995,22,"All Ages",2,"Female",5346.0938
+1978,"phys_act_age_std",4649,"Chiapas",1995,22,"All Ages",1,"Male",7151.04
+1978,"phys_act_age_std",4649,"Chiapas",1995,22,"All Ages",2,"Female",6435.0337
+1978,"phys_act_age_std",4650,"Chihuahua",1995,22,"All Ages",1,"Male",6690.79
+1978,"phys_act_age_std",4650,"Chihuahua",1995,22,"All Ages",2,"Female",5434.9209
+1978,"phys_act_age_std",4651,"Mexico City",1995,22,"All Ages",1,"Male",3245.7625
+1978,"phys_act_age_std",4651,"Mexico City",1995,22,"All Ages",2,"Female",4359.2979
+1978,"phys_act_age_std",4652,"Durango",1995,22,"All Ages",1,"Male",6881.3081
+1978,"phys_act_age_std",4652,"Durango",1995,22,"All Ages",2,"Female",4732.9575
+1978,"phys_act_age_std",4653,"Guanajuato",1995,22,"All Ages",1,"Male",6813.1162
+1978,"phys_act_age_std",4653,"Guanajuato",1995,22,"All Ages",2,"Female",5087.8711
+1978,"phys_act_age_std",4654,"Guerrero",1995,22,"All Ages",1,"Male",7336.6206
+1978,"phys_act_age_std",4654,"Guerrero",1995,22,"All Ages",2,"Female",5581.6431
+1978,"phys_act_age_std",4655,"Hidalgo",1995,22,"All Ages",1,"Male",7415.4717
+1978,"phys_act_age_std",4655,"Hidalgo",1995,22,"All Ages",2,"Female",6720.7031
+1978,"phys_act_age_std",4656,"Jalisco",1995,22,"All Ages",1,"Male",6911.1318
+1978,"phys_act_age_std",4656,"Jalisco",1995,22,"All Ages",2,"Female",6258.5269
+1978,"phys_act_age_std",4657,"México",1995,22,"All Ages",1,"Male",6261.9424
+1978,"phys_act_age_std",4657,"México",1995,22,"All Ages",2,"Female",5463.144
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1995,22,"All Ages",1,"Male",6651.5967
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1995,22,"All Ages",2,"Female",4426.2378
+1978,"phys_act_age_std",4659,"Morelos",1995,22,"All Ages",1,"Male",6768.6108
+1978,"phys_act_age_std",4659,"Morelos",1995,22,"All Ages",2,"Female",5382.7769
+1978,"phys_act_age_std",4660,"Nayarit",1995,22,"All Ages",1,"Male",6755.8311
+1978,"phys_act_age_std",4660,"Nayarit",1995,22,"All Ages",2,"Female",5377.6719
+1978,"phys_act_age_std",4661,"Nuevo León",1995,22,"All Ages",1,"Male",4896.9321
+1978,"phys_act_age_std",4661,"Nuevo León",1995,22,"All Ages",2,"Female",4107.9331
+1978,"phys_act_age_std",4662,"Oaxaca",1995,22,"All Ages",1,"Male",7655.5171
+1978,"phys_act_age_std",4662,"Oaxaca",1995,22,"All Ages",2,"Female",8644.8594
+1978,"phys_act_age_std",4663,"Puebla",1995,22,"All Ages",1,"Male",7053.1167
+1978,"phys_act_age_std",4663,"Puebla",1995,22,"All Ages",2,"Female",5768.3003
+1978,"phys_act_age_std",4664,"Querétaro",1995,22,"All Ages",1,"Male",7729.0288
+1978,"phys_act_age_std",4664,"Querétaro",1995,22,"All Ages",2,"Female",5766.6514
+1978,"phys_act_age_std",4665,"Quintana Roo",1995,22,"All Ages",1,"Male",6556.2197
+1978,"phys_act_age_std",4665,"Quintana Roo",1995,22,"All Ages",2,"Female",5217.7949
+1978,"phys_act_age_std",4666,"San Luis Potosí",1995,22,"All Ages",1,"Male",6605.1289
+1978,"phys_act_age_std",4666,"San Luis Potosí",1995,22,"All Ages",2,"Female",5487.2822
+1978,"phys_act_age_std",4667,"Sinaloa",1995,22,"All Ages",1,"Male",6678.042
+1978,"phys_act_age_std",4667,"Sinaloa",1995,22,"All Ages",2,"Female",5801.1924
+1978,"phys_act_age_std",4668,"Sonora",1995,22,"All Ages",1,"Male",6427.1685
+1978,"phys_act_age_std",4668,"Sonora",1995,22,"All Ages",2,"Female",6158.0918
+1978,"phys_act_age_std",4669,"Tabasco",1995,22,"All Ages",1,"Male",6533.8398
+1978,"phys_act_age_std",4669,"Tabasco",1995,22,"All Ages",2,"Female",5252.4282
+1978,"phys_act_age_std",4670,"Tamaulipas",1995,22,"All Ages",1,"Male",6409.5835
+1978,"phys_act_age_std",4670,"Tamaulipas",1995,22,"All Ages",2,"Female",4421.5742
+1978,"phys_act_age_std",4671,"Tlaxcala",1995,22,"All Ages",1,"Male",6989.292
+1978,"phys_act_age_std",4671,"Tlaxcala",1995,22,"All Ages",2,"Female",6266.5459
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",1,"Male",6634.4907
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",2,"Female",5414.8711
+1978,"phys_act_age_std",4673,"Yucatán",1995,22,"All Ages",1,"Male",6299.5581
+1978,"phys_act_age_std",4673,"Yucatán",1995,22,"All Ages",2,"Female",5343.8276
+1978,"phys_act_age_std",4674,"Zacatecas",1995,22,"All Ages",1,"Male",6711.8032
+1978,"phys_act_age_std",4674,"Zacatecas",1995,22,"All Ages",2,"Female",5404.7241
+1978,"phys_act_age_std",130,"Mexico",1996,22,"All Ages",1,"Male",6273.7021
+1978,"phys_act_age_std",130,"Mexico",1996,22,"All Ages",2,"Female",5428.8364
+1978,"phys_act_age_std",4643,"Aguascalientes",1996,22,"All Ages",1,"Male",6666.8433
+1978,"phys_act_age_std",4643,"Aguascalientes",1996,22,"All Ages",2,"Female",6374.5396
+1978,"phys_act_age_std",4644,"Baja California",1996,22,"All Ages",1,"Male",6227.7842
+1978,"phys_act_age_std",4644,"Baja California",1996,22,"All Ages",2,"Female",5224.2969
+1978,"phys_act_age_std",4645,"Baja California Sur",1996,22,"All Ages",1,"Male",6443.9927
+1978,"phys_act_age_std",4645,"Baja California Sur",1996,22,"All Ages",2,"Female",5198.4707
+1978,"phys_act_age_std",4646,"Campeche",1996,22,"All Ages",1,"Male",6541.293
+1978,"phys_act_age_std",4646,"Campeche",1996,22,"All Ages",2,"Female",5369.71
+1978,"phys_act_age_std",4647,"Coahuila",1996,22,"All Ages",1,"Male",6399.7217
+1978,"phys_act_age_std",4647,"Coahuila",1996,22,"All Ages",2,"Female",5026.6138
+1978,"phys_act_age_std",4648,"Colima",1996,22,"All Ages",1,"Male",6750.3682
+1978,"phys_act_age_std",4648,"Colima",1996,22,"All Ages",2,"Female",5345.6616
+1978,"phys_act_age_std",4649,"Chiapas",1996,22,"All Ages",1,"Male",7146.9829
+1978,"phys_act_age_std",4649,"Chiapas",1996,22,"All Ages",2,"Female",6425.9063
+1978,"phys_act_age_std",4650,"Chihuahua",1996,22,"All Ages",1,"Male",6688.7319
+1978,"phys_act_age_std",4650,"Chihuahua",1996,22,"All Ages",2,"Female",5427.2285
+1978,"phys_act_age_std",4651,"Mexico City",1996,22,"All Ages",1,"Male",3238.26
+1978,"phys_act_age_std",4651,"Mexico City",1996,22,"All Ages",2,"Female",4349.4077
+1978,"phys_act_age_std",4652,"Durango",1996,22,"All Ages",1,"Male",6881.3188
+1978,"phys_act_age_std",4652,"Durango",1996,22,"All Ages",2,"Female",4730.666
+1978,"phys_act_age_std",4653,"Guanajuato",1996,22,"All Ages",1,"Male",6811.0972
+1978,"phys_act_age_std",4653,"Guanajuato",1996,22,"All Ages",2,"Female",5078.7144
+1978,"phys_act_age_std",4654,"Guerrero",1996,22,"All Ages",1,"Male",7328.2861
+1978,"phys_act_age_std",4654,"Guerrero",1996,22,"All Ages",2,"Female",5577.5381
+1978,"phys_act_age_std",4655,"Hidalgo",1996,22,"All Ages",1,"Male",7411.0938
+1978,"phys_act_age_std",4655,"Hidalgo",1996,22,"All Ages",2,"Female",6716.5752
+1978,"phys_act_age_std",4656,"Jalisco",1996,22,"All Ages",1,"Male",6908.6978
+1978,"phys_act_age_std",4656,"Jalisco",1996,22,"All Ages",2,"Female",6252.0269
+1978,"phys_act_age_std",4657,"México",1996,22,"All Ages",1,"Male",6258.3721
+1978,"phys_act_age_std",4657,"México",1996,22,"All Ages",2,"Female",5454.2246
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1996,22,"All Ages",1,"Male",6642.439
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1996,22,"All Ages",2,"Female",4431.1826
+1978,"phys_act_age_std",4659,"Morelos",1996,22,"All Ages",1,"Male",6762.6816
+1978,"phys_act_age_std",4659,"Morelos",1996,22,"All Ages",2,"Female",5371.8486
+1978,"phys_act_age_std",4660,"Nayarit",1996,22,"All Ages",1,"Male",6749.1606
+1978,"phys_act_age_std",4660,"Nayarit",1996,22,"All Ages",2,"Female",5371.3188
+1978,"phys_act_age_std",4661,"Nuevo León",1996,22,"All Ages",1,"Male",4892.8198
+1978,"phys_act_age_std",4661,"Nuevo León",1996,22,"All Ages",2,"Female",4100.8462
+1978,"phys_act_age_std",4662,"Oaxaca",1996,22,"All Ages",1,"Male",7654.2563
+1978,"phys_act_age_std",4662,"Oaxaca",1996,22,"All Ages",2,"Female",8643.2666
+1978,"phys_act_age_std",4663,"Puebla",1996,22,"All Ages",1,"Male",7052.1934
+1978,"phys_act_age_std",4663,"Puebla",1996,22,"All Ages",2,"Female",5751.9263
+1978,"phys_act_age_std",4664,"Querétaro",1996,22,"All Ages",1,"Male",7727.1201
+1978,"phys_act_age_std",4664,"Querétaro",1996,22,"All Ages",2,"Female",5753.9404
+1978,"phys_act_age_std",4665,"Quintana Roo",1996,22,"All Ages",1,"Male",6552.6006
+1978,"phys_act_age_std",4665,"Quintana Roo",1996,22,"All Ages",2,"Female",5210.4355
+1978,"phys_act_age_std",4666,"San Luis Potosí",1996,22,"All Ages",1,"Male",6600.708
+1978,"phys_act_age_std",4666,"San Luis Potosí",1996,22,"All Ages",2,"Female",5478.6406
+1978,"phys_act_age_std",4667,"Sinaloa",1996,22,"All Ages",1,"Male",6671.0771
+1978,"phys_act_age_std",4667,"Sinaloa",1996,22,"All Ages",2,"Female",5802.2065
+1978,"phys_act_age_std",4668,"Sonora",1996,22,"All Ages",1,"Male",6420.9082
+1978,"phys_act_age_std",4668,"Sonora",1996,22,"All Ages",2,"Female",6107.7622
+1978,"phys_act_age_std",4669,"Tabasco",1996,22,"All Ages",1,"Male",6528.5327
+1978,"phys_act_age_std",4669,"Tabasco",1996,22,"All Ages",2,"Female",5243.6611
+1978,"phys_act_age_std",4670,"Tamaulipas",1996,22,"All Ages",1,"Male",6404.2598
+1978,"phys_act_age_std",4670,"Tamaulipas",1996,22,"All Ages",2,"Female",4413.3613
+1978,"phys_act_age_std",4671,"Tlaxcala",1996,22,"All Ages",1,"Male",6986.2554
+1978,"phys_act_age_std",4671,"Tlaxcala",1996,22,"All Ages",2,"Female",6256.9521
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",1,"Male",6629.7119
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",2,"Female",5409.8037
+1978,"phys_act_age_std",4673,"Yucatán",1996,22,"All Ages",1,"Male",6295.0234
+1978,"phys_act_age_std",4673,"Yucatán",1996,22,"All Ages",2,"Female",5335.25
+1978,"phys_act_age_std",4674,"Zacatecas",1996,22,"All Ages",1,"Male",6707.8594
+1978,"phys_act_age_std",4674,"Zacatecas",1996,22,"All Ages",2,"Female",5396.7686
+1978,"phys_act_age_std",130,"Mexico",1997,22,"All Ages",1,"Male",6273.6738
+1978,"phys_act_age_std",130,"Mexico",1997,22,"All Ages",2,"Female",5422.187
+1978,"phys_act_age_std",4643,"Aguascalientes",1997,22,"All Ages",1,"Male",6662.9678
+1978,"phys_act_age_std",4643,"Aguascalientes",1997,22,"All Ages",2,"Female",6369.5889
+1978,"phys_act_age_std",4644,"Baja California",1997,22,"All Ages",1,"Male",6225.9624
+1978,"phys_act_age_std",4644,"Baja California",1997,22,"All Ages",2,"Female",5220.6943
+1978,"phys_act_age_std",4645,"Baja California Sur",1997,22,"All Ages",1,"Male",6441.0103
+1978,"phys_act_age_std",4645,"Baja California Sur",1997,22,"All Ages",2,"Female",5192.0962
+1978,"phys_act_age_std",4646,"Campeche",1997,22,"All Ages",1,"Male",6537.9561
+1978,"phys_act_age_std",4646,"Campeche",1997,22,"All Ages",2,"Female",5367.0088
+1978,"phys_act_age_std",4647,"Coahuila",1997,22,"All Ages",1,"Male",6395.728
+1978,"phys_act_age_std",4647,"Coahuila",1997,22,"All Ages",2,"Female",5017.5972
+1978,"phys_act_age_std",4648,"Colima",1997,22,"All Ages",1,"Male",6742.9277
+1978,"phys_act_age_std",4648,"Colima",1997,22,"All Ages",2,"Female",5346.4824
+1978,"phys_act_age_std",4649,"Chiapas",1997,22,"All Ages",1,"Male",7143.6064
+1978,"phys_act_age_std",4649,"Chiapas",1997,22,"All Ages",2,"Female",6417.9927
+1978,"phys_act_age_std",4650,"Chihuahua",1997,22,"All Ages",1,"Male",6686.3892
+1978,"phys_act_age_std",4650,"Chihuahua",1997,22,"All Ages",2,"Female",5421.8413
+1978,"phys_act_age_std",4651,"Mexico City",1997,22,"All Ages",1,"Male",3232.9714
+1978,"phys_act_age_std",4651,"Mexico City",1997,22,"All Ages",2,"Female",4339.0845
+1978,"phys_act_age_std",4652,"Durango",1997,22,"All Ages",1,"Male",6881.4604
+1978,"phys_act_age_std",4652,"Durango",1997,22,"All Ages",2,"Female",4730.5522
+1978,"phys_act_age_std",4653,"Guanajuato",1997,22,"All Ages",1,"Male",6809.1938
+1978,"phys_act_age_std",4653,"Guanajuato",1997,22,"All Ages",2,"Female",5070.2749
+1978,"phys_act_age_std",4654,"Guerrero",1997,22,"All Ages",1,"Male",7320.2593
+1978,"phys_act_age_std",4654,"Guerrero",1997,22,"All Ages",2,"Female",5575.2563
+1978,"phys_act_age_std",4655,"Hidalgo",1997,22,"All Ages",1,"Male",7407.2129
+1978,"phys_act_age_std",4655,"Hidalgo",1997,22,"All Ages",2,"Female",6711.9058
+1978,"phys_act_age_std",4656,"Jalisco",1997,22,"All Ages",1,"Male",6907.3799
+1978,"phys_act_age_std",4656,"Jalisco",1997,22,"All Ages",2,"Female",6245.6577
+1978,"phys_act_age_std",4657,"México",1997,22,"All Ages",1,"Male",6255.1958
+1978,"phys_act_age_std",4657,"México",1997,22,"All Ages",2,"Female",5447.0234
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1997,22,"All Ages",1,"Male",6635.0986
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1997,22,"All Ages",2,"Female",4436.2183
+1978,"phys_act_age_std",4659,"Morelos",1997,22,"All Ages",1,"Male",6756.4131
+1978,"phys_act_age_std",4659,"Morelos",1997,22,"All Ages",2,"Female",5363.4004
+1978,"phys_act_age_std",4660,"Nayarit",1997,22,"All Ages",1,"Male",6742.728
+1978,"phys_act_age_std",4660,"Nayarit",1997,22,"All Ages",2,"Female",5366.2002
+1978,"phys_act_age_std",4661,"Nuevo León",1997,22,"All Ages",1,"Male",4891.1191
+1978,"phys_act_age_std",4661,"Nuevo León",1997,22,"All Ages",2,"Female",4094.2759
+1978,"phys_act_age_std",4662,"Oaxaca",1997,22,"All Ages",1,"Male",7652.8081
+1978,"phys_act_age_std",4662,"Oaxaca",1997,22,"All Ages",2,"Female",8640.0635
+1978,"phys_act_age_std",4663,"Puebla",1997,22,"All Ages",1,"Male",7051.5249
+1978,"phys_act_age_std",4663,"Puebla",1997,22,"All Ages",2,"Female",5737.6885
+1978,"phys_act_age_std",4664,"Querétaro",1997,22,"All Ages",1,"Male",7723.6377
+1978,"phys_act_age_std",4664,"Querétaro",1997,22,"All Ages",2,"Female",5742.4614
+1978,"phys_act_age_std",4665,"Quintana Roo",1997,22,"All Ages",1,"Male",6549.1768
+1978,"phys_act_age_std",4665,"Quintana Roo",1997,22,"All Ages",2,"Female",5204.7617
+1978,"phys_act_age_std",4666,"San Luis Potosí",1997,22,"All Ages",1,"Male",6596.4971
+1978,"phys_act_age_std",4666,"San Luis Potosí",1997,22,"All Ages",2,"Female",5472.2339
+1978,"phys_act_age_std",4667,"Sinaloa",1997,22,"All Ages",1,"Male",6665.1528
+1978,"phys_act_age_std",4667,"Sinaloa",1997,22,"All Ages",2,"Female",5803.1821
+1978,"phys_act_age_std",4668,"Sonora",1997,22,"All Ages",1,"Male",6415.7285
+1978,"phys_act_age_std",4668,"Sonora",1997,22,"All Ages",2,"Female",6057.8159
+1978,"phys_act_age_std",4669,"Tabasco",1997,22,"All Ages",1,"Male",6523.4536
+1978,"phys_act_age_std",4669,"Tabasco",1997,22,"All Ages",2,"Female",5236.4614
+1978,"phys_act_age_std",4670,"Tamaulipas",1997,22,"All Ages",1,"Male",6400.1104
+1978,"phys_act_age_std",4670,"Tamaulipas",1997,22,"All Ages",2,"Female",4406.1299
+1978,"phys_act_age_std",4671,"Tlaxcala",1997,22,"All Ages",1,"Male",6983.4429
+1978,"phys_act_age_std",4671,"Tlaxcala",1997,22,"All Ages",2,"Female",6248.5659
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",1,"Male",6625.5576
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",2,"Female",5406.3457
+1978,"phys_act_age_std",4673,"Yucatán",1997,22,"All Ages",1,"Male",6291.4937
+1978,"phys_act_age_std",4673,"Yucatán",1997,22,"All Ages",2,"Female",5329.0298
+1978,"phys_act_age_std",4674,"Zacatecas",1997,22,"All Ages",1,"Male",6704.3115
+1978,"phys_act_age_std",4674,"Zacatecas",1997,22,"All Ages",2,"Female",5390.3472
+1978,"phys_act_age_std",130,"Mexico",1998,22,"All Ages",1,"Male",6274.5981
+1978,"phys_act_age_std",130,"Mexico",1998,22,"All Ages",2,"Female",5416.8647
+1978,"phys_act_age_std",4643,"Aguascalientes",1998,22,"All Ages",1,"Male",6659.1167
+1978,"phys_act_age_std",4643,"Aguascalientes",1998,22,"All Ages",2,"Female",6365.3936
+1978,"phys_act_age_std",4644,"Baja California",1998,22,"All Ages",1,"Male",6224.9873
+1978,"phys_act_age_std",4644,"Baja California",1998,22,"All Ages",2,"Female",5218.3125
+1978,"phys_act_age_std",4645,"Baja California Sur",1998,22,"All Ages",1,"Male",6438.522
+1978,"phys_act_age_std",4645,"Baja California Sur",1998,22,"All Ages",2,"Female",5187.2485
+1978,"phys_act_age_std",4646,"Campeche",1998,22,"All Ages",1,"Male",6535.418
+1978,"phys_act_age_std",4646,"Campeche",1998,22,"All Ages",2,"Female",5366.0029
+1978,"phys_act_age_std",4647,"Coahuila",1998,22,"All Ages",1,"Male",6392.9531
+1978,"phys_act_age_std",4647,"Coahuila",1998,22,"All Ages",2,"Female",5011.2773
+1978,"phys_act_age_std",4648,"Colima",1998,22,"All Ages",1,"Male",6736.9863
+1978,"phys_act_age_std",4648,"Colima",1998,22,"All Ages",2,"Female",5348.6934
+1978,"phys_act_age_std",4649,"Chiapas",1998,22,"All Ages",1,"Male",7141.0298
+1978,"phys_act_age_std",4649,"Chiapas",1998,22,"All Ages",2,"Female",6411.5972
+1978,"phys_act_age_std",4650,"Chihuahua",1998,22,"All Ages",1,"Male",6683.751
+1978,"phys_act_age_std",4650,"Chihuahua",1998,22,"All Ages",2,"Female",5419.2266
+1978,"phys_act_age_std",4651,"Mexico City",1998,22,"All Ages",1,"Male",3230.2451
+1978,"phys_act_age_std",4651,"Mexico City",1998,22,"All Ages",2,"Female",4328.4619
+1978,"phys_act_age_std",4652,"Durango",1998,22,"All Ages",1,"Male",6881.7788
+1978,"phys_act_age_std",4652,"Durango",1998,22,"All Ages",2,"Female",4732.7505
+1978,"phys_act_age_std",4653,"Guanajuato",1998,22,"All Ages",1,"Male",6807.4023
+1978,"phys_act_age_std",4653,"Guanajuato",1998,22,"All Ages",2,"Female",5062.8896
+1978,"phys_act_age_std",4654,"Guerrero",1998,22,"All Ages",1,"Male",7312.7144
+1978,"phys_act_age_std",4654,"Guerrero",1998,22,"All Ages",2,"Female",5575.0288
+1978,"phys_act_age_std",4655,"Hidalgo",1998,22,"All Ages",1,"Male",7403.9951
+1978,"phys_act_age_std",4655,"Hidalgo",1998,22,"All Ages",2,"Female",6706.6738
+1978,"phys_act_age_std",4656,"Jalisco",1998,22,"All Ages",1,"Male",6907.3472
+1978,"phys_act_age_std",4656,"Jalisco",1998,22,"All Ages",2,"Female",6239.6455
+1978,"phys_act_age_std",4657,"México",1998,22,"All Ages",1,"Male",6252.4619
+1978,"phys_act_age_std",4657,"México",1998,22,"All Ages",2,"Female",5441.8916
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1998,22,"All Ages",1,"Male",6629.8184
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1998,22,"All Ages",2,"Female",4441.271
+1978,"phys_act_age_std",4659,"Morelos",1998,22,"All Ages",1,"Male",6749.8794
+1978,"phys_act_age_std",4659,"Morelos",1998,22,"All Ages",2,"Female",5357.8784
+1978,"phys_act_age_std",4660,"Nayarit",1998,22,"All Ages",1,"Male",6736.5947
+1978,"phys_act_age_std",4660,"Nayarit",1998,22,"All Ages",2,"Female",5362.5947
+1978,"phys_act_age_std",4661,"Nuevo León",1998,22,"All Ages",1,"Male",4892.1108
+1978,"phys_act_age_std",4661,"Nuevo León",1998,22,"All Ages",2,"Female",4088.5369
+1978,"phys_act_age_std",4662,"Oaxaca",1998,22,"All Ages",1,"Male",7651.1641
+1978,"phys_act_age_std",4662,"Oaxaca",1998,22,"All Ages",2,"Female",8635.1191
+1978,"phys_act_age_std",4663,"Puebla",1998,22,"All Ages",1,"Male",7051.1299
+1978,"phys_act_age_std",4663,"Puebla",1998,22,"All Ages",2,"Female",5726.1426
+1978,"phys_act_age_std",4664,"Querétaro",1998,22,"All Ages",1,"Male",7718.5264
+1978,"phys_act_age_std",4664,"Querétaro",1998,22,"All Ages",2,"Female",5732.5801
+1978,"phys_act_age_std",4665,"Quintana Roo",1998,22,"All Ages",1,"Male",6545.9707
+1978,"phys_act_age_std",4665,"Quintana Roo",1998,22,"All Ages",2,"Female",5201.0522
+1978,"phys_act_age_std",4666,"San Luis Potosí",1998,22,"All Ages",1,"Male",6592.5303
+1978,"phys_act_age_std",4666,"San Luis Potosí",1998,22,"All Ages",2,"Female",5468.4219
+1978,"phys_act_age_std",4667,"Sinaloa",1998,22,"All Ages",1,"Male",6660.4956
+1978,"phys_act_age_std",4667,"Sinaloa",1998,22,"All Ages",2,"Female",5804.1543
+1978,"phys_act_age_std",4668,"Sonora",1998,22,"All Ages",1,"Male",6411.7969
+1978,"phys_act_age_std",4668,"Sonora",1998,22,"All Ages",2,"Female",6008.915
+1978,"phys_act_age_std",4669,"Tabasco",1998,22,"All Ages",1,"Male",6518.6772
+1978,"phys_act_age_std",4669,"Tabasco",1998,22,"All Ages",2,"Female",5231.1309
+1978,"phys_act_age_std",4670,"Tamaulipas",1998,22,"All Ages",1,"Male",6397.3623
+1978,"phys_act_age_std",4670,"Tamaulipas",1998,22,"All Ages",2,"Female",4400.1519
+1978,"phys_act_age_std",4671,"Tlaxcala",1998,22,"All Ages",1,"Male",6980.8862
+1978,"phys_act_age_std",4671,"Tlaxcala",1998,22,"All Ages",2,"Female",6241.7568
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",1,"Male",6622.0317
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",2,"Female",5404.6313
+1978,"phys_act_age_std",4673,"Yucatán",1998,22,"All Ages",1,"Male",6289.1841
+1978,"phys_act_age_std",4673,"Yucatán",1998,22,"All Ages",2,"Female",5325.6177
+1978,"phys_act_age_std",4674,"Zacatecas",1998,22,"All Ages",1,"Male",6701.1792
+1978,"phys_act_age_std",4674,"Zacatecas",1998,22,"All Ages",2,"Female",5385.7979
+1978,"phys_act_age_std",130,"Mexico",1999,22,"All Ages",1,"Male",6276.6274
+1978,"phys_act_age_std",130,"Mexico",1999,22,"All Ages",2,"Female",5413.1763
+1978,"phys_act_age_std",4643,"Aguascalientes",1999,22,"All Ages",1,"Male",6655.3989
+1978,"phys_act_age_std",4643,"Aguascalientes",1999,22,"All Ages",2,"Female",6362.0762
+1978,"phys_act_age_std",4644,"Baja California",1999,22,"All Ages",1,"Male",6225.0166
+1978,"phys_act_age_std",4644,"Baja California",1999,22,"All Ages",2,"Female",5217.3535
+1978,"phys_act_age_std",4645,"Baja California Sur",1999,22,"All Ages",1,"Male",6436.7041
+1978,"phys_act_age_std",4645,"Baja California Sur",1999,22,"All Ages",2,"Female",5184.1743
+1978,"phys_act_age_std",4646,"Campeche",1999,22,"All Ages",1,"Male",6533.7695
+1978,"phys_act_age_std",4646,"Campeche",1999,22,"All Ages",2,"Female",5366.8691
+1978,"phys_act_age_std",4647,"Coahuila",1999,22,"All Ages",1,"Male",6391.6377
+1978,"phys_act_age_std",4647,"Coahuila",1999,22,"All Ages",2,"Female",5008.165
+1978,"phys_act_age_std",4648,"Colima",1999,22,"All Ages",1,"Male",6732.8223
+1978,"phys_act_age_std",4648,"Colima",1999,22,"All Ages",2,"Female",5352.4468
+1978,"phys_act_age_std",4649,"Chiapas",1999,22,"All Ages",1,"Male",7139.3892
+1978,"phys_act_age_std",4649,"Chiapas",1999,22,"All Ages",2,"Female",6407.0679
+1978,"phys_act_age_std",4650,"Chihuahua",1999,22,"All Ages",1,"Male",6680.8086
+1978,"phys_act_age_std",4650,"Chihuahua",1999,22,"All Ages",2,"Female",5419.9175
+1978,"phys_act_age_std",4651,"Mexico City",1999,22,"All Ages",1,"Male",3230.4734
+1978,"phys_act_age_std",4651,"Mexico City",1999,22,"All Ages",2,"Female",4317.7002
+1978,"phys_act_age_std",4652,"Durango",1999,22,"All Ages",1,"Male",6882.3276
+1978,"phys_act_age_std",4652,"Durango",1999,22,"All Ages",2,"Female",4737.4019
+1978,"phys_act_age_std",4653,"Guanajuato",1999,22,"All Ages",1,"Male",6805.7178
+1978,"phys_act_age_std",4653,"Guanajuato",1999,22,"All Ages",2,"Female",5056.9497
+1978,"phys_act_age_std",4654,"Guerrero",1999,22,"All Ages",1,"Male",7305.8569
+1978,"phys_act_age_std",4654,"Guerrero",1999,22,"All Ages",2,"Female",5577.1128
+1978,"phys_act_age_std",4655,"Hidalgo",1999,22,"All Ages",1,"Male",7401.6333
+1978,"phys_act_age_std",4655,"Hidalgo",1999,22,"All Ages",2,"Female",6700.8604
+1978,"phys_act_age_std",4656,"Jalisco",1999,22,"All Ages",1,"Male",6908.7891
+1978,"phys_act_age_std",4656,"Jalisco",1999,22,"All Ages",2,"Female",6234.2568
+1978,"phys_act_age_std",4657,"México",1999,22,"All Ages",1,"Male",6250.2246
+1978,"phys_act_age_std",4657,"México",1999,22,"All Ages",2,"Female",5439.23
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1999,22,"All Ages",1,"Male",6626.8701
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",1999,22,"All Ages",2,"Female",4446.2515
+1978,"phys_act_age_std",4659,"Morelos",1999,22,"All Ages",1,"Male",6743.1704
+1978,"phys_act_age_std",4659,"Morelos",1999,22,"All Ages",2,"Female",5355.79
+1978,"phys_act_age_std",4660,"Nayarit",1999,22,"All Ages",1,"Male",6730.8325
+1978,"phys_act_age_std",4660,"Nayarit",1999,22,"All Ages",2,"Female",5360.8242
+1978,"phys_act_age_std",4661,"Nuevo León",1999,22,"All Ages",1,"Male",4896.1069
+1978,"phys_act_age_std",4661,"Nuevo León",1999,22,"All Ages",2,"Female",4083.9958
+1978,"phys_act_age_std",4662,"Oaxaca",1999,22,"All Ages",1,"Male",7649.3149
+1978,"phys_act_age_std",4662,"Oaxaca",1999,22,"All Ages",2,"Female",8628.291
+1978,"phys_act_age_std",4663,"Puebla",1999,22,"All Ages",1,"Male",7051.0278
+1978,"phys_act_age_std",4663,"Puebla",1999,22,"All Ages",2,"Female",5717.9272
+1978,"phys_act_age_std",4664,"Querétaro",1999,22,"All Ages",1,"Male",7711.7319
+1978,"phys_act_age_std",4664,"Querétaro",1999,22,"All Ages",2,"Female",5724.7188
+1978,"phys_act_age_std",4665,"Quintana Roo",1999,22,"All Ages",1,"Male",6543.0088
+1978,"phys_act_age_std",4665,"Quintana Roo",1999,22,"All Ages",2,"Female",5199.6226
+1978,"phys_act_age_std",4666,"San Luis Potosí",1999,22,"All Ages",1,"Male",6588.8462
+1978,"phys_act_age_std",4666,"San Luis Potosí",1999,22,"All Ages",2,"Female",5467.6108
+1978,"phys_act_age_std",4667,"Sinaloa",1999,22,"All Ages",1,"Male",6657.3623
+1978,"phys_act_age_std",4667,"Sinaloa",1999,22,"All Ages",2,"Female",5805.1646
+1978,"phys_act_age_std",4668,"Sonora",1999,22,"All Ages",1,"Male",6409.3022
+1978,"phys_act_age_std",4668,"Sonora",1999,22,"All Ages",2,"Female",5961.8389
+1978,"phys_act_age_std",4669,"Tabasco",1999,22,"All Ages",1,"Male",6514.2871
+1978,"phys_act_age_std",4669,"Tabasco",1999,22,"All Ages",2,"Female",5228.0142
+1978,"phys_act_age_std",4670,"Tamaulipas",1999,22,"All Ages",1,"Male",6396.2754
+1978,"phys_act_age_std",4670,"Tamaulipas",1999,22,"All Ages",2,"Female",4395.7373
+1978,"phys_act_age_std",4671,"Tlaxcala",1999,22,"All Ages",1,"Male",6978.6226
+1978,"phys_act_age_std",4671,"Tlaxcala",1999,22,"All Ages",2,"Female",6236.9536
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",1,"Male",6619.1348
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",2,"Female",5404.8052
+1978,"phys_act_age_std",4673,"Yucatán",1999,22,"All Ages",1,"Male",6288.3398
+1978,"phys_act_age_std",4673,"Yucatán",1999,22,"All Ages",2,"Female",5325.5283
+1978,"phys_act_age_std",4674,"Zacatecas",1999,22,"All Ages",1,"Male",6698.481
+1978,"phys_act_age_std",4674,"Zacatecas",1999,22,"All Ages",2,"Female",5383.5088
+1978,"phys_act_age_std",130,"Mexico",2000,22,"All Ages",1,"Male",6279.9351
+1978,"phys_act_age_std",130,"Mexico",2000,22,"All Ages",2,"Female",5411.4712
+1978,"phys_act_age_std",4643,"Aguascalientes",2000,22,"All Ages",1,"Male",6651.9438
+1978,"phys_act_age_std",4643,"Aguascalientes",2000,22,"All Ages",2,"Female",6359.7725
+1978,"phys_act_age_std",4644,"Baja California",2000,22,"All Ages",1,"Male",6226.2305
+1978,"phys_act_age_std",4644,"Baja California",2000,22,"All Ages",2,"Female",5218.0464
+1978,"phys_act_age_std",4645,"Baja California Sur",2000,22,"All Ages",1,"Male",6435.7593
+1978,"phys_act_age_std",4645,"Baja California Sur",2000,22,"All Ages",2,"Female",5183.1533
+1978,"phys_act_age_std",4646,"Campeche",2000,22,"All Ages",1,"Male",6533.1113
+1978,"phys_act_age_std",4646,"Campeche",2000,22,"All Ages",2,"Female",5369.8008
+1978,"phys_act_age_std",4647,"Coahuila",2000,22,"All Ages",1,"Male",6392.0562
+1978,"phys_act_age_std",4647,"Coahuila",2000,22,"All Ages",2,"Female",5008.8418
+1978,"phys_act_age_std",4648,"Colima",2000,22,"All Ages",1,"Male",6730.7539
+1978,"phys_act_age_std",4648,"Colima",2000,22,"All Ages",2,"Female",5357.9116
+1978,"phys_act_age_std",4649,"Chiapas",2000,22,"All Ages",1,"Male",7138.8374
+1978,"phys_act_age_std",4649,"Chiapas",2000,22,"All Ages",2,"Female",6404.8042
+1978,"phys_act_age_std",4650,"Chihuahua",2000,22,"All Ages",1,"Male",6677.5527
+1978,"phys_act_age_std",4650,"Chihuahua",2000,22,"All Ages",2,"Female",5424.5215
+1978,"phys_act_age_std",4651,"Mexico City",2000,22,"All Ages",1,"Male",3234.0999
+1978,"phys_act_age_std",4651,"Mexico City",2000,22,"All Ages",2,"Female",4306.9937
+1978,"phys_act_age_std",4652,"Durango",2000,22,"All Ages",1,"Male",6883.1689
+1978,"phys_act_age_std",4652,"Durango",2000,22,"All Ages",2,"Female",4744.6523
+1978,"phys_act_age_std",4653,"Guanajuato",2000,22,"All Ages",1,"Male",6804.1333
+1978,"phys_act_age_std",4653,"Guanajuato",2000,22,"All Ages",2,"Female",5052.9097
+1978,"phys_act_age_std",4654,"Guerrero",2000,22,"All Ages",1,"Male",7299.9258
+1978,"phys_act_age_std",4654,"Guerrero",2000,22,"All Ages",2,"Female",5581.7964
+1978,"phys_act_age_std",4655,"Hidalgo",2000,22,"All Ages",1,"Male",7400.3496
+1978,"phys_act_age_std",4655,"Hidalgo",2000,22,"All Ages",2,"Female",6694.4468
+1978,"phys_act_age_std",4656,"Jalisco",2000,22,"All Ages",1,"Male",6911.9204
+1978,"phys_act_age_std",4656,"Jalisco",2000,22,"All Ages",2,"Female",6229.8047
+1978,"phys_act_age_std",4657,"México",2000,22,"All Ages",1,"Male",6248.5439
+1978,"phys_act_age_std",4657,"México",2000,22,"All Ages",2,"Female",5439.4956
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2000,22,"All Ages",1,"Male",6626.5571
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2000,22,"All Ages",2,"Female",4451.0542
+1978,"phys_act_age_std",4659,"Morelos",2000,22,"All Ages",1,"Male",6736.394
+1978,"phys_act_age_std",4659,"Morelos",2000,22,"All Ages",2,"Female",5357.7095
+1978,"phys_act_age_std",4660,"Nayarit",2000,22,"All Ages",1,"Male",6725.5229
+1978,"phys_act_age_std",4660,"Nayarit",2000,22,"All Ages",2,"Female",5361.2549
+1978,"phys_act_age_std",4661,"Nuevo León",2000,22,"All Ages",1,"Male",4903.4546
+1978,"phys_act_age_std",4661,"Nuevo León",2000,22,"All Ages",2,"Female",4081.0811
+1978,"phys_act_age_std",4662,"Oaxaca",2000,22,"All Ages",1,"Male",7647.2524
+1978,"phys_act_age_std",4662,"Oaxaca",2000,22,"All Ages",2,"Female",8619.4248
+1978,"phys_act_age_std",4663,"Puebla",2000,22,"All Ages",1,"Male",7051.2397
+1978,"phys_act_age_std",4663,"Puebla",2000,22,"All Ages",2,"Female",5713.7759
+1978,"phys_act_age_std",4664,"Querétaro",2000,22,"All Ages",1,"Male",7703.2061
+1978,"phys_act_age_std",4664,"Querétaro",2000,22,"All Ages",2,"Female",5719.3647
+1978,"phys_act_age_std",4665,"Quintana Roo",2000,22,"All Ages",1,"Male",6540.3188
+1978,"phys_act_age_std",4665,"Quintana Roo",2000,22,"All Ages",2,"Female",5200.8296
+1978,"phys_act_age_std",4666,"San Luis Potosí",2000,22,"All Ages",1,"Male",6585.4878
+1978,"phys_act_age_std",4666,"San Luis Potosí",2000,22,"All Ages",2,"Female",5470.2583
+1978,"phys_act_age_std",4667,"Sinaloa",2000,22,"All Ages",1,"Male",6656.0483
+1978,"phys_act_age_std",4667,"Sinaloa",2000,22,"All Ages",2,"Female",5806.2617
+1978,"phys_act_age_std",4668,"Sonora",2000,22,"All Ages",1,"Male",6408.457
+1978,"phys_act_age_std",4668,"Sonora",2000,22,"All Ages",2,"Female",5917.4995
+1978,"phys_act_age_std",4669,"Tabasco",2000,22,"All Ages",1,"Male",6510.3828
+1978,"phys_act_age_std",4669,"Tabasco",2000,22,"All Ages",2,"Female",5227.5024
+1978,"phys_act_age_std",4670,"Tamaulipas",2000,22,"All Ages",1,"Male",6397.144
+1978,"phys_act_age_std",4670,"Tamaulipas",2000,22,"All Ages",2,"Female",4393.2451
+1978,"phys_act_age_std",4671,"Tlaxcala",2000,22,"All Ages",1,"Male",6976.6924
+1978,"phys_act_age_std",4671,"Tlaxcala",2000,22,"All Ages",2,"Female",6234.6489
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",1,"Male",6616.8594
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",2,"Female",5407.0239
+1978,"phys_act_age_std",4673,"Yucatán",2000,22,"All Ages",1,"Male",6289.2402
+1978,"phys_act_age_std",4673,"Yucatán",2000,22,"All Ages",2,"Female",5329.3467
+1978,"phys_act_age_std",4674,"Zacatecas",2000,22,"All Ages",1,"Male",6696.2363
+1978,"phys_act_age_std",4674,"Zacatecas",2000,22,"All Ages",2,"Female",5383.9243
+1978,"phys_act_age_std",130,"Mexico",2001,22,"All Ages",1,"Male",6286.8335
+1978,"phys_act_age_std",130,"Mexico",2001,22,"All Ages",2,"Female",5414.7695
+1978,"phys_act_age_std",4643,"Aguascalientes",2001,22,"All Ages",1,"Male",6651.3672
+1978,"phys_act_age_std",4643,"Aguascalientes",2001,22,"All Ages",2,"Female",6361.3149
+1978,"phys_act_age_std",4644,"Baja California",2001,22,"All Ages",1,"Male",6230.6597
+1978,"phys_act_age_std",4644,"Baja California",2001,22,"All Ages",2,"Female",5223.0059
+1978,"phys_act_age_std",4645,"Baja California Sur",2001,22,"All Ages",1,"Male",6437.9048
+1978,"phys_act_age_std",4645,"Baja California Sur",2001,22,"All Ages",2,"Female",5187.3594
+1978,"phys_act_age_std",4646,"Campeche",2001,22,"All Ages",1,"Male",6535.7148
+1978,"phys_act_age_std",4646,"Campeche",2001,22,"All Ages",2,"Female",5377.1777
+1978,"phys_act_age_std",4647,"Coahuila",2001,22,"All Ages",1,"Male",6396.0596
+1978,"phys_act_age_std",4647,"Coahuila",2001,22,"All Ages",2,"Female",5015.7974
+1978,"phys_act_age_std",4648,"Colima",2001,22,"All Ages",1,"Male",6732.8823
+1978,"phys_act_age_std",4648,"Colima",2001,22,"All Ages",2,"Female",5367.4736
+1978,"phys_act_age_std",4649,"Chiapas",2001,22,"All Ages",1,"Male",7141.854
+1978,"phys_act_age_std",4649,"Chiapas",2001,22,"All Ages",2,"Female",6407.7417
+1978,"phys_act_age_std",4650,"Chihuahua",2001,22,"All Ages",1,"Male",6676.5664
+1978,"phys_act_age_std",4650,"Chihuahua",2001,22,"All Ages",2,"Female",5434.812
+1978,"phys_act_age_std",4651,"Mexico City",2001,22,"All Ages",1,"Male",3242.4387
+1978,"phys_act_age_std",4651,"Mexico City",2001,22,"All Ages",2,"Female",4301.0029
+1978,"phys_act_age_std",4652,"Durango",2001,22,"All Ages",1,"Male",6886.6357
+1978,"phys_act_age_std",4652,"Durango",2001,22,"All Ages",2,"Female",4755.3755
+1978,"phys_act_age_std",4653,"Guanajuato",2001,22,"All Ages",1,"Male",6804.8481
+1978,"phys_act_age_std",4653,"Guanajuato",2001,22,"All Ages",2,"Female",5054.7202
+1978,"phys_act_age_std",4654,"Guerrero",2001,22,"All Ages",1,"Male",7297.5381
+1978,"phys_act_age_std",4654,"Guerrero",2001,22,"All Ages",2,"Female",5591.499
+1978,"phys_act_age_std",4655,"Hidalgo",2001,22,"All Ages",1,"Male",7402.7334
+1978,"phys_act_age_std",4655,"Hidalgo",2001,22,"All Ages",2,"Female",6691.4927
+1978,"phys_act_age_std",4656,"Jalisco",2001,22,"All Ages",1,"Male",6918.2627
+1978,"phys_act_age_std",4656,"Jalisco",2001,22,"All Ages",2,"Female",6230.1763
+1978,"phys_act_age_std",4657,"México",2001,22,"All Ages",1,"Male",6250.1431
+1978,"phys_act_age_std",4657,"México",2001,22,"All Ages",2,"Female",5445.397
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2001,22,"All Ages",1,"Male",6630.5635
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2001,22,"All Ages",2,"Female",4455.144
+1978,"phys_act_age_std",4659,"Morelos",2001,22,"All Ages",1,"Male",6732.873
+1978,"phys_act_age_std",4659,"Morelos",2001,22,"All Ages",2,"Female",5365.9097
+1978,"phys_act_age_std",4660,"Nayarit",2001,22,"All Ages",1,"Male",6723.8193
+1978,"phys_act_age_std",4660,"Nayarit",2001,22,"All Ages",2,"Female",5366.7476
+1978,"phys_act_age_std",4661,"Nuevo León",2001,22,"All Ages",1,"Male",4915.6548
+1978,"phys_act_age_std",4661,"Nuevo León",2001,22,"All Ages",2,"Female",4082.1514
+1978,"phys_act_age_std",4662,"Oaxaca",2001,22,"All Ages",1,"Male",7647.875
+1978,"phys_act_age_std",4662,"Oaxaca",2001,22,"All Ages",2,"Female",8611.1699
+1978,"phys_act_age_std",4663,"Puebla",2001,22,"All Ages",1,"Male",7054.1763
+1978,"phys_act_age_std",4663,"Puebla",2001,22,"All Ages",2,"Female",5716.7349
+1978,"phys_act_age_std",4664,"Querétaro",2001,22,"All Ages",1,"Male",7696.3521
+1978,"phys_act_age_std",4664,"Querétaro",2001,22,"All Ages",2,"Female",5720.0806
+1978,"phys_act_age_std",4665,"Quintana Roo",2001,22,"All Ages",1,"Male",6540.3306
+1978,"phys_act_age_std",4665,"Quintana Roo",2001,22,"All Ages",2,"Female",5207.4487
+1978,"phys_act_age_std",4666,"San Luis Potosí",2001,22,"All Ages",1,"Male",6585.3945
+1978,"phys_act_age_std",4666,"San Luis Potosí",2001,22,"All Ages",2,"Female",5478.5103
+1978,"phys_act_age_std",4667,"Sinaloa",2001,22,"All Ages",1,"Male",6659.4326
+1978,"phys_act_age_std",4667,"Sinaloa",2001,22,"All Ages",2,"Female",5810.5664
+1978,"phys_act_age_std",4668,"Sonora",2001,22,"All Ages",1,"Male",6411.5732
+1978,"phys_act_age_std",4668,"Sonora",2001,22,"All Ages",2,"Female",5881.8867
+1978,"phys_act_age_std",4669,"Tabasco",2001,22,"All Ages",1,"Male",6509.4536
+1978,"phys_act_age_std",4669,"Tabasco",2001,22,"All Ages",2,"Female",5232.4199
+1978,"phys_act_age_std",4670,"Tamaulipas",2001,22,"All Ages",1,"Male",6401.7637
+1978,"phys_act_age_std",4670,"Tamaulipas",2001,22,"All Ages",2,"Female",4395.8042
+1978,"phys_act_age_std",4671,"Tlaxcala",2001,22,"All Ages",1,"Male",6977.9189
+1978,"phys_act_age_std",4671,"Tlaxcala",2001,22,"All Ages",2,"Female",6238.0195
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",1,"Male",6618.0264
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",2,"Female",5413.7817
+1978,"phys_act_age_std",4673,"Yucatán",2001,22,"All Ages",1,"Male",6293.7798
+1978,"phys_act_age_std",4673,"Yucatán",2001,22,"All Ages",2,"Female",5339.3213
+1978,"phys_act_age_std",4674,"Zacatecas",2001,22,"All Ages",1,"Male",6697.2119
+1978,"phys_act_age_std",4674,"Zacatecas",2001,22,"All Ages",2,"Female",5389.7407
+1978,"phys_act_age_std",130,"Mexico",2002,22,"All Ages",1,"Male",6296.5542
+1978,"phys_act_age_std",130,"Mexico",2002,22,"All Ages",2,"Female",5421.6865
+1978,"phys_act_age_std",4643,"Aguascalientes",2002,22,"All Ages",1,"Male",6653.5493
+1978,"phys_act_age_std",4643,"Aguascalientes",2002,22,"All Ages",2,"Female",6366.1841
+1978,"phys_act_age_std",4644,"Baja California",2002,22,"All Ages",1,"Male",6237.5469
+1978,"phys_act_age_std",4644,"Baja California",2002,22,"All Ages",2,"Female",5231.1929
+1978,"phys_act_age_std",4645,"Baja California Sur",2002,22,"All Ages",1,"Male",6442.5293
+1978,"phys_act_age_std",4645,"Baja California Sur",2002,22,"All Ages",2,"Female",5195.5039
+1978,"phys_act_age_std",4646,"Campeche",2002,22,"All Ages",1,"Male",6541.0845
+1978,"phys_act_age_std",4646,"Campeche",2002,22,"All Ages",2,"Female",5387.7778
+1978,"phys_act_age_std",4647,"Coahuila",2002,22,"All Ages",1,"Male",6402.4189
+1978,"phys_act_age_std",4647,"Coahuila",2002,22,"All Ages",2,"Female",5026.2373
+1978,"phys_act_age_std",4648,"Colima",2002,22,"All Ages",1,"Male",6737.7344
+1978,"phys_act_age_std",4648,"Colima",2002,22,"All Ages",2,"Female",5380.145
+1978,"phys_act_age_std",4649,"Chiapas",2002,22,"All Ages",1,"Male",7147.8198
+1978,"phys_act_age_std",4649,"Chiapas",2002,22,"All Ages",2,"Female",6414.2524
+1978,"phys_act_age_std",4650,"Chihuahua",2002,22,"All Ages",1,"Male",6678.2676
+1978,"phys_act_age_std",4650,"Chihuahua",2002,22,"All Ages",2,"Female",5447.8169
+1978,"phys_act_age_std",4651,"Mexico City",2002,22,"All Ages",1,"Male",3253.0322
+1978,"phys_act_age_std",4651,"Mexico City",2002,22,"All Ages",2,"Female",4299.7983
+1978,"phys_act_age_std",4652,"Durango",2002,22,"All Ages",1,"Male",6892.6782
+1978,"phys_act_age_std",4652,"Durango",2002,22,"All Ages",2,"Female",4768.0034
+1978,"phys_act_age_std",4653,"Guanajuato",2002,22,"All Ages",1,"Male",6808.0205
+1978,"phys_act_age_std",4653,"Guanajuato",2002,22,"All Ages",2,"Female",5060.9521
+1978,"phys_act_age_std",4654,"Guerrero",2002,22,"All Ages",1,"Male",7298.0332
+1978,"phys_act_age_std",4654,"Guerrero",2002,22,"All Ages",2,"Female",5604.5566
+1978,"phys_act_age_std",4655,"Hidalgo",2002,22,"All Ages",1,"Male",7408.0659
+1978,"phys_act_age_std",4655,"Hidalgo",2002,22,"All Ages",2,"Female",6692.7241
+1978,"phys_act_age_std",4656,"Jalisco",2002,22,"All Ages",1,"Male",6926.6841
+1978,"phys_act_age_std",4656,"Jalisco",2002,22,"All Ages",2,"Female",6234.6958
+1978,"phys_act_age_std",4657,"México",2002,22,"All Ages",1,"Male",6254.8691
+1978,"phys_act_age_std",4657,"México",2002,22,"All Ages",2,"Female",5454.833
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2002,22,"All Ages",1,"Male",6637.1123
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2002,22,"All Ages",2,"Female",4458.7446
+1978,"phys_act_age_std",4659,"Morelos",2002,22,"All Ages",1,"Male",6732.7642
+1978,"phys_act_age_std",4659,"Morelos",2002,22,"All Ages",2,"Female",5377.4692
+1978,"phys_act_age_std",4660,"Nayarit",2002,22,"All Ages",1,"Male",6725.6274
+1978,"phys_act_age_std",4660,"Nayarit",2002,22,"All Ages",2,"Female",5375.7588
+1978,"phys_act_age_std",4661,"Nuevo León",2002,22,"All Ages",1,"Male",4930.4556
+1978,"phys_act_age_std",4661,"Nuevo León",2002,22,"All Ages",2,"Female",4085.8242
+1978,"phys_act_age_std",4662,"Oaxaca",2002,22,"All Ages",1,"Male",7651.5757
+1978,"phys_act_age_std",4662,"Oaxaca",2002,22,"All Ages",2,"Female",8605.123
+1978,"phys_act_age_std",4663,"Puebla",2002,22,"All Ages",1,"Male",7059.8535
+1978,"phys_act_age_std",4663,"Puebla",2002,22,"All Ages",2,"Female",5723.6577
+1978,"phys_act_age_std",4664,"Querétaro",2002,22,"All Ages",1,"Male",7692.4966
+1978,"phys_act_age_std",4664,"Querétaro",2002,22,"All Ages",2,"Female",5725.02
+1978,"phys_act_age_std",4665,"Quintana Roo",2002,22,"All Ages",1,"Male",6543.0708
+1978,"phys_act_age_std",4665,"Quintana Roo",2002,22,"All Ages",2,"Female",5217.7109
+1978,"phys_act_age_std",4666,"San Luis Potosí",2002,22,"All Ages",1,"Male",6588.5859
+1978,"phys_act_age_std",4666,"San Luis Potosí",2002,22,"All Ages",2,"Female",5489.9258
+1978,"phys_act_age_std",4667,"Sinaloa",2002,22,"All Ages",1,"Male",6666.3003
+1978,"phys_act_age_std",4667,"Sinaloa",2002,22,"All Ages",2,"Female",5818.2305
+1978,"phys_act_age_std",4668,"Sonora",2002,22,"All Ages",1,"Male",6417.6147
+1978,"phys_act_age_std",4668,"Sonora",2002,22,"All Ages",2,"Female",5852.541
+1978,"phys_act_age_std",4669,"Tabasco",2002,22,"All Ages",1,"Male",6511.3013
+1978,"phys_act_age_std",4669,"Tabasco",2002,22,"All Ages",2,"Female",5240.9619
+1978,"phys_act_age_std",4670,"Tamaulipas",2002,22,"All Ages",1,"Male",6408.7476
+1978,"phys_act_age_std",4670,"Tamaulipas",2002,22,"All Ages",2,"Female",4402.061
+1978,"phys_act_age_std",4671,"Tlaxcala",2002,22,"All Ages",1,"Male",6982.312
+1978,"phys_act_age_std",4671,"Tlaxcala",2002,22,"All Ages",2,"Female",6245.1787
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",1,"Male",6622.5679
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",2,"Female",5423.9414
+1978,"phys_act_age_std",4673,"Yucatán",2002,22,"All Ages",1,"Male",6300.7188
+1978,"phys_act_age_std",4673,"Yucatán",2002,22,"All Ages",2,"Female",5352.5659
+1978,"phys_act_age_std",4674,"Zacatecas",2002,22,"All Ages",1,"Male",6701.3848
+1978,"phys_act_age_std",4674,"Zacatecas",2002,22,"All Ages",2,"Female",5398.9995
+1978,"phys_act_age_std",130,"Mexico",2003,22,"All Ages",1,"Male",6309.2788
+1978,"phys_act_age_std",130,"Mexico",2003,22,"All Ages",2,"Female",5432.4546
+1978,"phys_act_age_std",4643,"Aguascalientes",2003,22,"All Ages",1,"Male",6658.7471
+1978,"phys_act_age_std",4643,"Aguascalientes",2003,22,"All Ages",2,"Female",6374.623
+1978,"phys_act_age_std",4644,"Baja California",2003,22,"All Ages",1,"Male",6247.0518
+1978,"phys_act_age_std",4644,"Baja California",2003,22,"All Ages",2,"Female",5242.8062
+1978,"phys_act_age_std",4645,"Baja California Sur",2003,22,"All Ages",1,"Male",6449.8262
+1978,"phys_act_age_std",4645,"Baja California Sur",2003,22,"All Ages",2,"Female",5207.8271
+1978,"phys_act_age_std",4646,"Campeche",2003,22,"All Ages",1,"Male",6549.4067
+1978,"phys_act_age_std",4646,"Campeche",2003,22,"All Ages",2,"Female",5401.7544
+1978,"phys_act_age_std",4647,"Coahuila",2003,22,"All Ages",1,"Male",6411.2578
+1978,"phys_act_age_std",4647,"Coahuila",2003,22,"All Ages",2,"Female",5040.2739
+1978,"phys_act_age_std",4648,"Colima",2003,22,"All Ages",1,"Male",6745.4443
+1978,"phys_act_age_std",4648,"Colima",2003,22,"All Ages",2,"Female",5396.0947
+1978,"phys_act_age_std",4649,"Chiapas",2003,22,"All Ages",1,"Male",7156.9409
+1978,"phys_act_age_std",4649,"Chiapas",2003,22,"All Ages",2,"Female",6424.5513
+1978,"phys_act_age_std",4650,"Chihuahua",2003,22,"All Ages",1,"Male",6682.9272
+1978,"phys_act_age_std",4650,"Chihuahua",2003,22,"All Ages",2,"Female",5463.5742
+1978,"phys_act_age_std",4651,"Mexico City",2003,22,"All Ages",1,"Male",3265.8843
+1978,"phys_act_age_std",4651,"Mexico City",2003,22,"All Ages",2,"Female",4303.854
+1978,"phys_act_age_std",4652,"Durango",2003,22,"All Ages",1,"Male",6901.519
+1978,"phys_act_age_std",4652,"Durango",2003,22,"All Ages",2,"Female",4782.5112
+1978,"phys_act_age_std",4653,"Guanajuato",2003,22,"All Ages",1,"Male",6813.8628
+1978,"phys_act_age_std",4653,"Guanajuato",2003,22,"All Ages",2,"Female",5071.9419
+1978,"phys_act_age_std",4654,"Guerrero",2003,22,"All Ages",1,"Male",7301.6445
+1978,"phys_act_age_std",4654,"Guerrero",2003,22,"All Ages",2,"Female",5621.1084
+1978,"phys_act_age_std",4655,"Hidalgo",2003,22,"All Ages",1,"Male",7416.5703
+1978,"phys_act_age_std",4655,"Hidalgo",2003,22,"All Ages",2,"Female",6698.5708
+1978,"phys_act_age_std",4656,"Jalisco",2003,22,"All Ages",1,"Male",6937.2715
+1978,"phys_act_age_std",4656,"Jalisco",2003,22,"All Ages",2,"Female",6243.7271
+1978,"phys_act_age_std",4657,"México",2003,22,"All Ages",1,"Male",6262.9697
+1978,"phys_act_age_std",4657,"México",2003,22,"All Ages",2,"Female",5467.9697
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2003,22,"All Ages",1,"Male",6646.27
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2003,22,"All Ages",2,"Female",4461.8022
+1978,"phys_act_age_std",4659,"Morelos",2003,22,"All Ages",1,"Male",6736.4082
+1978,"phys_act_age_std",4659,"Morelos",2003,22,"All Ages",2,"Female",5392.4683
+1978,"phys_act_age_std",4660,"Nayarit",2003,22,"All Ages",1,"Male",6731.2456
+1978,"phys_act_age_std",4660,"Nayarit",2003,22,"All Ages",2,"Female",5388.4961
+1978,"phys_act_age_std",4661,"Nuevo León",2003,22,"All Ages",1,"Male",4947.8735
+1978,"phys_act_age_std",4661,"Nuevo León",2003,22,"All Ages",2,"Female",4092.2896
+1978,"phys_act_age_std",4662,"Oaxaca",2003,22,"All Ages",1,"Male",7658.6514
+1978,"phys_act_age_std",4662,"Oaxaca",2003,22,"All Ages",2,"Female",8601.6309
+1978,"phys_act_age_std",4663,"Puebla",2003,22,"All Ages",1,"Male",7068.4976
+1978,"phys_act_age_std",4663,"Puebla",2003,22,"All Ages",2,"Female",5734.7109
+1978,"phys_act_age_std",4664,"Querétaro",2003,22,"All Ages",1,"Male",7692.0552
+1978,"phys_act_age_std",4664,"Querétaro",2003,22,"All Ages",2,"Female",5734.4556
+1978,"phys_act_age_std",4665,"Quintana Roo",2003,22,"All Ages",1,"Male",6548.77
+1978,"phys_act_age_std",4665,"Quintana Roo",2003,22,"All Ages",2,"Female",5231.7939
+1978,"phys_act_age_std",4666,"San Luis Potosí",2003,22,"All Ages",1,"Male",6595.3403
+1978,"phys_act_age_std",4666,"San Luis Potosí",2003,22,"All Ages",2,"Female",5504.5898
+1978,"phys_act_age_std",4667,"Sinaloa",2003,22,"All Ages",1,"Male",6676.8745
+1978,"phys_act_age_std",4667,"Sinaloa",2003,22,"All Ages",2,"Female",5829.5635
+1978,"phys_act_age_std",4668,"Sonora",2003,22,"All Ages",1,"Male",6426.749
+1978,"phys_act_age_std",4668,"Sonora",2003,22,"All Ages",2,"Female",5829.9971
+1978,"phys_act_age_std",4669,"Tabasco",2003,22,"All Ages",1,"Male",6516.1572
+1978,"phys_act_age_std",4669,"Tabasco",2003,22,"All Ages",2,"Female",5253.3154
+1978,"phys_act_age_std",4670,"Tamaulipas",2003,22,"All Ages",1,"Male",6418.2046
+1978,"phys_act_age_std",4670,"Tamaulipas",2003,22,"All Ages",2,"Female",4412.2627
+1978,"phys_act_age_std",4671,"Tlaxcala",2003,22,"All Ages",1,"Male",6990.1382
+1978,"phys_act_age_std",4671,"Tlaxcala",2003,22,"All Ages",2,"Female",6256.3613
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",1,"Male",6630.7334
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",2,"Female",5437.6665
+1978,"phys_act_age_std",4673,"Yucatán",2003,22,"All Ages",1,"Male",6310.1831
+1978,"phys_act_age_std",4673,"Yucatán",2003,22,"All Ages",2,"Female",5369.1636
+1978,"phys_act_age_std",4674,"Zacatecas",2003,22,"All Ages",1,"Male",6709.0083
+1978,"phys_act_age_std",4674,"Zacatecas",2003,22,"All Ages",2,"Female",5411.8745
+1978,"phys_act_age_std",130,"Mexico",2004,22,"All Ages",1,"Male",6325.1938
+1978,"phys_act_age_std",130,"Mexico",2004,22,"All Ages",2,"Female",5447.3027
+1978,"phys_act_age_std",4643,"Aguascalientes",2004,22,"All Ages",1,"Male",6667.2319
+1978,"phys_act_age_std",4643,"Aguascalientes",2004,22,"All Ages",2,"Female",6386.8882
+1978,"phys_act_age_std",4644,"Baja California",2004,22,"All Ages",1,"Male",6259.335
+1978,"phys_act_age_std",4644,"Baja California",2004,22,"All Ages",2,"Female",5258.0464
+1978,"phys_act_age_std",4645,"Baja California Sur",2004,22,"All Ages",1,"Male",6459.9941
+1978,"phys_act_age_std",4645,"Baja California Sur",2004,22,"All Ages",2,"Female",5224.5693
+1978,"phys_act_age_std",4646,"Campeche",2004,22,"All Ages",1,"Male",6560.877
+1978,"phys_act_age_std",4646,"Campeche",2004,22,"All Ages",2,"Female",5419.2607
+1978,"phys_act_age_std",4647,"Coahuila",2004,22,"All Ages",1,"Male",6422.6899
+1978,"phys_act_age_std",4647,"Coahuila",2004,22,"All Ages",2,"Female",5057.9893
+1978,"phys_act_age_std",4648,"Colima",2004,22,"All Ages",1,"Male",6756.1348
+1978,"phys_act_age_std",4648,"Colima",2004,22,"All Ages",2,"Female",5415.4941
+1978,"phys_act_age_std",4649,"Chiapas",2004,22,"All Ages",1,"Male",7169.4312
+1978,"phys_act_age_std",4649,"Chiapas",2004,22,"All Ages",2,"Female",6438.8447
+1978,"phys_act_age_std",4650,"Chihuahua",2004,22,"All Ages",1,"Male",6690.8408
+1978,"phys_act_age_std",4650,"Chihuahua",2004,22,"All Ages",2,"Female",5482.082
+1978,"phys_act_age_std",4651,"Mexico City",2004,22,"All Ages",1,"Male",3280.9673
+1978,"phys_act_age_std",4651,"Mexico City",2004,22,"All Ages",2,"Female",4313.6748
+1978,"phys_act_age_std",4652,"Durango",2004,22,"All Ages",1,"Male",6913.3965
+1978,"phys_act_age_std",4652,"Durango",2004,22,"All Ages",2,"Female",4798.8599
+1978,"phys_act_age_std",4653,"Guanajuato",2004,22,"All Ages",1,"Male",6822.6084
+1978,"phys_act_age_std",4653,"Guanajuato",2004,22,"All Ages",2,"Female",5088.0269
+1978,"phys_act_age_std",4654,"Guerrero",2004,22,"All Ages",1,"Male",7308.6118
+1978,"phys_act_age_std",4654,"Guerrero",2004,22,"All Ages",2,"Female",5641.2852
+1978,"phys_act_age_std",4655,"Hidalgo",2004,22,"All Ages",1,"Male",7428.4736
+1978,"phys_act_age_std",4655,"Hidalgo",2004,22,"All Ages",2,"Female",6709.5024
+1978,"phys_act_age_std",4656,"Jalisco",2004,22,"All Ages",1,"Male",6950.106
+1978,"phys_act_age_std",4656,"Jalisco",2004,22,"All Ages",2,"Female",6257.6484
+1978,"phys_act_age_std",4657,"México",2004,22,"All Ages",1,"Male",6274.7124
+1978,"phys_act_age_std",4657,"México",2004,22,"All Ages",2,"Female",5484.9551
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2004,22,"All Ages",1,"Male",6658.0859
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2004,22,"All Ages",2,"Female",4464.2671
+1978,"phys_act_age_std",4659,"Morelos",2004,22,"All Ages",1,"Male",6744.1709
+1978,"phys_act_age_std",4659,"Morelos",2004,22,"All Ages",2,"Female",5410.9536
+1978,"phys_act_age_std",4660,"Nayarit",2004,22,"All Ages",1,"Male",6740.9927
+1978,"phys_act_age_std",4660,"Nayarit",2004,22,"All Ages",2,"Female",5405.1611
+1978,"phys_act_age_std",4661,"Nuevo León",2004,22,"All Ages",1,"Male",4967.9019
+1978,"phys_act_age_std",4661,"Nuevo León",2004,22,"All Ages",2,"Female",4101.7256
+1978,"phys_act_age_std",4662,"Oaxaca",2004,22,"All Ages",1,"Male",7669.4268
+1978,"phys_act_age_std",4662,"Oaxaca",2004,22,"All Ages",2,"Female",8601.084
+1978,"phys_act_age_std",4663,"Puebla",2004,22,"All Ages",1,"Male",7080.3535
+1978,"phys_act_age_std",4663,"Puebla",2004,22,"All Ages",2,"Female",5750.0249
+1978,"phys_act_age_std",4664,"Querétaro",2004,22,"All Ages",1,"Male",7695.4858
+1978,"phys_act_age_std",4664,"Querétaro",2004,22,"All Ages",2,"Female",5748.6504
+1978,"phys_act_age_std",4665,"Quintana Roo",2004,22,"All Ages",1,"Male",6557.6782
+1978,"phys_act_age_std",4665,"Quintana Roo",2004,22,"All Ages",2,"Female",5249.8672
+1978,"phys_act_age_std",4666,"San Luis Potosí",2004,22,"All Ages",1,"Male",6605.9604
+1978,"phys_act_age_std",4666,"San Luis Potosí",2004,22,"All Ages",2,"Female",5522.5615
+1978,"phys_act_age_std",4667,"Sinaloa",2004,22,"All Ages",1,"Male",6691.3765
+1978,"phys_act_age_std",4667,"Sinaloa",2004,22,"All Ages",2,"Female",5844.8989
+1978,"phys_act_age_std",4668,"Sonora",2004,22,"All Ages",1,"Male",6439.144
+1978,"phys_act_age_std",4668,"Sonora",2004,22,"All Ages",2,"Female",5814.7778
+1978,"phys_act_age_std",4669,"Tabasco",2004,22,"All Ages",1,"Male",6524.2676
+1978,"phys_act_age_std",4669,"Tabasco",2004,22,"All Ages",2,"Female",5269.6567
+1978,"phys_act_age_std",4670,"Tamaulipas",2004,22,"All Ages",1,"Male",6430.231
+1978,"phys_act_age_std",4670,"Tamaulipas",2004,22,"All Ages",2,"Female",4426.6538
+1978,"phys_act_age_std",4671,"Tlaxcala",2004,22,"All Ages",1,"Male",7001.6875
+1978,"phys_act_age_std",4671,"Tlaxcala",2004,22,"All Ages",2,"Female",6271.7891
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",1,"Male",6642.7964
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",2,"Female",5455.1221
+1978,"phys_act_age_std",4673,"Yucatán",2004,22,"All Ages",1,"Male",6322.2925
+1978,"phys_act_age_std",4673,"Yucatán",2004,22,"All Ages",2,"Female",5389.1631
+1978,"phys_act_age_std",4674,"Zacatecas",2004,22,"All Ages",1,"Male",6720.3594
+1978,"phys_act_age_std",4674,"Zacatecas",2004,22,"All Ages",2,"Female",5428.5244
+1978,"phys_act_age_std",130,"Mexico",2005,22,"All Ages",1,"Male",6344.4893
+1978,"phys_act_age_std",130,"Mexico",2005,22,"All Ages",2,"Female",5466.4541
+1978,"phys_act_age_std",4643,"Aguascalientes",2005,22,"All Ages",1,"Male",6679.2915
+1978,"phys_act_age_std",4643,"Aguascalientes",2005,22,"All Ages",2,"Female",6403.2476
+1978,"phys_act_age_std",4644,"Baja California",2005,22,"All Ages",1,"Male",6274.5576
+1978,"phys_act_age_std",4644,"Baja California",2005,22,"All Ages",2,"Female",5277.1138
+1978,"phys_act_age_std",4645,"Baja California Sur",2005,22,"All Ages",1,"Male",6473.2334
+1978,"phys_act_age_std",4645,"Baja California Sur",2005,22,"All Ages",2,"Female",5245.9717
+1978,"phys_act_age_std",4646,"Campeche",2005,22,"All Ages",1,"Male",6575.7007
+1978,"phys_act_age_std",4646,"Campeche",2005,22,"All Ages",2,"Female",5440.4468
+1978,"phys_act_age_std",4647,"Coahuila",2005,22,"All Ages",1,"Male",6436.8184
+1978,"phys_act_age_std",4647,"Coahuila",2005,22,"All Ages",2,"Female",5079.4253
+1978,"phys_act_age_std",4648,"Colima",2005,22,"All Ages",1,"Male",6769.916
+1978,"phys_act_age_std",4648,"Colima",2005,22,"All Ages",2,"Female",5438.5166
+1978,"phys_act_age_std",4649,"Chiapas",2005,22,"All Ages",1,"Male",7185.5127
+1978,"phys_act_age_std",4649,"Chiapas",2005,22,"All Ages",2,"Female",6457.3262
+1978,"phys_act_age_std",4650,"Chihuahua",2005,22,"All Ages",1,"Male",6702.3315
+1978,"phys_act_age_std",4650,"Chihuahua",2005,22,"All Ages",2,"Female",5503.2891
+1978,"phys_act_age_std",4651,"Mexico City",2005,22,"All Ages",1,"Male",3298.2153
+1978,"phys_act_age_std",4651,"Mexico City",2005,22,"All Ages",2,"Female",4329.7983
+1978,"phys_act_age_std",4652,"Durango",2005,22,"All Ages",1,"Male",6928.5654
+1978,"phys_act_age_std",4652,"Durango",2005,22,"All Ages",2,"Female",4816.9932
+1978,"phys_act_age_std",4653,"Guanajuato",2005,22,"All Ages",1,"Male",6834.5112
+1978,"phys_act_age_std",4653,"Guanajuato",2005,22,"All Ages",2,"Female",5109.5381
+1978,"phys_act_age_std",4654,"Guerrero",2005,22,"All Ages",1,"Male",7319.1777
+1978,"phys_act_age_std",4654,"Guerrero",2005,22,"All Ages",2,"Female",5665.2065
+1978,"phys_act_age_std",4655,"Hidalgo",2005,22,"All Ages",1,"Male",7444.0078
+1978,"phys_act_age_std",4655,"Hidalgo",2005,22,"All Ages",2,"Female",6726.0352
+1978,"phys_act_age_std",4656,"Jalisco",2005,22,"All Ages",1,"Male",6965.2568
+1978,"phys_act_age_std",4656,"Jalisco",2005,22,"All Ages",2,"Female",6276.8477
+1978,"phys_act_age_std",4657,"México",2005,22,"All Ages",1,"Male",6290.3828
+1978,"phys_act_age_std",4657,"México",2005,22,"All Ages",2,"Female",5505.9146
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2005,22,"All Ages",1,"Male",6672.5903
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2005,22,"All Ages",2,"Female",4466.0913
+1978,"phys_act_age_std",4659,"Morelos",2005,22,"All Ages",1,"Male",6756.4419
+1978,"phys_act_age_std",4659,"Morelos",2005,22,"All Ages",2,"Female",5432.9297
+1978,"phys_act_age_std",4660,"Nayarit",2005,22,"All Ages",1,"Male",6755.21
+1978,"phys_act_age_std",4660,"Nayarit",2005,22,"All Ages",2,"Female",5425.9434
+1978,"phys_act_age_std",4661,"Nuevo León",2005,22,"All Ages",1,"Male",4990.5054
+1978,"phys_act_age_std",4661,"Nuevo León",2005,22,"All Ages",2,"Female",4114.2935
+1978,"phys_act_age_std",4662,"Oaxaca",2005,22,"All Ages",1,"Male",7684.2573
+1978,"phys_act_age_std",4662,"Oaxaca",2005,22,"All Ages",2,"Female",8603.9229
+1978,"phys_act_age_std",4663,"Puebla",2005,22,"All Ages",1,"Male",7095.686
+1978,"phys_act_age_std",4663,"Puebla",2005,22,"All Ages",2,"Female",5769.6846
+1978,"phys_act_age_std",4664,"Querétaro",2005,22,"All Ages",1,"Male",7703.2939
+1978,"phys_act_age_std",4664,"Querétaro",2005,22,"All Ages",2,"Female",5767.854
+1978,"phys_act_age_std",4665,"Quintana Roo",2005,22,"All Ages",1,"Male",6570.0635
+1978,"phys_act_age_std",4665,"Quintana Roo",2005,22,"All Ages",2,"Female",5272.0859
+1978,"phys_act_age_std",4666,"San Luis Potosí",2005,22,"All Ages",1,"Male",6620.772
+1978,"phys_act_age_std",4666,"San Luis Potosí",2005,22,"All Ages",2,"Female",5543.8687
+1978,"phys_act_age_std",4667,"Sinaloa",2005,22,"All Ages",1,"Male",6710.0249
+1978,"phys_act_age_std",4667,"Sinaloa",2005,22,"All Ages",2,"Female",5864.5972
+1978,"phys_act_age_std",4668,"Sonora",2005,22,"All Ages",1,"Male",6454.9653
+1978,"phys_act_age_std",4668,"Sonora",2005,22,"All Ages",2,"Female",5807.3838
+1978,"phys_act_age_std",4669,"Tabasco",2005,22,"All Ages",1,"Male",6535.8926
+1978,"phys_act_age_std",4669,"Tabasco",2005,22,"All Ages",2,"Female",5290.1475
+1978,"phys_act_age_std",4670,"Tamaulipas",2005,22,"All Ages",1,"Male",6444.9106
+1978,"phys_act_age_std",4670,"Tamaulipas",2005,22,"All Ages",2,"Female",4445.4731
+1978,"phys_act_age_std",4671,"Tlaxcala",2005,22,"All Ages",1,"Male",7017.271
+1978,"phys_act_age_std",4671,"Tlaxcala",2005,22,"All Ages",2,"Female",6291.666
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",1,"Male",6659.0527
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",2,"Female",5476.4756
+1978,"phys_act_age_std",4673,"Yucatán",2005,22,"All Ages",1,"Male",6337.1533
+1978,"phys_act_age_std",4673,"Yucatán",2005,22,"All Ages",2,"Female",5412.5723
+1978,"phys_act_age_std",4674,"Zacatecas",2005,22,"All Ages",1,"Male",6735.7373
+1978,"phys_act_age_std",4674,"Zacatecas",2005,22,"All Ages",2,"Female",5449.0869
+1978,"phys_act_age_std",130,"Mexico",2006,22,"All Ages",1,"Male",6365.4395
+1978,"phys_act_age_std",130,"Mexico",2006,22,"All Ages",2,"Female",5487.3862
+1978,"phys_act_age_std",4643,"Aguascalientes",2006,22,"All Ages",1,"Male",6693.3149
+1978,"phys_act_age_std",4643,"Aguascalientes",2006,22,"All Ages",2,"Female",6422.1997
+1978,"phys_act_age_std",4644,"Baja California",2006,22,"All Ages",1,"Male",6290.4761
+1978,"phys_act_age_std",4644,"Baja California",2006,22,"All Ages",2,"Female",5297.7642
+1978,"phys_act_age_std",4645,"Baja California Sur",2006,22,"All Ages",1,"Male",6488.1621
+1978,"phys_act_age_std",4645,"Baja California Sur",2006,22,"All Ages",2,"Female",5268.9204
+1978,"phys_act_age_std",4646,"Campeche",2006,22,"All Ages",1,"Male",6591.7012
+1978,"phys_act_age_std",4646,"Campeche",2006,22,"All Ages",2,"Female",5462.7393
+1978,"phys_act_age_std",4647,"Coahuila",2006,22,"All Ages",1,"Male",6451.9346
+1978,"phys_act_age_std",4647,"Coahuila",2006,22,"All Ages",2,"Female",5101.7847
+1978,"phys_act_age_std",4648,"Colima",2006,22,"All Ages",1,"Male",6784.8618
+1978,"phys_act_age_std",4648,"Colima",2006,22,"All Ages",2,"Female",5462.478
+1978,"phys_act_age_std",4649,"Chiapas",2006,22,"All Ages",1,"Male",7203.3018
+1978,"phys_act_age_std",4649,"Chiapas",2006,22,"All Ages",2,"Female",6477.3428
+1978,"phys_act_age_std",4650,"Chihuahua",2006,22,"All Ages",1,"Male",6716.4927
+1978,"phys_act_age_std",4650,"Chihuahua",2006,22,"All Ages",2,"Female",5524.9316
+1978,"phys_act_age_std",4651,"Mexico City",2006,22,"All Ages",1,"Male",3315.4841
+1978,"phys_act_age_std",4651,"Mexico City",2006,22,"All Ages",2,"Female",4349.4775
+1978,"phys_act_age_std",4652,"Durango",2006,22,"All Ages",1,"Male",6946.6606
+1978,"phys_act_age_std",4652,"Durango",2006,22,"All Ages",2,"Female",4835.3374
+1978,"phys_act_age_std",4653,"Guanajuato",2006,22,"All Ages",1,"Male",6848.2778
+1978,"phys_act_age_std",4653,"Guanajuato",2006,22,"All Ages",2,"Female",5133.1255
+1978,"phys_act_age_std",4654,"Guerrero",2006,22,"All Ages",1,"Male",7332.8984
+1978,"phys_act_age_std",4654,"Guerrero",2006,22,"All Ages",2,"Female",5689.5747
+1978,"phys_act_age_std",4655,"Hidalgo",2006,22,"All Ages",1,"Male",7462.0181
+1978,"phys_act_age_std",4655,"Hidalgo",2006,22,"All Ages",2,"Female",6746.6772
+1978,"phys_act_age_std",4656,"Jalisco",2006,22,"All Ages",1,"Male",6982.0991
+1978,"phys_act_age_std",4656,"Jalisco",2006,22,"All Ages",2,"Female",6298.5527
+1978,"phys_act_age_std",4657,"México",2006,22,"All Ages",1,"Male",6308.2412
+1978,"phys_act_age_std",4657,"México",2006,22,"All Ages",2,"Female",5527.9321
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2006,22,"All Ages",1,"Male",6688.3525
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2006,22,"All Ages",2,"Female",4467.9292
+1978,"phys_act_age_std",4659,"Morelos",2006,22,"All Ages",1,"Male",6771.7007
+1978,"phys_act_age_std",4659,"Morelos",2006,22,"All Ages",2,"Female",5455.4453
+1978,"phys_act_age_std",4660,"Nayarit",2006,22,"All Ages",1,"Male",6771.8452
+1978,"phys_act_age_std",4660,"Nayarit",2006,22,"All Ages",2,"Female",5448.1826
+1978,"phys_act_age_std",4661,"Nuevo León",2006,22,"All Ages",1,"Male",5013.2046
+1978,"phys_act_age_std",4661,"Nuevo León",2006,22,"All Ages",2,"Female",4127.8281
+1978,"phys_act_age_std",4662,"Oaxaca",2006,22,"All Ages",1,"Male",7700.9106
+1978,"phys_act_age_std",4662,"Oaxaca",2006,22,"All Ages",2,"Female",8611.6045
+1978,"phys_act_age_std",4663,"Puebla",2006,22,"All Ages",1,"Male",7113
+1978,"phys_act_age_std",4663,"Puebla",2006,22,"All Ages",2,"Female",5788.9351
+1978,"phys_act_age_std",4664,"Querétaro",2006,22,"All Ages",1,"Male",7715.5947
+1978,"phys_act_age_std",4664,"Querétaro",2006,22,"All Ages",2,"Female",5789.0469
+1978,"phys_act_age_std",4665,"Quintana Roo",2006,22,"All Ages",1,"Male",6584.2256
+1978,"phys_act_age_std",4665,"Quintana Roo",2006,22,"All Ages",2,"Female",5295.668
+1978,"phys_act_age_std",4666,"San Luis Potosí",2006,22,"All Ages",1,"Male",6637.7598
+1978,"phys_act_age_std",4666,"San Luis Potosí",2006,22,"All Ages",2,"Female",5566.0313
+1978,"phys_act_age_std",4667,"Sinaloa",2006,22,"All Ages",1,"Male",6730.3877
+1978,"phys_act_age_std",4667,"Sinaloa",2006,22,"All Ages",2,"Female",5885.3721
+1978,"phys_act_age_std",4668,"Sonora",2006,22,"All Ages",1,"Male",6472.8223
+1978,"phys_act_age_std",4668,"Sonora",2006,22,"All Ages",2,"Female",5807.2651
+1978,"phys_act_age_std",4669,"Tabasco",2006,22,"All Ages",1,"Male",6549.8452
+1978,"phys_act_age_std",4669,"Tabasco",2006,22,"All Ages",2,"Female",5311.9102
+1978,"phys_act_age_std",4670,"Tamaulipas",2006,22,"All Ages",1,"Male",6460.8281
+1978,"phys_act_age_std",4670,"Tamaulipas",2006,22,"All Ages",2,"Female",4465.8765
+1978,"phys_act_age_std",4671,"Tlaxcala",2006,22,"All Ages",1,"Male",7034.9468
+1978,"phys_act_age_std",4671,"Tlaxcala",2006,22,"All Ages",2,"Female",6313.2344
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",1,"Male",6677.6445
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",2,"Female",5499.2637
+1978,"phys_act_age_std",4673,"Yucatán",2006,22,"All Ages",1,"Male",6352.8545
+1978,"phys_act_age_std",4673,"Yucatán",2006,22,"All Ages",2,"Female",5436.373
+1978,"phys_act_age_std",4674,"Zacatecas",2006,22,"All Ages",1,"Male",6753.3076
+1978,"phys_act_age_std",4674,"Zacatecas",2006,22,"All Ages",2,"Female",5471.0894
+1978,"phys_act_age_std",130,"Mexico",2007,22,"All Ages",1,"Male",6385.751
+1978,"phys_act_age_std",130,"Mexico",2007,22,"All Ages",2,"Female",5507.1895
+1978,"phys_act_age_std",4643,"Aguascalientes",2007,22,"All Ages",1,"Male",6706.7539
+1978,"phys_act_age_std",4643,"Aguascalientes",2007,22,"All Ages",2,"Female",6440.9531
+1978,"phys_act_age_std",4644,"Baja California",2007,22,"All Ages",1,"Male",6305.0356
+1978,"phys_act_age_std",4644,"Baja California",2007,22,"All Ages",2,"Female",5317.3984
+1978,"phys_act_age_std",4645,"Baja California Sur",2007,22,"All Ages",1,"Male",6502.6714
+1978,"phys_act_age_std",4645,"Baja California Sur",2007,22,"All Ages",2,"Female",5290.2227
+1978,"phys_act_age_std",4646,"Campeche",2007,22,"All Ages",1,"Male",6606.5273
+1978,"phys_act_age_std",4646,"Campeche",2007,22,"All Ages",2,"Female",5483.6665
+1978,"phys_act_age_std",4647,"Coahuila",2007,22,"All Ages",1,"Male",6466.2637
+1978,"phys_act_age_std",4647,"Coahuila",2007,22,"All Ages",2,"Female",5122.752
+1978,"phys_act_age_std",4648,"Colima",2007,22,"All Ages",1,"Male",6798.9556
+1978,"phys_act_age_std",4648,"Colima",2007,22,"All Ages",2,"Female",5484.8901
+1978,"phys_act_age_std",4649,"Chiapas",2007,22,"All Ages",1,"Male",7220.3228
+1978,"phys_act_age_std",4649,"Chiapas",2007,22,"All Ages",2,"Female",6496.0835
+1978,"phys_act_age_std",4650,"Chihuahua",2007,22,"All Ages",1,"Male",6730.7705
+1978,"phys_act_age_std",4650,"Chihuahua",2007,22,"All Ages",2,"Female",5545.4512
+1978,"phys_act_age_std",4651,"Mexico City",2007,22,"All Ages",1,"Male",3331.5327
+1978,"phys_act_age_std",4651,"Mexico City",2007,22,"All Ages",2,"Female",4368.1758
+1978,"phys_act_age_std",4652,"Durango",2007,22,"All Ages",1,"Male",6965.4487
+1978,"phys_act_age_std",4652,"Durango",2007,22,"All Ages",2,"Female",4852.873
+1978,"phys_act_age_std",4653,"Guanajuato",2007,22,"All Ages",1,"Male",6861.6597
+1978,"phys_act_age_std",4653,"Guanajuato",2007,22,"All Ages",2,"Female",5155.0215
+1978,"phys_act_age_std",4654,"Guerrero",2007,22,"All Ages",1,"Male",7347.3965
+1978,"phys_act_age_std",4654,"Guerrero",2007,22,"All Ages",2,"Female",5711.8755
+1978,"phys_act_age_std",4655,"Hidalgo",2007,22,"All Ages",1,"Male",7480.062
+1978,"phys_act_age_std",4655,"Hidalgo",2007,22,"All Ages",2,"Female",6767.4097
+1978,"phys_act_age_std",4656,"Jalisco",2007,22,"All Ages",1,"Male",6999.2129
+1978,"phys_act_age_std",4656,"Jalisco",2007,22,"All Ages",2,"Female",6319.0303
+1978,"phys_act_age_std",4657,"México",2007,22,"All Ages",1,"Male",6325.5322
+1978,"phys_act_age_std",4657,"México",2007,22,"All Ages",2,"Female",5548.4038
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2007,22,"All Ages",1,"Male",6703.7485
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2007,22,"All Ages",2,"Female",4470.2588
+1978,"phys_act_age_std",4659,"Morelos",2007,22,"All Ages",1,"Male",6786.7295
+1978,"phys_act_age_std",4659,"Morelos",2007,22,"All Ages",2,"Female",5476.3589
+1978,"phys_act_age_std",4660,"Nayarit",2007,22,"All Ages",1,"Male",6787.73
+1978,"phys_act_age_std",4660,"Nayarit",2007,22,"All Ages",2,"Female",5469.1094
+1978,"phys_act_age_std",4661,"Nuevo León",2007,22,"All Ages",1,"Male",5034.4497
+1978,"phys_act_age_std",4661,"Nuevo León",2007,22,"All Ages",2,"Female",4140.1948
+1978,"phys_act_age_std",4662,"Oaxaca",2007,22,"All Ages",1,"Male",7716.4023
+1978,"phys_act_age_std",4662,"Oaxaca",2007,22,"All Ages",2,"Female",8621.7021
+1978,"phys_act_age_std",4663,"Puebla",2007,22,"All Ages",1,"Male",7129.8369
+1978,"phys_act_age_std",4663,"Puebla",2007,22,"All Ages",2,"Female",5804.8872
+1978,"phys_act_age_std",4664,"Querétaro",2007,22,"All Ages",1,"Male",7729.1968
+1978,"phys_act_age_std",4664,"Querétaro",2007,22,"All Ages",2,"Female",5808.8555
+1978,"phys_act_age_std",4665,"Quintana Roo",2007,22,"All Ages",1,"Male",6597.6812
+1978,"phys_act_age_std",4665,"Quintana Roo",2007,22,"All Ages",2,"Female",5317.873
+1978,"phys_act_age_std",4666,"San Luis Potosí",2007,22,"All Ages",1,"Male",6653.9346
+1978,"phys_act_age_std",4666,"San Luis Potosí",2007,22,"All Ages",2,"Female",5586.9888
+1978,"phys_act_age_std",4667,"Sinaloa",2007,22,"All Ages",1,"Male",6749.6504
+1978,"phys_act_age_std",4667,"Sinaloa",2007,22,"All Ages",2,"Female",5903.9688
+1978,"phys_act_age_std",4668,"Sonora",2007,22,"All Ages",1,"Male",6490.4678
+1978,"phys_act_age_std",4668,"Sonora",2007,22,"All Ages",2,"Female",5809.3608
+1978,"phys_act_age_std",4669,"Tabasco",2007,22,"All Ages",1,"Male",6563.6885
+1978,"phys_act_age_std",4669,"Tabasco",2007,22,"All Ages",2,"Female",5332.187
+1978,"phys_act_age_std",4670,"Tamaulipas",2007,22,"All Ages",1,"Male",6476.2959
+1978,"phys_act_age_std",4670,"Tamaulipas",2007,22,"All Ages",2,"Female",4484.8301
+1978,"phys_act_age_std",4671,"Tlaxcala",2007,22,"All Ages",1,"Male",7051.8403
+1978,"phys_act_age_std",4671,"Tlaxcala",2007,22,"All Ages",2,"Female",6333.5229
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",1,"Male",6695.6372
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",2,"Female",5520.876
+1978,"phys_act_age_std",4673,"Yucatán",2007,22,"All Ages",1,"Male",6367.5679
+1978,"phys_act_age_std",4673,"Yucatán",2007,22,"All Ages",2,"Female",5458.4575
+1978,"phys_act_age_std",4674,"Zacatecas",2007,22,"All Ages",1,"Male",6770.2266
+1978,"phys_act_age_std",4674,"Zacatecas",2007,22,"All Ages",2,"Female",5491.981
+1978,"phys_act_age_std",130,"Mexico",2008,22,"All Ages",1,"Male",6405.1084
+1978,"phys_act_age_std",130,"Mexico",2008,22,"All Ages",2,"Female",5525.4312
+1978,"phys_act_age_std",4643,"Aguascalientes",2008,22,"All Ages",1,"Male",6719.3052
+1978,"phys_act_age_std",4643,"Aguascalientes",2008,22,"All Ages",2,"Female",6459.1875
+1978,"phys_act_age_std",4644,"Baja California",2008,22,"All Ages",1,"Male",6317.8892
+1978,"phys_act_age_std",4644,"Baja California",2008,22,"All Ages",2,"Female",5335.6309
+1978,"phys_act_age_std",4645,"Baja California Sur",2008,22,"All Ages",1,"Male",6516.499
+1978,"phys_act_age_std",4645,"Baja California Sur",2008,22,"All Ages",2,"Female",5309.3706
+1978,"phys_act_age_std",4646,"Campeche",2008,22,"All Ages",1,"Male",6619.8208
+1978,"phys_act_age_std",4646,"Campeche",2008,22,"All Ages",2,"Female",5502.812
+1978,"phys_act_age_std",4647,"Coahuila",2008,22,"All Ages",1,"Male",6479.5205
+1978,"phys_act_age_std",4647,"Coahuila",2008,22,"All Ages",2,"Female",5141.8843
+1978,"phys_act_age_std",4648,"Colima",2008,22,"All Ages",1,"Male",6811.873
+1978,"phys_act_age_std",4648,"Colima",2008,22,"All Ages",2,"Female",5505.3301
+1978,"phys_act_age_std",4649,"Chiapas",2008,22,"All Ages",1,"Male",7236.2388
+1978,"phys_act_age_std",4649,"Chiapas",2008,22,"All Ages",2,"Female",6513.1079
+1978,"phys_act_age_std",4650,"Chihuahua",2008,22,"All Ages",1,"Male",6744.9307
+1978,"phys_act_age_std",4650,"Chihuahua",2008,22,"All Ages",2,"Female",5564.4995
+1978,"phys_act_age_std",4651,"Mexico City",2008,22,"All Ages",1,"Male",3346.0449
+1978,"phys_act_age_std",4651,"Mexico City",2008,22,"All Ages",2,"Female",4385.3687
+1978,"phys_act_age_std",4652,"Durango",2008,22,"All Ages",1,"Male",6984.7583
+1978,"phys_act_age_std",4652,"Durango",2008,22,"All Ages",2,"Female",4869.3545
+1978,"phys_act_age_std",4653,"Guanajuato",2008,22,"All Ages",1,"Male",6874.3979
+1978,"phys_act_age_std",4653,"Guanajuato",2008,22,"All Ages",2,"Female",5174.6704
+1978,"phys_act_age_std",4654,"Guerrero",2008,22,"All Ages",1,"Male",7362.481
+1978,"phys_act_age_std",4654,"Guerrero",2008,22,"All Ages",2,"Female",5731.6152
+1978,"phys_act_age_std",4655,"Hidalgo",2008,22,"All Ages",1,"Male",7497.874
+1978,"phys_act_age_std",4655,"Hidalgo",2008,22,"All Ages",2,"Female",6787.8594
+1978,"phys_act_age_std",4656,"Jalisco",2008,22,"All Ages",1,"Male",7016.4346
+1978,"phys_act_age_std",4656,"Jalisco",2008,22,"All Ages",2,"Female",6337.7915
+1978,"phys_act_age_std",4657,"México",2008,22,"All Ages",1,"Male",6341.9189
+1978,"phys_act_age_std",4657,"México",2008,22,"All Ages",2,"Female",5566.8682
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2008,22,"All Ages",1,"Male",6718.5137
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2008,22,"All Ages",2,"Female",4473.1685
+1978,"phys_act_age_std",4659,"Morelos",2008,22,"All Ages",1,"Male",6801.1978
+1978,"phys_act_age_std",4659,"Morelos",2008,22,"All Ages",2,"Female",5495.2183
+1978,"phys_act_age_std",4660,"Nayarit",2008,22,"All Ages",1,"Male",6802.4761
+1978,"phys_act_age_std",4660,"Nayarit",2008,22,"All Ages",2,"Female",5488.2837
+1978,"phys_act_age_std",4661,"Nuevo León",2008,22,"All Ages",1,"Male",5053.873
+1978,"phys_act_age_std",4661,"Nuevo León",2008,22,"All Ages",2,"Female",4151.0508
+1978,"phys_act_age_std",4662,"Oaxaca",2008,22,"All Ages",1,"Male",7730.3462
+1978,"phys_act_age_std",4662,"Oaxaca",2008,22,"All Ages",2,"Female",8634.2334
+1978,"phys_act_age_std",4663,"Puebla",2008,22,"All Ages",1,"Male",7145.9053
+1978,"phys_act_age_std",4663,"Puebla",2008,22,"All Ages",2,"Female",5816.8799
+1978,"phys_act_age_std",4664,"Querétaro",2008,22,"All Ages",1,"Male",7743.9453
+1978,"phys_act_age_std",4664,"Querétaro",2008,22,"All Ages",2,"Female",5826.769
+1978,"phys_act_age_std",4665,"Quintana Roo",2008,22,"All Ages",1,"Male",6610.1177
+1978,"phys_act_age_std",4665,"Quintana Roo",2008,22,"All Ages",2,"Female",5338.2441
+1978,"phys_act_age_std",4666,"San Luis Potosí",2008,22,"All Ages",1,"Male",6668.9238
+1978,"phys_act_age_std",4666,"San Luis Potosí",2008,22,"All Ages",2,"Female",5606.3452
+1978,"phys_act_age_std",4667,"Sinaloa",2008,22,"All Ages",1,"Male",6767.3965
+1978,"phys_act_age_std",4667,"Sinaloa",2008,22,"All Ages",2,"Female",5919.8838
+1978,"phys_act_age_std",4668,"Sonora",2008,22,"All Ages",1,"Male",6507.6162
+1978,"phys_act_age_std",4668,"Sonora",2008,22,"All Ages",2,"Female",5813.3032
+1978,"phys_act_age_std",4669,"Tabasco",2008,22,"All Ages",1,"Male",6577.1597
+1978,"phys_act_age_std",4669,"Tabasco",2008,22,"All Ages",2,"Female",5350.5127
+1978,"phys_act_age_std",4670,"Tamaulipas",2008,22,"All Ages",1,"Male",6491.0576
+1978,"phys_act_age_std",4670,"Tamaulipas",2008,22,"All Ages",2,"Female",4501.8657
+1978,"phys_act_age_std",4671,"Tlaxcala",2008,22,"All Ages",1,"Male",7067.5923
+1978,"phys_act_age_std",4671,"Tlaxcala",2008,22,"All Ages",2,"Female",6352.0703
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",1,"Male",6712.6694
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",2,"Female",5540.8965
+1978,"phys_act_age_std",4673,"Yucatán",2008,22,"All Ages",1,"Male",6380.9844
+1978,"phys_act_age_std",4673,"Yucatán",2008,22,"All Ages",2,"Female",5478.3726
+1978,"phys_act_age_std",4674,"Zacatecas",2008,22,"All Ages",1,"Male",6786.1445
+1978,"phys_act_age_std",4674,"Zacatecas",2008,22,"All Ages",2,"Female",5511.3481
+1978,"phys_act_age_std",130,"Mexico",2009,22,"All Ages",1,"Male",6423.1528
+1978,"phys_act_age_std",130,"Mexico",2009,22,"All Ages",2,"Female",5541.6201
+1978,"phys_act_age_std",4643,"Aguascalientes",2009,22,"All Ages",1,"Male",6730.6133
+1978,"phys_act_age_std",4643,"Aguascalientes",2009,22,"All Ages",2,"Female",6476.5313
+1978,"phys_act_age_std",4644,"Baja California",2009,22,"All Ages",1,"Male",6328.6436
+1978,"phys_act_age_std",4644,"Baja California",2009,22,"All Ages",2,"Female",5352.0229
+1978,"phys_act_age_std",4645,"Baja California Sur",2009,22,"All Ages",1,"Male",6529.3389
+1978,"phys_act_age_std",4645,"Baja California Sur",2009,22,"All Ages",2,"Female",5325.7891
+1978,"phys_act_age_std",4646,"Campeche",2009,22,"All Ages",1,"Male",6631.1748
+1978,"phys_act_age_std",4646,"Campeche",2009,22,"All Ages",2,"Female",5519.7061
+1978,"phys_act_age_std",4647,"Coahuila",2009,22,"All Ages",1,"Male",6491.3823
+1978,"phys_act_age_std",4647,"Coahuila",2009,22,"All Ages",2,"Female",5158.687
+1978,"phys_act_age_std",4648,"Colima",2009,22,"All Ages",1,"Male",6823.2471
+1978,"phys_act_age_std",4648,"Colima",2009,22,"All Ages",2,"Female",5523.3198
+1978,"phys_act_age_std",4649,"Chiapas",2009,22,"All Ages",1,"Male",7250.6616
+1978,"phys_act_age_std",4649,"Chiapas",2009,22,"All Ages",2,"Female",6527.9155
+1978,"phys_act_age_std",4650,"Chihuahua",2009,22,"All Ages",1,"Male",6758.6938
+1978,"phys_act_age_std",4650,"Chihuahua",2009,22,"All Ages",2,"Female",5581.6924
+1978,"phys_act_age_std",4651,"Mexico City",2009,22,"All Ages",1,"Male",3358.6758
+1978,"phys_act_age_std",4651,"Mexico City",2009,22,"All Ages",2,"Female",4400.4419
+1978,"phys_act_age_std",4652,"Durango",2009,22,"All Ages",1,"Male",7004.3818
+1978,"phys_act_age_std",4652,"Durango",2009,22,"All Ages",2,"Female",4884.5146
+1978,"phys_act_age_std",4653,"Guanajuato",2009,22,"All Ages",1,"Male",6886.1924
+1978,"phys_act_age_std",4653,"Guanajuato",2009,22,"All Ages",2,"Female",5191.4355
+1978,"phys_act_age_std",4654,"Guerrero",2009,22,"All Ages",1,"Male",7377.9214
+1978,"phys_act_age_std",4654,"Guerrero",2009,22,"All Ages",2,"Female",5748.2441
+1978,"phys_act_age_std",4655,"Hidalgo",2009,22,"All Ages",1,"Male",7515.1455
+1978,"phys_act_age_std",4655,"Hidalgo",2009,22,"All Ages",2,"Female",6807.582
+1978,"phys_act_age_std",4656,"Jalisco",2009,22,"All Ages",1,"Male",7033.5767
+1978,"phys_act_age_std",4656,"Jalisco",2009,22,"All Ages",2,"Female",6354.271
+1978,"phys_act_age_std",4657,"México",2009,22,"All Ages",1,"Male",6357.0132
+1978,"phys_act_age_std",4657,"México",2009,22,"All Ages",2,"Female",5582.8062
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2009,22,"All Ages",1,"Male",6732.354
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2009,22,"All Ages",2,"Female",4476.7612
+1978,"phys_act_age_std",4659,"Morelos",2009,22,"All Ages",1,"Male",6814.7129
+1978,"phys_act_age_std",4659,"Morelos",2009,22,"All Ages",2,"Female",5511.5244
+1978,"phys_act_age_std",4660,"Nayarit",2009,22,"All Ages",1,"Male",6815.6343
+1978,"phys_act_age_std",4660,"Nayarit",2009,22,"All Ages",2,"Female",5505.2085
+1978,"phys_act_age_std",4661,"Nuevo León",2009,22,"All Ages",1,"Male",5071.0698
+1978,"phys_act_age_std",4661,"Nuevo León",2009,22,"All Ages",2,"Female",4160.0039
+1978,"phys_act_age_std",4662,"Oaxaca",2009,22,"All Ages",1,"Male",7742.2949
+1978,"phys_act_age_std",4662,"Oaxaca",2009,22,"All Ages",2,"Female",8649.1885
+1978,"phys_act_age_std",4663,"Puebla",2009,22,"All Ages",1,"Male",7160.8647
+1978,"phys_act_age_std",4663,"Puebla",2009,22,"All Ages",2,"Female",5824.1782
+1978,"phys_act_age_std",4664,"Querétaro",2009,22,"All Ages",1,"Male",7759.6348
+1978,"phys_act_age_std",4664,"Querétaro",2009,22,"All Ages",2,"Female",5842.2075
+1978,"phys_act_age_std",4665,"Quintana Roo",2009,22,"All Ages",1,"Male",6621.1743
+1978,"phys_act_age_std",4665,"Quintana Roo",2009,22,"All Ages",2,"Female",5356.2681
+1978,"phys_act_age_std",4666,"San Luis Potosí",2009,22,"All Ages",1,"Male",6682.2959
+1978,"phys_act_age_std",4666,"San Luis Potosí",2009,22,"All Ages",2,"Female",5623.6582
+1978,"phys_act_age_std",4667,"Sinaloa",2009,22,"All Ages",1,"Male",6783.1509
+1978,"phys_act_age_std",4667,"Sinaloa",2009,22,"All Ages",2,"Female",5932.5405
+1978,"phys_act_age_std",4668,"Sonora",2009,22,"All Ages",1,"Male",6523.9409
+1978,"phys_act_age_std",4668,"Sonora",2009,22,"All Ages",2,"Female",5818.6411
+1978,"phys_act_age_std",4669,"Tabasco",2009,22,"All Ages",1,"Male",6589.9517
+1978,"phys_act_age_std",4669,"Tabasco",2009,22,"All Ages",2,"Female",5366.3638
+1978,"phys_act_age_std",4670,"Tamaulipas",2009,22,"All Ages",1,"Male",6504.8237
+1978,"phys_act_age_std",4670,"Tamaulipas",2009,22,"All Ages",2,"Female",4516.4507
+1978,"phys_act_age_std",4671,"Tlaxcala",2009,22,"All Ages",1,"Male",7081.7861
+1978,"phys_act_age_std",4671,"Tlaxcala",2009,22,"All Ages",2,"Female",6368.3525
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",1,"Male",6728.3247
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",2,"Female",5558.8569
+1978,"phys_act_age_std",4673,"Yucatán",2009,22,"All Ages",1,"Male",6392.7573
+1978,"phys_act_age_std",4673,"Yucatán",2009,22,"All Ages",2,"Female",5495.6167
+1978,"phys_act_age_std",4674,"Zacatecas",2009,22,"All Ages",1,"Male",6800.6572
+1978,"phys_act_age_std",4674,"Zacatecas",2009,22,"All Ages",2,"Female",5528.7236
+1978,"phys_act_age_std",130,"Mexico",2010,22,"All Ages",1,"Male",6439.4746
+1978,"phys_act_age_std",130,"Mexico",2010,22,"All Ages",2,"Female",5555.1987
+1978,"phys_act_age_std",4643,"Aguascalientes",2010,22,"All Ages",1,"Male",6740.2666
+1978,"phys_act_age_std",4643,"Aguascalientes",2010,22,"All Ages",2,"Female",6492.5552
+1978,"phys_act_age_std",4644,"Baja California",2010,22,"All Ages",1,"Male",6336.856
+1978,"phys_act_age_std",4644,"Baja California",2010,22,"All Ages",2,"Female",5366.0771
+1978,"phys_act_age_std",4645,"Baja California Sur",2010,22,"All Ages",1,"Male",6540.8408
+1978,"phys_act_age_std",4645,"Baja California Sur",2010,22,"All Ages",2,"Female",5338.8276
+1978,"phys_act_age_std",4646,"Campeche",2010,22,"All Ages",1,"Male",6640.1255
+1978,"phys_act_age_std",4646,"Campeche",2010,22,"All Ages",2,"Female",5533.8242
+1978,"phys_act_age_std",4647,"Coahuila",2010,22,"All Ages",1,"Male",6501.4863
+1978,"phys_act_age_std",4647,"Coahuila",2010,22,"All Ages",2,"Female",5172.6152
+1978,"phys_act_age_std",4648,"Colima",2010,22,"All Ages",1,"Male",6832.667
+1978,"phys_act_age_std",4648,"Colima",2010,22,"All Ages",2,"Female",5538.3237
+1978,"phys_act_age_std",4649,"Chiapas",2010,22,"All Ages",1,"Male",7263.1494
+1978,"phys_act_age_std",4649,"Chiapas",2010,22,"All Ages",2,"Female",6539.9419
+1978,"phys_act_age_std",4650,"Chihuahua",2010,22,"All Ages",1,"Male",6771.7285
+1978,"phys_act_age_std",4650,"Chihuahua",2010,22,"All Ages",2,"Female",5596.6108
+1978,"phys_act_age_std",4651,"Mexico City",2010,22,"All Ages",1,"Male",3369.0515
+1978,"phys_act_age_std",4651,"Mexico City",2010,22,"All Ages",2,"Female",4412.6777
+1978,"phys_act_age_std",4652,"Durango",2010,22,"All Ages",1,"Male",7024.0723
+1978,"phys_act_age_std",4652,"Durango",2010,22,"All Ages",2,"Female",4898.0659
+1978,"phys_act_age_std",4653,"Guanajuato",2010,22,"All Ages",1,"Male",6896.6924
+1978,"phys_act_age_std",4653,"Guanajuato",2010,22,"All Ages",2,"Female",5204.5913
+1978,"phys_act_age_std",4654,"Guerrero",2010,22,"All Ages",1,"Male",7393.4448
+1978,"phys_act_age_std",4654,"Guerrero",2010,22,"All Ages",2,"Female",5761.1489
+1978,"phys_act_age_std",4655,"Hidalgo",2010,22,"All Ages",1,"Male",7531.5181
+1978,"phys_act_age_std",4655,"Hidalgo",2010,22,"All Ages",2,"Female",6826.0488
+1978,"phys_act_age_std",4656,"Jalisco",2010,22,"All Ages",1,"Male",7050.4277
+1978,"phys_act_age_std",4656,"Jalisco",2010,22,"All Ages",2,"Female",6367.8154
+1978,"phys_act_age_std",4657,"México",2010,22,"All Ages",1,"Male",6370.3657
+1978,"phys_act_age_std",4657,"México",2010,22,"All Ages",2,"Female",5595.6382
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2010,22,"All Ages",1,"Male",6744.9434
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2010,22,"All Ages",2,"Female",4481.1523
+1978,"phys_act_age_std",4659,"Morelos",2010,22,"All Ages",1,"Male",6826.8135
+1978,"phys_act_age_std",4659,"Morelos",2010,22,"All Ages",2,"Female",5524.729
+1978,"phys_act_age_std",4660,"Nayarit",2010,22,"All Ages",1,"Male",6826.6851
+1978,"phys_act_age_std",4660,"Nayarit",2010,22,"All Ages",2,"Female",5519.3218
+1978,"phys_act_age_std",4661,"Nuevo León",2010,22,"All Ages",1,"Male",5085.6016
+1978,"phys_act_age_std",4661,"Nuevo León",2010,22,"All Ages",2,"Female",4166.6123
+1978,"phys_act_age_std",4662,"Oaxaca",2010,22,"All Ages",1,"Male",7751.731
+1978,"phys_act_age_std",4662,"Oaxaca",2010,22,"All Ages",2,"Female",8666.5195
+1978,"phys_act_age_std",4663,"Puebla",2010,22,"All Ages",1,"Male",7174.3228
+1978,"phys_act_age_std",4663,"Puebla",2010,22,"All Ages",2,"Female",5825.9678
+1978,"phys_act_age_std",4664,"Querétaro",2010,22,"All Ages",1,"Male",7775.9985
+1978,"phys_act_age_std",4664,"Querétaro",2010,22,"All Ages",2,"Female",5854.5127
+1978,"phys_act_age_std",4665,"Quintana Roo",2010,22,"All Ages",1,"Male",6630.4331
+1978,"phys_act_age_std",4665,"Quintana Roo",2010,22,"All Ages",2,"Female",5371.3682
+1978,"phys_act_age_std",4666,"San Luis Potosí",2010,22,"All Ages",1,"Male",6693.5518
+1978,"phys_act_age_std",4666,"San Luis Potosí",2010,22,"All Ages",2,"Female",5638.4424
+1978,"phys_act_age_std",4667,"Sinaloa",2010,22,"All Ages",1,"Male",6796.376
+1978,"phys_act_age_std",4667,"Sinaloa",2010,22,"All Ages",2,"Female",5941.2778
+1978,"phys_act_age_std",4668,"Sonora",2010,22,"All Ages",1,"Male",6539.0713
+1978,"phys_act_age_std",4668,"Sonora",2010,22,"All Ages",2,"Female",5824.8359
+1978,"phys_act_age_std",4669,"Tabasco",2010,22,"All Ages",1,"Male",6601.7065
+1978,"phys_act_age_std",4669,"Tabasco",2010,22,"All Ages",2,"Female",5379.1528
+1978,"phys_act_age_std",4670,"Tamaulipas",2010,22,"All Ages",1,"Male",6517.271
+1978,"phys_act_age_std",4670,"Tamaulipas",2010,22,"All Ages",2,"Female",4527.9814
+1978,"phys_act_age_std",4671,"Tlaxcala",2010,22,"All Ages",1,"Male",7093.9429
+1978,"phys_act_age_std",4671,"Tlaxcala",2010,22,"All Ages",2,"Female",6381.7778
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",1,"Male",6742.123
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",2,"Female",5574.231
+1978,"phys_act_age_std",4673,"Yucatán",2010,22,"All Ages",1,"Male",6402.4966
+1978,"phys_act_age_std",4673,"Yucatán",2010,22,"All Ages",2,"Female",5509.6372
+1978,"phys_act_age_std",4674,"Zacatecas",2010,22,"All Ages",1,"Male",6813.2974
+1978,"phys_act_age_std",4674,"Zacatecas",2010,22,"All Ages",2,"Female",5543.5825
+1978,"phys_act_age_std",130,"Mexico",2011,22,"All Ages",1,"Male",6453.6099
+1978,"phys_act_age_std",130,"Mexico",2011,22,"All Ages",2,"Female",5565.5376
+1978,"phys_act_age_std",4643,"Aguascalientes",2011,22,"All Ages",1,"Male",6747.79
+1978,"phys_act_age_std",4643,"Aguascalientes",2011,22,"All Ages",2,"Female",6506.7676
+1978,"phys_act_age_std",4644,"Baja California",2011,22,"All Ages",1,"Male",6342.0273
+1978,"phys_act_age_std",4644,"Baja California",2011,22,"All Ages",2,"Female",5377.2329
+1978,"phys_act_age_std",4645,"Baja California Sur",2011,22,"All Ages",1,"Male",6550.6035
+1978,"phys_act_age_std",4645,"Baja California Sur",2011,22,"All Ages",2,"Female",5347.7559
+1978,"phys_act_age_std",4646,"Campeche",2011,22,"All Ages",1,"Male",6646.1509
+1978,"phys_act_age_std",4646,"Campeche",2011,22,"All Ages",2,"Female",5544.5786
+1978,"phys_act_age_std",4647,"Coahuila",2011,22,"All Ages",1,"Male",6509.4277
+1978,"phys_act_age_std",4647,"Coahuila",2011,22,"All Ages",2,"Female",5183.0679
+1978,"phys_act_age_std",4648,"Colima",2011,22,"All Ages",1,"Male",6839.6733
+1978,"phys_act_age_std",4648,"Colima",2011,22,"All Ages",2,"Female",5549.7407
+1978,"phys_act_age_std",4649,"Chiapas",2011,22,"All Ages",1,"Male",7273.2002
+1978,"phys_act_age_std",4649,"Chiapas",2011,22,"All Ages",2,"Female",6548.5532
+1978,"phys_act_age_std",4650,"Chihuahua",2011,22,"All Ages",1,"Male",6783.6426
+1978,"phys_act_age_std",4650,"Chihuahua",2011,22,"All Ages",2,"Female",5608.8032
+1978,"phys_act_age_std",4651,"Mexico City",2011,22,"All Ages",1,"Male",3376.7705
+1978,"phys_act_age_std",4651,"Mexico City",2011,22,"All Ages",2,"Female",4421.2456
+1978,"phys_act_age_std",4652,"Durango",2011,22,"All Ages",1,"Male",7043.5366
+1978,"phys_act_age_std",4652,"Durango",2011,22,"All Ages",2,"Female",4909.7002
+1978,"phys_act_age_std",4653,"Guanajuato",2011,22,"All Ages",1,"Male",6905.4937
+1978,"phys_act_age_std",4653,"Guanajuato",2011,22,"All Ages",2,"Female",5213.3159
+1978,"phys_act_age_std",4654,"Guerrero",2011,22,"All Ages",1,"Male",7408.7324
+1978,"phys_act_age_std",4654,"Guerrero",2011,22,"All Ages",2,"Female",5769.6514
+1978,"phys_act_age_std",4655,"Hidalgo",2011,22,"All Ages",1,"Male",7546.5801
+1978,"phys_act_age_std",4655,"Hidalgo",2011,22,"All Ages",2,"Female",6842.6367
+1978,"phys_act_age_std",4656,"Jalisco",2011,22,"All Ages",1,"Male",7066.751
+1978,"phys_act_age_std",4656,"Jalisco",2011,22,"All Ages",2,"Female",6377.6792
+1978,"phys_act_age_std",4657,"México",2011,22,"All Ages",1,"Male",6381.4619
+1978,"phys_act_age_std",4657,"México",2011,22,"All Ages",2,"Female",5604.7202
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2011,22,"All Ages",1,"Male",6755.9238
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2011,22,"All Ages",2,"Female",4486.4731
+1978,"phys_act_age_std",4659,"Morelos",2011,22,"All Ages",1,"Male",6836.9624
+1978,"phys_act_age_std",4659,"Morelos",2011,22,"All Ages",2,"Female",5534.2314
+1978,"phys_act_age_std",4660,"Nayarit",2011,22,"All Ages",1,"Male",6835.0298
+1978,"phys_act_age_std",4660,"Nayarit",2011,22,"All Ages",2,"Female",5529.9932
+1978,"phys_act_age_std",4661,"Nuevo León",2011,22,"All Ages",1,"Male",5096.9912
+1978,"phys_act_age_std",4661,"Nuevo León",2011,22,"All Ages",2,"Female",4170.377
+1978,"phys_act_age_std",4662,"Oaxaca",2011,22,"All Ages",1,"Male",7758.0571
+1978,"phys_act_age_std",4662,"Oaxaca",2011,22,"All Ages",2,"Female",8686.1338
+1978,"phys_act_age_std",4663,"Puebla",2011,22,"All Ages",1,"Male",7185.8267
+1978,"phys_act_age_std",4663,"Puebla",2011,22,"All Ages",2,"Female",5821.3535
+1978,"phys_act_age_std",4664,"Querétaro",2011,22,"All Ages",1,"Male",7792.7002
+1978,"phys_act_age_std",4664,"Querétaro",2011,22,"All Ages",2,"Female",5862.9443
+1978,"phys_act_age_std",4665,"Quintana Roo",2011,22,"All Ages",1,"Male",6637.4146
+1978,"phys_act_age_std",4665,"Quintana Roo",2011,22,"All Ages",2,"Female",5382.9019
+1978,"phys_act_age_std",4666,"San Luis Potosí",2011,22,"All Ages",1,"Male",6702.1191
+1978,"phys_act_age_std",4666,"San Luis Potosí",2011,22,"All Ages",2,"Female",5650.1641
+1978,"phys_act_age_std",4667,"Sinaloa",2011,22,"All Ages",1,"Male",6806.4639
+1978,"phys_act_age_std",4667,"Sinaloa",2011,22,"All Ages",2,"Female",5945.3438
+1978,"phys_act_age_std",4668,"Sonora",2011,22,"All Ages",1,"Male",6552.5869
+1978,"phys_act_age_std",4668,"Sonora",2011,22,"All Ages",2,"Female",5831.2539
+1978,"phys_act_age_std",4669,"Tabasco",2011,22,"All Ages",1,"Male",6612.0107
+1978,"phys_act_age_std",4669,"Tabasco",2011,22,"All Ages",2,"Female",5388.2236
+1978,"phys_act_age_std",4670,"Tamaulipas",2011,22,"All Ages",1,"Male",6528.0381
+1978,"phys_act_age_std",4670,"Tamaulipas",2011,22,"All Ages",2,"Female",4535.7773
+1978,"phys_act_age_std",4671,"Tlaxcala",2011,22,"All Ages",1,"Male",7103.5098
+1978,"phys_act_age_std",4671,"Tlaxcala",2011,22,"All Ages",2,"Female",6391.6821
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",1,"Male",6753.5146
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",2,"Female",5586.4282
+1978,"phys_act_age_std",4673,"Yucatán",2011,22,"All Ages",1,"Male",6409.7676
+1978,"phys_act_age_std",4673,"Yucatán",2011,22,"All Ages",2,"Female",5519.8315
+1978,"phys_act_age_std",4674,"Zacatecas",2011,22,"All Ages",1,"Male",6823.5293
+1978,"phys_act_age_std",4674,"Zacatecas",2011,22,"All Ages",2,"Female",5555.3408
+1978,"phys_act_age_std",130,"Mexico",2012,22,"All Ages",1,"Male",6467.125
+1978,"phys_act_age_std",130,"Mexico",2012,22,"All Ages",2,"Female",5574.9141
+1978,"phys_act_age_std",4643,"Aguascalientes",2012,22,"All Ages",1,"Male",6754.7227
+1978,"phys_act_age_std",4643,"Aguascalientes",2012,22,"All Ages",2,"Female",6520.5493
+1978,"phys_act_age_std",4644,"Baja California",2012,22,"All Ages",1,"Male",6346.2217
+1978,"phys_act_age_std",4644,"Baja California",2012,22,"All Ages",2,"Female",5387.5259
+1978,"phys_act_age_std",4645,"Baja California Sur",2012,22,"All Ages",1,"Male",6559.897
+1978,"phys_act_age_std",4645,"Baja California Sur",2012,22,"All Ages",2,"Female",5355.4097
+1978,"phys_act_age_std",4646,"Campeche",2012,22,"All Ages",1,"Male",6651.269
+1978,"phys_act_age_std",4646,"Campeche",2012,22,"All Ages",2,"Female",5554.2842
+1978,"phys_act_age_std",4647,"Coahuila",2012,22,"All Ages",1,"Male",6516.7163
+1978,"phys_act_age_std",4647,"Coahuila",2012,22,"All Ages",2,"Female",5192.439
+1978,"phys_act_age_std",4648,"Colima",2012,22,"All Ages",1,"Male",6845.958
+1978,"phys_act_age_std",4648,"Colima",2012,22,"All Ages",2,"Female",5560.0171
+1978,"phys_act_age_std",4649,"Chiapas",2012,22,"All Ages",1,"Male",7282.5474
+1978,"phys_act_age_std",4649,"Chiapas",2012,22,"All Ages",2,"Female",6556.1279
+1978,"phys_act_age_std",4650,"Chihuahua",2012,22,"All Ages",1,"Male",6795.3521
+1978,"phys_act_age_std",4650,"Chihuahua",2012,22,"All Ages",2,"Female",5620.1362
+1978,"phys_act_age_std",4651,"Mexico City",2012,22,"All Ages",1,"Male",3383.6211
+1978,"phys_act_age_std",4651,"Mexico City",2012,22,"All Ages",2,"Female",4428.8037
+1978,"phys_act_age_std",4652,"Durango",2012,22,"All Ages",1,"Male",7063.125
+1978,"phys_act_age_std",4652,"Durango",2012,22,"All Ages",2,"Female",4920.7241
+1978,"phys_act_age_std",4653,"Guanajuato",2012,22,"All Ages",1,"Male",6913.8433
+1978,"phys_act_age_std",4653,"Guanajuato",2012,22,"All Ages",2,"Female",5220.6895
+1978,"phys_act_age_std",4654,"Guerrero",2012,22,"All Ages",1,"Male",7424.1621
+1978,"phys_act_age_std",4654,"Guerrero",2012,22,"All Ages",2,"Female",5776.7114
+1978,"phys_act_age_std",4655,"Hidalgo",2012,22,"All Ages",1,"Male",7561.3735
+1978,"phys_act_age_std",4655,"Hidalgo",2012,22,"All Ages",2,"Female",6858.8555
+1978,"phys_act_age_std",4656,"Jalisco",2012,22,"All Ages",1,"Male",7083.0269
+1978,"phys_act_age_std",4656,"Jalisco",2012,22,"All Ages",2,"Female",6386.4668
+1978,"phys_act_age_std",4657,"México",2012,22,"All Ages",1,"Male",6391.9434
+1978,"phys_act_age_std",4657,"México",2012,22,"All Ages",2,"Female",5612.627
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2012,22,"All Ages",1,"Male",6766.4692
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2012,22,"All Ages",2,"Female",4492.1108
+1978,"phys_act_age_std",4659,"Morelos",2012,22,"All Ages",1,"Male",6846.6465
+1978,"phys_act_age_std",4659,"Morelos",2012,22,"All Ages",2,"Female",5542.5513
+1978,"phys_act_age_std",4660,"Nayarit",2012,22,"All Ages",1,"Male",6842.6206
+1978,"phys_act_age_std",4660,"Nayarit",2012,22,"All Ages",2,"Female",5539.6133
+1978,"phys_act_age_std",4661,"Nuevo León",2012,22,"All Ages",1,"Male",5107.3525
+1978,"phys_act_age_std",4661,"Nuevo León",2012,22,"All Ages",2,"Female",4173.2539
+1978,"phys_act_age_std",4662,"Oaxaca",2012,22,"All Ages",1,"Male",7763.4443
+1978,"phys_act_age_std",4662,"Oaxaca",2012,22,"All Ages",2,"Female",8706.833
+1978,"phys_act_age_std",4663,"Puebla",2012,22,"All Ages",1,"Male",7196.8027
+1978,"phys_act_age_std",4663,"Puebla",2012,22,"All Ages",2,"Female",5814.5688
+1978,"phys_act_age_std",4664,"Querétaro",2012,22,"All Ages",1,"Male",7809.8013
+1978,"phys_act_age_std",4664,"Querétaro",2012,22,"All Ages",2,"Female",5870.2158
+1978,"phys_act_age_std",4665,"Quintana Roo",2012,22,"All Ages",1,"Male",6643.7432
+1978,"phys_act_age_std",4665,"Quintana Roo",2012,22,"All Ages",2,"Female",5393.3403
+1978,"phys_act_age_std",4666,"San Luis Potosí",2012,22,"All Ages",1,"Male",6709.9209
+1978,"phys_act_age_std",4666,"San Luis Potosí",2012,22,"All Ages",2,"Female",5660.937
+1978,"phys_act_age_std",4667,"Sinaloa",2012,22,"All Ages",1,"Male",6815.6182
+1978,"phys_act_age_std",4667,"Sinaloa",2012,22,"All Ages",2,"Female",5947.8906
+1978,"phys_act_age_std",4668,"Sonora",2012,22,"All Ages",1,"Male",6565.7075
+1978,"phys_act_age_std",4668,"Sonora",2012,22,"All Ages",2,"Female",5838.2661
+1978,"phys_act_age_std",4669,"Tabasco",2012,22,"All Ages",1,"Male",6621.9834
+1978,"phys_act_age_std",4669,"Tabasco",2012,22,"All Ages",2,"Female",5396.1411
+1978,"phys_act_age_std",4670,"Tamaulipas",2012,22,"All Ages",1,"Male",6538.3369
+1978,"phys_act_age_std",4670,"Tamaulipas",2012,22,"All Ages",2,"Female",4542.4272
+1978,"phys_act_age_std",4671,"Tlaxcala",2012,22,"All Ages",1,"Male",7112.3398
+1978,"phys_act_age_std",4671,"Tlaxcala",2012,22,"All Ages",2,"Female",6400.5259
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",1,"Male",6764.2515
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",2,"Female",5597.6626
+1978,"phys_act_age_std",4673,"Yucatán",2012,22,"All Ages",1,"Male",6416.272
+1978,"phys_act_age_std",4673,"Yucatán",2012,22,"All Ages",2,"Female",5528.7891
+1978,"phys_act_age_std",4674,"Zacatecas",2012,22,"All Ages",1,"Male",6833.0942
+1978,"phys_act_age_std",4674,"Zacatecas",2012,22,"All Ages",2,"Female",5566.168
+1978,"phys_act_age_std",130,"Mexico",2013,22,"All Ages",1,"Male",6473.9746
+1978,"phys_act_age_std",130,"Mexico",2013,22,"All Ages",2,"Female",5579.7344
+1978,"phys_act_age_std",4643,"Aguascalientes",2013,22,"All Ages",1,"Male",6758.2793
+1978,"phys_act_age_std",4643,"Aguascalientes",2013,22,"All Ages",2,"Female",6527.5225
+1978,"phys_act_age_std",4644,"Baja California",2013,22,"All Ages",1,"Male",6348.437
+1978,"phys_act_age_std",4644,"Baja California",2013,22,"All Ages",2,"Female",5392.7905
+1978,"phys_act_age_std",4645,"Baja California Sur",2013,22,"All Ages",1,"Male",6564.6182
+1978,"phys_act_age_std",4645,"Baja California Sur",2013,22,"All Ages",2,"Female",5359.3999
+1978,"phys_act_age_std",4646,"Campeche",2013,22,"All Ages",1,"Male",6653.9443
+1978,"phys_act_age_std",4646,"Campeche",2013,22,"All Ages",2,"Female",5559.2705
+1978,"phys_act_age_std",4647,"Coahuila",2013,22,"All Ages",1,"Male",6520.4487
+1978,"phys_act_age_std",4647,"Coahuila",2013,22,"All Ages",2,"Female",5197.2622
+1978,"phys_act_age_std",4648,"Colima",2013,22,"All Ages",1,"Male",6849.1987
+1978,"phys_act_age_std",4648,"Colima",2013,22,"All Ages",2,"Female",5565.2959
+1978,"phys_act_age_std",4649,"Chiapas",2013,22,"All Ages",1,"Male",7287.3223
+1978,"phys_act_age_std",4649,"Chiapas",2013,22,"All Ages",2,"Female",6560.0532
+1978,"phys_act_age_std",4650,"Chihuahua",2013,22,"All Ages",1,"Male",6801.2627
+1978,"phys_act_age_std",4650,"Chihuahua",2013,22,"All Ages",2,"Female",5625.9106
+1978,"phys_act_age_std",4651,"Mexico City",2013,22,"All Ages",1,"Male",3387.1492
+1978,"phys_act_age_std",4651,"Mexico City",2013,22,"All Ages",2,"Female",4432.7383
+1978,"phys_act_age_std",4652,"Durango",2013,22,"All Ages",1,"Male",7072.9438
+1978,"phys_act_age_std",4652,"Durango",2013,22,"All Ages",2,"Female",4926.312
+1978,"phys_act_age_std",4653,"Guanajuato",2013,22,"All Ages",1,"Male",6918.0918
+1978,"phys_act_age_std",4653,"Guanajuato",2013,22,"All Ages",2,"Female",5224.5547
+1978,"phys_act_age_std",4654,"Guerrero",2013,22,"All Ages",1,"Male",7431.9038
+1978,"phys_act_age_std",4654,"Guerrero",2013,22,"All Ages",2,"Female",5780.4106
+1978,"phys_act_age_std",4655,"Hidalgo",2013,22,"All Ages",1,"Male",7568.834
+1978,"phys_act_age_std",4655,"Hidalgo",2013,22,"All Ages",2,"Female",6867.0566
+1978,"phys_act_age_std",4656,"Jalisco",2013,22,"All Ages",1,"Male",7091.1953
+1978,"phys_act_age_std",4656,"Jalisco",2013,22,"All Ages",2,"Female",6391.0117
+1978,"phys_act_age_std",4657,"México",2013,22,"All Ages",1,"Male",6397.2808
+1978,"phys_act_age_std",4657,"México",2013,22,"All Ages",2,"Female",5616.7285
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2013,22,"All Ages",1,"Male",6771.8115
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2013,22,"All Ages",2,"Female",4494.895
+1978,"phys_act_age_std",4659,"Morelos",2013,22,"All Ages",1,"Male",6851.5771
+1978,"phys_act_age_std",4659,"Morelos",2013,22,"All Ages",2,"Female",5546.856
+1978,"phys_act_age_std",4660,"Nayarit",2013,22,"All Ages",1,"Male",6846.5303
+1978,"phys_act_age_std",4660,"Nayarit",2013,22,"All Ages",2,"Female",5544.5615
+1978,"phys_act_age_std",4661,"Nuevo León",2013,22,"All Ages",1,"Male",5112.6543
+1978,"phys_act_age_std",4661,"Nuevo León",2013,22,"All Ages",2,"Female",4174.8047
+1978,"phys_act_age_std",4662,"Oaxaca",2013,22,"All Ages",1,"Male",7766.2632
+1978,"phys_act_age_std",4662,"Oaxaca",2013,22,"All Ages",2,"Female",8717.1211
+1978,"phys_act_age_std",4663,"Puebla",2013,22,"All Ages",1,"Male",7202.3745
+1978,"phys_act_age_std",4663,"Puebla",2013,22,"All Ages",2,"Female",5811.4175
+1978,"phys_act_age_std",4664,"Querétaro",2013,22,"All Ages",1,"Male",7818.3618
+1978,"phys_act_age_std",4664,"Querétaro",2013,22,"All Ages",2,"Female",5874.0088
+1978,"phys_act_age_std",4665,"Quintana Roo",2013,22,"All Ages",1,"Male",6647.0024
+1978,"phys_act_age_std",4665,"Quintana Roo",2013,22,"All Ages",2,"Female",5398.7026
+1978,"phys_act_age_std",4666,"San Luis Potosí",2013,22,"All Ages",1,"Male",6713.9336
+1978,"phys_act_age_std",4666,"San Luis Potosí",2013,22,"All Ages",2,"Female",5666.4458
+1978,"phys_act_age_std",4667,"Sinaloa",2013,22,"All Ages",1,"Male",6820.3232
+1978,"phys_act_age_std",4667,"Sinaloa",2013,22,"All Ages",2,"Female",5949.3442
+1978,"phys_act_age_std",4668,"Sonora",2013,22,"All Ages",1,"Male",6572.3408
+1978,"phys_act_age_std",4668,"Sonora",2013,22,"All Ages",2,"Female",5841.8057
+1978,"phys_act_age_std",4669,"Tabasco",2013,22,"All Ages",1,"Male",6627.0371
+1978,"phys_act_age_std",4669,"Tabasco",2013,22,"All Ages",2,"Female",5400.248
+1978,"phys_act_age_std",4670,"Tamaulipas",2013,22,"All Ages",1,"Male",6543.5576
+1978,"phys_act_age_std",4670,"Tamaulipas",2013,22,"All Ages",2,"Female",4545.9019
+1978,"phys_act_age_std",4671,"Tlaxcala",2013,22,"All Ages",1,"Male",7116.8628
+1978,"phys_act_age_std",4671,"Tlaxcala",2013,22,"All Ages",2,"Female",6405.0908
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",1,"Male",6769.7231
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",2,"Female",5603.4082
+1978,"phys_act_age_std",4673,"Yucatán",2013,22,"All Ages",1,"Male",6419.6226
+1978,"phys_act_age_std",4673,"Yucatán",2013,22,"All Ages",2,"Female",5533.4165
+1978,"phys_act_age_std",4674,"Zacatecas",2013,22,"All Ages",1,"Male",6837.9785
+1978,"phys_act_age_std",4674,"Zacatecas",2013,22,"All Ages",2,"Female",5571.7075
+1978,"phys_act_age_std",130,"Mexico",2014,22,"All Ages",1,"Male",6479.8359
+1978,"phys_act_age_std",130,"Mexico",2014,22,"All Ages",2,"Female",5583.6719
+1978,"phys_act_age_std",4643,"Aguascalientes",2014,22,"All Ages",1,"Male",6761.2231
+1978,"phys_act_age_std",4643,"Aguascalientes",2014,22,"All Ages",2,"Female",6533.5527
+1978,"phys_act_age_std",4644,"Baja California",2014,22,"All Ages",1,"Male",6350.063
+1978,"phys_act_age_std",4644,"Baja California",2014,22,"All Ages",2,"Female",5397.1592
+1978,"phys_act_age_std",4645,"Baja California Sur",2014,22,"All Ages",1,"Male",6568.6401
+1978,"phys_act_age_std",4645,"Baja California Sur",2014,22,"All Ages",2,"Female",5362.4937
+1978,"phys_act_age_std",4646,"Campeche",2014,22,"All Ages",1,"Male",6656.0005
+1978,"phys_act_age_std",4646,"Campeche",2014,22,"All Ages",2,"Female",5563.3301
+1978,"phys_act_age_std",4647,"Coahuila",2014,22,"All Ages",1,"Male",6523.5317
+1978,"phys_act_age_std",4647,"Coahuila",2014,22,"All Ages",2,"Female",5201.1646
+1978,"phys_act_age_std",4648,"Colima",2014,22,"All Ages",1,"Male",6851.8188
+1978,"phys_act_age_std",4648,"Colima",2014,22,"All Ages",2,"Female",5569.5854
+1978,"phys_act_age_std",4649,"Chiapas",2014,22,"All Ages",1,"Male",7291.3105
+1978,"phys_act_age_std",4649,"Chiapas",2014,22,"All Ages",2,"Female",6563.1709
+1978,"phys_act_age_std",4650,"Chihuahua",2014,22,"All Ages",1,"Male",6806.4287
+1978,"phys_act_age_std",4650,"Chihuahua",2014,22,"All Ages",2,"Female",5630.7383
+1978,"phys_act_age_std",4651,"Mexico City",2014,22,"All Ages",1,"Male",3389.98
+1978,"phys_act_age_std",4651,"Mexico City",2014,22,"All Ages",2,"Female",4435.8638
+1978,"phys_act_age_std",4652,"Durango",2014,22,"All Ages",1,"Male",7081.6938
+1978,"phys_act_age_std",4652,"Durango",2014,22,"All Ages",2,"Female",4931.062
+1978,"phys_act_age_std",4653,"Guanajuato",2014,22,"All Ages",1,"Male",6921.6992
+1978,"phys_act_age_std",4653,"Guanajuato",2014,22,"All Ages",2,"Female",5227.5073
+1978,"phys_act_age_std",4654,"Guerrero",2014,22,"All Ages",1,"Male",7438.811
+1978,"phys_act_age_std",4654,"Guerrero",2014,22,"All Ages",2,"Female",5783.1943
+1978,"phys_act_age_std",4655,"Hidalgo",2014,22,"All Ages",1,"Male",7575.354
+1978,"phys_act_age_std",4655,"Hidalgo",2014,22,"All Ages",2,"Female",6874.1924
+1978,"phys_act_age_std",4656,"Jalisco",2014,22,"All Ages",1,"Male",7098.4253
+1978,"phys_act_age_std",4656,"Jalisco",2014,22,"All Ages",2,"Female",6394.6631
+1978,"phys_act_age_std",4657,"México",2014,22,"All Ages",1,"Male",6401.7969
+1978,"phys_act_age_std",4657,"México",2014,22,"All Ages",2,"Female",5619.957
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2014,22,"All Ages",1,"Male",6776.3975
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2014,22,"All Ages",2,"Female",4497.4785
+1978,"phys_act_age_std",4659,"Morelos",2014,22,"All Ages",1,"Male",6855.7798
+1978,"phys_act_age_std",4659,"Morelos",2014,22,"All Ages",2,"Female",5550.2646
+1978,"phys_act_age_std",4660,"Nayarit",2014,22,"All Ages",1,"Male",6849.7285
+1978,"phys_act_age_std",4660,"Nayarit",2014,22,"All Ages",2,"Female",5548.5845
+1978,"phys_act_age_std",4661,"Nuevo León",2014,22,"All Ages",1,"Male",5117.0063
+1978,"phys_act_age_std",4661,"Nuevo León",2014,22,"All Ages",2,"Female",4175.8687
+1978,"phys_act_age_std",4662,"Oaxaca",2014,22,"All Ages",1,"Male",7768.4336
+1978,"phys_act_age_std",4662,"Oaxaca",2014,22,"All Ages",2,"Female",8726.6104
+1978,"phys_act_age_std",4663,"Puebla",2014,22,"All Ages",1,"Male",7207.1309
+1978,"phys_act_age_std",4663,"Puebla",2014,22,"All Ages",2,"Female",5807.8647
+1978,"phys_act_age_std",4664,"Querétaro",2014,22,"All Ages",1,"Male",7826.0811
+1978,"phys_act_age_std",4664,"Querétaro",2014,22,"All Ages",2,"Female",5876.9634
+1978,"phys_act_age_std",4665,"Quintana Roo",2014,22,"All Ages",1,"Male",6649.6621
+1978,"phys_act_age_std",4665,"Quintana Roo",2014,22,"All Ages",2,"Female",5403.0781
+1978,"phys_act_age_std",4666,"San Luis Potosí",2014,22,"All Ages",1,"Male",6717.2217
+1978,"phys_act_age_std",4666,"San Luis Potosí",2014,22,"All Ages",2,"Female",5671.0034
+1978,"phys_act_age_std",4667,"Sinaloa",2014,22,"All Ages",1,"Male",6824.1689
+1978,"phys_act_age_std",4667,"Sinaloa",2014,22,"All Ages",2,"Female",5950.1055
+1978,"phys_act_age_std",4668,"Sonora",2014,22,"All Ages",1,"Male",6578.084
+1978,"phys_act_age_std",4668,"Sonora",2014,22,"All Ages",2,"Female",5845.1025
+1978,"phys_act_age_std",4669,"Tabasco",2014,22,"All Ages",1,"Male",6631.3975
+1978,"phys_act_age_std",4669,"Tabasco",2014,22,"All Ages",2,"Female",5403.4878
+1978,"phys_act_age_std",4670,"Tamaulipas",2014,22,"All Ages",1,"Male",6548.0249
+1978,"phys_act_age_std",4670,"Tamaulipas",2014,22,"All Ages",2,"Female",4548.5815
+1978,"phys_act_age_std",4671,"Tlaxcala",2014,22,"All Ages",1,"Male",7120.6143
+1978,"phys_act_age_std",4671,"Tlaxcala",2014,22,"All Ages",2,"Female",6408.7676
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",1,"Male",6774.3438
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",2,"Female",5608.1704
+1978,"phys_act_age_std",4673,"Yucatán",2014,22,"All Ages",1,"Male",6422.3281
+1978,"phys_act_age_std",4673,"Yucatán",2014,22,"All Ages",2,"Female",5537.0942
+1978,"phys_act_age_std",4674,"Zacatecas",2014,22,"All Ages",1,"Male",6842.0742
+1978,"phys_act_age_std",4674,"Zacatecas",2014,22,"All Ages",2,"Female",5576.2964
+1978,"phys_act_age_std",130,"Mexico",2015,22,"All Ages",1,"Male",6484.3794
+1978,"phys_act_age_std",130,"Mexico",2015,22,"All Ages",2,"Female",5586.542
+1978,"phys_act_age_std",4643,"Aguascalientes",2015,22,"All Ages",1,"Male",6763.4033
+1978,"phys_act_age_std",4643,"Aguascalientes",2015,22,"All Ages",2,"Female",6538.2803
+1978,"phys_act_age_std",4644,"Baja California",2015,22,"All Ages",1,"Male",6351.0674
+1978,"phys_act_age_std",4644,"Baja California",2015,22,"All Ages",2,"Female",5400.4141
+1978,"phys_act_age_std",4645,"Baja California Sur",2015,22,"All Ages",1,"Male",6571.7368
+1978,"phys_act_age_std",4645,"Baja California Sur",2015,22,"All Ages",2,"Female",5364.584
+1978,"phys_act_age_std",4646,"Campeche",2015,22,"All Ages",1,"Male",6657.3696
+1978,"phys_act_age_std",4646,"Campeche",2015,22,"All Ages",2,"Female",5566.2813
+1978,"phys_act_age_std",4647,"Coahuila",2015,22,"All Ages",1,"Male",6525.8154
+1978,"phys_act_age_std",4647,"Coahuila",2015,22,"All Ages",2,"Female",5203.9756
+1978,"phys_act_age_std",4648,"Colima",2015,22,"All Ages",1,"Male",6853.7021
+1978,"phys_act_age_std",4648,"Colima",2015,22,"All Ages",2,"Female",5572.6982
+1978,"phys_act_age_std",4649,"Chiapas",2015,22,"All Ages",1,"Male",7294.3057
+1978,"phys_act_age_std",4649,"Chiapas",2015,22,"All Ages",2,"Female",6565.354
+1978,"phys_act_age_std",4650,"Chihuahua",2015,22,"All Ages",1,"Male",6810.5264
+1978,"phys_act_age_std",4650,"Chihuahua",2015,22,"All Ages",2,"Female",5634.377
+1978,"phys_act_age_std",4651,"Mexico City",2015,22,"All Ages",1,"Male",3392.0005
+1978,"phys_act_age_std",4651,"Mexico City",2015,22,"All Ages",2,"Female",4438.04
+1978,"phys_act_age_std",4652,"Durango",2015,22,"All Ages",1,"Male",7088.8013
+1978,"phys_act_age_std",4652,"Durango",2015,22,"All Ages",2,"Female",4934.7212
+1978,"phys_act_age_std",4653,"Guanajuato",2015,22,"All Ages",1,"Male",6924.4644
+1978,"phys_act_age_std",4653,"Guanajuato",2015,22,"All Ages",2,"Female",5229.4531
+1978,"phys_act_age_std",4654,"Guerrero",2015,22,"All Ages",1,"Male",7444.4224
+1978,"phys_act_age_std",4654,"Guerrero",2015,22,"All Ages",2,"Female",5784.9937
+1978,"phys_act_age_std",4655,"Hidalgo",2015,22,"All Ages",1,"Male",7580.5313
+1978,"phys_act_age_std",4655,"Hidalgo",2015,22,"All Ages",2,"Female",6879.8208
+1978,"phys_act_age_std",4656,"Jalisco",2015,22,"All Ages",1,"Male",7104.2573
+1978,"phys_act_age_std",4656,"Jalisco",2015,22,"All Ages",2,"Female",6397.2578
+1978,"phys_act_age_std",4657,"México",2015,22,"All Ages",1,"Male",6405.2437
+1978,"phys_act_age_std",4657,"México",2015,22,"All Ages",2,"Female",5622.1919
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2015,22,"All Ages",1,"Male",6779.9639
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2015,22,"All Ages",2,"Female",4499.6768
+1978,"phys_act_age_std",4659,"Morelos",2015,22,"All Ages",1,"Male",6859.0093
+1978,"phys_act_age_std",4659,"Morelos",2015,22,"All Ages",2,"Female",5552.6479
+1978,"phys_act_age_std",4660,"Nayarit",2015,22,"All Ages",1,"Male",6852.0586
+1978,"phys_act_age_std",4660,"Nayarit",2015,22,"All Ages",2,"Female",5551.5
+1978,"phys_act_age_std",4661,"Nuevo León",2015,22,"All Ages",1,"Male",5120.2114
+1978,"phys_act_age_std",4661,"Nuevo León",2015,22,"All Ages",2,"Female",4176.4395
+1978,"phys_act_age_std",4662,"Oaxaca",2015,22,"All Ages",1,"Male",7769.8799
+1978,"phys_act_age_std",4662,"Oaxaca",2015,22,"All Ages",2,"Female",8734.5977
+1978,"phys_act_age_std",4663,"Puebla",2015,22,"All Ages",1,"Male",7210.8032
+1978,"phys_act_age_std",4663,"Puebla",2015,22,"All Ages",2,"Female",5804.2983
+1978,"phys_act_age_std",4664,"Querétaro",2015,22,"All Ages",1,"Male",7832.4214
+1978,"phys_act_age_std",4664,"Querétaro",2015,22,"All Ages",2,"Female",5878.9692
+1978,"phys_act_age_std",4665,"Quintana Roo",2015,22,"All Ages",1,"Male",6651.5942
+1978,"phys_act_age_std",4665,"Quintana Roo",2015,22,"All Ages",2,"Female",5406.2661
+1978,"phys_act_age_std",4666,"San Luis Potosí",2015,22,"All Ages",1,"Male",6719.624
+1978,"phys_act_age_std",4666,"San Luis Potosí",2015,22,"All Ages",2,"Female",5674.3901
+1978,"phys_act_age_std",4667,"Sinaloa",2015,22,"All Ages",1,"Male",6826.9746
+1978,"phys_act_age_std",4667,"Sinaloa",2015,22,"All Ages",2,"Female",5950.2358
+1978,"phys_act_age_std",4668,"Sonora",2015,22,"All Ages",1,"Male",6582.5957
+1978,"phys_act_age_std",4668,"Sonora",2015,22,"All Ages",2,"Female",5847.8613
+1978,"phys_act_age_std",4669,"Tabasco",2015,22,"All Ages",1,"Male",6634.8047
+1978,"phys_act_age_std",4669,"Tabasco",2015,22,"All Ages",2,"Female",5405.7368
+1978,"phys_act_age_std",4670,"Tamaulipas",2015,22,"All Ages",1,"Male",6551.4868
+1978,"phys_act_age_std",4670,"Tamaulipas",2015,22,"All Ages",2,"Female",4550.3755
+1978,"phys_act_age_std",4671,"Tlaxcala",2015,22,"All Ages",1,"Male",7123.4033
+1978,"phys_act_age_std",4671,"Tlaxcala",2015,22,"All Ages",2,"Female",6411.395
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",1,"Male",6777.8604
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",2,"Female",5611.7144
+1978,"phys_act_age_std",4673,"Yucatán",2015,22,"All Ages",1,"Male",6424.2715
+1978,"phys_act_age_std",4673,"Yucatán",2015,22,"All Ages",2,"Female",5539.6816
+1978,"phys_act_age_std",4674,"Zacatecas",2015,22,"All Ages",1,"Male",6845.1631
+1978,"phys_act_age_std",4674,"Zacatecas",2015,22,"All Ages",2,"Female",5579.7085
+1978,"phys_act_age_std",130,"Mexico",2016,22,"All Ages",1,"Male",6487.0977
+1978,"phys_act_age_std",130,"Mexico",2016,22,"All Ages",2,"Female",5588.1069
+1978,"phys_act_age_std",4643,"Aguascalientes",2016,22,"All Ages",1,"Male",6764.6211
+1978,"phys_act_age_std",4643,"Aguascalientes",2016,22,"All Ages",2,"Female",6541.1484
+1978,"phys_act_age_std",4644,"Baja California",2016,22,"All Ages",1,"Male",6351.4575
+1978,"phys_act_age_std",4644,"Baja California",2016,22,"All Ages",2,"Female",5402.252
+1978,"phys_act_age_std",4645,"Baja California Sur",2016,22,"All Ages",1,"Male",6573.5698
+1978,"phys_act_age_std",4645,"Baja California Sur",2016,22,"All Ages",2,"Female",5365.5801
+1978,"phys_act_age_std",4646,"Campeche",2016,22,"All Ages",1,"Male",6658.0029
+1978,"phys_act_age_std",4646,"Campeche",2016,22,"All Ages",2,"Female",5567.8867
+1978,"phys_act_age_std",4647,"Coahuila",2016,22,"All Ages",1,"Male",6527.0947
+1978,"phys_act_age_std",4647,"Coahuila",2016,22,"All Ages",2,"Female",5205.4824
+1978,"phys_act_age_std",4648,"Colima",2016,22,"All Ages",1,"Male",6854.7056
+1978,"phys_act_age_std",4648,"Colima",2016,22,"All Ages",2,"Female",5574.3882
+1978,"phys_act_age_std",4649,"Chiapas",2016,22,"All Ages",1,"Male",7296.0166
+1978,"phys_act_age_std",4649,"Chiapas",2016,22,"All Ages",2,"Female",6566.4668
+1978,"phys_act_age_std",4650,"Chihuahua",2016,22,"All Ages",1,"Male",6813.0503
+1978,"phys_act_age_std",4650,"Chihuahua",2016,22,"All Ages",2,"Female",5636.4727
+1978,"phys_act_age_std",4651,"Mexico City",2016,22,"All Ages",1,"Male",3393.0696
+1978,"phys_act_age_std",4651,"Mexico City",2016,22,"All Ages",2,"Female",4439.1304
+1978,"phys_act_age_std",4652,"Durango",2016,22,"All Ages",1,"Male",7093.3179
+1978,"phys_act_age_std",4652,"Durango",2016,22,"All Ages",2,"Female",4936.8965
+1978,"phys_act_age_std",4653,"Guanajuato",2016,22,"All Ages",1,"Male",6926.0894
+1978,"phys_act_age_std",4653,"Guanajuato",2016,22,"All Ages",2,"Female",5230.3311
+1978,"phys_act_age_std",4654,"Guerrero",2016,22,"All Ages",1,"Male",7447.9854
+1978,"phys_act_age_std",4654,"Guerrero",2016,22,"All Ages",2,"Female",5785.7783
+1978,"phys_act_age_std",4655,"Hidalgo",2016,22,"All Ages",1,"Male",7583.728
+1978,"phys_act_age_std",4655,"Hidalgo",2016,22,"All Ages",2,"Female",6883.2603
+1978,"phys_act_age_std",4656,"Jalisco",2016,22,"All Ages",1,"Male",7107.9346
+1978,"phys_act_age_std",4656,"Jalisco",2016,22,"All Ages",2,"Female",6398.6118
+1978,"phys_act_age_std",4657,"México",2016,22,"All Ages",1,"Male",6407.2578
+1978,"phys_act_age_std",4657,"México",2016,22,"All Ages",2,"Female",5623.3096
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2016,22,"All Ages",1,"Male",6782.1069
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2016,22,"All Ages",2,"Female",4501.1548
+1978,"phys_act_age_std",4659,"Morelos",2016,22,"All Ages",1,"Male",6860.9116
+1978,"phys_act_age_std",4659,"Morelos",2016,22,"All Ages",2,"Female",5553.8628
+1978,"phys_act_age_std",4660,"Nayarit",2016,22,"All Ages",1,"Male",6853.3242
+1978,"phys_act_age_std",4660,"Nayarit",2016,22,"All Ages",2,"Female",5553.0767
+1978,"phys_act_age_std",4661,"Nuevo León",2016,22,"All Ages",1,"Male",5121.9961
+1978,"phys_act_age_std",4661,"Nuevo León",2016,22,"All Ages",2,"Female",4176.5703
+1978,"phys_act_age_std",4662,"Oaxaca",2016,22,"All Ages",1,"Male",7770.5483
+1978,"phys_act_age_std",4662,"Oaxaca",2016,22,"All Ages",2,"Female",8739.8857
+1978,"phys_act_age_std",4663,"Puebla",2016,22,"All Ages",1,"Male",7212.9858
+1978,"phys_act_age_std",4663,"Puebla",2016,22,"All Ages",2,"Female",5801.4956
+1978,"phys_act_age_std",4664,"Querétaro",2016,22,"All Ages",1,"Male",7836.498
+1978,"phys_act_age_std",4664,"Querétaro",2016,22,"All Ages",2,"Female",5879.9316
+1978,"phys_act_age_std",4665,"Quintana Roo",2016,22,"All Ages",1,"Male",6652.6411
+1978,"phys_act_age_std",4665,"Quintana Roo",2016,22,"All Ages",2,"Female",5408.0063
+1978,"phys_act_age_std",4666,"San Luis Potosí",2016,22,"All Ages",1,"Male",6720.937
+1978,"phys_act_age_std",4666,"San Luis Potosí",2016,22,"All Ages",2,"Female",5676.2983
+1978,"phys_act_age_std",4667,"Sinaloa",2016,22,"All Ages",1,"Male",6828.5068
+1978,"phys_act_age_std",4667,"Sinaloa",2016,22,"All Ages",2,"Female",5949.9351
+1978,"phys_act_age_std",4668,"Sonora",2016,22,"All Ages",1,"Male",6585.3418
+1978,"phys_act_age_std",4668,"Sonora",2016,22,"All Ages",2,"Female",5849.6523
+1978,"phys_act_age_std",4669,"Tabasco",2016,22,"All Ages",1,"Male",6636.8604
+1978,"phys_act_age_std",4669,"Tabasco",2016,22,"All Ages",2,"Female",5406.8657
+1978,"phys_act_age_std",4670,"Tamaulipas",2016,22,"All Ages",1,"Male",6553.5571
+1978,"phys_act_age_std",4670,"Tamaulipas",2016,22,"All Ages",2,"Female",4551.2134
+1978,"phys_act_age_std",4671,"Tlaxcala",2016,22,"All Ages",1,"Male",7124.9707
+1978,"phys_act_age_std",4671,"Tlaxcala",2016,22,"All Ages",2,"Female",6412.7827
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",1,"Male",6779.9072
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",2,"Female",5613.7134
+1978,"phys_act_age_std",4673,"Yucatán",2016,22,"All Ages",1,"Male",6425.3081
+1978,"phys_act_age_std",4673,"Yucatán",2016,22,"All Ages",2,"Female",5541.0166
+1978,"phys_act_age_std",4674,"Zacatecas",2016,22,"All Ages",1,"Male",6846.937
+1978,"phys_act_age_std",4674,"Zacatecas",2016,22,"All Ages",2,"Female",5581.6299
+1978,"phys_act_age_std",130,"Mexico",2017,22,"All Ages",1,"Male",6487.1392
+1978,"phys_act_age_std",130,"Mexico",2017,22,"All Ages",2,"Female",5588.0376
+1978,"phys_act_age_std",4643,"Aguascalientes",2017,22,"All Ages",1,"Male",6764.5879
+1978,"phys_act_age_std",4643,"Aguascalientes",2017,22,"All Ages",2,"Female",6541.2207
+1978,"phys_act_age_std",4644,"Baja California",2017,22,"All Ages",1,"Male",6351.3315
+1978,"phys_act_age_std",4644,"Baja California",2017,22,"All Ages",2,"Female",5402.2124
+1978,"phys_act_age_std",4645,"Baja California Sur",2017,22,"All Ages",1,"Male",6573.5874
+1978,"phys_act_age_std",4645,"Baja California Sur",2017,22,"All Ages",2,"Female",5365.437
+1978,"phys_act_age_std",4646,"Campeche",2017,22,"All Ages",1,"Male",6657.8975
+1978,"phys_act_age_std",4646,"Campeche",2017,22,"All Ages",2,"Female",5567.8101
+1978,"phys_act_age_std",4647,"Coahuila",2017,22,"All Ages",1,"Male",6527.0601
+1978,"phys_act_age_std",4647,"Coahuila",2017,22,"All Ages",2,"Female",5205.3955
+1978,"phys_act_age_std",4648,"Colima",2017,22,"All Ages",1,"Male",6854.645
+1978,"phys_act_age_std",4648,"Colima",2017,22,"All Ages",2,"Female",5574.3037
+1978,"phys_act_age_std",4649,"Chiapas",2017,22,"All Ages",1,"Male",7295.9937
+1978,"phys_act_age_std",4649,"Chiapas",2017,22,"All Ages",2,"Female",6566.3643
+1978,"phys_act_age_std",4650,"Chihuahua",2017,22,"All Ages",1,"Male",6813.1382
+1978,"phys_act_age_std",4650,"Chihuahua",2017,22,"All Ages",2,"Female",5636.4512
+1978,"phys_act_age_std",4651,"Mexico City",2017,22,"All Ages",1,"Male",3392.9961
+1978,"phys_act_age_std",4651,"Mexico City",2017,22,"All Ages",2,"Female",4439.0225
+1978,"phys_act_age_std",4652,"Durango",2017,22,"All Ages",1,"Male",7093.5547
+1978,"phys_act_age_std",4652,"Durango",2017,22,"All Ages",2,"Female",4936.917
+1978,"phys_act_age_std",4653,"Guanajuato",2017,22,"All Ages",1,"Male",6926.0986
+1978,"phys_act_age_std",4653,"Guanajuato",2017,22,"All Ages",2,"Female",5230.1685
+1978,"phys_act_age_std",4654,"Guerrero",2017,22,"All Ages",1,"Male",7448.1738
+1978,"phys_act_age_std",4654,"Guerrero",2017,22,"All Ages",2,"Female",5785.605
+1978,"phys_act_age_std",4655,"Hidalgo",2017,22,"All Ages",1,"Male",7583.8408
+1978,"phys_act_age_std",4655,"Hidalgo",2017,22,"All Ages",2,"Female",6883.3643
+1978,"phys_act_age_std",4656,"Jalisco",2017,22,"All Ages",1,"Male",7108.1079
+1978,"phys_act_age_std",4656,"Jalisco",2017,22,"All Ages",2,"Female",6398.5127
+1978,"phys_act_age_std",4657,"México",2017,22,"All Ages",1,"Male",6407.2612
+1978,"phys_act_age_std",4657,"México",2017,22,"All Ages",2,"Female",5623.189
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2017,22,"All Ages",1,"Male",6782.146
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2017,22,"All Ages",2,"Female",4501.2769
+1978,"phys_act_age_std",4659,"Morelos",2017,22,"All Ages",1,"Male",6860.9277
+1978,"phys_act_age_std",4659,"Morelos",2017,22,"All Ages",2,"Female",5553.748
+1978,"phys_act_age_std",4660,"Nayarit",2017,22,"All Ages",1,"Male",6853.2676
+1978,"phys_act_age_std",4660,"Nayarit",2017,22,"All Ages",2,"Female",5552.9966
+1978,"phys_act_age_std",4661,"Nuevo León",2017,22,"All Ages",1,"Male",5121.9355
+1978,"phys_act_age_std",4661,"Nuevo León",2017,22,"All Ages",2,"Female",4176.4419
+1978,"phys_act_age_std",4662,"Oaxaca",2017,22,"All Ages",1,"Male",7770.4375
+1978,"phys_act_age_std",4662,"Oaxaca",2017,22,"All Ages",2,"Female",8740.2939
+1978,"phys_act_age_std",4663,"Puebla",2017,22,"All Ages",1,"Male",7213.0117
+1978,"phys_act_age_std",4663,"Puebla",2017,22,"All Ages",2,"Female",5801.0347
+1978,"phys_act_age_std",4664,"Querétaro",2017,22,"All Ages",1,"Male",7836.7456
+1978,"phys_act_age_std",4664,"Querétaro",2017,22,"All Ages",2,"Female",5879.8013
+1978,"phys_act_age_std",4665,"Quintana Roo",2017,22,"All Ages",1,"Male",6652.5913
+1978,"phys_act_age_std",4665,"Quintana Roo",2017,22,"All Ages",2,"Female",5407.9287
+1978,"phys_act_age_std",4666,"San Luis Potosí",2017,22,"All Ages",1,"Male",6720.8828
+1978,"phys_act_age_std",4666,"San Luis Potosí",2017,22,"All Ages",2,"Female",5676.252
+1978,"phys_act_age_std",4667,"Sinaloa",2017,22,"All Ages",1,"Male",6828.4404
+1978,"phys_act_age_std",4667,"Sinaloa",2017,22,"All Ages",2,"Female",5949.6934
+1978,"phys_act_age_std",4668,"Sonora",2017,22,"All Ages",1,"Male",6585.4146
+1978,"phys_act_age_std",4668,"Sonora",2017,22,"All Ages",2,"Female",5849.7925
+1978,"phys_act_age_std",4669,"Tabasco",2017,22,"All Ages",1,"Male",6636.9063
+1978,"phys_act_age_std",4669,"Tabasco",2017,22,"All Ages",2,"Female",5406.748
+1978,"phys_act_age_std",4670,"Tamaulipas",2017,22,"All Ages",1,"Male",6553.5884
+1978,"phys_act_age_std",4670,"Tamaulipas",2017,22,"All Ages",2,"Female",4551.0811
+1978,"phys_act_age_std",4671,"Tlaxcala",2017,22,"All Ages",1,"Male",7124.9341
+1978,"phys_act_age_std",4671,"Tlaxcala",2017,22,"All Ages",2,"Female",6412.6899
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",1,"Male",6779.9058
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",2,"Female",5613.668
+1978,"phys_act_age_std",4673,"Yucatán",2017,22,"All Ages",1,"Male",6425.2451
+1978,"phys_act_age_std",4673,"Yucatán",2017,22,"All Ages",2,"Female",5540.9009
+1978,"phys_act_age_std",4674,"Zacatecas",2017,22,"All Ages",1,"Male",6846.9204
+1978,"phys_act_age_std",4674,"Zacatecas",2017,22,"All Ages",2,"Female",5581.585
+1978,"phys_act_age_std",130,"Mexico",2018,22,"All Ages",1,"Male",6487.96567130499
+1978,"phys_act_age_std",130,"Mexico",2018,22,"All Ages",2,"Female",5588.62185940172
+1978,"phys_act_age_std",4643,"Aguascalientes",2018,22,"All Ages",1,"Male",6765.39862629659
+1978,"phys_act_age_std",4643,"Aguascalientes",2018,22,"All Ages",2,"Female",6541.86407449375
+1978,"phys_act_age_std",4644,"Baja California",2018,22,"All Ages",1,"Male",6351.88313363263
+1978,"phys_act_age_std",4644,"Baja California",2018,22,"All Ages",2,"Female",5402.59746231527
+1978,"phys_act_age_std",4645,"Baja California Sur",2018,22,"All Ages",1,"Male",6574.25019459729
+1978,"phys_act_age_std",4645,"Baja California Sur",2018,22,"All Ages",2,"Female",5365.8809708743
+1978,"phys_act_age_std",4646,"Campeche",2018,22,"All Ages",1,"Male",6658.88783454783
+1978,"phys_act_age_std",4646,"Campeche",2018,22,"All Ages",2,"Female",5568.48977334107
+1978,"phys_act_age_std",4647,"Coahuila",2018,22,"All Ages",1,"Male",6527.8369730041
+1978,"phys_act_age_std",4647,"Coahuila",2018,22,"All Ages",2,"Female",5205.90396176962
+1978,"phys_act_age_std",4648,"Colima",2018,22,"All Ages",1,"Male",6855.48536137081
+1978,"phys_act_age_std",4648,"Colima",2018,22,"All Ages",2,"Female",5574.86454616426
+1978,"phys_act_age_std",4649,"Chiapas",2018,22,"All Ages",1,"Male",7297.17853676773
+1978,"phys_act_age_std",4649,"Chiapas",2018,22,"All Ages",2,"Female",6567.23942383207
+1978,"phys_act_age_std",4650,"Chihuahua",2018,22,"All Ages",1,"Male",6813.95316476454
+1978,"phys_act_age_std",4650,"Chihuahua",2018,22,"All Ages",2,"Female",5637.00451126939
+1978,"phys_act_age_std",4651,"Mexico City",2018,22,"All Ages",1,"Male",3393.33489433042
+1978,"phys_act_age_std",4651,"Mexico City",2018,22,"All Ages",2,"Female",4439.38625839087
+1978,"phys_act_age_std",4652,"Durango",2018,22,"All Ages",1,"Male",7094.59451784273
+1978,"phys_act_age_std",4652,"Durango",2018,22,"All Ages",2,"Female",4937.51090946948
+1978,"phys_act_age_std",4653,"Guanajuato",2018,22,"All Ages",1,"Male",6927.07270131913
+1978,"phys_act_age_std",4653,"Guanajuato",2018,22,"All Ages",2,"Female",5230.77217397632
+1978,"phys_act_age_std",4654,"Guerrero",2018,22,"All Ages",1,"Male",7449.28253239894
+1978,"phys_act_age_std",4654,"Guerrero",2018,22,"All Ages",2,"Female",5786.31180027234
+1978,"phys_act_age_std",4655,"Hidalgo",2018,22,"All Ages",1,"Male",7584.8229497361
+1978,"phys_act_age_std",4655,"Hidalgo",2018,22,"All Ages",2,"Female",6884.095878607
+1978,"phys_act_age_std",4656,"Jalisco",2018,22,"All Ages",1,"Male",7109.02284382286
+1978,"phys_act_age_std",4656,"Jalisco",2018,22,"All Ages",2,"Female",6399.18861367051
+1978,"phys_act_age_std",4657,"México",2018,22,"All Ages",1,"Male",6408.0781082159
+1978,"phys_act_age_std",4657,"México",2018,22,"All Ages",2,"Female",5623.77737652852
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2018,22,"All Ages",1,"Male",6783.16369346887
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2018,22,"All Ages",2,"Female",4501.83121486869
+1978,"phys_act_age_std",4659,"Morelos",2018,22,"All Ages",1,"Male",6861.74839945083
+1978,"phys_act_age_std",4659,"Morelos",2018,22,"All Ages",2,"Female",5554.29320471171
+1978,"phys_act_age_std",4660,"Nayarit",2018,22,"All Ages",1,"Male",6854.30222346769
+1978,"phys_act_age_std",4660,"Nayarit",2018,22,"All Ages",2,"Female",5553.68459130964
+1978,"phys_act_age_std",4661,"Nuevo León",2018,22,"All Ages",1,"Male",5122.39181591988
+1978,"phys_act_age_std",4661,"Nuevo León",2018,22,"All Ages",2,"Female",4176.74725938958
+1978,"phys_act_age_std",4662,"Oaxaca",2018,22,"All Ages",1,"Male",7771.68158315722
+1978,"phys_act_age_std",4662,"Oaxaca",2018,22,"All Ages",2,"Female",8741.4423194244
+1978,"phys_act_age_std",4663,"Puebla",2018,22,"All Ages",1,"Male",7213.94870115091
+1978,"phys_act_age_std",4663,"Puebla",2018,22,"All Ages",2,"Female",5801.65314442805
+1978,"phys_act_age_std",4664,"Querétaro",2018,22,"All Ages",1,"Male",7837.49567669108
+1978,"phys_act_age_std",4664,"Querétaro",2018,22,"All Ages",2,"Female",5880.26315498159
+1978,"phys_act_age_std",4665,"Quintana Roo",2018,22,"All Ages",1,"Male",6653.18124420572
+1978,"phys_act_age_std",4665,"Quintana Roo",2018,22,"All Ages",2,"Female",5408.3222721767
+1978,"phys_act_age_std",4666,"San Luis Potosí",2018,22,"All Ages",1,"Male",6721.83928068051
+1978,"phys_act_age_std",4666,"San Luis Potosí",2018,22,"All Ages",2,"Female",5676.91495308363
+1978,"phys_act_age_std",4667,"Sinaloa",2018,22,"All Ages",1,"Male",6829.30185224144
+1978,"phys_act_age_std",4667,"Sinaloa",2018,22,"All Ages",2,"Female",5950.30939352115
+1978,"phys_act_age_std",4668,"Sonora",2018,22,"All Ages",1,"Male",6586.13141085855
+1978,"phys_act_age_std",4668,"Sonora",2018,22,"All Ages",2,"Female",5850.3150579564
+1978,"phys_act_age_std",4669,"Tabasco",2018,22,"All Ages",1,"Male",6637.88640575989
+1978,"phys_act_age_std",4669,"Tabasco",2018,22,"All Ages",2,"Female",5407.40326115291
+1978,"phys_act_age_std",4670,"Tamaulipas",2018,22,"All Ages",1,"Male",6554.31392374504
+1978,"phys_act_age_std",4670,"Tamaulipas",2018,22,"All Ages",2,"Female",4551.49458477312
+1978,"phys_act_age_std",4671,"Tlaxcala",2018,22,"All Ages",1,"Male",7125.65905938216
+1978,"phys_act_age_std",4671,"Tlaxcala",2018,22,"All Ages",2,"Female",6413.22538324717
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",1,"Male",6780.93060342749
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",2,"Female",5614.36436115431
+1978,"phys_act_age_std",4673,"Yucatán",2018,22,"All Ages",1,"Male",6426.13650028985
+1978,"phys_act_age_std",4673,"Yucatán",2018,22,"All Ages",2,"Female",5541.53176268639
+1978,"phys_act_age_std",4674,"Zacatecas",2018,22,"All Ages",1,"Male",6848.10520792375
+1978,"phys_act_age_std",4674,"Zacatecas",2018,22,"All Ages",2,"Female",5582.37764781075
+1978,"phys_act_age_std",130,"Mexico",2019,22,"All Ages",1,"Male",6488.7324288558
+1978,"phys_act_age_std",130,"Mexico",2019,22,"All Ages",2,"Female",5589.1638932776
+1978,"phys_act_age_std",4643,"Aguascalientes",2019,22,"All Ages",1,"Male",6766.16976752892
+1978,"phys_act_age_std",4643,"Aguascalientes",2019,22,"All Ages",2,"Female",6542.47602232559
+1978,"phys_act_age_std",4644,"Baja California",2019,22,"All Ages",1,"Male",6352.41608318899
+1978,"phys_act_age_std",4644,"Baja California",2019,22,"All Ages",2,"Female",5402.96947670359
+1978,"phys_act_age_std",4645,"Baja California Sur",2019,22,"All Ages",1,"Male",6574.88802939299
+1978,"phys_act_age_std",4645,"Baja California Sur",2019,22,"All Ages",2,"Female",5366.30821492575
+1978,"phys_act_age_std",4646,"Campeche",2019,22,"All Ages",1,"Male",6659.79232294765
+1978,"phys_act_age_std",4646,"Campeche",2019,22,"All Ages",2,"Female",5569.11051404955
+1978,"phys_act_age_std",4647,"Coahuila",2019,22,"All Ages",1,"Male",6528.57567810372
+1978,"phys_act_age_std",4647,"Coahuila",2019,22,"All Ages",2,"Female",5206.38743266094
+1978,"phys_act_age_std",4648,"Colima",2019,22,"All Ages",1,"Male",6856.26435959126
+1978,"phys_act_age_std",4648,"Colima",2019,22,"All Ages",2,"Female",5575.38442835587
+1978,"phys_act_age_std",4649,"Chiapas",2019,22,"All Ages",1,"Male",7298.2181301343
+1978,"phys_act_age_std",4649,"Chiapas",2019,22,"All Ages",2,"Female",6568.00724948627
+1978,"phys_act_age_std",4650,"Chihuahua",2019,22,"All Ages",1,"Male",6814.69477810293
+1978,"phys_act_age_std",4650,"Chihuahua",2019,22,"All Ages",2,"Female",5637.50801109075
+1978,"phys_act_age_std",4651,"Mexico City",2019,22,"All Ages",1,"Male",3393.66960610854
+1978,"phys_act_age_std",4651,"Mexico City",2019,22,"All Ages",2,"Female",4439.74562701151
+1978,"phys_act_age_std",4652,"Durango",2019,22,"All Ages",1,"Male",7095.53254517809
+1978,"phys_act_age_std",4652,"Durango",2019,22,"All Ages",2,"Female",4938.04666618533
+1978,"phys_act_age_std",4653,"Guanajuato",2019,22,"All Ages",1,"Male",6927.98293439037
+1978,"phys_act_age_std",4653,"Guanajuato",2019,22,"All Ages",2,"Female",5231.33625350838
+1978,"phys_act_age_std",4654,"Guerrero",2019,22,"All Ages",1,"Male",7450.26914658438
+1978,"phys_act_age_std",4654,"Guerrero",2019,22,"All Ages",2,"Female",5786.94073615409
+1978,"phys_act_age_std",4655,"Hidalgo",2019,22,"All Ages",1,"Male",7585.7356252542
+1978,"phys_act_age_std",4655,"Hidalgo",2019,22,"All Ages",2,"Female",6884.77569239173
+1978,"phys_act_age_std",4656,"Jalisco",2019,22,"All Ages",1,"Male",7109.87321556073
+1978,"phys_act_age_std",4656,"Jalisco",2019,22,"All Ages",2,"Female",6399.81681080314
+1978,"phys_act_age_std",4657,"México",2019,22,"All Ages",1,"Male",6408.82477536594
+1978,"phys_act_age_std",4657,"México",2019,22,"All Ages",2,"Female",5624.31515030338
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2019,22,"All Ages",1,"Male",6784.0938284195
+1978,"phys_act_age_std",4658,"Michoacán de Ocampo",2019,22,"All Ages",2,"Female",4502.33782552777
+1978,"phys_act_age_std",4659,"Morelos",2019,22,"All Ages",1,"Male",6862.53122813211
+1978,"phys_act_age_std",4659,"Morelos",2019,22,"All Ages",2,"Female",5554.81324032617
+1978,"phys_act_age_std",4660,"Nayarit",2019,22,"All Ages",1,"Male",6855.25246009135
+1978,"phys_act_age_std",4660,"Nayarit",2019,22,"All Ages",2,"Female",5554.31645167858
+1978,"phys_act_age_std",4661,"Nuevo León",2019,22,"All Ages",1,"Male",5122.84361559382
+1978,"phys_act_age_std",4661,"Nuevo León",2019,22,"All Ages",2,"Female",4177.04959177336
+1978,"phys_act_age_std",4662,"Oaxaca",2019,22,"All Ages",1,"Male",7772.80784100123
+1978,"phys_act_age_std",4662,"Oaxaca",2019,22,"All Ages",2,"Female",8742.4819452798
+1978,"phys_act_age_std",4663,"Puebla",2019,22,"All Ages",1,"Male",7214.82644996193
+1978,"phys_act_age_std",4663,"Puebla",2019,22,"All Ages",2,"Female",5802.23246774866
+1978,"phys_act_age_std",4664,"Querétaro",2019,22,"All Ages",1,"Male",7838.2511736386
+1978,"phys_act_age_std",4664,"Querétaro",2019,22,"All Ages",2,"Female",5880.72833943988
+1978,"phys_act_age_std",4665,"Quintana Roo",2019,22,"All Ages",1,"Male",6653.76638689604
+1978,"phys_act_age_std",4665,"Quintana Roo",2019,22,"All Ages",2,"Female",5408.71263491491
+1978,"phys_act_age_std",4666,"San Luis Potosí",2019,22,"All Ages",1,"Male",6722.71920691426
+1978,"phys_act_age_std",4666,"San Luis Potosí",2019,22,"All Ages",2,"Female",5677.52483003489
+1978,"phys_act_age_std",4667,"Sinaloa",2019,22,"All Ages",1,"Male",6830.11611218313
+1978,"phys_act_age_std",4667,"Sinaloa",2019,22,"All Ages",2,"Female",5950.8916287168
+1978,"phys_act_age_std",4668,"Sonora",2019,22,"All Ages",1,"Male",6586.8163858467
+1978,"phys_act_age_std",4668,"Sonora",2019,22,"All Ages",2,"Female",5850.81439790833
+1978,"phys_act_age_std",4669,"Tabasco",2019,22,"All Ages",1,"Male",6638.78989645721
+1978,"phys_act_age_std",4669,"Tabasco",2019,22,"All Ages",2,"Female",5408.00728504336
+1978,"phys_act_age_std",4670,"Tamaulipas",2019,22,"All Ages",1,"Male",6555.01491540981
+1978,"phys_act_age_std",4670,"Tamaulipas",2019,22,"All Ages",2,"Female",4551.89408062079
+1978,"phys_act_age_std",4671,"Tlaxcala",2019,22,"All Ages",1,"Male",7126.39156299827
+1978,"phys_act_age_std",4671,"Tlaxcala",2019,22,"All Ages",2,"Female",6413.7664290376
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",1,"Male",6781.86234635025
+1978,"phys_act_age_std",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",2,"Female",5614.99747066106
+1978,"phys_act_age_std",4673,"Yucatán",2019,22,"All Ages",1,"Male",6426.98437134778
+1978,"phys_act_age_std",4673,"Yucatán",2019,22,"All Ages",2,"Female",5542.13180426116
+1978,"phys_act_age_std",4674,"Zacatecas",2019,22,"All Ages",1,"Male",6849.16562743083
+1978,"phys_act_age_std",4674,"Zacatecas",2019,22,"All Ages",2,"Female",5583.08705772976

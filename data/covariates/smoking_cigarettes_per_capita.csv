@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+14,"cigarettes_pc",130,"Mexico",1990,22,"All Ages",3,"Both",989.815958329806
+14,"cigarettes_pc",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",1292.86781758505
+14,"cigarettes_pc",4644,"Baja California",1990,22,"All Ages",3,"Both",1252.97670020009
+14,"cigarettes_pc",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",1229.13691034047
+14,"cigarettes_pc",4646,"Campeche",1990,22,"All Ages",3,"Both",796.892531300168
+14,"cigarettes_pc",4647,"Coahuila",1990,22,"All Ages",3,"Both",1125.66783343774
+14,"cigarettes_pc",4648,"Colima",1990,22,"All Ages",3,"Both",1245.6391790569
+14,"cigarettes_pc",4649,"Chiapas",1990,22,"All Ages",3,"Both",391.366138142676
+14,"cigarettes_pc",4650,"Chihuahua",1990,22,"All Ages",3,"Both",1122.81723125408
+14,"cigarettes_pc",4651,"Mexico City",1990,22,"All Ages",3,"Both",1375.23497424198
+14,"cigarettes_pc",4652,"Durango",1990,22,"All Ages",3,"Both",951.507804203506
+14,"cigarettes_pc",4653,"Guanajuato",1990,22,"All Ages",3,"Both",1179.61301480311
+14,"cigarettes_pc",4654,"Guerrero",1990,22,"All Ages",3,"Both",586.909584117381
+14,"cigarettes_pc",4655,"Hidalgo",1990,22,"All Ages",3,"Both",813.312309214373
+14,"cigarettes_pc",4656,"Jalisco",1990,22,"All Ages",3,"Both",1350.85659043334
+14,"cigarettes_pc",4657,"México",1990,22,"All Ages",3,"Both",1108.83756656214
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",938.367017449182
+14,"cigarettes_pc",4659,"Morelos",1990,22,"All Ages",3,"Both",923.071065526889
+14,"cigarettes_pc",4660,"Nayarit",1990,22,"All Ages",3,"Both",1028.51439838945
+14,"cigarettes_pc",4661,"Nuevo León",1990,22,"All Ages",3,"Both",1351.81752456022
+14,"cigarettes_pc",4662,"Oaxaca",1990,22,"All Ages",3,"Both",510.010971670078
+14,"cigarettes_pc",4663,"Puebla",1990,22,"All Ages",3,"Both",703.198071125502
+14,"cigarettes_pc",4664,"Querétaro",1990,22,"All Ages",3,"Both",1180.78756894951
+14,"cigarettes_pc",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",783.566931701829
+14,"cigarettes_pc",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",776.917956971505
+14,"cigarettes_pc",4667,"Sinaloa",1990,22,"All Ages",3,"Both",884.211089690821
+14,"cigarettes_pc",4668,"Sonora",1990,22,"All Ages",3,"Both",1360.67273490237
+14,"cigarettes_pc",4669,"Tabasco",1990,22,"All Ages",3,"Both",556.161278297684
+14,"cigarettes_pc",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",845.483758731409
+14,"cigarettes_pc",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",721.044306271409
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",676.196773988732
+14,"cigarettes_pc",4673,"Yucatán",1990,22,"All Ages",3,"Both",652.261750143334
+14,"cigarettes_pc",4674,"Zacatecas",1990,22,"All Ages",3,"Both",856.292920641166
+14,"cigarettes_pc",130,"Mexico",1991,22,"All Ages",3,"Both",952.846012355501
+14,"cigarettes_pc",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",1246.09389669454
+14,"cigarettes_pc",4644,"Baja California",1991,22,"All Ages",3,"Both",1213.51829834533
+14,"cigarettes_pc",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",1197.88425769903
+14,"cigarettes_pc",4646,"Campeche",1991,22,"All Ages",3,"Both",764.239890949124
+14,"cigarettes_pc",4647,"Coahuila",1991,22,"All Ages",3,"Both",1093.73086249024
+14,"cigarettes_pc",4648,"Colima",1991,22,"All Ages",3,"Both",1199.51900246979
+14,"cigarettes_pc",4649,"Chiapas",1991,22,"All Ages",3,"Both",375.735209407942
+14,"cigarettes_pc",4650,"Chihuahua",1991,22,"All Ages",3,"Both",1086.05340492794
+14,"cigarettes_pc",4651,"Mexico City",1991,22,"All Ages",3,"Both",1320.67639160811
+14,"cigarettes_pc",4652,"Durango",1991,22,"All Ages",3,"Both",922.07933049469
+14,"cigarettes_pc",4653,"Guanajuato",1991,22,"All Ages",3,"Both",1134.54936860695
+14,"cigarettes_pc",4654,"Guerrero",1991,22,"All Ages",3,"Both",562.305304617915
+14,"cigarettes_pc",4655,"Hidalgo",1991,22,"All Ages",3,"Both",776.922098079432
+14,"cigarettes_pc",4656,"Jalisco",1991,22,"All Ages",3,"Both",1298.85011370836
+14,"cigarettes_pc",4657,"México",1991,22,"All Ages",3,"Both",1068.94650621756
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",902.001324338624
+14,"cigarettes_pc",4659,"Morelos",1991,22,"All Ages",3,"Both",885.318488881911
+14,"cigarettes_pc",4660,"Nayarit",1991,22,"All Ages",3,"Both",988.835994785171
+14,"cigarettes_pc",4661,"Nuevo León",1991,22,"All Ages",3,"Both",1306.57612954703
+14,"cigarettes_pc",4662,"Oaxaca",1991,22,"All Ages",3,"Both",485.501118080606
+14,"cigarettes_pc",4663,"Puebla",1991,22,"All Ages",3,"Both",672.768517411073
+14,"cigarettes_pc",4664,"Querétaro",1991,22,"All Ages",3,"Both",1132.26814781884
+14,"cigarettes_pc",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",763.290844218551
+14,"cigarettes_pc",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",744.867404057144
+14,"cigarettes_pc",4667,"Sinaloa",1991,22,"All Ages",3,"Both",854.357946039352
+14,"cigarettes_pc",4668,"Sonora",1991,22,"All Ages",3,"Both",1316.79456596077
+14,"cigarettes_pc",4669,"Tabasco",1991,22,"All Ages",3,"Both",535.879052657584
+14,"cigarettes_pc",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",819.195167343721
+14,"cigarettes_pc",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",691.25621232874
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",649.397144160753
+14,"cigarettes_pc",4673,"Yucatán",1991,22,"All Ages",3,"Both",624.830968097343
+14,"cigarettes_pc",4674,"Zacatecas",1991,22,"All Ages",3,"Both",825.53444633704
+14,"cigarettes_pc",130,"Mexico",1992,22,"All Ages",3,"Both",916.649450927699
+14,"cigarettes_pc",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",1201.15228894851
+14,"cigarettes_pc",4644,"Baja California",1992,22,"All Ages",3,"Both",1174.63674053019
+14,"cigarettes_pc",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",1167.55245247036
+14,"cigarettes_pc",4646,"Campeche",1992,22,"All Ages",3,"Both",732.132728255291
+14,"cigarettes_pc",4647,"Coahuila",1992,22,"All Ages",3,"Both",1061.95652669689
+14,"cigarettes_pc",4648,"Colima",1992,22,"All Ages",3,"Both",1152.79326197013
+14,"cigarettes_pc",4649,"Chiapas",1992,22,"All Ages",3,"Both",360.450467730443
+14,"cigarettes_pc",4650,"Chihuahua",1992,22,"All Ages",3,"Both",1050.95661245999
+14,"cigarettes_pc",4651,"Mexico City",1992,22,"All Ages",3,"Both",1267.31394538803
+14,"cigarettes_pc",4652,"Durango",1992,22,"All Ages",3,"Both",893.751298853747
+14,"cigarettes_pc",4653,"Guanajuato",1992,22,"All Ages",3,"Both",1090.13509910038
+14,"cigarettes_pc",4654,"Guerrero",1992,22,"All Ages",3,"Both",538.766239992873
+14,"cigarettes_pc",4655,"Hidalgo",1992,22,"All Ages",3,"Both",741.921551911951
+14,"cigarettes_pc",4656,"Jalisco",1992,22,"All Ages",3,"Both",1248.05571150166
+14,"cigarettes_pc",4657,"México",1992,22,"All Ages",3,"Both",1029.16349197029
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",865.978733067738
+14,"cigarettes_pc",4659,"Morelos",1992,22,"All Ages",3,"Both",848.729934571227
+14,"cigarettes_pc",4660,"Nayarit",1992,22,"All Ages",3,"Both",950.442788087875
+14,"cigarettes_pc",4661,"Nuevo León",1992,22,"All Ages",3,"Both",1261.84518772117
+14,"cigarettes_pc",4662,"Oaxaca",1992,22,"All Ages",3,"Both",461.633131806601
+14,"cigarettes_pc",4663,"Puebla",1992,22,"All Ages",3,"Both",643.362730899654
+14,"cigarettes_pc",4664,"Querétaro",1992,22,"All Ages",3,"Both",1085.57002847696
+14,"cigarettes_pc",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",742.467716749732
+14,"cigarettes_pc",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",714.342931305222
+14,"cigarettes_pc",4667,"Sinaloa",1992,22,"All Ages",3,"Both",825.928200456401
+14,"cigarettes_pc",4668,"Sonora",1992,22,"All Ages",3,"Both",1274.15540568446
+14,"cigarettes_pc",4669,"Tabasco",1992,22,"All Ages",3,"Both",515.348616081212
+14,"cigarettes_pc",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",793.67728272392
+14,"cigarettes_pc",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",662.476551390507
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",622.491931678331
+14,"cigarettes_pc",4673,"Yucatán",1992,22,"All Ages",3,"Both",597.756773161961
+14,"cigarettes_pc",4674,"Zacatecas",1992,22,"All Ages",3,"Both",796.030486173512
+14,"cigarettes_pc",130,"Mexico",1993,22,"All Ages",3,"Both",881.539707913785
+14,"cigarettes_pc",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",1158.42912573741
+14,"cigarettes_pc",4644,"Baja California",1993,22,"All Ages",3,"Both",1136.29563749237
+14,"cigarettes_pc",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",1138.29333266404
+14,"cigarettes_pc",4646,"Campeche",1993,22,"All Ages",3,"Both",701.068576093268
+14,"cigarettes_pc",4647,"Coahuila",1993,22,"All Ages",3,"Both",1030.70308677436
+14,"cigarettes_pc",4648,"Colima",1993,22,"All Ages",3,"Both",1106.38547270264
+14,"cigarettes_pc",4649,"Chiapas",1993,22,"All Ages",3,"Both",345.735426019779
+14,"cigarettes_pc",4650,"Chihuahua",1993,22,"All Ages",3,"Both",1017.8816906769
+14,"cigarettes_pc",4651,"Mexico City",1993,22,"All Ages",3,"Both",1215.4039033559
+14,"cigarettes_pc",4652,"Durango",1993,22,"All Ages",3,"Both",866.707578395826
+14,"cigarettes_pc",4653,"Guanajuato",1993,22,"All Ages",3,"Both",1046.75592789262
+14,"cigarettes_pc",4654,"Guerrero",1993,22,"All Ages",3,"Both",516.619083487565
+14,"cigarettes_pc",4655,"Hidalgo",1993,22,"All Ages",3,"Both",708.542789480559
+14,"cigarettes_pc",4656,"Jalisco",1993,22,"All Ages",3,"Both",1198.69807617482
+14,"cigarettes_pc",4657,"México",1993,22,"All Ages",3,"Both",990.029952413195
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",830.638426919637
+14,"cigarettes_pc",4659,"Morelos",1993,22,"All Ages",3,"Both",813.808579699777
+14,"cigarettes_pc",4660,"Nayarit",1993,22,"All Ages",3,"Both",913.679423380878
+14,"cigarettes_pc",4661,"Nuevo León",1993,22,"All Ages",3,"Both",1217.84009143737
+14,"cigarettes_pc",4662,"Oaxaca",1993,22,"All Ages",3,"Both",438.695246055183
+14,"cigarettes_pc",4663,"Puebla",1993,22,"All Ages",3,"Both",615.282584707521
+14,"cigarettes_pc",4664,"Querétaro",1993,22,"All Ages",3,"Both",1041.02799385001
+14,"cigarettes_pc",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",721.39262491898
+14,"cigarettes_pc",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",685.545953698632
+14,"cigarettes_pc",4667,"Sinaloa",1993,22,"All Ages",3,"Both",799.157694973754
+14,"cigarettes_pc",4668,"Sonora",1993,22,"All Ages",3,"Both",1232.79448442241
+14,"cigarettes_pc",4669,"Tabasco",1993,22,"All Ages",3,"Both",494.888394085959
+14,"cigarettes_pc",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",769.367503106322
+14,"cigarettes_pc",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",635.015128455335
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",595.786135152098
+14,"cigarettes_pc",4673,"Yucatán",1993,22,"All Ages",3,"Both",571.30268593739
+14,"cigarettes_pc",4674,"Zacatecas",1993,22,"All Ages",3,"Both",768.08855163475
+14,"cigarettes_pc",130,"Mexico",1994,22,"All Ages",3,"Both",847.368686282282
+14,"cigarettes_pc",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",1127.42794517305
+14,"cigarettes_pc",4644,"Baja California",1994,22,"All Ages",3,"Both",1097.31773224216
+14,"cigarettes_pc",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",1118.61861805149
+14,"cigarettes_pc",4646,"Campeche",1994,22,"All Ages",3,"Both",670.252262021113
+14,"cigarettes_pc",4647,"Coahuila",1994,22,"All Ages",3,"Both",999.785341945491
+14,"cigarettes_pc",4648,"Colima",1994,22,"All Ages",3,"Both",1057.05449938485
+14,"cigarettes_pc",4649,"Chiapas",1994,22,"All Ages",3,"Both",333.835901269461
+14,"cigarettes_pc",4650,"Chihuahua",1994,22,"All Ages",3,"Both",994.088949406647
+14,"cigarettes_pc",4651,"Mexico City",1994,22,"All Ages",3,"Both",1162.14039449546
+14,"cigarettes_pc",4652,"Durango",1994,22,"All Ages",3,"Both",847.442150968718
+14,"cigarettes_pc",4653,"Guanajuato",1994,22,"All Ages",3,"Both",1002.70167155271
+14,"cigarettes_pc",4654,"Guerrero",1994,22,"All Ages",3,"Both",499.268285105845
+14,"cigarettes_pc",4655,"Hidalgo",1994,22,"All Ages",3,"Both",682.506532501503
+14,"cigarettes_pc",4656,"Jalisco",1994,22,"All Ages",3,"Both",1148.93163928316
+14,"cigarettes_pc",4657,"México",1994,22,"All Ages",3,"Both",943.741820992289
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",795.037778116568
+14,"cigarettes_pc",4659,"Morelos",1994,22,"All Ages",3,"Both",786.822090666956
+14,"cigarettes_pc",4660,"Nayarit",1994,22,"All Ages",3,"Both",886.237452484622
+14,"cigarettes_pc",4661,"Nuevo León",1994,22,"All Ages",3,"Both",1174.2173976346
+14,"cigarettes_pc",4662,"Oaxaca",1994,22,"All Ages",3,"Both",414.56886799679
+14,"cigarettes_pc",4663,"Puebla",1994,22,"All Ages",3,"Both",593.245724250477
+14,"cigarettes_pc",4664,"Querétaro",1994,22,"All Ages",3,"Both",1001.5873791827
+14,"cigarettes_pc",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",705.48794661199
+14,"cigarettes_pc",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",663.520961919234
+14,"cigarettes_pc",4667,"Sinaloa",1994,22,"All Ages",3,"Both",780.22366485124
+14,"cigarettes_pc",4668,"Sonora",1994,22,"All Ages",3,"Both",1191.58507012411
+14,"cigarettes_pc",4669,"Tabasco",1994,22,"All Ages",3,"Both",472.046751603139
+14,"cigarettes_pc",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",751.894502744409
+14,"cigarettes_pc",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",613.552160131579
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",566.484345330288
+14,"cigarettes_pc",4673,"Yucatán",1994,22,"All Ages",3,"Both",544.590282759135
+14,"cigarettes_pc",4674,"Zacatecas",1994,22,"All Ages",3,"Both",747.339421456181
+14,"cigarettes_pc",130,"Mexico",1995,22,"All Ages",3,"Both",813.210294832211
+14,"cigarettes_pc",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",1095.83721910473
+14,"cigarettes_pc",4644,"Baja California",1995,22,"All Ages",3,"Both",1057.01897525852
+14,"cigarettes_pc",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",1096.36420480641
+14,"cigarettes_pc",4646,"Campeche",1995,22,"All Ages",3,"Both",639.750782906152
+14,"cigarettes_pc",4647,"Coahuila",1995,22,"All Ages",3,"Both",967.896598668748
+14,"cigarettes_pc",4648,"Colima",1995,22,"All Ages",3,"Both",1007.41627599242
+14,"cigarettes_pc",4649,"Chiapas",1995,22,"All Ages",3,"Both",321.874497342596
+14,"cigarettes_pc",4650,"Chihuahua",1995,22,"All Ages",3,"Both",969.233370824983
+14,"cigarettes_pc",4651,"Mexico City",1995,22,"All Ages",3,"Both",1109.54368077354
+14,"cigarettes_pc",4652,"Durango",1995,22,"All Ages",3,"Both",827.189210028294
+14,"cigarettes_pc",4653,"Guanajuato",1995,22,"All Ages",3,"Both",958.822775674245
+14,"cigarettes_pc",4654,"Guerrero",1995,22,"All Ages",3,"Both",482.108575628431
+14,"cigarettes_pc",4655,"Hidalgo",1995,22,"All Ages",3,"Both",656.612745853509
+14,"cigarettes_pc",4656,"Jalisco",1995,22,"All Ages",3,"Both",1098.75097764086
+14,"cigarettes_pc",4657,"México",1995,22,"All Ages",3,"Both",898.173695773353
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",759.591590623419
+14,"cigarettes_pc",4659,"Morelos",1995,22,"All Ages",3,"Both",759.496143459388
+14,"cigarettes_pc",4660,"Nayarit",1995,22,"All Ages",3,"Both",858.85154544495
+14,"cigarettes_pc",4661,"Nuevo León",1995,22,"All Ages",3,"Both",1129.96044204301
+14,"cigarettes_pc",4662,"Oaxaca",1995,22,"All Ages",3,"Both",391.337924861472
+14,"cigarettes_pc",4663,"Puebla",1995,22,"All Ages",3,"Both",571.249335844503
+14,"cigarettes_pc",4664,"Querétaro",1995,22,"All Ages",3,"Both",961.883548076535
+14,"cigarettes_pc",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",687.96608924368
+14,"cigarettes_pc",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",641.589931002627
+14,"cigarettes_pc",4667,"Sinaloa",1995,22,"All Ages",3,"Both",760.954158861549
+14,"cigarettes_pc",4668,"Sonora",1995,22,"All Ages",3,"Both",1149.33413181919
+14,"cigarettes_pc",4669,"Tabasco",1995,22,"All Ages",3,"Both",449.053988177043
+14,"cigarettes_pc",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",733.664912413914
+14,"cigarettes_pc",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",592.071750607627
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",537.389835829717
+14,"cigarettes_pc",4673,"Yucatán",1995,22,"All Ages",3,"Both",518.173304596938
+14,"cigarettes_pc",4674,"Zacatecas",1995,22,"All Ages",3,"Both",725.875878379994
+14,"cigarettes_pc",130,"Mexico",1996,22,"All Ages",3,"Both",779.328669299221
+14,"cigarettes_pc",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",1061.87139253276
+14,"cigarettes_pc",4644,"Baja California",1996,22,"All Ages",3,"Both",1017.22975465131
+14,"cigarettes_pc",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",1068.21929292257
+14,"cigarettes_pc",4646,"Campeche",1996,22,"All Ages",3,"Both",608.739030535068
+14,"cigarettes_pc",4647,"Coahuila",1996,22,"All Ages",3,"Both",933.399329529702
+14,"cigarettes_pc",4648,"Colima",1996,22,"All Ages",3,"Both",957.262269008315
+14,"cigarettes_pc",4649,"Chiapas",1996,22,"All Ages",3,"Both",309.507919087438
+14,"cigarettes_pc",4650,"Chihuahua",1996,22,"All Ages",3,"Both",942.814585721613
+14,"cigarettes_pc",4651,"Mexico City",1996,22,"All Ages",3,"Both",1060.65957174947
+14,"cigarettes_pc",4652,"Durango",1996,22,"All Ages",3,"Both",805.210313485433
+14,"cigarettes_pc",4653,"Guanajuato",1996,22,"All Ages",3,"Both",914.901585028317
+14,"cigarettes_pc",4654,"Guerrero",1996,22,"All Ages",3,"Both",464.251482074223
+14,"cigarettes_pc",4655,"Hidalgo",1996,22,"All Ages",3,"Both",629.608668256911
+14,"cigarettes_pc",4656,"Jalisco",1996,22,"All Ages",3,"Both",1051.42711533908
+14,"cigarettes_pc",4657,"México",1996,22,"All Ages",3,"Both",854.96236801606
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",724.368880253239
+14,"cigarettes_pc",4659,"Morelos",1996,22,"All Ages",3,"Both",730.911638308273
+14,"cigarettes_pc",4660,"Nayarit",1996,22,"All Ages",3,"Both",830.806001423798
+14,"cigarettes_pc",4661,"Nuevo León",1996,22,"All Ages",3,"Both",1086.07888600587
+14,"cigarettes_pc",4662,"Oaxaca",1996,22,"All Ages",3,"Both",369.14350368538
+14,"cigarettes_pc",4663,"Puebla",1996,22,"All Ages",3,"Both",549.177528658957
+14,"cigarettes_pc",4664,"Querétaro",1996,22,"All Ages",3,"Both",921.578512048874
+14,"cigarettes_pc",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",667.921795979372
+14,"cigarettes_pc",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",618.485236477966
+14,"cigarettes_pc",4667,"Sinaloa",1996,22,"All Ages",3,"Both",740.628032809306
+14,"cigarettes_pc",4668,"Sonora",1996,22,"All Ages",3,"Both",1103.89610245015
+14,"cigarettes_pc",4669,"Tabasco",1996,22,"All Ages",3,"Both",425.645700870903
+14,"cigarettes_pc",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",713.456097965372
+14,"cigarettes_pc",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",570.361212879966
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",508.020998900497
+14,"cigarettes_pc",4673,"Yucatán",1996,22,"All Ages",3,"Both",492.379114917981
+14,"cigarettes_pc",4674,"Zacatecas",1996,22,"All Ages",3,"Both",703.008911581623
+14,"cigarettes_pc",130,"Mexico",1997,22,"All Ages",3,"Both",745.976776550623
+14,"cigarettes_pc",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",1025.45720006304
+14,"cigarettes_pc",4644,"Baja California",1997,22,"All Ages",3,"Both",977.806163574536
+14,"cigarettes_pc",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",1034.90536023776
+14,"cigarettes_pc",4646,"Campeche",1997,22,"All Ages",3,"Both",577.810422691715
+14,"cigarettes_pc",4647,"Coahuila",1997,22,"All Ages",3,"Both",896.881076224195
+14,"cigarettes_pc",4648,"Colima",1997,22,"All Ages",3,"Both",907.691191661103
+14,"cigarettes_pc",4649,"Chiapas",1997,22,"All Ages",3,"Both",297.046601081863
+14,"cigarettes_pc",4650,"Chihuahua",1997,22,"All Ages",3,"Both",914.798198406028
+14,"cigarettes_pc",4651,"Mexico City",1997,22,"All Ages",3,"Both",1015.4115014978
+14,"cigarettes_pc",4652,"Durango",1997,22,"All Ages",3,"Both",781.50771992491
+14,"cigarettes_pc",4653,"Guanajuato",1997,22,"All Ages",3,"Both",871.232248027287
+14,"cigarettes_pc",4654,"Guerrero",1997,22,"All Ages",3,"Both",445.914532040091
+14,"cigarettes_pc",4655,"Hidalgo",1997,22,"All Ages",3,"Both",601.885174002024
+14,"cigarettes_pc",4656,"Jalisco",1997,22,"All Ages",3,"Both",1006.83714964198
+14,"cigarettes_pc",4657,"México",1997,22,"All Ages",3,"Both",814.195754455842
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",689.992536362355
+14,"cigarettes_pc",4659,"Morelos",1997,22,"All Ages",3,"Both",701.590159642361
+14,"cigarettes_pc",4660,"Nayarit",1997,22,"All Ages",3,"Both",802.269763340899
+14,"cigarettes_pc",4661,"Nuevo León",1997,22,"All Ages",3,"Both",1042.79527777914
+14,"cigarettes_pc",4662,"Oaxaca",1997,22,"All Ages",3,"Both",348.148510351312
+14,"cigarettes_pc",4663,"Puebla",1997,22,"All Ages",3,"Both",527.30524805441
+14,"cigarettes_pc",4664,"Querétaro",1997,22,"All Ages",3,"Both",881.133458905494
+14,"cigarettes_pc",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",645.775919664
+14,"cigarettes_pc",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",594.361491850475
+14,"cigarettes_pc",4667,"Sinaloa",1997,22,"All Ages",3,"Both",719.112785074013
+14,"cigarettes_pc",4668,"Sonora",1997,22,"All Ages",3,"Both",1056.20659805492
+14,"cigarettes_pc",4669,"Tabasco",1997,22,"All Ages",3,"Both",402.340596790468
+14,"cigarettes_pc",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",691.619281696698
+14,"cigarettes_pc",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",548.508366320498
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",479.131696423017
+14,"cigarettes_pc",4673,"Yucatán",1997,22,"All Ages",3,"Both",467.532740075555
+14,"cigarettes_pc",4674,"Zacatecas",1997,22,"All Ages",3,"Both",678.995312123863
+14,"cigarettes_pc",130,"Mexico",1998,22,"All Ages",3,"Both",713.723644503986
+14,"cigarettes_pc",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",988.721676051649
+14,"cigarettes_pc",4644,"Baja California",1998,22,"All Ages",3,"Both",938.27199690675
+14,"cigarettes_pc",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",1000.45843411775
+14,"cigarettes_pc",4646,"Campeche",1998,22,"All Ages",3,"Both",548.51050503934
+14,"cigarettes_pc",4647,"Coahuila",1998,22,"All Ages",3,"Both",861.347923032218
+14,"cigarettes_pc",4648,"Colima",1998,22,"All Ages",3,"Both",860.49664247186
+14,"cigarettes_pc",4649,"Chiapas",1998,22,"All Ages",3,"Both",285.22132815881
+14,"cigarettes_pc",4650,"Chihuahua",1998,22,"All Ages",3,"Both",886.040404854925
+14,"cigarettes_pc",4651,"Mexico City",1998,22,"All Ages",3,"Both",971.713486651244
+14,"cigarettes_pc",4652,"Durango",1998,22,"All Ages",3,"Both",757.237061536502
+14,"cigarettes_pc",4653,"Guanajuato",1998,22,"All Ages",3,"Both",829.343368366841
+14,"cigarettes_pc",4654,"Guerrero",1998,22,"All Ages",3,"Both",428.313845664287
+14,"cigarettes_pc",4655,"Hidalgo",1998,22,"All Ages",3,"Both",575.525052913203
+14,"cigarettes_pc",4656,"Jalisco",1998,22,"All Ages",3,"Both",963.028468527522
+14,"cigarettes_pc",4657,"México",1998,22,"All Ages",3,"Both",775.270796478255
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",657.229503732343
+14,"cigarettes_pc",4659,"Morelos",1998,22,"All Ages",3,"Both",673.126082496257
+14,"cigarettes_pc",4660,"Nayarit",1998,22,"All Ages",3,"Both",774.357322287455
+14,"cigarettes_pc",4661,"Nuevo León",1998,22,"All Ages",3,"Both",1000.48075479924
+14,"cigarettes_pc",4662,"Oaxaca",1998,22,"All Ages",3,"Both",328.545168691262
+14,"cigarettes_pc",4663,"Puebla",1998,22,"All Ages",3,"Both",506.369698387142
+14,"cigarettes_pc",4664,"Querétaro",1998,22,"All Ages",3,"Both",841.66419515627
+14,"cigarettes_pc",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",623.441117848218
+14,"cigarettes_pc",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",570.825862736967
+14,"cigarettes_pc",4667,"Sinaloa",1998,22,"All Ages",3,"Both",697.055360351357
+14,"cigarettes_pc",4668,"Sonora",1998,22,"All Ages",3,"Both",1009.21259043627
+14,"cigarettes_pc",4669,"Tabasco",1998,22,"All Ages",3,"Both",380.11266285199
+14,"cigarettes_pc",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",669.842939149137
+14,"cigarettes_pc",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",527.321313508208
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",452.092290248967
+14,"cigarettes_pc",4673,"Yucatán",1998,22,"All Ages",3,"Both",444.111530137204
+14,"cigarettes_pc",4674,"Zacatecas",1998,22,"All Ages",3,"Both",655.237253876182
+14,"cigarettes_pc",130,"Mexico",1999,22,"All Ages",3,"Both",682.184513304893
+14,"cigarettes_pc",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",951.614130133161
+14,"cigarettes_pc",4644,"Baja California",1999,22,"All Ages",3,"Both",898.370302493564
+14,"cigarettes_pc",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",964.532089429251
+14,"cigarettes_pc",4646,"Campeche",1999,22,"All Ages",3,"Both",519.962985729672
+14,"cigarettes_pc",4647,"Coahuila",1999,22,"All Ages",3,"Both",826.70187869395
+14,"cigarettes_pc",4648,"Colima",1999,22,"All Ages",3,"Both",815.679996183017
+14,"cigarettes_pc",4649,"Chiapas",1999,22,"All Ages",3,"Both",273.263152671147
+14,"cigarettes_pc",4650,"Chihuahua",1999,22,"All Ages",3,"Both",856.456606358269
+14,"cigarettes_pc",4651,"Mexico City",1999,22,"All Ages",3,"Both",929.43698091194
+14,"cigarettes_pc",4652,"Durango",1999,22,"All Ages",3,"Both",732.029637872285
+14,"cigarettes_pc",4653,"Guanajuato",1999,22,"All Ages",3,"Both",789.156061597382
+14,"cigarettes_pc",4654,"Guerrero",1999,22,"All Ages",3,"Both",410.898437552905
+14,"cigarettes_pc",4655,"Hidalgo",1999,22,"All Ages",3,"Both",549.769857118919
+14,"cigarettes_pc",4656,"Jalisco",1999,22,"All Ages",3,"Both",920.191071280043
+14,"cigarettes_pc",4657,"México",1999,22,"All Ages",3,"Both",737.59028349865
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",625.812564764681
+14,"cigarettes_pc",4659,"Morelos",1999,22,"All Ages",3,"Both",644.989144624633
+14,"cigarettes_pc",4660,"Nayarit",1999,22,"All Ages",3,"Both",746.757684485624
+14,"cigarettes_pc",4661,"Nuevo León",1999,22,"All Ages",3,"Both",959.420021072691
+14,"cigarettes_pc",4662,"Oaxaca",1999,22,"All Ages",3,"Both",309.640809067879
+14,"cigarettes_pc",4663,"Puebla",1999,22,"All Ages",3,"Both",485.895729687835
+14,"cigarettes_pc",4664,"Querétaro",1999,22,"All Ages",3,"Both",802.745470234466
+14,"cigarettes_pc",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",600.167673187884
+14,"cigarettes_pc",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",547.228615721465
+14,"cigarettes_pc",4667,"Sinaloa",1999,22,"All Ages",3,"Both",673.776540100767
+14,"cigarettes_pc",4668,"Sonora",1999,22,"All Ages",3,"Both",963.022000009711
+14,"cigarettes_pc",4669,"Tabasco",1999,22,"All Ages",3,"Both",358.192596019931
+14,"cigarettes_pc",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",647.412441418481
+14,"cigarettes_pc",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",506.036524120023
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",426.241735226763
+14,"cigarettes_pc",4673,"Yucatán",1999,22,"All Ages",3,"Both",421.440623899728
+14,"cigarettes_pc",4674,"Zacatecas",1999,22,"All Ages",3,"Both",631.400573571732
+14,"cigarettes_pc",130,"Mexico",2000,22,"All Ages",3,"Both",650.856779755916
+14,"cigarettes_pc",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",911.289435806639
+14,"cigarettes_pc",4644,"Baja California",2000,22,"All Ages",3,"Both",851.688205641281
+14,"cigarettes_pc",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",921.260434410128
+14,"cigarettes_pc",4646,"Campeche",2000,22,"All Ages",3,"Both",493.635748986817
+14,"cigarettes_pc",4647,"Coahuila",2000,22,"All Ages",3,"Both",790.040757959098
+14,"cigarettes_pc",4648,"Colima",2000,22,"All Ages",3,"Both",773.276308558844
+14,"cigarettes_pc",4649,"Chiapas",2000,22,"All Ages",3,"Both",261.436591913401
+14,"cigarettes_pc",4650,"Chihuahua",2000,22,"All Ages",3,"Both",818.278372836901
+14,"cigarettes_pc",4651,"Mexico City",2000,22,"All Ages",3,"Both",889.0667638368
+14,"cigarettes_pc",4652,"Durango",2000,22,"All Ages",3,"Both",699.709064159827
+14,"cigarettes_pc",4653,"Guanajuato",2000,22,"All Ages",3,"Both",751.074070045313
+14,"cigarettes_pc",4654,"Guerrero",2000,22,"All Ages",3,"Both",391.356170569566
+14,"cigarettes_pc",4655,"Hidalgo",2000,22,"All Ages",3,"Both",527.917319393592
+14,"cigarettes_pc",4656,"Jalisco",2000,22,"All Ages",3,"Both",874.142315666773
+14,"cigarettes_pc",4657,"México",2000,22,"All Ages",3,"Both",705.57616629834
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",596.705916547288
+14,"cigarettes_pc",4659,"Morelos",2000,22,"All Ages",3,"Both",617.550848721621
+14,"cigarettes_pc",4660,"Nayarit",2000,22,"All Ages",3,"Both",716.155716300584
+14,"cigarettes_pc",4661,"Nuevo León",2000,22,"All Ages",3,"Both",916.730459587469
+14,"cigarettes_pc",4662,"Oaxaca",2000,22,"All Ages",3,"Both",293.62424621593
+14,"cigarettes_pc",4663,"Puebla",2000,22,"All Ages",3,"Both",466.253010395014
+14,"cigarettes_pc",4664,"Querétaro",2000,22,"All Ages",3,"Both",765.920846824725
+14,"cigarettes_pc",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",573.303036954007
+14,"cigarettes_pc",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",522.977351011321
+14,"cigarettes_pc",4667,"Sinaloa",2000,22,"All Ages",3,"Both",643.516902141357
+14,"cigarettes_pc",4668,"Sonora",2000,22,"All Ages",3,"Both",913.869824849778
+14,"cigarettes_pc",4669,"Tabasco",2000,22,"All Ages",3,"Both",336.68240728654
+14,"cigarettes_pc",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",619.909629839211
+14,"cigarettes_pc",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",485.732236858808
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",403.361588219736
+14,"cigarettes_pc",4673,"Yucatán",2000,22,"All Ages",3,"Both",401.047581647366
+14,"cigarettes_pc",4674,"Zacatecas",2000,22,"All Ages",3,"Both",605.954571629497
+14,"cigarettes_pc",130,"Mexico",2001,22,"All Ages",3,"Both",619.573027575793
+14,"cigarettes_pc",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",869.206636132321
+14,"cigarettes_pc",4644,"Baja California",2001,22,"All Ages",3,"Both",801.349265593784
+14,"cigarettes_pc",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",873.384205558186
+14,"cigarettes_pc",4646,"Campeche",2001,22,"All Ages",3,"Both",468.657584157585
+14,"cigarettes_pc",4647,"Coahuila",2001,22,"All Ages",3,"Both",752.649068326501
+14,"cigarettes_pc",4648,"Colima",2001,22,"All Ages",3,"Both",732.772571717735
+14,"cigarettes_pc",4649,"Chiapas",2001,22,"All Ages",3,"Both",250.546239669314
+14,"cigarettes_pc",4650,"Chihuahua",2001,22,"All Ages",3,"Both",777.495203661213
+14,"cigarettes_pc",4651,"Mexico City",2001,22,"All Ages",3,"Both",846.732375435836
+14,"cigarettes_pc",4652,"Durango",2001,22,"All Ages",3,"Both",666.020383773531
+14,"cigarettes_pc",4653,"Guanajuato",2001,22,"All Ages",3,"Both",713.544221432219
+14,"cigarettes_pc",4654,"Guerrero",2001,22,"All Ages",3,"Both",372.137847583957
+14,"cigarettes_pc",4655,"Hidalgo",2001,22,"All Ages",3,"Both",508.993712243964
+14,"cigarettes_pc",4656,"Jalisco",2001,22,"All Ages",3,"Both",826.2780819328
+14,"cigarettes_pc",4657,"México",2001,22,"All Ages",3,"Both",675.776130320258
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",569.475029958506
+14,"cigarettes_pc",4659,"Morelos",2001,22,"All Ages",3,"Both",590.120572256282
+14,"cigarettes_pc",4660,"Nayarit",2001,22,"All Ages",3,"Both",684.078197835458
+14,"cigarettes_pc",4661,"Nuevo León",2001,22,"All Ages",3,"Both",872.893535798795
+14,"cigarettes_pc",4662,"Oaxaca",2001,22,"All Ages",3,"Both",278.903318166752
+14,"cigarettes_pc",4663,"Puebla",2001,22,"All Ages",3,"Both",447.914729418222
+14,"cigarettes_pc",4664,"Querétaro",2001,22,"All Ages",3,"Both",728.410990729695
+14,"cigarettes_pc",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",546.833872590664
+14,"cigarettes_pc",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",499.727847031694
+14,"cigarettes_pc",4667,"Sinaloa",2001,22,"All Ages",3,"Both",610.170294464921
+14,"cigarettes_pc",4668,"Sonora",2001,22,"All Ages",3,"Both",862.036732032523
+14,"cigarettes_pc",4669,"Tabasco",2001,22,"All Ages",3,"Both",316.609319041073
+14,"cigarettes_pc",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",590.354299458682
+14,"cigarettes_pc",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",465.914892415451
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",382.721857563191
+14,"cigarettes_pc",4673,"Yucatán",2001,22,"All Ages",3,"Both",382.466374216195
+14,"cigarettes_pc",4674,"Zacatecas",2001,22,"All Ages",3,"Both",580.466824057498
+14,"cigarettes_pc",130,"Mexico",2002,22,"All Ages",3,"Both",588.475198896115
+14,"cigarettes_pc",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",826.262930998876
+14,"cigarettes_pc",4644,"Baja California",2002,22,"All Ages",3,"Both",751.425310657632
+14,"cigarettes_pc",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",824.296726239853
+14,"cigarettes_pc",4646,"Campeche",2002,22,"All Ages",3,"Both",444.276833608973
+14,"cigarettes_pc",4647,"Coahuila",2002,22,"All Ages",3,"Both",714.969782979073
+14,"cigarettes_pc",4648,"Colima",2002,22,"All Ages",3,"Both",693.361168792714
+14,"cigarettes_pc",4649,"Chiapas",2002,22,"All Ages",3,"Both",239.827588853672
+14,"cigarettes_pc",4650,"Chihuahua",2002,22,"All Ages",3,"Both",736.388088838539
+14,"cigarettes_pc",4651,"Mexico City",2002,22,"All Ages",3,"Both",804.818635596046
+14,"cigarettes_pc",4652,"Durango",2002,22,"All Ages",3,"Both",631.586902951626
+14,"cigarettes_pc",4653,"Guanajuato",2002,22,"All Ages",3,"Both",675.997668791209
+14,"cigarettes_pc",4654,"Guerrero",2002,22,"All Ages",3,"Both",353.146640018768
+14,"cigarettes_pc",4655,"Hidalgo",2002,22,"All Ages",3,"Both",490.172974705165
+14,"cigarettes_pc",4656,"Jalisco",2002,22,"All Ages",3,"Both",778.176873154532
+14,"cigarettes_pc",4657,"México",2002,22,"All Ages",3,"Both",646.70298388716
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",542.715529060845
+14,"cigarettes_pc",4659,"Morelos",2002,22,"All Ages",3,"Both",562.74237435682
+14,"cigarettes_pc",4660,"Nayarit",2002,22,"All Ages",3,"Both",651.380481283308
+14,"cigarettes_pc",4661,"Nuevo León",2002,22,"All Ages",3,"Both",828.461257057858
+14,"cigarettes_pc",4662,"Oaxaca",2002,22,"All Ages",3,"Both",264.704285806518
+14,"cigarettes_pc",4663,"Puebla",2002,22,"All Ages",3,"Both",429.821202237676
+14,"cigarettes_pc",4664,"Querétaro",2002,22,"All Ages",3,"Both",690.844312948423
+14,"cigarettes_pc",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",520.848918024428
+14,"cigarettes_pc",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",476.409541858699
+14,"cigarettes_pc",4667,"Sinaloa",2002,22,"All Ages",3,"Both",576.02531190857
+14,"cigarettes_pc",4668,"Sonora",2002,22,"All Ages",3,"Both",810.250628761629
+14,"cigarettes_pc",4669,"Tabasco",2002,22,"All Ages",3,"Both",297.403906049158
+14,"cigarettes_pc",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",560.603683542417
+14,"cigarettes_pc",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",446.278630272441
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",362.730250959652
+14,"cigarettes_pc",4673,"Yucatán",2002,22,"All Ages",3,"Both",364.351711943875
+14,"cigarettes_pc",4674,"Zacatecas",2002,22,"All Ages",3,"Both",554.19886825062
+14,"cigarettes_pc",130,"Mexico",2003,22,"All Ages",3,"Both",563.435843035499
+14,"cigarettes_pc",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",790.700918957523
+14,"cigarettes_pc",4644,"Baja California",2003,22,"All Ages",3,"Both",709.662983932791
+14,"cigarettes_pc",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",782.808281501356
+14,"cigarettes_pc",4646,"Campeche",2003,22,"All Ages",3,"Both",425.355280980924
+14,"cigarettes_pc",4647,"Coahuila",2003,22,"All Ages",3,"Both",684.493562198133
+14,"cigarettes_pc",4648,"Colima",2003,22,"All Ages",3,"Both",661.88778918163
+14,"cigarettes_pc",4649,"Chiapas",2003,22,"All Ages",3,"Both",231.782746774421
+14,"cigarettes_pc",4650,"Chihuahua",2003,22,"All Ages",3,"Both",702.584579368665
+14,"cigarettes_pc",4651,"Mexico City",2003,22,"All Ages",3,"Both",770.464848823513
+14,"cigarettes_pc",4652,"Durango",2003,22,"All Ages",3,"Both",603.458859456905
+14,"cigarettes_pc",4653,"Guanajuato",2003,22,"All Ages",3,"Both",645.410985863715
+14,"cigarettes_pc",4654,"Guerrero",2003,22,"All Ages",3,"Both",338.392079354615
+14,"cigarettes_pc",4655,"Hidalgo",2003,22,"All Ages",3,"Both",476.447725250132
+14,"cigarettes_pc",4656,"Jalisco",2003,22,"All Ages",3,"Both",737.641154502222
+14,"cigarettes_pc",4657,"México",2003,22,"All Ages",3,"Both",624.276172334178
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",521.799407580811
+14,"cigarettes_pc",4659,"Morelos",2003,22,"All Ages",3,"Both",541.208827133103
+14,"cigarettes_pc",4660,"Nayarit",2003,22,"All Ages",3,"Both",625.193614604667
+14,"cigarettes_pc",4661,"Nuevo León",2003,22,"All Ages",3,"Both",791.684972092054
+14,"cigarettes_pc",4662,"Oaxaca",2003,22,"All Ages",3,"Both",253.863675837562
+14,"cigarettes_pc",4663,"Puebla",2003,22,"All Ages",3,"Both",416.269464049909
+14,"cigarettes_pc",4664,"Querétaro",2003,22,"All Ages",3,"Both",660.057128595246
+14,"cigarettes_pc",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",500.310863591719
+14,"cigarettes_pc",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",457.926759132208
+14,"cigarettes_pc",4667,"Sinaloa",2003,22,"All Ages",3,"Both",547.742673708031
+14,"cigarettes_pc",4668,"Sonora",2003,22,"All Ages",3,"Both",766.865503554021
+14,"cigarettes_pc",4669,"Tabasco",2003,22,"All Ages",3,"Both",282.006384069259
+14,"cigarettes_pc",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",536.487197087271
+14,"cigarettes_pc",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",431.75835118717
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",347.088618618574
+14,"cigarettes_pc",4673,"Yucatán",2003,22,"All Ages",3,"Both",350.751120425313
+14,"cigarettes_pc",4674,"Zacatecas",2003,22,"All Ages",3,"Both",533.16499680062
+14,"cigarettes_pc",130,"Mexico",2004,22,"All Ages",3,"Both",539.736892527459
+14,"cigarettes_pc",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",757.302683770713
+14,"cigarettes_pc",4644,"Baja California",2004,22,"All Ages",3,"Both",670.262551409854
+14,"cigarettes_pc",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",743.274369662536
+14,"cigarettes_pc",4646,"Campeche",2004,22,"All Ages",3,"Both",407.723021492408
+14,"cigarettes_pc",4647,"Coahuila",2004,22,"All Ages",3,"Both",655.35849417054
+14,"cigarettes_pc",4648,"Colima",2004,22,"All Ages",3,"Both",632.555409657001
+14,"cigarettes_pc",4649,"Chiapas",2004,22,"All Ages",3,"Both",224.221254457513
+14,"cigarettes_pc",4650,"Chihuahua",2004,22,"All Ages",3,"Both",670.946192066396
+14,"cigarettes_pc",4651,"Mexico City",2004,22,"All Ages",3,"Both",737.959402572866
+14,"cigarettes_pc",4652,"Durango",2004,22,"All Ages",3,"Both",576.340556789489
+14,"cigarettes_pc",4653,"Guanajuato",2004,22,"All Ages",3,"Both",616.614212905882
+14,"cigarettes_pc",4654,"Guerrero",2004,22,"All Ages",3,"Both",324.53160969092
+14,"cigarettes_pc",4655,"Hidalgo",2004,22,"All Ages",3,"Both",463.398590943483
+14,"cigarettes_pc",4656,"Jalisco",2004,22,"All Ages",3,"Both",699.090869407481
+14,"cigarettes_pc",4657,"México",2004,22,"All Ages",3,"Both",603.037392810482
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",502.061284308191
+14,"cigarettes_pc",4659,"Morelos",2004,22,"All Ages",3,"Both",520.874096313252
+14,"cigarettes_pc",4660,"Nayarit",2004,22,"All Ages",3,"Both",599.933351784696
+14,"cigarettes_pc",4661,"Nuevo León",2004,22,"All Ages",3,"Both",756.708937378011
+14,"cigarettes_pc",4662,"Oaxaca",2004,22,"All Ages",3,"Both",243.855909821235
+14,"cigarettes_pc",4663,"Puebla",2004,22,"All Ages",3,"Both",403.263457091584
+14,"cigarettes_pc",4664,"Querétaro",2004,22,"All Ages",3,"Both",631.17720305381
+14,"cigarettes_pc",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",481.070978526938
+14,"cigarettes_pc",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",440.210927841475
+14,"cigarettes_pc",4667,"Sinaloa",2004,22,"All Ages",3,"Both",520.371649461019
+14,"cigarettes_pc",4668,"Sonora",2004,22,"All Ages",3,"Both",725.683395223333
+14,"cigarettes_pc",4669,"Tabasco",2004,22,"All Ages",3,"Both",267.765114919616
+14,"cigarettes_pc",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",513.098571996258
+14,"cigarettes_pc",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",418.374653796309
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",332.355717831125
+14,"cigarettes_pc",4673,"Yucatán",2004,22,"All Ages",3,"Both",338.07372503834
+14,"cigarettes_pc",4674,"Zacatecas",2004,22,"All Ages",3,"Both",512.874020695158
+14,"cigarettes_pc",130,"Mexico",2005,22,"All Ages",3,"Both",517.74833487431
+14,"cigarettes_pc",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",727.008791355438
+14,"cigarettes_pc",4644,"Baja California",2005,22,"All Ages",3,"Both",633.795676168783
+14,"cigarettes_pc",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",706.321368358066
+14,"cigarettes_pc",4646,"Campeche",2005,22,"All Ages",3,"Both",391.88349836537
+14,"cigarettes_pc",4647,"Coahuila",2005,22,"All Ages",3,"Both",628.149547276672
+14,"cigarettes_pc",4648,"Colima",2005,22,"All Ages",3,"Both",605.475929420713
+14,"cigarettes_pc",4649,"Chiapas",2005,22,"All Ages",3,"Both",217.288930882594
+14,"cigarettes_pc",4650,"Chihuahua",2005,22,"All Ages",3,"Both",642.621066755963
+14,"cigarettes_pc",4651,"Mexico City",2005,22,"All Ages",3,"Both",707.44893514654
+14,"cigarettes_pc",4652,"Durango",2005,22,"All Ages",3,"Both",551.036071170985
+14,"cigarettes_pc",4653,"Guanajuato",2005,22,"All Ages",3,"Both",590.220491010368
+14,"cigarettes_pc",4654,"Guerrero",2005,22,"All Ages",3,"Both",311.888403706089
+14,"cigarettes_pc",4655,"Hidalgo",2005,22,"All Ages",3,"Both",451.286910609535
+14,"cigarettes_pc",4656,"Jalisco",2005,22,"All Ages",3,"Both",663.296987588248
+14,"cigarettes_pc",4657,"México",2005,22,"All Ages",3,"Both",582.74452083404
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",484.003565057226
+14,"cigarettes_pc",4659,"Morelos",2005,22,"All Ages",3,"Both",502.163263907055
+14,"cigarettes_pc",4660,"Nayarit",2005,22,"All Ages",3,"Both",576.548910333321
+14,"cigarettes_pc",4661,"Nuevo León",2005,22,"All Ages",3,"Both",723.930123664743
+14,"cigarettes_pc",4662,"Oaxaca",2005,22,"All Ages",3,"Both",234.880109498463
+14,"cigarettes_pc",4663,"Puebla",2005,22,"All Ages",3,"Both",391.369637918034
+14,"cigarettes_pc",4664,"Querétaro",2005,22,"All Ages",3,"Both",604.647960885633
+14,"cigarettes_pc",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",463.015188409754
+14,"cigarettes_pc",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",423.662991545975
+14,"cigarettes_pc",4667,"Sinaloa",2005,22,"All Ages",3,"Both",494.745728101891
+14,"cigarettes_pc",4668,"Sonora",2005,22,"All Ages",3,"Both",687.606981332443
+14,"cigarettes_pc",4669,"Tabasco",2005,22,"All Ages",3,"Both",254.823291778152
+14,"cigarettes_pc",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",491.012935951578
+14,"cigarettes_pc",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",406.474898003479
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",318.783271770378
+14,"cigarettes_pc",4673,"Yucatán",2005,22,"All Ages",3,"Both",326.513867347774
+14,"cigarettes_pc",4674,"Zacatecas",2005,22,"All Ages",3,"Both",493.8308244572
+14,"cigarettes_pc",130,"Mexico",2006,22,"All Ages",3,"Both",497.328600206873
+14,"cigarettes_pc",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",702.799931087434
+14,"cigarettes_pc",4644,"Baja California",2006,22,"All Ages",3,"Both",599.431720094004
+14,"cigarettes_pc",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",672.653234925456
+14,"cigarettes_pc",4646,"Campeche",2006,22,"All Ages",3,"Both",378.920404355939
+14,"cigarettes_pc",4647,"Coahuila",2006,22,"All Ages",3,"Both",604.077554895047
+14,"cigarettes_pc",4648,"Colima",2006,22,"All Ages",3,"Both",582.247202479045
+14,"cigarettes_pc",4649,"Chiapas",2006,22,"All Ages",3,"Both",209.676368970456
+14,"cigarettes_pc",4650,"Chihuahua",2006,22,"All Ages",3,"Both",619.210127039647
+14,"cigarettes_pc",4651,"Mexico City",2006,22,"All Ages",3,"Both",678.64803028573
+14,"cigarettes_pc",4652,"Durango",2006,22,"All Ages",3,"Both",528.171775928149
+14,"cigarettes_pc",4653,"Guanajuato",2006,22,"All Ages",3,"Both",568.4433157772
+14,"cigarettes_pc",4654,"Guerrero",2006,22,"All Ages",3,"Both",300.734016552011
+14,"cigarettes_pc",4655,"Hidalgo",2006,22,"All Ages",3,"Both",440.345211822072
+14,"cigarettes_pc",4656,"Jalisco",2006,22,"All Ages",3,"Both",630.557143398708
+14,"cigarettes_pc",4657,"México",2006,22,"All Ages",3,"Both",559.388248908701
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",469.133947218026
+14,"cigarettes_pc",4659,"Morelos",2006,22,"All Ages",3,"Both",486.672510866714
+14,"cigarettes_pc",4660,"Nayarit",2006,22,"All Ages",3,"Both",557.579592661943
+14,"cigarettes_pc",4661,"Nuevo León",2006,22,"All Ages",3,"Both",694.923795777329
+14,"cigarettes_pc",4662,"Oaxaca",2006,22,"All Ages",3,"Both",227.520936278618
+14,"cigarettes_pc",4663,"Puebla",2006,22,"All Ages",3,"Both",380.806625086449
+14,"cigarettes_pc",4664,"Querétaro",2006,22,"All Ages",3,"Both",583.370885784753
+14,"cigarettes_pc",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",445.23240903829
+14,"cigarettes_pc",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",407.837394849608
+14,"cigarettes_pc",4667,"Sinaloa",2006,22,"All Ages",3,"Both",469.923265371862
+14,"cigarettes_pc",4668,"Sonora",2006,22,"All Ages",3,"Both",654.580041379646
+14,"cigarettes_pc",4669,"Tabasco",2006,22,"All Ages",3,"Both",243.45254761757
+14,"cigarettes_pc",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",468.6594736636
+14,"cigarettes_pc",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",399.211655106266
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",306.125887017999
+14,"cigarettes_pc",4673,"Yucatán",2006,22,"All Ages",3,"Both",316.98712229573
+14,"cigarettes_pc",4674,"Zacatecas",2006,22,"All Ages",3,"Both",476.841096134698
+14,"cigarettes_pc",130,"Mexico",2007,22,"All Ages",3,"Both",478.194635083147
+14,"cigarettes_pc",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",680.957123646467
+14,"cigarettes_pc",4644,"Baja California",2007,22,"All Ages",3,"Both",567.577502112454
+14,"cigarettes_pc",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",641.177337506664
+14,"cigarettes_pc",4646,"Campeche",2007,22,"All Ages",3,"Both",367.106656708439
+14,"cigarettes_pc",4647,"Coahuila",2007,22,"All Ages",3,"Both",581.499384973595
+14,"cigarettes_pc",4648,"Colima",2007,22,"All Ages",3,"Both",560.588214016729
+14,"cigarettes_pc",4649,"Chiapas",2007,22,"All Ages",3,"Both",202.613828581213
+14,"cigarettes_pc",4650,"Chihuahua",2007,22,"All Ages",3,"Both",598.369798416144
+14,"cigarettes_pc",4651,"Mexico City",2007,22,"All Ages",3,"Both",651.020385321116
+14,"cigarettes_pc",4652,"Durango",2007,22,"All Ages",3,"Both",506.801098747794
+14,"cigarettes_pc",4653,"Guanajuato",2007,22,"All Ages",3,"Both",548.39476206929
+14,"cigarettes_pc",4654,"Guerrero",2007,22,"All Ages",3,"Both",290.547694306899
+14,"cigarettes_pc",4655,"Hidalgo",2007,22,"All Ages",3,"Both",430.093716777753
+14,"cigarettes_pc",4656,"Jalisco",2007,22,"All Ages",3,"Both",599.743486839959
+14,"cigarettes_pc",4657,"México",2007,22,"All Ages",3,"Both",536.718514995806
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",455.386650492067
+14,"cigarettes_pc",4659,"Morelos",2007,22,"All Ages",3,"Both",472.496392973506
+14,"cigarettes_pc",4660,"Nayarit",2007,22,"All Ages",3,"Both",539.834162684802
+14,"cigarettes_pc",4661,"Nuevo León",2007,22,"All Ages",3,"Both",667.300577208719
+14,"cigarettes_pc",4662,"Oaxaca",2007,22,"All Ages",3,"Both",220.842183530137
+14,"cigarettes_pc",4663,"Puebla",2007,22,"All Ages",3,"Both",371.119273047529
+14,"cigarettes_pc",4664,"Querétaro",2007,22,"All Ages",3,"Both",564.054612807686
+14,"cigarettes_pc",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",428.723194703332
+14,"cigarettes_pc",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",393.247570303374
+14,"cigarettes_pc",4667,"Sinaloa",2007,22,"All Ages",3,"Both",446.78575937663
+14,"cigarettes_pc",4668,"Sonora",2007,22,"All Ages",3,"Both",624.160737370142
+14,"cigarettes_pc",4669,"Tabasco",2007,22,"All Ages",3,"Both",233.056339769206
+14,"cigarettes_pc",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",447.587428262296
+14,"cigarettes_pc",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",393.159979498251
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",294.455162508994
+14,"cigarettes_pc",4673,"Yucatán",2007,22,"All Ages",3,"Both",308.279254640775
+14,"cigarettes_pc",4674,"Zacatecas",2007,22,"All Ages",3,"Both",460.703663501823
+14,"cigarettes_pc",130,"Mexico",2008,22,"All Ages",3,"Both",460.396087879163
+14,"cigarettes_pc",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",661.472747353168
+14,"cigarettes_pc",4644,"Baja California",2008,22,"All Ages",3,"Both",538.426202820228
+14,"cigarettes_pc",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",612.406183485532
+14,"cigarettes_pc",4646,"Campeche",2008,22,"All Ages",3,"Both",356.458810136603
+14,"cigarettes_pc",4647,"Coahuila",2008,22,"All Ages",3,"Both",560.306419940649
+14,"cigarettes_pc",4648,"Colima",2008,22,"All Ages",3,"Both",540.76843920352
+14,"cigarettes_pc",4649,"Chiapas",2008,22,"All Ages",3,"Both",196.164009151309
+14,"cigarettes_pc",4650,"Chihuahua",2008,22,"All Ages",3,"Both",579.857198428069
+14,"cigarettes_pc",4651,"Mexico City",2008,22,"All Ages",3,"Both",624.788840829532
+14,"cigarettes_pc",4652,"Durango",2008,22,"All Ages",3,"Both",487.047533303399
+14,"cigarettes_pc",4653,"Guanajuato",2008,22,"All Ages",3,"Both",530.002237304361
+14,"cigarettes_pc",4654,"Guerrero",2008,22,"All Ages",3,"Both",281.339723050675
+14,"cigarettes_pc",4655,"Hidalgo",2008,22,"All Ages",3,"Both",420.554815501768
+14,"cigarettes_pc",4656,"Jalisco",2008,22,"All Ages",3,"Both",571.175541348154
+14,"cigarettes_pc",4657,"México",2008,22,"All Ages",3,"Both",514.832252046871
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",442.620261597509
+14,"cigarettes_pc",4659,"Morelos",2008,22,"All Ages",3,"Both",459.718191107509
+14,"cigarettes_pc",4660,"Nayarit",2008,22,"All Ages",3,"Both",523.26136449618
+14,"cigarettes_pc",4661,"Nuevo León",2008,22,"All Ages",3,"Both",641.144645193017
+14,"cigarettes_pc",4662,"Oaxaca",2008,22,"All Ages",3,"Both",214.840421246606
+14,"cigarettes_pc",4663,"Puebla",2008,22,"All Ages",3,"Both",362.228330017937
+14,"cigarettes_pc",4664,"Querétaro",2008,22,"All Ages",3,"Both",546.513218182547
+14,"cigarettes_pc",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",413.635830963222
+14,"cigarettes_pc",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",379.877585930907
+14,"cigarettes_pc",4667,"Sinaloa",2008,22,"All Ages",3,"Both",425.485283381237
+14,"cigarettes_pc",4668,"Sonora",2008,22,"All Ages",3,"Both",596.117297038188
+14,"cigarettes_pc",4669,"Tabasco",2008,22,"All Ages",3,"Both",223.622549187884
+14,"cigarettes_pc",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",427.985830549693
+14,"cigarettes_pc",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",388.202822016083
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",283.802809010486
+14,"cigarettes_pc",4673,"Yucatán",2008,22,"All Ages",3,"Both",300.359385355988
+14,"cigarettes_pc",4674,"Zacatecas",2008,22,"All Ages",3,"Both",445.574447977268
+14,"cigarettes_pc",130,"Mexico",2009,22,"All Ages",3,"Both",445.281070103712
+14,"cigarettes_pc",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",646.572588815727
+14,"cigarettes_pc",4644,"Baja California",2009,22,"All Ages",3,"Both",513.219737456487
+14,"cigarettes_pc",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",591.753243536733
+14,"cigarettes_pc",4646,"Campeche",2009,22,"All Ages",3,"Both",351.624767924404
+14,"cigarettes_pc",4647,"Coahuila",2009,22,"All Ages",3,"Both",540.692492152892
+14,"cigarettes_pc",4648,"Colima",2009,22,"All Ages",3,"Both",528.947266379977
+14,"cigarettes_pc",4649,"Chiapas",2009,22,"All Ages",3,"Both",191.545314902683
+14,"cigarettes_pc",4650,"Chihuahua",2009,22,"All Ages",3,"Both",563.01862160009
+14,"cigarettes_pc",4651,"Mexico City",2009,22,"All Ages",3,"Both",599.445892835521
+14,"cigarettes_pc",4652,"Durango",2009,22,"All Ages",3,"Both",471.038770591658
+14,"cigarettes_pc",4653,"Guanajuato",2009,22,"All Ages",3,"Both",515.124100245961
+14,"cigarettes_pc",4654,"Guerrero",2009,22,"All Ages",3,"Both",276.41652082049
+14,"cigarettes_pc",4655,"Hidalgo",2009,22,"All Ages",3,"Both",412.876304302871
+14,"cigarettes_pc",4656,"Jalisco",2009,22,"All Ages",3,"Both",544.758137666535
+14,"cigarettes_pc",4657,"México",2009,22,"All Ages",3,"Both",496.508611401713
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",430.211120848673
+14,"cigarettes_pc",4659,"Morelos",2009,22,"All Ages",3,"Both",452.204662075903
+14,"cigarettes_pc",4660,"Nayarit",2009,22,"All Ages",3,"Both",512.852130753189
+14,"cigarettes_pc",4661,"Nuevo León",2009,22,"All Ages",3,"Both",613.937910221048
+14,"cigarettes_pc",4662,"Oaxaca",2009,22,"All Ages",3,"Both",210.316483040345
+14,"cigarettes_pc",4663,"Puebla",2009,22,"All Ages",3,"Both",356.959048962405
+14,"cigarettes_pc",4664,"Querétaro",2009,22,"All Ages",3,"Both",535.213899757093
+14,"cigarettes_pc",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",404.108305374428
+14,"cigarettes_pc",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",369.651399802523
+14,"cigarettes_pc",4667,"Sinaloa",2009,22,"All Ages",3,"Both",407.36343847269
+14,"cigarettes_pc",4668,"Sonora",2009,22,"All Ages",3,"Both",569.640588740743
+14,"cigarettes_pc",4669,"Tabasco",2009,22,"All Ages",3,"Both",217.484449660538
+14,"cigarettes_pc",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",410.366658656359
+14,"cigarettes_pc",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",388.064090776514
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",275.321444714304
+14,"cigarettes_pc",4673,"Yucatán",2009,22,"All Ages",3,"Both",296.713383202098
+14,"cigarettes_pc",4674,"Zacatecas",2009,22,"All Ages",3,"Both",433.028924877359
+14,"cigarettes_pc",130,"Mexico",2010,22,"All Ages",3,"Both",432.986713342307
+14,"cigarettes_pc",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",636.163061360203
+14,"cigarettes_pc",4644,"Baja California",2010,22,"All Ages",3,"Both",492.39045126246
+14,"cigarettes_pc",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",576.474101405206
+14,"cigarettes_pc",4646,"Campeche",2010,22,"All Ages",3,"Both",348.894696205439
+14,"cigarettes_pc",4647,"Coahuila",2010,22,"All Ages",3,"Both",524.209960149424
+14,"cigarettes_pc",4648,"Colima",2010,22,"All Ages",3,"Both",520.623751053734
+14,"cigarettes_pc",4649,"Chiapas",2010,22,"All Ages",3,"Both",187.963438987991
+14,"cigarettes_pc",4650,"Chihuahua",2010,22,"All Ages",3,"Both",549.579902806854
+14,"cigarettes_pc",4651,"Mexico City",2010,22,"All Ages",3,"Both",577.847258300809
+14,"cigarettes_pc",4652,"Durango",2010,22,"All Ages",3,"Both",458.200949605737
+14,"cigarettes_pc",4653,"Guanajuato",2010,22,"All Ages",3,"Both",503.37068871341
+14,"cigarettes_pc",4654,"Guerrero",2010,22,"All Ages",3,"Both",272.933961577344
+14,"cigarettes_pc",4655,"Hidalgo",2010,22,"All Ages",3,"Both",407.461791867416
+14,"cigarettes_pc",4656,"Jalisco",2010,22,"All Ages",3,"Both",522.275968950912
+14,"cigarettes_pc",4657,"México",2010,22,"All Ages",3,"Both",481.008873470071
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",420.115080614397
+14,"cigarettes_pc",4659,"Morelos",2010,22,"All Ages",3,"Both",447.601699807443
+14,"cigarettes_pc",4660,"Nayarit",2010,22,"All Ages",3,"Both",505.436861897956
+14,"cigarettes_pc",4661,"Nuevo León",2010,22,"All Ages",3,"Both",590.804254032576
+14,"cigarettes_pc",4662,"Oaxaca",2010,22,"All Ages",3,"Both",206.942609908334
+14,"cigarettes_pc",4663,"Puebla",2010,22,"All Ages",3,"Both",353.583863976134
+14,"cigarettes_pc",4664,"Querétaro",2010,22,"All Ages",3,"Both",527.860336163983
+14,"cigarettes_pc",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",397.382957698102
+14,"cigarettes_pc",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",361.646828751339
+14,"cigarettes_pc",4667,"Sinaloa",2010,22,"All Ages",3,"Both",392.301283373156
+14,"cigarettes_pc",4668,"Sonora",2010,22,"All Ages",3,"Both",547.134618373172
+14,"cigarettes_pc",4669,"Tabasco",2010,22,"All Ages",3,"Both",212.732365893682
+14,"cigarettes_pc",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",395.943945864839
+14,"cigarettes_pc",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",390.02573498449
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",268.599395173671
+14,"cigarettes_pc",4673,"Yucatán",2010,22,"All Ages",3,"Both",294.657092963763
+14,"cigarettes_pc",4674,"Zacatecas",2010,22,"All Ages",3,"Both",423.234965851792
+14,"cigarettes_pc",130,"Mexico",2011,22,"All Ages",3,"Both",422.410619217928
+14,"cigarettes_pc",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",628.197636249257
+14,"cigarettes_pc",4644,"Baja California",2011,22,"All Ages",3,"Both",474.410308754689
+14,"cigarettes_pc",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",564.93878281043
+14,"cigarettes_pc",4646,"Campeche",2011,22,"All Ages",3,"Both",347.581511733345
+14,"cigarettes_pc",4647,"Coahuila",2011,22,"All Ages",3,"Both",509.493468525702
+14,"cigarettes_pc",4648,"Colima",2011,22,"All Ages",3,"Both",514.332494134218
+14,"cigarettes_pc",4649,"Chiapas",2011,22,"All Ages",3,"Both",185.102248405449
+14,"cigarettes_pc",4650,"Chihuahua",2011,22,"All Ages",3,"Both",537.385138356738
+14,"cigarettes_pc",4651,"Mexico City",2011,22,"All Ages",3,"Both",558.410474585181
+14,"cigarettes_pc",4652,"Durango",2011,22,"All Ages",3,"Both",447.248390394594
+14,"cigarettes_pc",4653,"Guanajuato",2011,22,"All Ages",3,"Both",493.72608552975
+14,"cigarettes_pc",4654,"Guerrero",2011,22,"All Ages",3,"Both",270.430136405183
+14,"cigarettes_pc",4655,"Hidalgo",2011,22,"All Ages",3,"Both",403.516477560691
+14,"cigarettes_pc",4656,"Jalisco",2011,22,"All Ages",3,"Both",502.662092057819
+14,"cigarettes_pc",4657,"México",2011,22,"All Ages",3,"Both",466.907868987602
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",411.130932858487
+14,"cigarettes_pc",4659,"Morelos",2011,22,"All Ages",3,"Both",444.828948608436
+14,"cigarettes_pc",4660,"Nayarit",2011,22,"All Ages",3,"Both",499.968267781088
+14,"cigarettes_pc",4661,"Nuevo León",2011,22,"All Ages",3,"Both",569.982016301235
+14,"cigarettes_pc",4662,"Oaxaca",2011,22,"All Ages",3,"Both",204.321006579975
+14,"cigarettes_pc",4663,"Puebla",2011,22,"All Ages",3,"Both",351.372167496831
+14,"cigarettes_pc",4664,"Querétaro",2011,22,"All Ages",3,"Both",523.239348947657
+14,"cigarettes_pc",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",392.302330524597
+14,"cigarettes_pc",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",355.340976074225
+14,"cigarettes_pc",4667,"Sinaloa",2011,22,"All Ages",3,"Both",379.558311689541
+14,"cigarettes_pc",4668,"Sonora",2011,22,"All Ages",3,"Both",527.470106545735
+14,"cigarettes_pc",4669,"Tabasco",2011,22,"All Ages",3,"Both",208.838221981031
+14,"cigarettes_pc",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",383.761465551581
+14,"cigarettes_pc",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",393.126107257206
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",263.006522191539
+14,"cigarettes_pc",4673,"Yucatán",2011,22,"All Ages",3,"Both",293.538306627443
+14,"cigarettes_pc",4674,"Zacatecas",2011,22,"All Ages",3,"Both",415.154313280996
+14,"cigarettes_pc",130,"Mexico",2012,22,"All Ages",3,"Both",415.142885619618
+14,"cigarettes_pc",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",619.781434464383
+14,"cigarettes_pc",4644,"Baja California",2012,22,"All Ages",3,"Both",464.209891511391
+14,"cigarettes_pc",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",555.200109185007
+14,"cigarettes_pc",4646,"Campeche",2012,22,"All Ages",3,"Both",344.809383693874
+14,"cigarettes_pc",4647,"Coahuila",2012,22,"All Ages",3,"Both",499.699762687289
+14,"cigarettes_pc",4648,"Colima",2012,22,"All Ages",3,"Both",507.792248609686
+14,"cigarettes_pc",4649,"Chiapas",2012,22,"All Ages",3,"Both",183.639033547573
+14,"cigarettes_pc",4650,"Chihuahua",2012,22,"All Ages",3,"Both",528.344591327115
+14,"cigarettes_pc",4651,"Mexico City",2012,22,"All Ages",3,"Both",544.36670980414
+14,"cigarettes_pc",4652,"Durango",2012,22,"All Ages",3,"Both",439.242251174626
+14,"cigarettes_pc",4653,"Guanajuato",2012,22,"All Ages",3,"Both",486.949053774299
+14,"cigarettes_pc",4654,"Guerrero",2012,22,"All Ages",3,"Both",267.926370409502
+14,"cigarettes_pc",4655,"Hidalgo",2012,22,"All Ages",3,"Both",399.361125020854
+14,"cigarettes_pc",4656,"Jalisco",2012,22,"All Ages",3,"Both",491.737305186035
+14,"cigarettes_pc",4657,"México",2012,22,"All Ages",3,"Both",456.699681696177
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",405.50976499157
+14,"cigarettes_pc",4659,"Morelos",2012,22,"All Ages",3,"Both",439.402603470087
+14,"cigarettes_pc",4660,"Nayarit",2012,22,"All Ages",3,"Both",493.173009018899
+14,"cigarettes_pc",4661,"Nuevo León",2012,22,"All Ages",3,"Both",556.643047568781
+14,"cigarettes_pc",4662,"Oaxaca",2012,22,"All Ages",3,"Both",203.008310951966
+14,"cigarettes_pc",4663,"Puebla",2012,22,"All Ages",3,"Both",348.540953476937
+14,"cigarettes_pc",4664,"Querétaro",2012,22,"All Ages",3,"Both",517.091349095732
+14,"cigarettes_pc",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",386.501934624625
+14,"cigarettes_pc",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",351.160174554309
+14,"cigarettes_pc",4667,"Sinaloa",2012,22,"All Ages",3,"Both",372.927960470029
+14,"cigarettes_pc",4668,"Sonora",2012,22,"All Ages",3,"Both",516.184497209288
+14,"cigarettes_pc",4669,"Tabasco",2012,22,"All Ages",3,"Both",206.461207567526
+14,"cigarettes_pc",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",377.408704176507
+14,"cigarettes_pc",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",391.055522873352
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",259.856327407836
+14,"cigarettes_pc",4673,"Yucatán",2012,22,"All Ages",3,"Both",291.164654099271
+14,"cigarettes_pc",4674,"Zacatecas",2012,22,"All Ages",3,"Both",409.024070384473
+14,"cigarettes_pc",130,"Mexico",2013,22,"All Ages",3,"Both",410.172024838854
+14,"cigarettes_pc",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",614.901648618531
+14,"cigarettes_pc",4644,"Baja California",2013,22,"All Ages",3,"Both",457.334951948935
+14,"cigarettes_pc",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",549.883459994209
+14,"cigarettes_pc",4646,"Campeche",2013,22,"All Ages",3,"Both",343.945179364105
+14,"cigarettes_pc",4647,"Coahuila",2013,22,"All Ages",3,"Both",492.503023151459
+14,"cigarettes_pc",4648,"Colima",2013,22,"All Ages",3,"Both",504.198610400672
+14,"cigarettes_pc",4649,"Chiapas",2013,22,"All Ages",3,"Both",183.155180779422
+14,"cigarettes_pc",4650,"Chihuahua",2013,22,"All Ages",3,"Both",521.289634282372
+14,"cigarettes_pc",4651,"Mexico City",2013,22,"All Ages",3,"Both",533.321357815302
+14,"cigarettes_pc",4652,"Durango",2013,22,"All Ages",3,"Both",433.508871199291
+14,"cigarettes_pc",4653,"Guanajuato",2013,22,"All Ages",3,"Both",483.225095487423
+14,"cigarettes_pc",4654,"Guerrero",2013,22,"All Ages",3,"Both",266.656052450314
+14,"cigarettes_pc",4655,"Hidalgo",2013,22,"All Ages",3,"Both",397.272107357445
+14,"cigarettes_pc",4656,"Jalisco",2013,22,"All Ages",3,"Both",484.190423732538
+14,"cigarettes_pc",4657,"México",2013,22,"All Ages",3,"Both",448.627014255113
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",401.881645864598
+14,"cigarettes_pc",4659,"Morelos",2013,22,"All Ages",3,"Both",436.454765291765
+14,"cigarettes_pc",4660,"Nayarit",2013,22,"All Ages",3,"Both",489.159240379947
+14,"cigarettes_pc",4661,"Nuevo León",2013,22,"All Ages",3,"Both",546.67780670156
+14,"cigarettes_pc",4662,"Oaxaca",2013,22,"All Ages",3,"Both",202.661167845578
+14,"cigarettes_pc",4663,"Puebla",2013,22,"All Ages",3,"Both",347.329809264265
+14,"cigarettes_pc",4664,"Querétaro",2013,22,"All Ages",3,"Both",514.452557087451
+14,"cigarettes_pc",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",382.913446757964
+14,"cigarettes_pc",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",349.050344309217
+14,"cigarettes_pc",4667,"Sinaloa",2013,22,"All Ages",3,"Both",368.626453353784
+14,"cigarettes_pc",4668,"Sonora",2013,22,"All Ages",3,"Both",508.447609147323
+14,"cigarettes_pc",4669,"Tabasco",2013,22,"All Ages",3,"Both",205.30374571661
+14,"cigarettes_pc",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",373.327123252655
+14,"cigarettes_pc",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",390.497814402856
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",258.05756547194
+14,"cigarettes_pc",4673,"Yucatán",2013,22,"All Ages",3,"Both",290.094824496393
+14,"cigarettes_pc",4674,"Zacatecas",2013,22,"All Ages",3,"Both",405.461185466869
+14,"cigarettes_pc",130,"Mexico",2014,22,"All Ages",3,"Both",406.175340144973
+14,"cigarettes_pc",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",611.383537332412
+14,"cigarettes_pc",4644,"Baja California",2014,22,"All Ages",3,"Both",451.952936264734
+14,"cigarettes_pc",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",546.878815759498
+14,"cigarettes_pc",4646,"Campeche",2014,22,"All Ages",3,"Both",343.986871530807
+14,"cigarettes_pc",4647,"Coahuila",2014,22,"All Ages",3,"Both",486.341559710449
+14,"cigarettes_pc",4648,"Colima",2014,22,"All Ages",3,"Both",502.138275488137
+14,"cigarettes_pc",4649,"Chiapas",2014,22,"All Ages",3,"Both",183.126639935278
+14,"cigarettes_pc",4650,"Chihuahua",2014,22,"All Ages",3,"Both",514.718980883859
+14,"cigarettes_pc",4651,"Mexico City",2014,22,"All Ages",3,"Both",523.389486407771
+14,"cigarettes_pc",4652,"Durango",2014,22,"All Ages",3,"Both",428.805725361743
+14,"cigarettes_pc",4653,"Guanajuato",2014,22,"All Ages",3,"Both",480.728046475646
+14,"cigarettes_pc",4654,"Guerrero",2014,22,"All Ages",3,"Both",265.939052266811
+14,"cigarettes_pc",4655,"Hidalgo",2014,22,"All Ages",3,"Both",396.159436120144
+14,"cigarettes_pc",4656,"Jalisco",2014,22,"All Ages",3,"Both",478.238663337766
+14,"cigarettes_pc",4657,"México",2014,22,"All Ages",3,"Both",441.438986375433
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",399.059425488614
+14,"cigarettes_pc",4659,"Morelos",2014,22,"All Ages",3,"Both",434.628420805797
+14,"cigarettes_pc",4660,"Nayarit",2014,22,"All Ages",3,"Both",486.468672078819
+14,"cigarettes_pc",4661,"Nuevo León",2014,22,"All Ages",3,"Both",538.033493023485
+14,"cigarettes_pc",4662,"Oaxaca",2014,22,"All Ages",3,"Both",202.777742839979
+14,"cigarettes_pc",4663,"Puebla",2014,22,"All Ages",3,"Both",346.783671636794
+14,"cigarettes_pc",4664,"Querétaro",2014,22,"All Ages",3,"Both",513.344757362394
+14,"cigarettes_pc",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",380.462359184873
+14,"cigarettes_pc",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",347.711910161718
+14,"cigarettes_pc",4667,"Sinaloa",2014,22,"All Ages",3,"Both",365.423362000491
+14,"cigarettes_pc",4668,"Sonora",2014,22,"All Ages",3,"Both",502.262242535167
+14,"cigarettes_pc",4669,"Tabasco",2014,22,"All Ages",3,"Both",204.736594322594
+14,"cigarettes_pc",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",370.223133578908
+14,"cigarettes_pc",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",390.499558998886
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",256.885054424251
+14,"cigarettes_pc",4673,"Yucatán",2014,22,"All Ages",3,"Both",289.714104735225
+14,"cigarettes_pc",4674,"Zacatecas",2014,22,"All Ages",3,"Both",402.963016296949
+14,"cigarettes_pc",130,"Mexico",2015,22,"All Ages",3,"Both",403.203580320145
+14,"cigarettes_pc",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",609.222255196477
+14,"cigarettes_pc",4644,"Baja California",2015,22,"All Ages",3,"Both",447.99684172649
+14,"cigarettes_pc",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",545.838239894301
+14,"cigarettes_pc",4646,"Campeche",2015,22,"All Ages",3,"Both",344.963758396061
+14,"cigarettes_pc",4647,"Coahuila",2015,22,"All Ages",3,"Both",481.400272851028
+14,"cigarettes_pc",4648,"Colima",2015,22,"All Ages",3,"Both",501.57066974753
+14,"cigarettes_pc",4649,"Chiapas",2015,22,"All Ages",3,"Both",183.549714500552
+14,"cigarettes_pc",4650,"Chihuahua",2015,22,"All Ages",3,"Both",508.920514274208
+14,"cigarettes_pc",4651,"Mexico City",2015,22,"All Ages",3,"Both",514.541377613011
+14,"cigarettes_pc",4652,"Durango",2015,22,"All Ages",3,"Both",425.221785616978
+14,"cigarettes_pc",4653,"Guanajuato",2015,22,"All Ages",3,"Both",479.493998254056
+14,"cigarettes_pc",4654,"Guerrero",2015,22,"All Ages",3,"Both",265.858790419439
+14,"cigarettes_pc",4655,"Hidalgo",2015,22,"All Ages",3,"Both",396.034863156079
+14,"cigarettes_pc",4656,"Jalisco",2015,22,"All Ages",3,"Both",473.894963038366
+14,"cigarettes_pc",4657,"México",2015,22,"All Ages",3,"Both",435.273222857203
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",397.150450412516
+14,"cigarettes_pc",4659,"Morelos",2015,22,"All Ages",3,"Both",433.90055991585
+14,"cigarettes_pc",4660,"Nayarit",2015,22,"All Ages",3,"Both",485.089985054033
+14,"cigarettes_pc",4661,"Nuevo León",2015,22,"All Ages",3,"Both",530.905085494339
+14,"cigarettes_pc",4662,"Oaxaca",2015,22,"All Ages",3,"Both",203.403043712473
+14,"cigarettes_pc",4663,"Puebla",2015,22,"All Ages",3,"Both",346.858230254855
+14,"cigarettes_pc",4664,"Querétaro",2015,22,"All Ages",3,"Both",513.633457959557
+14,"cigarettes_pc",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",379.135984004455
+14,"cigarettes_pc",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",347.212038697543
+14,"cigarettes_pc",4667,"Sinaloa",2015,22,"All Ages",3,"Both",363.317669121781
+14,"cigarettes_pc",4668,"Sonora",2015,22,"All Ages",3,"Both",497.626393169306
+14,"cigarettes_pc",4669,"Tabasco",2015,22,"All Ages",3,"Both",204.737881404528
+14,"cigarettes_pc",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",368.119271922379
+14,"cigarettes_pc",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",391.140853756405
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",256.393290902768
+14,"cigarettes_pc",4673,"Yucatán",2015,22,"All Ages",3,"Both",290.072533661899
+14,"cigarettes_pc",4674,"Zacatecas",2015,22,"All Ages",3,"Both",401.536478371501
+14,"cigarettes_pc",130,"Mexico",2016,22,"All Ages",3,"Both",401.187093841191
+14,"cigarettes_pc",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",608.398463178143
+14,"cigarettes_pc",4644,"Baja California",2016,22,"All Ages",3,"Both",445.25762025768
+14,"cigarettes_pc",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",546.37716530971
+14,"cigarettes_pc",4646,"Campeche",2016,22,"All Ages",3,"Both",346.706009479787
+14,"cigarettes_pc",4647,"Coahuila",2016,22,"All Ages",3,"Both",477.622539613942
+14,"cigarettes_pc",4648,"Colima",2016,22,"All Ages",3,"Both",502.38056501662
+14,"cigarettes_pc",4649,"Chiapas",2016,22,"All Ages",3,"Both",184.357906805375
+14,"cigarettes_pc",4650,"Chihuahua",2016,22,"All Ages",3,"Both",503.999727570062
+14,"cigarettes_pc",4651,"Mexico City",2016,22,"All Ages",3,"Both",506.733271911089
+14,"cigarettes_pc",4652,"Durango",2016,22,"All Ages",3,"Both",422.702271049426
+14,"cigarettes_pc",4653,"Guanajuato",2016,22,"All Ages",3,"Both",479.481327966116
+14,"cigarettes_pc",4654,"Guerrero",2016,22,"All Ages",3,"Both",266.41910466108
+14,"cigarettes_pc",4655,"Hidalgo",2016,22,"All Ages",3,"Both",396.752699138036
+14,"cigarettes_pc",4656,"Jalisco",2016,22,"All Ages",3,"Both",471.021411000636
+14,"cigarettes_pc",4657,"México",2016,22,"All Ages",3,"Both",430.044988421541
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",396.178605563498
+14,"cigarettes_pc",4659,"Morelos",2016,22,"All Ages",3,"Both",434.119971475345
+14,"cigarettes_pc",4660,"Nayarit",2016,22,"All Ages",3,"Both",485.00889263654
+14,"cigarettes_pc",4661,"Nuevo León",2016,22,"All Ages",3,"Both",525.229126446021
+14,"cigarettes_pc",4662,"Oaxaca",2016,22,"All Ages",3,"Both",204.497022578329
+14,"cigarettes_pc",4663,"Puebla",2016,22,"All Ages",3,"Both",347.570060021491
+14,"cigarettes_pc",4664,"Querétaro",2016,22,"All Ages",3,"Both",515.065951295554
+14,"cigarettes_pc",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",378.696238501623
+14,"cigarettes_pc",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",347.500101321556
+14,"cigarettes_pc",4667,"Sinaloa",2016,22,"All Ages",3,"Both",362.245338001712
+14,"cigarettes_pc",4668,"Sonora",2016,22,"All Ages",3,"Both",494.290910126481
+14,"cigarettes_pc",4669,"Tabasco",2016,22,"All Ages",3,"Both",205.223764017292
+14,"cigarettes_pc",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",366.901788174276
+14,"cigarettes_pc",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",392.388242849292
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",256.566702242919
+14,"cigarettes_pc",4673,"Yucatán",2016,22,"All Ages",3,"Both",291.111239683221
+14,"cigarettes_pc",4674,"Zacatecas",2016,22,"All Ages",3,"Both",401.175603826641
+14,"cigarettes_pc",130,"Mexico",2017,22,"All Ages",3,"Both",400.186211906953
+14,"cigarettes_pc",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",609.425603897388
+14,"cigarettes_pc",4644,"Baja California",2017,22,"All Ages",3,"Both",443.497422214734
+14,"cigarettes_pc",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",547.090722996323
+14,"cigarettes_pc",4646,"Campeche",2017,22,"All Ages",3,"Both",347.957669185857
+14,"cigarettes_pc",4647,"Coahuila",2017,22,"All Ages",3,"Both",476.078937811249
+14,"cigarettes_pc",4648,"Colima",2017,22,"All Ages",3,"Both",503.659857320301
+14,"cigarettes_pc",4649,"Chiapas",2017,22,"All Ages",3,"Both",184.550852817335
+14,"cigarettes_pc",4650,"Chihuahua",2017,22,"All Ages",3,"Both",502.303756055848
+14,"cigarettes_pc",4651,"Mexico City",2017,22,"All Ages",3,"Both",502.895476975227
+14,"cigarettes_pc",4652,"Durango",2017,22,"All Ages",3,"Both",421.684918063651
+14,"cigarettes_pc",4653,"Guanajuato",2017,22,"All Ages",3,"Both",480.152978357359
+14,"cigarettes_pc",4654,"Guerrero",2017,22,"All Ages",3,"Both",266.947517294324
+14,"cigarettes_pc",4655,"Hidalgo",2017,22,"All Ages",3,"Both",397.202038750381
+14,"cigarettes_pc",4656,"Jalisco",2017,22,"All Ages",3,"Both",469.552442446691
+14,"cigarettes_pc",4657,"México",2017,22,"All Ages",3,"Both",426.893597105378
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",395.603791284483
+14,"cigarettes_pc",4659,"Morelos",2017,22,"All Ages",3,"Both",434.948354980005
+14,"cigarettes_pc",4660,"Nayarit",2017,22,"All Ages",3,"Both",485.725638752841
+14,"cigarettes_pc",4661,"Nuevo León",2017,22,"All Ages",3,"Both",523.062748782336
+14,"cigarettes_pc",4662,"Oaxaca",2017,22,"All Ages",3,"Both",204.902412023926
+14,"cigarettes_pc",4663,"Puebla",2017,22,"All Ages",3,"Both",347.464788187062
+14,"cigarettes_pc",4664,"Querétaro",2017,22,"All Ages",3,"Both",515.56032669375
+14,"cigarettes_pc",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",377.969217374247
+14,"cigarettes_pc",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",347.32846289797
+14,"cigarettes_pc",4667,"Sinaloa",2017,22,"All Ages",3,"Both",361.553208651674
+14,"cigarettes_pc",4668,"Sonora",2017,22,"All Ages",3,"Both",492.880146569795
+14,"cigarettes_pc",4669,"Tabasco",2017,22,"All Ages",3,"Both",205.278003562158
+14,"cigarettes_pc",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",365.753740565456
+14,"cigarettes_pc",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",393.043967460951
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",256.839725042146
+14,"cigarettes_pc",4673,"Yucatán",2017,22,"All Ages",3,"Both",292.052144798424
+14,"cigarettes_pc",4674,"Zacatecas",2017,22,"All Ages",3,"Both",401.712533064525
+14,"cigarettes_pc",130,"Mexico",2018,22,"All Ages",3,"Both",399.913832504132
+14,"cigarettes_pc",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",611.308266205199
+14,"cigarettes_pc",4644,"Baja California",2018,22,"All Ages",3,"Both",442.294865725516
+14,"cigarettes_pc",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",547.724558303006
+14,"cigarettes_pc",4646,"Campeche",2018,22,"All Ages",3,"Both",349.800158561545
+14,"cigarettes_pc",4647,"Coahuila",2018,22,"All Ages",3,"Both",475.829335365178
+14,"cigarettes_pc",4648,"Colima",2018,22,"All Ages",3,"Both",505.921759346228
+14,"cigarettes_pc",4649,"Chiapas",2018,22,"All Ages",3,"Both",184.616648381661
+14,"cigarettes_pc",4650,"Chihuahua",2018,22,"All Ages",3,"Both",502.164591921087
+14,"cigarettes_pc",4651,"Mexico City",2018,22,"All Ages",3,"Both",501.294840002095
+14,"cigarettes_pc",4652,"Durango",2018,22,"All Ages",3,"Both",421.310783037013
+14,"cigarettes_pc",4653,"Guanajuato",2018,22,"All Ages",3,"Both",481.143482194087
+14,"cigarettes_pc",4654,"Guerrero",2018,22,"All Ages",3,"Both",267.460935022468
+14,"cigarettes_pc",4655,"Hidalgo",2018,22,"All Ages",3,"Both",397.537424103257
+14,"cigarettes_pc",4656,"Jalisco",2018,22,"All Ages",3,"Both",468.879920843103
+14,"cigarettes_pc",4657,"México",2018,22,"All Ages",3,"Both",424.495578455285
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",395.517934217426
+14,"cigarettes_pc",4659,"Morelos",2018,22,"All Ages",3,"Both",435.992735220644
+14,"cigarettes_pc",4660,"Nayarit",2018,22,"All Ages",3,"Both",487.334942804321
+14,"cigarettes_pc",4661,"Nuevo León",2018,22,"All Ages",3,"Both",522.616365381688
+14,"cigarettes_pc",4662,"Oaxaca",2018,22,"All Ages",3,"Both",205.534395996737
+14,"cigarettes_pc",4663,"Puebla",2018,22,"All Ages",3,"Both",347.008408961117
+14,"cigarettes_pc",4664,"Querétaro",2018,22,"All Ages",3,"Both",515.567396441199
+14,"cigarettes_pc",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",377.134754446709
+14,"cigarettes_pc",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",347.182678646916
+14,"cigarettes_pc",4667,"Sinaloa",2018,22,"All Ages",3,"Both",361.021479461407
+14,"cigarettes_pc",4668,"Sonora",2018,22,"All Ages",3,"Both",492.580974621781
+14,"cigarettes_pc",4669,"Tabasco",2018,22,"All Ages",3,"Both",205.345764241193
+14,"cigarettes_pc",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",364.633586140906
+14,"cigarettes_pc",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",393.502725146173
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",257.542673652847
+14,"cigarettes_pc",4673,"Yucatán",2018,22,"All Ages",3,"Both",293.590379067849
+14,"cigarettes_pc",4674,"Zacatecas",2018,22,"All Ages",3,"Both",402.736203035808
+14,"cigarettes_pc",130,"Mexico",2019,22,"All Ages",3,"Both",400.251229217678
+14,"cigarettes_pc",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",613.58636005606
+14,"cigarettes_pc",4644,"Baja California",2019,22,"All Ages",3,"Both",441.409936061386
+14,"cigarettes_pc",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",548.35839360969
+14,"cigarettes_pc",4646,"Campeche",2019,22,"All Ages",3,"Both",352.208283913534
+14,"cigarettes_pc",4647,"Coahuila",2019,22,"All Ages",3,"Both",476.329211803457
+14,"cigarettes_pc",4648,"Colima",2019,22,"All Ages",3,"Both",509.092923778044
+14,"cigarettes_pc",4649,"Chiapas",2019,22,"All Ages",3,"Both",184.478821155684
+14,"cigarettes_pc",4650,"Chihuahua",2019,22,"All Ages",3,"Both",502.776989991901
+14,"cigarettes_pc",4651,"Mexico City",2019,22,"All Ages",3,"Both",499.694203028963
+14,"cigarettes_pc",4652,"Durango",2019,22,"All Ages",3,"Both",421.212070673275
+14,"cigarettes_pc",4653,"Guanajuato",2019,22,"All Ages",3,"Both",482.133986030815
+14,"cigarettes_pc",4654,"Guerrero",2019,22,"All Ages",3,"Both",267.967304605072
+14,"cigarettes_pc",4655,"Hidalgo",2019,22,"All Ages",3,"Both",397.824445400896
+14,"cigarettes_pc",4656,"Jalisco",2019,22,"All Ages",3,"Both",468.659011943251
+14,"cigarettes_pc",4657,"México",2019,22,"All Ages",3,"Both",422.37084495064
+14,"cigarettes_pc",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",395.773379353071
+14,"cigarettes_pc",4659,"Morelos",2019,22,"All Ages",3,"Both",437.113727512666
+14,"cigarettes_pc",4660,"Nayarit",2019,22,"All Ages",3,"Both",489.753389145711
+14,"cigarettes_pc",4661,"Nuevo León",2019,22,"All Ages",3,"Both",523.012925893905
+14,"cigarettes_pc",4662,"Oaxaca",2019,22,"All Ages",3,"Both",206.382040108339
+14,"cigarettes_pc",4663,"Puebla",2019,22,"All Ages",3,"Both",346.401159390264
+14,"cigarettes_pc",4664,"Querétaro",2019,22,"All Ages",3,"Both",515.321335118789
+14,"cigarettes_pc",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",376.260108017906
+14,"cigarettes_pc",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",346.920130166335
+14,"cigarettes_pc",4667,"Sinaloa",2019,22,"All Ages",3,"Both",360.557420159296
+14,"cigarettes_pc",4668,"Sonora",2019,22,"All Ages",3,"Both",492.923785005929
+14,"cigarettes_pc",4669,"Tabasco",2019,22,"All Ages",3,"Both",205.268464482646
+14,"cigarettes_pc",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",363.524636684499
+14,"cigarettes_pc",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",393.89591193549
+14,"cigarettes_pc",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",258.562148735114
+14,"cigarettes_pc",4673,"Yucatán",2019,22,"All Ages",3,"Both",295.70861996825
+14,"cigarettes_pc",4674,"Zacatecas",2019,22,"All Ages",3,"Both",404.0237575508

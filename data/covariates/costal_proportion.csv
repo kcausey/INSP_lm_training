@@ -1,0 +1,991 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+16,"coastal_prop",130,"Mexico",1990,22,"All Ages",3,"Both",0.0682106301005
+16,"coastal_prop",4643,"Aguascalientes",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1990,22,"All Ages",3,"Both",0.335729063534
+16,"coastal_prop",4645,"Baja California Sur",1990,22,"All Ages",3,"Both",0.716925346729
+16,"coastal_prop",4646,"Campeche",1990,22,"All Ages",3,"Both",0.54723847338
+16,"coastal_prop",4647,"Coahuila",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1990,22,"All Ages",3,"Both",0.289231761444
+16,"coastal_prop",4649,"Chiapas",1990,22,"All Ages",3,"Both",0.021807488047
+16,"coastal_prop",4650,"Chihuahua",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1990,22,"All Ages",3,"Both",0.284428586226
+16,"coastal_prop",4655,"Hidalgo",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1990,22,"All Ages",3,"Both",0.0295577329704
+16,"coastal_prop",4657,"México",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1990,22,"All Ages",3,"Both",0.0428096764326
+16,"coastal_prop",4659,"Morelos",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1990,22,"All Ages",3,"Both",0.102498751444
+16,"coastal_prop",4661,"Nuevo León",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1990,22,"All Ages",3,"Both",0.0636053523249
+16,"coastal_prop",4663,"Puebla",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1990,22,"All Ages",3,"Both",0.65479866286
+16,"coastal_prop",4666,"San Luis Potosí",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1990,22,"All Ages",3,"Both",0.198370459678
+16,"coastal_prop",4668,"Sonora",1990,22,"All Ages",3,"Both",0.103767008129
+16,"coastal_prop",4669,"Tabasco",1990,22,"All Ages",3,"Both",0.100032859433
+16,"coastal_prop",4670,"Tamaulipas",1990,22,"All Ages",3,"Both",0.238587798499
+16,"coastal_prop",4671,"Tlaxcala",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1990,22,"All Ages",3,"Both",0.205409261139
+16,"coastal_prop",4673,"Yucatán",1990,22,"All Ages",3,"Both",0.0324336008394
+16,"coastal_prop",4674,"Zacatecas",1990,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1991,22,"All Ages",3,"Both",0.0685165763476
+16,"coastal_prop",4643,"Aguascalientes",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1991,22,"All Ages",3,"Both",0.336525153506
+16,"coastal_prop",4645,"Baja California Sur",1991,22,"All Ages",3,"Both",0.719379351057
+16,"coastal_prop",4646,"Campeche",1991,22,"All Ages",3,"Both",0.547684932546
+16,"coastal_prop",4647,"Coahuila",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1991,22,"All Ages",3,"Both",0.290456085963
+16,"coastal_prop",4649,"Chiapas",1991,22,"All Ages",3,"Both",0.0217350332472
+16,"coastal_prop",4650,"Chihuahua",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1991,22,"All Ages",3,"Both",0.284924225898
+16,"coastal_prop",4655,"Hidalgo",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1991,22,"All Ages",3,"Both",0.0300975312053
+16,"coastal_prop",4657,"México",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1991,22,"All Ages",3,"Both",0.0429423336345
+16,"coastal_prop",4659,"Morelos",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1991,22,"All Ages",3,"Both",0.103919320113
+16,"coastal_prop",4661,"Nuevo León",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1991,22,"All Ages",3,"Both",0.064086354741
+16,"coastal_prop",4663,"Puebla",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1991,22,"All Ages",3,"Both",0.655645240362
+16,"coastal_prop",4666,"San Luis Potosí",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1991,22,"All Ages",3,"Both",0.198715715932
+16,"coastal_prop",4668,"Sonora",1991,22,"All Ages",3,"Both",0.103871062321
+16,"coastal_prop",4669,"Tabasco",1991,22,"All Ages",3,"Both",0.0998297856498
+16,"coastal_prop",4670,"Tamaulipas",1991,22,"All Ages",3,"Both",0.237267281732
+16,"coastal_prop",4671,"Tlaxcala",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1991,22,"All Ages",3,"Both",0.205206303968
+16,"coastal_prop",4673,"Yucatán",1991,22,"All Ages",3,"Both",0.0325418859315
+16,"coastal_prop",4674,"Zacatecas",1991,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1992,22,"All Ages",3,"Both",0.068825497464
+16,"coastal_prop",4643,"Aguascalientes",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1992,22,"All Ages",3,"Both",0.337327792472
+16,"coastal_prop",4645,"Baja California Sur",1992,22,"All Ages",3,"Both",0.721866729234
+16,"coastal_prop",4646,"Campeche",1992,22,"All Ages",3,"Both",0.548126769562
+16,"coastal_prop",4647,"Coahuila",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1992,22,"All Ages",3,"Both",0.29167253713
+16,"coastal_prop",4649,"Chiapas",1992,22,"All Ages",3,"Both",0.0216617928632
+16,"coastal_prop",4650,"Chihuahua",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1992,22,"All Ages",3,"Both",0.285408884096
+16,"coastal_prop",4655,"Hidalgo",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1992,22,"All Ages",3,"Both",0.0306446506806
+16,"coastal_prop",4657,"México",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1992,22,"All Ages",3,"Both",0.0430723979252
+16,"coastal_prop",4659,"Morelos",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1992,22,"All Ages",3,"Both",0.105403279165
+16,"coastal_prop",4661,"Nuevo León",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1992,22,"All Ages",3,"Both",0.0645673681792
+16,"coastal_prop",4663,"Puebla",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1992,22,"All Ages",3,"Both",0.6565223801
+16,"coastal_prop",4666,"San Luis Potosí",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1992,22,"All Ages",3,"Both",0.199061817231
+16,"coastal_prop",4668,"Sonora",1992,22,"All Ages",3,"Both",0.103983071013
+16,"coastal_prop",4669,"Tabasco",1992,22,"All Ages",3,"Both",0.0996214055699
+16,"coastal_prop",4670,"Tamaulipas",1992,22,"All Ages",3,"Both",0.235978597085
+16,"coastal_prop",4671,"Tlaxcala",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1992,22,"All Ages",3,"Both",0.205005320195
+16,"coastal_prop",4673,"Yucatán",1992,22,"All Ages",3,"Both",0.0326485973426
+16,"coastal_prop",4674,"Zacatecas",1992,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1993,22,"All Ages",3,"Both",0.0691374454967
+16,"coastal_prop",4643,"Aguascalientes",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1993,22,"All Ages",3,"Both",0.338137086461
+16,"coastal_prop",4645,"Baja California Sur",1993,22,"All Ages",3,"Both",0.724386790454
+16,"coastal_prop",4646,"Campeche",1993,22,"All Ages",3,"Both",0.548563992866
+16,"coastal_prop",4647,"Coahuila",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1993,22,"All Ages",3,"Both",0.292881013813
+16,"coastal_prop",4649,"Chiapas",1993,22,"All Ages",3,"Both",0.0215877747087
+16,"coastal_prop",4650,"Chihuahua",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1993,22,"All Ages",3,"Both",0.285882377306
+16,"coastal_prop",4655,"Hidalgo",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1993,22,"All Ages",3,"Both",0.0311989001296
+16,"coastal_prop",4657,"México",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1993,22,"All Ages",3,"Both",0.0431997745081
+16,"coastal_prop",4659,"Morelos",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1993,22,"All Ages",3,"Both",0.106953980664
+16,"coastal_prop",4661,"Nuevo León",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1993,22,"All Ages",3,"Both",0.0650482285746
+16,"coastal_prop",4663,"Puebla",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1993,22,"All Ages",3,"Both",0.657430868739
+16,"coastal_prop",4666,"San Luis Potosí",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1993,22,"All Ages",3,"Both",0.199408745794
+16,"coastal_prop",4668,"Sonora",1993,22,"All Ages",3,"Both",0.104103260157
+16,"coastal_prop",4669,"Tabasco",1993,22,"All Ages",3,"Both",0.0994076559769
+16,"coastal_prop",4670,"Tamaulipas",1993,22,"All Ages",3,"Both",0.234722934035
+16,"coastal_prop",4671,"Tlaxcala",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1993,22,"All Ages",3,"Both",0.204806602016
+16,"coastal_prop",4673,"Yucatán",1993,22,"All Ages",3,"Both",0.0327535978208
+16,"coastal_prop",4674,"Zacatecas",1993,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1994,22,"All Ages",3,"Both",0.0694524648685
+16,"coastal_prop",4643,"Aguascalientes",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1994,22,"All Ages",3,"Both",0.338953148268
+16,"coastal_prop",4645,"Baja California Sur",1994,22,"All Ages",3,"Both",0.72693871852
+16,"coastal_prop",4646,"Campeche",1994,22,"All Ages",3,"Both",0.548996612729
+16,"coastal_prop",4647,"Coahuila",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1994,22,"All Ages",3,"Both",0.294081420168
+16,"coastal_prop",4649,"Chiapas",1994,22,"All Ages",3,"Both",0.0215129868415
+16,"coastal_prop",4650,"Chihuahua",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1994,22,"All Ages",3,"Both",0.286344519033
+16,"coastal_prop",4655,"Hidalgo",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1994,22,"All Ages",3,"Both",0.0317600372383
+16,"coastal_prop",4657,"México",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1994,22,"All Ages",3,"Both",0.0433243668871
+16,"coastal_prop",4659,"Morelos",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1994,22,"All Ages",3,"Both",0.108574923462
+16,"coastal_prop",4661,"Nuevo León",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1994,22,"All Ages",3,"Both",0.0655287651577
+16,"coastal_prop",4663,"Puebla",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1994,22,"All Ages",3,"Both",0.65837148028
+16,"coastal_prop",4666,"San Luis Potosí",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1994,22,"All Ages",3,"Both",0.199756486695
+16,"coastal_prop",4668,"Sonora",1994,22,"All Ages",3,"Both",0.104231856916
+16,"coastal_prop",4669,"Tabasco",1994,22,"All Ages",3,"Both",0.099188470723
+16,"coastal_prop",4670,"Tamaulipas",1994,22,"All Ages",3,"Both",0.233501508974
+16,"coastal_prop",4671,"Tlaxcala",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1994,22,"All Ages",3,"Both",0.204610462
+16,"coastal_prop",4673,"Yucatán",1994,22,"All Ages",3,"Both",0.0328567423327
+16,"coastal_prop",4674,"Zacatecas",1994,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1995,22,"All Ages",3,"Both",0.0697705903874
+16,"coastal_prop",4643,"Aguascalientes",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1995,22,"All Ages",3,"Both",0.339776086232
+16,"coastal_prop",4645,"Baja California Sur",1995,22,"All Ages",3,"Both",0.72952157739
+16,"coastal_prop",4646,"Campeche",1995,22,"All Ages",3,"Both",0.549424638015
+16,"coastal_prop",4647,"Coahuila",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1995,22,"All Ages",3,"Both",0.295273654612
+16,"coastal_prop",4649,"Chiapas",1995,22,"All Ages",3,"Both",0.0214374373899
+16,"coastal_prop",4650,"Chihuahua",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1995,22,"All Ages",3,"Both",0.28679512058
+16,"coastal_prop",4655,"Hidalgo",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1995,22,"All Ages",3,"Both",0.0323277616963
+16,"coastal_prop",4657,"México",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1995,22,"All Ages",3,"Both",0.0434460718367
+16,"coastal_prop",4659,"Morelos",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1995,22,"All Ages",3,"Both",0.11026975827
+16,"coastal_prop",4661,"Nuevo León",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1995,22,"All Ages",3,"Both",0.0660087975352
+16,"coastal_prop",4663,"Puebla",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1995,22,"All Ages",3,"Both",0.659345008114
+16,"coastal_prop",4666,"San Luis Potosí",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1995,22,"All Ages",3,"Both",0.200105022522
+16,"coastal_prop",4668,"Sonora",1995,22,"All Ages",3,"Both",0.104369095069
+16,"coastal_prop",4669,"Tabasco",1995,22,"All Ages",3,"Both",0.0989637831428
+16,"coastal_prop",4670,"Tamaulipas",1995,22,"All Ages",3,"Both",0.232315564073
+16,"coastal_prop",4671,"Tlaxcala",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1995,22,"All Ages",3,"Both",0.204417242084
+16,"coastal_prop",4673,"Yucatán",1995,22,"All Ages",3,"Both",0.0329578741146
+16,"coastal_prop",4674,"Zacatecas",1995,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1996,22,"All Ages",3,"Both",0.0700918442492
+16,"coastal_prop",4643,"Aguascalientes",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1996,22,"All Ages",3,"Both",0.340606013789
+16,"coastal_prop",4645,"Baja California Sur",1996,22,"All Ages",3,"Both",0.732134304124
+16,"coastal_prop",4646,"Campeche",1996,22,"All Ages",3,"Both",0.549848076674
+16,"coastal_prop",4647,"Coahuila",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1996,22,"All Ages",3,"Both",0.296457620398
+16,"coastal_prop",4649,"Chiapas",1996,22,"All Ages",3,"Both",0.0213611341827
+16,"coastal_prop",4650,"Chihuahua",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1996,22,"All Ages",3,"Both",0.287233992434
+16,"coastal_prop",4655,"Hidalgo",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1996,22,"All Ages",3,"Both",0.0329017071077
+16,"coastal_prop",4657,"México",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1996,22,"All Ages",3,"Both",0.0435647814836
+16,"coastal_prop",4659,"Morelos",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1996,22,"All Ages",3,"Both",0.112042289572
+16,"coastal_prop",4661,"Nuevo León",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1996,22,"All Ages",3,"Both",0.0664881371375
+16,"coastal_prop",4663,"Puebla",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1996,22,"All Ages",3,"Both",0.660352242721
+16,"coastal_prop",4666,"San Luis Potosí",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1996,22,"All Ages",3,"Both",0.200454336379
+16,"coastal_prop",4668,"Sonora",1996,22,"All Ages",3,"Both",0.104515208597
+16,"coastal_prop",4669,"Tabasco",1996,22,"All Ages",3,"Both",0.0987335251683
+16,"coastal_prop",4670,"Tamaulipas",1996,22,"All Ages",3,"Both",0.231166363383
+16,"coastal_prop",4671,"Tlaxcala",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1996,22,"All Ages",3,"Both",0.204227310929
+16,"coastal_prop",4673,"Yucatán",1996,22,"All Ages",3,"Both",0.033056827514
+16,"coastal_prop",4674,"Zacatecas",1996,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1997,22,"All Ages",3,"Both",0.0704162324804
+16,"coastal_prop",4643,"Aguascalientes",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1997,22,"All Ages",3,"Both",0.341443046382
+16,"coastal_prop",4645,"Baja California Sur",1997,22,"All Ages",3,"Both",0.734775702501
+16,"coastal_prop",4646,"Campeche",1997,22,"All Ages",3,"Both",0.550266938081
+16,"coastal_prop",4647,"Coahuila",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1997,22,"All Ages",3,"Both",0.297633223907
+16,"coastal_prop",4649,"Chiapas",1997,22,"All Ages",3,"Both",0.0212840854508
+16,"coastal_prop",4650,"Chihuahua",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1997,22,"All Ages",3,"Both",0.28766094355
+16,"coastal_prop",4655,"Hidalgo",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1997,22,"All Ages",3,"Both",0.033481432636
+16,"coastal_prop",4657,"México",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1997,22,"All Ages",3,"Both",0.0436803843723
+16,"coastal_prop",4659,"Morelos",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1997,22,"All Ages",3,"Both",0.1138964797
+16,"coastal_prop",4661,"Nuevo León",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1997,22,"All Ages",3,"Both",0.0669665861857
+16,"coastal_prop",4663,"Puebla",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1997,22,"All Ages",3,"Both",0.66139397183
+16,"coastal_prop",4666,"San Luis Potosí",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1997,22,"All Ages",3,"Both",0.200804411763
+16,"coastal_prop",4668,"Sonora",1997,22,"All Ages",3,"Both",0.104670437492
+16,"coastal_prop",4669,"Tabasco",1997,22,"All Ages",3,"Both",0.0984976264961
+16,"coastal_prop",4670,"Tamaulipas",1997,22,"All Ages",3,"Both",0.230055196128
+16,"coastal_prop",4671,"Tlaxcala",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1997,22,"All Ages",3,"Both",0.204041065111
+16,"coastal_prop",4673,"Yucatán",1997,22,"All Ages",3,"Both",0.033153424678
+16,"coastal_prop",4674,"Zacatecas",1997,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1998,22,"All Ages",3,"Both",0.0707437408658
+16,"coastal_prop",4643,"Aguascalientes",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1998,22,"All Ages",3,"Both",0.342287297745
+16,"coastal_prop",4645,"Baja California Sur",1998,22,"All Ages",3,"Both",0.737444449723
+16,"coastal_prop",4646,"Campeche",1998,22,"All Ages",3,"Both",0.550681226951
+16,"coastal_prop",4647,"Coahuila",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1998,22,"All Ages",3,"Both",0.298800370816
+16,"coastal_prop",4649,"Chiapas",1998,22,"All Ages",3,"Both",0.0212062992944
+16,"coastal_prop",4650,"Chihuahua",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1998,22,"All Ages",3,"Both",0.288075776188
+16,"coastal_prop",4655,"Hidalgo",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1998,22,"All Ages",3,"Both",0.0340664114718
+16,"coastal_prop",4657,"México",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1998,22,"All Ages",3,"Both",0.0437927617465
+16,"coastal_prop",4659,"Morelos",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1998,22,"All Ages",3,"Both",0.115836447787
+16,"coastal_prop",4661,"Nuevo León",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1998,22,"All Ages",3,"Both",0.0674439358931
+16,"coastal_prop",4663,"Puebla",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1998,22,"All Ages",3,"Both",0.662470987286
+16,"coastal_prop",4666,"San Luis Potosí",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1998,22,"All Ages",3,"Both",0.201155233428
+16,"coastal_prop",4668,"Sonora",1998,22,"All Ages",3,"Both",0.104835024439
+16,"coastal_prop",4669,"Tabasco",1998,22,"All Ages",3,"Both",0.0982560170824
+16,"coastal_prop",4670,"Tamaulipas",1998,22,"All Ages",3,"Both",0.228983374795
+16,"coastal_prop",4671,"Tlaxcala",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1998,22,"All Ages",3,"Both",0.203858933707
+16,"coastal_prop",4673,"Yucatán",1998,22,"All Ages",3,"Both",0.0332474765666
+16,"coastal_prop",4674,"Zacatecas",1998,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",1999,22,"All Ages",3,"Both",0.0710743300657
+16,"coastal_prop",4643,"Aguascalientes",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",1999,22,"All Ages",3,"Both",0.343138889963
+16,"coastal_prop",4645,"Baja California Sur",1999,22,"All Ages",3,"Both",0.740139092917
+16,"coastal_prop",4646,"Campeche",1999,22,"All Ages",3,"Both",0.551090955323
+16,"coastal_prop",4647,"Coahuila",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",1999,22,"All Ages",3,"Both",0.299958970248
+16,"coastal_prop",4649,"Chiapas",1999,22,"All Ages",3,"Both",0.0211277837654
+16,"coastal_prop",4650,"Chihuahua",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",1999,22,"All Ages",3,"Both",0.288478297311
+16,"coastal_prop",4655,"Hidalgo",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",1999,22,"All Ages",3,"Both",0.0346560214195
+16,"coastal_prop",4657,"México",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",1999,22,"All Ages",3,"Both",0.0439017899463
+16,"coastal_prop",4659,"Morelos",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",1999,22,"All Ages",3,"Both",0.11786647431
+16,"coastal_prop",4661,"Nuevo León",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",1999,22,"All Ages",3,"Both",0.0679199697536
+16,"coastal_prop",4663,"Puebla",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",1999,22,"All Ages",3,"Both",0.663584077784
+16,"coastal_prop",4666,"San Luis Potosí",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",1999,22,"All Ages",3,"Both",0.201506784097
+16,"coastal_prop",4668,"Sonora",1999,22,"All Ages",3,"Both",0.105009215383
+16,"coastal_prop",4669,"Tabasco",1999,22,"All Ages",3,"Both",0.0980086242028
+16,"coastal_prop",4670,"Tamaulipas",1999,22,"All Ages",3,"Both",0.227952236779
+16,"coastal_prop",4671,"Tlaxcala",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",1999,22,"All Ages",3,"Both",0.203681381103
+16,"coastal_prop",4673,"Yucatán",1999,22,"All Ages",3,"Both",0.0333387821402
+16,"coastal_prop",4674,"Zacatecas",1999,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2000,22,"All Ages",3,"Both",0.0714079274608
+16,"coastal_prop",4643,"Aguascalientes",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2000,22,"All Ages",3,"Both",0.343997939888
+16,"coastal_prop",4645,"Baja California Sur",2000,22,"All Ages",3,"Both",0.74285804875
+16,"coastal_prop",4646,"Campeche",2000,22,"All Ages",3,"Both",0.551496129314
+16,"coastal_prop",4647,"Coahuila",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2000,22,"All Ages",3,"Both",0.301108933692
+16,"coastal_prop",4649,"Chiapas",2000,22,"All Ages",3,"Both",0.0210485470433
+16,"coastal_prop",4650,"Chihuahua",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2000,22,"All Ages",3,"Both",0.288868302331
+16,"coastal_prop",4655,"Hidalgo",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2000,22,"All Ages",3,"Both",0.0352495319459
+16,"coastal_prop",4657,"México",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2000,22,"All Ages",3,"Both",0.0440073394501
+16,"coastal_prop",4659,"Morelos",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2000,22,"All Ages",3,"Both",0.119991001699
+16,"coastal_prop",4661,"Nuevo León",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2000,22,"All Ages",3,"Both",0.0683944593212
+16,"coastal_prop",4663,"Puebla",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2000,22,"All Ages",3,"Both",0.664734024251
+16,"coastal_prop",4666,"San Luis Potosí",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2000,22,"All Ages",3,"Both",0.201859047519
+16,"coastal_prop",4668,"Sonora",2000,22,"All Ages",3,"Both",0.105193259208
+16,"coastal_prop",4669,"Tabasco",2000,22,"All Ages",3,"Both",0.0977553733683
+16,"coastal_prop",4670,"Tamaulipas",2000,22,"All Ages",3,"Both",0.226963140236
+16,"coastal_prop",4671,"Tlaxcala",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2000,22,"All Ages",3,"Both",0.203508903563
+16,"coastal_prop",4673,"Yucatán",2000,22,"All Ages",3,"Both",0.0334271271736
+16,"coastal_prop",4674,"Zacatecas",2000,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2001,22,"All Ages",3,"Both",0.0717928711702
+16,"coastal_prop",4643,"Aguascalientes",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2001,22,"All Ages",3,"Both",0.344864580576
+16,"coastal_prop",4645,"Baja California Sur",2001,22,"All Ages",3,"Both",0.74559963144
+16,"coastal_prop",4646,"Campeche",2001,22,"All Ages",3,"Both",0.551901937444
+16,"coastal_prop",4647,"Coahuila",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2001,22,"All Ages",3,"Both",0.302250199331
+16,"coastal_prop",4649,"Chiapas",2001,22,"All Ages",3,"Both",0.0209722491885
+16,"coastal_prop",4650,"Chihuahua",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2001,22,"All Ages",3,"Both",0.289327236629
+16,"coastal_prop",4655,"Hidalgo",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2001,22,"All Ages",3,"Both",0.035992580372
+16,"coastal_prop",4657,"México",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2001,22,"All Ages",3,"Both",0.0441182768348
+16,"coastal_prop",4659,"Morelos",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2001,22,"All Ages",3,"Both",0.122214630577
+16,"coastal_prop",4661,"Nuevo León",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2001,22,"All Ages",3,"Both",0.0689791094437
+16,"coastal_prop",4663,"Puebla",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2001,22,"All Ages",3,"Both",0.665921621737
+16,"coastal_prop",4666,"San Luis Potosí",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2001,22,"All Ages",3,"Both",0.202122201632
+16,"coastal_prop",4668,"Sonora",2001,22,"All Ages",3,"Both",0.105395845391
+16,"coastal_prop",4669,"Tabasco",2001,22,"All Ages",3,"Both",0.0974961951427
+16,"coastal_prop",4670,"Tamaulipas",2001,22,"All Ages",3,"Both",0.225644304614
+16,"coastal_prop",4671,"Tlaxcala",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2001,22,"All Ages",3,"Both",0.203216008298
+16,"coastal_prop",4673,"Yucatán",2001,22,"All Ages",3,"Both",0.033525330573
+16,"coastal_prop",4674,"Zacatecas",2001,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2002,22,"All Ages",3,"Both",0.0721792894831
+16,"coastal_prop",4643,"Aguascalientes",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2002,22,"All Ages",3,"Both",0.345738926077
+16,"coastal_prop",4645,"Baja California Sur",2002,22,"All Ages",3,"Both",0.748361978268
+16,"coastal_prop",4646,"Campeche",2002,22,"All Ages",3,"Both",0.552303058546
+16,"coastal_prop",4647,"Coahuila",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2002,22,"All Ages",3,"Both",0.303382650642
+16,"coastal_prop",4649,"Chiapas",2002,22,"All Ages",3,"Both",0.0208950192927
+16,"coastal_prop",4650,"Chihuahua",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2002,22,"All Ages",3,"Both",0.289770179288
+16,"coastal_prop",4655,"Hidalgo",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2002,22,"All Ages",3,"Both",0.0367371558462
+16,"coastal_prop",4657,"México",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2002,22,"All Ages",3,"Both",0.044225133336
+16,"coastal_prop",4659,"Morelos",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2002,22,"All Ages",3,"Both",0.124542126679
+16,"coastal_prop",4661,"Nuevo León",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2002,22,"All Ages",3,"Both",0.0695579387588
+16,"coastal_prop",4663,"Puebla",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2002,22,"All Ages",3,"Both",0.667147623056
+16,"coastal_prop",4666,"San Luis Potosí",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2002,22,"All Ages",3,"Both",0.202390092742
+16,"coastal_prop",4668,"Sonora",2002,22,"All Ages",3,"Both",0.105608387201
+16,"coastal_prop",4669,"Tabasco",2002,22,"All Ages",3,"Both",0.0972310078155
+16,"coastal_prop",4670,"Tamaulipas",2002,22,"All Ages",3,"Both",0.22437494031
+16,"coastal_prop",4671,"Tlaxcala",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2002,22,"All Ages",3,"Both",0.202932947808
+16,"coastal_prop",4673,"Yucatán",2002,22,"All Ages",3,"Both",0.0336197452277
+16,"coastal_prop",4674,"Zacatecas",2002,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2003,22,"All Ages",3,"Both",0.0725669647805
+16,"coastal_prop",4643,"Aguascalientes",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2003,22,"All Ages",3,"Both",0.346621101612
+16,"coastal_prop",4645,"Baja California Sur",2003,22,"All Ages",3,"Both",0.751143132262
+16,"coastal_prop",4646,"Campeche",2003,22,"All Ages",3,"Both",0.552699502265
+16,"coastal_prop",4647,"Coahuila",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2003,22,"All Ages",3,"Both",0.304506208301
+16,"coastal_prop",4649,"Chiapas",2003,22,"All Ages",3,"Both",0.0208168750134
+16,"coastal_prop",4650,"Chihuahua",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2003,22,"All Ages",3,"Both",0.290196981817
+16,"coastal_prop",4655,"Hidalgo",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2003,22,"All Ages",3,"Both",0.0374817673912
+16,"coastal_prop",4657,"México",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2003,22,"All Ages",3,"Both",0.044327761871
+16,"coastal_prop",4659,"Morelos",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2003,22,"All Ages",3,"Both",0.126978414126
+16,"coastal_prop",4661,"Nuevo León",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2003,22,"All Ages",3,"Both",0.0701307575536
+16,"coastal_prop",4663,"Puebla",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2003,22,"All Ages",3,"Both",0.668412792646
+16,"coastal_prop",4666,"San Luis Potosí",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2003,22,"All Ages",3,"Both",0.202662580408
+16,"coastal_prop",4668,"Sonora",2003,22,"All Ages",3,"Both",0.105831160715
+16,"coastal_prop",4669,"Tabasco",2003,22,"All Ages",3,"Both",0.0969597336507
+16,"coastal_prop",4670,"Tamaulipas",2003,22,"All Ages",3,"Both",0.223157159292
+16,"coastal_prop",4671,"Tlaxcala",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2003,22,"All Ages",3,"Both",0.202660300741
+16,"coastal_prop",4673,"Yucatán",2003,22,"All Ages",3,"Both",0.0337101120782
+16,"coastal_prop",4674,"Zacatecas",2003,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2004,22,"All Ages",3,"Both",0.0729555853401
+16,"coastal_prop",4643,"Aguascalientes",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2004,22,"All Ages",3,"Both",0.347511234774
+16,"coastal_prop",4645,"Baja California Sur",2004,22,"All Ages",3,"Both",0.753941016273
+16,"coastal_prop",4646,"Campeche",2004,22,"All Ages",3,"Both",0.55309127741
+16,"coastal_prop",4647,"Coahuila",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2004,22,"All Ages",3,"Both",0.30562078289
+16,"coastal_prop",4649,"Chiapas",2004,22,"All Ages",3,"Both",0.020737833912
+16,"coastal_prop",4650,"Chihuahua",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2004,22,"All Ages",3,"Both",0.290607487937
+16,"coastal_prop",4655,"Hidalgo",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2004,22,"All Ages",3,"Both",0.0382247229675
+16,"coastal_prop",4657,"México",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2004,22,"All Ages",3,"Both",0.0444260090763
+16,"coastal_prop",4659,"Morelos",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2004,22,"All Ages",3,"Both",0.129528572357
+16,"coastal_prop",4661,"Nuevo León",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2004,22,"All Ages",3,"Both",0.070697355584
+16,"coastal_prop",4663,"Puebla",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2004,22,"All Ages",3,"Both",0.669717869895
+16,"coastal_prop",4666,"San Luis Potosí",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2004,22,"All Ages",3,"Both",0.20293953077
+16,"coastal_prop",4668,"Sonora",2004,22,"All Ages",3,"Both",0.106064441556
+16,"coastal_prop",4669,"Tabasco",2004,22,"All Ages",3,"Both",0.0966822940363
+16,"coastal_prop",4670,"Tamaulipas",2004,22,"All Ages",3,"Both",0.221993045346
+16,"coastal_prop",4671,"Tlaxcala",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2004,22,"All Ages",3,"Both",0.202398693166
+16,"coastal_prop",4673,"Yucatán",2004,22,"All Ages",3,"Both",0.0337961547386
+16,"coastal_prop",4674,"Zacatecas",2004,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2005,22,"All Ages",3,"Both",0.0733447161886
+16,"coastal_prop",4643,"Aguascalientes",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2005,22,"All Ages",3,"Both",0.348409456598
+16,"coastal_prop",4645,"Baja California Sur",2005,22,"All Ages",3,"Both",0.756753442336
+16,"coastal_prop",4646,"Campeche",2005,22,"All Ages",3,"Both",0.55347839435
+16,"coastal_prop",4647,"Coahuila",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2005,22,"All Ages",3,"Both",0.306726299404
+16,"coastal_prop",4649,"Chiapas",2005,22,"All Ages",3,"Both",0.0206579129054
+16,"coastal_prop",4650,"Chihuahua",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2005,22,"All Ages",3,"Both",0.291001539978
+16,"coastal_prop",4655,"Hidalgo",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2005,22,"All Ages",3,"Both",0.0389641117382
+16,"coastal_prop",4657,"México",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2005,22,"All Ages",3,"Both",0.0445197126357
+16,"coastal_prop",4659,"Morelos",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2005,22,"All Ages",3,"Both",0.132197833184
+16,"coastal_prop",4661,"Nuevo León",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2005,22,"All Ages",3,"Both",0.0712575022242
+16,"coastal_prop",4663,"Puebla",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2005,22,"All Ages",3,"Both",0.671063598631
+16,"coastal_prop",4666,"San Luis Potosí",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2005,22,"All Ages",3,"Both",0.203220810219
+16,"coastal_prop",4668,"Sonora",2005,22,"All Ages",3,"Both",0.106308439455
+16,"coastal_prop",4669,"Tabasco",2005,22,"All Ages",3,"Both",0.0963986084724
+16,"coastal_prop",4670,"Tamaulipas",2005,22,"All Ages",3,"Both",0.22088465791
+16,"coastal_prop",4671,"Tlaxcala",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2005,22,"All Ages",3,"Both",0.202148801319
+16,"coastal_prop",4673,"Yucatán",2005,22,"All Ages",3,"Both",0.0338775795819
+16,"coastal_prop",4674,"Zacatecas",2005,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2006,22,"All Ages",3,"Both",0.0737309264945
+16,"coastal_prop",4643,"Aguascalientes",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2006,22,"All Ages",3,"Both",0.349315797318
+16,"coastal_prop",4645,"Baja California Sur",2006,22,"All Ages",3,"Both",0.759579762674
+16,"coastal_prop",4646,"Campeche",2006,22,"All Ages",3,"Both",0.553865686199
+16,"coastal_prop",4647,"Coahuila",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2006,22,"All Ages",3,"Both",0.307821425657
+16,"coastal_prop",4649,"Chiapas",2006,22,"All Ages",3,"Both",0.0205771554477
+16,"coastal_prop",4650,"Chihuahua",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2006,22,"All Ages",3,"Both",0.291375451216
+16,"coastal_prop",4655,"Hidalgo",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2006,22,"All Ages",3,"Both",0.0396933223557
+16,"coastal_prop",4657,"México",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2006,22,"All Ages",3,"Both",0.044607139174
+16,"coastal_prop",4659,"Morelos",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2006,22,"All Ages",3,"Both",0.134993386079
+16,"coastal_prop",4661,"Nuevo León",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2006,22,"All Ages",3,"Both",0.0718050930293
+16,"coastal_prop",4663,"Puebla",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2006,22,"All Ages",3,"Both",0.672448827011
+16,"coastal_prop",4666,"San Luis Potosí",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2006,22,"All Ages",3,"Both",0.203506252789
+16,"coastal_prop",4668,"Sonora",2006,22,"All Ages",3,"Both",0.106563810072
+16,"coastal_prop",4669,"Tabasco",2006,22,"All Ages",3,"Both",0.0961078495642
+16,"coastal_prop",4670,"Tamaulipas",2006,22,"All Ages",3,"Both",0.219852224309
+16,"coastal_prop",4671,"Tlaxcala",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2006,22,"All Ages",3,"Both",0.201912158358
+16,"coastal_prop",4673,"Yucatán",2006,22,"All Ages",3,"Both",0.0339522890456
+16,"coastal_prop",4674,"Zacatecas",2006,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2007,22,"All Ages",3,"Both",0.0741160199345
+16,"coastal_prop",4643,"Aguascalientes",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2007,22,"All Ages",3,"Both",0.350230494586
+16,"coastal_prop",4645,"Baja California Sur",2007,22,"All Ages",3,"Both",0.762415735786
+16,"coastal_prop",4646,"Campeche",2007,22,"All Ages",3,"Both",0.55424839534
+16,"coastal_prop",4647,"Coahuila",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2007,22,"All Ages",3,"Both",0.308907327319
+16,"coastal_prop",4649,"Chiapas",2007,22,"All Ages",3,"Both",0.0204955534386
+16,"coastal_prop",4650,"Chihuahua",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2007,22,"All Ages",3,"Both",0.2917325255
+16,"coastal_prop",4655,"Hidalgo",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2007,22,"All Ages",3,"Both",0.0404140562062
+16,"coastal_prop",4657,"México",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2007,22,"All Ages",3,"Both",0.0446896140785
+16,"coastal_prop",4659,"Morelos",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2007,22,"All Ages",3,"Both",0.137919027864
+16,"coastal_prop",4661,"Nuevo León",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2007,22,"All Ages",3,"Both",0.0723455494567
+16,"coastal_prop",4663,"Puebla",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2007,22,"All Ages",3,"Both",0.673876047702
+16,"coastal_prop",4666,"San Luis Potosí",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2007,22,"All Ages",3,"Both",0.20379575888
+16,"coastal_prop",4668,"Sonora",2007,22,"All Ages",3,"Both",0.106830595464
+16,"coastal_prop",4669,"Tabasco",2007,22,"All Ages",3,"Both",0.0958106605562
+16,"coastal_prop",4670,"Tamaulipas",2007,22,"All Ages",3,"Both",0.218879451337
+16,"coastal_prop",4671,"Tlaxcala",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2007,22,"All Ages",3,"Both",0.201688761964
+16,"coastal_prop",4673,"Yucatán",2007,22,"All Ages",3,"Both",0.0340216432585
+16,"coastal_prop",4674,"Zacatecas",2007,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2008,22,"All Ages",3,"Both",0.074498866106
+16,"coastal_prop",4643,"Aguascalientes",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2008,22,"All Ages",3,"Both",0.351153683102
+16,"coastal_prop",4645,"Baja California Sur",2008,22,"All Ages",3,"Both",0.765258875335
+16,"coastal_prop",4646,"Campeche",2008,22,"All Ages",3,"Both",0.554626538514
+16,"coastal_prop",4647,"Coahuila",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2008,22,"All Ages",3,"Both",0.309983931569
+16,"coastal_prop",4649,"Chiapas",2008,22,"All Ages",3,"Both",0.0204131229743
+16,"coastal_prop",4650,"Chihuahua",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2008,22,"All Ages",3,"Both",0.292072581995
+16,"coastal_prop",4655,"Hidalgo",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2008,22,"All Ages",3,"Both",0.0411236012013
+16,"coastal_prop",4657,"México",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2008,22,"All Ages",3,"Both",0.0447669468374
+16,"coastal_prop",4659,"Morelos",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2008,22,"All Ages",3,"Both",0.140980414249
+16,"coastal_prop",4661,"Nuevo León",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2008,22,"All Ages",3,"Both",0.0728785723849
+16,"coastal_prop",4663,"Puebla",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2008,22,"All Ages",3,"Both",0.675345935352
+16,"coastal_prop",4666,"San Luis Potosí",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2008,22,"All Ages",3,"Both",0.204089201494
+16,"coastal_prop",4668,"Sonora",2008,22,"All Ages",3,"Both",0.107109079963
+16,"coastal_prop",4669,"Tabasco",2008,22,"All Ages",3,"Both",0.09550695944
+16,"coastal_prop",4670,"Tamaulipas",2008,22,"All Ages",3,"Both",0.217968318981
+16,"coastal_prop",4671,"Tlaxcala",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2008,22,"All Ages",3,"Both",0.201479460075
+16,"coastal_prop",4673,"Yucatán",2008,22,"All Ages",3,"Both",0.0340852899501
+16,"coastal_prop",4674,"Zacatecas",2008,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2009,22,"All Ages",3,"Both",0.0748779265076
+16,"coastal_prop",4643,"Aguascalientes",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2009,22,"All Ages",3,"Both",0.352085499748
+16,"coastal_prop",4645,"Baja California Sur",2009,22,"All Ages",3,"Both",0.768106619876
+16,"coastal_prop",4646,"Campeche",2009,22,"All Ages",3,"Both",0.555000122884
+16,"coastal_prop",4647,"Coahuila",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2009,22,"All Ages",3,"Both",0.311051166875
+16,"coastal_prop",4649,"Chiapas",2009,22,"All Ages",3,"Both",0.0203298800373
+16,"coastal_prop",4650,"Chihuahua",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2009,22,"All Ages",3,"Both",0.292395428295
+16,"coastal_prop",4655,"Hidalgo",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2009,22,"All Ages",3,"Both",0.0418189475857
+16,"coastal_prop",4657,"México",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2009,22,"All Ages",3,"Both",0.0448389380264
+16,"coastal_prop",4659,"Morelos",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2009,22,"All Ages",3,"Both",0.144183324719
+16,"coastal_prop",4661,"Nuevo León",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2009,22,"All Ages",3,"Both",0.0734038433724
+16,"coastal_prop",4663,"Puebla",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2009,22,"All Ages",3,"Both",0.676859134716
+16,"coastal_prop",4666,"San Luis Potosí",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2009,22,"All Ages",3,"Both",0.204386460945
+16,"coastal_prop",4668,"Sonora",2009,22,"All Ages",3,"Both",0.107399548001
+16,"coastal_prop",4669,"Tabasco",2009,22,"All Ages",3,"Both",0.0951966604955
+16,"coastal_prop",4670,"Tamaulipas",2009,22,"All Ages",3,"Both",0.217120788907
+16,"coastal_prop",4671,"Tlaxcala",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2009,22,"All Ages",3,"Both",0.201285163129
+16,"coastal_prop",4673,"Yucatán",2009,22,"All Ages",3,"Both",0.0341428554251
+16,"coastal_prop",4674,"Zacatecas",2009,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2010,22,"All Ages",3,"Both",0.0752510965359
+16,"coastal_prop",4643,"Aguascalientes",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2010,22,"All Ages",3,"Both",0.353026084911
+16,"coastal_prop",4645,"Baja California Sur",2010,22,"All Ages",3,"Both",0.770956329242
+16,"coastal_prop",4646,"Campeche",2010,22,"All Ages",3,"Both",0.555369159622
+16,"coastal_prop",4647,"Coahuila",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2010,22,"All Ages",3,"Both",0.312108957188
+16,"coastal_prop",4649,"Chiapas",2010,22,"All Ages",3,"Both",0.0202458401086
+16,"coastal_prop",4650,"Chihuahua",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2010,22,"All Ages",3,"Both",0.29270086564
+16,"coastal_prop",4655,"Hidalgo",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2010,22,"All Ages",3,"Both",0.0424967712556
+16,"coastal_prop",4657,"México",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2010,22,"All Ages",3,"Both",0.0449053786461
+16,"coastal_prop",4659,"Morelos",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2010,22,"All Ages",3,"Both",0.147533652419
+16,"coastal_prop",4661,"Nuevo León",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2010,22,"All Ages",3,"Both",0.0739210242144
+16,"coastal_prop",4663,"Puebla",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2010,22,"All Ages",3,"Both",0.678416264291
+16,"coastal_prop",4666,"San Luis Potosí",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2010,22,"All Ages",3,"Both",0.20468741558
+16,"coastal_prop",4668,"Sonora",2010,22,"All Ages",3,"Both",0.107702285509
+16,"coastal_prop",4669,"Tabasco",2010,22,"All Ages",3,"Both",0.0948796785405
+16,"coastal_prop",4670,"Tamaulipas",2010,22,"All Ages",3,"Both",0.216338799114
+16,"coastal_prop",4671,"Tlaxcala",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2010,22,"All Ages",3,"Both",0.201106849774
+16,"coastal_prop",4673,"Yucatán",2010,22,"All Ages",3,"Both",0.0341939476512
+16,"coastal_prop",4674,"Zacatecas",2010,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2011,22,"All Ages",3,"Both",0.0756115943866
+16,"coastal_prop",4643,"Aguascalientes",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2011,22,"All Ages",3,"Both",0.353975704657
+16,"coastal_prop",4645,"Baja California Sur",2011,22,"All Ages",3,"Both",0.773805371925
+16,"coastal_prop",4646,"Campeche",2011,22,"All Ages",3,"Both",0.555732424594
+16,"coastal_prop",4647,"Coahuila",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2011,22,"All Ages",3,"Both",0.313153078585
+16,"coastal_prop",4649,"Chiapas",2011,22,"All Ages",3,"Both",0.0201607440378
+16,"coastal_prop",4650,"Chihuahua",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2011,22,"All Ages",3,"Both",0.292987051037
+16,"coastal_prop",4655,"Hidalgo",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2011,22,"All Ages",3,"Both",0.0431476886547
+16,"coastal_prop",4657,"México",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2011,22,"All Ages",3,"Both",0.0449651734165
+16,"coastal_prop",4659,"Morelos",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2011,22,"All Ages",3,"Both",0.151038795649
+16,"coastal_prop",4661,"Nuevo León",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2011,22,"All Ages",3,"Both",0.0744231637106
+16,"coastal_prop",4663,"Puebla",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2011,22,"All Ages",3,"Both",0.680018938257
+16,"coastal_prop",4666,"San Luis Potosí",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2011,22,"All Ages",3,"Both",0.204991821954
+16,"coastal_prop",4668,"Sonora",2011,22,"All Ages",3,"Both",0.10801700932
+16,"coastal_prop",4669,"Tabasco",2011,22,"All Ages",3,"Both",0.0945550157323
+16,"coastal_prop",4670,"Tamaulipas",2011,22,"All Ages",3,"Both",0.215643412001
+16,"coastal_prop",4671,"Tlaxcala",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2011,22,"All Ages",3,"Both",0.200945283669
+16,"coastal_prop",4673,"Yucatán",2011,22,"All Ages",3,"Both",0.0342353813217
+16,"coastal_prop",4674,"Zacatecas",2011,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2012,22,"All Ages",3,"Both",0.0759587919235
+16,"coastal_prop",4643,"Aguascalientes",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2012,22,"All Ages",3,"Both",0.354934387324
+16,"coastal_prop",4645,"Baja California Sur",2012,22,"All Ages",3,"Both",0.776650965942
+16,"coastal_prop",4646,"Campeche",2012,22,"All Ages",3,"Both",0.556091125635
+16,"coastal_prop",4647,"Coahuila",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2012,22,"All Ages",3,"Both",0.314187588306
+16,"coastal_prop",4649,"Chiapas",2012,22,"All Ages",3,"Both",0.0200748828366
+16,"coastal_prop",4650,"Chihuahua",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2012,22,"All Ages",3,"Both",0.293255362924
+16,"coastal_prop",4655,"Hidalgo",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2012,22,"All Ages",3,"Both",0.0437729526153
+16,"coastal_prop",4657,"México",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2012,22,"All Ages",3,"Both",0.0450189055406
+16,"coastal_prop",4659,"Morelos",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2012,22,"All Ages",3,"Both",0.154703408303
+16,"coastal_prop",4661,"Nuevo León",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2012,22,"All Ages",3,"Both",0.074916306135
+16,"coastal_prop",4663,"Puebla",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2012,22,"All Ages",3,"Both",0.681666703397
+16,"coastal_prop",4666,"San Luis Potosí",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2012,22,"All Ages",3,"Both",0.205299699839
+16,"coastal_prop",4668,"Sonora",2012,22,"All Ages",3,"Both",0.10834455671
+16,"coastal_prop",4669,"Tabasco",2012,22,"All Ages",3,"Both",0.0942234693388
+16,"coastal_prop",4670,"Tamaulipas",2012,22,"All Ages",3,"Both",0.215017208854
+16,"coastal_prop",4671,"Tlaxcala",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2012,22,"All Ages",3,"Both",0.200801886104
+16,"coastal_prop",4673,"Yucatán",2012,22,"All Ages",3,"Both",0.034269363055
+16,"coastal_prop",4674,"Zacatecas",2012,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2013,22,"All Ages",3,"Both",0.0762869522057
+16,"coastal_prop",4643,"Aguascalientes",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2013,22,"All Ages",3,"Both",0.355902279157
+16,"coastal_prop",4645,"Baja California Sur",2013,22,"All Ages",3,"Both",0.779490340791
+16,"coastal_prop",4646,"Campeche",2013,22,"All Ages",3,"Both",0.556445274337
+16,"coastal_prop",4647,"Coahuila",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2013,22,"All Ages",3,"Both",0.315212418623
+16,"coastal_prop",4649,"Chiapas",2013,22,"All Ages",3,"Both",0.0199882713173
+16,"coastal_prop",4650,"Chihuahua",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2013,22,"All Ages",3,"Both",0.293505565856
+16,"coastal_prop",4655,"Hidalgo",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2013,22,"All Ages",3,"Both",0.0443682133167
+16,"coastal_prop",4657,"México",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2013,22,"All Ages",3,"Both",0.0450663306457
+16,"coastal_prop",4659,"Morelos",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2013,22,"All Ages",3,"Both",0.158533626429
+16,"coastal_prop",4661,"Nuevo León",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2013,22,"All Ages",3,"Both",0.0754000469034
+16,"coastal_prop",4663,"Puebla",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2013,22,"All Ages",3,"Both",0.68336007653
+16,"coastal_prop",4666,"San Luis Potosí",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2013,22,"All Ages",3,"Both",0.20561093603
+16,"coastal_prop",4668,"Sonora",2013,22,"All Ages",3,"Both",0.108685209884
+16,"coastal_prop",4669,"Tabasco",2013,22,"All Ages",3,"Both",0.0938849515399
+16,"coastal_prop",4670,"Tamaulipas",2013,22,"All Ages",3,"Both",0.214462049483
+16,"coastal_prop",4671,"Tlaxcala",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2013,22,"All Ages",3,"Both",0.200677860785
+16,"coastal_prop",4673,"Yucatán",2013,22,"All Ages",3,"Both",0.0342954313923
+16,"coastal_prop",4674,"Zacatecas",2013,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2014,22,"All Ages",3,"Both",0.07658801611
+16,"coastal_prop",4643,"Aguascalientes",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2014,22,"All Ages",3,"Both",0.356879530054
+16,"coastal_prop",4645,"Baja California Sur",2014,22,"All Ages",3,"Both",0.782320689721
+16,"coastal_prop",4646,"Campeche",2014,22,"All Ages",3,"Both",0.556794877387
+16,"coastal_prop",4647,"Coahuila",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2014,22,"All Ages",3,"Both",0.316227508134
+16,"coastal_prop",4649,"Chiapas",2014,22,"All Ages",3,"Both",0.0199009240767
+16,"coastal_prop",4650,"Chihuahua",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2014,22,"All Ages",3,"Both",0.293737411091
+16,"coastal_prop",4655,"Hidalgo",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2014,22,"All Ages",3,"Both",0.0449287911404
+16,"coastal_prop",4657,"México",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2014,22,"All Ages",3,"Both",0.0451071920762
+16,"coastal_prop",4659,"Morelos",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2014,22,"All Ages",3,"Both",0.162535621668
+16,"coastal_prop",4661,"Nuevo León",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2014,22,"All Ages",3,"Both",0.0758739589873
+16,"coastal_prop",4663,"Puebla",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2014,22,"All Ages",3,"Both",0.68509953237
+16,"coastal_prop",4666,"San Luis Potosí",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2014,22,"All Ages",3,"Both",0.205925421111
+16,"coastal_prop",4668,"Sonora",2014,22,"All Ages",3,"Both",0.109039249207
+16,"coastal_prop",4669,"Tabasco",2014,22,"All Ages",3,"Both",0.0935393742455
+16,"coastal_prop",4670,"Tamaulipas",2014,22,"All Ages",3,"Both",0.213979768254
+16,"coastal_prop",4671,"Tlaxcala",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2014,22,"All Ages",3,"Both",0.200574497401
+16,"coastal_prop",4673,"Yucatán",2014,22,"All Ages",3,"Both",0.0343131039053
+16,"coastal_prop",4674,"Zacatecas",2014,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2015,22,"All Ages",3,"Both",0.0768506051855
+16,"coastal_prop",4643,"Aguascalientes",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2015,22,"All Ages",3,"Both",0.357866286969
+16,"coastal_prop",4645,"Baja California Sur",2015,22,"All Ages",3,"Both",0.785139212381
+16,"coastal_prop",4646,"Campeche",2015,22,"All Ages",3,"Both",0.557139944576
+16,"coastal_prop",4647,"Coahuila",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2015,22,"All Ages",3,"Both",0.31723279616
+16,"coastal_prop",4649,"Chiapas",2015,22,"All Ages",3,"Both",0.0198128553125
+16,"coastal_prop",4650,"Chihuahua",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2015,22,"All Ages",3,"Both",0.293950635771
+16,"coastal_prop",4655,"Hidalgo",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2015,22,"All Ages",3,"Both",0.0454496903488
+16,"coastal_prop",4657,"México",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2015,22,"All Ages",3,"Both",0.0451412216514
+16,"coastal_prop",4659,"Morelos",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2015,22,"All Ages",3,"Both",0.166715589733
+16,"coastal_prop",4661,"Nuevo León",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2015,22,"All Ages",3,"Both",0.0763375946475
+16,"coastal_prop",4663,"Puebla",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2015,22,"All Ages",3,"Both",0.686885504306
+16,"coastal_prop",4666,"San Luis Potosí",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2015,22,"All Ages",3,"Both",0.206243049186
+16,"coastal_prop",4668,"Sonora",2015,22,"All Ages",3,"Both",0.109406949023
+16,"coastal_prop",4669,"Tabasco",2015,22,"All Ages",3,"Both",0.0931866486161
+16,"coastal_prop",4670,"Tamaulipas",2015,22,"All Ages",3,"Both",0.213572174321
+16,"coastal_prop",4671,"Tlaxcala",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2015,22,"All Ages",3,"Both",0.200493170261
+16,"coastal_prop",4673,"Yucatán",2015,22,"All Ages",3,"Both",0.0343218767069
+16,"coastal_prop",4674,"Zacatecas",2015,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2016,22,"All Ages",3,"Both",0.07705329651
+16,"coastal_prop",4643,"Aguascalientes",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2016,22,"All Ages",3,"Both",0.358863073558
+16,"coastal_prop",4645,"Baja California Sur",2016,22,"All Ages",3,"Both",0.787942727422
+16,"coastal_prop",4646,"Campeche",2016,22,"All Ages",3,"Both",0.557473486174
+16,"coastal_prop",4647,"Coahuila",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2016,22,"All Ages",3,"Both",0.318226793271
+16,"coastal_prop",4649,"Chiapas",2016,22,"All Ages",3,"Both",0.0197238471757
+16,"coastal_prop",4650,"Chihuahua",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2016,22,"All Ages",3,"Both",0.294142231877
+16,"coastal_prop",4655,"Hidalgo",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2016,22,"All Ages",3,"Both",0.0459181330776
+16,"coastal_prop",4657,"México",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2016,22,"All Ages",3,"Both",0.0451666226489
+16,"coastal_prop",4659,"Morelos",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2016,22,"All Ages",3,"Both",0.171082950697
+16,"coastal_prop",4661,"Nuevo León",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2016,22,"All Ages",3,"Both",0.0767834187737
+16,"coastal_prop",4663,"Puebla",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2016,22,"All Ages",3,"Both",0.688716318989
+16,"coastal_prop",4666,"San Luis Potosí",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2016,22,"All Ages",3,"Both",0.206563819945
+16,"coastal_prop",4668,"Sonora",2016,22,"All Ages",3,"Both",0.109789567453
+16,"coastal_prop",4669,"Tabasco",2016,22,"All Ages",3,"Both",0.0928262431057
+16,"coastal_prop",4670,"Tamaulipas",2016,22,"All Ages",3,"Both",0.213258789409
+16,"coastal_prop",4671,"Tlaxcala",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2016,22,"All Ages",3,"Both",0.200435917686
+16,"coastal_prop",4673,"Yucatán",2016,22,"All Ages",3,"Both",0.0343193909098
+16,"coastal_prop",4674,"Zacatecas",2016,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2017,22,"All Ages",3,"Both",0.0771774908639
+16,"coastal_prop",4643,"Aguascalientes",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2017,22,"All Ages",3,"Both",0.359869683873
+16,"coastal_prop",4645,"Baja California Sur",2017,22,"All Ages",3,"Both",0.790728846005
+16,"coastal_prop",4646,"Campeche",2017,22,"All Ages",3,"Both",0.557802352329
+16,"coastal_prop",4647,"Coahuila",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2017,22,"All Ages",3,"Both",0.319210852206
+16,"coastal_prop",4649,"Chiapas",2017,22,"All Ages",3,"Both",0.0196341421117
+16,"coastal_prop",4650,"Chihuahua",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2017,22,"All Ages",3,"Both",0.294314591444
+16,"coastal_prop",4655,"Hidalgo",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2017,22,"All Ages",3,"Both",0.046335496772
+16,"coastal_prop",4657,"México",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2017,22,"All Ages",3,"Both",0.0451845442238
+16,"coastal_prop",4659,"Morelos",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2017,22,"All Ages",3,"Both",0.175640820129
+16,"coastal_prop",4661,"Nuevo León",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2017,22,"All Ages",3,"Both",0.0772177779502
+16,"coastal_prop",4663,"Puebla",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2017,22,"All Ages",3,"Both",0.690594360961
+16,"coastal_prop",4666,"San Luis Potosí",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2017,22,"All Ages",3,"Both",0.206887517266
+16,"coastal_prop",4668,"Sonora",2017,22,"All Ages",3,"Both",0.110186371692
+16,"coastal_prop",4669,"Tabasco",2017,22,"All Ages",3,"Both",0.0924584843958
+16,"coastal_prop",4670,"Tamaulipas",2017,22,"All Ages",3,"Both",0.213023521875
+16,"coastal_prop",4671,"Tlaxcala",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2017,22,"All Ages",3,"Both",0.200403757152
+16,"coastal_prop",4673,"Yucatán",2017,22,"All Ages",3,"Both",0.0343067836593
+16,"coastal_prop",4674,"Zacatecas",2017,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2018,22,"All Ages",3,"Both",0.0771904657606
+16,"coastal_prop",4643,"Aguascalientes",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2018,22,"All Ages",3,"Both",0.360886275734
+16,"coastal_prop",4645,"Baja California Sur",2018,22,"All Ages",3,"Both",0.793494809655
+16,"coastal_prop",4646,"Campeche",2018,22,"All Ages",3,"Both",0.558126543236
+16,"coastal_prop",4647,"Coahuila",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2018,22,"All Ages",3,"Both",0.320184915393
+16,"coastal_prop",4649,"Chiapas",2018,22,"All Ages",3,"Both",0.0195437536997
+16,"coastal_prop",4650,"Chihuahua",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2018,22,"All Ages",3,"Both",0.294467397124
+16,"coastal_prop",4655,"Hidalgo",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2018,22,"All Ages",3,"Both",0.0466960489259
+16,"coastal_prop",4657,"México",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2018,22,"All Ages",3,"Both",0.04519467721
+16,"coastal_prop",4659,"Morelos",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2018,22,"All Ages",3,"Both",0.180395288999
+16,"coastal_prop",4661,"Nuevo León",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2018,22,"All Ages",3,"Both",0.0776401496816
+16,"coastal_prop",4663,"Puebla",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2018,22,"All Ages",3,"Both",0.692519912145
+16,"coastal_prop",4666,"San Luis Potosí",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2018,22,"All Ages",3,"Both",0.207214043622
+16,"coastal_prop",4668,"Sonora",2018,22,"All Ages",3,"Both",0.110597622041
+16,"coastal_prop",4669,"Tabasco",2018,22,"All Ages",3,"Both",0.0920832835694
+16,"coastal_prop",4670,"Tamaulipas",2018,22,"All Ages",3,"Both",0.212868087743
+16,"coastal_prop",4671,"Tlaxcala",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2018,22,"All Ages",3,"Both",0.200398354156
+16,"coastal_prop",4673,"Yucatán",2018,22,"All Ages",3,"Both",0.0342834830912
+16,"coastal_prop",4674,"Zacatecas",2018,22,"All Ages",3,"Both",0
+16,"coastal_prop",130,"Mexico",2019,22,"All Ages",3,"Both",0.0770461569615
+16,"coastal_prop",4643,"Aguascalientes",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4644,"Baja California",2019,22,"All Ages",3,"Both",0.361913004073
+16,"coastal_prop",4645,"Baja California Sur",2019,22,"All Ages",3,"Both",0.796237909271
+16,"coastal_prop",4646,"Campeche",2019,22,"All Ages",3,"Both",0.558446061623
+16,"coastal_prop",4647,"Coahuila",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4648,"Colima",2019,22,"All Ages",3,"Both",0.321148928494
+16,"coastal_prop",4649,"Chiapas",2019,22,"All Ages",3,"Both",0.0194526951542
+16,"coastal_prop",4650,"Chihuahua",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4651,"Mexico City",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4652,"Durango",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4653,"Guanajuato",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4654,"Guerrero",2019,22,"All Ages",3,"Both",0.294600311685
+16,"coastal_prop",4655,"Hidalgo",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4656,"Jalisco",2019,22,"All Ages",3,"Both",0.0469939438488
+16,"coastal_prop",4657,"México",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4658,"Michoacán de Ocampo",2019,22,"All Ages",3,"Both",0.0451966986944
+16,"coastal_prop",4659,"Morelos",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4660,"Nayarit",2019,22,"All Ages",3,"Both",0.185352353192
+16,"coastal_prop",4661,"Nuevo León",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4662,"Oaxaca",2019,22,"All Ages",3,"Both",0.0780499880594
+16,"coastal_prop",4663,"Puebla",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4664,"Querétaro",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4665,"Quintana Roo",2019,22,"All Ages",3,"Both",0.694493199402
+16,"coastal_prop",4666,"San Luis Potosí",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4667,"Sinaloa",2019,22,"All Ages",3,"Both",0.207543299401
+16,"coastal_prop",4668,"Sonora",2019,22,"All Ages",3,"Both",0.11102356855
+16,"coastal_prop",4669,"Tabasco",2019,22,"All Ages",3,"Both",0.0917005508072
+16,"coastal_prop",4670,"Tamaulipas",2019,22,"All Ages",3,"Both",0.212794171693
+16,"coastal_prop",4671,"Tlaxcala",2019,22,"All Ages",3,"Both",0
+16,"coastal_prop",4672,"Veracruz de Ignacio de la Llave",2019,22,"All Ages",3,"Both",0.20042148155
+16,"coastal_prop",4673,"Yucatán",2019,22,"All Ages",3,"Both",0.034248899129
+16,"coastal_prop",4674,"Zacatecas",2019,22,"All Ages",3,"Both",0

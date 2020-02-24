@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+1212,"alc_drinker_prop",130,"Mexico",1990,27,"Age-standardized",1,"Male",0.5592517817
+1212,"alc_drinker_prop",130,"Mexico",1990,27,"Age-standardized",2,"Female",0.3364094061
+1212,"alc_drinker_prop",4643,"Aguascalientes",1990,27,"Age-standardized",1,"Male",0.5856720447
+1212,"alc_drinker_prop",4643,"Aguascalientes",1990,27,"Age-standardized",2,"Female",0.3507404194
+1212,"alc_drinker_prop",4644,"Baja California",1990,27,"Age-standardized",1,"Male",0.4956726816
+1212,"alc_drinker_prop",4644,"Baja California",1990,27,"Age-standardized",2,"Female",0.3299332623
+1212,"alc_drinker_prop",4645,"Baja California Sur",1990,27,"Age-standardized",1,"Male",0.5760665735
+1212,"alc_drinker_prop",4645,"Baja California Sur",1990,27,"Age-standardized",2,"Female",0.3401753556
+1212,"alc_drinker_prop",4646,"Campeche",1990,27,"Age-standardized",1,"Male",0.5406444939
+1212,"alc_drinker_prop",4646,"Campeche",1990,27,"Age-standardized",2,"Female",0.2977790248
+1212,"alc_drinker_prop",4647,"Coahuila",1990,27,"Age-standardized",1,"Male",0.4814388961
+1212,"alc_drinker_prop",4647,"Coahuila",1990,27,"Age-standardized",2,"Female",0.2632990211
+1212,"alc_drinker_prop",4648,"Colima",1990,27,"Age-standardized",1,"Male",0.5751348335
+1212,"alc_drinker_prop",4648,"Colima",1990,27,"Age-standardized",2,"Female",0.3900414963
+1212,"alc_drinker_prop",4649,"Chiapas",1990,27,"Age-standardized",1,"Male",0.3820263922
+1212,"alc_drinker_prop",4649,"Chiapas",1990,27,"Age-standardized",2,"Female",0.2794423122
+1212,"alc_drinker_prop",4650,"Chihuahua",1990,27,"Age-standardized",1,"Male",0.5615044298
+1212,"alc_drinker_prop",4650,"Chihuahua",1990,27,"Age-standardized",2,"Female",0.3378719768
+1212,"alc_drinker_prop",4651,"Mexico City",1990,27,"Age-standardized",1,"Male",0.6258588827
+1212,"alc_drinker_prop",4651,"Mexico City",1990,27,"Age-standardized",2,"Female",0.439004123
+1212,"alc_drinker_prop",4652,"Durango",1990,27,"Age-standardized",1,"Male",0.5786270816
+1212,"alc_drinker_prop",4652,"Durango",1990,27,"Age-standardized",2,"Female",0.2730137294
+1212,"alc_drinker_prop",4653,"Guanajuato",1990,27,"Age-standardized",1,"Male",0.4973506508
+1212,"alc_drinker_prop",4653,"Guanajuato",1990,27,"Age-standardized",2,"Female",0.2895895508
+1212,"alc_drinker_prop",4654,"Guerrero",1990,27,"Age-standardized",1,"Male",0.5031500938
+1212,"alc_drinker_prop",4654,"Guerrero",1990,27,"Age-standardized",2,"Female",0.3088801624
+1212,"alc_drinker_prop",4655,"Hidalgo",1990,27,"Age-standardized",1,"Male",0.5821246838
+1212,"alc_drinker_prop",4655,"Hidalgo",1990,27,"Age-standardized",2,"Female",0.3405086873
+1212,"alc_drinker_prop",4656,"Jalisco",1990,27,"Age-standardized",1,"Male",0.6230457978
+1212,"alc_drinker_prop",4656,"Jalisco",1990,27,"Age-standardized",2,"Female",0.3964439246
+1212,"alc_drinker_prop",4657,"México",1990,27,"Age-standardized",1,"Male",0.6215393222
+1212,"alc_drinker_prop",4657,"México",1990,27,"Age-standardized",2,"Female",0.372245525
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",1,"Male",0.5604374834
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",2,"Female",0.3441495958
+1212,"alc_drinker_prop",4659,"Morelos",1990,27,"Age-standardized",1,"Male",0.5828108533
+1212,"alc_drinker_prop",4659,"Morelos",1990,27,"Age-standardized",2,"Female",0.3629653082
+1212,"alc_drinker_prop",4660,"Nayarit",1990,27,"Age-standardized",1,"Male",0.6125194606
+1212,"alc_drinker_prop",4660,"Nayarit",1990,27,"Age-standardized",2,"Female",0.3843064011
+1212,"alc_drinker_prop",4661,"Nuevo León",1990,27,"Age-standardized",1,"Male",0.5891637734
+1212,"alc_drinker_prop",4661,"Nuevo León",1990,27,"Age-standardized",2,"Female",0.289552499
+1212,"alc_drinker_prop",4662,"Oaxaca",1990,27,"Age-standardized",1,"Male",0.5304264359
+1212,"alc_drinker_prop",4662,"Oaxaca",1990,27,"Age-standardized",2,"Female",0.3017332724
+1212,"alc_drinker_prop",4663,"Puebla",1990,27,"Age-standardized",1,"Male",0.5975628689
+1212,"alc_drinker_prop",4663,"Puebla",1990,27,"Age-standardized",2,"Female",0.3525454886
+1212,"alc_drinker_prop",4664,"Querétaro",1990,27,"Age-standardized",1,"Male",0.5819470005
+1212,"alc_drinker_prop",4664,"Querétaro",1990,27,"Age-standardized",2,"Female",0.3506893499
+1212,"alc_drinker_prop",4665,"Quintana Roo",1990,27,"Age-standardized",1,"Male",0.6121182932
+1212,"alc_drinker_prop",4665,"Quintana Roo",1990,27,"Age-standardized",2,"Female",0.3988759273
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1990,27,"Age-standardized",1,"Male",0.5182481731
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1990,27,"Age-standardized",2,"Female",0.2716962172
+1212,"alc_drinker_prop",4667,"Sinaloa",1990,27,"Age-standardized",1,"Male",0.5369261341
+1212,"alc_drinker_prop",4667,"Sinaloa",1990,27,"Age-standardized",2,"Female",0.2667949344
+1212,"alc_drinker_prop",4668,"Sonora",1990,27,"Age-standardized",1,"Male",0.603967329
+1212,"alc_drinker_prop",4668,"Sonora",1990,27,"Age-standardized",2,"Female",0.2998007736
+1212,"alc_drinker_prop",4669,"Tabasco",1990,27,"Age-standardized",1,"Male",0.491244059
+1212,"alc_drinker_prop",4669,"Tabasco",1990,27,"Age-standardized",2,"Female",0.2803288776
+1212,"alc_drinker_prop",4670,"Tamaulipas",1990,27,"Age-standardized",1,"Male",0.5491342007
+1212,"alc_drinker_prop",4670,"Tamaulipas",1990,27,"Age-standardized",2,"Female",0.2903292577
+1212,"alc_drinker_prop",4671,"Tlaxcala",1990,27,"Age-standardized",1,"Male",0.5571184609
+1212,"alc_drinker_prop",4671,"Tlaxcala",1990,27,"Age-standardized",2,"Female",0.3451469583
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",1,"Male",0.5135172026
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",2,"Female",0.3116671513
+1212,"alc_drinker_prop",4673,"Yucatán",1990,27,"Age-standardized",1,"Male",0.5025180397
+1212,"alc_drinker_prop",4673,"Yucatán",1990,27,"Age-standardized",2,"Female",0.3478519192
+1212,"alc_drinker_prop",4674,"Zacatecas",1990,27,"Age-standardized",1,"Male",0.5727177845
+1212,"alc_drinker_prop",4674,"Zacatecas",1990,27,"Age-standardized",2,"Female",0.2853860067
+1212,"alc_drinker_prop",130,"Mexico",1991,27,"Age-standardized",1,"Male",0.5600226414
+1212,"alc_drinker_prop",130,"Mexico",1991,27,"Age-standardized",2,"Female",0.3365761229
+1212,"alc_drinker_prop",4643,"Aguascalientes",1991,27,"Age-standardized",1,"Male",0.5857408906
+1212,"alc_drinker_prop",4643,"Aguascalientes",1991,27,"Age-standardized",2,"Female",0.3506198493
+1212,"alc_drinker_prop",4644,"Baja California",1991,27,"Age-standardized",1,"Male",0.4972008998
+1212,"alc_drinker_prop",4644,"Baja California",1991,27,"Age-standardized",2,"Female",0.3301348158
+1212,"alc_drinker_prop",4645,"Baja California Sur",1991,27,"Age-standardized",1,"Male",0.5766712061
+1212,"alc_drinker_prop",4645,"Baja California Sur",1991,27,"Age-standardized",2,"Female",0.3396586064
+1212,"alc_drinker_prop",4646,"Campeche",1991,27,"Age-standardized",1,"Male",0.5406164221
+1212,"alc_drinker_prop",4646,"Campeche",1991,27,"Age-standardized",2,"Female",0.2974324199
+1212,"alc_drinker_prop",4647,"Coahuila",1991,27,"Age-standardized",1,"Male",0.4826759154
+1212,"alc_drinker_prop",4647,"Coahuila",1991,27,"Age-standardized",2,"Female",0.2602323912
+1212,"alc_drinker_prop",4648,"Colima",1991,27,"Age-standardized",1,"Male",0.5751251767
+1212,"alc_drinker_prop",4648,"Colima",1991,27,"Age-standardized",2,"Female",0.3900374338
+1212,"alc_drinker_prop",4649,"Chiapas",1991,27,"Age-standardized",1,"Male",0.384407245
+1212,"alc_drinker_prop",4649,"Chiapas",1991,27,"Age-standardized",2,"Female",0.2796247522
+1212,"alc_drinker_prop",4650,"Chihuahua",1991,27,"Age-standardized",1,"Male",0.5624724762
+1212,"alc_drinker_prop",4650,"Chihuahua",1991,27,"Age-standardized",2,"Female",0.3373148113
+1212,"alc_drinker_prop",4651,"Mexico City",1991,27,"Age-standardized",1,"Male",0.6268552984
+1212,"alc_drinker_prop",4651,"Mexico City",1991,27,"Age-standardized",2,"Female",0.4411244359
+1212,"alc_drinker_prop",4652,"Durango",1991,27,"Age-standardized",1,"Male",0.5793048913
+1212,"alc_drinker_prop",4652,"Durango",1991,27,"Age-standardized",2,"Female",0.2725201135
+1212,"alc_drinker_prop",4653,"Guanajuato",1991,27,"Age-standardized",1,"Male",0.4987008568
+1212,"alc_drinker_prop",4653,"Guanajuato",1991,27,"Age-standardized",2,"Female",0.2941168499
+1212,"alc_drinker_prop",4654,"Guerrero",1991,27,"Age-standardized",1,"Male",0.5030681502
+1212,"alc_drinker_prop",4654,"Guerrero",1991,27,"Age-standardized",2,"Female",0.3084884884
+1212,"alc_drinker_prop",4655,"Hidalgo",1991,27,"Age-standardized",1,"Male",0.5833319369
+1212,"alc_drinker_prop",4655,"Hidalgo",1991,27,"Age-standardized",2,"Female",0.340563345
+1212,"alc_drinker_prop",4656,"Jalisco",1991,27,"Age-standardized",1,"Male",0.6239000826
+1212,"alc_drinker_prop",4656,"Jalisco",1991,27,"Age-standardized",2,"Female",0.3975994016
+1212,"alc_drinker_prop",4657,"México",1991,27,"Age-standardized",1,"Male",0.6225214277
+1212,"alc_drinker_prop",4657,"México",1991,27,"Age-standardized",2,"Female",0.370408075
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",1,"Male",0.5615956244
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",2,"Female",0.3484858443
+1212,"alc_drinker_prop",4659,"Morelos",1991,27,"Age-standardized",1,"Male",0.5838475117
+1212,"alc_drinker_prop",4659,"Morelos",1991,27,"Age-standardized",2,"Female",0.3624804999
+1212,"alc_drinker_prop",4660,"Nayarit",1991,27,"Age-standardized",1,"Male",0.6125354537
+1212,"alc_drinker_prop",4660,"Nayarit",1991,27,"Age-standardized",2,"Female",0.3844817955
+1212,"alc_drinker_prop",4661,"Nuevo León",1991,27,"Age-standardized",1,"Male",0.5895317993
+1212,"alc_drinker_prop",4661,"Nuevo León",1991,27,"Age-standardized",2,"Female",0.2880629505
+1212,"alc_drinker_prop",4662,"Oaxaca",1991,27,"Age-standardized",1,"Male",0.5304051607
+1212,"alc_drinker_prop",4662,"Oaxaca",1991,27,"Age-standardized",2,"Female",0.3008619681
+1212,"alc_drinker_prop",4663,"Puebla",1991,27,"Age-standardized",1,"Male",0.598544091
+1212,"alc_drinker_prop",4663,"Puebla",1991,27,"Age-standardized",2,"Female",0.3541127193
+1212,"alc_drinker_prop",4664,"Querétaro",1991,27,"Age-standardized",1,"Male",0.5820631516
+1212,"alc_drinker_prop",4664,"Querétaro",1991,27,"Age-standardized",2,"Female",0.3508720255
+1212,"alc_drinker_prop",4665,"Quintana Roo",1991,27,"Age-standardized",1,"Male",0.6121103919
+1212,"alc_drinker_prop",4665,"Quintana Roo",1991,27,"Age-standardized",2,"Female",0.3991445229
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1991,27,"Age-standardized",1,"Male",0.5194920753
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1991,27,"Age-standardized",2,"Female",0.2714035783
+1212,"alc_drinker_prop",4667,"Sinaloa",1991,27,"Age-standardized",1,"Male",0.5378769896
+1212,"alc_drinker_prop",4667,"Sinaloa",1991,27,"Age-standardized",2,"Female",0.2704081878
+1212,"alc_drinker_prop",4668,"Sonora",1991,27,"Age-standardized",1,"Male",0.6046640955
+1212,"alc_drinker_prop",4668,"Sonora",1991,27,"Age-standardized",2,"Female",0.2979347879
+1212,"alc_drinker_prop",4669,"Tabasco",1991,27,"Age-standardized",1,"Male",0.4922097703
+1212,"alc_drinker_prop",4669,"Tabasco",1991,27,"Age-standardized",2,"Female",0.2808080852
+1212,"alc_drinker_prop",4670,"Tamaulipas",1991,27,"Age-standardized",1,"Male",0.5502279017
+1212,"alc_drinker_prop",4670,"Tamaulipas",1991,27,"Age-standardized",2,"Female",0.2870350934
+1212,"alc_drinker_prop",4671,"Tlaxcala",1991,27,"Age-standardized",1,"Male",0.5571904428
+1212,"alc_drinker_prop",4671,"Tlaxcala",1991,27,"Age-standardized",2,"Female",0.345271351
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",1,"Male",0.5144552656
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",2,"Female",0.3102327814
+1212,"alc_drinker_prop",4673,"Yucatán",1991,27,"Age-standardized",1,"Male",0.5032093569
+1212,"alc_drinker_prop",4673,"Yucatán",1991,27,"Age-standardized",2,"Female",0.35033575
+1212,"alc_drinker_prop",4674,"Zacatecas",1991,27,"Age-standardized",1,"Male",0.5727279778
+1212,"alc_drinker_prop",4674,"Zacatecas",1991,27,"Age-standardized",2,"Female",0.2852544232
+1212,"alc_drinker_prop",130,"Mexico",1992,27,"Age-standardized",1,"Male",0.5607932178
+1212,"alc_drinker_prop",130,"Mexico",1992,27,"Age-standardized",2,"Female",0.3367447937
+1212,"alc_drinker_prop",4643,"Aguascalientes",1992,27,"Age-standardized",1,"Male",0.5858097053
+1212,"alc_drinker_prop",4643,"Aguascalientes",1992,27,"Age-standardized",2,"Female",0.3504994353
+1212,"alc_drinker_prop",4644,"Baja California",1992,27,"Age-standardized",1,"Male",0.4987291765
+1212,"alc_drinker_prop",4644,"Baja California",1992,27,"Age-standardized",2,"Female",0.3303383265
+1212,"alc_drinker_prop",4645,"Baja California Sur",1992,27,"Age-standardized",1,"Male",0.5772756109
+1212,"alc_drinker_prop",4645,"Baja California Sur",1992,27,"Age-standardized",2,"Female",0.3391433419
+1212,"alc_drinker_prop",4646,"Campeche",1992,27,"Age-standardized",1,"Male",0.5405883476
+1212,"alc_drinker_prop",4646,"Campeche",1992,27,"Age-standardized",2,"Female",0.2970863523
+1212,"alc_drinker_prop",4647,"Coahuila",1992,27,"Age-standardized",1,"Male",0.4839131548
+1212,"alc_drinker_prop",4647,"Coahuila",1992,27,"Age-standardized",2,"Female",0.2571888154
+1212,"alc_drinker_prop",4648,"Colima",1992,27,"Age-standardized",1,"Male",0.575115507
+1212,"alc_drinker_prop",4648,"Colima",1992,27,"Age-standardized",2,"Female",0.3900334814
+1212,"alc_drinker_prop",4649,"Chiapas",1992,27,"Age-standardized",1,"Male",0.386793645
+1212,"alc_drinker_prop",4649,"Chiapas",1992,27,"Age-standardized",2,"Female",0.2798117789
+1212,"alc_drinker_prop",4650,"Chihuahua",1992,27,"Age-standardized",1,"Male",0.5634400528
+1212,"alc_drinker_prop",4650,"Chihuahua",1992,27,"Age-standardized",2,"Female",0.3367603051
+1212,"alc_drinker_prop",4651,"Mexico City",1992,27,"Age-standardized",1,"Male",0.6278506097
+1212,"alc_drinker_prop",4651,"Mexico City",1992,27,"Age-standardized",2,"Female",0.4432481382
+1212,"alc_drinker_prop",4652,"Durango",1992,27,"Age-standardized",1,"Male",0.5799823933
+1212,"alc_drinker_prop",4652,"Durango",1992,27,"Age-standardized",2,"Female",0.2720301337
+1212,"alc_drinker_prop",4653,"Guanajuato",1992,27,"Age-standardized",1,"Male",0.5000511075
+1212,"alc_drinker_prop",4653,"Guanajuato",1992,27,"Age-standardized",2,"Female",0.2986900923
+1212,"alc_drinker_prop",4654,"Guerrero",1992,27,"Age-standardized",1,"Male",0.5029862105
+1212,"alc_drinker_prop",4654,"Guerrero",1992,27,"Age-standardized",2,"Female",0.308097241
+1212,"alc_drinker_prop",4655,"Hidalgo",1992,27,"Age-standardized",1,"Male",0.5845381876
+1212,"alc_drinker_prop",4655,"Hidalgo",1992,27,"Age-standardized",2,"Female",0.3406215557
+1212,"alc_drinker_prop",4656,"Jalisco",1992,27,"Age-standardized",1,"Male",0.6247535793
+1212,"alc_drinker_prop",4656,"Jalisco",1992,27,"Age-standardized",2,"Female",0.3987575464
+1212,"alc_drinker_prop",4657,"México",1992,27,"Age-standardized",1,"Male",0.6235025217
+1212,"alc_drinker_prop",4657,"México",1992,27,"Age-standardized",2,"Female",0.3685744378
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",1,"Male",0.562753068
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",2,"Female",0.3528503759
+1212,"alc_drinker_prop",4659,"Morelos",1992,27,"Age-standardized",1,"Male",0.5848834264
+1212,"alc_drinker_prop",4659,"Morelos",1992,27,"Age-standardized",2,"Female",0.3619968385
+1212,"alc_drinker_prop",4660,"Nayarit",1992,27,"Age-standardized",1,"Male",0.612551429
+1212,"alc_drinker_prop",4660,"Nayarit",1992,27,"Age-standardized",2,"Female",0.3846575006
+1212,"alc_drinker_prop",4661,"Nuevo León",1992,27,"Age-standardized",1,"Male",0.5898997139
+1212,"alc_drinker_prop",4661,"Nuevo León",1992,27,"Age-standardized",2,"Female",0.2865786613
+1212,"alc_drinker_prop",4662,"Oaxaca",1992,27,"Age-standardized",1,"Male",0.5303838859
+1212,"alc_drinker_prop",4662,"Oaxaca",1992,27,"Age-standardized",2,"Female",0.2999928113
+1212,"alc_drinker_prop",4663,"Puebla",1992,27,"Age-standardized",1,"Male",0.5995245172
+1212,"alc_drinker_prop",4663,"Puebla",1992,27,"Age-standardized",2,"Female",0.3556866553
+1212,"alc_drinker_prop",4664,"Querétaro",1992,27,"Age-standardized",1,"Male",0.5821792673
+1212,"alc_drinker_prop",4664,"Querétaro",1992,27,"Age-standardized",2,"Female",0.3510550489
+1212,"alc_drinker_prop",4665,"Quintana Roo",1992,27,"Age-standardized",1,"Male",0.6121024575
+1212,"alc_drinker_prop",4665,"Quintana Roo",1992,27,"Age-standardized",2,"Female",0.3994132195
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1992,27,"Age-standardized",1,"Male",0.5207357551
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1992,27,"Age-standardized",2,"Female",0.2711158694
+1212,"alc_drinker_prop",4667,"Sinaloa",1992,27,"Age-standardized",1,"Male",0.5388275626
+1212,"alc_drinker_prop",4667,"Sinaloa",1992,27,"Age-standardized",2,"Female",0.2740548183
+1212,"alc_drinker_prop",4668,"Sonora",1992,27,"Age-standardized",1,"Male",0.6053604037
+1212,"alc_drinker_prop",4668,"Sonora",1992,27,"Age-standardized",2,"Female",0.2960758864
+1212,"alc_drinker_prop",4669,"Tabasco",1992,27,"Age-standardized",1,"Male",0.49317558
+1212,"alc_drinker_prop",4669,"Tabasco",1992,27,"Age-standardized",2,"Female",0.2812919643
+1212,"alc_drinker_prop",4670,"Tamaulipas",1992,27,"Age-standardized",1,"Male",0.5513211068
+1212,"alc_drinker_prop",4670,"Tamaulipas",1992,27,"Age-standardized",2,"Female",0.2837634718
+1212,"alc_drinker_prop",4671,"Tlaxcala",1992,27,"Age-standardized",1,"Male",0.5572623987
+1212,"alc_drinker_prop",4671,"Tlaxcala",1992,27,"Age-standardized",2,"Female",0.3453960476
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",1,"Male",0.5153932863
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",2,"Female",0.3088049285
+1212,"alc_drinker_prop",4673,"Yucatán",1992,27,"Age-standardized",1,"Male",0.503900678
+1212,"alc_drinker_prop",4673,"Yucatán",1992,27,"Age-standardized",2,"Female",0.3528287768
+1212,"alc_drinker_prop",4674,"Zacatecas",1992,27,"Age-standardized",1,"Male",0.5727381526
+1212,"alc_drinker_prop",4674,"Zacatecas",1992,27,"Age-standardized",2,"Female",0.2851230767
+1212,"alc_drinker_prop",130,"Mexico",1993,27,"Age-standardized",1,"Male",0.5615635087
+1212,"alc_drinker_prop",130,"Mexico",1993,27,"Age-standardized",2,"Female",0.3369154072
+1212,"alc_drinker_prop",4643,"Aguascalientes",1993,27,"Age-standardized",1,"Male",0.5858784964
+1212,"alc_drinker_prop",4643,"Aguascalientes",1993,27,"Age-standardized",2,"Female",0.3503791762
+1212,"alc_drinker_prop",4644,"Baja California",1993,27,"Age-standardized",1,"Male",0.5002574803
+1212,"alc_drinker_prop",4644,"Baja California",1993,27,"Age-standardized",2,"Female",0.3305437942
+1212,"alc_drinker_prop",4645,"Baja California Sur",1993,27,"Age-standardized",1,"Male",0.57787978
+1212,"alc_drinker_prop",4645,"Baja California Sur",1993,27,"Age-standardized",2,"Female",0.3386295754
+1212,"alc_drinker_prop",4646,"Campeche",1993,27,"Age-standardized",1,"Male",0.5405602636
+1212,"alc_drinker_prop",4646,"Campeche",1993,27,"Age-standardized",2,"Female",0.2967408266
+1212,"alc_drinker_prop",4647,"Coahuila",1993,27,"Age-standardized",1,"Male",0.4851505934
+1212,"alc_drinker_prop",4647,"Coahuila",1993,27,"Age-standardized",2,"Female",0.2541684362
+1212,"alc_drinker_prop",4648,"Colima",1993,27,"Age-standardized",1,"Male",0.5751058283
+1212,"alc_drinker_prop",4648,"Colima",1993,27,"Age-standardized",2,"Female",0.390029634
+1212,"alc_drinker_prop",4649,"Chiapas",1993,27,"Age-standardized",1,"Male",0.3891854919
+1212,"alc_drinker_prop",4649,"Chiapas",1993,27,"Age-standardized",2,"Female",0.2800033953
+1212,"alc_drinker_prop",4650,"Chihuahua",1993,27,"Age-standardized",1,"Male",0.5644071502
+1212,"alc_drinker_prop",4650,"Chihuahua",1993,27,"Age-standardized",2,"Female",0.3362084652
+1212,"alc_drinker_prop",4651,"Mexico City",1993,27,"Age-standardized",1,"Male",0.6288448065
+1212,"alc_drinker_prop",4651,"Mexico City",1993,27,"Age-standardized",2,"Female",0.445375116
+1212,"alc_drinker_prop",4652,"Durango",1993,27,"Age-standardized",1,"Male",0.5806595828
+1212,"alc_drinker_prop",4652,"Durango",1993,27,"Age-standardized",2,"Female",0.271543805
+1212,"alc_drinker_prop",4653,"Guanajuato",1993,27,"Age-standardized",1,"Male",0.5014013808
+1212,"alc_drinker_prop",4653,"Guanajuato",1993,27,"Age-standardized",2,"Female",0.3033087663
+1212,"alc_drinker_prop",4654,"Guerrero",1993,27,"Age-standardized",1,"Male",0.5029042772
+1212,"alc_drinker_prop",4654,"Guerrero",1993,27,"Age-standardized",2,"Female",0.3077064189
+1212,"alc_drinker_prop",4655,"Hidalgo",1993,27,"Age-standardized",1,"Male",0.5857434207
+1212,"alc_drinker_prop",4655,"Hidalgo",1993,27,"Age-standardized",2,"Female",0.3406833053
+1212,"alc_drinker_prop",4656,"Jalisco",1993,27,"Age-standardized",1,"Male",0.625606284
+1212,"alc_drinker_prop",4656,"Jalisco",1993,27,"Age-standardized",2,"Female",0.399918318
+1212,"alc_drinker_prop",4657,"México",1993,27,"Age-standardized",1,"Male",0.6244825988
+1212,"alc_drinker_prop",4657,"México",1993,27,"Age-standardized",2,"Female",0.3667446729
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",1,"Male",0.5639098023
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",2,"Female",0.3572425705
+1212,"alc_drinker_prop",4659,"Morelos",1993,27,"Age-standardized",1,"Male",0.5859185899
+1212,"alc_drinker_prop",4659,"Morelos",1993,27,"Age-standardized",2,"Female",0.3615143334
+1212,"alc_drinker_prop",4660,"Nayarit",1993,27,"Age-standardized",1,"Male",0.6125673902
+1212,"alc_drinker_prop",4660,"Nayarit",1993,27,"Age-standardized",2,"Female",0.3848335157
+1212,"alc_drinker_prop",4661,"Nuevo León",1993,27,"Age-standardized",1,"Male",0.5902675189
+1212,"alc_drinker_prop",4661,"Nuevo León",1993,27,"Age-standardized",2,"Female",0.2850996622
+1212,"alc_drinker_prop",4662,"Oaxaca",1993,27,"Age-standardized",1,"Male",0.530362604
+1212,"alc_drinker_prop",4662,"Oaxaca",1993,27,"Age-standardized",2,"Female",0.2991258139
+1212,"alc_drinker_prop",4663,"Puebla",1993,27,"Age-standardized",1,"Male",0.6005041443
+1212,"alc_drinker_prop",4663,"Puebla",1993,27,"Age-standardized",2,"Female",0.3572672199
+1212,"alc_drinker_prop",4664,"Querétaro",1993,27,"Age-standardized",1,"Male",0.5822953494
+1212,"alc_drinker_prop",4664,"Querétaro",1993,27,"Age-standardized",2,"Female",0.351238415
+1212,"alc_drinker_prop",4665,"Quintana Roo",1993,27,"Age-standardized",1,"Male",0.6120944858
+1212,"alc_drinker_prop",4665,"Quintana Roo",1993,27,"Age-standardized",2,"Female",0.3996820188
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1993,27,"Age-standardized",1,"Male",0.5219791953
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1993,27,"Age-standardized",2,"Female",0.2708331064
+1212,"alc_drinker_prop",4667,"Sinaloa",1993,27,"Age-standardized",1,"Male",0.5397778474
+1212,"alc_drinker_prop",4667,"Sinaloa",1993,27,"Age-standardized",2,"Female",0.2777346124
+1212,"alc_drinker_prop",4668,"Sonora",1993,27,"Age-standardized",1,"Male",0.6060562556
+1212,"alc_drinker_prop",4668,"Sonora",1993,27,"Age-standardized",2,"Female",0.2942241174
+1212,"alc_drinker_prop",4669,"Tabasco",1993,27,"Age-standardized",1,"Male",0.4941414752
+1212,"alc_drinker_prop",4669,"Tabasco",1993,27,"Age-standardized",2,"Female",0.2817805143
+1212,"alc_drinker_prop",4670,"Tamaulipas",1993,27,"Age-standardized",1,"Male",0.5524138018
+1212,"alc_drinker_prop",4670,"Tamaulipas",1993,27,"Age-standardized",2,"Female",0.2805146195
+1212,"alc_drinker_prop",4671,"Tlaxcala",1993,27,"Age-standardized",1,"Male",0.5573343291
+1212,"alc_drinker_prop",4671,"Tlaxcala",1993,27,"Age-standardized",2,"Female",0.3455210459
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",1,"Male",0.5163312469
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",2,"Female",0.3073836582
+1212,"alc_drinker_prop",4673,"Yucatán",1993,27,"Age-standardized",1,"Male",0.5045920062
+1212,"alc_drinker_prop",4673,"Yucatán",1993,27,"Age-standardized",2,"Female",0.3553308801
+1212,"alc_drinker_prop",4674,"Zacatecas",1993,27,"Age-standardized",1,"Male",0.5727483112
+1212,"alc_drinker_prop",4674,"Zacatecas",1993,27,"Age-standardized",2,"Female",0.2849919661
+1212,"alc_drinker_prop",130,"Mexico",1994,27,"Age-standardized",1,"Male",0.5623335062
+1212,"alc_drinker_prop",130,"Mexico",1994,27,"Age-standardized",2,"Female",0.3370879573
+1212,"alc_drinker_prop",4643,"Aguascalientes",1994,27,"Age-standardized",1,"Male",0.585947258
+1212,"alc_drinker_prop",4643,"Aguascalientes",1994,27,"Age-standardized",2,"Female",0.3502590722
+1212,"alc_drinker_prop",4644,"Baja California",1994,27,"Age-standardized",1,"Male",0.5017857813
+1212,"alc_drinker_prop",4644,"Baja California",1994,27,"Age-standardized",2,"Female",0.3307512102
+1212,"alc_drinker_prop",4645,"Baja California Sur",1994,27,"Age-standardized",1,"Male",0.5784837122
+1212,"alc_drinker_prop",4645,"Baja California Sur",1994,27,"Age-standardized",2,"Female",0.3381173113
+1212,"alc_drinker_prop",4646,"Campeche",1994,27,"Age-standardized",1,"Male",0.540532174
+1212,"alc_drinker_prop",4646,"Campeche",1994,27,"Age-standardized",2,"Female",0.2963958415
+1212,"alc_drinker_prop",4647,"Coahuila",1994,27,"Age-standardized",1,"Male",0.4863882233
+1212,"alc_drinker_prop",4647,"Coahuila",1994,27,"Age-standardized",2,"Female",0.251171382
+1212,"alc_drinker_prop",4648,"Colima",1994,27,"Age-standardized",1,"Male",0.5750961371
+1212,"alc_drinker_prop",4648,"Colima",1994,27,"Age-standardized",2,"Female",0.3900258949
+1212,"alc_drinker_prop",4649,"Chiapas",1994,27,"Age-standardized",1,"Male",0.3915826739
+1212,"alc_drinker_prop",4649,"Chiapas",1994,27,"Age-standardized",2,"Female",0.2801995922
+1212,"alc_drinker_prop",4650,"Chihuahua",1994,27,"Age-standardized",1,"Male",0.5653737624
+1212,"alc_drinker_prop",4650,"Chihuahua",1994,27,"Age-standardized",2,"Female",0.3356593012
+1212,"alc_drinker_prop",4651,"Mexico City",1994,27,"Age-standardized",1,"Male",0.6298378853
+1212,"alc_drinker_prop",4651,"Mexico City",1994,27,"Age-standardized",2,"Female",0.4475052473
+1212,"alc_drinker_prop",4652,"Durango",1994,27,"Age-standardized",1,"Male",0.5813364621
+1212,"alc_drinker_prop",4652,"Durango",1994,27,"Age-standardized",2,"Female",0.2710611402
+1212,"alc_drinker_prop",4653,"Guanajuato",1994,27,"Age-standardized",1,"Male",0.5027516504
+1212,"alc_drinker_prop",4653,"Guanajuato",1994,27,"Age-standardized",2,"Female",0.3079723157
+1212,"alc_drinker_prop",4654,"Guerrero",1994,27,"Age-standardized",1,"Male",0.5028223438
+1212,"alc_drinker_prop",4654,"Guerrero",1994,27,"Age-standardized",2,"Female",0.3073160279
+1212,"alc_drinker_prop",4655,"Hidalgo",1994,27,"Age-standardized",1,"Male",0.5869476202
+1212,"alc_drinker_prop",4655,"Hidalgo",1994,27,"Age-standardized",2,"Female",0.3407485683
+1212,"alc_drinker_prop",4656,"Jalisco",1994,27,"Age-standardized",1,"Male",0.6264581864
+1212,"alc_drinker_prop",4656,"Jalisco",1994,27,"Age-standardized",2,"Female",0.4010816756
+1212,"alc_drinker_prop",4657,"México",1994,27,"Age-standardized",1,"Male",0.6254616488
+1212,"alc_drinker_prop",4657,"México",1994,27,"Age-standardized",2,"Female",0.3649188413
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",1,"Male",0.5650658134
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",2,"Female",0.3616617983
+1212,"alc_drinker_prop",4659,"Morelos",1994,27,"Age-standardized",1,"Male",0.586952994
+1212,"alc_drinker_prop",4659,"Morelos",1994,27,"Age-standardized",2,"Female",0.3610329872
+1212,"alc_drinker_prop",4660,"Nayarit",1994,27,"Age-standardized",1,"Male",0.6125833321
+1212,"alc_drinker_prop",4660,"Nayarit",1994,27,"Age-standardized",2,"Female",0.3850098362
+1212,"alc_drinker_prop",4661,"Nuevo León",1994,27,"Age-standardized",1,"Male",0.5906352133
+1212,"alc_drinker_prop",4661,"Nuevo León",1994,27,"Age-standardized",2,"Female",0.2836259856
+1212,"alc_drinker_prop",4662,"Oaxaca",1994,27,"Age-standardized",1,"Male",0.5303413219
+1212,"alc_drinker_prop",4662,"Oaxaca",1994,27,"Age-standardized",2,"Female",0.2982609832
+1212,"alc_drinker_prop",4663,"Puebla",1994,27,"Age-standardized",1,"Male",0.6014829633
+1212,"alc_drinker_prop",4663,"Puebla",1994,27,"Age-standardized",2,"Female",0.3588543334
+1212,"alc_drinker_prop",4664,"Querétaro",1994,27,"Age-standardized",1,"Male",0.5824113965
+1212,"alc_drinker_prop",4664,"Querétaro",1994,27,"Age-standardized",2,"Female",0.3514221294
+1212,"alc_drinker_prop",4665,"Quintana Roo",1994,27,"Age-standardized",1,"Male",0.6120864823
+1212,"alc_drinker_prop",4665,"Quintana Roo",1994,27,"Age-standardized",2,"Female",0.3999509199
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1994,27,"Age-standardized",1,"Male",0.5232223756
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1994,27,"Age-standardized",2,"Female",0.2705552956
+1212,"alc_drinker_prop",4667,"Sinaloa",1994,27,"Age-standardized",1,"Male",0.5407278328
+1212,"alc_drinker_prop",4667,"Sinaloa",1994,27,"Age-standardized",2,"Female",0.2814473547
+1212,"alc_drinker_prop",4668,"Sonora",1994,27,"Age-standardized",1,"Male",0.6067516447
+1212,"alc_drinker_prop",4668,"Sonora",1994,27,"Age-standardized",2,"Female",0.2923795332
+1212,"alc_drinker_prop",4669,"Tabasco",1994,27,"Age-standardized",1,"Male",0.4951074518
+1212,"alc_drinker_prop",4669,"Tabasco",1994,27,"Age-standardized",2,"Female",0.2822737285
+1212,"alc_drinker_prop",4670,"Tamaulipas",1994,27,"Age-standardized",1,"Male",0.553505983
+1212,"alc_drinker_prop",4670,"Tamaulipas",1994,27,"Age-standardized",2,"Female",0.2772887487
+1212,"alc_drinker_prop",4671,"Tlaxcala",1994,27,"Age-standardized",1,"Male",0.5574062369
+1212,"alc_drinker_prop",4671,"Tlaxcala",1994,27,"Age-standardized",2,"Female",0.3456463443
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",1,"Male",0.5172691442
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",2,"Female",0.3059690353
+1212,"alc_drinker_prop",4673,"Yucatán",1994,27,"Age-standardized",1,"Male",0.50528333
+1212,"alc_drinker_prop",4673,"Yucatán",1994,27,"Age-standardized",2,"Female",0.3578419428
+1212,"alc_drinker_prop",4674,"Zacatecas",1994,27,"Age-standardized",1,"Male",0.5727584497
+1212,"alc_drinker_prop",4674,"Zacatecas",1994,27,"Age-standardized",2,"Female",0.2848610955
+1212,"alc_drinker_prop",130,"Mexico",1995,27,"Age-standardized",1,"Male",0.5631032126
+1212,"alc_drinker_prop",130,"Mexico",1995,27,"Age-standardized",2,"Female",0.3372624367
+1212,"alc_drinker_prop",4643,"Aguascalientes",1995,27,"Age-standardized",1,"Male",0.5860159925
+1212,"alc_drinker_prop",4643,"Aguascalientes",1995,27,"Age-standardized",2,"Female",0.3501391294
+1212,"alc_drinker_prop",4644,"Baja California",1995,27,"Age-standardized",1,"Male",0.5033140508
+1212,"alc_drinker_prop",4644,"Baja California",1995,27,"Age-standardized",2,"Female",0.3309605675
+1212,"alc_drinker_prop",4645,"Baja California Sur",1995,27,"Age-standardized",1,"Male",0.5790874082
+1212,"alc_drinker_prop",4645,"Baja California Sur",1995,27,"Age-standardized",2,"Female",0.3376065601
+1212,"alc_drinker_prop",4646,"Campeche",1995,27,"Age-standardized",1,"Male",0.5405040806
+1212,"alc_drinker_prop",4646,"Campeche",1995,27,"Age-standardized",2,"Female",0.2960513933
+1212,"alc_drinker_prop",4647,"Coahuila",1995,27,"Age-standardized",1,"Male",0.4876260246
+1212,"alc_drinker_prop",4647,"Coahuila",1995,27,"Age-standardized",2,"Female",0.2481977779
+1212,"alc_drinker_prop",4648,"Colima",1995,27,"Age-standardized",1,"Male",0.5750864349
+1212,"alc_drinker_prop",4648,"Colima",1995,27,"Age-standardized",2,"Female",0.3900222682
+1212,"alc_drinker_prop",4649,"Chiapas",1995,27,"Age-standardized",1,"Male",0.3939850851
+1212,"alc_drinker_prop",4649,"Chiapas",1995,27,"Age-standardized",2,"Female",0.2804003674
+1212,"alc_drinker_prop",4650,"Chihuahua",1995,27,"Age-standardized",1,"Male",0.5663398798
+1212,"alc_drinker_prop",4650,"Chihuahua",1995,27,"Age-standardized",2,"Female",0.3351128188
+1212,"alc_drinker_prop",4651,"Mexico City",1995,27,"Age-standardized",1,"Male",0.6308298321
+1212,"alc_drinker_prop",4651,"Mexico City",1995,27,"Age-standardized",2,"Female",0.4496384109
+1212,"alc_drinker_prop",4652,"Durango",1995,27,"Age-standardized",1,"Male",0.5820130243
+1212,"alc_drinker_prop",4652,"Durango",1995,27,"Age-standardized",2,"Female",0.270582152
+1212,"alc_drinker_prop",4653,"Guanajuato",1995,27,"Age-standardized",1,"Male",0.504101903
+1212,"alc_drinker_prop",4653,"Guanajuato",1995,27,"Age-standardized",2,"Female",0.3126801348
+1212,"alc_drinker_prop",4654,"Guerrero",1995,27,"Age-standardized",1,"Male",0.5027404117
+1212,"alc_drinker_prop",4654,"Guerrero",1995,27,"Age-standardized",2,"Female",0.3069260667
+1212,"alc_drinker_prop",4655,"Hidalgo",1995,27,"Age-standardized",1,"Male",0.588150774
+1212,"alc_drinker_prop",4655,"Hidalgo",1995,27,"Age-standardized",2,"Female",0.3408173249
+1212,"alc_drinker_prop",4656,"Jalisco",1995,27,"Age-standardized",1,"Male",0.6273092844
+1212,"alc_drinker_prop",4656,"Jalisco",1995,27,"Age-standardized",2,"Female",0.4022475761
+1212,"alc_drinker_prop",4657,"México",1995,27,"Age-standardized",1,"Male",0.6264396668
+1212,"alc_drinker_prop",4657,"México",1995,27,"Age-standardized",2,"Female",0.3630970054
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",1,"Male",0.5662210902
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",2,"Female",0.3661074145
+1212,"alc_drinker_prop",4659,"Morelos",1995,27,"Age-standardized",1,"Male",0.5879866282
+1212,"alc_drinker_prop",4659,"Morelos",1995,27,"Age-standardized",2,"Female",0.3605528035
+1212,"alc_drinker_prop",4660,"Nayarit",1995,27,"Age-standardized",1,"Male",0.6125992598
+1212,"alc_drinker_prop",4660,"Nayarit",1995,27,"Age-standardized",2,"Female",0.3851864671
+1212,"alc_drinker_prop",4661,"Nuevo León",1995,27,"Age-standardized",1,"Male",0.5910027942
+1212,"alc_drinker_prop",4661,"Nuevo León",1995,27,"Age-standardized",2,"Female",0.2821576606
+1212,"alc_drinker_prop",4662,"Oaxaca",1995,27,"Age-standardized",1,"Male",0.5303200337
+1212,"alc_drinker_prop",4662,"Oaxaca",1995,27,"Age-standardized",2,"Female",0.2973983265
+1212,"alc_drinker_prop",4663,"Puebla",1995,27,"Age-standardized",1,"Male",0.6024609614
+1212,"alc_drinker_prop",4663,"Puebla",1995,27,"Age-standardized",2,"Female",0.3604479158
+1212,"alc_drinker_prop",4664,"Querétaro",1995,27,"Age-standardized",1,"Male",0.5825274087
+1212,"alc_drinker_prop",4664,"Querétaro",1995,27,"Age-standardized",2,"Female",0.3516061905
+1212,"alc_drinker_prop",4665,"Quintana Roo",1995,27,"Age-standardized",1,"Male",0.6120784436
+1212,"alc_drinker_prop",4665,"Quintana Roo",1995,27,"Age-standardized",2,"Female",0.4002199215
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1995,27,"Age-standardized",1,"Male",0.5244652851
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1995,27,"Age-standardized",2,"Female",0.2702824496
+1212,"alc_drinker_prop",4667,"Sinaloa",1995,27,"Age-standardized",1,"Male",0.5416775184
+1212,"alc_drinker_prop",4667,"Sinaloa",1995,27,"Age-standardized",2,"Female",0.285192799
+1212,"alc_drinker_prop",4668,"Sonora",1995,27,"Age-standardized",1,"Male",0.6074465691
+1212,"alc_drinker_prop",4668,"Sonora",1995,27,"Age-standardized",2,"Female",0.2905421915
+1212,"alc_drinker_prop",4669,"Tabasco",1995,27,"Age-standardized",1,"Male",0.4960734987
+1212,"alc_drinker_prop",4669,"Tabasco",1995,27,"Age-standardized",2,"Female",0.2827715936
+1212,"alc_drinker_prop",4670,"Tamaulipas",1995,27,"Age-standardized",1,"Male",0.554597636
+1212,"alc_drinker_prop",4670,"Tamaulipas",1995,27,"Age-standardized",2,"Female",0.2740860638
+1212,"alc_drinker_prop",4671,"Tlaxcala",1995,27,"Age-standardized",1,"Male",0.5574781173
+1212,"alc_drinker_prop",4671,"Tlaxcala",1995,27,"Age-standardized",2,"Female",0.3457719401
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",1,"Male",0.5182069724
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",2,"Female",0.304561122
+1212,"alc_drinker_prop",4673,"Yucatán",1995,27,"Age-standardized",1,"Male",0.5059746546
+1212,"alc_drinker_prop",4673,"Yucatán",1995,27,"Age-standardized",2,"Female",0.360361836
+1212,"alc_drinker_prop",4674,"Zacatecas",1995,27,"Age-standardized",1,"Male",0.5727685695
+1212,"alc_drinker_prop",4674,"Zacatecas",1995,27,"Age-standardized",2,"Female",0.2847304622
+1212,"alc_drinker_prop",130,"Mexico",1996,27,"Age-standardized",1,"Male",0.5626970505
+1212,"alc_drinker_prop",130,"Mexico",1996,27,"Age-standardized",2,"Female",0.3280712636
+1212,"alc_drinker_prop",4643,"Aguascalientes",1996,27,"Age-standardized",1,"Male",0.5840756542
+1212,"alc_drinker_prop",4643,"Aguascalientes",1996,27,"Age-standardized",2,"Female",0.3421018388
+1212,"alc_drinker_prop",4644,"Baja California",1996,27,"Age-standardized",1,"Male",0.5061868429
+1212,"alc_drinker_prop",4644,"Baja California",1996,27,"Age-standardized",2,"Female",0.3253258958
+1212,"alc_drinker_prop",4645,"Baja California Sur",1996,27,"Age-standardized",1,"Male",0.5809792097
+1212,"alc_drinker_prop",4645,"Baja California Sur",1996,27,"Age-standardized",2,"Female",0.3318315013
+1212,"alc_drinker_prop",4646,"Campeche",1996,27,"Age-standardized",1,"Male",0.5385302523
+1212,"alc_drinker_prop",4646,"Campeche",1996,27,"Age-standardized",2,"Female",0.2853038088
+1212,"alc_drinker_prop",4647,"Coahuila",1996,27,"Age-standardized",1,"Male",0.4898894749
+1212,"alc_drinker_prop",4647,"Coahuila",1996,27,"Age-standardized",2,"Female",0.2394331316
+1212,"alc_drinker_prop",4648,"Colima",1996,27,"Age-standardized",1,"Male",0.5778839858
+1212,"alc_drinker_prop",4648,"Colima",1996,27,"Age-standardized",2,"Female",0.3850068042
+1212,"alc_drinker_prop",4649,"Chiapas",1996,27,"Age-standardized",1,"Male",0.3917732949
+1212,"alc_drinker_prop",4649,"Chiapas",1996,27,"Age-standardized",2,"Female",0.2645366389
+1212,"alc_drinker_prop",4650,"Chihuahua",1996,27,"Age-standardized",1,"Male",0.5660085947
+1212,"alc_drinker_prop",4650,"Chihuahua",1996,27,"Age-standardized",2,"Female",0.3269534885
+1212,"alc_drinker_prop",4651,"Mexico City",1996,27,"Age-standardized",1,"Male",0.6300345772
+1212,"alc_drinker_prop",4651,"Mexico City",1996,27,"Age-standardized",2,"Female",0.4455662251
+1212,"alc_drinker_prop",4652,"Durango",1996,27,"Age-standardized",1,"Male",0.5815814553
+1212,"alc_drinker_prop",4652,"Durango",1996,27,"Age-standardized",2,"Female",0.2592224173
+1212,"alc_drinker_prop",4653,"Guanajuato",1996,27,"Age-standardized",1,"Male",0.5035610337
+1212,"alc_drinker_prop",4653,"Guanajuato",1996,27,"Age-standardized",2,"Female",0.2941007708
+1212,"alc_drinker_prop",4654,"Guerrero",1996,27,"Age-standardized",1,"Male",0.5001241016
+1212,"alc_drinker_prop",4654,"Guerrero",1996,27,"Age-standardized",2,"Female",0.2951986388
+1212,"alc_drinker_prop",4655,"Hidalgo",1996,27,"Age-standardized",1,"Male",0.5883286749
+1212,"alc_drinker_prop",4655,"Hidalgo",1996,27,"Age-standardized",2,"Female",0.3313924784
+1212,"alc_drinker_prop",4656,"Jalisco",1996,27,"Age-standardized",1,"Male",0.6273073541
+1212,"alc_drinker_prop",4656,"Jalisco",1996,27,"Age-standardized",2,"Female",0.3976520246
+1212,"alc_drinker_prop",4657,"México",1996,27,"Age-standardized",1,"Male",0.6267882343
+1212,"alc_drinker_prop",4657,"México",1996,27,"Age-standardized",2,"Female",0.3576765447
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",1,"Male",0.5655513659
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",2,"Female",0.3509298186
+1212,"alc_drinker_prop",4659,"Morelos",1996,27,"Age-standardized",1,"Male",0.5858404324
+1212,"alc_drinker_prop",4659,"Morelos",1996,27,"Age-standardized",2,"Female",0.3525450603
+1212,"alc_drinker_prop",4660,"Nayarit",1996,27,"Age-standardized",1,"Male",0.6129093046
+1212,"alc_drinker_prop",4660,"Nayarit",1996,27,"Age-standardized",2,"Female",0.3806496509
+1212,"alc_drinker_prop",4661,"Nuevo León",1996,27,"Age-standardized",1,"Male",0.5919182525
+1212,"alc_drinker_prop",4661,"Nuevo León",1996,27,"Age-standardized",2,"Female",0.2785174331
+1212,"alc_drinker_prop",4662,"Oaxaca",1996,27,"Age-standardized",1,"Male",0.528660183
+1212,"alc_drinker_prop",4662,"Oaxaca",1996,27,"Age-standardized",2,"Female",0.2793780688
+1212,"alc_drinker_prop",4663,"Puebla",1996,27,"Age-standardized",1,"Male",0.6022482781
+1212,"alc_drinker_prop",4663,"Puebla",1996,27,"Age-standardized",2,"Female",0.3489134563
+1212,"alc_drinker_prop",4664,"Querétaro",1996,27,"Age-standardized",1,"Male",0.5814610539
+1212,"alc_drinker_prop",4664,"Querétaro",1996,27,"Age-standardized",2,"Female",0.3384699682
+1212,"alc_drinker_prop",4665,"Quintana Roo",1996,27,"Age-standardized",1,"Male",0.6125151466
+1212,"alc_drinker_prop",4665,"Quintana Roo",1996,27,"Age-standardized",2,"Female",0.393486781
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1996,27,"Age-standardized",1,"Male",0.5244143787
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1996,27,"Age-standardized",2,"Female",0.2568749061
+1212,"alc_drinker_prop",4667,"Sinaloa",1996,27,"Age-standardized",1,"Male",0.5422090929
+1212,"alc_drinker_prop",4667,"Sinaloa",1996,27,"Age-standardized",2,"Female",0.272346003
+1212,"alc_drinker_prop",4668,"Sonora",1996,27,"Age-standardized",1,"Male",0.608532394
+1212,"alc_drinker_prop",4668,"Sonora",1996,27,"Age-standardized",2,"Female",0.2840524604
+1212,"alc_drinker_prop",4669,"Tabasco",1996,27,"Age-standardized",1,"Male",0.4939866502
+1212,"alc_drinker_prop",4669,"Tabasco",1996,27,"Age-standardized",2,"Female",0.2708889887
+1212,"alc_drinker_prop",4670,"Tamaulipas",1996,27,"Age-standardized",1,"Male",0.5528592664
+1212,"alc_drinker_prop",4670,"Tamaulipas",1996,27,"Age-standardized",2,"Female",0.2672564159
+1212,"alc_drinker_prop",4671,"Tlaxcala",1996,27,"Age-standardized",1,"Male",0.5562569955
+1212,"alc_drinker_prop",4671,"Tlaxcala",1996,27,"Age-standardized",2,"Female",0.334667667
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",1,"Male",0.5168936898
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",2,"Female",0.2941434233
+1212,"alc_drinker_prop",4673,"Yucatán",1996,27,"Age-standardized",1,"Male",0.5067170509
+1212,"alc_drinker_prop",4673,"Yucatán",1996,27,"Age-standardized",2,"Female",0.353474703
+1212,"alc_drinker_prop",4674,"Zacatecas",1996,27,"Age-standardized",1,"Male",0.5717377056
+1212,"alc_drinker_prop",4674,"Zacatecas",1996,27,"Age-standardized",2,"Female",0.270984911
+1212,"alc_drinker_prop",130,"Mexico",1997,27,"Age-standardized",1,"Male",0.5622902077
+1212,"alc_drinker_prop",130,"Mexico",1997,27,"Age-standardized",2,"Female",0.3190080976
+1212,"alc_drinker_prop",4643,"Aguascalientes",1997,27,"Age-standardized",1,"Male",0.5821320302
+1212,"alc_drinker_prop",4643,"Aguascalientes",1997,27,"Age-standardized",2,"Female",0.3341533031
+1212,"alc_drinker_prop",4644,"Baja California",1997,27,"Age-standardized",1,"Male",0.509059975
+1212,"alc_drinker_prop",4644,"Baja California",1997,27,"Age-standardized",2,"Female",0.3197437218
+1212,"alc_drinker_prop",4645,"Baja California Sur",1997,27,"Age-standardized",1,"Male",0.5828679917
+1212,"alc_drinker_prop",4645,"Baja California Sur",1997,27,"Age-standardized",2,"Female",0.3261068968
+1212,"alc_drinker_prop",4646,"Campeche",1997,27,"Age-standardized",1,"Male",0.5365537828
+1212,"alc_drinker_prop",4646,"Campeche",1997,27,"Age-standardized",2,"Female",0.2747911662
+1212,"alc_drinker_prop",4647,"Coahuila",1997,27,"Age-standardized",1,"Male",0.492154028
+1212,"alc_drinker_prop",4647,"Coahuila",1997,27,"Age-standardized",2,"Female",0.230882955
+1212,"alc_drinker_prop",4648,"Colima",1997,27,"Age-standardized",1,"Male",0.580676642
+1212,"alc_drinker_prop",4648,"Colima",1997,27,"Age-standardized",2,"Female",0.3800182303
+1212,"alc_drinker_prop",4649,"Chiapas",1997,27,"Age-standardized",1,"Male",0.389567143
+1212,"alc_drinker_prop",4649,"Chiapas",1997,27,"Age-standardized",2,"Female",0.2492527783
+1212,"alc_drinker_prop",4650,"Chihuahua",1997,27,"Age-standardized",1,"Male",0.5656766522
+1212,"alc_drinker_prop",4650,"Chihuahua",1997,27,"Age-standardized",2,"Female",0.3188956913
+1212,"alc_drinker_prop",4651,"Mexico City",1997,27,"Age-standardized",1,"Male",0.6292379853
+1212,"alc_drinker_prop",4651,"Mexico City",1997,27,"Age-standardized",2,"Female",0.4415005861
+1212,"alc_drinker_prop",4652,"Durango",1997,27,"Age-standardized",1,"Male",0.5811491938
+1212,"alc_drinker_prop",4652,"Durango",1997,27,"Age-standardized",2,"Female",0.2481744691
+1212,"alc_drinker_prop",4653,"Guanajuato",1997,27,"Age-standardized",1,"Male",0.5030200291
+1212,"alc_drinker_prop",4653,"Guanajuato",1997,27,"Age-standardized",2,"Female",0.2761709401
+1212,"alc_drinker_prop",4654,"Guerrero",1997,27,"Age-standardized",1,"Male",0.4975070735
+1212,"alc_drinker_prop",4654,"Guerrero",1997,27,"Age-standardized",2,"Female",0.2837324307
+1212,"alc_drinker_prop",4655,"Hidalgo",1997,27,"Age-standardized",1,"Male",0.5885058607
+1212,"alc_drinker_prop",4655,"Hidalgo",1997,27,"Age-standardized",2,"Female",0.3220982815
+1212,"alc_drinker_prop",4656,"Jalisco",1997,27,"Age-standardized",1,"Male",0.6273051914
+1212,"alc_drinker_prop",4656,"Jalisco",1997,27,"Age-standardized",2,"Female",0.3930739475
+1212,"alc_drinker_prop",4657,"México",1997,27,"Age-standardized",1,"Male",0.6271352418
+1212,"alc_drinker_prop",4657,"México",1997,27,"Age-standardized",2,"Female",0.3522921835
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",1,"Male",0.5648808551
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",2,"Female",0.336041241
+1212,"alc_drinker_prop",4659,"Morelos",1997,27,"Age-standardized",1,"Male",0.5836904433
+1212,"alc_drinker_prop",4659,"Morelos",1997,27,"Age-standardized",2,"Female",0.3446171516
+1212,"alc_drinker_prop",4660,"Nayarit",1997,27,"Age-standardized",1,"Male",0.6132187773
+1212,"alc_drinker_prop",4660,"Nayarit",1997,27,"Age-standardized",2,"Female",0.3761339011
+1212,"alc_drinker_prop",4661,"Nuevo León",1997,27,"Age-standardized",1,"Male",0.5928325915
+1212,"alc_drinker_prop",4661,"Nuevo León",1997,27,"Age-standardized",2,"Female",0.2749091265
+1212,"alc_drinker_prop",4662,"Oaxaca",1997,27,"Age-standardized",1,"Male",0.5269986255
+1212,"alc_drinker_prop",4662,"Oaxaca",1997,27,"Age-standardized",2,"Female",0.2620310031
+1212,"alc_drinker_prop",4663,"Puebla",1997,27,"Age-standardized",1,"Male",0.6020349071
+1212,"alc_drinker_prop",4663,"Puebla",1997,27,"Age-standardized",2,"Female",0.3375493457
+1212,"alc_drinker_prop",4664,"Querétaro",1997,27,"Age-standardized",1,"Male",0.5803927006
+1212,"alc_drinker_prop",4664,"Querétaro",1997,27,"Age-standardized",2,"Female",0.3255730362
+1212,"alc_drinker_prop",4665,"Quintana Roo",1997,27,"Age-standardized",1,"Male",0.6129501198
+1212,"alc_drinker_prop",4665,"Quintana Roo",1997,27,"Age-standardized",2,"Female",0.3867933366
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1997,27,"Age-standardized",1,"Male",0.5243632392
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1997,27,"Age-standardized",2,"Female",0.2439056808
+1212,"alc_drinker_prop",4667,"Sinaloa",1997,27,"Age-standardized",1,"Male",0.5427404224
+1212,"alc_drinker_prop",4667,"Sinaloa",1997,27,"Age-standardized",2,"Female",0.2598640061
+1212,"alc_drinker_prop",4668,"Sonora",1997,27,"Age-standardized",1,"Male",0.6096164767
+1212,"alc_drinker_prop",4668,"Sonora",1997,27,"Age-standardized",2,"Female",0.2776529976
+1212,"alc_drinker_prop",4669,"Tabasco",1997,27,"Age-standardized",1,"Male",0.4918994194
+1212,"alc_drinker_prop",4669,"Tabasco",1997,27,"Age-standardized",2,"Female",0.2593218507
+1212,"alc_drinker_prop",4670,"Tamaulipas",1997,27,"Age-standardized",1,"Male",0.5511190422
+1212,"alc_drinker_prop",4670,"Tamaulipas",1997,27,"Age-standardized",2,"Female",0.2605383407
+1212,"alc_drinker_prop",4671,"Tlaxcala",1997,27,"Age-standardized",1,"Male",0.5550343639
+1212,"alc_drinker_prop",4671,"Tlaxcala",1997,27,"Age-standardized",2,"Female",0.3237382386
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",1,"Male",0.5155794536
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",2,"Female",0.2839335887
+1212,"alc_drinker_prop",4673,"Yucatán",1997,27,"Age-standardized",1,"Male",0.5074596
+1212,"alc_drinker_prop",4673,"Yucatán",1997,27,"Age-standardized",2,"Female",0.3466472109
+1212,"alc_drinker_prop",4674,"Zacatecas",1997,27,"Age-standardized",1,"Male",0.570704878
+1212,"alc_drinker_prop",4674,"Zacatecas",1997,27,"Age-standardized",2,"Female",0.2576585596
+1212,"alc_drinker_prop",130,"Mexico",1998,27,"Age-standardized",1,"Male",0.5618826883
+1212,"alc_drinker_prop",130,"Mexico",1998,27,"Age-standardized",2,"Female",0.3100784377
+1212,"alc_drinker_prop",4643,"Aguascalientes",1998,27,"Age-standardized",1,"Male",0.5801851954
+1212,"alc_drinker_prop",4643,"Aguascalientes",1998,27,"Age-standardized",2,"Female",0.3262980474
+1212,"alc_drinker_prop",4644,"Baja California",1998,27,"Age-standardized",1,"Male",0.5119331707
+1212,"alc_drinker_prop",4644,"Baja California",1998,27,"Age-standardized",2,"Female",0.3142158042
+1212,"alc_drinker_prop",4645,"Baja California Sur",1998,27,"Age-standardized",1,"Male",0.5847536194
+1212,"alc_drinker_prop",4645,"Baja California Sur",1998,27,"Age-standardized",2,"Female",0.3204343395
+1212,"alc_drinker_prop",4646,"Campeche",1998,27,"Age-standardized",1,"Male",0.5345748284
+1212,"alc_drinker_prop",4646,"Campeche",1998,27,"Age-standardized",2,"Female",0.2645211004
+1212,"alc_drinker_prop",4647,"Coahuila",1998,27,"Age-standardized",1,"Male",0.4944195254
+1212,"alc_drinker_prop",4647,"Coahuila",1998,27,"Age-standardized",2,"Female",0.2225496877
+1212,"alc_drinker_prop",4648,"Colima",1998,27,"Age-standardized",1,"Male",0.5834641653
+1212,"alc_drinker_prop",4648,"Colima",1998,27,"Age-standardized",2,"Female",0.3750584528
+1212,"alc_drinker_prop",4649,"Chiapas",1998,27,"Age-standardized",1,"Male",0.3873668526
+1212,"alc_drinker_prop",4649,"Chiapas",1998,27,"Age-standardized",2,"Female",0.234564857
+1212,"alc_drinker_prop",4650,"Chihuahua",1998,27,"Age-standardized",1,"Male",0.5653440577
+1212,"alc_drinker_prop",4650,"Chihuahua",1998,27,"Age-standardized",2,"Female",0.3109431977
+1212,"alc_drinker_prop",4651,"Mexico City",1998,27,"Age-standardized",1,"Male",0.6284400703
+1212,"alc_drinker_prop",4651,"Mexico City",1998,27,"Age-standardized",2,"Female",0.4374421663
+1212,"alc_drinker_prop",4652,"Durango",1998,27,"Age-standardized",1,"Male",0.5807162424
+1212,"alc_drinker_prop",4652,"Durango",1998,27,"Age-standardized",2,"Female",0.2374443316
+1212,"alc_drinker_prop",4653,"Guanajuato",1998,27,"Age-standardized",1,"Male",0.5024789022
+1212,"alc_drinker_prop",4653,"Guanajuato",1998,27,"Age-standardized",2,"Female",0.258925059
+1212,"alc_drinker_prop",4654,"Guerrero",1998,27,"Age-standardized",1,"Male",0.4948895587
+1212,"alc_drinker_prop",4654,"Guerrero",1998,27,"Age-standardized",2,"Female",0.2725377885
+1212,"alc_drinker_prop",4655,"Hidalgo",1998,27,"Age-standardized",1,"Male",0.5886823208
+1212,"alc_drinker_prop",4655,"Hidalgo",1998,27,"Age-standardized",2,"Female",0.3129405718
+1212,"alc_drinker_prop",4656,"Jalisco",1998,27,"Age-standardized",1,"Male",0.6273027973
+1212,"alc_drinker_prop",4656,"Jalisco",1998,27,"Age-standardized",2,"Female",0.3885142425
+1212,"alc_drinker_prop",4657,"México",1998,27,"Age-standardized",1,"Male",0.627480666
+1212,"alc_drinker_prop",4657,"México",1998,27,"Age-standardized",2,"Female",0.3469454673
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",1,"Male",0.5642095734
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",2,"Female",0.3214658467
+1212,"alc_drinker_prop",4659,"Morelos",1998,27,"Age-standardized",1,"Male",0.5815367482
+1212,"alc_drinker_prop",4659,"Morelos",1998,27,"Age-standardized",2,"Female",0.3367730415
+1212,"alc_drinker_prop",4660,"Nayarit",1998,27,"Age-standardized",1,"Male",0.6135276723
+1212,"alc_drinker_prop",4660,"Nayarit",1998,27,"Age-standardized",2,"Female",0.3716402974
+1212,"alc_drinker_prop",4661,"Nuevo León",1998,27,"Age-standardized",1,"Male",0.5937457844
+1212,"alc_drinker_prop",4661,"Nuevo León",1998,27,"Age-standardized",2,"Female",0.2713332059
+1212,"alc_drinker_prop",4662,"Oaxaca",1998,27,"Age-standardized",1,"Male",0.5253354659
+1212,"alc_drinker_prop",4662,"Oaxaca",1998,27,"Age-standardized",2,"Female",0.2453848569
+1212,"alc_drinker_prop",4663,"Puebla",1998,27,"Age-standardized",1,"Male",0.6018208499
+1212,"alc_drinker_prop",4663,"Puebla",1998,27,"Age-standardized",2,"Female",0.3263664422
+1212,"alc_drinker_prop",4664,"Querétaro",1998,27,"Age-standardized",1,"Male",0.5793223833
+1212,"alc_drinker_prop",4664,"Querétaro",1998,27,"Age-standardized",2,"Female",0.3129309403
+1212,"alc_drinker_prop",4665,"Quintana Roo",1998,27,"Age-standardized",1,"Male",0.6133833397
+1212,"alc_drinker_prop",4665,"Quintana Roo",1998,27,"Age-standardized",2,"Female",0.3801427173
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1998,27,"Age-standardized",1,"Male",0.5243118668
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1998,27,"Age-standardized",2,"Female",0.2313839297
+1212,"alc_drinker_prop",4667,"Sinaloa",1998,27,"Age-standardized",1,"Male",0.5432714904
+1212,"alc_drinker_prop",4667,"Sinaloa",1998,27,"Age-standardized",2,"Female",0.2477577172
+1212,"alc_drinker_prop",4668,"Sonora",1998,27,"Age-standardized",1,"Male",0.6106987809
+1212,"alc_drinker_prop",4668,"Sonora",1998,27,"Age-standardized",2,"Female",0.2713458398
+1212,"alc_drinker_prop",4669,"Tabasco",1998,27,"Age-standardized",1,"Male",0.4898119611
+1212,"alc_drinker_prop",4669,"Tabasco",1998,27,"Age-standardized",2,"Female",0.248078049
+1212,"alc_drinker_prop",4670,"Tamaulipas",1998,27,"Age-standardized",1,"Male",0.5493770292
+1212,"alc_drinker_prop",4670,"Tamaulipas",1998,27,"Age-standardized",2,"Female",0.2539339603
+1212,"alc_drinker_prop",4671,"Tlaxcala",1998,27,"Age-standardized",1,"Male",0.5538102653
+1212,"alc_drinker_prop",4671,"Tlaxcala",1998,27,"Age-standardized",2,"Female",0.3129941772
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",1,"Male",0.5142643391
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",2,"Female",0.273938152
+1212,"alc_drinker_prop",4673,"Yucatán",1998,27,"Age-standardized",1,"Male",0.5082022652
+1212,"alc_drinker_prop",4673,"Yucatán",1998,27,"Age-standardized",2,"Female",0.3398820417
+1212,"alc_drinker_prop",4674,"Zacatecas",1998,27,"Age-standardized",1,"Male",0.569670127
+1212,"alc_drinker_prop",4674,"Zacatecas",1998,27,"Age-standardized",2,"Female",0.2447645986
+1212,"alc_drinker_prop",130,"Mexico",1999,27,"Age-standardized",1,"Male",0.5614745019
+1212,"alc_drinker_prop",130,"Mexico",1999,27,"Age-standardized",2,"Female",0.3012873723
+1212,"alc_drinker_prop",4643,"Aguascalientes",1999,27,"Age-standardized",1,"Male",0.578235233
+1212,"alc_drinker_prop",4643,"Aguascalientes",1999,27,"Age-standardized",2,"Female",0.31854035
+1212,"alc_drinker_prop",4644,"Baja California",1999,27,"Age-standardized",1,"Male",0.51480615
+1212,"alc_drinker_prop",4644,"Baja California",1999,27,"Age-standardized",2,"Female",0.3087438087
+1212,"alc_drinker_prop",4645,"Baja California Sur",1999,27,"Age-standardized",1,"Male",0.5866359507
+1212,"alc_drinker_prop",4645,"Baja California Sur",1999,27,"Age-standardized",2,"Female",0.3148153617
+1212,"alc_drinker_prop",4646,"Campeche",1999,27,"Age-standardized",1,"Male",0.5325935524
+1212,"alc_drinker_prop",4646,"Campeche",1999,27,"Age-standardized",2,"Female",0.2545001526
+1212,"alc_drinker_prop",4647,"Coahuila",1999,27,"Age-standardized",1,"Male",0.4966858083
+1212,"alc_drinker_prop",4647,"Coahuila",1999,27,"Age-standardized",2,"Female",0.2144351041
+1212,"alc_drinker_prop",4648,"Colima",1999,27,"Age-standardized",1,"Male",0.5862463283
+1212,"alc_drinker_prop",4648,"Colima",1999,27,"Age-standardized",2,"Female",0.370129323
+1212,"alc_drinker_prop",4649,"Chiapas",1999,27,"Age-standardized",1,"Male",0.3851726488
+1212,"alc_drinker_prop",4649,"Chiapas",1999,27,"Age-standardized",2,"Female",0.2204839757
+1212,"alc_drinker_prop",4650,"Chihuahua",1999,27,"Age-standardized",1,"Male",0.5650108142
+1212,"alc_drinker_prop",4650,"Chihuahua",1999,27,"Age-standardized",2,"Female",0.3030995324
+1212,"alc_drinker_prop",4651,"Mexico City",1999,27,"Age-standardized",1,"Male",0.6276408419
+1212,"alc_drinker_prop",4651,"Mexico City",1999,27,"Age-standardized",2,"Female",0.4333916229
+1212,"alc_drinker_prop",4652,"Durango",1999,27,"Age-standardized",1,"Male",0.5802826056
+1212,"alc_drinker_prop",4652,"Durango",1999,27,"Age-standardized",2,"Female",0.2270365945
+1212,"alc_drinker_prop",4653,"Guanajuato",1999,27,"Age-standardized",1,"Male",0.5019376639
+1212,"alc_drinker_prop",4653,"Guanajuato",1999,27,"Age-standardized",2,"Female",0.2423897402
+1212,"alc_drinker_prop",4654,"Guerrero",1999,27,"Age-standardized",1,"Male",0.4922717865
+1212,"alc_drinker_prop",4654,"Guerrero",1999,27,"Age-standardized",2,"Female",0.2616236472
+1212,"alc_drinker_prop",4655,"Hidalgo",1999,27,"Age-standardized",1,"Male",0.5888580529
+1212,"alc_drinker_prop",4655,"Hidalgo",1999,27,"Age-standardized",2,"Female",0.3039247699
+1212,"alc_drinker_prop",4656,"Jalisco",1999,27,"Age-standardized",1,"Male",0.6273001721
+1212,"alc_drinker_prop",4656,"Jalisco",1999,27,"Age-standardized",2,"Female",0.3839737931
+1212,"alc_drinker_prop",4657,"México",1999,27,"Age-standardized",1,"Male",0.627824492
+1212,"alc_drinker_prop",4657,"México",1999,27,"Age-standardized",2,"Female",0.3416378867
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",1,"Male",0.5635375297
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",2,"Female",0.3072254411
+1212,"alc_drinker_prop",4659,"Morelos",1999,27,"Age-standardized",1,"Male",0.5793794469
+1212,"alc_drinker_prop",4659,"Morelos",1999,27,"Age-standardized",2,"Female",0.3290165133
+1212,"alc_drinker_prop",4660,"Nayarit",1999,27,"Age-standardized",1,"Male",0.6138359875
+1212,"alc_drinker_prop",4660,"Nayarit",1999,27,"Age-standardized",2,"Female",0.3671698944
+1212,"alc_drinker_prop",4661,"Nuevo León",1999,27,"Age-standardized",1,"Male",0.5946578088
+1212,"alc_drinker_prop",4661,"Nuevo León",1999,27,"Age-standardized",2,"Female",0.2677901051
+1212,"alc_drinker_prop",4662,"Oaxaca",1999,27,"Age-standardized",1,"Male",0.523670819
+1212,"alc_drinker_prop",4662,"Oaxaca",1999,27,"Age-standardized",2,"Female",0.2294598862
+1212,"alc_drinker_prop",4663,"Puebla",1999,27,"Age-standardized",1,"Male",0.6016061023
+1212,"alc_drinker_prop",4663,"Puebla",1999,27,"Age-standardized",2,"Female",0.3153747898
+1212,"alc_drinker_prop",4664,"Querétaro",1999,27,"Age-standardized",1,"Male",0.5782501414
+1212,"alc_drinker_prop",4664,"Querétaro",1999,27,"Age-standardized",2,"Female",0.3005577395
+1212,"alc_drinker_prop",4665,"Quintana Roo",1999,27,"Age-standardized",1,"Male",0.6138147815
+1212,"alc_drinker_prop",4665,"Quintana Roo",1999,27,"Age-standardized",2,"Female",0.3735379757
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1999,27,"Age-standardized",1,"Male",0.5242602534
+1212,"alc_drinker_prop",4666,"San Luis Potosí",1999,27,"Age-standardized",2,"Female",0.2193160471
+1212,"alc_drinker_prop",4667,"Sinaloa",1999,27,"Age-standardized",1,"Male",0.5438022832
+1212,"alc_drinker_prop",4667,"Sinaloa",1999,27,"Age-standardized",2,"Female",0.2360357603
+1212,"alc_drinker_prop",4668,"Sonora",1999,27,"Age-standardized",1,"Male",0.6117792597
+1212,"alc_drinker_prop",4668,"Sonora",1999,27,"Age-standardized",2,"Female",0.2651328352
+1212,"alc_drinker_prop",4669,"Tabasco",1999,27,"Age-standardized",1,"Male",0.487724435
+1212,"alc_drinker_prop",4669,"Tabasco",1999,27,"Age-standardized",2,"Female",0.2371638616
+1212,"alc_drinker_prop",4670,"Tamaulipas",1999,27,"Age-standardized",1,"Male",0.5476332923
+1212,"alc_drinker_prop",4670,"Tamaulipas",1999,27,"Age-standardized",2,"Female",0.2474451274
+1212,"alc_drinker_prop",4671,"Tlaxcala",1999,27,"Age-standardized",1,"Male",0.5525847419
+1212,"alc_drinker_prop",4671,"Tlaxcala",1999,27,"Age-standardized",2,"Female",0.3024451595
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",1,"Male",0.5129484234
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",2,"Female",0.2641628365
+1212,"alc_drinker_prop",4673,"Yucatán",1999,27,"Age-standardized",1,"Male",0.508945019
+1212,"alc_drinker_prop",4673,"Yucatán",1999,27,"Age-standardized",2,"Female",0.3331817657
+1212,"alc_drinker_prop",4674,"Zacatecas",1999,27,"Age-standardized",1,"Male",0.5686334945
+1212,"alc_drinker_prop",4674,"Zacatecas",1999,27,"Age-standardized",2,"Female",0.2323132166
+1212,"alc_drinker_prop",130,"Mexico",2000,27,"Age-standardized",1,"Male",0.5610656503
+1212,"alc_drinker_prop",130,"Mexico",2000,27,"Age-standardized",2,"Female",0.2926395748
+1212,"alc_drinker_prop",4643,"Aguascalientes",2000,27,"Age-standardized",1,"Male",0.5762822199
+1212,"alc_drinker_prop",4643,"Aguascalientes",2000,27,"Age-standardized",2,"Female",0.3108842132
+1212,"alc_drinker_prop",4644,"Baja California",2000,27,"Age-standardized",1,"Male",0.5176786356
+1212,"alc_drinker_prop",4644,"Baja California",2000,27,"Age-standardized",2,"Female",0.30332931
+1212,"alc_drinker_prop",4645,"Baja California Sur",2000,27,"Age-standardized",1,"Male",0.5885148423
+1212,"alc_drinker_prop",4645,"Baja California Sur",2000,27,"Age-standardized",2,"Female",0.3092514132
+1212,"alc_drinker_prop",4646,"Campeche",2000,27,"Age-standardized",1,"Male",0.5306101212
+1212,"alc_drinker_prop",4646,"Campeche",2000,27,"Age-standardized",2,"Female",0.2447337972
+1212,"alc_drinker_prop",4647,"Coahuila",2000,27,"Age-standardized",1,"Male",0.498952725
+1212,"alc_drinker_prop",4647,"Coahuila",2000,27,"Age-standardized",2,"Female",0.2065403238
+1212,"alc_drinker_prop",4648,"Colima",2000,27,"Age-standardized",1,"Male",0.5890228903
+1212,"alc_drinker_prop",4648,"Colima",2000,27,"Age-standardized",2,"Female",0.365232646
+1212,"alc_drinker_prop",4649,"Chiapas",2000,27,"Age-standardized",1,"Male",0.3829847468
+1212,"alc_drinker_prop",4649,"Chiapas",2000,27,"Age-standardized",2,"Female",0.2070165402
+1212,"alc_drinker_prop",4650,"Chihuahua",2000,27,"Age-standardized",1,"Male",0.5646769265
+1212,"alc_drinker_prop",4650,"Chihuahua",2000,27,"Age-standardized",2,"Female",0.2953679752
+1212,"alc_drinker_prop",4651,"Mexico City",2000,27,"Age-standardized",1,"Male",0.6268403078
+1212,"alc_drinker_prop",4651,"Mexico City",2000,27,"Age-standardized",2,"Female",0.4293496161
+1212,"alc_drinker_prop",4652,"Durango",2000,27,"Age-standardized",1,"Male",0.5798482927
+1212,"alc_drinker_prop",4652,"Durango",2000,27,"Age-standardized",2,"Female",0.2169544543
+1212,"alc_drinker_prop",4653,"Guanajuato",2000,27,"Age-standardized",1,"Male",0.5013963272
+1212,"alc_drinker_prop",4653,"Guanajuato",2000,27,"Age-standardized",2,"Female",0.2265839907
+1212,"alc_drinker_prop",4654,"Guerrero",2000,27,"Age-standardized",1,"Male",0.4896539857
+1212,"alc_drinker_prop",4654,"Guerrero",2000,27,"Age-standardized",2,"Female",0.250997527
+1212,"alc_drinker_prop",4655,"Hidalgo",2000,27,"Age-standardized",1,"Male",0.5890330476
+1212,"alc_drinker_prop",4655,"Hidalgo",2000,27,"Age-standardized",2,"Female",0.295055856
+1212,"alc_drinker_prop",4656,"Jalisco",2000,27,"Age-standardized",1,"Male",0.6272973104
+1212,"alc_drinker_prop",4656,"Jalisco",2000,27,"Age-standardized",2,"Female",0.3794534673
+1212,"alc_drinker_prop",4657,"México",2000,27,"Age-standardized",1,"Male",0.628166695
+1212,"alc_drinker_prop",4657,"México",2000,27,"Age-standardized",2,"Female",0.3363708829
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",1,"Male",0.5628647406
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",2,"Female",0.2933393944
+1212,"alc_drinker_prop",4659,"Morelos",2000,27,"Age-standardized",1,"Male",0.577218634
+1212,"alc_drinker_prop",4659,"Morelos",2000,27,"Age-standardized",2,"Female",0.3213511344
+1212,"alc_drinker_prop",4660,"Nayarit",2000,27,"Age-standardized",1,"Male",0.6141437117
+1212,"alc_drinker_prop",4660,"Nayarit",2000,27,"Age-standardized",2,"Female",0.3627237175
+1212,"alc_drinker_prop",4661,"Nuevo León",2000,27,"Age-standardized",1,"Male",0.5955686339
+1212,"alc_drinker_prop",4661,"Nuevo León",2000,27,"Age-standardized",2,"Female",0.2642802215
+1212,"alc_drinker_prop",4662,"Oaxaca",2000,27,"Age-standardized",1,"Male",0.5220047942
+1212,"alc_drinker_prop",4662,"Oaxaca",2000,27,"Age-standardized",2,"Female",0.2142692039
+1212,"alc_drinker_prop",4663,"Puebla",2000,27,"Age-standardized",1,"Male",0.6013906617
+1212,"alc_drinker_prop",4663,"Puebla",2000,27,"Age-standardized",2,"Female",0.3045836148
+1212,"alc_drinker_prop",4664,"Querétaro",2000,27,"Age-standardized",1,"Male",0.5771760079
+1212,"alc_drinker_prop",4664,"Querétaro",2000,27,"Age-standardized",2,"Female",0.2884659849
+1212,"alc_drinker_prop",4665,"Quintana Roo",2000,27,"Age-standardized",1,"Male",0.614244426
+1212,"alc_drinker_prop",4665,"Quintana Roo",2000,27,"Age-standardized",2,"Female",0.3669820592
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2000,27,"Age-standardized",1,"Male",0.5242083999
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2000,27,"Age-standardized",2,"Female",0.2077058201
+1212,"alc_drinker_prop",4667,"Sinaloa",2000,27,"Age-standardized",1,"Male",0.54433279
+1212,"alc_drinker_prop",4667,"Sinaloa",2000,27,"Age-standardized",2,"Female",0.2247045304
+1212,"alc_drinker_prop",4668,"Sonora",2000,27,"Age-standardized",1,"Male",0.6128578779
+1212,"alc_drinker_prop",4668,"Sonora",2000,27,"Age-standardized",2,"Female",0.2590156484
+1212,"alc_drinker_prop",4669,"Tabasco",2000,27,"Age-standardized",1,"Male",0.4856369929
+1212,"alc_drinker_prop",4669,"Tabasco",2000,27,"Age-standardized",2,"Female",0.2265840254
+1212,"alc_drinker_prop",4670,"Tamaulipas",2000,27,"Age-standardized",1,"Male",0.5458879032
+1212,"alc_drinker_prop",4670,"Tamaulipas",2000,27,"Age-standardized",2,"Female",0.2410734425
+1212,"alc_drinker_prop",4671,"Tlaxcala",2000,27,"Age-standardized",1,"Male",0.5513578407
+1212,"alc_drinker_prop",4671,"Tlaxcala",2000,27,"Age-standardized",2,"Female",0.2920999589
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",1,"Male",0.5116317871
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",2,"Female",0.2546125573
+1212,"alc_drinker_prop",4673,"Yucatán",2000,27,"Age-standardized",1,"Male",0.50968783
+1212,"alc_drinker_prop",4673,"Yucatán",2000,27,"Age-standardized",2,"Female",0.326548837
+1212,"alc_drinker_prop",4674,"Zacatecas",2000,27,"Age-standardized",1,"Male",0.5675950189
+1212,"alc_drinker_prop",4674,"Zacatecas",2000,27,"Age-standardized",2,"Female",0.2203117163
+1212,"alc_drinker_prop",130,"Mexico",2001,27,"Age-standardized",1,"Male",0.5578132671
+1212,"alc_drinker_prop",130,"Mexico",2001,27,"Age-standardized",2,"Female",0.2876234593
+1212,"alc_drinker_prop",4643,"Aguascalientes",2001,27,"Age-standardized",1,"Male",0.5758990386
+1212,"alc_drinker_prop",4643,"Aguascalientes",2001,27,"Age-standardized",2,"Female",0.3087115286
+1212,"alc_drinker_prop",4644,"Baja California",2001,27,"Age-standardized",1,"Male",0.5098797346
+1212,"alc_drinker_prop",4644,"Baja California",2001,27,"Age-standardized",2,"Female",0.2965272481
+1212,"alc_drinker_prop",4645,"Baja California Sur",2001,27,"Age-standardized",1,"Male",0.584041908
+1212,"alc_drinker_prop",4645,"Baja California Sur",2001,27,"Age-standardized",2,"Female",0.303672341
+1212,"alc_drinker_prop",4646,"Campeche",2001,27,"Age-standardized",1,"Male",0.5287781255
+1212,"alc_drinker_prop",4646,"Campeche",2001,27,"Age-standardized",2,"Female",0.2406506498
+1212,"alc_drinker_prop",4647,"Coahuila",2001,27,"Age-standardized",1,"Male",0.4925152487
+1212,"alc_drinker_prop",4647,"Coahuila",2001,27,"Age-standardized",2,"Female",0.2019620665
+1212,"alc_drinker_prop",4648,"Colima",2001,27,"Age-standardized",1,"Male",0.5843662825
+1212,"alc_drinker_prop",4648,"Colima",2001,27,"Age-standardized",2,"Female",0.3583074609
+1212,"alc_drinker_prop",4649,"Chiapas",2001,27,"Age-standardized",1,"Male",0.3763964466
+1212,"alc_drinker_prop",4649,"Chiapas",2001,27,"Age-standardized",2,"Female",0.1989826646
+1212,"alc_drinker_prop",4650,"Chihuahua",2001,27,"Age-standardized",1,"Male",0.560664741
+1212,"alc_drinker_prop",4650,"Chihuahua",2001,27,"Age-standardized",2,"Female",0.2916847884
+1212,"alc_drinker_prop",4651,"Mexico City",2001,27,"Age-standardized",1,"Male",0.6242938796
+1212,"alc_drinker_prop",4651,"Mexico City",2001,27,"Age-standardized",2,"Female",0.4249559783
+1212,"alc_drinker_prop",4652,"Durango",2001,27,"Age-standardized",1,"Male",0.5761924336
+1212,"alc_drinker_prop",4652,"Durango",2001,27,"Age-standardized",2,"Female",0.211884501
+1212,"alc_drinker_prop",4653,"Guanajuato",2001,27,"Age-standardized",1,"Male",0.4942518348
+1212,"alc_drinker_prop",4653,"Guanajuato",2001,27,"Age-standardized",2,"Female",0.2170377503
+1212,"alc_drinker_prop",4654,"Guerrero",2001,27,"Age-standardized",1,"Male",0.4877528432
+1212,"alc_drinker_prop",4654,"Guerrero",2001,27,"Age-standardized",2,"Female",0.2481403509
+1212,"alc_drinker_prop",4655,"Hidalgo",2001,27,"Age-standardized",1,"Male",0.5858307266
+1212,"alc_drinker_prop",4655,"Hidalgo",2001,27,"Age-standardized",2,"Female",0.289283602
+1212,"alc_drinker_prop",4656,"Jalisco",2001,27,"Age-standardized",1,"Male",0.6257438665
+1212,"alc_drinker_prop",4656,"Jalisco",2001,27,"Age-standardized",2,"Female",0.3744936658
+1212,"alc_drinker_prop",4657,"México",2001,27,"Age-standardized",1,"Male",0.6251983728
+1212,"alc_drinker_prop",4657,"México",2001,27,"Age-standardized",2,"Female",0.330894274
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",1,"Male",0.56072319
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",2,"Female",0.2901524413
+1212,"alc_drinker_prop",4659,"Morelos",2001,27,"Age-standardized",1,"Male",0.5774947667
+1212,"alc_drinker_prop",4659,"Morelos",2001,27,"Age-standardized",2,"Female",0.3207120836
+1212,"alc_drinker_prop",4660,"Nayarit",2001,27,"Age-standardized",1,"Male",0.6119417048
+1212,"alc_drinker_prop",4660,"Nayarit",2001,27,"Age-standardized",2,"Female",0.3584252683
+1212,"alc_drinker_prop",4661,"Nuevo León",2001,27,"Age-standardized",1,"Male",0.5932641379
+1212,"alc_drinker_prop",4661,"Nuevo León",2001,27,"Age-standardized",2,"Female",0.2601390108
+1212,"alc_drinker_prop",4662,"Oaxaca",2001,27,"Age-standardized",1,"Male",0.5195400984
+1212,"alc_drinker_prop",4662,"Oaxaca",2001,27,"Age-standardized",2,"Female",0.2123762731
+1212,"alc_drinker_prop",4663,"Puebla",2001,27,"Age-standardized",1,"Male",0.5995384506
+1212,"alc_drinker_prop",4663,"Puebla",2001,27,"Age-standardized",2,"Female",0.299056203
+1212,"alc_drinker_prop",4664,"Querétaro",2001,27,"Age-standardized",1,"Male",0.5774880642
+1212,"alc_drinker_prop",4664,"Querétaro",2001,27,"Age-standardized",2,"Female",0.2858460207
+1212,"alc_drinker_prop",4665,"Quintana Roo",2001,27,"Age-standardized",1,"Male",0.6127246765
+1212,"alc_drinker_prop",4665,"Quintana Roo",2001,27,"Age-standardized",2,"Female",0.3651106923
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2001,27,"Age-standardized",1,"Male",0.5198062476
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2001,27,"Age-standardized",2,"Female",0.1997838009
+1212,"alc_drinker_prop",4667,"Sinaloa",2001,27,"Age-standardized",1,"Male",0.5403048845
+1212,"alc_drinker_prop",4667,"Sinaloa",2001,27,"Age-standardized",2,"Female",0.2179153638
+1212,"alc_drinker_prop",4668,"Sonora",2001,27,"Age-standardized",1,"Male",0.6090393225
+1212,"alc_drinker_prop",4668,"Sonora",2001,27,"Age-standardized",2,"Female",0.2538005725
+1212,"alc_drinker_prop",4669,"Tabasco",2001,27,"Age-standardized",1,"Male",0.4818618355
+1212,"alc_drinker_prop",4669,"Tabasco",2001,27,"Age-standardized",2,"Female",0.2208791417
+1212,"alc_drinker_prop",4670,"Tamaulipas",2001,27,"Age-standardized",1,"Male",0.5435797994
+1212,"alc_drinker_prop",4670,"Tamaulipas",2001,27,"Age-standardized",2,"Female",0.237066789
+1212,"alc_drinker_prop",4671,"Tlaxcala",2001,27,"Age-standardized",1,"Male",0.5505575452
+1212,"alc_drinker_prop",4671,"Tlaxcala",2001,27,"Age-standardized",2,"Female",0.2888300321
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",1,"Male",0.5084812977
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",2,"Female",0.2508407725
+1212,"alc_drinker_prop",4673,"Yucatán",2001,27,"Age-standardized",1,"Male",0.5046112643
+1212,"alc_drinker_prop",4673,"Yucatán",2001,27,"Age-standardized",2,"Female",0.3218959082
+1212,"alc_drinker_prop",4674,"Zacatecas",2001,27,"Age-standardized",1,"Male",0.5675596659
+1212,"alc_drinker_prop",4674,"Zacatecas",2001,27,"Age-standardized",2,"Female",0.2183788565
+1212,"alc_drinker_prop",130,"Mexico",2002,27,"Age-standardized",1,"Male",0.5545556608
+1212,"alc_drinker_prop",130,"Mexico",2002,27,"Age-standardized",2,"Female",0.2826586927
+1212,"alc_drinker_prop",4643,"Aguascalientes",2002,27,"Age-standardized",1,"Male",0.5755154362
+1212,"alc_drinker_prop",4643,"Aguascalientes",2002,27,"Age-standardized",2,"Female",0.3065473056
+1212,"alc_drinker_prop",4644,"Baja California",2002,27,"Age-standardized",1,"Male",0.5020763707
+1212,"alc_drinker_prop",4644,"Baja California",2002,27,"Age-standardized",2,"Female",0.2898157013
+1212,"alc_drinker_prop",4645,"Baja California Sur",2002,27,"Age-standardized",1,"Male",0.5795551554
+1212,"alc_drinker_prop",4645,"Baja California Sur",2002,27,"Age-standardized",2,"Female",0.2981501532
+1212,"alc_drinker_prop",4646,"Campeche",2002,27,"Age-standardized",1,"Male",0.5269452288
+1212,"alc_drinker_prop",4646,"Campeche",2002,27,"Age-standardized",2,"Female",0.236614125
+1212,"alc_drinker_prop",4647,"Coahuila",2002,27,"Age-standardized",1,"Male",0.4860803609
+1212,"alc_drinker_prop",4647,"Coahuila",2002,27,"Age-standardized",2,"Female",0.1974597639
+1212,"alc_drinker_prop",4648,"Colima",2002,27,"Age-standardized",1,"Male",0.5796944768
+1212,"alc_drinker_prop",4648,"Colima",2002,27,"Age-standardized",2,"Female",0.3514407886
+1212,"alc_drinker_prop",4649,"Chiapas",2002,27,"Age-standardized",1,"Male",0.3698530146
+1212,"alc_drinker_prop",4649,"Chiapas",2002,27,"Age-standardized",2,"Female",0.1911852926
+1212,"alc_drinker_prop",4650,"Chihuahua",2002,27,"Age-standardized",1,"Male",0.5566443762
+1212,"alc_drinker_prop",4650,"Chihuahua",2002,27,"Age-standardized",2,"Female",0.2880286404
+1212,"alc_drinker_prop",4651,"Mexico City",2002,27,"Age-standardized",1,"Male",0.6217400788
+1212,"alc_drinker_prop",4651,"Mexico City",2002,27,"Age-standardized",2,"Female",0.4205738346
+1212,"alc_drinker_prop",4652,"Durango",2002,27,"Age-standardized",1,"Male",0.5725280854
+1212,"alc_drinker_prop",4652,"Durango",2002,27,"Age-standardized",2,"Female",0.2069014378
+1212,"alc_drinker_prop",4653,"Guanajuato",2002,27,"Age-standardized",1,"Male",0.4871091779
+1212,"alc_drinker_prop",4653,"Guanajuato",2002,27,"Age-standardized",2,"Female",0.2077849299
+1212,"alc_drinker_prop",4654,"Guerrero",2002,27,"Age-standardized",1,"Male",0.4858518459
+1212,"alc_drinker_prop",4654,"Guerrero",2002,27,"Age-standardized",2,"Female",0.2453052267
+1212,"alc_drinker_prop",4655,"Hidalgo",2002,27,"Age-standardized",1,"Male",0.5826205421
+1212,"alc_drinker_prop",4655,"Hidalgo",2002,27,"Age-standardized",2,"Female",0.2835785853
+1212,"alc_drinker_prop",4656,"Jalisco",2002,27,"Age-standardized",1,"Male",0.6241876582
+1212,"alc_drinker_prop",4656,"Jalisco",2002,27,"Age-standardized",2,"Female",0.3695597218
+1212,"alc_drinker_prop",4657,"México",2002,27,"Age-standardized",1,"Male",0.6222202322
+1212,"alc_drinker_prop",4657,"México",2002,27,"Age-standardized",2,"Female",0.3254626594
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",1,"Male",0.5585788208
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",2,"Female",0.2869859945
+1212,"alc_drinker_prop",4659,"Morelos",2002,27,"Age-standardized",1,"Male",0.5777706622
+1212,"alc_drinker_prop",4659,"Morelos",2002,27,"Age-standardized",2,"Female",0.3200739472
+1212,"alc_drinker_prop",4660,"Nayarit",2002,27,"Age-standardized",1,"Male",0.6097349389
+1212,"alc_drinker_prop",4660,"Nayarit",2002,27,"Age-standardized",2,"Female",0.3541491956
+1212,"alc_drinker_prop",4661,"Nuevo León",2002,27,"Age-standardized",1,"Male",0.5909555469
+1212,"alc_drinker_prop",4661,"Nuevo León",2002,27,"Age-standardized",2,"Female",0.2560400958
+1212,"alc_drinker_prop",4662,"Oaxaca",2002,27,"Age-standardized",1,"Male",0.5170740763
+1212,"alc_drinker_prop",4662,"Oaxaca",2002,27,"Age-standardized",2,"Female",0.2104968519
+1212,"alc_drinker_prop",4663,"Puebla",2002,27,"Age-standardized",1,"Male",0.5976830446
+1212,"alc_drinker_prop",4663,"Puebla",2002,27,"Age-standardized",2,"Female",0.2935863656
+1212,"alc_drinker_prop",4664,"Querétaro",2002,27,"Age-standardized",1,"Male",0.5778000246
+1212,"alc_drinker_prop",4664,"Querétaro",2002,27,"Age-standardized",2,"Female",0.2832425655
+1212,"alc_drinker_prop",4665,"Quintana Roo",2002,27,"Age-standardized",1,"Male",0.6112025627
+1212,"alc_drinker_prop",4665,"Quintana Roo",2002,27,"Age-standardized",2,"Female",0.3632434865
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2002,27,"Age-standardized",1,"Male",0.5154005714
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2002,27,"Age-standardized",2,"Female",0.1920905314
+1212,"alc_drinker_prop",4667,"Sinaloa",2002,27,"Age-standardized",1,"Male",0.5362716063
+1212,"alc_drinker_prop",4667,"Sinaloa",2002,27,"Age-standardized",2,"Female",0.2112750116
+1212,"alc_drinker_prop",4668,"Sonora",2002,27,"Age-standardized",1,"Male",0.605207324
+1212,"alc_drinker_prop",4668,"Sonora",2002,27,"Age-standardized",2,"Female",0.2486550356
+1212,"alc_drinker_prop",4669,"Tabasco",2002,27,"Age-standardized",1,"Male",0.4780884203
+1212,"alc_drinker_prop",4669,"Tabasco",2002,27,"Age-standardized",2,"Female",0.2152775497
+1212,"alc_drinker_prop",4670,"Tamaulipas",2002,27,"Age-standardized",1,"Male",0.5412695184
+1212,"alc_drinker_prop",4670,"Tamaulipas",2002,27,"Age-standardized",2,"Female",0.2331061807
+1212,"alc_drinker_prop",4671,"Tlaxcala",2002,27,"Age-standardized",1,"Male",0.5497567157
+1212,"alc_drinker_prop",4671,"Tlaxcala",2002,27,"Age-standardized",2,"Female",0.2855819287
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",1,"Male",0.5053298733
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",2,"Female",0.2471064692
+1212,"alc_drinker_prop",4673,"Yucatán",2002,27,"Age-standardized",1,"Male",0.4995337132
+1212,"alc_drinker_prop",4673,"Yucatán",2002,27,"Age-standardized",2,"Female",0.3172778805
+1212,"alc_drinker_prop",4674,"Zacatecas",2002,27,"Age-standardized",1,"Male",0.5675241447
+1212,"alc_drinker_prop",4674,"Zacatecas",2002,27,"Age-standardized",2,"Female",0.2164587173
+1212,"alc_drinker_prop",130,"Mexico",2003,27,"Age-standardized",1,"Male",0.5512931151
+1212,"alc_drinker_prop",130,"Mexico",2003,27,"Age-standardized",2,"Female",0.2777459712
+1212,"alc_drinker_prop",4643,"Aguascalientes",2003,27,"Age-standardized",1,"Male",0.5751314258
+1212,"alc_drinker_prop",4643,"Aguascalientes",2003,27,"Age-standardized",2,"Female",0.3043916223
+1212,"alc_drinker_prop",4644,"Baja California",2003,27,"Age-standardized",1,"Male",0.4942723767
+1212,"alc_drinker_prop",4644,"Baja California",2003,27,"Age-standardized",2,"Female",0.2831963754
+1212,"alc_drinker_prop",4645,"Baja California Sur",2003,27,"Age-standardized",1,"Male",0.5750552965
+1212,"alc_drinker_prop",4645,"Baja California Sur",2003,27,"Age-standardized",2,"Female",0.2926858782
+1212,"alc_drinker_prop",4646,"Campeche",2003,27,"Age-standardized",1,"Male",0.5251114903
+1212,"alc_drinker_prop",4646,"Campeche",2003,27,"Age-standardized",2,"Female",0.23262444
+1212,"alc_drinker_prop",4647,"Coahuila",2003,27,"Age-standardized",1,"Male",0.4796502024
+1212,"alc_drinker_prop",4647,"Coahuila",2003,27,"Age-standardized",2,"Female",0.193033303
+1212,"alc_drinker_prop",4648,"Colima",2003,27,"Age-standardized",1,"Male",0.5750082677
+1212,"alc_drinker_prop",4648,"Colima",2003,27,"Age-standardized",2,"Female",0.3446349408
+1212,"alc_drinker_prop",4649,"Chiapas",2003,27,"Age-standardized",1,"Male",0.3633565808
+1212,"alc_drinker_prop",4649,"Chiapas",2003,27,"Age-standardized",2,"Female",0.1836235559
+1212,"alc_drinker_prop",4650,"Chihuahua",2003,27,"Age-standardized",1,"Male",0.5526163575
+1212,"alc_drinker_prop",4650,"Chihuahua",2003,27,"Age-standardized",2,"Female",0.284399825
+1212,"alc_drinker_prop",4651,"Mexico City",2003,27,"Age-standardized",1,"Male",0.6191790431
+1212,"alc_drinker_prop",4651,"Mexico City",2003,27,"Age-standardized",2,"Female",0.416203862
+1212,"alc_drinker_prop",4652,"Durango",2003,27,"Age-standardized",1,"Male",0.5688556346
+1212,"alc_drinker_prop",4652,"Durango",2003,27,"Age-standardized",2,"Female",0.202005281
+1212,"alc_drinker_prop",4653,"Guanajuato",2003,27,"Age-standardized",1,"Male",0.4799713042
+1212,"alc_drinker_prop",4653,"Guanajuato",2003,27,"Age-standardized",2,"Female",0.1988257507
+1212,"alc_drinker_prop",4654,"Guerrero",2003,27,"Age-standardized",1,"Male",0.4839510799
+1212,"alc_drinker_prop",4654,"Guerrero",2003,27,"Age-standardized",2,"Female",0.2424922521
+1212,"alc_drinker_prop",4655,"Hidalgo",2003,27,"Age-standardized",1,"Male",0.5794027795
+1212,"alc_drinker_prop",4655,"Hidalgo",2003,27,"Age-standardized",2,"Female",0.2779418358
+1212,"alc_drinker_prop",4656,"Jalisco",2003,27,"Age-standardized",1,"Male",0.6226287164
+1212,"alc_drinker_prop",4656,"Jalisco",2003,27,"Age-standardized",2,"Female",0.3646525542
+1212,"alc_drinker_prop",4657,"México",2003,27,"Age-standardized",1,"Male",0.6192324833
+1212,"alc_drinker_prop",4657,"México",2003,27,"Age-standardized",2,"Female",0.3200771689
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",1,"Male",0.5564317383
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",2,"Female",0.2838402527
+1212,"alc_drinker_prop",4659,"Morelos",2003,27,"Age-standardized",1,"Male",0.5780463146
+1212,"alc_drinker_prop",4659,"Morelos",2003,27,"Age-standardized",2,"Female",0.3194367262
+1212,"alc_drinker_prop",4660,"Nayarit",2003,27,"Age-standardized",1,"Male",0.607523501
+1212,"alc_drinker_prop",4660,"Nayarit",2003,27,"Age-standardized",2,"Female",0.3498960799
+1212,"alc_drinker_prop",4661,"Nuevo León",2003,27,"Age-standardized",1,"Male",0.5886429578
+1212,"alc_drinker_prop",4661,"Nuevo León",2003,27,"Age-standardized",2,"Female",0.251983761
+1212,"alc_drinker_prop",4662,"Oaxaca",2003,27,"Age-standardized",1,"Male",0.514606876
+1212,"alc_drinker_prop",4662,"Oaxaca",2003,27,"Age-standardized",2,"Female",0.2086309703
+1212,"alc_drinker_prop",4663,"Puebla",2003,27,"Age-standardized",1,"Male",0.5958244969
+1212,"alc_drinker_prop",4663,"Puebla",2003,27,"Age-standardized",2,"Female",0.2881751065
+1212,"alc_drinker_prop",4664,"Querétaro",2003,27,"Age-standardized",1,"Male",0.5781118879
+1212,"alc_drinker_prop",4664,"Querétaro",2003,27,"Age-standardized",2,"Female",0.2806558183
+1212,"alc_drinker_prop",4665,"Quintana Roo",2003,27,"Age-standardized",1,"Male",0.6096781173
+1212,"alc_drinker_prop",4665,"Quintana Roo",2003,27,"Age-standardized",2,"Female",0.3613805071
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2003,27,"Age-standardized",1,"Male",0.510992082
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2003,27,"Age-standardized",2,"Female",0.1846250523
+1212,"alc_drinker_prop",4667,"Sinaloa",2003,27,"Age-standardized",1,"Male",0.5322334792
+1212,"alc_drinker_prop",4667,"Sinaloa",2003,27,"Age-standardized",2,"Female",0.2047836453
+1212,"alc_drinker_prop",4668,"Sonora",2003,27,"Age-standardized",1,"Male",0.6013623037
+1212,"alc_drinker_prop",4668,"Sonora",2003,27,"Age-standardized",2,"Female",0.2435795488
+1212,"alc_drinker_prop",4669,"Tabasco",2003,27,"Age-standardized",1,"Male",0.4743172135
+1212,"alc_drinker_prop",4669,"Tabasco",2003,27,"Age-standardized",2,"Female",0.2097794307
+1212,"alc_drinker_prop",4670,"Tamaulipas",2003,27,"Age-standardized",1,"Male",0.5389571703
+1212,"alc_drinker_prop",4670,"Tamaulipas",2003,27,"Age-standardized",2,"Female",0.2291917955
+1212,"alc_drinker_prop",4671,"Tlaxcala",2003,27,"Age-standardized",1,"Male",0.5489553716
+1212,"alc_drinker_prop",4671,"Tlaxcala",2003,27,"Age-standardized",2,"Female",0.2823558702
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",1,"Male",0.5021777833
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",2,"Female",0.2434098739
+1212,"alc_drinker_prop",4673,"Yucatán",2003,27,"Age-standardized",1,"Male",0.4944562259
+1212,"alc_drinker_prop",4673,"Yucatán",2003,27,"Age-standardized",2,"Female",0.3126953931
+1212,"alc_drinker_prop",4674,"Zacatecas",2003,27,"Age-standardized",1,"Male",0.5674884535
+1212,"alc_drinker_prop",4674,"Zacatecas",2003,27,"Age-standardized",2,"Female",0.2145513171
+1212,"alc_drinker_prop",130,"Mexico",2004,27,"Age-standardized",1,"Male",0.5480259211
+1212,"alc_drinker_prop",130,"Mexico",2004,27,"Age-standardized",2,"Female",0.2728859474
+1212,"alc_drinker_prop",4643,"Aguascalientes",2004,27,"Age-standardized",1,"Male",0.5747470046
+1212,"alc_drinker_prop",4643,"Aguascalientes",2004,27,"Age-standardized",2,"Female",0.3022445438
+1212,"alc_drinker_prop",4644,"Baja California",2004,27,"Age-standardized",1,"Male",0.4864715766
+1212,"alc_drinker_prop",4644,"Baja California",2004,27,"Age-standardized",2,"Female",0.2766708304
+1212,"alc_drinker_prop",4645,"Baja California Sur",2004,27,"Age-standardized",1,"Male",0.5705430439
+1212,"alc_drinker_prop",4645,"Baja California Sur",2004,27,"Age-standardized",2,"Female",0.2872804931
+1212,"alc_drinker_prop",4646,"Campeche",2004,27,"Age-standardized",1,"Male",0.5232769642
+1212,"alc_drinker_prop",4646,"Campeche",2004,27,"Age-standardized",2,"Female",0.2286817859
+1212,"alc_drinker_prop",4647,"Coahuila",2004,27,"Age-standardized",1,"Male",0.4732269018
+1212,"alc_drinker_prop",4647,"Coahuila",2004,27,"Age-standardized",2,"Female",0.1886825173
+1212,"alc_drinker_prop",4648,"Colima",2004,27,"Age-standardized",1,"Male",0.5703084588
+1212,"alc_drinker_prop",4648,"Colima",2004,27,"Age-standardized",2,"Female",0.337892129
+1212,"alc_drinker_prop",4649,"Chiapas",2004,27,"Age-standardized",1,"Male",0.3569092176
+1212,"alc_drinker_prop",4649,"Chiapas",2004,27,"Age-standardized",2,"Female",0.1762960575
+1212,"alc_drinker_prop",4650,"Chihuahua",2004,27,"Age-standardized",1,"Male",0.5485812069
+1212,"alc_drinker_prop",4650,"Chihuahua",2004,27,"Age-standardized",2,"Female",0.2807986321
+1212,"alc_drinker_prop",4651,"Mexico City",2004,27,"Age-standardized",1,"Male",0.6166109158
+1212,"alc_drinker_prop",4651,"Mexico City",2004,27,"Age-standardized",2,"Female",0.4118467324
+1212,"alc_drinker_prop",4652,"Durango",2004,27,"Age-standardized",1,"Male",0.5651754789
+1212,"alc_drinker_prop",4652,"Durango",2004,27,"Age-standardized",2,"Female",0.1971959693
+1212,"alc_drinker_prop",4653,"Guanajuato",2004,27,"Age-standardized",1,"Male",0.472841148
+1212,"alc_drinker_prop",4653,"Guanajuato",2004,27,"Age-standardized",2,"Female",0.1901595448
+1212,"alc_drinker_prop",4654,"Guerrero",2004,27,"Age-standardized",1,"Male",0.4820506291
+1212,"alc_drinker_prop",4654,"Guerrero",2004,27,"Age-standardized",2,"Female",0.2397015179
+1212,"alc_drinker_prop",4655,"Hidalgo",2004,27,"Age-standardized",1,"Male",0.5761777253
+1212,"alc_drinker_prop",4655,"Hidalgo",2004,27,"Age-standardized",2,"Female",0.2723743012
+1212,"alc_drinker_prop",4656,"Jalisco",2004,27,"Age-standardized",1,"Male",0.6210670715
+1212,"alc_drinker_prop",4656,"Jalisco",2004,27,"Age-standardized",2,"Female",0.359773063
+1212,"alc_drinker_prop",4657,"México",2004,27,"Age-standardized",1,"Male",0.6162353329
+1212,"alc_drinker_prop",4657,"México",2004,27,"Age-standardized",2,"Female",0.3147388775
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",1,"Male",0.5542820469
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",2,"Female",0.2807154062
+1212,"alc_drinker_prop",4659,"Morelos",2004,27,"Age-standardized",1,"Male",0.5783217279
+1212,"alc_drinker_prop",4659,"Morelos",2004,27,"Age-standardized",2,"Female",0.3188004263
+1212,"alc_drinker_prop",4660,"Nayarit",2004,27,"Age-standardized",1,"Male",0.6053074753
+1212,"alc_drinker_prop",4660,"Nayarit",2004,27,"Age-standardized",2,"Female",0.345666483
+1212,"alc_drinker_prop",4661,"Nuevo León",2004,27,"Age-standardized",1,"Male",0.5863264661
+1212,"alc_drinker_prop",4661,"Nuevo León",2004,27,"Age-standardized",2,"Female",0.2479702594
+1212,"alc_drinker_prop",4662,"Oaxaca",2004,27,"Age-standardized",1,"Male",0.5121386486
+1212,"alc_drinker_prop",4662,"Oaxaca",2004,27,"Age-standardized",2,"Female",0.2067786478
+1212,"alc_drinker_prop",4663,"Puebla",2004,27,"Age-standardized",1,"Male",0.5939628679
+1212,"alc_drinker_prop",4663,"Puebla",2004,27,"Age-standardized",2,"Female",0.2828233651
+1212,"alc_drinker_prop",4664,"Querétaro",2004,27,"Age-standardized",1,"Male",0.5784236548
+1212,"alc_drinker_prop",4664,"Querétaro",2004,27,"Age-standardized",2,"Female",0.2780859655
+1212,"alc_drinker_prop",4665,"Quintana Roo",2004,27,"Age-standardized",1,"Male",0.608151371
+1212,"alc_drinker_prop",4665,"Quintana Roo",2004,27,"Age-standardized",2,"Female",0.3595218135
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2004,27,"Age-standardized",1,"Male",0.5065815005
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2004,27,"Age-standardized",2,"Female",0.1773859287
+1212,"alc_drinker_prop",4667,"Sinaloa",2004,27,"Age-standardized",1,"Male",0.528191037
+1212,"alc_drinker_prop",4667,"Sinaloa",2004,27,"Age-standardized",2,"Female",0.1984411921
+1212,"alc_drinker_prop",4668,"Sonora",2004,27,"Age-standardized",1,"Male",0.5975047015
+1212,"alc_drinker_prop",4668,"Sonora",2004,27,"Age-standardized",2,"Female",0.2385745606
+1212,"alc_drinker_prop",4669,"Tabasco",2004,27,"Age-standardized",1,"Male",0.4705486848
+1212,"alc_drinker_prop",4669,"Tabasco",2004,27,"Age-standardized",2,"Female",0.2043848393
+1212,"alc_drinker_prop",4670,"Tamaulipas",2004,27,"Age-standardized",1,"Male",0.5366428746
+1212,"alc_drinker_prop",4670,"Tamaulipas",2004,27,"Age-standardized",2,"Female",0.2253237895
+1212,"alc_drinker_prop",4671,"Tlaxcala",2004,27,"Age-standardized",1,"Male",0.5481535145
+1212,"alc_drinker_prop",4671,"Tlaxcala",2004,27,"Age-standardized",2,"Female",0.2791520479
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",1,"Male",0.4990253031
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",2,"Female",0.239751181
+1212,"alc_drinker_prop",4673,"Yucatán",2004,27,"Age-standardized",1,"Male",0.48937985
+1212,"alc_drinker_prop",4673,"Yucatán",2004,27,"Age-standardized",2,"Female",0.308149061
+1212,"alc_drinker_prop",4674,"Zacatecas",2004,27,"Age-standardized",1,"Male",0.567452595
+1212,"alc_drinker_prop",4674,"Zacatecas",2004,27,"Age-standardized",2,"Female",0.2126566753
+1212,"alc_drinker_prop",130,"Mexico",2005,27,"Age-standardized",1,"Male",0.5447543631
+1212,"alc_drinker_prop",130,"Mexico",2005,27,"Age-standardized",2,"Female",0.2680792136
+1212,"alc_drinker_prop",4643,"Aguascalientes",2005,27,"Age-standardized",1,"Male",0.5743621773
+1212,"alc_drinker_prop",4643,"Aguascalientes",2005,27,"Age-standardized",2,"Female",0.300106145
+1212,"alc_drinker_prop",4644,"Baja California",2005,27,"Age-standardized",1,"Male",0.4786777964
+1212,"alc_drinker_prop",4644,"Baja California",2005,27,"Age-standardized",2,"Female",0.2702404817
+1212,"alc_drinker_prop",4645,"Baja California Sur",2005,27,"Age-standardized",1,"Male",0.5660191223
+1212,"alc_drinker_prop",4645,"Baja California Sur",2005,27,"Age-standardized",2,"Female",0.2819348999
+1212,"alc_drinker_prop",4646,"Campeche",2005,27,"Age-standardized",1,"Male",0.5214417051
+1212,"alc_drinker_prop",4646,"Campeche",2005,27,"Age-standardized",2,"Female",0.2247863166
+1212,"alc_drinker_prop",4647,"Coahuila",2005,27,"Age-standardized",1,"Male",0.4668125769
+1212,"alc_drinker_prop",4647,"Coahuila",2005,27,"Age-standardized",2,"Female",0.1844071781
+1212,"alc_drinker_prop",4648,"Colima",2005,27,"Age-standardized",1,"Male",0.5655958661
+1212,"alc_drinker_prop",4648,"Colima",2005,27,"Age-standardized",2,"Female",0.3312144739
+1212,"alc_drinker_prop",4649,"Chiapas",2005,27,"Age-standardized",1,"Male",0.3505129185
+1212,"alc_drinker_prop",4649,"Chiapas",2005,27,"Age-standardized",2,"Female",0.1692008947
+1212,"alc_drinker_prop",4650,"Chihuahua",2005,27,"Age-standardized",1,"Male",0.5445394555
+1212,"alc_drinker_prop",4650,"Chihuahua",2005,27,"Age-standardized",2,"Female",0.277225337
+1212,"alc_drinker_prop",4651,"Mexico City",2005,27,"Age-standardized",1,"Male",0.6140358322
+1212,"alc_drinker_prop",4651,"Mexico City",2005,27,"Age-standardized",2,"Female",0.4075031033
+1212,"alc_drinker_prop",4652,"Durango",2005,27,"Age-standardized",1,"Male",0.5614880047
+1212,"alc_drinker_prop",4652,"Durango",2005,27,"Age-standardized",2,"Female",0.1924733621
+1212,"alc_drinker_prop",4653,"Guanajuato",2005,27,"Age-standardized",1,"Male",0.4657216373
+1212,"alc_drinker_prop",4653,"Guanajuato",2005,27,"Age-standardized",2,"Female",0.1817848239
+1212,"alc_drinker_prop",4654,"Guerrero",2005,27,"Age-standardized",1,"Male",0.4801505788
+1212,"alc_drinker_prop",4654,"Guerrero",2005,27,"Age-standardized",2,"Female",0.2369331061
+1212,"alc_drinker_prop",4655,"Hidalgo",2005,27,"Age-standardized",1,"Male",0.5729456625
+1212,"alc_drinker_prop",4655,"Hidalgo",2005,27,"Age-standardized",2,"Female",0.2668768516
+1212,"alc_drinker_prop",4656,"Jalisco",2005,27,"Age-standardized",1,"Male",0.6195027587
+1212,"alc_drinker_prop",4656,"Jalisco",2005,27,"Age-standardized",2,"Female",0.3549221286
+1212,"alc_drinker_prop",4657,"México",2005,27,"Age-standardized",1,"Male",0.6132289955
+1212,"alc_drinker_prop",4657,"México",2005,27,"Age-standardized",2,"Female",0.309448827
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",1,"Male",0.5521298536
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",2,"Female",0.2776116348
+1212,"alc_drinker_prop",4659,"Morelos",2005,27,"Age-standardized",1,"Male",0.5785968954
+1212,"alc_drinker_prop",4659,"Morelos",2005,27,"Age-standardized",2,"Female",0.3181650541
+1212,"alc_drinker_prop",4660,"Nayarit",2005,27,"Age-standardized",1,"Male",0.603086951
+1212,"alc_drinker_prop",4660,"Nayarit",2005,27,"Age-standardized",2,"Female",0.3414609531
+1212,"alc_drinker_prop",4661,"Nuevo León",2005,27,"Age-standardized",1,"Male",0.5840061653
+1212,"alc_drinker_prop",4661,"Nuevo León",2005,27,"Age-standardized",2,"Female",0.2439998303
+1212,"alc_drinker_prop",4662,"Oaxaca",2005,27,"Age-standardized",1,"Male",0.5096695408
+1212,"alc_drinker_prop",4662,"Oaxaca",2005,27,"Age-standardized",2,"Female",0.2049399078
+1212,"alc_drinker_prop",4663,"Puebla",2005,27,"Age-standardized",1,"Male",0.5920982188
+1212,"alc_drinker_prop",4663,"Puebla",2005,27,"Age-standardized",2,"Female",0.2775320159
+1212,"alc_drinker_prop",4664,"Querétaro",2005,27,"Age-standardized",1,"Male",0.5787353249
+1212,"alc_drinker_prop",4664,"Querétaro",2005,27,"Age-standardized",2,"Female",0.2755331832
+1212,"alc_drinker_prop",4665,"Quintana Roo",2005,27,"Age-standardized",1,"Male",0.6066223549
+1212,"alc_drinker_prop",4665,"Quintana Roo",2005,27,"Age-standardized",2,"Female",0.3576674766
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2005,27,"Age-standardized",1,"Male",0.5021695485
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2005,27,"Age-standardized",2,"Female",0.1703712896
+1212,"alc_drinker_prop",4667,"Sinaloa",2005,27,"Age-standardized",1,"Male",0.5241448085
+1212,"alc_drinker_prop",4667,"Sinaloa",2005,27,"Age-standardized",2,"Female",0.1922473599
+1212,"alc_drinker_prop",4668,"Sonora",2005,27,"Age-standardized",1,"Male",0.5936349524
+1212,"alc_drinker_prop",4668,"Sonora",2005,27,"Age-standardized",2,"Female",0.2336404593
+1212,"alc_drinker_prop",4669,"Tabasco",2005,27,"Age-standardized",1,"Male",0.4667832946
+1212,"alc_drinker_prop",4669,"Tabasco",2005,27,"Age-standardized",2,"Female",0.1990937243
+1212,"alc_drinker_prop",4670,"Tamaulipas",2005,27,"Age-standardized",1,"Male",0.5343267405
+1212,"alc_drinker_prop",4670,"Tamaulipas",2005,27,"Age-standardized",2,"Female",0.2215022879
+1212,"alc_drinker_prop",4671,"Tlaxcala",2005,27,"Age-standardized",1,"Male",0.547351165
+1212,"alc_drinker_prop",4671,"Tlaxcala",2005,27,"Age-standardized",2,"Female",0.2759706569
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",1,"Male",0.4958727033
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",2,"Female",0.236130577
+1212,"alc_drinker_prop",4673,"Yucatán",2005,27,"Age-standardized",1,"Male",0.4843056305
+1212,"alc_drinker_prop",4673,"Yucatán",2005,27,"Age-standardized",2,"Female",0.303639479
+1212,"alc_drinker_prop",4674,"Zacatecas",2005,27,"Age-standardized",1,"Male",0.5674165685
+1212,"alc_drinker_prop",4674,"Zacatecas",2005,27,"Age-standardized",2,"Female",0.210774805
+1212,"alc_drinker_prop",130,"Mexico",2006,27,"Age-standardized",1,"Male",0.5466182996
+1212,"alc_drinker_prop",130,"Mexico",2006,27,"Age-standardized",2,"Female",0.2730289326
+1212,"alc_drinker_prop",4643,"Aguascalientes",2006,27,"Age-standardized",1,"Male",0.5771700105
+1212,"alc_drinker_prop",4643,"Aguascalientes",2006,27,"Age-standardized",2,"Female",0.303968516
+1212,"alc_drinker_prop",4644,"Baja California",2006,27,"Age-standardized",1,"Male",0.4809173691
+1212,"alc_drinker_prop",4644,"Baja California",2006,27,"Age-standardized",2,"Female",0.2751272177
+1212,"alc_drinker_prop",4645,"Baja California Sur",2006,27,"Age-standardized",1,"Male",0.5671903965
+1212,"alc_drinker_prop",4645,"Baja California Sur",2006,27,"Age-standardized",2,"Female",0.2876098956
+1212,"alc_drinker_prop",4646,"Campeche",2006,27,"Age-standardized",1,"Male",0.5249544542
+1212,"alc_drinker_prop",4646,"Campeche",2006,27,"Age-standardized",2,"Female",0.2303723777
+1212,"alc_drinker_prop",4647,"Coahuila",2006,27,"Age-standardized",1,"Male",0.4689045659
+1212,"alc_drinker_prop",4647,"Coahuila",2006,27,"Age-standardized",2,"Female",0.1916204075
+1212,"alc_drinker_prop",4648,"Colima",2006,27,"Age-standardized",1,"Male",0.5665392506
+1212,"alc_drinker_prop",4648,"Colima",2006,27,"Age-standardized",2,"Female",0.3362151537
+1212,"alc_drinker_prop",4649,"Chiapas",2006,27,"Age-standardized",1,"Male",0.3530964717
+1212,"alc_drinker_prop",4649,"Chiapas",2006,27,"Age-standardized",2,"Female",0.1787764012
+1212,"alc_drinker_prop",4650,"Chihuahua",2006,27,"Age-standardized",1,"Male",0.5486788402
+1212,"alc_drinker_prop",4650,"Chihuahua",2006,27,"Age-standardized",2,"Female",0.2823367163
+1212,"alc_drinker_prop",4651,"Mexico City",2006,27,"Age-standardized",1,"Male",0.615781872
+1212,"alc_drinker_prop",4651,"Mexico City",2006,27,"Age-standardized",2,"Female",0.4096400642
+1212,"alc_drinker_prop",4652,"Durango",2006,27,"Age-standardized",1,"Male",0.5651983215
+1212,"alc_drinker_prop",4652,"Durango",2006,27,"Age-standardized",2,"Female",0.1997010635
+1212,"alc_drinker_prop",4653,"Guanajuato",2006,27,"Age-standardized",1,"Male",0.4709312002
+1212,"alc_drinker_prop",4653,"Guanajuato",2006,27,"Age-standardized",2,"Female",0.1906994059
+1212,"alc_drinker_prop",4654,"Guerrero",2006,27,"Age-standardized",1,"Male",0.4842439517
+1212,"alc_drinker_prop",4654,"Guerrero",2006,27,"Age-standardized",2,"Female",0.2417011799
+1212,"alc_drinker_prop",4655,"Hidalgo",2006,27,"Age-standardized",1,"Male",0.5745895172
+1212,"alc_drinker_prop",4655,"Hidalgo",2006,27,"Age-standardized",2,"Female",0.2726961767
+1212,"alc_drinker_prop",4656,"Jalisco",2006,27,"Age-standardized",1,"Male",0.6197056316
+1212,"alc_drinker_prop",4656,"Jalisco",2006,27,"Age-standardized",2,"Female",0.3580707513
+1212,"alc_drinker_prop",4657,"México",2006,27,"Age-standardized",1,"Male",0.6142750247
+1212,"alc_drinker_prop",4657,"México",2006,27,"Age-standardized",2,"Female",0.3138546503
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",1,"Male",0.5538804798
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",2,"Female",0.2825034885
+1212,"alc_drinker_prop",4659,"Morelos",2006,27,"Age-standardized",1,"Male",0.5796353613
+1212,"alc_drinker_prop",4659,"Morelos",2006,27,"Age-standardized",2,"Female",0.3202750877
+1212,"alc_drinker_prop",4660,"Nayarit",2006,27,"Age-standardized",1,"Male",0.6043399161
+1212,"alc_drinker_prop",4660,"Nayarit",2006,27,"Age-standardized",2,"Female",0.3441777131
+1212,"alc_drinker_prop",4661,"Nuevo León",2006,27,"Age-standardized",1,"Male",0.5847865006
+1212,"alc_drinker_prop",4661,"Nuevo León",2006,27,"Age-standardized",2,"Female",0.2475947896
+1212,"alc_drinker_prop",4662,"Oaxaca",2006,27,"Age-standardized",1,"Male",0.5124480345
+1212,"alc_drinker_prop",4662,"Oaxaca",2006,27,"Age-standardized",2,"Female",0.2118964451
+1212,"alc_drinker_prop",4663,"Puebla",2006,27,"Age-standardized",1,"Male",0.5928188277
+1212,"alc_drinker_prop",4663,"Puebla",2006,27,"Age-standardized",2,"Female",0.2829316738
+1212,"alc_drinker_prop",4664,"Querétaro",2006,27,"Age-standardized",1,"Male",0.5801672781
+1212,"alc_drinker_prop",4664,"Querétaro",2006,27,"Age-standardized",2,"Female",0.2829654492
+1212,"alc_drinker_prop",4665,"Quintana Roo",2006,27,"Age-standardized",1,"Male",0.6084307766
+1212,"alc_drinker_prop",4665,"Quintana Roo",2006,27,"Age-standardized",2,"Female",0.3605198588
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2006,27,"Age-standardized",1,"Male",0.5046361757
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2006,27,"Age-standardized",2,"Female",0.1782746114
+1212,"alc_drinker_prop",4667,"Sinaloa",2006,27,"Age-standardized",1,"Male",0.5260227672
+1212,"alc_drinker_prop",4667,"Sinaloa",2006,27,"Age-standardized",2,"Female",0.1975985704
+1212,"alc_drinker_prop",4668,"Sonora",2006,27,"Age-standardized",1,"Male",0.5948099229
+1212,"alc_drinker_prop",4668,"Sonora",2006,27,"Age-standardized",2,"Female",0.237785256
+1212,"alc_drinker_prop",4669,"Tabasco",2006,27,"Age-standardized",1,"Male",0.469521297
+1212,"alc_drinker_prop",4669,"Tabasco",2006,27,"Age-standardized",2,"Female",0.2048383641
+1212,"alc_drinker_prop",4670,"Tamaulipas",2006,27,"Age-standardized",1,"Male",0.5367009279
+1212,"alc_drinker_prop",4670,"Tamaulipas",2006,27,"Age-standardized",2,"Female",0.2268733967
+1212,"alc_drinker_prop",4671,"Tlaxcala",2006,27,"Age-standardized",1,"Male",0.5486942084
+1212,"alc_drinker_prop",4671,"Tlaxcala",2006,27,"Age-standardized",2,"Female",0.2809432598
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",1,"Male",0.4981820041
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",2,"Female",0.2406730288
+1212,"alc_drinker_prop",4673,"Yucatán",2006,27,"Age-standardized",1,"Male",0.4860027604
+1212,"alc_drinker_prop",4673,"Yucatán",2006,27,"Age-standardized",2,"Female",0.3067637819
+1212,"alc_drinker_prop",4674,"Zacatecas",2006,27,"Age-standardized",1,"Male",0.5687972902
+1212,"alc_drinker_prop",4674,"Zacatecas",2006,27,"Age-standardized",2,"Female",0.2159052575
+1212,"alc_drinker_prop",130,"Mexico",2007,27,"Age-standardized",1,"Male",0.5484808938
+1212,"alc_drinker_prop",130,"Mexico",2007,27,"Age-standardized",2,"Female",0.2780351648
+1212,"alc_drinker_prop",4643,"Aguascalientes",2007,27,"Age-standardized",1,"Male",0.5799727764
+1212,"alc_drinker_prop",4643,"Aguascalientes",2007,27,"Age-standardized",2,"Female",0.3078585793
+1212,"alc_drinker_prop",4644,"Baja California",2007,27,"Age-standardized",1,"Male",0.4831577337
+1212,"alc_drinker_prop",4644,"Baja California",2007,27,"Age-standardized",2,"Female",0.2800682874
+1212,"alc_drinker_prop",4645,"Baja California Sur",2007,27,"Age-standardized",1,"Male",0.5683609085
+1212,"alc_drinker_prop",4645,"Baja California Sur",2007,27,"Age-standardized",2,"Female",0.2933523084
+1212,"alc_drinker_prop",4646,"Campeche",2007,27,"Age-standardized",1,"Male",0.528464652
+1212,"alc_drinker_prop",4646,"Campeche",2007,27,"Age-standardized",2,"Female",0.2360547105
+1212,"alc_drinker_prop",4647,"Coahuila",2007,27,"Age-standardized",1,"Male",0.470997681
+1212,"alc_drinker_prop",4647,"Coahuila",2007,27,"Age-standardized",2,"Female",0.1990466596
+1212,"alc_drinker_prop",4648,"Colima",2007,27,"Age-standardized",1,"Male",0.5674821517
+1212,"alc_drinker_prop",4648,"Colima",2007,27,"Age-standardized",2,"Female",0.3412526362
+1212,"alc_drinker_prop",4649,"Chiapas",2007,27,"Age-standardized",1,"Male",0.3556886629
+1212,"alc_drinker_prop",4649,"Chiapas",2007,27,"Age-standardized",2,"Female",0.188770309
+1212,"alc_drinker_prop",4650,"Chihuahua",2007,27,"Age-standardized",1,"Male",0.5528114083
+1212,"alc_drinker_prop",4650,"Chihuahua",2007,27,"Age-standardized",2,"Female",0.28750459
+1212,"alc_drinker_prop",4651,"Mexico City",2007,27,"Age-standardized",1,"Male",0.6175248622
+1212,"alc_drinker_prop",4651,"Mexico City",2007,27,"Age-standardized",2,"Female",0.4117804097
+1212,"alc_drinker_prop",4652,"Durango",2007,27,"Age-standardized",1,"Male",0.5689012568
+1212,"alc_drinker_prop",4652,"Durango",2007,27,"Age-standardized",2,"Female",0.2071300477
+1212,"alc_drinker_prop",4653,"Guanajuato",2007,27,"Age-standardized",1,"Male",0.4761468083
+1212,"alc_drinker_prop",4653,"Guanajuato",2007,27,"Age-standardized",2,"Female",0.1999441804
+1212,"alc_drinker_prop",4654,"Guerrero",2007,27,"Age-standardized",1,"Male",0.48833924
+1212,"alc_drinker_prop",4654,"Guerrero",2007,27,"Age-standardized",2,"Female",0.2465341552
+1212,"alc_drinker_prop",4655,"Hidalgo",2007,27,"Age-standardized",1,"Male",0.5762316906
+1212,"alc_drinker_prop",4655,"Hidalgo",2007,27,"Age-standardized",2,"Female",0.2785941612
+1212,"alc_drinker_prop",4656,"Jalisco",2007,27,"Age-standardized",1,"Male",0.6199084229
+1212,"alc_drinker_prop",4656,"Jalisco",2007,27,"Age-standardized",2,"Female",0.3612316752
+1212,"alc_drinker_prop",4657,"México",2007,27,"Age-standardized",1,"Male",0.6153198746
+1212,"alc_drinker_prop",4657,"México",2007,27,"Age-standardized",2,"Female",0.3182941175
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",1,"Male",0.555629676
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",2,"Female",0.2874470171
+1212,"alc_drinker_prop",4659,"Morelos",2007,27,"Age-standardized",1,"Male",0.5806731259
+1212,"alc_drinker_prop",4659,"Morelos",2007,27,"Age-standardized",2,"Female",0.3223924625
+1212,"alc_drinker_prop",4660,"Nayarit",2007,27,"Age-standardized",1,"Male",0.6055915156
+1212,"alc_drinker_prop",4660,"Nayarit",2007,27,"Age-standardized",2,"Female",0.3469046682
+1212,"alc_drinker_prop",4661,"Nuevo León",2007,27,"Age-standardized",1,"Male",0.5855664102
+1212,"alc_drinker_prop",4661,"Nuevo León",2007,27,"Age-standardized",2,"Female",0.2512250855
+1212,"alc_drinker_prop",4662,"Oaxaca",2007,27,"Age-standardized",1,"Male",0.515225656
+1212,"alc_drinker_prop",4662,"Oaxaca",2007,27,"Age-standardized",2,"Female",0.2190238169
+1212,"alc_drinker_prop",4663,"Puebla",2007,27,"Age-standardized",1,"Male",0.593539004
+1212,"alc_drinker_prop",4663,"Puebla",2007,27,"Age-standardized",2,"Female",0.2883943245
+1212,"alc_drinker_prop",4664,"Querétaro",2007,27,"Age-standardized",1,"Male",0.5815978884
+1212,"alc_drinker_prop",4664,"Querétaro",2007,27,"Age-standardized",2,"Female",0.2905174116
+1212,"alc_drinker_prop",4665,"Quintana Roo",2007,27,"Age-standardized",1,"Male",0.6102362268
+1212,"alc_drinker_prop",4665,"Quintana Roo",2007,27,"Age-standardized",2,"Female",0.3633820962
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2007,27,"Age-standardized",1,"Male",0.5071025285
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2007,27,"Age-standardized",2,"Female",0.1864624745
+1212,"alc_drinker_prop",4667,"Sinaloa",2007,27,"Age-standardized",1,"Male",0.5279000196
+1212,"alc_drinker_prop",4667,"Sinaloa",2007,27,"Age-standardized",2,"Female",0.2030609858
+1212,"alc_drinker_prop",4668,"Sonora",2007,27,"Age-standardized",1,"Male",0.5959838143
+1212,"alc_drinker_prop",4668,"Sonora",2007,27,"Age-standardized",2,"Female",0.2419801966
+1212,"alc_drinker_prop",4669,"Tabasco",2007,27,"Age-standardized",1,"Male",0.4722610694
+1212,"alc_drinker_prop",4669,"Tabasco",2007,27,"Age-standardized",2,"Female",0.2107049155
+1212,"alc_drinker_prop",4670,"Tamaulipas",2007,27,"Age-standardized",1,"Male",0.5390734892
+1212,"alc_drinker_prop",4670,"Tamaulipas",2007,27,"Age-standardized",2,"Female",0.2323358503
+1212,"alc_drinker_prop",4671,"Tlaxcala",2007,27,"Age-standardized",1,"Male",0.5500365373
+1212,"alc_drinker_prop",4671,"Tlaxcala",2007,27,"Age-standardized",2,"Female",0.2859698088
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",1,"Male",0.5004912976
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",2,"Female",0.2452746803
+1212,"alc_drinker_prop",4673,"Yucatán",2007,27,"Age-standardized",1,"Male",0.4877002177
+1212,"alc_drinker_prop",4673,"Yucatán",2007,27,"Age-standardized",2,"Female",0.3099058889
+1212,"alc_drinker_prop",4674,"Zacatecas",2007,27,"Age-standardized",1,"Male",0.5701768921
+1212,"alc_drinker_prop",4674,"Zacatecas",2007,27,"Age-standardized",2,"Female",0.2211252777
+1212,"alc_drinker_prop",130,"Mexico",2008,27,"Age-standardized",1,"Male",0.5503420894
+1212,"alc_drinker_prop",130,"Mexico",2008,27,"Age-standardized",2,"Female",0.2830972609
+1212,"alc_drinker_prop",4643,"Aguascalientes",2008,27,"Age-standardized",1,"Male",0.5827703091
+1212,"alc_drinker_prop",4643,"Aguascalientes",2008,27,"Age-standardized",2,"Female",0.3117759663
+1212,"alc_drinker_prop",4644,"Baja California",2008,27,"Age-standardized",1,"Male",0.4853988049
+1212,"alc_drinker_prop",4644,"Baja California",2008,27,"Age-standardized",2,"Female",0.2850630631
+1212,"alc_drinker_prop",4645,"Baja California Sur",2008,27,"Age-standardized",1,"Male",0.5695306447
+1212,"alc_drinker_prop",4645,"Baja California Sur",2008,27,"Age-standardized",2,"Female",0.2991610214
+1212,"alc_drinker_prop",4646,"Campeche",2008,27,"Age-standardized",1,"Male",0.5319719531
+1212,"alc_drinker_prop",4646,"Campeche",2008,27,"Age-standardized",2,"Female",0.2418328813
+1212,"alc_drinker_prop",4647,"Coahuila",2008,27,"Age-standardized",1,"Male",0.4730918535
+1212,"alc_drinker_prop",4647,"Coahuila",2008,27,"Age-standardized",2,"Female",0.2066868433
+1212,"alc_drinker_prop",4648,"Colima",2008,27,"Age-standardized",1,"Male",0.5684245639
+1212,"alc_drinker_prop",4648,"Colima",2008,27,"Age-standardized",2,"Female",0.3463259835
+1212,"alc_drinker_prop",4649,"Chiapas",2008,27,"Age-standardized",1,"Male",0.358289371
+1212,"alc_drinker_prop",4649,"Chiapas",2008,27,"Age-standardized",2,"Female",0.1991867841
+1212,"alc_drinker_prop",4650,"Chihuahua",2008,27,"Age-standardized",1,"Male",0.5569365938
+1212,"alc_drinker_prop",4650,"Chihuahua",2008,27,"Age-standardized",2,"Female",0.2927281871
+1212,"alc_drinker_prop",4651,"Mexico City",2008,27,"Age-standardized",1,"Male",0.6192647591
+1212,"alc_drinker_prop",4651,"Mexico City",2008,27,"Age-standardized",2,"Female",0.4139240522
+1212,"alc_drinker_prop",4652,"Durango",2008,27,"Age-standardized",1,"Male",0.5725964091
+1212,"alc_drinker_prop",4652,"Durango",2008,27,"Age-standardized",2,"Female",0.2147606579
+1212,"alc_drinker_prop",4653,"Guanajuato",2008,27,"Age-standardized",1,"Male",0.481367294
+1212,"alc_drinker_prop",4653,"Guanajuato",2008,27,"Age-standardized",2,"Female",0.209520934
+1212,"alc_drinker_prop",4654,"Guerrero",2008,27,"Age-standardized",1,"Male",0.4924358772
+1212,"alc_drinker_prop",4654,"Guerrero",2008,27,"Age-standardized",2,"Female",0.2514316608
+1212,"alc_drinker_prop",4655,"Hidalgo",2008,27,"Age-standardized",1,"Male",0.5778721395
+1212,"alc_drinker_prop",4655,"Hidalgo",2008,27,"Age-standardized",2,"Female",0.2845697773
+1212,"alc_drinker_prop",4656,"Jalisco",2008,27,"Age-standardized",1,"Male",0.6201111329
+1212,"alc_drinker_prop",4656,"Jalisco",2008,27,"Age-standardized",2,"Female",0.3644046445
+1212,"alc_drinker_prop",4657,"México",2008,27,"Age-standardized",1,"Male",0.6163635372
+1212,"alc_drinker_prop",4657,"México",2008,27,"Age-standardized",2,"Female",0.3227666528
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",1,"Male",0.5573773976
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",2,"Female",0.2924415461
+1212,"alc_drinker_prop",4659,"Morelos",2008,27,"Age-standardized",1,"Male",0.5817101747
+1212,"alc_drinker_prop",4659,"Morelos",2008,27,"Age-standardized",2,"Female",0.3245171087
+1212,"alc_drinker_prop",4660,"Nayarit",2008,27,"Age-standardized",1,"Male",0.6068417317
+1212,"alc_drinker_prop",4660,"Nayarit",2008,27,"Age-standardized",2,"Female",0.3496416575
+1212,"alc_drinker_prop",4661,"Nuevo León",2008,27,"Age-standardized",1,"Male",0.5863458876
+1212,"alc_drinker_prop",4661,"Nuevo León",2008,27,"Age-standardized",2,"Female",0.2548905361
+1212,"alc_drinker_prop",4662,"Oaxaca",2008,27,"Age-standardized",1,"Male",0.518002229
+1212,"alc_drinker_prop",4662,"Oaxaca",2008,27,"Age-standardized",2,"Female",0.226321818
+1212,"alc_drinker_prop",4663,"Puebla",2008,27,"Age-standardized",1,"Male",0.594258742
+1212,"alc_drinker_prop",4663,"Puebla",2008,27,"Age-standardized",2,"Female",0.2939190673
+1212,"alc_drinker_prop",4664,"Querétaro",2008,27,"Age-standardized",1,"Male",0.5830271313
+1212,"alc_drinker_prop",4664,"Querétaro",2008,27,"Age-standardized",2,"Female",0.2981866307
+1212,"alc_drinker_prop",4665,"Quintana Roo",2008,27,"Age-standardized",1,"Male",0.6120386593
+1212,"alc_drinker_prop",4665,"Quintana Roo",2008,27,"Age-standardized",2,"Female",0.3662540018
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2008,27,"Age-standardized",1,"Male",0.509568478
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2008,27,"Age-standardized",2,"Female",0.1949374829
+1212,"alc_drinker_prop",4667,"Sinaloa",2008,27,"Age-standardized",1,"Male",0.5297765103
+1212,"alc_drinker_prop",4667,"Sinaloa",2008,27,"Age-standardized",2,"Female",0.2086348043
+1212,"alc_drinker_prop",4668,"Sonora",2008,27,"Age-standardized",1,"Male",0.5971566073
+1212,"alc_drinker_prop",4668,"Sonora",2008,27,"Age-standardized",2,"Female",0.2462250616
+1212,"alc_drinker_prop",4669,"Tabasco",2008,27,"Age-standardized",1,"Male",0.4750024489
+1212,"alc_drinker_prop",4669,"Tabasco",2008,27,"Age-standardized",2,"Female",0.2166934386
+1212,"alc_drinker_prop",4670,"Tamaulipas",2008,27,"Age-standardized",1,"Male",0.5414443231
+1212,"alc_drinker_prop",4670,"Tamaulipas",2008,27,"Age-standardized",2,"Female",0.237889261
+1212,"alc_drinker_prop",4671,"Tlaxcala",2008,27,"Age-standardized",1,"Male",0.5513781376
+1212,"alc_drinker_prop",4671,"Tlaxcala",2008,27,"Age-standardized",2,"Female",0.2910496122
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",1,"Male",0.5028004704
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",2,"Female",0.249935208
+1212,"alc_drinker_prop",4673,"Yucatán",2008,27,"Age-standardized",1,"Male",0.4893979588
+1212,"alc_drinker_prop",4673,"Yucatán",2008,27,"Age-standardized",2,"Female",0.3130655861
+1212,"alc_drinker_prop",4674,"Zacatecas",2008,27,"Age-standardized",1,"Male",0.5715553497
+1212,"alc_drinker_prop",4674,"Zacatecas",2008,27,"Age-standardized",2,"Female",0.2264346936
+1212,"alc_drinker_prop",130,"Mexico",2009,27,"Age-standardized",1,"Male",0.5522018384
+1212,"alc_drinker_prop",130,"Mexico",2009,27,"Age-standardized",2,"Female",0.2882145136
+1212,"alc_drinker_prop",4643,"Aguascalientes",2009,27,"Age-standardized",1,"Male",0.5855624275
+1212,"alc_drinker_prop",4643,"Aguascalientes",2009,27,"Age-standardized",2,"Female",0.3157202884
+1212,"alc_drinker_prop",4644,"Baja California",2009,27,"Age-standardized",1,"Male",0.4876404849
+1212,"alc_drinker_prop",4644,"Baja California",2009,27,"Age-standardized",2,"Female",0.2901108614
+1212,"alc_drinker_prop",4645,"Baja California Sur",2009,27,"Age-standardized",1,"Male",0.5706995886
+1212,"alc_drinker_prop",4645,"Baja California Sur",2009,27,"Age-standardized",2,"Female",0.3050348395
+1212,"alc_drinker_prop",4646,"Campeche",2009,27,"Age-standardized",1,"Male",0.5354760077
+1212,"alc_drinker_prop",4646,"Campeche",2009,27,"Age-standardized",2,"Female",0.24770633
+1212,"alc_drinker_prop",4647,"Coahuila",2009,27,"Age-standardized",1,"Male",0.475187007
+1212,"alc_drinker_prop",4647,"Coahuila",2009,27,"Age-standardized",2,"Female",0.2145414275
+1212,"alc_drinker_prop",4648,"Colima",2009,27,"Age-standardized",1,"Male",0.5693664784
+1212,"alc_drinker_prop",4648,"Colima",2009,27,"Age-standardized",2,"Female",0.3514342324
+1212,"alc_drinker_prop",4649,"Chiapas",2009,27,"Age-standardized",1,"Male",0.3608984642
+1212,"alc_drinker_prop",4649,"Chiapas",2009,27,"Age-standardized",2,"Female",0.2100283695
+1212,"alc_drinker_prop",4650,"Chihuahua",2009,27,"Age-standardized",1,"Male",0.56105384
+1212,"alc_drinker_prop",4650,"Chihuahua",2009,27,"Age-standardized",2,"Female",0.2980066791
+1212,"alc_drinker_prop",4651,"Mexico City",2009,27,"Age-standardized",1,"Male",0.6210015259
+1212,"alc_drinker_prop",4651,"Mexico City",2009,27,"Age-standardized",2,"Female",0.4160709005
+1212,"alc_drinker_prop",4652,"Durango",2009,27,"Age-standardized",1,"Male",0.5762833735
+1212,"alc_drinker_prop",4652,"Durango",2009,27,"Age-standardized",2,"Female",0.2225928294
+1212,"alc_drinker_prop",4653,"Guanajuato",2009,27,"Age-standardized",1,"Male",0.4865914987
+1212,"alc_drinker_prop",4653,"Guanajuato",2009,27,"Age-standardized",2,"Female",0.2194303911
+1212,"alc_drinker_prop",4654,"Guerrero",2009,27,"Age-standardized",1,"Male",0.4965332952
+1212,"alc_drinker_prop",4654,"Guerrero",2009,27,"Age-standardized",2,"Female",0.2563932638
+1212,"alc_drinker_prop",4655,"Hidalgo",2009,27,"Age-standardized",1,"Male",0.579510837
+1212,"alc_drinker_prop",4655,"Hidalgo",2009,27,"Age-standardized",2,"Female",0.2906219026
+1212,"alc_drinker_prop",4656,"Jalisco",2009,27,"Age-standardized",1,"Male",0.6203137577
+1212,"alc_drinker_prop",4656,"Jalisco",2009,27,"Age-standardized",2,"Female",0.367589406
+1212,"alc_drinker_prop",4657,"México",2009,27,"Age-standardized",1,"Male",0.6174060002
+1212,"alc_drinker_prop",4657,"México",2009,27,"Age-standardized",2,"Female",0.3272716468
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",1,"Male",0.5591235945
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",2,"Female",0.2974863574
+1212,"alc_drinker_prop",4659,"Morelos",2009,27,"Age-standardized",1,"Male",0.5827465054
+1212,"alc_drinker_prop",4659,"Morelos",2009,27,"Age-standardized",2,"Female",0.3266489574
+1212,"alc_drinker_prop",4660,"Nayarit",2009,27,"Age-standardized",1,"Male",0.6080905534
+1212,"alc_drinker_prop",4660,"Nayarit",2009,27,"Age-standardized",2,"Female",0.3523885277
+1212,"alc_drinker_prop",4661,"Nuevo León",2009,27,"Age-standardized",1,"Male",0.5871249306
+1212,"alc_drinker_prop",4661,"Nuevo León",2009,27,"Age-standardized",2,"Female",0.2585909469
+1212,"alc_drinker_prop",4662,"Oaxaca",2009,27,"Age-standardized",1,"Male",0.5207775741
+1212,"alc_drinker_prop",4662,"Oaxaca",2009,27,"Age-standardized",2,"Female",0.2337899315
+1212,"alc_drinker_prop",4663,"Puebla",2009,27,"Age-standardized",1,"Male",0.5949780353
+1212,"alc_drinker_prop",4663,"Puebla",2009,27,"Age-standardized",2,"Female",0.299504946
+1212,"alc_drinker_prop",4664,"Querétaro",2009,27,"Age-standardized",1,"Male",0.5844549864
+1212,"alc_drinker_prop",4664,"Querétaro",2009,27,"Age-standardized",2,"Female",0.3059704221
+1212,"alc_drinker_prop",4665,"Quintana Roo",2009,27,"Age-standardized",1,"Male",0.6138380211
+1212,"alc_drinker_prop",4665,"Quintana Roo",2009,27,"Age-standardized",2,"Female",0.3691353905
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2009,27,"Age-standardized",1,"Male",0.5120339061
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2009,27,"Age-standardized",2,"Female",0.2037015139
+1212,"alc_drinker_prop",4667,"Sinaloa",2009,27,"Age-standardized",1,"Male",0.531652188
+1212,"alc_drinker_prop",4667,"Sinaloa",2009,27,"Age-standardized",2,"Female",0.2143200987
+1212,"alc_drinker_prop",4668,"Sonora",2009,27,"Age-standardized",1,"Male",0.598328298
+1212,"alc_drinker_prop",4668,"Sonora",2009,27,"Age-standardized",2,"Female",0.2505195939
+1212,"alc_drinker_prop",4669,"Tabasco",2009,27,"Age-standardized",1,"Male",0.477745266
+1212,"alc_drinker_prop",4669,"Tabasco",2009,27,"Age-standardized",2,"Female",0.2228038486
+1212,"alc_drinker_prop",4670,"Tamaulipas",2009,27,"Age-standardized",1,"Male",0.5438133144
+1212,"alc_drinker_prop",4670,"Tamaulipas",2009,27,"Age-standardized",2,"Female",0.2435331392
+1212,"alc_drinker_prop",4671,"Tlaxcala",2009,27,"Age-standardized",1,"Male",0.5527189863
+1212,"alc_drinker_prop",4671,"Tlaxcala",2009,27,"Age-standardized",2,"Female",0.2961819286
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",1,"Male",0.5051094176
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",2,"Female",0.2546542443
+1212,"alc_drinker_prop",4673,"Yucatán",2009,27,"Age-standardized",1,"Male",0.4910959475
+1212,"alc_drinker_prop",4673,"Yucatán",2009,27,"Age-standardized",2,"Female",0.3162426676
+1212,"alc_drinker_prop",4674,"Zacatecas",2009,27,"Age-standardized",1,"Male",0.5729326476
+1212,"alc_drinker_prop",4674,"Zacatecas",2009,27,"Age-standardized",2,"Female",0.2318332541
+1212,"alc_drinker_prop",130,"Mexico",2010,27,"Age-standardized",1,"Male",0.5540600829
+1212,"alc_drinker_prop",130,"Mexico",2010,27,"Age-standardized",2,"Female",0.2933861637
+1212,"alc_drinker_prop",4643,"Aguascalientes",2010,27,"Age-standardized",1,"Male",0.5883489673
+1212,"alc_drinker_prop",4643,"Aguascalientes",2010,27,"Age-standardized",2,"Female",0.319691151
+1212,"alc_drinker_prop",4644,"Baja California",2010,27,"Age-standardized",1,"Male",0.4898826826
+1212,"alc_drinker_prop",4644,"Baja California",2010,27,"Age-standardized",2,"Female",0.29521096
+1212,"alc_drinker_prop",4645,"Baja California Sur",2010,27,"Age-standardized",1,"Male",0.5718677328
+1212,"alc_drinker_prop",4645,"Baja California Sur",2010,27,"Age-standardized",2,"Female",0.3109724769
+1212,"alc_drinker_prop",4646,"Campeche",2010,27,"Age-standardized",1,"Male",0.5389764742
+1212,"alc_drinker_prop",4646,"Campeche",2010,27,"Age-standardized",2,"Female",0.2536743794
+1212,"alc_drinker_prop",4647,"Coahuila",2010,27,"Age-standardized",1,"Male",0.4772830646
+1212,"alc_drinker_prop",4647,"Coahuila",2010,27,"Age-standardized",2,"Female",0.2226104294
+1212,"alc_drinker_prop",4648,"Colima",2010,27,"Age-standardized",1,"Male",0.5703078864
+1212,"alc_drinker_prop",4648,"Colima",2010,27,"Age-standardized",2,"Female",0.3565763827
+1212,"alc_drinker_prop",4649,"Chiapas",2010,27,"Age-standardized",1,"Male",0.3635158155
+1212,"alc_drinker_prop",4649,"Chiapas",2010,27,"Age-standardized",2,"Female",0.2212958359
+1212,"alc_drinker_prop",4650,"Chihuahua",2010,27,"Age-standardized",1,"Male",0.5651625916
+1212,"alc_drinker_prop",4650,"Chihuahua",2010,27,"Age-standardized",2,"Female",0.3033391834
+1212,"alc_drinker_prop",4651,"Mexico City",2010,27,"Age-standardized",1,"Male",0.6227351184
+1212,"alc_drinker_prop",4651,"Mexico City",2010,27,"Age-standardized",2,"Female",0.4182208691
+1212,"alc_drinker_prop",4652,"Durango",2010,27,"Age-standardized",1,"Male",0.5799617632
+1212,"alc_drinker_prop",4652,"Durango",2010,27,"Age-standardized",2,"Female",0.230626051
+1212,"alc_drinker_prop",4653,"Guanajuato",2010,27,"Age-standardized",1,"Male",0.491818251
+1212,"alc_drinker_prop",4653,"Guanajuato",2010,27,"Age-standardized",2,"Female",0.2296721391
+1212,"alc_drinker_prop",4654,"Guerrero",2010,27,"Age-standardized",1,"Male",0.5006309217
+1212,"alc_drinker_prop",4654,"Guerrero",2010,27,"Age-standardized",2,"Female",0.2614184724
+1212,"alc_drinker_prop",4655,"Hidalgo",2010,27,"Age-standardized",1,"Male",0.5811477386
+1212,"alc_drinker_prop",4655,"Hidalgo",2010,27,"Age-standardized",2,"Female",0.2967493139
+1212,"alc_drinker_prop",4656,"Jalisco",2010,27,"Age-standardized",1,"Male",0.6205162968
+1212,"alc_drinker_prop",4656,"Jalisco",2010,27,"Age-standardized",2,"Female",0.3707856952
+1212,"alc_drinker_prop",4657,"México",2010,27,"Age-standardized",1,"Male",0.6184472548
+1212,"alc_drinker_prop",4657,"México",2010,27,"Age-standardized",2,"Female",0.3318084749
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",1,"Male",0.5608682251
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",2,"Female",0.3025806942
+1212,"alc_drinker_prop",4659,"Morelos",2010,27,"Age-standardized",1,"Male",0.583782104
+1212,"alc_drinker_prop",4659,"Morelos",2010,27,"Age-standardized",2,"Female",0.3287879411
+1212,"alc_drinker_prop",4660,"Nayarit",2010,27,"Age-standardized",1,"Male",0.6093379602
+1212,"alc_drinker_prop",4660,"Nayarit",2010,27,"Age-standardized",2,"Female",0.3551451226
+1212,"alc_drinker_prop",4661,"Nuevo León",2010,27,"Age-standardized",1,"Male",0.5879035351
+1212,"alc_drinker_prop",4661,"Nuevo León",2010,27,"Age-standardized",2,"Female",0.2623260953
+1212,"alc_drinker_prop",4662,"Oaxaca",2010,27,"Age-standardized",1,"Male",0.5235515144
+1212,"alc_drinker_prop",4662,"Oaxaca",2010,27,"Age-standardized",2,"Female",0.2414272991
+1212,"alc_drinker_prop",4663,"Puebla",2010,27,"Age-standardized",1,"Male",0.5956968888
+1212,"alc_drinker_prop",4663,"Puebla",2010,27,"Age-standardized",2,"Female",0.3051509296
+1212,"alc_drinker_prop",4664,"Querétaro",2010,27,"Age-standardized",1,"Male",0.5858814254
+1212,"alc_drinker_prop",4664,"Querétaro",2010,27,"Age-standardized",2,"Female",0.3138658643
+1212,"alc_drinker_prop",4665,"Quintana Roo",2010,27,"Age-standardized",1,"Male",0.6156342774
+1212,"alc_drinker_prop",4665,"Quintana Roo",2010,27,"Age-standardized",2,"Female",0.3720260771
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2010,27,"Age-standardized",1,"Male",0.5144986876
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2010,27,"Age-standardized",2,"Female",0.2127556763
+1212,"alc_drinker_prop",4667,"Sinaloa",2010,27,"Age-standardized",1,"Male",0.5335269918
+1212,"alc_drinker_prop",4667,"Sinaloa",2010,27,"Age-standardized",2,"Female",0.2201168151
+1212,"alc_drinker_prop",4668,"Sonora",2010,27,"Age-standardized",1,"Male",0.5994988679
+1212,"alc_drinker_prop",4668,"Sonora",2010,27,"Age-standardized",2,"Female",0.2548635061
+1212,"alc_drinker_prop",4669,"Tabasco",2010,27,"Age-standardized",1,"Male",0.4804893497
+1212,"alc_drinker_prop",4669,"Tabasco",2010,27,"Age-standardized",2,"Female",0.22903589
+1212,"alc_drinker_prop",4670,"Tamaulipas",2010,27,"Age-standardized",1,"Male",0.54618036
+1212,"alc_drinker_prop",4670,"Tamaulipas",2010,27,"Age-standardized",2,"Female",0.2492668858
+1212,"alc_drinker_prop",4671,"Tlaxcala",2010,27,"Age-standardized",1,"Male",0.5540590671
+1212,"alc_drinker_prop",4671,"Tlaxcala",2010,27,"Age-standardized",2,"Female",0.3013659636
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",1,"Male",0.5074180356
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",2,"Female",0.2594313775
+1212,"alc_drinker_prop",4673,"Yucatán",2010,27,"Age-standardized",1,"Male",0.4927941475
+1212,"alc_drinker_prop",4673,"Yucatán",2010,27,"Age-standardized",2,"Female",0.3194369139
+1212,"alc_drinker_prop",4674,"Zacatecas",2010,27,"Age-standardized",1,"Male",0.5743087597
+1212,"alc_drinker_prop",4674,"Zacatecas",2010,27,"Age-standardized",2,"Female",0.2373206035
+1212,"alc_drinker_prop",130,"Mexico",2011,27,"Age-standardized",1,"Male",0.5582878496
+1212,"alc_drinker_prop",130,"Mexico",2011,27,"Age-standardized",2,"Female",0.3084011039
+1212,"alc_drinker_prop",4643,"Aguascalientes",2011,27,"Age-standardized",1,"Male",0.5921498518
+1212,"alc_drinker_prop",4643,"Aguascalientes",2011,27,"Age-standardized",2,"Female",0.3350011383
+1212,"alc_drinker_prop",4644,"Baja California",2011,27,"Age-standardized",1,"Male",0.4965868568
+1212,"alc_drinker_prop",4644,"Baja California",2011,27,"Age-standardized",2,"Female",0.3098969068
+1212,"alc_drinker_prop",4645,"Baja California Sur",2011,27,"Age-standardized",1,"Male",0.5759308112
+1212,"alc_drinker_prop",4645,"Baja California Sur",2011,27,"Age-standardized",2,"Female",0.3237512712
+1212,"alc_drinker_prop",4646,"Campeche",2011,27,"Age-standardized",1,"Male",0.5440914288
+1212,"alc_drinker_prop",4646,"Campeche",2011,27,"Age-standardized",2,"Female",0.270091766
+1212,"alc_drinker_prop",4647,"Coahuila",2011,27,"Age-standardized",1,"Male",0.482771
+1212,"alc_drinker_prop",4647,"Coahuila",2011,27,"Age-standardized",2,"Female",0.2410253289
+1212,"alc_drinker_prop",4648,"Colima",2011,27,"Age-standardized",1,"Male",0.5752847358
+1212,"alc_drinker_prop",4648,"Colima",2011,27,"Age-standardized",2,"Female",0.368775485
+1212,"alc_drinker_prop",4649,"Chiapas",2011,27,"Age-standardized",1,"Male",0.370982705
+1212,"alc_drinker_prop",4649,"Chiapas",2011,27,"Age-standardized",2,"Female",0.237087135
+1212,"alc_drinker_prop",4650,"Chihuahua",2011,27,"Age-standardized",1,"Male",0.5672900178
+1212,"alc_drinker_prop",4650,"Chihuahua",2011,27,"Age-standardized",2,"Female",0.3195711211
+1212,"alc_drinker_prop",4651,"Mexico City",2011,27,"Age-standardized",1,"Male",0.6270980961
+1212,"alc_drinker_prop",4651,"Mexico City",2011,27,"Age-standardized",2,"Female",0.4301735784
+1212,"alc_drinker_prop",4652,"Durango",2011,27,"Age-standardized",1,"Male",0.5828295545
+1212,"alc_drinker_prop",4652,"Durango",2011,27,"Age-standardized",2,"Female",0.248482747
+1212,"alc_drinker_prop",4653,"Guanajuato",2011,27,"Age-standardized",1,"Male",0.4995957014
+1212,"alc_drinker_prop",4653,"Guanajuato",2011,27,"Age-standardized",2,"Female",0.2493103373
+1212,"alc_drinker_prop",4654,"Guerrero",2011,27,"Age-standardized",1,"Male",0.5053603194
+1212,"alc_drinker_prop",4654,"Guerrero",2011,27,"Age-standardized",2,"Female",0.2772465059
+1212,"alc_drinker_prop",4655,"Hidalgo",2011,27,"Age-standardized",1,"Male",0.5846361056
+1212,"alc_drinker_prop",4655,"Hidalgo",2011,27,"Age-standardized",2,"Female",0.3134323475
+1212,"alc_drinker_prop",4656,"Jalisco",2011,27,"Age-standardized",1,"Male",0.6246108322
+1212,"alc_drinker_prop",4656,"Jalisco",2011,27,"Age-standardized",2,"Female",0.3820532196
+1212,"alc_drinker_prop",4657,"México",2011,27,"Age-standardized",1,"Male",0.6215282674
+1212,"alc_drinker_prop",4657,"México",2011,27,"Age-standardized",2,"Female",0.3459856036
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",1,"Male",0.5642982975
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",2,"Female",0.3196451193
+1212,"alc_drinker_prop",4659,"Morelos",2011,27,"Age-standardized",1,"Male",0.5858636116
+1212,"alc_drinker_prop",4659,"Morelos",2011,27,"Age-standardized",2,"Female",0.3408837169
+1212,"alc_drinker_prop",4660,"Nayarit",2011,27,"Age-standardized",1,"Male",0.6133403439
+1212,"alc_drinker_prop",4660,"Nayarit",2011,27,"Age-standardized",2,"Female",0.3679494256
+1212,"alc_drinker_prop",4661,"Nuevo León",2011,27,"Age-standardized",1,"Male",0.589716049
+1212,"alc_drinker_prop",4661,"Nuevo León",2011,27,"Age-standardized",2,"Female",0.274836134
+1212,"alc_drinker_prop",4662,"Oaxaca",2011,27,"Age-standardized",1,"Male",0.5296726897
+1212,"alc_drinker_prop",4662,"Oaxaca",2011,27,"Age-standardized",2,"Female",0.2602142953
+1212,"alc_drinker_prop",4663,"Puebla",2011,27,"Age-standardized",1,"Male",0.5997647022
+1212,"alc_drinker_prop",4663,"Puebla",2011,27,"Age-standardized",2,"Female",0.3220067377
+1212,"alc_drinker_prop",4664,"Querétaro",2011,27,"Age-standardized",1,"Male",0.5896367331
+1212,"alc_drinker_prop",4664,"Querétaro",2011,27,"Age-standardized",2,"Female",0.3282783522
+1212,"alc_drinker_prop",4665,"Quintana Roo",2011,27,"Age-standardized",1,"Male",0.6176739129
+1212,"alc_drinker_prop",4665,"Quintana Roo",2011,27,"Age-standardized",2,"Female",0.3795219839
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2011,27,"Age-standardized",1,"Male",0.5196363742
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2011,27,"Age-standardized",2,"Female",0.2301065141
+1212,"alc_drinker_prop",4667,"Sinaloa",2011,27,"Age-standardized",1,"Male",0.5371097613
+1212,"alc_drinker_prop",4667,"Sinaloa",2011,27,"Age-standardized",2,"Female",0.2354031602
+1212,"alc_drinker_prop",4668,"Sonora",2011,27,"Age-standardized",1,"Male",0.6037857899
+1212,"alc_drinker_prop",4668,"Sonora",2011,27,"Age-standardized",2,"Female",0.2695776071
+1212,"alc_drinker_prop",4669,"Tabasco",2011,27,"Age-standardized",1,"Male",0.4852214345
+1212,"alc_drinker_prop",4669,"Tabasco",2011,27,"Age-standardized",2,"Female",0.2443882153
+1212,"alc_drinker_prop",4670,"Tamaulipas",2011,27,"Age-standardized",1,"Male",0.5491093288
+1212,"alc_drinker_prop",4670,"Tamaulipas",2011,27,"Age-standardized",2,"Female",0.2619319504
+1212,"alc_drinker_prop",4671,"Tlaxcala",2011,27,"Age-standardized",1,"Male",0.5586823628
+1212,"alc_drinker_prop",4671,"Tlaxcala",2011,27,"Age-standardized",2,"Female",0.3191504261
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",1,"Male",0.5120796199
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",2,"Female",0.2733642263
+1212,"alc_drinker_prop",4673,"Yucatán",2011,27,"Age-standardized",1,"Male",0.4994990595
+1212,"alc_drinker_prop",4673,"Yucatán",2011,27,"Age-standardized",2,"Female",0.3332781759
+1212,"alc_drinker_prop",4674,"Zacatecas",2011,27,"Age-standardized",1,"Male",0.5766911533
+1212,"alc_drinker_prop",4674,"Zacatecas",2011,27,"Age-standardized",2,"Female",0.2537361589
+1212,"alc_drinker_prop",130,"Mexico",2012,27,"Age-standardized",1,"Male",0.5625069499
+1212,"alc_drinker_prop",130,"Mexico",2012,27,"Age-standardized",2,"Female",0.323833193
+1212,"alc_drinker_prop",4643,"Aguascalientes",2012,27,"Age-standardized",1,"Male",0.5959393779
+1212,"alc_drinker_prop",4643,"Aguascalientes",2012,27,"Age-standardized",2,"Female",0.3506679106
+1212,"alc_drinker_prop",4644,"Baja California",2012,27,"Age-standardized",1,"Male",0.5032914052
+1212,"alc_drinker_prop",4644,"Baja California",2012,27,"Age-standardized",2,"Female",0.3249781176
+1212,"alc_drinker_prop",4645,"Baja California Sur",2012,27,"Age-standardized",1,"Male",0.5799833817
+1212,"alc_drinker_prop",4645,"Baja California Sur",2012,27,"Age-standardized",2,"Female",0.336799059
+1212,"alc_drinker_prop",4646,"Campeche",2012,27,"Age-standardized",1,"Male",0.5491967229
+1212,"alc_drinker_prop",4646,"Campeche",2012,27,"Age-standardized",2,"Female",0.2871635575
+1212,"alc_drinker_prop",4647,"Coahuila",2012,27,"Age-standardized",1,"Male",0.4882627133
+1212,"alc_drinker_prop",4647,"Coahuila",2012,27,"Age-standardized",2,"Female",0.2604527563
+1212,"alc_drinker_prop",4648,"Colima",2012,27,"Age-standardized",1,"Male",0.5802461734
+1212,"alc_drinker_prop",4648,"Colima",2012,27,"Age-standardized",2,"Female",0.3811456939
+1212,"alc_drinker_prop",4649,"Chiapas",2012,27,"Age-standardized",1,"Male",0.3785114888
+1212,"alc_drinker_prop",4649,"Chiapas",2012,27,"Age-standardized",2,"Female",0.2536397287
+1212,"alc_drinker_prop",4650,"Chihuahua",2012,27,"Age-standardized",1,"Male",0.5694147932
+1212,"alc_drinker_prop",4650,"Chihuahua",2012,27,"Age-standardized",2,"Female",0.3362527938
+1212,"alc_drinker_prop",4651,"Mexico City",2012,27,"Age-standardized",1,"Male",0.6314402036
+1212,"alc_drinker_prop",4651,"Mexico City",2012,27,"Age-standardized",2,"Female",0.4422078641
+1212,"alc_drinker_prop",4652,"Durango",2012,27,"Age-standardized",1,"Male",0.5856917357
+1212,"alc_drinker_prop",4652,"Durango",2012,27,"Age-standardized",2,"Female",0.2672447129
+1212,"alc_drinker_prop",4653,"Guanajuato",2012,27,"Age-standardized",1,"Male",0.5073725552
+1212,"alc_drinker_prop",4653,"Guanajuato",2012,27,"Age-standardized",2,"Female",0.270040368
+1212,"alc_drinker_prop",4654,"Guerrero",2012,27,"Age-standardized",1,"Male",0.5100886723
+1212,"alc_drinker_prop",4654,"Guerrero",2012,27,"Age-standardized",2,"Female",0.2936538603
+1212,"alc_drinker_prop",4655,"Hidalgo",2012,27,"Age-standardized",1,"Male",0.5881158855
+1212,"alc_drinker_prop",4655,"Hidalgo",2012,27,"Age-standardized",2,"Female",0.3306139585
+1212,"alc_drinker_prop",4656,"Jalisco",2012,27,"Age-standardized",1,"Male",0.6286874516
+1212,"alc_drinker_prop",4656,"Jalisco",2012,27,"Age-standardized",2,"Female",0.3934493573
+1212,"alc_drinker_prop",4657,"México",2012,27,"Age-standardized",1,"Male",0.6245988776
+1212,"alc_drinker_prop",4657,"México",2012,27,"Age-standardized",2,"Female",0.3604430384
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",1,"Male",0.5677219165
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",2,"Female",0.3372082591
+1212,"alc_drinker_prop",4659,"Morelos",2012,27,"Age-standardized",1,"Male",0.5879419445
+1212,"alc_drinker_prop",4659,"Morelos",2012,27,"Age-standardized",2,"Female",0.353191441
+1212,"alc_drinker_prop",4660,"Nayarit",2012,27,"Age-standardized",1,"Male",0.6173273781
+1212,"alc_drinker_prop",4660,"Nayarit",2012,27,"Age-standardized",2,"Female",0.3809427575
+1212,"alc_drinker_prop",4661,"Nuevo León",2012,27,"Age-standardized",1,"Male",0.5915261082
+1212,"alc_drinker_prop",4661,"Nuevo León",2012,27,"Age-standardized",2,"Female",0.2877091324
+1212,"alc_drinker_prop",4662,"Oaxaca",2012,27,"Age-standardized",1,"Male",0.5357849143
+1212,"alc_drinker_prop",4662,"Oaxaca",2012,27,"Age-standardized",2,"Female",0.2799261502
+1212,"alc_drinker_prop",4663,"Puebla",2012,27,"Age-standardized",1,"Male",0.6038181922
+1212,"alc_drinker_prop",4663,"Puebla",2012,27,"Age-standardized",2,"Female",0.3393392795
+1212,"alc_drinker_prop",4664,"Querétaro",2012,27,"Age-standardized",1,"Male",0.5933815375
+1212,"alc_drinker_prop",4664,"Querétaro",2012,27,"Age-standardized",2,"Female",0.3430234801
+1212,"alc_drinker_prop",4665,"Quintana Roo",2012,27,"Age-standardized",1,"Male",0.6197092141
+1212,"alc_drinker_prop",4665,"Quintana Roo",2012,27,"Age-standardized",2,"Female",0.3870753208
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2012,27,"Age-standardized",1,"Male",0.5247698347
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2012,27,"Age-standardized",2,"Female",0.2484281001
+1212,"alc_drinker_prop",4667,"Sinaloa",2012,27,"Age-standardized",1,"Male",0.5406886534
+1212,"alc_drinker_prop",4667,"Sinaloa",2012,27,"Age-standardized",2,"Female",0.2514104058
+1212,"alc_drinker_prop",4668,"Sonora",2012,27,"Age-standardized",1,"Male",0.6080566662
+1212,"alc_drinker_prop",4668,"Sonora",2012,27,"Age-standardized",2,"Female",0.2848171701
+1212,"alc_drinker_prop",4669,"Tabasco",2012,27,"Age-standardized",1,"Male",0.4899559415
+1212,"alc_drinker_prop",4669,"Tabasco",2012,27,"Age-standardized",2,"Female",0.2604234278
+1212,"alc_drinker_prop",4670,"Tamaulipas",2012,27,"Age-standardized",1,"Male",0.5520347539
+1212,"alc_drinker_prop",4670,"Tamaulipas",2012,27,"Age-standardized",2,"Female",0.2750051932
+1212,"alc_drinker_prop",4671,"Tlaxcala",2012,27,"Age-standardized",1,"Male",0.5632951907
+1212,"alc_drinker_prop",4671,"Tlaxcala",2012,27,"Age-standardized",2,"Female",0.3374799592
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",1,"Male",0.5167387445
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",2,"Female",0.2877557377
+1212,"alc_drinker_prop",4673,"Yucatán",2012,27,"Age-standardized",1,"Male",0.5062040577
+1212,"alc_drinker_prop",4673,"Yucatán",2012,27,"Age-standardized",2,"Female",0.3474110214
+1212,"alc_drinker_prop",4674,"Zacatecas",2012,27,"Age-standardized",1,"Male",0.5790696902
+1212,"alc_drinker_prop",4674,"Zacatecas",2012,27,"Age-standardized",2,"Female",0.2708860499
+1212,"alc_drinker_prop",130,"Mexico",2013,27,"Age-standardized",1,"Male",0.5667167842
+1212,"alc_drinker_prop",130,"Mexico",2013,27,"Age-standardized",2,"Female",0.3396590634
+1212,"alc_drinker_prop",4643,"Aguascalientes",2013,27,"Age-standardized",1,"Male",0.599717116
+1212,"alc_drinker_prop",4643,"Aguascalientes",2013,27,"Age-standardized",2,"Female",0.3666647818
+1212,"alc_drinker_prop",4644,"Baja California",2013,27,"Age-standardized",1,"Male",0.5099938529
+1212,"alc_drinker_prop",4644,"Baja California",2013,27,"Age-standardized",2,"Female",0.3404326631
+1212,"alc_drinker_prop",4645,"Baja California Sur",2013,27,"Age-standardized",1,"Male",0.5840249131
+1212,"alc_drinker_prop",4645,"Baja California Sur",2013,27,"Age-standardized",2,"Female",0.3501008999
+1212,"alc_drinker_prop",4646,"Campeche",2013,27,"Age-standardized",1,"Male",0.5542912708
+1212,"alc_drinker_prop",4646,"Campeche",2013,27,"Age-standardized",2,"Female",0.3048642548
+1212,"alc_drinker_prop",4647,"Coahuila",2013,27,"Age-standardized",1,"Male",0.4937568456
+1212,"alc_drinker_prop",4647,"Coahuila",2013,27,"Age-standardized",2,"Female",0.2808654286
+1212,"alc_drinker_prop",4648,"Colima",2013,27,"Age-standardized",1,"Male",0.5851912406
+1212,"alc_drinker_prop",4648,"Colima",2013,27,"Age-standardized",2,"Female",0.3936730061
+1212,"alc_drinker_prop",4649,"Chiapas",2013,27,"Age-standardized",1,"Male",0.3860989916
+1212,"alc_drinker_prop",4649,"Chiapas",2013,27,"Age-standardized",2,"Female",0.2709391872
+1212,"alc_drinker_prop",4650,"Chihuahua",2013,27,"Age-standardized",1,"Male",0.5715368326
+1212,"alc_drinker_prop",4650,"Chihuahua",2013,27,"Age-standardized",2,"Female",0.3533531811
+1212,"alc_drinker_prop",4651,"Mexico City",2013,27,"Age-standardized",1,"Male",0.6357608268
+1212,"alc_drinker_prop",4651,"Mexico City",2013,27,"Age-standardized",2,"Female",0.45430988
+1212,"alc_drinker_prop",4652,"Durango",2013,27,"Age-standardized",1,"Male",0.5885481276
+1212,"alc_drinker_prop",4652,"Durango",2013,27,"Age-standardized",2,"Female",0.2868852866
+1212,"alc_drinker_prop",4653,"Guanajuato",2013,27,"Age-standardized",1,"Male",0.5151449748
+1212,"alc_drinker_prop",4653,"Guanajuato",2013,27,"Age-standardized",2,"Female",0.2918253821
+1212,"alc_drinker_prop",4654,"Guerrero",2013,27,"Age-standardized",1,"Male",0.5148151301
+1212,"alc_drinker_prop",4654,"Guerrero",2013,27,"Age-standardized",2,"Female",0.3106169957
+1212,"alc_drinker_prop",4655,"Hidalgo",2013,27,"Age-standardized",1,"Male",0.5915867546
+1212,"alc_drinker_prop",4655,"Hidalgo",2013,27,"Age-standardized",2,"Female",0.3482612583
+1212,"alc_drinker_prop",4656,"Jalisco",2013,27,"Age-standardized",1,"Male",0.6327456554
+1212,"alc_drinker_prop",4656,"Jalisco",2013,27,"Age-standardized",2,"Female",0.4049629573
+1212,"alc_drinker_prop",4657,"México",2013,27,"Age-standardized",1,"Male",0.6276588473
+1212,"alc_drinker_prop",4657,"México",2013,27,"Age-standardized",2,"Female",0.3751593688
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",1,"Male",0.571138751
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",2,"Female",0.3552341145
+1212,"alc_drinker_prop",4659,"Morelos",2013,27,"Age-standardized",1,"Male",0.590017026
+1212,"alc_drinker_prop",4659,"Morelos",2013,27,"Age-standardized",2,"Female",0.3656980742
+1212,"alc_drinker_prop",4660,"Nayarit",2013,27,"Age-standardized",1,"Male",0.6212985871
+1212,"alc_drinker_prop",4660,"Nayarit",2013,27,"Age-standardized",2,"Female",0.394108791
+1212,"alc_drinker_prop",4661,"Nuevo León",2013,27,"Age-standardized",1,"Male",0.5933336693
+1212,"alc_drinker_prop",4661,"Nuevo León",2013,27,"Age-standardized",2,"Female",0.300933745
+1212,"alc_drinker_prop",4662,"Oaxaca",2013,27,"Age-standardized",1,"Male",0.5418863611
+1212,"alc_drinker_prop",4662,"Oaxaca",2013,27,"Age-standardized",2,"Female",0.3005270113
+1212,"alc_drinker_prop",4663,"Puebla",2013,27,"Age-standardized",1,"Male",0.6078568267
+1212,"alc_drinker_prop",4663,"Puebla",2013,27,"Age-standardized",2,"Female",0.3571136536
+1212,"alc_drinker_prop",4664,"Querétaro",2013,27,"Age-standardized",1,"Male",0.5971154249
+1212,"alc_drinker_prop",4664,"Querétaro",2013,27,"Age-standardized",2,"Female",0.3580795315
+1212,"alc_drinker_prop",4665,"Quintana Roo",2013,27,"Age-standardized",1,"Male",0.6217401211
+1212,"alc_drinker_prop",4665,"Quintana Roo",2013,27,"Age-standardized",2,"Female",0.3946827863
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2013,27,"Age-standardized",1,"Male",0.529897988
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2013,27,"Age-standardized",2,"Female",0.2677037031
+1212,"alc_drinker_prop",4667,"Sinaloa",2013,27,"Age-standardized",1,"Male",0.5442632959
+1212,"alc_drinker_prop",4667,"Sinaloa",2013,27,"Age-standardized",2,"Female",0.2681259992
+1212,"alc_drinker_prop",4668,"Sonora",2013,27,"Age-standardized",1,"Male",0.6123108994
+1212,"alc_drinker_prop",4668,"Sonora",2013,27,"Age-standardized",2,"Female",0.3005644158
+1212,"alc_drinker_prop",4669,"Tabasco",2013,27,"Age-standardized",1,"Male",0.494692004
+1212,"alc_drinker_prop",4669,"Tabasco",2013,27,"Age-standardized",2,"Female",0.2771264134
+1212,"alc_drinker_prop",4670,"Tamaulipas",2013,27,"Age-standardized",1,"Male",0.5549564303
+1212,"alc_drinker_prop",4670,"Tamaulipas",2013,27,"Age-standardized",2,"Female",0.2884762592
+1212,"alc_drinker_prop",4671,"Tlaxcala",2013,27,"Age-standardized",1,"Male",0.5678967676
+1212,"alc_drinker_prop",4671,"Tlaxcala",2013,27,"Age-standardized",2,"Female",0.3563135729
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",1,"Male",0.5213945781
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",2,"Female",0.3025905846
+1212,"alc_drinker_prop",4673,"Yucatán",2013,27,"Age-standardized",1,"Male",0.5129067196
+1212,"alc_drinker_prop",4673,"Yucatán",2013,27,"Age-standardized",2,"Female",0.3618153495
+1212,"alc_drinker_prop",4674,"Zacatecas",2013,27,"Age-standardized",1,"Male",0.581444254
+1212,"alc_drinker_prop",4674,"Zacatecas",2013,27,"Age-standardized",2,"Female",0.2887488012
+1212,"alc_drinker_prop",130,"Mexico",2014,27,"Age-standardized",1,"Male",0.5709167485
+1212,"alc_drinker_prop",130,"Mexico",2014,27,"Age-standardized",2,"Female",0.3558520709
+1212,"alc_drinker_prop",4643,"Aguascalientes",2014,27,"Age-standardized",1,"Male",0.603482636
+1212,"alc_drinker_prop",4643,"Aguascalientes",2014,27,"Age-standardized",2,"Female",0.3829622916
+1212,"alc_drinker_prop",4644,"Baja California",2014,27,"Age-standardized",1,"Male",0.5166917116
+1212,"alc_drinker_prop",4644,"Baja California",2014,27,"Age-standardized",2,"Female",0.3562356368
+1212,"alc_drinker_prop",4645,"Baja California Sur",2014,27,"Age-standardized",1,"Male",0.5880548819
+1212,"alc_drinker_prop",4645,"Baja California Sur",2014,27,"Age-standardized",2,"Female",0.3636403647
+1212,"alc_drinker_prop",4646,"Campeche",2014,27,"Age-standardized",1,"Male",0.5593739983
+1212,"alc_drinker_prop",4646,"Campeche",2014,27,"Age-standardized",2,"Female",0.3231617187
+1212,"alc_drinker_prop",4647,"Coahuila",2014,27,"Age-standardized",1,"Male",0.4992520396
+1212,"alc_drinker_prop",4647,"Coahuila",2014,27,"Age-standardized",2,"Female",0.3022220996
+1212,"alc_drinker_prop",4648,"Colima",2014,27,"Age-standardized",1,"Male",0.5901189927
+1212,"alc_drinker_prop",4648,"Colima",2014,27,"Age-standardized",2,"Female",0.4063426094
+1212,"alc_drinker_prop",4649,"Chiapas",2014,27,"Age-standardized",1,"Male",0.3937419252
+1212,"alc_drinker_prop",4649,"Chiapas",2014,27,"Age-standardized",2,"Female",0.2889635086
+1212,"alc_drinker_prop",4650,"Chihuahua",2014,27,"Age-standardized",1,"Male",0.5736560612
+1212,"alc_drinker_prop",4650,"Chihuahua",2014,27,"Age-standardized",2,"Female",0.3708372068
+1212,"alc_drinker_prop",4651,"Mexico City",2014,27,"Age-standardized",1,"Male",0.6400593716
+1212,"alc_drinker_prop",4651,"Mexico City",2014,27,"Age-standardized",2,"Female",0.4664654595
+1212,"alc_drinker_prop",4652,"Durango",2014,27,"Age-standardized",1,"Male",0.5913985435
+1212,"alc_drinker_prop",4652,"Durango",2014,27,"Age-standardized",2,"Female",0.3073663291
+1212,"alc_drinker_prop",4653,"Guanajuato",2014,27,"Age-standardized",1,"Male",0.5229091296
+1212,"alc_drinker_prop",4653,"Guanajuato",2014,27,"Age-standardized",2,"Female",0.3146118058
+1212,"alc_drinker_prop",4654,"Guerrero",2014,27,"Age-standardized",1,"Male",0.5195388436
+1212,"alc_drinker_prop",4654,"Guerrero",2014,27,"Age-standardized",2,"Female",0.3281069984
+1212,"alc_drinker_prop",4655,"Hidalgo",2014,27,"Age-standardized",1,"Male",0.5950483777
+1212,"alc_drinker_prop",4655,"Hidalgo",2014,27,"Age-standardized",2,"Female",0.3663365625
+1212,"alc_drinker_prop",4656,"Jalisco",2014,27,"Age-standardized",1,"Male",0.6367849479
+1212,"alc_drinker_prop",4656,"Jalisco",2014,27,"Age-standardized",2,"Female",0.4165823568
+1212,"alc_drinker_prop",4657,"México",2014,27,"Age-standardized",1,"Male",0.6307079466
+1212,"alc_drinker_prop",4657,"México",2014,27,"Age-standardized",2,"Female",0.3901113437
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",1,"Male",0.5745484743
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",2,"Female",0.3736817223
+1212,"alc_drinker_prop",4659,"Morelos",2014,27,"Age-standardized",1,"Male",0.5920887878
+1212,"alc_drinker_prop",4659,"Morelos",2014,27,"Age-standardized",2,"Female",0.3783895492
+1212,"alc_drinker_prop",4660,"Nayarit",2014,27,"Age-standardized",1,"Male",0.6252534955
+1212,"alc_drinker_prop",4660,"Nayarit",2014,27,"Age-standardized",2,"Female",0.4074302207
+1212,"alc_drinker_prop",4661,"Nuevo León",2014,27,"Age-standardized",1,"Male",0.5951386868
+1212,"alc_drinker_prop",4661,"Nuevo León",2014,27,"Age-standardized",2,"Female",0.3144965268
+1212,"alc_drinker_prop",4662,"Oaxaca",2014,27,"Age-standardized",1,"Male",0.5479752263
+1212,"alc_drinker_prop",4662,"Oaxaca",2014,27,"Age-standardized",2,"Female",0.3219684005
+1212,"alc_drinker_prop",4663,"Puebla",2014,27,"Age-standardized",1,"Male",0.6118800846
+1212,"alc_drinker_prop",4663,"Puebla",2014,27,"Age-standardized",2,"Female",0.3752903768
+1212,"alc_drinker_prop",4664,"Querétaro",2014,27,"Age-standardized",1,"Male",0.6008379977
+1212,"alc_drinker_prop",4664,"Querétaro",2014,27,"Age-standardized",2,"Female",0.3734224707
+1212,"alc_drinker_prop",4665,"Quintana Roo",2014,27,"Age-standardized",1,"Male",0.6237665581
+1212,"alc_drinker_prop",4665,"Quintana Roo",2014,27,"Age-standardized",2,"Female",0.4023409777
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2014,27,"Age-standardized",1,"Male",0.5350197502
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2014,27,"Age-standardized",2,"Female",0.2879046338
+1212,"alc_drinker_prop",4667,"Sinaloa",2014,27,"Age-standardized",1,"Male",0.5478333256
+1212,"alc_drinker_prop",4667,"Sinaloa",2014,27,"Age-standardized",2,"Female",0.2855306576
+1212,"alc_drinker_prop",4668,"Sonora",2014,27,"Age-standardized",1,"Male",0.6165479065
+1212,"alc_drinker_prop",4668,"Sonora",2014,27,"Age-standardized",2,"Female",0.3167973213
+1212,"alc_drinker_prop",4669,"Tabasco",2014,27,"Age-standardized",1,"Male",0.4994287536
+1212,"alc_drinker_prop",4669,"Tabasco",2014,27,"Age-standardized",2,"Female",0.2944757464
+1212,"alc_drinker_prop",4670,"Tamaulipas",2014,27,"Age-standardized",1,"Male",0.5578741529
+1212,"alc_drinker_prop",4670,"Tamaulipas",2014,27,"Age-standardized",2,"Female",0.3023323225
+1212,"alc_drinker_prop",4671,"Tlaxcala",2014,27,"Age-standardized",1,"Male",0.5724863078
+1212,"alc_drinker_prop",4671,"Tlaxcala",2014,27,"Age-standardized",2,"Female",0.3756043688
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",1,"Male",0.526046286
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",2,"Female",0.3178501707
+1212,"alc_drinker_prop",4673,"Yucatán",2014,27,"Age-standardized",1,"Male",0.5196046269
+1212,"alc_drinker_prop",4673,"Yucatán",2014,27,"Age-standardized",2,"Female",0.3764691619
+1212,"alc_drinker_prop",4674,"Zacatecas",2014,27,"Age-standardized",1,"Male",0.5838147301
+1212,"alc_drinker_prop",4674,"Zacatecas",2014,27,"Age-standardized",2,"Female",0.3072952538
+1212,"alc_drinker_prop",130,"Mexico",2015,27,"Age-standardized",1,"Male",0.5751062586
+1212,"alc_drinker_prop",130,"Mexico",2015,27,"Age-standardized",2,"Female",0.3723823987
+1212,"alc_drinker_prop",4643,"Aguascalientes",2015,27,"Age-standardized",1,"Male",0.6072355154
+1212,"alc_drinker_prop",4643,"Aguascalientes",2015,27,"Age-standardized",2,"Female",0.3995283559
+1212,"alc_drinker_prop",4644,"Baja California",2015,27,"Age-standardized",1,"Male",0.5233825142
+1212,"alc_drinker_prop",4644,"Baja California",2015,27,"Age-standardized",2,"Female",0.3723592549
+1212,"alc_drinker_prop",4645,"Baja California Sur",2015,27,"Age-standardized",1,"Male",0.5920727722
+1212,"alc_drinker_prop",4645,"Baja California Sur",2015,27,"Age-standardized",2,"Female",0.3773995736
+1212,"alc_drinker_prop",4646,"Campeche",2015,27,"Age-standardized",1,"Male",0.5644438452
+1212,"alc_drinker_prop",4646,"Campeche",2015,27,"Age-standardized",2,"Female",0.3420171399
+1212,"alc_drinker_prop",4647,"Coahuila",2015,27,"Age-standardized",1,"Male",0.5047469302
+1212,"alc_drinker_prop",4647,"Coahuila",2015,27,"Age-standardized",2,"Female",0.3244670115
+1212,"alc_drinker_prop",4648,"Colima",2015,27,"Age-standardized",1,"Male",0.5950284971
+1212,"alc_drinker_prop",4648,"Colima",2015,27,"Age-standardized",2,"Female",0.4191389452
+1212,"alc_drinker_prop",4649,"Chiapas",2015,27,"Age-standardized",1,"Male",0.4014369059
+1212,"alc_drinker_prop",4649,"Chiapas",2015,27,"Age-standardized",2,"Female",0.3076827757
+1212,"alc_drinker_prop",4650,"Chihuahua",2015,27,"Age-standardized",1,"Male",0.5757723937
+1212,"alc_drinker_prop",4650,"Chihuahua",2015,27,"Age-standardized",2,"Female",0.3886659485
+1212,"alc_drinker_prop",4651,"Mexico City",2015,27,"Age-standardized",1,"Male",0.6443352568
+1212,"alc_drinker_prop",4651,"Mexico City",2015,27,"Age-standardized",2,"Female",0.4786601878
+1212,"alc_drinker_prop",4652,"Durango",2015,27,"Age-standardized",1,"Male",0.5942428088
+1212,"alc_drinker_prop",4652,"Durango",2015,27,"Age-standardized",2,"Female",0.3286378887
+1212,"alc_drinker_prop",4653,"Guanajuato",2015,27,"Age-standardized",1,"Male",0.5306612057
+1212,"alc_drinker_prop",4653,"Guanajuato",2015,27,"Age-standardized",2,"Female",0.3383288804
+1212,"alc_drinker_prop",4654,"Guerrero",2015,27,"Age-standardized",1,"Male",0.5242589631
+1212,"alc_drinker_prop",4654,"Guerrero",2015,27,"Age-standardized",2,"Female",0.3460896139
+1212,"alc_drinker_prop",4655,"Hidalgo",2015,27,"Age-standardized",1,"Male",0.5985004386
+1212,"alc_drinker_prop",4655,"Hidalgo",2015,27,"Age-standardized",2,"Female",0.3847976269
+1212,"alc_drinker_prop",4656,"Jalisco",2015,27,"Age-standardized",1,"Male",0.6408048419
+1212,"alc_drinker_prop",4656,"Jalisco",2015,27,"Age-standardized",2,"Female",0.4282954258
+1212,"alc_drinker_prop",4657,"México",2015,27,"Age-standardized",1,"Male",0.6337459405
+1212,"alc_drinker_prop",4657,"México",2015,27,"Age-standardized",2,"Female",0.405273991
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",1,"Male",0.577950754
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",2,"Female",0.3925054329
+1212,"alc_drinker_prop",4659,"Morelos",2015,27,"Age-standardized",1,"Male",0.594157157
+1212,"alc_drinker_prop",4659,"Morelos",2015,27,"Age-standardized",2,"Female",0.3912508224
+1212,"alc_drinker_prop",4660,"Nayarit",2015,27,"Age-standardized",1,"Male",0.6291916448
+1212,"alc_drinker_prop",4660,"Nayarit",2015,27,"Age-standardized",2,"Female",0.4208888398
+1212,"alc_drinker_prop",4661,"Nuevo León",2015,27,"Age-standardized",1,"Male",0.5969411174
+1212,"alc_drinker_prop",4661,"Nuevo León",2015,27,"Age-standardized",2,"Female",0.328381932
+1212,"alc_drinker_prop",4662,"Oaxaca",2015,27,"Age-standardized",1,"Male",0.554049719
+1212,"alc_drinker_prop",4662,"Oaxaca",2015,27,"Age-standardized",2,"Female",0.3441890322
+1212,"alc_drinker_prop",4663,"Puebla",2015,27,"Age-standardized",1,"Male",0.6158874466
+1212,"alc_drinker_prop",4663,"Puebla",2015,27,"Age-standardized",2,"Female",0.3938256401
+1212,"alc_drinker_prop",4664,"Querétaro",2015,27,"Age-standardized",1,"Male",0.6045488581
+1212,"alc_drinker_prop",4664,"Querétaro",2015,27,"Age-standardized",2,"Female",0.3890260439
+1212,"alc_drinker_prop",4665,"Quintana Roo",2015,27,"Age-standardized",1,"Male",0.6257884634
+1212,"alc_drinker_prop",4665,"Quintana Roo",2015,27,"Age-standardized",2,"Female",0.410046399
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2015,27,"Age-standardized",1,"Male",0.5401340507
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2015,27,"Age-standardized",2,"Female",0.3089895525
+1212,"alc_drinker_prop",4667,"Sinaloa",2015,27,"Age-standardized",1,"Male",0.5513983815
+1212,"alc_drinker_prop",4667,"Sinaloa",2015,27,"Age-standardized",2,"Female",0.3035980355
+1212,"alc_drinker_prop",4668,"Sonora",2015,27,"Age-standardized",1,"Male",0.6207671075
+1212,"alc_drinker_prop",4668,"Sonora",2015,27,"Age-standardized",2,"Female",0.3334895875
+1212,"alc_drinker_prop",4669,"Tabasco",2015,27,"Age-standardized",1,"Male",0.5041653183
+1212,"alc_drinker_prop",4669,"Tabasco",2015,27,"Age-standardized",2,"Female",0.3124434557
+1212,"alc_drinker_prop",4670,"Tamaulipas",2015,27,"Age-standardized",1,"Male",0.5607877214
+1212,"alc_drinker_prop",4670,"Tamaulipas",2015,27,"Age-standardized",2,"Female",0.3165580585
+1212,"alc_drinker_prop",4671,"Tlaxcala",2015,27,"Age-standardized",1,"Male",0.5770630449
+1212,"alc_drinker_prop",4671,"Tlaxcala",2015,27,"Age-standardized",2,"Female",0.3952998586
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",1,"Male",0.5306930367
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",2,"Female",0.3335125833
+1212,"alc_drinker_prop",4673,"Yucatán",2015,27,"Age-standardized",1,"Male",0.5262953695
+1212,"alc_drinker_prop",4673,"Yucatán",2015,27,"Age-standardized",2,"Female",0.3913486947
+1212,"alc_drinker_prop",4674,"Zacatecas",2015,27,"Age-standardized",1,"Male",0.5861809995
+1212,"alc_drinker_prop",4674,"Zacatecas",2015,27,"Age-standardized",2,"Female",0.3264883799
+1212,"alc_drinker_prop",130,"Mexico",2016,27,"Age-standardized",1,"Male",0.5792847192
+1212,"alc_drinker_prop",130,"Mexico",2016,27,"Age-standardized",2,"Female",0.3892172141
+1212,"alc_drinker_prop",4643,"Aguascalientes",2016,27,"Age-standardized",1,"Male",0.6109753429
+1212,"alc_drinker_prop",4643,"Aguascalientes",2016,27,"Age-standardized",2,"Female",0.4163284918
+1212,"alc_drinker_prop",4644,"Baja California",2016,27,"Age-standardized",1,"Male",0.5300638
+1212,"alc_drinker_prop",4644,"Baja California",2016,27,"Age-standardized",2,"Female",0.3887729897
+1212,"alc_drinker_prop",4645,"Baja California Sur",2016,27,"Age-standardized",1,"Male",0.5960780688
+1212,"alc_drinker_prop",4645,"Baja California Sur",2016,27,"Age-standardized",2,"Female",0.391359284
+1212,"alc_drinker_prop",4646,"Campeche",2016,27,"Age-standardized",1,"Male",0.5694997555
+1212,"alc_drinker_prop",4646,"Campeche",2016,27,"Age-standardized",2,"Female",0.3613851384
+1212,"alc_drinker_prop",4647,"Coahuila",2016,27,"Age-standardized",1,"Male",0.5102401597
+1212,"alc_drinker_prop",4647,"Coahuila",2016,27,"Age-standardized",2,"Female",0.3475297625
+1212,"alc_drinker_prop",4648,"Colima",2016,27,"Age-standardized",1,"Male",0.5999188337
+1212,"alc_drinker_prop",4648,"Colima",2016,27,"Age-standardized",2,"Female",0.4320457841
+1212,"alc_drinker_prop",4649,"Chiapas",2016,27,"Age-standardized",1,"Male",0.4091804365
+1212,"alc_drinker_prop",4649,"Chiapas",2016,27,"Age-standardized",2,"Female",0.3270589472
+1212,"alc_drinker_prop",4650,"Chihuahua",2016,27,"Age-standardized",1,"Male",0.5778857515
+1212,"alc_drinker_prop",4650,"Chihuahua",2016,27,"Age-standardized",2,"Female",0.4067968977
+1212,"alc_drinker_prop",4651,"Mexico City",2016,27,"Age-standardized",1,"Male",0.6485879101
+1212,"alc_drinker_prop",4651,"Mexico City",2016,27,"Age-standardized",2,"Female",0.4908794568
+1212,"alc_drinker_prop",4652,"Durango",2016,27,"Age-standardized",1,"Male",0.5970807403
+1212,"alc_drinker_prop",4652,"Durango",2016,27,"Age-standardized",2,"Female",0.3506381272
+1212,"alc_drinker_prop",4653,"Guanajuato",2016,27,"Age-standardized",1,"Male",0.5383974166
+1212,"alc_drinker_prop",4653,"Guanajuato",2016,27,"Age-standardized",2,"Female",0.3628886969
+1212,"alc_drinker_prop",4654,"Guerrero",2016,27,"Age-standardized",1,"Male",0.528974637
+1212,"alc_drinker_prop",4654,"Guerrero",2016,27,"Age-standardized",2,"Female",0.3645253261
+1212,"alc_drinker_prop",4655,"Hidalgo",2016,27,"Age-standardized",1,"Male",0.6019426209
+1212,"alc_drinker_prop",4655,"Hidalgo",2016,27,"Age-standardized",2,"Female",0.4035979107
+1212,"alc_drinker_prop",4656,"Jalisco",2016,27,"Age-standardized",1,"Male",0.6448048672
+1212,"alc_drinker_prop",4656,"Jalisco",2016,27,"Age-standardized",2,"Female",0.4400896304
+1212,"alc_drinker_prop",4657,"México",2016,27,"Age-standardized",1,"Male",0.6367726117
+1212,"alc_drinker_prop",4657,"México",2016,27,"Age-standardized",2,"Female",0.4206207745
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",1,"Male",0.5813452749
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",2,"Female",0.411655253
+1212,"alc_drinker_prop",4659,"Morelos",2016,27,"Age-standardized",1,"Male",0.5962220618
+1212,"alc_drinker_prop",4659,"Morelos",2016,27,"Age-standardized",2,"Female",0.4042659295
+1212,"alc_drinker_prop",4660,"Nayarit",2016,27,"Age-standardized",1,"Male",0.6331125811
+1212,"alc_drinker_prop",4660,"Nayarit",2016,27,"Age-standardized",2,"Female",0.4344656357
+1212,"alc_drinker_prop",4661,"Nuevo León",2016,27,"Age-standardized",1,"Male",0.5987409107
+1212,"alc_drinker_prop",4661,"Nuevo León",2016,27,"Age-standardized",2,"Female",0.3425723297
+1212,"alc_drinker_prop",4662,"Oaxaca",2016,27,"Age-standardized",1,"Male",0.5601080641
+1212,"alc_drinker_prop",4662,"Oaxaca",2016,27,"Age-standardized",2,"Female",0.3671149773
+1212,"alc_drinker_prop",4663,"Puebla",2016,27,"Age-standardized",1,"Male",0.6198784104
+1212,"alc_drinker_prop",4663,"Puebla",2016,27,"Age-standardized",2,"Female",0.4126716365
+1212,"alc_drinker_prop",4664,"Querétaro",2016,27,"Age-standardized",1,"Male",0.6082476097
+1212,"alc_drinker_prop",4664,"Querétaro",2016,27,"Age-standardized",2,"Female",0.4048619278
+1212,"alc_drinker_prop",4665,"Quintana Roo",2016,27,"Age-standardized",1,"Male",0.6278057669
+1212,"alc_drinker_prop",4665,"Quintana Roo",2016,27,"Age-standardized",2,"Female",0.4177954553
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2016,27,"Age-standardized",1,"Male",0.5452398197
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2016,27,"Age-standardized",2,"Female",0.3309040578
+1212,"alc_drinker_prop",4667,"Sinaloa",2016,27,"Age-standardized",1,"Male",0.554958103
+1212,"alc_drinker_prop",4667,"Sinaloa",2016,27,"Age-standardized",2,"Female",0.3222945328
+1212,"alc_drinker_prop",4668,"Sonora",2016,27,"Age-standardized",1,"Male",0.6249679448
+1212,"alc_drinker_prop",4668,"Sonora",2016,27,"Age-standardized",2,"Female",0.3506106639
+1212,"alc_drinker_prop",4669,"Tabasco",2016,27,"Age-standardized",1,"Male",0.5089008354
+1212,"alc_drinker_prop",4669,"Tabasco",2016,27,"Age-standardized",2,"Female",0.3309949096
+1212,"alc_drinker_prop",4670,"Tamaulipas",2016,27,"Age-standardized",1,"Male",0.5636969328
+1212,"alc_drinker_prop",4670,"Tamaulipas",2016,27,"Age-standardized",2,"Female",0.3311356255
+1212,"alc_drinker_prop",4671,"Tlaxcala",2016,27,"Age-standardized",1,"Male",0.5816262125
+1212,"alc_drinker_prop",4671,"Tlaxcala",2016,27,"Age-standardized",2,"Female",0.4153424367
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",1,"Male",0.5353340028
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",2,"Female",0.349552633
+1212,"alc_drinker_prop",4673,"Yucatán",2016,27,"Age-standardized",1,"Male",0.5329765517
+1212,"alc_drinker_prop",4673,"Yucatán",2016,27,"Age-standardized",2,"Female",0.4064285164
+1212,"alc_drinker_prop",4674,"Zacatecas",2016,27,"Age-standardized",1,"Male",0.5885429535
+1212,"alc_drinker_prop",4674,"Zacatecas",2016,27,"Age-standardized",2,"Female",0.3462832458
+1212,"alc_drinker_prop",130,"Mexico",2017,27,"Age-standardized",1,"Male",0.5792847192
+1212,"alc_drinker_prop",130,"Mexico",2017,27,"Age-standardized",2,"Female",0.3892172141
+1212,"alc_drinker_prop",4643,"Aguascalientes",2017,27,"Age-standardized",1,"Male",0.6109753429
+1212,"alc_drinker_prop",4643,"Aguascalientes",2017,27,"Age-standardized",2,"Female",0.4163284918
+1212,"alc_drinker_prop",4644,"Baja California",2017,27,"Age-standardized",1,"Male",0.5300638
+1212,"alc_drinker_prop",4644,"Baja California",2017,27,"Age-standardized",2,"Female",0.3887729897
+1212,"alc_drinker_prop",4645,"Baja California Sur",2017,27,"Age-standardized",1,"Male",0.5960780688
+1212,"alc_drinker_prop",4645,"Baja California Sur",2017,27,"Age-standardized",2,"Female",0.391359284
+1212,"alc_drinker_prop",4646,"Campeche",2017,27,"Age-standardized",1,"Male",0.5694997555
+1212,"alc_drinker_prop",4646,"Campeche",2017,27,"Age-standardized",2,"Female",0.3613851384
+1212,"alc_drinker_prop",4647,"Coahuila",2017,27,"Age-standardized",1,"Male",0.5102401597
+1212,"alc_drinker_prop",4647,"Coahuila",2017,27,"Age-standardized",2,"Female",0.3475297625
+1212,"alc_drinker_prop",4648,"Colima",2017,27,"Age-standardized",1,"Male",0.5999188337
+1212,"alc_drinker_prop",4648,"Colima",2017,27,"Age-standardized",2,"Female",0.4320457841
+1212,"alc_drinker_prop",4649,"Chiapas",2017,27,"Age-standardized",1,"Male",0.4091804365
+1212,"alc_drinker_prop",4649,"Chiapas",2017,27,"Age-standardized",2,"Female",0.3270589472
+1212,"alc_drinker_prop",4650,"Chihuahua",2017,27,"Age-standardized",1,"Male",0.5778857515
+1212,"alc_drinker_prop",4650,"Chihuahua",2017,27,"Age-standardized",2,"Female",0.4067968977
+1212,"alc_drinker_prop",4651,"Mexico City",2017,27,"Age-standardized",1,"Male",0.6485879101
+1212,"alc_drinker_prop",4651,"Mexico City",2017,27,"Age-standardized",2,"Female",0.4908794568
+1212,"alc_drinker_prop",4652,"Durango",2017,27,"Age-standardized",1,"Male",0.5970807403
+1212,"alc_drinker_prop",4652,"Durango",2017,27,"Age-standardized",2,"Female",0.3506381272
+1212,"alc_drinker_prop",4653,"Guanajuato",2017,27,"Age-standardized",1,"Male",0.5383974166
+1212,"alc_drinker_prop",4653,"Guanajuato",2017,27,"Age-standardized",2,"Female",0.3628886969
+1212,"alc_drinker_prop",4654,"Guerrero",2017,27,"Age-standardized",1,"Male",0.528974637
+1212,"alc_drinker_prop",4654,"Guerrero",2017,27,"Age-standardized",2,"Female",0.3645253261
+1212,"alc_drinker_prop",4655,"Hidalgo",2017,27,"Age-standardized",1,"Male",0.6019426209
+1212,"alc_drinker_prop",4655,"Hidalgo",2017,27,"Age-standardized",2,"Female",0.4035979107
+1212,"alc_drinker_prop",4656,"Jalisco",2017,27,"Age-standardized",1,"Male",0.6448048672
+1212,"alc_drinker_prop",4656,"Jalisco",2017,27,"Age-standardized",2,"Female",0.4400896304
+1212,"alc_drinker_prop",4657,"México",2017,27,"Age-standardized",1,"Male",0.6367726117
+1212,"alc_drinker_prop",4657,"México",2017,27,"Age-standardized",2,"Female",0.4206207745
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",1,"Male",0.5813452749
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",2,"Female",0.411655253
+1212,"alc_drinker_prop",4659,"Morelos",2017,27,"Age-standardized",1,"Male",0.5962220618
+1212,"alc_drinker_prop",4659,"Morelos",2017,27,"Age-standardized",2,"Female",0.4042659295
+1212,"alc_drinker_prop",4660,"Nayarit",2017,27,"Age-standardized",1,"Male",0.6331125811
+1212,"alc_drinker_prop",4660,"Nayarit",2017,27,"Age-standardized",2,"Female",0.4344656357
+1212,"alc_drinker_prop",4661,"Nuevo León",2017,27,"Age-standardized",1,"Male",0.5987409107
+1212,"alc_drinker_prop",4661,"Nuevo León",2017,27,"Age-standardized",2,"Female",0.3425723297
+1212,"alc_drinker_prop",4662,"Oaxaca",2017,27,"Age-standardized",1,"Male",0.5601080641
+1212,"alc_drinker_prop",4662,"Oaxaca",2017,27,"Age-standardized",2,"Female",0.3671149773
+1212,"alc_drinker_prop",4663,"Puebla",2017,27,"Age-standardized",1,"Male",0.6198784104
+1212,"alc_drinker_prop",4663,"Puebla",2017,27,"Age-standardized",2,"Female",0.4126716365
+1212,"alc_drinker_prop",4664,"Querétaro",2017,27,"Age-standardized",1,"Male",0.6082476097
+1212,"alc_drinker_prop",4664,"Querétaro",2017,27,"Age-standardized",2,"Female",0.4048619278
+1212,"alc_drinker_prop",4665,"Quintana Roo",2017,27,"Age-standardized",1,"Male",0.6278057669
+1212,"alc_drinker_prop",4665,"Quintana Roo",2017,27,"Age-standardized",2,"Female",0.4177954553
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2017,27,"Age-standardized",1,"Male",0.5452398197
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2017,27,"Age-standardized",2,"Female",0.3309040578
+1212,"alc_drinker_prop",4667,"Sinaloa",2017,27,"Age-standardized",1,"Male",0.554958103
+1212,"alc_drinker_prop",4667,"Sinaloa",2017,27,"Age-standardized",2,"Female",0.3222945328
+1212,"alc_drinker_prop",4668,"Sonora",2017,27,"Age-standardized",1,"Male",0.6249679448
+1212,"alc_drinker_prop",4668,"Sonora",2017,27,"Age-standardized",2,"Female",0.3506106639
+1212,"alc_drinker_prop",4669,"Tabasco",2017,27,"Age-standardized",1,"Male",0.5089008354
+1212,"alc_drinker_prop",4669,"Tabasco",2017,27,"Age-standardized",2,"Female",0.3309949096
+1212,"alc_drinker_prop",4670,"Tamaulipas",2017,27,"Age-standardized",1,"Male",0.5636969328
+1212,"alc_drinker_prop",4670,"Tamaulipas",2017,27,"Age-standardized",2,"Female",0.3311356255
+1212,"alc_drinker_prop",4671,"Tlaxcala",2017,27,"Age-standardized",1,"Male",0.5816262125
+1212,"alc_drinker_prop",4671,"Tlaxcala",2017,27,"Age-standardized",2,"Female",0.4153424367
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",1,"Male",0.5353340028
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",2,"Female",0.349552633
+1212,"alc_drinker_prop",4673,"Yucatán",2017,27,"Age-standardized",1,"Male",0.5329765517
+1212,"alc_drinker_prop",4673,"Yucatán",2017,27,"Age-standardized",2,"Female",0.4064285164
+1212,"alc_drinker_prop",4674,"Zacatecas",2017,27,"Age-standardized",1,"Male",0.5885429535
+1212,"alc_drinker_prop",4674,"Zacatecas",2017,27,"Age-standardized",2,"Female",0.3462832458
+1212,"alc_drinker_prop",130,"Mexico",2018,27,"Age-standardized",1,"Male",0.577791196742346
+1212,"alc_drinker_prop",130,"Mexico",2018,27,"Age-standardized",2,"Female",0.387284105128112
+1212,"alc_drinker_prop",4643,"Aguascalientes",2018,27,"Age-standardized",1,"Male",0.6109753429
+1212,"alc_drinker_prop",4643,"Aguascalientes",2018,27,"Age-standardized",2,"Female",0.41276325764728
+1212,"alc_drinker_prop",4644,"Baja California",2018,27,"Age-standardized",1,"Male",0.527017585728526
+1212,"alc_drinker_prop",4644,"Baja California",2018,27,"Age-standardized",2,"Female",0.32044296645
+1212,"alc_drinker_prop",4645,"Baja California Sur",2018,27,"Age-standardized",1,"Male",0.594259878468813
+1212,"alc_drinker_prop",4645,"Baja California Sur",2018,27,"Age-standardized",2,"Female",0.387471387828845
+1212,"alc_drinker_prop",4646,"Campeche",2018,27,"Age-standardized",1,"Male",0.568348647564214
+1212,"alc_drinker_prop",4646,"Campeche",2018,27,"Age-standardized",2,"Female",0.358840557044429
+1212,"alc_drinker_prop",4647,"Coahuila",2018,27,"Age-standardized",1,"Male",0.507712978834439
+1212,"alc_drinker_prop",4647,"Coahuila",2018,27,"Age-standardized",2,"Female",0.246979789026316
+1212,"alc_drinker_prop",4648,"Colima",2018,27,"Age-standardized",1,"Male",0.59774407911763
+1212,"alc_drinker_prop",4648,"Colima",2018,27,"Age-standardized",2,"Female",0.430500111449423
+1212,"alc_drinker_prop",4649,"Chiapas",2018,27,"Age-standardized",1,"Male",0.406674092793004
+1212,"alc_drinker_prop",4649,"Chiapas",2018,27,"Age-standardized",2,"Female",0.3270589472
+1212,"alc_drinker_prop",4650,"Chihuahua",2018,27,"Age-standardized",1,"Male",0.576545528214437
+1212,"alc_drinker_prop",4650,"Chihuahua",2018,27,"Age-standardized",2,"Female",0.400182273651211
+1212,"alc_drinker_prop",4651,"Mexico City",2018,27,"Age-standardized",1,"Male",0.647112925356911
+1212,"alc_drinker_prop",4651,"Mexico City",2018,27,"Age-standardized",2,"Female",0.487604003085389
+1212,"alc_drinker_prop",4652,"Durango",2018,27,"Age-standardized",1,"Male",0.595615454727881
+1212,"alc_drinker_prop",4652,"Durango",2018,27,"Age-standardized",2,"Female",0.257233817210526
+1212,"alc_drinker_prop",4653,"Guanajuato",2018,27,"Age-standardized",1,"Male",0.534974664133693
+1212,"alc_drinker_prop",4653,"Guanajuato",2018,27,"Age-standardized",2,"Female",0.356913006788971
+1212,"alc_drinker_prop",4654,"Guerrero",2018,27,"Age-standardized",1,"Male",0.528124378400417
+1212,"alc_drinker_prop",4654,"Guerrero",2018,27,"Age-standardized",2,"Female",0.36216275935444
+1212,"alc_drinker_prop",4655,"Hidalgo",2018,27,"Age-standardized",1,"Male",0.584831410021053
+1212,"alc_drinker_prop",4655,"Hidalgo",2018,27,"Age-standardized",2,"Female",0.325746465784211
+1212,"alc_drinker_prop",4656,"Jalisco",2018,27,"Age-standardized",1,"Male",0.6448048672
+1212,"alc_drinker_prop",4656,"Jalisco",2018,27,"Age-standardized",2,"Female",0.43554181536864
+1212,"alc_drinker_prop",4657,"México",2018,27,"Age-standardized",1,"Male",0.635345424432832
+1212,"alc_drinker_prop",4657,"México",2018,27,"Age-standardized",2,"Female",0.35779471095
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",1,"Male",0.5813452749
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",2,"Female",0.406058151814658
+1212,"alc_drinker_prop",4659,"Morelos",2018,27,"Age-standardized",1,"Male",0.5962220618
+1212,"alc_drinker_prop",4659,"Morelos",2018,27,"Age-standardized",2,"Female",0.351111947665772
+1212,"alc_drinker_prop",4660,"Nayarit",2018,27,"Age-standardized",1,"Male",0.631213885916291
+1212,"alc_drinker_prop",4660,"Nayarit",2018,27,"Age-standardized",2,"Female",0.377577999039474
+1212,"alc_drinker_prop",4661,"Nuevo León",2018,27,"Age-standardized",1,"Male",0.597857195533047
+1212,"alc_drinker_prop",4661,"Nuevo León",2018,27,"Age-standardized",2,"Female",0.281413027410526
+1212,"alc_drinker_prop",4662,"Oaxaca",2018,27,"Age-standardized",1,"Male",0.529099815142105
+1212,"alc_drinker_prop",4662,"Oaxaca",2018,27,"Age-standardized",2,"Female",0.275314887471053
+1212,"alc_drinker_prop",4663,"Puebla",2018,27,"Age-standardized",1,"Male",0.6198784104
+1212,"alc_drinker_prop",4663,"Puebla",2018,27,"Age-standardized",2,"Female",0.337398679607895
+1212,"alc_drinker_prop",4664,"Querétaro",2018,27,"Age-standardized",1,"Male",0.6082476097
+1212,"alc_drinker_prop",4664,"Querétaro",2018,27,"Age-standardized",2,"Female",0.333584141905263
+1212,"alc_drinker_prop",4665,"Quintana Roo",2018,27,"Age-standardized",1,"Male",0.6278057669
+1212,"alc_drinker_prop",4665,"Quintana Roo",2018,27,"Age-standardized",2,"Female",0.4177954553
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2018,27,"Age-standardized",1,"Male",0.542914703808933
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2018,27,"Age-standardized",2,"Female",0.318658226873733
+1212,"alc_drinker_prop",4667,"Sinaloa",2018,27,"Age-standardized",1,"Male",0.553384665314741
+1212,"alc_drinker_prop",4667,"Sinaloa",2018,27,"Age-standardized",2,"Female",0.317645419579625
+1212,"alc_drinker_prop",4668,"Sonora",2018,27,"Age-standardized",1,"Male",0.622909242972188
+1212,"alc_drinker_prop",4668,"Sonora",2018,27,"Age-standardized",2,"Female",0.28374357968421
+1212,"alc_drinker_prop",4669,"Tabasco",2018,27,"Age-standardized",1,"Male",0.507407290156968
+1212,"alc_drinker_prop",4669,"Tabasco",2018,27,"Age-standardized",2,"Female",0.261024171978947
+1212,"alc_drinker_prop",4670,"Tamaulipas",2018,27,"Age-standardized",1,"Male",0.562718419257287
+1212,"alc_drinker_prop",4670,"Tamaulipas",2018,27,"Age-standardized",2,"Female",0.271295303397368
+1212,"alc_drinker_prop",4671,"Tlaxcala",2018,27,"Age-standardized",1,"Male",0.5816262125
+1212,"alc_drinker_prop",4671,"Tlaxcala",2018,27,"Age-standardized",2,"Female",0.411885070771154
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",1,"Male",0.53431273301176
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",2,"Female",0.349552633
+1212,"alc_drinker_prop",4673,"Yucatán",2018,27,"Age-standardized",1,"Male",0.529618847096666
+1212,"alc_drinker_prop",4673,"Yucatán",2018,27,"Age-standardized",2,"Female",0.403069976048604
+1212,"alc_drinker_prop",4674,"Zacatecas",2018,27,"Age-standardized",1,"Male",0.5885429535
+1212,"alc_drinker_prop",4674,"Zacatecas",2018,27,"Age-standardized",2,"Female",0.341591201988616
+1212,"alc_drinker_prop",130,"Mexico",2019,27,"Age-standardized",1,"Male",0.575193293318479
+1212,"alc_drinker_prop",130,"Mexico",2019,27,"Age-standardized",2,"Female",0.383740342814366
+1212,"alc_drinker_prop",4643,"Aguascalientes",2019,27,"Age-standardized",1,"Male",0.6109753429
+1212,"alc_drinker_prop",4643,"Aguascalientes",2019,27,"Age-standardized",2,"Female",0.405910888511568
+1212,"alc_drinker_prop",4644,"Baja California",2019,27,"Age-standardized",1,"Male",0.523477316374876
+1212,"alc_drinker_prop",4644,"Baja California",2019,27,"Age-standardized",2,"Female",0.32044296645
+1212,"alc_drinker_prop",4645,"Baja California Sur",2019,27,"Age-standardized",1,"Male",0.592128499829487
+1212,"alc_drinker_prop",4645,"Baja California Sur",2019,27,"Age-standardized",2,"Female",0.380243051818225
+1212,"alc_drinker_prop",4646,"Campeche",2019,27,"Age-standardized",1,"Male",0.565363583203356
+1212,"alc_drinker_prop",4646,"Campeche",2019,27,"Age-standardized",2,"Female",0.354279868738266
+1212,"alc_drinker_prop",4647,"Coahuila",2019,27,"Age-standardized",1,"Male",0.504790762648336
+1212,"alc_drinker_prop",4647,"Coahuila",2019,27,"Age-standardized",2,"Female",0.246979789026316
+1212,"alc_drinker_prop",4648,"Colima",2019,27,"Age-standardized",1,"Male",0.595171472613549
+1212,"alc_drinker_prop",4648,"Colima",2019,27,"Age-standardized",2,"Female",0.427367262617324
+1212,"alc_drinker_prop",4649,"Chiapas",2019,27,"Age-standardized",1,"Male",0.402166202905135
+1212,"alc_drinker_prop",4649,"Chiapas",2019,27,"Age-standardized",2,"Female",0.3270589472
+1212,"alc_drinker_prop",4650,"Chihuahua",2019,27,"Age-standardized",1,"Male",0.57497693026911
+1212,"alc_drinker_prop",4650,"Chihuahua",2019,27,"Age-standardized",2,"Female",0.398875136294361
+1212,"alc_drinker_prop",4651,"Mexico City",2019,27,"Age-standardized",1,"Male",0.64444758225295
+1212,"alc_drinker_prop",4651,"Mexico City",2019,27,"Age-standardized",2,"Female",0.481496347697466
+1212,"alc_drinker_prop",4652,"Durango",2019,27,"Age-standardized",1,"Male",0.593018724621832
+1212,"alc_drinker_prop",4652,"Durango",2019,27,"Age-standardized",2,"Female",0.257233817210526
+1212,"alc_drinker_prop",4653,"Guanajuato",2019,27,"Age-standardized",1,"Male",0.52878566018815
+1212,"alc_drinker_prop",4653,"Guanajuato",2019,27,"Age-standardized",2,"Female",0.34602434651191
+1212,"alc_drinker_prop",4654,"Guerrero",2019,27,"Age-standardized",1,"Male",0.525897500060475
+1212,"alc_drinker_prop",4654,"Guerrero",2019,27,"Age-standardized",2,"Female",0.357886743728973
+1212,"alc_drinker_prop",4655,"Hidalgo",2019,27,"Age-standardized",1,"Male",0.584831410021053
+1212,"alc_drinker_prop",4655,"Hidalgo",2019,27,"Age-standardized",2,"Female",0.325746465784211
+1212,"alc_drinker_prop",4656,"Jalisco",2019,27,"Age-standardized",1,"Male",0.6448048672
+1212,"alc_drinker_prop",4656,"Jalisco",2019,27,"Age-standardized",2,"Female",0.434432495339094
+1212,"alc_drinker_prop",4657,"México",2019,27,"Age-standardized",1,"Male",0.632798300687257
+1212,"alc_drinker_prop",4657,"México",2019,27,"Age-standardized",2,"Female",0.35779471095
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",1,"Male",0.5813452749
+1212,"alc_drinker_prop",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",2,"Female",0.395923378906738
+1212,"alc_drinker_prop",4659,"Morelos",2019,27,"Age-standardized",1,"Male",0.5962220618
+1212,"alc_drinker_prop",4659,"Morelos",2019,27,"Age-standardized",2,"Female",0.351111947665772
+1212,"alc_drinker_prop",4660,"Nayarit",2019,27,"Age-standardized",1,"Male",0.627949869664056
+1212,"alc_drinker_prop",4660,"Nayarit",2019,27,"Age-standardized",2,"Female",0.377577999039474
+1212,"alc_drinker_prop",4661,"Nuevo León",2019,27,"Age-standardized",1,"Male",0.596825858844239
+1212,"alc_drinker_prop",4661,"Nuevo León",2019,27,"Age-standardized",2,"Female",0.281413027410526
+1212,"alc_drinker_prop",4662,"Oaxaca",2019,27,"Age-standardized",1,"Male",0.529099815142105
+1212,"alc_drinker_prop",4662,"Oaxaca",2019,27,"Age-standardized",2,"Female",0.275314887471053
+1212,"alc_drinker_prop",4663,"Puebla",2019,27,"Age-standardized",1,"Male",0.6198784104
+1212,"alc_drinker_prop",4663,"Puebla",2019,27,"Age-standardized",2,"Female",0.337398679607895
+1212,"alc_drinker_prop",4664,"Querétaro",2019,27,"Age-standardized",1,"Male",0.6082476097
+1212,"alc_drinker_prop",4664,"Querétaro",2019,27,"Age-standardized",2,"Female",0.333584141905263
+1212,"alc_drinker_prop",4665,"Quintana Roo",2019,27,"Age-standardized",1,"Male",0.6278057669
+1212,"alc_drinker_prop",4665,"Quintana Roo",2019,27,"Age-standardized",2,"Female",0.4177954553
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2019,27,"Age-standardized",1,"Male",0.538705239303837
+1212,"alc_drinker_prop",4666,"San Luis Potosí",2019,27,"Age-standardized",2,"Female",0.302026948288386
+1212,"alc_drinker_prop",4667,"Sinaloa",2019,27,"Age-standardized",1,"Male",0.55160111955823
+1212,"alc_drinker_prop",4667,"Sinaloa",2019,27,"Age-standardized",2,"Female",0.309190974961846
+1212,"alc_drinker_prop",4668,"Sonora",2019,27,"Age-standardized",1,"Male",0.619425060927743
+1212,"alc_drinker_prop",4668,"Sonora",2019,27,"Age-standardized",2,"Female",0.28374357968421
+1212,"alc_drinker_prop",4669,"Tabasco",2019,27,"Age-standardized",1,"Male",0.504694348761717
+1212,"alc_drinker_prop",4669,"Tabasco",2019,27,"Age-standardized",2,"Female",0.261024171978947
+1212,"alc_drinker_prop",4670,"Tamaulipas",2019,27,"Age-standardized",1,"Male",0.561062849351943
+1212,"alc_drinker_prop",4670,"Tamaulipas",2019,27,"Age-standardized",2,"Female",0.271295303397368
+1212,"alc_drinker_prop",4671,"Tlaxcala",2019,27,"Age-standardized",1,"Male",0.5816262125
+1212,"alc_drinker_prop",4671,"Tlaxcala",2019,27,"Age-standardized",2,"Female",0.405387678977874
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",1,"Male",0.531759443552982
+1212,"alc_drinker_prop",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",2,"Female",0.349552633
+1212,"alc_drinker_prop",4673,"Yucatán",2019,27,"Age-standardized",1,"Male",0.523904874342768
+1212,"alc_drinker_prop",4673,"Yucatán",2019,27,"Age-standardized",2,"Female",0.396842165402763
+1212,"alc_drinker_prop",4674,"Zacatecas",2019,27,"Age-standardized",1,"Male",0.5885429535
+1212,"alc_drinker_prop",4674,"Zacatecas",2019,27,"Age-standardized",2,"Female",0.332972806849205

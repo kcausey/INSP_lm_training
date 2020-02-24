@@ -1,0 +1,1981 @@
+"covariate_id","covariate_name_short","location_id","location_name","year_id","age_group_id","age_group_name","sex_id","sex","mean_value"
+273,"alc_binge_prop",130,"Mexico",1990,27,"Age-standardized",1,"Male",0.34233822858
+273,"alc_binge_prop",130,"Mexico",1990,27,"Age-standardized",2,"Female",0.09016938447
+273,"alc_binge_prop",4643,"Aguascalientes",1990,27,"Age-standardized",1,"Male",0.28636592199
+273,"alc_binge_prop",4643,"Aguascalientes",1990,27,"Age-standardized",2,"Female",0.09459622093
+273,"alc_binge_prop",4644,"Baja California",1990,27,"Age-standardized",1,"Male",0.29891116089
+273,"alc_binge_prop",4644,"Baja California",1990,27,"Age-standardized",2,"Female",0.08304566647
+273,"alc_binge_prop",4645,"Baja California Sur",1990,27,"Age-standardized",1,"Male",0.36573490577
+273,"alc_binge_prop",4645,"Baja California Sur",1990,27,"Age-standardized",2,"Female",0.13851320737
+273,"alc_binge_prop",4646,"Campeche",1990,27,"Age-standardized",1,"Male",0.37026861883
+273,"alc_binge_prop",4646,"Campeche",1990,27,"Age-standardized",2,"Female",0.09009379055
+273,"alc_binge_prop",4647,"Coahuila",1990,27,"Age-standardized",1,"Male",0.3164894574
+273,"alc_binge_prop",4647,"Coahuila",1990,27,"Age-standardized",2,"Female",0.05045946325
+273,"alc_binge_prop",4648,"Colima",1990,27,"Age-standardized",1,"Male",0.35223102151
+273,"alc_binge_prop",4648,"Colima",1990,27,"Age-standardized",2,"Female",0.09185737208
+273,"alc_binge_prop",4649,"Chiapas",1990,27,"Age-standardized",1,"Male",0.26281154665
+273,"alc_binge_prop",4649,"Chiapas",1990,27,"Age-standardized",2,"Female",0.16260261611
+273,"alc_binge_prop",4650,"Chihuahua",1990,27,"Age-standardized",1,"Male",0.33911636347
+273,"alc_binge_prop",4650,"Chihuahua",1990,27,"Age-standardized",2,"Female",0.07836806777
+273,"alc_binge_prop",4651,"Mexico City",1990,27,"Age-standardized",1,"Male",0.36232289238
+273,"alc_binge_prop",4651,"Mexico City",1990,27,"Age-standardized",2,"Female",0.10273028949
+273,"alc_binge_prop",4652,"Durango",1990,27,"Age-standardized",1,"Male",0.38409928225
+273,"alc_binge_prop",4652,"Durango",1990,27,"Age-standardized",2,"Female",0.08571628871
+273,"alc_binge_prop",4653,"Guanajuato",1990,27,"Age-standardized",1,"Male",0.30072162518
+273,"alc_binge_prop",4653,"Guanajuato",1990,27,"Age-standardized",2,"Female",0.05679031976
+273,"alc_binge_prop",4654,"Guerrero",1990,27,"Age-standardized",1,"Male",0.32353519843
+273,"alc_binge_prop",4654,"Guerrero",1990,27,"Age-standardized",2,"Female",0.1054585998
+273,"alc_binge_prop",4655,"Hidalgo",1990,27,"Age-standardized",1,"Male",0.33100293253
+273,"alc_binge_prop",4655,"Hidalgo",1990,27,"Age-standardized",2,"Female",0.10212340938
+273,"alc_binge_prop",4656,"Jalisco",1990,27,"Age-standardized",1,"Male",0.34936000603
+273,"alc_binge_prop",4656,"Jalisco",1990,27,"Age-standardized",2,"Female",0.09303136003
+273,"alc_binge_prop",4657,"México",1990,27,"Age-standardized",1,"Male",0.36504797695
+273,"alc_binge_prop",4657,"México",1990,27,"Age-standardized",2,"Female",0.08431926847
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",1,"Male",0.33758683958
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1990,27,"Age-standardized",2,"Female",0.07349790306
+273,"alc_binge_prop",4659,"Morelos",1990,27,"Age-standardized",1,"Male",0.38838932943
+273,"alc_binge_prop",4659,"Morelos",1990,27,"Age-standardized",2,"Female",0.08983413826
+273,"alc_binge_prop",4660,"Nayarit",1990,27,"Age-standardized",1,"Male",0.3711372154
+273,"alc_binge_prop",4660,"Nayarit",1990,27,"Age-standardized",2,"Female",0.1945118448
+273,"alc_binge_prop",4661,"Nuevo León",1990,27,"Age-standardized",1,"Male",0.3702181848
+273,"alc_binge_prop",4661,"Nuevo León",1990,27,"Age-standardized",2,"Female",0.06373270863
+273,"alc_binge_prop",4662,"Oaxaca",1990,27,"Age-standardized",1,"Male",0.34058752075
+273,"alc_binge_prop",4662,"Oaxaca",1990,27,"Age-standardized",2,"Female",0.08102617599
+273,"alc_binge_prop",4663,"Puebla",1990,27,"Age-standardized",1,"Male",0.37014544434
+273,"alc_binge_prop",4663,"Puebla",1990,27,"Age-standardized",2,"Female",0.09070159069
+273,"alc_binge_prop",4664,"Querétaro",1990,27,"Age-standardized",1,"Male",0.30205181207
+273,"alc_binge_prop",4664,"Querétaro",1990,27,"Age-standardized",2,"Female",0.06216830545
+273,"alc_binge_prop",4665,"Quintana Roo",1990,27,"Age-standardized",1,"Male",0.4068134347
+273,"alc_binge_prop",4665,"Quintana Roo",1990,27,"Age-standardized",2,"Female",0.2121885795
+273,"alc_binge_prop",4666,"San Luis Potosí",1990,27,"Age-standardized",1,"Male",0.33201935102
+273,"alc_binge_prop",4666,"San Luis Potosí",1990,27,"Age-standardized",2,"Female",0.0775448814
+273,"alc_binge_prop",4667,"Sinaloa",1990,27,"Age-standardized",1,"Male",0.39705866964
+273,"alc_binge_prop",4667,"Sinaloa",1990,27,"Age-standardized",2,"Female",0.12057446586
+273,"alc_binge_prop",4668,"Sonora",1990,27,"Age-standardized",1,"Male",0.43780262512
+273,"alc_binge_prop",4668,"Sonora",1990,27,"Age-standardized",2,"Female",0.08981522487
+273,"alc_binge_prop",4669,"Tabasco",1990,27,"Age-standardized",1,"Male",0.33880468318
+273,"alc_binge_prop",4669,"Tabasco",1990,27,"Age-standardized",2,"Female",0.08229853555
+273,"alc_binge_prop",4670,"Tamaulipas",1990,27,"Age-standardized",1,"Male",0.38270945603
+273,"alc_binge_prop",4670,"Tamaulipas",1990,27,"Age-standardized",2,"Female",0.1068691303
+273,"alc_binge_prop",4671,"Tlaxcala",1990,27,"Age-standardized",1,"Male",0.29949412786
+273,"alc_binge_prop",4671,"Tlaxcala",1990,27,"Age-standardized",2,"Female",0.10078451126
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",1,"Male",0.29003817577
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1990,27,"Age-standardized",2,"Female",0.07005947465
+273,"alc_binge_prop",4673,"Yucatán",1990,27,"Age-standardized",1,"Male",0.27160727031
+273,"alc_binge_prop",4673,"Yucatán",1990,27,"Age-standardized",2,"Female",0.06143789288
+273,"alc_binge_prop",4674,"Zacatecas",1990,27,"Age-standardized",1,"Male",0.35000983603
+273,"alc_binge_prop",4674,"Zacatecas",1990,27,"Age-standardized",2,"Female",0.06001681735
+273,"alc_binge_prop",130,"Mexico",1991,27,"Age-standardized",1,"Male",0.34147387369
+273,"alc_binge_prop",130,"Mexico",1991,27,"Age-standardized",2,"Female",0.09010333226
+273,"alc_binge_prop",4643,"Aguascalientes",1991,27,"Age-standardized",1,"Male",0.27872849323
+273,"alc_binge_prop",4643,"Aguascalientes",1991,27,"Age-standardized",2,"Female",0.09376102305
+273,"alc_binge_prop",4644,"Baja California",1991,27,"Age-standardized",1,"Male",0.299395465
+273,"alc_binge_prop",4644,"Baja California",1991,27,"Age-standardized",2,"Female",0.08384911933
+273,"alc_binge_prop",4645,"Baja California Sur",1991,27,"Age-standardized",1,"Male",0.36621998046
+273,"alc_binge_prop",4645,"Baja California Sur",1991,27,"Age-standardized",2,"Female",0.13807485503
+273,"alc_binge_prop",4646,"Campeche",1991,27,"Age-standardized",1,"Male",0.3700356367
+273,"alc_binge_prop",4646,"Campeche",1991,27,"Age-standardized",2,"Female",0.08957698576
+273,"alc_binge_prop",4647,"Coahuila",1991,27,"Age-standardized",1,"Male",0.31711081092
+273,"alc_binge_prop",4647,"Coahuila",1991,27,"Age-standardized",2,"Female",0.04993954208
+273,"alc_binge_prop",4648,"Colima",1991,27,"Age-standardized",1,"Male",0.35006596907
+273,"alc_binge_prop",4648,"Colima",1991,27,"Age-standardized",2,"Female",0.09107824153
+273,"alc_binge_prop",4649,"Chiapas",1991,27,"Age-standardized",1,"Male",0.26359238812
+273,"alc_binge_prop",4649,"Chiapas",1991,27,"Age-standardized",2,"Female",0.16290405676
+273,"alc_binge_prop",4650,"Chihuahua",1991,27,"Age-standardized",1,"Male",0.33837184611
+273,"alc_binge_prop",4650,"Chihuahua",1991,27,"Age-standardized",2,"Female",0.07778146843
+273,"alc_binge_prop",4651,"Mexico City",1991,27,"Age-standardized",1,"Male",0.36088092554
+273,"alc_binge_prop",4651,"Mexico City",1991,27,"Age-standardized",2,"Female",0.10258632701
+273,"alc_binge_prop",4652,"Durango",1991,27,"Age-standardized",1,"Male",0.38188879607
+273,"alc_binge_prop",4652,"Durango",1991,27,"Age-standardized",2,"Female",0.08550382998
+273,"alc_binge_prop",4653,"Guanajuato",1991,27,"Age-standardized",1,"Male",0.3010717377
+273,"alc_binge_prop",4653,"Guanajuato",1991,27,"Age-standardized",2,"Female",0.05773682165
+273,"alc_binge_prop",4654,"Guerrero",1991,27,"Age-standardized",1,"Male",0.32127205392
+273,"alc_binge_prop",4654,"Guerrero",1991,27,"Age-standardized",2,"Female",0.10461868908
+273,"alc_binge_prop",4655,"Hidalgo",1991,27,"Age-standardized",1,"Male",0.32882850238
+273,"alc_binge_prop",4655,"Hidalgo",1991,27,"Age-standardized",2,"Female",0.10199827952
+273,"alc_binge_prop",4656,"Jalisco",1991,27,"Age-standardized",1,"Male",0.34818309562
+273,"alc_binge_prop",4656,"Jalisco",1991,27,"Age-standardized",2,"Female",0.09417672514
+273,"alc_binge_prop",4657,"México",1991,27,"Age-standardized",1,"Male",0.36425906835
+273,"alc_binge_prop",4657,"México",1991,27,"Age-standardized",2,"Female",0.08340494304
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",1,"Male",0.33701653768
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1991,27,"Age-standardized",2,"Female",0.07451107044
+273,"alc_binge_prop",4659,"Morelos",1991,27,"Age-standardized",1,"Male",0.38713898987
+273,"alc_binge_prop",4659,"Morelos",1991,27,"Age-standardized",2,"Female",0.09014602233
+273,"alc_binge_prop",4660,"Nayarit",1991,27,"Age-standardized",1,"Male",0.3674301051
+273,"alc_binge_prop",4660,"Nayarit",1991,27,"Age-standardized",2,"Female",0.1939371809
+273,"alc_binge_prop",4661,"Nuevo León",1991,27,"Age-standardized",1,"Male",0.36950723554
+273,"alc_binge_prop",4661,"Nuevo León",1991,27,"Age-standardized",2,"Female",0.06312868383
+273,"alc_binge_prop",4662,"Oaxaca",1991,27,"Age-standardized",1,"Male",0.34059029685
+273,"alc_binge_prop",4662,"Oaxaca",1991,27,"Age-standardized",2,"Female",0.08003852138
+273,"alc_binge_prop",4663,"Puebla",1991,27,"Age-standardized",1,"Male",0.36700333326
+273,"alc_binge_prop",4663,"Puebla",1991,27,"Age-standardized",2,"Female",0.0903791412
+273,"alc_binge_prop",4664,"Querétaro",1991,27,"Age-standardized",1,"Male",0.29938737742
+273,"alc_binge_prop",4664,"Querétaro",1991,27,"Age-standardized",2,"Female",0.06198081086
+273,"alc_binge_prop",4665,"Quintana Roo",1991,27,"Age-standardized",1,"Male",0.4052181683
+273,"alc_binge_prop",4665,"Quintana Roo",1991,27,"Age-standardized",2,"Female",0.2118055409
+273,"alc_binge_prop",4666,"San Luis Potosí",1991,27,"Age-standardized",1,"Male",0.33061346385
+273,"alc_binge_prop",4666,"San Luis Potosí",1991,27,"Age-standardized",2,"Female",0.0773466746
+273,"alc_binge_prop",4667,"Sinaloa",1991,27,"Age-standardized",1,"Male",0.39679082433
+273,"alc_binge_prop",4667,"Sinaloa",1991,27,"Age-standardized",2,"Female",0.12256997541
+273,"alc_binge_prop",4668,"Sonora",1991,27,"Age-standardized",1,"Male",0.43861383477
+273,"alc_binge_prop",4668,"Sonora",1991,27,"Age-standardized",2,"Female",0.08952640673
+273,"alc_binge_prop",4669,"Tabasco",1991,27,"Age-standardized",1,"Male",0.33860793489
+273,"alc_binge_prop",4669,"Tabasco",1991,27,"Age-standardized",2,"Female",0.08272252591
+273,"alc_binge_prop",4670,"Tamaulipas",1991,27,"Age-standardized",1,"Male",0.38363510177
+273,"alc_binge_prop",4670,"Tamaulipas",1991,27,"Age-standardized",2,"Female",0.10617248933
+273,"alc_binge_prop",4671,"Tlaxcala",1991,27,"Age-standardized",1,"Male",0.29515285252
+273,"alc_binge_prop",4671,"Tlaxcala",1991,27,"Age-standardized",2,"Female",0.10008642332
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",1,"Male",0.29028337842
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1991,27,"Age-standardized",2,"Female",0.06951514852
+273,"alc_binge_prop",4673,"Yucatán",1991,27,"Age-standardized",1,"Male",0.27061931348
+273,"alc_binge_prop",4673,"Yucatán",1991,27,"Age-standardized",2,"Female",0.06193627662
+273,"alc_binge_prop",4674,"Zacatecas",1991,27,"Age-standardized",1,"Male",0.34744200531
+273,"alc_binge_prop",4674,"Zacatecas",1991,27,"Age-standardized",2,"Female",0.0577949707
+273,"alc_binge_prop",130,"Mexico",1992,27,"Age-standardized",1,"Male",0.34061093764
+273,"alc_binge_prop",130,"Mexico",1992,27,"Age-standardized",2,"Female",0.09003788277
+273,"alc_binge_prop",4643,"Aguascalientes",1992,27,"Age-standardized",1,"Male",0.27129563515
+273,"alc_binge_prop",4643,"Aguascalientes",1992,27,"Age-standardized",2,"Female",0.09293372564
+273,"alc_binge_prop",4644,"Baja California",1992,27,"Age-standardized",1,"Male",0.29987816774
+273,"alc_binge_prop",4644,"Baja California",1992,27,"Age-standardized",2,"Female",0.08466091787
+273,"alc_binge_prop",4645,"Baja California Sur",1992,27,"Age-standardized",1,"Male",0.36670642332
+273,"alc_binge_prop",4645,"Baja California Sur",1992,27,"Age-standardized",2,"Female",0.13763839769
+273,"alc_binge_prop",4646,"Campeche",1992,27,"Age-standardized",1,"Male",0.36980304141
+273,"alc_binge_prop",4646,"Campeche",1992,27,"Age-standardized",2,"Female",0.08906341664
+273,"alc_binge_prop",4647,"Coahuila",1992,27,"Age-standardized",1,"Male",0.31773186225
+273,"alc_binge_prop",4647,"Coahuila",1992,27,"Age-standardized",2,"Female",0.04942273752
+273,"alc_binge_prop",4648,"Colima",1992,27,"Age-standardized",1,"Male",0.34791437989
+273,"alc_binge_prop",4648,"Colima",1992,27,"Age-standardized",2,"Female",0.09030607292
+273,"alc_binge_prop",4649,"Chiapas",1992,27,"Age-standardized",1,"Male",0.26436935186
+273,"alc_binge_prop",4649,"Chiapas",1992,27,"Age-standardized",2,"Female",0.16320884466
+273,"alc_binge_prop",4650,"Chihuahua",1992,27,"Age-standardized",1,"Male",0.33762792123
+273,"alc_binge_prop",4650,"Chihuahua",1992,27,"Age-standardized",2,"Female",0.077199856
+273,"alc_binge_prop",4651,"Mexico City",1992,27,"Age-standardized",1,"Male",0.35944467948
+273,"alc_binge_prop",4651,"Mexico City",1992,27,"Age-standardized",2,"Female",0.10244139809
+273,"alc_binge_prop",4652,"Durango",1992,27,"Age-standardized",1,"Male",0.37969052807
+273,"alc_binge_prop",4652,"Durango",1992,27,"Age-standardized",2,"Female",0.08529287019
+273,"alc_binge_prop",4653,"Guanajuato",1992,27,"Age-standardized",1,"Male",0.30142027442
+273,"alc_binge_prop",4653,"Guanajuato",1992,27,"Age-standardized",2,"Female",0.05869437296
+273,"alc_binge_prop",4654,"Guerrero",1992,27,"Age-standardized",1,"Male",0.3190255812
+273,"alc_binge_prop",4654,"Guerrero",1992,27,"Age-standardized",2,"Female",0.10378558346
+273,"alc_binge_prop",4655,"Hidalgo",1992,27,"Age-standardized",1,"Male",0.32666696473
+273,"alc_binge_prop",4655,"Hidalgo",1992,27,"Age-standardized",2,"Female",0.10187452792
+273,"alc_binge_prop",4656,"Jalisco",1992,27,"Age-standardized",1,"Male",0.34700921992
+273,"alc_binge_prop",4656,"Jalisco",1992,27,"Age-standardized",2,"Female",0.09533666001
+273,"alc_binge_prop",4657,"México",1992,27,"Age-standardized",1,"Male",0.36347080688
+273,"alc_binge_prop",4657,"México",1992,27,"Age-standardized",2,"Female",0.08249946471
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",1,"Male",0.33644565403
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1992,27,"Age-standardized",2,"Female",0.07553265722
+273,"alc_binge_prop",4659,"Morelos",1992,27,"Age-standardized",1,"Male",0.38589108726
+273,"alc_binge_prop",4659,"Morelos",1992,27,"Age-standardized",2,"Female",0.09045925803
+273,"alc_binge_prop",4660,"Nayarit",1992,27,"Age-standardized",1,"Male",0.3637611223
+273,"alc_binge_prop",4660,"Nayarit",1992,27,"Age-standardized",2,"Female",0.1933645761
+273,"alc_binge_prop",4661,"Nuevo León",1992,27,"Age-standardized",1,"Male",0.36879802617
+273,"alc_binge_prop",4661,"Nuevo León",1992,27,"Age-standardized",2,"Female",0.06253020493
+273,"alc_binge_prop",4662,"Oaxaca",1992,27,"Age-standardized",1,"Male",0.34059448418
+273,"alc_binge_prop",4662,"Oaxaca",1992,27,"Age-standardized",2,"Female",0.07906290129
+273,"alc_binge_prop",4663,"Puebla",1992,27,"Age-standardized",1,"Male",0.36388669732
+273,"alc_binge_prop",4663,"Puebla",1992,27,"Age-standardized",2,"Female",0.09005804106
+273,"alc_binge_prop",4664,"Querétaro",1992,27,"Age-standardized",1,"Male",0.29674845334
+273,"alc_binge_prop",4664,"Querétaro",1992,27,"Age-standardized",2,"Female",0.06179432167
+273,"alc_binge_prop",4665,"Quintana Roo",1992,27,"Age-standardized",1,"Male",0.4036303504
+273,"alc_binge_prop",4665,"Quintana Roo",1992,27,"Age-standardized",2,"Female",0.211423515
+273,"alc_binge_prop",4666,"San Luis Potosí",1992,27,"Age-standardized",1,"Male",0.32921169795
+273,"alc_binge_prop",4666,"San Luis Potosí",1992,27,"Age-standardized",2,"Female",0.07715055051
+273,"alc_binge_prop",4667,"Sinaloa",1992,27,"Age-standardized",1,"Male",0.39652185751
+273,"alc_binge_prop",4667,"Sinaloa",1992,27,"Age-standardized",2,"Female",0.12459143137
+273,"alc_binge_prop",4668,"Sonora",1992,27,"Age-standardized",1,"Male",0.43942606025
+273,"alc_binge_prop",4668,"Sonora",1992,27,"Age-standardized",2,"Female",0.08923739363
+273,"alc_binge_prop",4669,"Tabasco",1992,27,"Age-standardized",1,"Male",0.3384103195
+273,"alc_binge_prop",4669,"Tabasco",1992,27,"Age-standardized",2,"Female",0.08314989476
+273,"alc_binge_prop",4670,"Tamaulipas",1992,27,"Age-standardized",1,"Male",0.38456147738
+273,"alc_binge_prop",4670,"Tamaulipas",1992,27,"Age-standardized",2,"Female",0.10547495325
+273,"alc_binge_prop",4671,"Tlaxcala",1992,27,"Age-standardized",1,"Male",0.2908748766
+273,"alc_binge_prop",4671,"Tlaxcala",1992,27,"Age-standardized",2,"Female",0.09939343937
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",1,"Male",0.29052908186
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1992,27,"Age-standardized",2,"Female",0.0689751848
+273,"alc_binge_prop",4673,"Yucatán",1992,27,"Age-standardized",1,"Male",0.26963462944
+273,"alc_binge_prop",4673,"Yucatán",1992,27,"Age-standardized",2,"Female",0.06243732596
+273,"alc_binge_prop",4674,"Zacatecas",1992,27,"Age-standardized",1,"Male",0.3448932561
+273,"alc_binge_prop",4674,"Zacatecas",1992,27,"Age-standardized",2,"Female",0.05565568289
+273,"alc_binge_prop",130,"Mexico",1993,27,"Age-standardized",1,"Male",0.33974942002
+273,"alc_binge_prop",130,"Mexico",1993,27,"Age-standardized",2,"Female",0.08997303146
+273,"alc_binge_prop",4643,"Aguascalientes",1993,27,"Age-standardized",1,"Male",0.26406184757
+273,"alc_binge_prop",4643,"Aguascalientes",1993,27,"Age-standardized",2,"Female",0.09211424577
+273,"alc_binge_prop",4644,"Baja California",1993,27,"Age-standardized",1,"Male",0.30035925794
+273,"alc_binge_prop",4644,"Baja California",1993,27,"Age-standardized",2,"Female",0.08548115242
+273,"alc_binge_prop",4645,"Baja California Sur",1993,27,"Age-standardized",1,"Male",0.36719423885
+273,"alc_binge_prop",4645,"Baja California Sur",1993,27,"Age-standardized",2,"Female",0.1372038328
+273,"alc_binge_prop",4646,"Campeche",1993,27,"Age-standardized",1,"Male",0.36957083281
+273,"alc_binge_prop",4646,"Campeche",1993,27,"Age-standardized",2,"Female",0.08855306336
+273,"alc_binge_prop",4647,"Coahuila",1993,27,"Age-standardized",1,"Male",0.31835260383
+273,"alc_binge_prop",4647,"Coahuila",1993,27,"Age-standardized",2,"Female",0.04890908611
+273,"alc_binge_prop",4648,"Colima",1993,27,"Age-standardized",1,"Male",0.34577616926
+273,"alc_binge_prop",4648,"Colima",1993,27,"Age-standardized",2,"Female",0.08954080078
+273,"alc_binge_prop",4649,"Chiapas",1993,27,"Age-standardized",1,"Male",0.2651423734
+273,"alc_binge_prop",4649,"Chiapas",1993,27,"Age-standardized",2,"Female",0.16351699004
+273,"alc_binge_prop",4650,"Chihuahua",1993,27,"Age-standardized",1,"Male",0.33688459208
+273,"alc_binge_prop",4650,"Chihuahua",1993,27,"Age-standardized",2,"Female",0.0766231902
+273,"alc_binge_prop",4651,"Mexico City",1993,27,"Age-standardized",1,"Male",0.35801413267
+273,"alc_binge_prop",4651,"Mexico City",1993,27,"Age-standardized",2,"Female",0.10229549297
+273,"alc_binge_prop",4652,"Durango",1993,27,"Age-standardized",1,"Male",0.3775044148
+273,"alc_binge_prop",4652,"Durango",1993,27,"Age-standardized",2,"Female",0.08508341132
+273,"alc_binge_prop",4653,"Guanajuato",1993,27,"Age-standardized",1,"Male",0.30176722802
+273,"alc_binge_prop",4653,"Guanajuato",1993,27,"Age-standardized",2,"Female",0.05966291006
+273,"alc_binge_prop",4654,"Guerrero",1993,27,"Age-standardized",1,"Male",0.31679565318
+273,"alc_binge_prop",4654,"Guerrero",1993,27,"Age-standardized",2,"Female",0.10295922731
+273,"alc_binge_prop",4655,"Hidalgo",1993,27,"Age-standardized",1,"Male",0.32451825384
+273,"alc_binge_prop",4655,"Hidalgo",1993,27,"Age-standardized",2,"Female",0.10175214314
+273,"alc_binge_prop",4656,"Jalisco",1993,27,"Age-standardized",1,"Male",0.34583837524
+273,"alc_binge_prop",4656,"Jalisco",1993,27,"Age-standardized",2,"Female",0.09651134936
+273,"alc_binge_prop",4657,"México",1993,27,"Age-standardized",1,"Male",0.36268319753
+273,"alc_binge_prop",4657,"México",1993,27,"Age-standardized",2,"Female",0.08160276768
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",1,"Male",0.33587419543
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1993,27,"Age-standardized",2,"Female",0.0765625614
+273,"alc_binge_prop",4659,"Morelos",1993,27,"Age-standardized",1,"Male",0.38464562444
+273,"alc_binge_prop",4659,"Morelos",1993,27,"Age-standardized",2,"Female",0.09077385448
+273,"alc_binge_prop",4660,"Nayarit",1993,27,"Age-standardized",1,"Male",0.360129866
+273,"alc_binge_prop",4660,"Nayarit",1993,27,"Age-standardized",2,"Female",0.1927940311
+273,"alc_binge_prop",4661,"Nuevo León",1993,27,"Age-standardized",1,"Male",0.36809055352
+273,"alc_binge_prop",4661,"Nuevo León",1993,27,"Age-standardized",2,"Female",0.06193723061
+273,"alc_binge_prop",4662,"Oaxaca",1993,27,"Age-standardized",1,"Male",0.34060008187
+273,"alc_binge_prop",4662,"Oaxaca",1993,27,"Age-standardized",2,"Female",0.07809917275
+273,"alc_binge_prop",4663,"Puebla",1993,27,"Age-standardized",1,"Male",0.36079534204
+273,"alc_binge_prop",4663,"Puebla",1993,27,"Age-standardized",2,"Female",0.08973825978
+273,"alc_binge_prop",4664,"Querétaro",1993,27,"Age-standardized",1,"Male",0.29413477864
+273,"alc_binge_prop",4664,"Querétaro",1993,27,"Age-standardized",2,"Female",0.06160883278
+273,"alc_binge_prop",4665,"Quintana Roo",1993,27,"Age-standardized",1,"Male",0.4020499448
+273,"alc_binge_prop",4665,"Quintana Roo",1993,27,"Age-standardized",2,"Female",0.2110424984
+273,"alc_binge_prop",4666,"San Luis Potosí",1993,27,"Age-standardized",1,"Male",0.32781405183
+273,"alc_binge_prop",4666,"San Luis Potosí",1993,27,"Age-standardized",2,"Female",0.07695650488
+273,"alc_binge_prop",4667,"Sinaloa",1993,27,"Age-standardized",1,"Male",0.39625177153
+273,"alc_binge_prop",4667,"Sinaloa",1993,27,"Age-standardized",2,"Female",0.12663892214
+273,"alc_binge_prop",4668,"Sonora",1993,27,"Age-standardized",1,"Male",0.44023930124
+273,"alc_binge_prop",4668,"Sonora",1993,27,"Age-standardized",2,"Female",0.0889482077
+273,"alc_binge_prop",4669,"Tabasco",1993,27,"Age-standardized",1,"Male",0.33821183841
+273,"alc_binge_prop",4669,"Tabasco",1993,27,"Age-standardized",2,"Female",0.083580664
+273,"alc_binge_prop",4670,"Tamaulipas",1993,27,"Age-standardized",1,"Male",0.38548857809
+273,"alc_binge_prop",4670,"Tamaulipas",1993,27,"Age-standardized",2,"Female",0.10477665294
+273,"alc_binge_prop",4671,"Tlaxcala",1993,27,"Age-standardized",1,"Male",0.28665927225
+273,"alc_binge_prop",4671,"Tlaxcala",1993,27,"Age-standardized",2,"Female",0.09870551823
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",1,"Male",0.29077528185
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1993,27,"Age-standardized",2,"Female",0.06843956914
+273,"alc_binge_prop",4673,"Yucatán",1993,27,"Age-standardized",1,"Male",0.26865320837
+273,"alc_binge_prop",4673,"Yucatán",1993,27,"Age-standardized",2,"Female",0.06294102909
+273,"alc_binge_prop",4674,"Zacatecas",1993,27,"Age-standardized",1,"Male",0.34236344528
+273,"alc_binge_prop",4674,"Zacatecas",1993,27,"Age-standardized",2,"Female",0.05359587515
+273,"alc_binge_prop",130,"Mexico",1994,27,"Age-standardized",1,"Male",0.33888932158
+273,"alc_binge_prop",130,"Mexico",1994,27,"Age-standardized",2,"Female",0.08990877453
+273,"alc_binge_prop",4643,"Aguascalientes",1994,27,"Age-standardized",1,"Male",0.25702177991
+273,"alc_binge_prop",4643,"Aguascalientes",1994,27,"Age-standardized",2,"Female",0.09130250193
+273,"alc_binge_prop",4644,"Baja California",1994,27,"Age-standardized",1,"Male",0.30083872326
+273,"alc_binge_prop",4644,"Baja California",1994,27,"Age-standardized",2,"Female",0.08630991322
+273,"alc_binge_prop",4645,"Baja California Sur",1994,27,"Age-standardized",1,"Male",0.3676834313
+273,"alc_binge_prop",4645,"Baja California Sur",1994,27,"Age-standardized",2,"Female",0.13677115622
+273,"alc_binge_prop",4646,"Campeche",1994,27,"Age-standardized",1,"Male",0.36933900964
+273,"alc_binge_prop",4646,"Campeche",1994,27,"Age-standardized",2,"Female",0.08804590491
+273,"alc_binge_prop",4647,"Coahuila",1994,27,"Age-standardized",1,"Male",0.31897302761
+273,"alc_binge_prop",4647,"Coahuila",1994,27,"Age-standardized",2,"Female",0.04839862273
+273,"alc_binge_prop",4648,"Colima",1994,27,"Age-standardized",1,"Male",0.34365125379
+273,"alc_binge_prop",4648,"Colima",1994,27,"Age-standardized",2,"Female",0.08878236111
+273,"alc_binge_prop",4649,"Chiapas",1994,27,"Age-standardized",1,"Male",0.26591138835
+273,"alc_binge_prop",4649,"Chiapas",1994,27,"Age-standardized",2,"Female",0.16382850258
+273,"alc_binge_prop",4650,"Chihuahua",1994,27,"Age-standardized",1,"Male",0.33614186235
+273,"alc_binge_prop",4650,"Chihuahua",1994,27,"Age-standardized",2,"Female",0.07605143076
+273,"alc_binge_prop",4651,"Mexico City",1994,27,"Age-standardized",1,"Male",0.35658926396
+273,"alc_binge_prop",4651,"Mexico City",1994,27,"Age-standardized",2,"Female",0.10214860205
+273,"alc_binge_prop",4652,"Durango",1994,27,"Age-standardized",1,"Male",0.37533039208
+273,"alc_binge_prop",4652,"Durango",1994,27,"Age-standardized",2,"Female",0.08487545472
+273,"alc_binge_prop",4653,"Guanajuato",1994,27,"Age-standardized",1,"Male",0.30211259177
+273,"alc_binge_prop",4653,"Guanajuato",1994,27,"Age-standardized",2,"Female",0.0606423602
+273,"alc_binge_prop",4654,"Guerrero",1994,27,"Age-standardized",1,"Male",0.31458214424
+273,"alc_binge_prop",4654,"Guerrero",1994,27,"Age-standardized",2,"Female",0.10213956479
+273,"alc_binge_prop",4655,"Hidalgo",1994,27,"Age-standardized",1,"Male",0.32238230436
+273,"alc_binge_prop",4655,"Hidalgo",1994,27,"Age-standardized",2,"Female",0.10163111432
+273,"alc_binge_prop",4656,"Jalisco",1994,27,"Age-standardized",1,"Male",0.34467055794
+273,"alc_binge_prop",4656,"Jalisco",1994,27,"Age-standardized",2,"Female",0.09770098053
+273,"alc_binge_prop",4657,"México",1994,27,"Age-standardized",1,"Male",0.3618962443
+273,"alc_binge_prop",4657,"México",1994,27,"Age-standardized",2,"Female",0.08071478541
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",1,"Male",0.33530216794
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1994,27,"Age-standardized",2,"Female",0.07760067715
+273,"alc_binge_prop",4659,"Morelos",1994,27,"Age-standardized",1,"Male",0.38340260464
+273,"alc_binge_prop",4659,"Morelos",1994,27,"Age-standardized",2,"Female",0.09108982127
+273,"alc_binge_prop",4660,"Nayarit",1994,27,"Age-standardized",1,"Male",0.3565359465
+273,"alc_binge_prop",4660,"Nayarit",1994,27,"Age-standardized",2,"Female",0.1922255339
+273,"alc_binge_prop",4661,"Nuevo León",1994,27,"Age-standardized",1,"Male",0.36738481355
+273,"alc_binge_prop",4661,"Nuevo León",1994,27,"Age-standardized",2,"Female",0.06134971926
+273,"alc_binge_prop",4662,"Oaxaca",1994,27,"Age-standardized",1,"Male",0.34060708963
+273,"alc_binge_prop",4662,"Oaxaca",1994,27,"Age-standardized",2,"Female",0.07714719411
+273,"alc_binge_prop",4663,"Puebla",1994,27,"Age-standardized",1,"Male",0.35772907419
+273,"alc_binge_prop",4663,"Puebla",1994,27,"Age-standardized",2,"Female",0.08941976446
+273,"alc_binge_prop",4664,"Querétaro",1994,27,"Age-standardized",1,"Male",0.29154609667
+273,"alc_binge_prop",4664,"Querétaro",1994,27,"Age-standardized",2,"Female",0.06142434004
+273,"alc_binge_prop",4665,"Quintana Roo",1994,27,"Age-standardized",1,"Male",0.4004769201
+273,"alc_binge_prop",4665,"Quintana Roo",1994,27,"Age-standardized",2,"Female",0.2106624923
+273,"alc_binge_prop",4666,"San Luis Potosí",1994,27,"Age-standardized",1,"Male",0.32642052246
+273,"alc_binge_prop",4666,"San Luis Potosí",1994,27,"Age-standardized",2,"Female",0.07676453409
+273,"alc_binge_prop",4667,"Sinaloa",1994,27,"Age-standardized",1,"Male",0.39598056922
+273,"alc_binge_prop",4667,"Sinaloa",1994,27,"Age-standardized",2,"Female",0.12871252757
+273,"alc_binge_prop",4668,"Sonora",1994,27,"Age-standardized",1,"Male",0.44105355736
+273,"alc_binge_prop",4668,"Sonora",1994,27,"Age-standardized",2,"Female",0.0886588708
+273,"alc_binge_prop",4669,"Tabasco",1994,27,"Age-standardized",1,"Male",0.33801249201
+273,"alc_binge_prop",4669,"Tabasco",1994,27,"Age-standardized",2,"Female",0.08401485503
+273,"alc_binge_prop",4670,"Tamaulipas",1994,27,"Age-standardized",1,"Male",0.38641639902
+273,"alc_binge_prop",4670,"Tamaulipas",1994,27,"Age-standardized",2,"Female",0.10407771747
+273,"alc_binge_prop",4671,"Tlaxcala",1994,27,"Age-standardized",1,"Male",0.28250512502
+273,"alc_binge_prop",4671,"Tlaxcala",1994,27,"Age-standardized",2,"Female",0.09802261998
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",1,"Male",0.29102197399
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1994,27,"Age-standardized",2,"Female",0.06790828658
+273,"alc_binge_prop",4673,"Yucatán",1994,27,"Age-standardized",1,"Male",0.26767504033
+273,"alc_binge_prop",4673,"Yucatán",1994,27,"Age-standardized",2,"Female",0.06344737322
+273,"alc_binge_prop",4674,"Zacatecas",1994,27,"Age-standardized",1,"Male",0.33985243093
+273,"alc_binge_prop",4674,"Zacatecas",1994,27,"Age-standardized",2,"Female",0.05161258376
+273,"alc_binge_prop",130,"Mexico",1995,27,"Age-standardized",1,"Male",0.33803064227
+273,"alc_binge_prop",130,"Mexico",1995,27,"Age-standardized",2,"Female",0.08984510754
+273,"alc_binge_prop",4643,"Aguascalientes",1995,27,"Age-standardized",1,"Male",0.25017022468
+273,"alc_binge_prop",4643,"Aguascalientes",1995,27,"Age-standardized",2,"Female",0.09049841301
+273,"alc_binge_prop",4644,"Baja California",1995,27,"Age-standardized",1,"Male",0.30131655197
+273,"alc_binge_prop",4644,"Baja California",1995,27,"Age-standardized",2,"Female",0.08714729212
+273,"alc_binge_prop",4645,"Baja California Sur",1995,27,"Age-standardized",1,"Male",0.36817400565
+273,"alc_binge_prop",4645,"Baja California Sur",1995,27,"Age-standardized",2,"Female",0.13634036519
+273,"alc_binge_prop",4646,"Campeche",1995,27,"Age-standardized",1,"Male",0.36910757208
+273,"alc_binge_prop",4646,"Campeche",1995,27,"Age-standardized",2,"Female",0.08754192168
+273,"alc_binge_prop",4647,"Coahuila",1995,27,"Age-standardized",1,"Male",0.31959312632
+273,"alc_binge_prop",4647,"Coahuila",1995,27,"Age-standardized",2,"Female",0.04789138125
+273,"alc_binge_prop",4648,"Colima",1995,27,"Age-standardized",1,"Male",0.34153954983
+273,"alc_binge_prop",4648,"Colima",1995,27,"Age-standardized",2,"Female",0.08803069014
+273,"alc_binge_prop",4649,"Chiapas",1995,27,"Age-standardized",1,"Male",0.26667633318
+273,"alc_binge_prop",4649,"Chiapas",1995,27,"Age-standardized",2,"Female",0.16414339117
+273,"alc_binge_prop",4650,"Chihuahua",1995,27,"Age-standardized",1,"Male",0.33539973593
+273,"alc_binge_prop",4650,"Chihuahua",1995,27,"Age-standardized",2,"Female",0.07548453695
+273,"alc_binge_prop",4651,"Mexico City",1995,27,"Age-standardized",1,"Male",0.35517005232
+273,"alc_binge_prop",4651,"Mexico City",1995,27,"Age-standardized",2,"Female",0.10200071569
+273,"alc_binge_prop",4652,"Durango",1995,27,"Age-standardized",1,"Male",0.37316839654
+273,"alc_binge_prop",4652,"Durango",1995,27,"Age-standardized",2,"Female",0.08466900157
+273,"alc_binge_prop",4653,"Guanajuato",1995,27,"Age-standardized",1,"Male",0.30245635866
+273,"alc_binge_prop",4653,"Guanajuato",1995,27,"Age-standardized",2,"Female",0.06163264286
+273,"alc_binge_prop",4654,"Guerrero",1995,27,"Age-standardized",1,"Male",0.31238492861
+273,"alc_binge_prop",4654,"Guerrero",1995,27,"Age-standardized",2,"Female",0.10132654078
+273,"alc_binge_prop",4655,"Hidalgo",1995,27,"Age-standardized",1,"Male",0.32025905115
+273,"alc_binge_prop",4655,"Hidalgo",1995,27,"Age-standardized",2,"Female",0.10151142943
+273,"alc_binge_prop",4656,"Jalisco",1995,27,"Age-standardized",1,"Male",0.34350576497
+273,"alc_binge_prop",4656,"Jalisco",1995,27,"Age-standardized",2,"Female",0.09890574294
+273,"alc_binge_prop",4657,"México",1995,27,"Age-standardized",1,"Male",0.36110995219
+273,"alc_binge_prop",4657,"México",1995,27,"Age-standardized",2,"Female",0.07983545208
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",1,"Male",0.33472957789
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1995,27,"Age-standardized",2,"Female",0.07864689267
+273,"alc_binge_prop",4659,"Morelos",1995,27,"Age-standardized",1,"Male",0.38216203119
+273,"alc_binge_prop",4659,"Morelos",1995,27,"Age-standardized",2,"Female",0.09140716738
+273,"alc_binge_prop",4660,"Nayarit",1995,27,"Age-standardized",1,"Male",0.3529789754
+273,"alc_binge_prop",4660,"Nayarit",1995,27,"Age-standardized",2,"Female",0.1916590721
+273,"alc_binge_prop",4661,"Nuevo León",1995,27,"Age-standardized",1,"Male",0.36668080262
+273,"alc_binge_prop",4661,"Nuevo León",1995,27,"Age-standardized",2,"Female",0.06076762939
+273,"alc_binge_prop",4662,"Oaxaca",1995,27,"Age-standardized",1,"Male",0.34061550703
+273,"alc_binge_prop",4662,"Oaxaca",1995,27,"Age-standardized",2,"Female",0.07620682589
+273,"alc_binge_prop",4663,"Puebla",1995,27,"Age-standardized",1,"Male",0.35468770171
+273,"alc_binge_prop",4663,"Puebla",1995,27,"Age-standardized",2,"Female",0.08910252408
+273,"alc_binge_prop",4664,"Querétaro",1995,27,"Age-standardized",1,"Male",0.28898215228
+273,"alc_binge_prop",4664,"Querétaro",1995,27,"Age-standardized",2,"Female",0.06124083808
+273,"alc_binge_prop",4665,"Quintana Roo",1995,27,"Age-standardized",1,"Male",0.3989112417
+273,"alc_binge_prop",4665,"Quintana Roo",1995,27,"Age-standardized",2,"Female",0.2102834903
+273,"alc_binge_prop",4666,"San Luis Potosí",1995,27,"Age-standardized",1,"Male",0.32503110846
+273,"alc_binge_prop",4666,"San Luis Potosí",1995,27,"Age-standardized",2,"Female",0.07657463368
+273,"alc_binge_prop",4667,"Sinaloa",1995,27,"Age-standardized",1,"Male",0.39570825338
+273,"alc_binge_prop",4667,"Sinaloa",1995,27,"Age-standardized",2,"Female",0.1308123194
+273,"alc_binge_prop",4668,"Sonora",1995,27,"Age-standardized",1,"Male",0.44186882854
+273,"alc_binge_prop",4668,"Sonora",1995,27,"Age-standardized",2,"Female",0.08836940443
+273,"alc_binge_prop",4669,"Tabasco",1995,27,"Age-standardized",1,"Male",0.33781228114
+273,"alc_binge_prop",4669,"Tabasco",1995,27,"Age-standardized",2,"Female",0.08445248982
+273,"alc_binge_prop",4670,"Tamaulipas",1995,27,"Age-standardized",1,"Male",0.38734493477
+273,"alc_binge_prop",4670,"Tamaulipas",1995,27,"Age-standardized",2,"Female",0.10337827492
+273,"alc_binge_prop",4671,"Tlaxcala",1995,27,"Age-standardized",1,"Male",0.27841153431
+273,"alc_binge_prop",4671,"Tlaxcala",1995,27,"Age-standardized",2,"Female",0.0973447042
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",1,"Male",0.29126915365
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1995,27,"Age-standardized",2,"Female",0.06738132228
+273,"alc_binge_prop",4673,"Yucatán",1995,27,"Age-standardized",1,"Male",0.26670011506
+273,"alc_binge_prop",4673,"Yucatán",1995,27,"Age-standardized",2,"Female",0.0639563447
+273,"alc_binge_prop",4674,"Zacatecas",1995,27,"Age-standardized",1,"Male",0.33736007176
+273,"alc_binge_prop",4674,"Zacatecas",1995,27,"Age-standardized",2,"Female",0.04970295608
+273,"alc_binge_prop",130,"Mexico",1996,27,"Age-standardized",1,"Male",0.33895175655
+273,"alc_binge_prop",130,"Mexico",1996,27,"Age-standardized",2,"Female",0.08815226901
+273,"alc_binge_prop",4643,"Aguascalientes",1996,27,"Age-standardized",1,"Male",0.25048662211
+273,"alc_binge_prop",4643,"Aguascalientes",1996,27,"Age-standardized",2,"Female",0.08907905158
+273,"alc_binge_prop",4644,"Baja California",1996,27,"Age-standardized",1,"Male",0.3047725596
+273,"alc_binge_prop",4644,"Baja California",1996,27,"Age-standardized",2,"Female",0.08646607611
+273,"alc_binge_prop",4645,"Baja California Sur",1996,27,"Age-standardized",1,"Male",0.37058257675
+273,"alc_binge_prop",4645,"Baja California Sur",1996,27,"Age-standardized",2,"Female",0.13457094434
+273,"alc_binge_prop",4646,"Campeche",1996,27,"Age-standardized",1,"Male",0.36872712387
+273,"alc_binge_prop",4646,"Campeche",1996,27,"Age-standardized",2,"Female",0.08535523217
+273,"alc_binge_prop",4647,"Coahuila",1996,27,"Age-standardized",1,"Male",0.32184093091
+273,"alc_binge_prop",4647,"Coahuila",1996,27,"Age-standardized",2,"Female",0.04649584616
+273,"alc_binge_prop",4648,"Colima",1996,27,"Age-standardized",1,"Male",0.34474955642
+273,"alc_binge_prop",4648,"Colima",1996,27,"Age-standardized",2,"Female",0.08779348908
+273,"alc_binge_prop",4649,"Chiapas",1996,27,"Age-standardized",1,"Male",0.26596610336
+273,"alc_binge_prop",4649,"Chiapas",1996,27,"Age-standardized",2,"Female",0.15534665279
+273,"alc_binge_prop",4650,"Chihuahua",1996,27,"Age-standardized",1,"Male",0.33625027315
+273,"alc_binge_prop",4650,"Chihuahua",1996,27,"Age-standardized",2,"Female",0.0744137143
+273,"alc_binge_prop",4651,"Mexico City",1996,27,"Age-standardized",1,"Male",0.35679874835
+273,"alc_binge_prop",4651,"Mexico City",1996,27,"Age-standardized",2,"Female",0.10231315361
+273,"alc_binge_prop",4652,"Durango",1996,27,"Age-standardized",1,"Male",0.37364717391
+273,"alc_binge_prop",4652,"Durango",1996,27,"Age-standardized",2,"Female",0.08160883423
+273,"alc_binge_prop",4653,"Guanajuato",1996,27,"Age-standardized",1,"Male",0.30368122429
+273,"alc_binge_prop",4653,"Guanajuato",1996,27,"Age-standardized",2,"Female",0.05865744299
+273,"alc_binge_prop",4654,"Guerrero",1996,27,"Age-standardized",1,"Male",0.31119991972
+273,"alc_binge_prop",4654,"Guerrero",1996,27,"Age-standardized",2,"Female",0.09802572604
+273,"alc_binge_prop",4655,"Hidalgo",1996,27,"Age-standardized",1,"Male",0.32122755737
+273,"alc_binge_prop",4655,"Hidalgo",1996,27,"Age-standardized",2,"Female",0.09933397576
+273,"alc_binge_prop",4656,"Jalisco",1996,27,"Age-standardized",1,"Male",0.34346588612
+273,"alc_binge_prop",4656,"Jalisco",1996,27,"Age-standardized",2,"Female",0.09823195286
+273,"alc_binge_prop",4657,"México",1996,27,"Age-standardized",1,"Male",0.36282476733
+273,"alc_binge_prop",4657,"México",1996,27,"Age-standardized",2,"Female",0.07949160614
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",1,"Male",0.33547830356
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1996,27,"Age-standardized",2,"Female",0.07606342411
+273,"alc_binge_prop",4659,"Morelos",1996,27,"Age-standardized",1,"Male",0.38185008404
+273,"alc_binge_prop",4659,"Morelos",1996,27,"Age-standardized",2,"Female",0.09017971812
+273,"alc_binge_prop",4660,"Nayarit",1996,27,"Age-standardized",1,"Male",0.3539857286
+273,"alc_binge_prop",4660,"Nayarit",1996,27,"Age-standardized",2,"Female",0.1901691806
+273,"alc_binge_prop",4661,"Nuevo León",1996,27,"Age-standardized",1,"Male",0.36825075577
+273,"alc_binge_prop",4661,"Nuevo León",1996,27,"Age-standardized",2,"Female",0.06064619332
+273,"alc_binge_prop",4662,"Oaxaca",1996,27,"Age-standardized",1,"Male",0.34019384016
+273,"alc_binge_prop",4662,"Oaxaca",1996,27,"Age-standardized",2,"Female",0.07216564102
+273,"alc_binge_prop",4663,"Puebla",1996,27,"Age-standardized",1,"Male",0.35487662621
+273,"alc_binge_prop",4663,"Puebla",1996,27,"Age-standardized",2,"Female",0.08679165379
+273,"alc_binge_prop",4664,"Querétaro",1996,27,"Age-standardized",1,"Male",0.28954104659
+273,"alc_binge_prop",4664,"Querétaro",1996,27,"Age-standardized",2,"Female",0.05982402955
+273,"alc_binge_prop",4665,"Quintana Roo",1996,27,"Age-standardized",1,"Male",0.3995246509
+273,"alc_binge_prop",4665,"Quintana Roo",1996,27,"Age-standardized",2,"Female",0.2075144155
+273,"alc_binge_prop",4666,"San Luis Potosí",1996,27,"Age-standardized",1,"Male",0.32553739855
+273,"alc_binge_prop",4666,"San Luis Potosí",1996,27,"Age-standardized",2,"Female",0.07327207419
+273,"alc_binge_prop",4667,"Sinaloa",1996,27,"Age-standardized",1,"Male",0.39605322802
+273,"alc_binge_prop",4667,"Sinaloa",1996,27,"Age-standardized",2,"Female",0.12547102515
+273,"alc_binge_prop",4668,"Sonora",1996,27,"Age-standardized",1,"Male",0.4432021606
+273,"alc_binge_prop",4668,"Sonora",1996,27,"Age-standardized",2,"Female",0.08687641573
+273,"alc_binge_prop",4669,"Tabasco",1996,27,"Age-standardized",1,"Male",0.33780380203
+273,"alc_binge_prop",4669,"Tabasco",1996,27,"Age-standardized",2,"Female",0.08172987953
+273,"alc_binge_prop",4670,"Tamaulipas",1996,27,"Age-standardized",1,"Male",0.38744347248
+273,"alc_binge_prop",4670,"Tamaulipas",1996,27,"Age-standardized",2,"Female",0.1013222489
+273,"alc_binge_prop",4671,"Tlaxcala",1996,27,"Age-standardized",1,"Male",0.27872008642
+273,"alc_binge_prop",4671,"Tlaxcala",1996,27,"Age-standardized",2,"Female",0.09494630894
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",1,"Male",0.29244152445
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1996,27,"Age-standardized",2,"Female",0.0659400632
+273,"alc_binge_prop",4673,"Yucatán",1996,27,"Age-standardized",1,"Male",0.26868255506
+273,"alc_binge_prop",4673,"Yucatán",1996,27,"Age-standardized",2,"Female",0.06377267633
+273,"alc_binge_prop",4674,"Zacatecas",1996,27,"Age-standardized",1,"Male",0.33704206682
+273,"alc_binge_prop",4674,"Zacatecas",1996,27,"Age-standardized",2,"Female",0.0478133076
+273,"alc_binge_prop",130,"Mexico",1997,27,"Age-standardized",1,"Male",0.33987486195
+273,"alc_binge_prop",130,"Mexico",1997,27,"Age-standardized",2,"Female",0.08645817145
+273,"alc_binge_prop",4643,"Aguascalientes",1997,27,"Age-standardized",1,"Male",0.2507997197
+273,"alc_binge_prop",4643,"Aguascalientes",1997,27,"Age-standardized",2,"Female",0.08765708021
+273,"alc_binge_prop",4644,"Baja California",1997,27,"Age-standardized",1,"Male",0.30825859768
+273,"alc_binge_prop",4644,"Baja California",1997,27,"Age-standardized",2,"Female",0.0857785749
+273,"alc_binge_prop",4645,"Baja California Sur",1997,27,"Age-standardized",1,"Male",0.3730011479
+273,"alc_binge_prop",4645,"Baja California Sur",1997,27,"Age-standardized",2,"Female",0.13280507746
+273,"alc_binge_prop",4646,"Campeche",1997,27,"Age-standardized",1,"Male",0.36834045904
+273,"alc_binge_prop",4646,"Campeche",1997,27,"Age-standardized",2,"Female",0.083176289
+273,"alc_binge_prop",4647,"Coahuila",1997,27,"Age-standardized",1,"Male",0.32409844615
+273,"alc_binge_prop",4647,"Coahuila",1997,27,"Age-standardized",2,"Female",0.04512242413
+273,"alc_binge_prop",4648,"Colima",1997,27,"Age-standardized",1,"Male",0.34797868343
+273,"alc_binge_prop",4648,"Colima",1997,27,"Age-standardized",2,"Female",0.08754858837
+273,"alc_binge_prop",4649,"Chiapas",1997,27,"Age-standardized",1,"Male",0.26525371592
+273,"alc_binge_prop",4649,"Chiapas",1997,27,"Age-standardized",2,"Female",0.14683433408
+273,"alc_binge_prop",4650,"Chihuahua",1997,27,"Age-standardized",1,"Male",0.33710300128
+273,"alc_binge_prop",4650,"Chihuahua",1997,27,"Age-standardized",2,"Female",0.07333585797
+273,"alc_binge_prop",4651,"Mexico City",1997,27,"Age-standardized",1,"Male",0.35843387642
+273,"alc_binge_prop",4651,"Mexico City",1997,27,"Age-standardized",2,"Female",0.10261966982
+273,"alc_binge_prop",4652,"Durango",1997,27,"Age-standardized",1,"Male",0.37412633934
+273,"alc_binge_prop",4652,"Durango",1997,27,"Age-standardized",2,"Female",0.07860708027
+273,"alc_binge_prop",4653,"Guanajuato",1997,27,"Age-standardized",1,"Male",0.30491077478
+273,"alc_binge_prop",4653,"Guanajuato",1997,27,"Age-standardized",2,"Female",0.0557342741
+273,"alc_binge_prop",4654,"Guerrero",1997,27,"Age-standardized",1,"Male",0.31001066963
+273,"alc_binge_prop",4654,"Guerrero",1997,27,"Age-standardized",2,"Female",0.09477016517
+273,"alc_binge_prop",4655,"Hidalgo",1997,27,"Age-standardized",1,"Male",0.32219891904
+273,"alc_binge_prop",4655,"Hidalgo",1997,27,"Age-standardized",2,"Female",0.09716410488
+273,"alc_binge_prop",4656,"Jalisco",1997,27,"Age-standardized",1,"Male",0.34342611981
+273,"alc_binge_prop",4656,"Jalisco",1997,27,"Age-standardized",2,"Female",0.09755422775
+273,"alc_binge_prop",4657,"México",1997,27,"Age-standardized",1,"Male",0.36454695667
+273,"alc_binge_prop",4657,"México",1997,27,"Age-standardized",2,"Female",0.0791393354
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",1,"Male",0.3362278986
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1997,27,"Age-standardized",2,"Female",0.07349056772
+273,"alc_binge_prop",4659,"Morelos",1997,27,"Age-standardized",1,"Male",0.38153091248
+273,"alc_binge_prop",4659,"Morelos",1997,27,"Age-standardized",2,"Female",0.08894371736
+273,"alc_binge_prop",4660,"Nayarit",1997,27,"Age-standardized",1,"Male",0.3549952399
+273,"alc_binge_prop",4660,"Nayarit",1997,27,"Age-standardized",2,"Female",0.1886748329
+273,"alc_binge_prop",4661,"Nuevo León",1997,27,"Age-standardized",1,"Male",0.36982616703
+273,"alc_binge_prop",4661,"Nuevo León",1997,27,"Age-standardized",2,"Female",0.06052189079
+273,"alc_binge_prop",4662,"Oaxaca",1997,27,"Age-standardized",1,"Male",0.33976855443
+273,"alc_binge_prop",4662,"Oaxaca",1997,27,"Age-standardized",2,"Female",0.06822988058
+273,"alc_binge_prop",4663,"Puebla",1997,27,"Age-standardized",1,"Male",0.35506544225
+273,"alc_binge_prop",4663,"Puebla",1997,27,"Age-standardized",2,"Female",0.08449104824
+273,"alc_binge_prop",4664,"Querétaro",1997,27,"Age-standardized",1,"Male",0.29009945353
+273,"alc_binge_prop",4664,"Querétaro",1997,27,"Age-standardized",2,"Female",0.05839512608
+273,"alc_binge_prop",4665,"Quintana Roo",1997,27,"Age-standardized",1,"Male",0.4001385129
+273,"alc_binge_prop",4665,"Quintana Roo",1997,27,"Age-standardized",2,"Female",0.2047430826
+273,"alc_binge_prop",4666,"San Luis Potosí",1997,27,"Age-standardized",1,"Male",0.32604500116
+273,"alc_binge_prop",4666,"San Luis Potosí",1997,27,"Age-standardized",2,"Female",0.07004725142
+273,"alc_binge_prop",4667,"Sinaloa",1997,27,"Age-standardized",1,"Male",0.39639839272
+273,"alc_binge_prop",4667,"Sinaloa",1997,27,"Age-standardized",2,"Female",0.12024898815
+273,"alc_binge_prop",4668,"Sonora",1997,27,"Age-standardized",1,"Male",0.44453707763
+273,"alc_binge_prop",4668,"Sonora",1997,27,"Age-standardized",2,"Female",0.08539193578
+273,"alc_binge_prop",4669,"Tabasco",1997,27,"Age-standardized",1,"Male",0.33778954049
+273,"alc_binge_prop",4669,"Tabasco",1997,27,"Age-standardized",2,"Female",0.07903902786
+273,"alc_binge_prop",4670,"Tamaulipas",1997,27,"Age-standardized",1,"Male",0.38753741915
+273,"alc_binge_prop",4670,"Tamaulipas",1997,27,"Age-standardized",2,"Female",0.09928506228
+273,"alc_binge_prop",4671,"Tlaxcala",1997,27,"Age-standardized",1,"Male",0.27902721096
+273,"alc_binge_prop",4671,"Tlaxcala",1997,27,"Age-standardized",2,"Female",0.09255525514
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",1,"Male",0.29361626354
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1997,27,"Age-standardized",2,"Female",0.06449602211
+273,"alc_binge_prop",4673,"Yucatán",1997,27,"Age-standardized",1,"Male",0.27067947355
+273,"alc_binge_prop",4673,"Yucatán",1997,27,"Age-standardized",2,"Female",0.06357736791
+273,"alc_binge_prop",4674,"Zacatecas",1997,27,"Age-standardized",1,"Male",0.33672226471
+273,"alc_binge_prop",4674,"Zacatecas",1997,27,"Age-standardized",2,"Female",0.04595246035
+273,"alc_binge_prop",130,"Mexico",1998,27,"Age-standardized",1,"Male",0.34079996378
+273,"alc_binge_prop",130,"Mexico",1998,27,"Age-standardized",2,"Female",0.08476471841
+273,"alc_binge_prop",4643,"Aguascalientes",1998,27,"Age-standardized",1,"Male",0.25110950254
+273,"alc_binge_prop",4643,"Aguascalientes",1998,27,"Age-standardized",2,"Female",0.08623389346
+273,"alc_binge_prop",4644,"Baja California",1998,27,"Age-standardized",1,"Male",0.31177472994
+273,"alc_binge_prop",4644,"Baja California",1998,27,"Age-standardized",2,"Female",0.08508533473
+273,"alc_binge_prop",4645,"Baja California Sur",1998,27,"Age-standardized",1,"Male",0.37542966297
+273,"alc_binge_prop",4645,"Baja California Sur",1998,27,"Age-standardized",2,"Female",0.13104355594
+273,"alc_binge_prop",4646,"Campeche",1998,27,"Age-standardized",1,"Male",0.36794765163
+273,"alc_binge_prop",4646,"Campeche",1998,27,"Age-standardized",2,"Female",0.08100873664
+273,"alc_binge_prop",4647,"Coahuila",1998,27,"Age-standardized",1,"Male",0.3263656052
+273,"alc_binge_prop",4647,"Coahuila",1998,27,"Age-standardized",2,"Female",0.04377219875
+273,"alc_binge_prop",4648,"Colima",1998,27,"Age-standardized",1,"Male",0.35122688445
+273,"alc_binge_prop",4648,"Colima",1998,27,"Age-standardized",2,"Female",0.08729634932
+273,"alc_binge_prop",4649,"Chiapas",1998,27,"Age-standardized",1,"Male",0.26453931964
+273,"alc_binge_prop",4649,"Chiapas",1998,27,"Age-standardized",2,"Female",0.13861887584
+273,"alc_binge_prop",4650,"Chihuahua",1998,27,"Age-standardized",1,"Male",0.33795792578
+273,"alc_binge_prop",4650,"Chihuahua",1998,27,"Age-standardized",2,"Female",0.07225205009
+273,"alc_binge_prop",4651,"Mexico City",1998,27,"Age-standardized",1,"Male",0.36007545816
+273,"alc_binge_prop",4651,"Mexico City",1998,27,"Age-standardized",2,"Female",0.10292024567
+273,"alc_binge_prop",4652,"Durango",1998,27,"Age-standardized",1,"Male",0.37460589184
+273,"alc_binge_prop",4652,"Durango",1998,27,"Age-standardized",2,"Female",0.07566707051
+273,"alc_binge_prop",4653,"Guanajuato",1998,27,"Age-standardized",1,"Male",0.30614503236
+273,"alc_binge_prop",4653,"Guanajuato",1998,27,"Age-standardized",2,"Female",0.05287334053
+273,"alc_binge_prop",4654,"Guerrero",1998,27,"Age-standardized",1,"Male",0.30881730981
+273,"alc_binge_prop",4654,"Guerrero",1998,27,"Age-standardized",2,"Female",0.0915644702
+273,"alc_binge_prop",4655,"Hidalgo",1998,27,"Age-standardized",1,"Male",0.32317313935
+273,"alc_binge_prop",4655,"Hidalgo",1998,27,"Age-standardized",2,"Female",0.09500401847
+273,"alc_binge_prop",4656,"Jalisco",1998,27,"Age-standardized",1,"Male",0.34338646424
+273,"alc_binge_prop",4656,"Jalisco",1998,27,"Age-standardized",2,"Female",0.09687278315
+273,"alc_binge_prop",4657,"México",1998,27,"Age-standardized",1,"Male",0.3662765391
+273,"alc_binge_prop",4657,"México",1998,27,"Age-standardized",2,"Female",0.07877892987
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",1,"Male",0.3369783665
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1998,27,"Age-standardized",2,"Female",0.07093460161
+273,"alc_binge_prop",4659,"Morelos",1998,27,"Age-standardized",1,"Male",0.38120453158
+273,"alc_binge_prop",4659,"Morelos",1998,27,"Age-standardized",2,"Female",0.08770031419
+273,"alc_binge_prop",4660,"Nayarit",1998,27,"Age-standardized",1,"Male",0.3560075136
+273,"alc_binge_prop",4660,"Nayarit",1998,27,"Age-standardized",2,"Female",0.1871765957
+273,"alc_binge_prop",4661,"Nuevo León",1998,27,"Age-standardized",1,"Male",0.37140703861
+273,"alc_binge_prop",4661,"Nuevo León",1998,27,"Age-standardized",2,"Female",0.06039484827
+273,"alc_binge_prop",4662,"Oaxaca",1998,27,"Age-standardized",1,"Male",0.33933970337
+273,"alc_binge_prop",4662,"Oaxaca",1998,27,"Age-standardized",2,"Female",0.06441016046
+273,"alc_binge_prop",4663,"Puebla",1998,27,"Age-standardized",1,"Male",0.35525414724
+273,"alc_binge_prop",4663,"Puebla",1998,27,"Age-standardized",2,"Female",0.08220391961
+273,"alc_binge_prop",4664,"Querétaro",1998,27,"Age-standardized",1,"Male",0.290657375
+273,"alc_binge_prop",4664,"Querétaro",1998,27,"Age-standardized",2,"Female",0.05695751957
+273,"alc_binge_prop",4665,"Quintana Roo",1998,27,"Age-standardized",1,"Male",0.4007528137
+273,"alc_binge_prop",4665,"Quintana Roo",1998,27,"Age-standardized",2,"Female",0.2019712472
+273,"alc_binge_prop",4666,"San Luis Potosí",1998,27,"Age-standardized",1,"Male",0.32655391492
+273,"alc_binge_prop",4666,"San Luis Potosí",1998,27,"Age-standardized",2,"Female",0.06690481185
+273,"alc_binge_prop",4667,"Sinaloa",1998,27,"Age-standardized",1,"Male",0.39674373888
+273,"alc_binge_prop",4667,"Sinaloa",1998,27,"Age-standardized",2,"Female",0.11515315773
+273,"alc_binge_prop",4668,"Sonora",1998,27,"Age-standardized",1,"Male",0.44587355048
+273,"alc_binge_prop",4668,"Sonora",1998,27,"Age-standardized",2,"Female",0.08391688082
+273,"alc_binge_prop",4669,"Tabasco",1998,27,"Age-standardized",1,"Male",0.33776955013
+273,"alc_binge_prop",4669,"Tabasco",1998,27,"Age-standardized",2,"Female",0.07638426549
+273,"alc_binge_prop",4670,"Tamaulipas",1998,27,"Age-standardized",1,"Male",0.38762678001
+273,"alc_binge_prop",4670,"Tamaulipas",1998,27,"Age-standardized",2,"Female",0.09726797211
+273,"alc_binge_prop",4671,"Tlaxcala",1998,27,"Age-standardized",1,"Male",0.27933291227
+273,"alc_binge_prop",4671,"Tlaxcala",1998,27,"Age-standardized",2,"Female",0.090175198
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",1,"Male",0.29479339168
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1998,27,"Age-standardized",2,"Female",0.06305150102
+273,"alc_binge_prop",4673,"Yucatán",1998,27,"Age-standardized",1,"Male",0.27269095875
+273,"alc_binge_prop",4673,"Yucatán",1998,27,"Age-standardized",2,"Female",0.06337073436
+273,"alc_binge_prop",4674,"Zacatecas",1998,27,"Age-standardized",1,"Male",0.33640068495
+273,"alc_binge_prop",4674,"Zacatecas",1998,27,"Age-standardized",2,"Female",0.04412435657
+273,"alc_binge_prop",130,"Mexico",1999,27,"Age-standardized",1,"Male",0.34172706734
+273,"alc_binge_prop",130,"Mexico",1999,27,"Age-standardized",2,"Female",0.08307376234
+273,"alc_binge_prop",4643,"Aguascalientes",1999,27,"Age-standardized",1,"Male",0.25141595702
+273,"alc_binge_prop",4643,"Aguascalientes",1999,27,"Age-standardized",2,"Female",0.084810858
+273,"alc_binge_prop",4644,"Baja California",1999,27,"Age-standardized",1,"Male",0.31532101886
+273,"alc_binge_prop",4644,"Baja California",1999,27,"Age-standardized",2,"Female",0.08438689832
+273,"alc_binge_prop",4645,"Baja California Sur",1999,27,"Age-standardized",1,"Male",0.37786806568
+273,"alc_binge_prop",4645,"Baja California Sur",1999,27,"Age-standardized",2,"Female",0.1292871521
+273,"alc_binge_prop",4646,"Campeche",1999,27,"Age-standardized",1,"Male",0.36754877801
+273,"alc_binge_prop",4646,"Campeche",1999,27,"Age-standardized",2,"Female",0.07885603458
+273,"alc_binge_prop",4647,"Coahuila",1999,27,"Age-standardized",1,"Male",0.32864233934
+273,"alc_binge_prop",4647,"Coahuila",1999,27,"Age-standardized",2,"Female",0.04244614257
+273,"alc_binge_prop",4648,"Colima",1999,27,"Age-standardized",1,"Male",0.35449411178
+273,"alc_binge_prop",4648,"Colima",1999,27,"Age-standardized",2,"Female",0.08703713844
+273,"alc_binge_prop",4649,"Chiapas",1999,27,"Age-standardized",1,"Male",0.26382306428
+273,"alc_binge_prop",4649,"Chiapas",1999,27,"Age-standardized",2,"Female",0.13070992221
+273,"alc_binge_prop",4650,"Chihuahua",1999,27,"Age-standardized",1,"Male",0.33881505223
+273,"alc_binge_prop",4650,"Chihuahua",1999,27,"Age-standardized",2,"Female",0.07116335796
+273,"alc_binge_prop",4651,"Mexico City",1999,27,"Age-standardized",1,"Male",0.36172351439
+273,"alc_binge_prop",4651,"Mexico City",1999,27,"Age-standardized",2,"Female",0.10321486435
+273,"alc_binge_prop",4652,"Durango",1999,27,"Age-standardized",1,"Male",0.37508583195
+273,"alc_binge_prop",4652,"Durango",1999,27,"Age-standardized",2,"Female",0.07279174093
+273,"alc_binge_prop",4653,"Guanajuato",1999,27,"Age-standardized",1,"Male",0.3073840199
+273,"alc_binge_prop",4653,"Guanajuato",1999,27,"Age-standardized",2,"Female",0.05008365572
+273,"alc_binge_prop",4654,"Guerrero",1999,27,"Age-standardized",1,"Male",0.30761997204
+273,"alc_binge_prop",4654,"Guerrero",1999,27,"Age-standardized",2,"Female",0.08841287266
+273,"alc_binge_prop",4655,"Hidalgo",1999,27,"Age-standardized",1,"Male",0.32415022095
+273,"alc_binge_prop",4655,"Hidalgo",1999,27,"Age-standardized",2,"Female",0.09285584192
+273,"alc_binge_prop",4656,"Jalisco",1999,27,"Age-standardized",1,"Male",0.34334691868
+273,"alc_binge_prop",4656,"Jalisco",1999,27,"Age-standardized",2,"Female",0.09618783484
+273,"alc_binge_prop",4657,"México",1999,27,"Age-standardized",1,"Male",0.36801353308
+273,"alc_binge_prop",4657,"México",1999,27,"Age-standardized",2,"Female",0.07841068387
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",1,"Male",0.33772971002
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",1999,27,"Age-standardized",2,"Female",0.06840149404
+273,"alc_binge_prop",4659,"Morelos",1999,27,"Age-standardized",1,"Male",0.38087095679
+273,"alc_binge_prop",4659,"Morelos",1999,27,"Age-standardized",2,"Female",0.08645064944
+273,"alc_binge_prop",4660,"Nayarit",1999,27,"Age-standardized",1,"Male",0.3570225501
+273,"alc_binge_prop",4660,"Nayarit",1999,27,"Age-standardized",2,"Female",0.1856750365
+273,"alc_binge_prop",4661,"Nuevo León",1999,27,"Age-standardized",1,"Male",0.3729933715
+273,"alc_binge_prop",4661,"Nuevo León",1999,27,"Age-standardized",2,"Female",0.06026519183
+273,"alc_binge_prop",4662,"Oaxaca",1999,27,"Age-standardized",1,"Male",0.33890734121
+273,"alc_binge_prop",4662,"Oaxaca",1999,27,"Age-standardized",2,"Female",0.06071542036
+273,"alc_binge_prop",4663,"Puebla",1999,27,"Age-standardized",1,"Male",0.35544273958
+273,"alc_binge_prop",4663,"Puebla",1999,27,"Age-standardized",2,"Female",0.07993335141
+273,"alc_binge_prop",4664,"Querétaro",1999,27,"Age-standardized",1,"Male",0.29121481417
+273,"alc_binge_prop",4664,"Querétaro",1999,27,"Age-standardized",2,"Female",0.05551452525
+273,"alc_binge_prop",4665,"Quintana Roo",1999,27,"Age-standardized",1,"Male",0.4013675347
+273,"alc_binge_prop",4665,"Quintana Roo",1999,27,"Age-standardized",2,"Female",0.1992006357
+273,"alc_binge_prop",4666,"San Luis Potosí",1999,27,"Age-standardized",1,"Male",0.32706413848
+273,"alc_binge_prop",4666,"San Luis Potosí",1999,27,"Age-standardized",2,"Female",0.06384870947
+273,"alc_binge_prop",4667,"Sinaloa",1999,27,"Age-standardized",1,"Male",0.39708925749
+273,"alc_binge_prop",4667,"Sinaloa",1999,27,"Age-standardized",2,"Female",0.11018952322
+273,"alc_binge_prop",4668,"Sonora",1999,27,"Age-standardized",1,"Male",0.44721155087
+273,"alc_binge_prop",4668,"Sonora",1999,27,"Age-standardized",2,"Female",0.08245212728
+273,"alc_binge_prop",4669,"Tabasco",1999,27,"Age-standardized",1,"Male",0.3377438863
+273,"alc_binge_prop",4669,"Tabasco",1999,27,"Age-standardized",2,"Female",0.07376957536
+273,"alc_binge_prop",4670,"Tamaulipas",1999,27,"Age-standardized",1,"Male",0.38771156152
+273,"alc_binge_prop",4670,"Tamaulipas",1999,27,"Age-standardized",2,"Female",0.09527215904
+273,"alc_binge_prop",4671,"Tlaxcala",1999,27,"Age-standardized",1,"Male",0.27963719501
+273,"alc_binge_prop",4671,"Tlaxcala",1999,27,"Age-standardized",2,"Female",0.08780964962
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",1,"Male",0.29597293086
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",1999,27,"Age-standardized",2,"Female",0.06160872259
+273,"alc_binge_prop",4673,"Yucatán",1999,27,"Age-standardized",1,"Male",0.27471709944
+273,"alc_binge_prop",4673,"Yucatán",1999,27,"Age-standardized",2,"Female",0.06315310096
+273,"alc_binge_prop",4674,"Zacatecas",1999,27,"Age-standardized",1,"Male",0.33607734699
+273,"alc_binge_prop",4674,"Zacatecas",1999,27,"Age-standardized",2,"Female",0.04233253941
+273,"alc_binge_prop",130,"Mexico",2000,27,"Age-standardized",1,"Male",0.34265617761
+273,"alc_binge_prop",130,"Mexico",2000,27,"Age-standardized",2,"Female",0.08138710056
+273,"alc_binge_prop",4643,"Aguascalientes",2000,27,"Age-standardized",1,"Male",0.25171906958
+273,"alc_binge_prop",4643,"Aguascalientes",2000,27,"Age-standardized",2,"Female",0.08338930796
+273,"alc_binge_prop",4644,"Baja California",2000,27,"Age-standardized",1,"Male",0.31889752437
+273,"alc_binge_prop",4644,"Baja California",2000,27,"Age-standardized",2,"Female",0.08368380316
+273,"alc_binge_prop",4645,"Baja California Sur",2000,27,"Age-standardized",1,"Male",0.38031629916
+273,"alc_binge_prop",4645,"Baja California Sur",2000,27,"Age-standardized",2,"Female",0.1275366195
+273,"alc_binge_prop",4646,"Campeche",2000,27,"Age-standardized",1,"Male",0.36714391656
+273,"alc_binge_prop",4646,"Campeche",2000,27,"Age-standardized",2,"Female",0.0767214436
+273,"alc_binge_prop",4647,"Coahuila",2000,27,"Age-standardized",1,"Male",0.33092857922
+273,"alc_binge_prop",4647,"Coahuila",2000,27,"Age-standardized",2,"Female",0.04114511708
+273,"alc_binge_prop",4648,"Colima",2000,27,"Age-standardized",1,"Male",0.35778031687
+273,"alc_binge_prop",4648,"Colima",2000,27,"Age-standardized",2,"Female",0.08677132846
+273,"alc_binge_prop",4649,"Chiapas",2000,27,"Age-standardized",1,"Male",0.26310509867
+273,"alc_binge_prop",4649,"Chiapas",2000,27,"Age-standardized",2,"Female",0.12311442567
+273,"alc_binge_prop",4650,"Chihuahua",2000,27,"Age-standardized",1,"Male",0.33967438601
+273,"alc_binge_prop",4650,"Chihuahua",2000,27,"Age-standardized",2,"Female",0.0700708338
+273,"alc_binge_prop",4651,"Mexico City",2000,27,"Age-standardized",1,"Male",0.36337806713
+273,"alc_binge_prop",4651,"Mexico City",2000,27,"Age-standardized",2,"Female",0.1035035139
+273,"alc_binge_prop",4652,"Durango",2000,27,"Age-standardized",1,"Male",0.37556615939
+273,"alc_binge_prop",4652,"Durango",2000,27,"Age-standardized",2,"Female",0.06998363722
+273,"alc_binge_prop",4653,"Guanajuato",2000,27,"Age-standardized",1,"Male",0.30862776039
+273,"alc_binge_prop",4653,"Guanajuato",2000,27,"Age-standardized",2,"Female",0.04737300223
+273,"alc_binge_prop",4654,"Guerrero",2000,27,"Age-standardized",1,"Male",0.30641878953
+273,"alc_binge_prop",4654,"Guerrero",2000,27,"Age-standardized",2,"Female",0.08531921095
+273,"alc_binge_prop",4655,"Hidalgo",2000,27,"Age-standardized",1,"Male",0.32513016695
+273,"alc_binge_prop",4655,"Hidalgo",2000,27,"Age-standardized",2,"Female",0.09072161825
+273,"alc_binge_prop",4656,"Jalisco",2000,27,"Age-standardized",1,"Male",0.34330748174
+273,"alc_binge_prop",4656,"Jalisco",2000,27,"Age-standardized",2,"Female",0.09549959878
+273,"alc_binge_prop",4657,"México",2000,27,"Age-standardized",1,"Male",0.36975795758
+273,"alc_binge_prop",4657,"México",2000,27,"Age-standardized",2,"Female",0.07803489482
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",1,"Male",0.33848193175
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2000,27,"Age-standardized",2,"Female",0.06589686492
+273,"alc_binge_prop",4659,"Morelos",2000,27,"Age-standardized",1,"Male",0.38053020437
+273,"alc_binge_prop",4659,"Morelos",2000,27,"Age-standardized",2,"Female",0.08519585095
+273,"alc_binge_prop",4660,"Nayarit",2000,27,"Age-standardized",1,"Male",0.3580403572
+273,"alc_binge_prop",4660,"Nayarit",2000,27,"Age-standardized",2,"Female",0.1841707168
+273,"alc_binge_prop",4661,"Nuevo León",2000,27,"Age-standardized",1,"Male",0.37458516737
+273,"alc_binge_prop",4661,"Nuevo León",2000,27,"Age-standardized",2,"Female",0.06013304711
+273,"alc_binge_prop",4662,"Oaxaca",2000,27,"Age-standardized",1,"Male",0.33847152198
+273,"alc_binge_prop",4662,"Oaxaca",2000,27,"Age-standardized",2,"Female",0.05715293005
+273,"alc_binge_prop",4663,"Puebla",2000,27,"Age-standardized",1,"Male",0.35563121685
+273,"alc_binge_prop",4663,"Puebla",2000,27,"Age-standardized",2,"Female",0.07768228746
+273,"alc_binge_prop",4664,"Querétaro",2000,27,"Age-standardized",1,"Male",0.29177177403
+273,"alc_binge_prop",4664,"Querétaro",2000,27,"Age-standardized",2,"Female",0.05406936133
+273,"alc_binge_prop",4665,"Quintana Roo",2000,27,"Age-standardized",1,"Male",0.4019826602
+273,"alc_binge_prop",4665,"Quintana Roo",2000,27,"Age-standardized",2,"Female",0.196432958
+273,"alc_binge_prop",4666,"San Luis Potosí",2000,27,"Age-standardized",1,"Male",0.32757567091
+273,"alc_binge_prop",4666,"San Luis Potosí",2000,27,"Age-standardized",2,"Female",0.06088221898
+273,"alc_binge_prop",4667,"Sinaloa",2000,27,"Age-standardized",1,"Male",0.39743493874
+273,"alc_binge_prop",4667,"Sinaloa",2000,27,"Age-standardized",2,"Female",0.10536312342
+273,"alc_binge_prop",4668,"Sonora",2000,27,"Age-standardized",1,"Male",0.44855104956
+273,"alc_binge_prop",4668,"Sonora",2000,27,"Age-standardized",2,"Female",0.08099851118
+273,"alc_binge_prop",4669,"Tabasco",2000,27,"Age-standardized",1,"Male",0.33771260566
+273,"alc_binge_prop",4669,"Tabasco",2000,27,"Age-standardized",2,"Female",0.07119858395
+273,"alc_binge_prop",4670,"Tamaulipas",2000,27,"Age-standardized",1,"Male",0.38779177108
+273,"alc_binge_prop",4670,"Tamaulipas",2000,27,"Age-standardized",2,"Female",0.09329872556
+273,"alc_binge_prop",4671,"Tlaxcala",2000,27,"Age-standardized",1,"Male",0.27994006448
+273,"alc_binge_prop",4671,"Tlaxcala",2000,27,"Age-standardized",2,"Female",0.08546196211
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",1,"Male",0.29715490354
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2000,27,"Age-standardized",2,"Female",0.06016982306
+273,"alc_binge_prop",4673,"Yucatán",2000,27,"Age-standardized",1,"Male",0.27675798466
+273,"alc_binge_prop",4673,"Yucatán",2000,27,"Age-standardized",2,"Female",0.06292480318
+273,"alc_binge_prop",4674,"Zacatecas",2000,27,"Age-standardized",1,"Male",0.33575227062
+273,"alc_binge_prop",4674,"Zacatecas",2000,27,"Age-standardized",2,"Female",0.04058014523
+273,"alc_binge_prop",130,"Mexico",2001,27,"Age-standardized",1,"Male",0.34183979087
+273,"alc_binge_prop",130,"Mexico",2001,27,"Age-standardized",2,"Female",0.0808798831
+273,"alc_binge_prop",4643,"Aguascalientes",2001,27,"Age-standardized",1,"Male",0.25158397763
+273,"alc_binge_prop",4643,"Aguascalientes",2001,27,"Age-standardized",2,"Female",0.08274580626
+273,"alc_binge_prop",4644,"Baja California",2001,27,"Age-standardized",1,"Male",0.31641961551
+273,"alc_binge_prop",4644,"Baja California",2001,27,"Age-standardized",2,"Female",0.0829733864
+273,"alc_binge_prop",4645,"Baja California Sur",2001,27,"Age-standardized",1,"Male",0.37729632766
+273,"alc_binge_prop",4645,"Baja California Sur",2001,27,"Age-standardized",2,"Female",0.12460461718
+273,"alc_binge_prop",4646,"Campeche",2001,27,"Age-standardized",1,"Male",0.36363476622
+273,"alc_binge_prop",4646,"Campeche",2001,27,"Age-standardized",2,"Female",0.07600934978
+273,"alc_binge_prop",4647,"Coahuila",2001,27,"Age-standardized",1,"Male",0.3290517981
+273,"alc_binge_prop",4647,"Coahuila",2001,27,"Age-standardized",2,"Female",0.04204052288
+273,"alc_binge_prop",4648,"Colima",2001,27,"Age-standardized",1,"Male",0.35265410363
+273,"alc_binge_prop",4648,"Colima",2001,27,"Age-standardized",2,"Female",0.08586504562
+273,"alc_binge_prop",4649,"Chiapas",2001,27,"Age-standardized",1,"Male",0.25894371123
+273,"alc_binge_prop",4649,"Chiapas",2001,27,"Age-standardized",2,"Female",0.11794554197
+273,"alc_binge_prop",4650,"Chihuahua",2001,27,"Age-standardized",1,"Male",0.33974834926
+273,"alc_binge_prop",4650,"Chihuahua",2001,27,"Age-standardized",2,"Female",0.07057623933
+273,"alc_binge_prop",4651,"Mexico City",2001,27,"Age-standardized",1,"Male",0.36201444112
+273,"alc_binge_prop",4651,"Mexico City",2001,27,"Age-standardized",2,"Female",0.10381463339
+273,"alc_binge_prop",4652,"Durango",2001,27,"Age-standardized",1,"Male",0.37333176939
+273,"alc_binge_prop",4652,"Durango",2001,27,"Age-standardized",2,"Female",0.06814552078
+273,"alc_binge_prop",4653,"Guanajuato",2001,27,"Age-standardized",1,"Male",0.30611350547
+273,"alc_binge_prop",4653,"Guanajuato",2001,27,"Age-standardized",2,"Female",0.04660493385
+273,"alc_binge_prop",4654,"Guerrero",2001,27,"Age-standardized",1,"Male",0.30518667385
+273,"alc_binge_prop",4654,"Guerrero",2001,27,"Age-standardized",2,"Female",0.08386229748
+273,"alc_binge_prop",4655,"Hidalgo",2001,27,"Age-standardized",1,"Male",0.32395429497
+273,"alc_binge_prop",4655,"Hidalgo",2001,27,"Age-standardized",2,"Female",0.08859082335
+273,"alc_binge_prop",4656,"Jalisco",2001,27,"Age-standardized",1,"Male",0.3474692972
+273,"alc_binge_prop",4656,"Jalisco",2001,27,"Age-standardized",2,"Female",0.09652528407
+273,"alc_binge_prop",4657,"México",2001,27,"Age-standardized",1,"Male",0.3684294194
+273,"alc_binge_prop",4657,"México",2001,27,"Age-standardized",2,"Female",0.07703988965
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",1,"Male",0.3391075984
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2001,27,"Age-standardized",2,"Female",0.06654233765
+273,"alc_binge_prop",4659,"Morelos",2001,27,"Age-standardized",1,"Male",0.38066099123
+273,"alc_binge_prop",4659,"Morelos",2001,27,"Age-standardized",2,"Female",0.08511781553
+273,"alc_binge_prop",4660,"Nayarit",2001,27,"Age-standardized",1,"Male",0.3561217707
+273,"alc_binge_prop",4660,"Nayarit",2001,27,"Age-standardized",2,"Female",0.1799591803
+273,"alc_binge_prop",4661,"Nuevo León",2001,27,"Age-standardized",1,"Male",0.37443811157
+273,"alc_binge_prop",4661,"Nuevo León",2001,27,"Age-standardized",2,"Female",0.06076820947
+273,"alc_binge_prop",4662,"Oaxaca",2001,27,"Age-standardized",1,"Male",0.33801544072
+273,"alc_binge_prop",4662,"Oaxaca",2001,27,"Age-standardized",2,"Female",0.05782512868
+273,"alc_binge_prop",4663,"Puebla",2001,27,"Age-standardized",1,"Male",0.35500501368
+273,"alc_binge_prop",4663,"Puebla",2001,27,"Age-standardized",2,"Female",0.07624576953
+273,"alc_binge_prop",4664,"Querétaro",2001,27,"Age-standardized",1,"Male",0.28999770227
+273,"alc_binge_prop",4664,"Querétaro",2001,27,"Age-standardized",2,"Female",0.05605240421
+273,"alc_binge_prop",4665,"Quintana Roo",2001,27,"Age-standardized",1,"Male",0.4003519202
+273,"alc_binge_prop",4665,"Quintana Roo",2001,27,"Age-standardized",2,"Female",0.1932019411
+273,"alc_binge_prop",4666,"San Luis Potosí",2001,27,"Age-standardized",1,"Male",0.32489586633
+273,"alc_binge_prop",4666,"San Luis Potosí",2001,27,"Age-standardized",2,"Female",0.0583484378
+273,"alc_binge_prop",4667,"Sinaloa",2001,27,"Age-standardized",1,"Male",0.39384390573
+273,"alc_binge_prop",4667,"Sinaloa",2001,27,"Age-standardized",2,"Female",0.10164251318
+273,"alc_binge_prop",4668,"Sonora",2001,27,"Age-standardized",1,"Male",0.44586650473
+273,"alc_binge_prop",4668,"Sonora",2001,27,"Age-standardized",2,"Female",0.08072661867
+273,"alc_binge_prop",4669,"Tabasco",2001,27,"Age-standardized",1,"Male",0.33531129236
+273,"alc_binge_prop",4669,"Tabasco",2001,27,"Age-standardized",2,"Female",0.07062420203
+273,"alc_binge_prop",4670,"Tamaulipas",2001,27,"Age-standardized",1,"Male",0.38662629809
+273,"alc_binge_prop",4670,"Tamaulipas",2001,27,"Age-standardized",2,"Female",0.09141087088
+273,"alc_binge_prop",4671,"Tlaxcala",2001,27,"Age-standardized",1,"Male",0.28014915455
+273,"alc_binge_prop",4671,"Tlaxcala",2001,27,"Age-standardized",2,"Female",0.08434540315
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",1,"Male",0.29853188714
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2001,27,"Age-standardized",2,"Female",0.06109639638
+273,"alc_binge_prop",4673,"Yucatán",2001,27,"Age-standardized",1,"Male",0.27698105225
+273,"alc_binge_prop",4673,"Yucatán",2001,27,"Age-standardized",2,"Female",0.06400111343
+273,"alc_binge_prop",4674,"Zacatecas",2001,27,"Age-standardized",1,"Male",0.33521778061
+273,"alc_binge_prop",4674,"Zacatecas",2001,27,"Age-standardized",2,"Female",0.04097131613
+273,"alc_binge_prop",130,"Mexico",2002,27,"Age-standardized",1,"Male",0.34101126697
+273,"alc_binge_prop",130,"Mexico",2002,27,"Age-standardized",2,"Female",0.0803667094
+273,"alc_binge_prop",4643,"Aguascalientes",2002,27,"Age-standardized",1,"Male",0.25144910766
+273,"alc_binge_prop",4643,"Aguascalientes",2002,27,"Age-standardized",2,"Female",0.08210589685
+273,"alc_binge_prop",4644,"Baja California",2002,27,"Age-standardized",1,"Male",0.31388554965
+273,"alc_binge_prop",4644,"Baja California",2002,27,"Age-standardized",2,"Female",0.0822517
+273,"alc_binge_prop",4645,"Baja California Sur",2002,27,"Age-standardized",1,"Male",0.3742695527
+273,"alc_binge_prop",4645,"Baja California Sur",2002,27,"Age-standardized",2,"Female",0.12172298683
+273,"alc_binge_prop",4646,"Campeche",2002,27,"Age-standardized",1,"Male",0.36015708256
+273,"alc_binge_prop",4646,"Campeche",2002,27,"Age-standardized",2,"Female",0.0752987637
+273,"alc_binge_prop",4647,"Coahuila",2002,27,"Age-standardized",1,"Male",0.3271330852
+273,"alc_binge_prop",4647,"Coahuila",2002,27,"Age-standardized",2,"Female",0.04295020694
+273,"alc_binge_prop",4648,"Colima",2002,27,"Age-standardized",1,"Male",0.34757483193
+273,"alc_binge_prop",4648,"Colima",2002,27,"Age-standardized",2,"Female",0.0849521516
+273,"alc_binge_prop",4649,"Chiapas",2002,27,"Age-standardized",1,"Male",0.25480114642
+273,"alc_binge_prop",4649,"Chiapas",2002,27,"Age-standardized",2,"Female",0.11295004416
+273,"alc_binge_prop",4650,"Chihuahua",2002,27,"Age-standardized",1,"Male",0.33980075005
+273,"alc_binge_prop",4650,"Chihuahua",2002,27,"Age-standardized",2,"Female",0.07108084
+273,"alc_binge_prop",4651,"Mexico City",2002,27,"Age-standardized",1,"Male",0.36064803938
+273,"alc_binge_prop",4651,"Mexico City",2002,27,"Age-standardized",2,"Female",0.10412007274
+273,"alc_binge_prop",4652,"Durango",2002,27,"Age-standardized",1,"Male",0.37109048123
+273,"alc_binge_prop",4652,"Durango",2002,27,"Age-standardized",2,"Female",0.06634577933
+273,"alc_binge_prop",4653,"Guanajuato",2002,27,"Age-standardized",1,"Male",0.3035588053
+273,"alc_binge_prop",4653,"Guanajuato",2002,27,"Age-standardized",2,"Female",0.04582552555
+273,"alc_binge_prop",4654,"Guerrero",2002,27,"Age-standardized",1,"Male",0.30395516908
+273,"alc_binge_prop",4654,"Guerrero",2002,27,"Age-standardized",2,"Female",0.08242748756
+273,"alc_binge_prop",4655,"Hidalgo",2002,27,"Age-standardized",1,"Male",0.32276904705
+273,"alc_binge_prop",4655,"Hidalgo",2002,27,"Age-standardized",2,"Female",0.0864966051
+273,"alc_binge_prop",4656,"Jalisco",2002,27,"Age-standardized",1,"Male",0.35167866667
+273,"alc_binge_prop",4656,"Jalisco",2002,27,"Age-standardized",2,"Female",0.09755198717
+273,"alc_binge_prop",4657,"México",2002,27,"Age-standardized",1,"Male",0.36709266333
+273,"alc_binge_prop",4657,"México",2002,27,"Age-standardized",2,"Female",0.07605040979
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",1,"Male",0.33972870735
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2002,27,"Age-standardized",2,"Female",0.06719120551
+273,"alc_binge_prop",4659,"Morelos",2002,27,"Age-standardized",1,"Male",0.38079205997
+273,"alc_binge_prop",4659,"Morelos",2002,27,"Age-standardized",2,"Female",0.08504026918
+273,"alc_binge_prop",4660,"Nayarit",2002,27,"Age-standardized",1,"Male",0.3542063625
+273,"alc_binge_prop",4660,"Nayarit",2002,27,"Age-standardized",2,"Female",0.1758309397
+273,"alc_binge_prop",4661,"Nuevo León",2002,27,"Age-standardized",1,"Male",0.37428357989
+273,"alc_binge_prop",4661,"Nuevo León",2002,27,"Age-standardized",2,"Female",0.06140532309
+273,"alc_binge_prop",4662,"Oaxaca",2002,27,"Age-standardized",1,"Male",0.33755392496
+273,"alc_binge_prop",4662,"Oaxaca",2002,27,"Age-standardized",2,"Female",0.05850589497
+273,"alc_binge_prop",4663,"Puebla",2002,27,"Age-standardized",1,"Male",0.35437483656
+273,"alc_binge_prop",4663,"Puebla",2002,27,"Age-standardized",2,"Female",0.07482520282
+273,"alc_binge_prop",4664,"Querétaro",2002,27,"Age-standardized",1,"Male",0.28824429415
+273,"alc_binge_prop",4664,"Querétaro",2002,27,"Age-standardized",2,"Female",0.05810816577
+273,"alc_binge_prop",4665,"Quintana Roo",2002,27,"Age-standardized",1,"Male",0.3987238914
+273,"alc_binge_prop",4665,"Quintana Roo",2002,27,"Age-standardized",2,"Female",0.1900229122
+273,"alc_binge_prop",4666,"San Luis Potosí",2002,27,"Age-standardized",1,"Male",0.32221296271
+273,"alc_binge_prop",4666,"San Luis Potosí",2002,27,"Age-standardized",2,"Female",0.05589934937
+273,"alc_binge_prop",4667,"Sinaloa",2002,27,"Age-standardized",1,"Male",0.39026062522
+273,"alc_binge_prop",4667,"Sinaloa",2002,27,"Age-standardized",2,"Female",0.09802789937
+273,"alc_binge_prop",4668,"Sonora",2002,27,"Age-standardized",1,"Male",0.44317199493
+273,"alc_binge_prop",4668,"Sonora",2002,27,"Age-standardized",2,"Female",0.08044428811
+273,"alc_binge_prop",4669,"Tabasco",2002,27,"Age-standardized",1,"Male",0.33290864332
+273,"alc_binge_prop",4669,"Tabasco",2002,27,"Age-standardized",2,"Female",0.07004176102
+273,"alc_binge_prop",4670,"Tamaulipas",2002,27,"Age-standardized",1,"Male",0.38545682862
+273,"alc_binge_prop",4670,"Tamaulipas",2002,27,"Age-standardized",2,"Female",0.08955409925
+273,"alc_binge_prop",4671,"Tlaxcala",2002,27,"Age-standardized",1,"Male",0.28035786572
+273,"alc_binge_prop",4671,"Tlaxcala",2002,27,"Age-standardized",2,"Female",0.08324044942
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",1,"Male",0.29990431526
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2002,27,"Age-standardized",2,"Female",0.06203308085
+273,"alc_binge_prop",4673,"Yucatán",2002,27,"Age-standardized",1,"Male",0.27717660461
+273,"alc_binge_prop",4673,"Yucatán",2002,27,"Age-standardized",2,"Female",0.06509049813
+273,"alc_binge_prop",4674,"Zacatecas",2002,27,"Age-standardized",1,"Male",0.33468440489
+273,"alc_binge_prop",4674,"Zacatecas",2002,27,"Age-standardized",2,"Female",0.04136675724
+273,"alc_binge_prop",130,"Mexico",2003,27,"Age-standardized",1,"Male",0.34017068544
+273,"alc_binge_prop",130,"Mexico",2003,27,"Age-standardized",2,"Female",0.07984784034
+273,"alc_binge_prop",4643,"Aguascalientes",2003,27,"Age-standardized",1,"Male",0.25131445979
+273,"alc_binge_prop",4643,"Aguascalientes",2003,27,"Age-standardized",2,"Female",0.08146958253
+273,"alc_binge_prop",4644,"Baja California",2003,27,"Age-standardized",1,"Male",0.3112969859
+273,"alc_binge_prop",4644,"Baja California",2003,27,"Age-standardized",2,"Female",0.0815194067
+273,"alc_binge_prop",4645,"Baja California Sur",2003,27,"Age-standardized",1,"Male",0.37123643617
+273,"alc_binge_prop",4645,"Baja California Sur",2003,27,"Age-standardized",2,"Female",0.11889154907
+273,"alc_binge_prop",4646,"Campeche",2003,27,"Age-standardized",1,"Male",0.35671060943
+273,"alc_binge_prop",4646,"Campeche",2003,27,"Age-standardized",2,"Female",0.07458986034
+273,"alc_binge_prop",4647,"Coahuila",2003,27,"Age-standardized",1,"Male",0.32517333485
+273,"alc_binge_prop",4647,"Coahuila",2003,27,"Age-standardized",2,"Female",0.04387435209
+273,"alc_binge_prop",4648,"Colima",2003,27,"Age-standardized",1,"Male",0.34254249083
+273,"alc_binge_prop",4648,"Colima",2003,27,"Age-standardized",2,"Female",0.08403320255
+273,"alc_binge_prop",4649,"Chiapas",2003,27,"Age-standardized",1,"Male",0.25067897363
+273,"alc_binge_prop",4649,"Chiapas",2003,27,"Age-standardized",2,"Female",0.10812577225
+273,"alc_binge_prop",4650,"Chihuahua",2003,27,"Age-standardized",1,"Male",0.33983153912
+273,"alc_binge_prop",4650,"Chihuahua",2003,27,"Age-standardized",2,"Female",0.07158460912
+273,"alc_binge_prop",4651,"Mexico City",2003,27,"Age-standardized",1,"Male",0.35927890784
+273,"alc_binge_prop",4651,"Mexico City",2003,27,"Age-standardized",2,"Female",0.10441981024
+273,"alc_binge_prop",4652,"Durango",2003,27,"Age-standardized",1,"Male",0.36884253651
+273,"alc_binge_prop",4652,"Durango",2003,27,"Age-standardized",2,"Female",0.06458410684
+273,"alc_binge_prop",4653,"Guanajuato",2003,27,"Age-standardized",1,"Male",0.30096505362
+273,"alc_binge_prop",4653,"Guanajuato",2003,27,"Age-standardized",2,"Female",0.04503650372
+273,"alc_binge_prop",4654,"Guerrero",2003,27,"Age-standardized",1,"Male",0.3027243252
+273,"alc_binge_prop",4654,"Guerrero",2003,27,"Age-standardized",2,"Female",0.08101453448
+273,"alc_binge_prop",4655,"Hidalgo",2003,27,"Age-standardized",1,"Male",0.32157453721
+273,"alc_binge_prop",4655,"Hidalgo",2003,27,"Age-standardized",2,"Female",0.08443890451
+273,"alc_binge_prop",4656,"Jalisco",2003,27,"Age-standardized",1,"Male",0.35593608534
+273,"alc_binge_prop",4656,"Jalisco",2003,27,"Age-standardized",2,"Female",0.09857956929
+273,"alc_binge_prop",4657,"México",2003,27,"Age-standardized",1,"Male",0.36574777133
+273,"alc_binge_prop",4657,"México",2003,27,"Age-standardized",2,"Female",0.07506666267
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",1,"Male",0.34034523325
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2003,27,"Age-standardized",2,"Female",0.06784346933
+273,"alc_binge_prop",4659,"Morelos",2003,27,"Age-standardized",1,"Male",0.38092340841
+273,"alc_binge_prop",4659,"Morelos",2003,27,"Age-standardized",2,"Female",0.08496321056
+273,"alc_binge_prop",4660,"Nayarit",2003,27,"Age-standardized",1,"Male",0.3522941816
+273,"alc_binge_prop",4660,"Nayarit",2003,27,"Age-standardized",2,"Female",0.1717847656
+273,"alc_binge_prop",4661,"Nuevo León",2003,27,"Age-standardized",1,"Male",0.37412156669
+273,"alc_binge_prop",4661,"Nuevo León",2003,27,"Age-standardized",2,"Female",0.0620443671
+273,"alc_binge_prop",4662,"Oaxaca",2003,27,"Age-standardized",1,"Male",0.33708700489
+273,"alc_binge_prop",4662,"Oaxaca",2003,27,"Age-standardized",2,"Female",0.05919536696
+273,"alc_binge_prop",4663,"Puebla",2003,27,"Age-standardized",1,"Male",0.35374070579
+273,"alc_binge_prop",4663,"Puebla",2003,27,"Age-standardized",2,"Female",0.07342080967
+273,"alc_binge_prop",4664,"Querétaro",2003,27,"Age-standardized",1,"Male",0.28651121261
+273,"alc_binge_prop",4664,"Querétaro",2003,27,"Age-standardized",2,"Female",0.06023935737
+273,"alc_binge_prop",4665,"Quintana Roo",2003,27,"Age-standardized",1,"Male",0.3970985953
+273,"alc_binge_prop",4665,"Quintana Roo",2003,27,"Age-standardized",2,"Female",0.1868950757
+273,"alc_binge_prop",4666,"San Luis Potosí",2003,27,"Age-standardized",1,"Male",0.31952739864
+273,"alc_binge_prop",4666,"San Luis Potosí",2003,27,"Age-standardized",2,"Female",0.05353378372
+273,"alc_binge_prop",4667,"Sinaloa",2003,27,"Age-standardized",1,"Male",0.3866854488
+273,"alc_binge_prop",4667,"Sinaloa",2003,27,"Age-standardized",2,"Female",0.09451791302
+273,"alc_binge_prop",4668,"Sonora",2003,27,"Age-standardized",1,"Male",0.44046780106
+273,"alc_binge_prop",4668,"Sonora",2003,27,"Age-standardized",2,"Female",0.08015178996
+273,"alc_binge_prop",4669,"Tabasco",2003,27,"Age-standardized",1,"Male",0.33050496454
+273,"alc_binge_prop",4669,"Tabasco",2003,27,"Age-standardized",2,"Female",0.069451772
+273,"alc_binge_prop",4670,"Tamaulipas",2003,27,"Age-standardized",1,"Male",0.38428341904
+273,"alc_binge_prop",4670,"Tamaulipas",2003,27,"Age-standardized",2,"Female",0.08772817461
+273,"alc_binge_prop",4671,"Tlaxcala",2003,27,"Age-standardized",1,"Male",0.28056620018
+273,"alc_binge_prop",4671,"Tlaxcala",2003,27,"Age-standardized",2,"Female",0.08214706441
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",1,"Male",0.30127206497
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2003,27,"Age-standardized",2,"Female",0.06297996191
+273,"alc_binge_prop",4673,"Yucatán",2003,27,"Age-standardized",1,"Male",0.27734457437
+273,"alc_binge_prop",4673,"Yucatán",2003,27,"Age-standardized",2,"Female",0.06619305046
+273,"alc_binge_prop",4674,"Zacatecas",2003,27,"Age-standardized",1,"Male",0.33415213913
+273,"alc_binge_prop",4674,"Zacatecas",2003,27,"Age-standardized",2,"Female",0.04176653631
+273,"alc_binge_prop",130,"Mexico",2004,27,"Age-standardized",1,"Male",0.33931812847
+273,"alc_binge_prop",130,"Mexico",2004,27,"Age-standardized",2,"Female",0.07932353755
+273,"alc_binge_prop",4643,"Aguascalientes",2004,27,"Age-standardized",1,"Male",0.25118003511
+273,"alc_binge_prop",4643,"Aguascalientes",2004,27,"Age-standardized",2,"Female",0.08083686656
+273,"alc_binge_prop",4644,"Baja California",2004,27,"Age-standardized",1,"Male",0.30865564853
+273,"alc_binge_prop",4644,"Baja California",2004,27,"Age-standardized",2,"Female",0.08077716731
+273,"alc_binge_prop",4645,"Baja California Sur",2004,27,"Age-standardized",1,"Male",0.3681974441
+273,"alc_binge_prop",4645,"Baja California Sur",2004,27,"Age-standardized",2,"Female",0.11611009662
+273,"alc_binge_prop",4646,"Campeche",2004,27,"Age-standardized",1,"Male",0.35329509199
+273,"alc_binge_prop",4646,"Campeche",2004,27,"Age-standardized",2,"Female",0.07388280998
+273,"alc_binge_prop",4647,"Coahuila",2004,27,"Age-standardized",1,"Male",0.32317347171
+273,"alc_binge_prop",4647,"Coahuila",2004,27,"Age-standardized",2,"Female",0.04481314567
+273,"alc_binge_prop",4648,"Colima",2004,27,"Age-standardized",1,"Male",0.3375570682
+273,"alc_binge_prop",4648,"Colima",2004,27,"Age-standardized",2,"Female",0.08310875319
+273,"alc_binge_prop",4649,"Chiapas",2004,27,"Age-standardized",1,"Male",0.2465787235
+273,"alc_binge_prop",4649,"Chiapas",2004,27,"Age-standardized",2,"Female",0.10347027726
+273,"alc_binge_prop",4650,"Chihuahua",2004,27,"Age-standardized",1,"Male",0.33984067259
+273,"alc_binge_prop",4650,"Chihuahua",2004,27,"Age-standardized",2,"Female",0.07208752043
+273,"alc_binge_prop",4651,"Mexico City",2004,27,"Age-standardized",1,"Male",0.35790709398
+273,"alc_binge_prop",4651,"Mexico City",2004,27,"Age-standardized",2,"Female",0.1047138269
+273,"alc_binge_prop",4652,"Durango",2004,27,"Age-standardized",1,"Male",0.36658818022
+273,"alc_binge_prop",4652,"Durango",2004,27,"Age-standardized",2,"Female",0.06286017508
+273,"alc_binge_prop",4653,"Guanajuato",2004,27,"Age-standardized",1,"Male",0.29833368087
+273,"alc_binge_prop",4653,"Guanajuato",2004,27,"Age-standardized",2,"Female",0.04423954125
+273,"alc_binge_prop",4654,"Guerrero",2004,27,"Age-standardized",1,"Male",0.30149419313
+273,"alc_binge_prop",4654,"Guerrero",2004,27,"Age-standardized",2,"Female",0.07962319242
+273,"alc_binge_prop",4655,"Hidalgo",2004,27,"Age-standardized",1,"Male",0.32037088155
+273,"alc_binge_prop",4655,"Hidalgo",2004,27,"Age-standardized",2,"Female",0.08241763694
+273,"alc_binge_prop",4656,"Jalisco",2004,27,"Age-standardized",1,"Male",0.36024205414
+273,"alc_binge_prop",4656,"Jalisco",2004,27,"Age-standardized",2,"Female",0.09960789475
+273,"alc_binge_prop",4657,"México",2004,27,"Age-standardized",1,"Male",0.36439482807
+273,"alc_binge_prop",4657,"México",2004,27,"Age-standardized",2,"Female",0.07408885049
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",1,"Male",0.34095715131
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2004,27,"Age-standardized",2,"Female",0.06849913035
+273,"alc_binge_prop",4659,"Morelos",2004,27,"Age-standardized",1,"Male",0.38105503331
+273,"alc_binge_prop",4659,"Morelos",2004,27,"Age-standardized",2,"Female",0.0848866403
+273,"alc_binge_prop",4660,"Nayarit",2004,27,"Age-standardized",1,"Male",0.3503852693
+273,"alc_binge_prop",4660,"Nayarit",2004,27,"Age-standardized",2,"Female",0.1678194329
+273,"alc_binge_prop",4661,"Nuevo León",2004,27,"Age-standardized",1,"Male",0.37395206743
+273,"alc_binge_prop",4661,"Nuevo León",2004,27,"Age-standardized",2,"Female",0.06268532236
+273,"alc_binge_prop",4662,"Oaxaca",2004,27,"Age-standardized",1,"Male",0.33661471246
+273,"alc_binge_prop",4662,"Oaxaca",2004,27,"Age-standardized",2,"Female",0.05989368673
+273,"alc_binge_prop",4663,"Puebla",2004,27,"Age-standardized",1,"Male",0.35310264219
+273,"alc_binge_prop",4663,"Puebla",2004,27,"Age-standardized",2,"Female",0.07203279657
+273,"alc_binge_prop",4664,"Querétaro",2004,27,"Age-standardized",1,"Male",0.28479812841
+273,"alc_binge_prop",4664,"Querétaro",2004,27,"Age-standardized",2,"Female",0.06244879416
+273,"alc_binge_prop",4665,"Quintana Roo",2004,27,"Age-standardized",1,"Male",0.3954760481
+273,"alc_binge_prop",4665,"Quintana Roo",2004,27,"Age-standardized",2,"Female",0.1838176435
+273,"alc_binge_prop",4666,"San Luis Potosí",2004,27,"Age-standardized",1,"Male",0.31683961431
+273,"alc_binge_prop",4666,"San Luis Potosí",2004,27,"Age-standardized",2,"Female",0.05125044895
+273,"alc_binge_prop",4667,"Sinaloa",2004,27,"Age-standardized",1,"Male",0.38311872659
+273,"alc_binge_prop",4667,"Sinaloa",2004,27,"Age-standardized",2,"Female",0.09111109433
+273,"alc_binge_prop",4668,"Sonora",2004,27,"Age-standardized",1,"Male",0.43775420827
+273,"alc_binge_prop",4668,"Sonora",2004,27,"Age-standardized",2,"Female",0.07984939776
+273,"alc_binge_prop",4669,"Tabasco",2004,27,"Age-standardized",1,"Male",0.32810056308
+273,"alc_binge_prop",4669,"Tabasco",2004,27,"Age-standardized",2,"Female",0.06885474057
+273,"alc_binge_prop",4670,"Tamaulipas",2004,27,"Age-standardized",1,"Male",0.3831061262
+273,"alc_binge_prop",4670,"Tamaulipas",2004,27,"Age-standardized",2,"Female",0.08593285263
+273,"alc_binge_prop",4671,"Tlaxcala",2004,27,"Age-standardized",1,"Male",0.28077416062
+273,"alc_binge_prop",4671,"Tlaxcala",2004,27,"Age-standardized",2,"Female",0.08106521066
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",1,"Male",0.30263501579
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2004,27,"Age-standardized",2,"Female",0.06393712813
+273,"alc_binge_prop",4673,"Yucatán",2004,27,"Age-standardized",1,"Male",0.2774849083
+273,"alc_binge_prop",4673,"Yucatán",2004,27,"Age-standardized",2,"Female",0.06730886545
+273,"alc_binge_prop",4674,"Zacatecas",2004,27,"Age-standardized",1,"Male",0.33362097894
+273,"alc_binge_prop",4674,"Zacatecas",2004,27,"Age-standardized",2,"Female",0.04217072401
+273,"alc_binge_prop",130,"Mexico",2005,27,"Age-standardized",1,"Male",0.33845368165
+273,"alc_binge_prop",130,"Mexico",2005,27,"Age-standardized",2,"Female",0.07879406095
+273,"alc_binge_prop",4643,"Aguascalientes",2005,27,"Age-standardized",1,"Male",0.2510458341
+273,"alc_binge_prop",4643,"Aguascalientes",2005,27,"Age-standardized",2,"Female",0.08020775167
+273,"alc_binge_prop",4644,"Baja California",2005,27,"Age-standardized",1,"Male",0.30596331931
+273,"alc_binge_prop",4644,"Baja California",2005,27,"Age-standardized",2,"Female",0.08002563864
+273,"alc_binge_prop",4645,"Baja California Sur",2005,27,"Age-standardized",1,"Male",0.36515304763
+273,"alc_binge_prop",4645,"Baja California Sur",2005,27,"Age-standardized",2,"Female",0.11337839735
+273,"alc_binge_prop",4646,"Campeche",2005,27,"Age-standardized",1,"Male",0.34991027777
+273,"alc_binge_prop",4646,"Campeche",2005,27,"Age-standardized",2,"Female",0.07317777933
+273,"alc_binge_prop",4647,"Coahuila",2005,27,"Age-standardized",1,"Male",0.32113445173
+273,"alc_binge_prop",4647,"Coahuila",2005,27,"Age-standardized",2,"Female",0.04576678029
+273,"alc_binge_prop",4648,"Colima",2005,27,"Age-standardized",1,"Male",0.332618551
+273,"alc_binge_prop",4648,"Colima",2005,27,"Age-standardized",2,"Female",0.08217935577
+273,"alc_binge_prop",4649,"Chiapas",2005,27,"Age-standardized",1,"Male",0.24250188707
+273,"alc_binge_prop",4649,"Chiapas",2005,27,"Age-standardized",2,"Female",0.09898084612
+273,"alc_binge_prop",4650,"Chihuahua",2005,27,"Age-standardized",1,"Male",0.3398281158
+273,"alc_binge_prop",4650,"Chihuahua",2005,27,"Age-standardized",2,"Female",0.07258954903
+273,"alc_binge_prop",4651,"Mexico City",2005,27,"Age-standardized",1,"Male",0.35653264674
+273,"alc_binge_prop",4651,"Mexico City",2005,27,"Age-standardized",2,"Female",0.10500210691
+273,"alc_binge_prop",4652,"Durango",2005,27,"Age-standardized",1,"Male",0.36432765967
+273,"alc_binge_prop",4652,"Durango",2005,27,"Age-standardized",2,"Female",0.06117363425
+273,"alc_binge_prop",4653,"Guanajuato",2005,27,"Age-standardized",1,"Male",0.29566615252
+273,"alc_binge_prop",4653,"Guanajuato",2005,27,"Age-standardized",2,"Female",0.04343625363
+273,"alc_binge_prop",4654,"Guerrero",2005,27,"Age-standardized",1,"Male",0.30026482314
+273,"alc_binge_prop",4654,"Guerrero",2005,27,"Age-standardized",2,"Female",0.07825321552
+273,"alc_binge_prop",4655,"Hidalgo",2005,27,"Age-standardized",1,"Male",0.31915819936
+273,"alc_binge_prop",4655,"Hidalgo",2005,27,"Age-standardized",2,"Female",0.08043269498
+273,"alc_binge_prop",4656,"Jalisco",2005,27,"Age-standardized",1,"Male",0.36459707735
+273,"alc_binge_prop",4656,"Jalisco",2005,27,"Age-standardized",2,"Female",0.10063682932
+273,"alc_binge_prop",4657,"México",2005,27,"Age-standardized",1,"Male",0.36303392014
+273,"alc_binge_prop",4657,"México",2005,27,"Age-standardized",2,"Female",0.07311717013
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",1,"Male",0.34156443762
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2005,27,"Age-standardized",2,"Female",0.06915819118
+273,"alc_binge_prop",4659,"Morelos",2005,27,"Age-standardized",1,"Male",0.38118693186
+273,"alc_binge_prop",4659,"Morelos",2005,27,"Age-standardized",2,"Female",0.08481055709
+273,"alc_binge_prop",4660,"Nayarit",2005,27,"Age-standardized",1,"Male",0.3484796742
+273,"alc_binge_prop",4660,"Nayarit",2005,27,"Age-standardized",2,"Female",0.1639337263
+273,"alc_binge_prop",4661,"Nuevo León",2005,27,"Age-standardized",1,"Male",0.37377507802
+273,"alc_binge_prop",4661,"Nuevo León",2005,27,"Age-standardized",2,"Female",0.06332817028
+273,"alc_binge_prop",4662,"Oaxaca",2005,27,"Age-standardized",1,"Male",0.33613707972
+273,"alc_binge_prop",4662,"Oaxaca",2005,27,"Age-standardized",2,"Female",0.06060099842
+273,"alc_binge_prop",4663,"Puebla",2005,27,"Age-standardized",1,"Male",0.35246066714
+273,"alc_binge_prop",4663,"Puebla",2005,27,"Age-standardized",2,"Female",0.0706613538
+273,"alc_binge_prop",4664,"Querétaro",2005,27,"Age-standardized",1,"Male",0.28310471835
+273,"alc_binge_prop",4664,"Querétaro",2005,27,"Age-standardized",2,"Female",0.06473940132
+273,"alc_binge_prop",4665,"Quintana Roo",2005,27,"Age-standardized",1,"Male",0.3938562682
+273,"alc_binge_prop",4665,"Quintana Roo",2005,27,"Age-standardized",2,"Female",0.1807898426
+273,"alc_binge_prop",4666,"San Luis Potosí",2005,27,"Age-standardized",1,"Male",0.31415005182
+273,"alc_binge_prop",4666,"San Luis Potosí",2005,27,"Age-standardized",2,"Female",0.04904794387
+273,"alc_binge_prop",4667,"Sinaloa",2005,27,"Age-standardized",1,"Male",0.37956080843
+273,"alc_binge_prop",4667,"Sinaloa",2005,27,"Age-standardized",2,"Female",0.08780589971
+273,"alc_binge_prop",4668,"Sonora",2005,27,"Age-standardized",1,"Male",0.43503150741
+273,"alc_binge_prop",4668,"Sonora",2005,27,"Age-standardized",2,"Female",0.07953738693
+273,"alc_binge_prop",4669,"Tabasco",2005,27,"Age-standardized",1,"Male",0.32569574508
+273,"alc_binge_prop",4669,"Tabasco",2005,27,"Age-standardized",2,"Female",0.06825116638
+273,"alc_binge_prop",4670,"Tamaulipas",2005,27,"Age-standardized",1,"Male",0.38192500827
+273,"alc_binge_prop",4670,"Tamaulipas",2005,27,"Age-standardized",2,"Female",0.08416788042
+273,"alc_binge_prop",4671,"Tlaxcala",2005,27,"Age-standardized",1,"Male",0.28098174956
+273,"alc_binge_prop",4671,"Tlaxcala",2005,27,"Age-standardized",2,"Female",0.07999484814
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",1,"Male",0.30399304824
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2005,27,"Age-standardized",2,"Female",0.06490467043
+273,"alc_binge_prop",4673,"Yucatán",2005,27,"Age-standardized",1,"Male",0.27759756795
+273,"alc_binge_prop",4673,"Yucatán",2005,27,"Age-standardized",2,"Female",0.06843804049
+273,"alc_binge_prop",4674,"Zacatecas",2005,27,"Age-standardized",1,"Male",0.33309092038
+273,"alc_binge_prop",4674,"Zacatecas",2005,27,"Age-standardized",2,"Female",0.04257939138
+273,"alc_binge_prop",130,"Mexico",2006,27,"Age-standardized",1,"Male",0.33934533365
+273,"alc_binge_prop",130,"Mexico",2006,27,"Age-standardized",2,"Female",0.08086000849
+273,"alc_binge_prop",4643,"Aguascalientes",2006,27,"Age-standardized",1,"Male",0.25290092287
+273,"alc_binge_prop",4643,"Aguascalientes",2006,27,"Age-standardized",2,"Female",0.0813526103
+273,"alc_binge_prop",4644,"Baja California",2006,27,"Age-standardized",1,"Male",0.30671757663
+273,"alc_binge_prop",4644,"Baja California",2006,27,"Age-standardized",2,"Female",0.08291763885
+273,"alc_binge_prop",4645,"Baja California Sur",2006,27,"Age-standardized",1,"Male",0.36860584527
+273,"alc_binge_prop",4645,"Baja California Sur",2006,27,"Age-standardized",2,"Female",0.11587678729
+273,"alc_binge_prop",4646,"Campeche",2006,27,"Age-standardized",1,"Male",0.35451620535
+273,"alc_binge_prop",4646,"Campeche",2006,27,"Age-standardized",2,"Female",0.07532391099
+273,"alc_binge_prop",4647,"Coahuila",2006,27,"Age-standardized",1,"Male",0.32235868483
+273,"alc_binge_prop",4647,"Coahuila",2006,27,"Age-standardized",2,"Female",0.04775822398
+273,"alc_binge_prop",4648,"Colima",2006,27,"Age-standardized",1,"Male",0.33566092478
+273,"alc_binge_prop",4648,"Colima",2006,27,"Age-standardized",2,"Female",0.08362824118
+273,"alc_binge_prop",4649,"Chiapas",2006,27,"Age-standardized",1,"Male",0.24463388892
+273,"alc_binge_prop",4649,"Chiapas",2006,27,"Age-standardized",2,"Female",0.10424632715
+273,"alc_binge_prop",4650,"Chihuahua",2006,27,"Age-standardized",1,"Male",0.33973851596
+273,"alc_binge_prop",4650,"Chihuahua",2006,27,"Age-standardized",2,"Female",0.07365893532
+273,"alc_binge_prop",4651,"Mexico City",2006,27,"Age-standardized",1,"Male",0.35512249071
+273,"alc_binge_prop",4651,"Mexico City",2006,27,"Age-standardized",2,"Female",0.10568338368
+273,"alc_binge_prop",4652,"Durango",2006,27,"Age-standardized",1,"Male",0.36568825221
+273,"alc_binge_prop",4652,"Durango",2006,27,"Age-standardized",2,"Female",0.06353162309
+273,"alc_binge_prop",4653,"Guanajuato",2006,27,"Age-standardized",1,"Male",0.29853260182
+273,"alc_binge_prop",4653,"Guanajuato",2006,27,"Age-standardized",2,"Female",0.04668205323
+273,"alc_binge_prop",4654,"Guerrero",2006,27,"Age-standardized",1,"Male",0.30492865435
+273,"alc_binge_prop",4654,"Guerrero",2006,27,"Age-standardized",2,"Female",0.07968428003
+273,"alc_binge_prop",4655,"Hidalgo",2006,27,"Age-standardized",1,"Male",0.3182986245
+273,"alc_binge_prop",4655,"Hidalgo",2006,27,"Age-standardized",2,"Female",0.08247411459
+273,"alc_binge_prop",4656,"Jalisco",2006,27,"Age-standardized",1,"Male",0.36454211121
+273,"alc_binge_prop",4656,"Jalisco",2006,27,"Age-standardized",2,"Female",0.10365250426
+273,"alc_binge_prop",4657,"México",2006,27,"Age-standardized",1,"Male",0.36176395603
+273,"alc_binge_prop",4657,"México",2006,27,"Age-standardized",2,"Female",0.07499877384
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",1,"Male",0.34298597155
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2006,27,"Age-standardized",2,"Female",0.07174668724
+273,"alc_binge_prop",4659,"Morelos",2006,27,"Age-standardized",1,"Male",0.38204540746
+273,"alc_binge_prop",4659,"Morelos",2006,27,"Age-standardized",2,"Female",0.08684563053
+273,"alc_binge_prop",4660,"Nayarit",2006,27,"Age-standardized",1,"Male",0.3514057063
+273,"alc_binge_prop",4660,"Nayarit",2006,27,"Age-standardized",2,"Female",0.1644485827
+273,"alc_binge_prop",4661,"Nuevo León",2006,27,"Age-standardized",1,"Male",0.37231126064
+273,"alc_binge_prop",4661,"Nuevo León",2006,27,"Age-standardized",2,"Female",0.06450950919
+273,"alc_binge_prop",4662,"Oaxaca",2006,27,"Age-standardized",1,"Male",0.34010231095
+273,"alc_binge_prop",4662,"Oaxaca",2006,27,"Age-standardized",2,"Female",0.06314601323
+273,"alc_binge_prop",4663,"Puebla",2006,27,"Age-standardized",1,"Male",0.35268604432
+273,"alc_binge_prop",4663,"Puebla",2006,27,"Age-standardized",2,"Female",0.07204520191
+273,"alc_binge_prop",4664,"Querétaro",2006,27,"Age-standardized",1,"Male",0.28518562289
+273,"alc_binge_prop",4664,"Querétaro",2006,27,"Age-standardized",2,"Female",0.06706469055
+273,"alc_binge_prop",4665,"Quintana Roo",2006,27,"Age-standardized",1,"Male",0.3977509589
+273,"alc_binge_prop",4665,"Quintana Roo",2006,27,"Age-standardized",2,"Female",0.1816749377
+273,"alc_binge_prop",4666,"San Luis Potosí",2006,27,"Age-standardized",1,"Male",0.31568871838
+273,"alc_binge_prop",4666,"San Luis Potosí",2006,27,"Age-standardized",2,"Female",0.05145737238
+273,"alc_binge_prop",4667,"Sinaloa",2006,27,"Age-standardized",1,"Male",0.38121013054
+273,"alc_binge_prop",4667,"Sinaloa",2006,27,"Age-standardized",2,"Female",0.09044421265
+273,"alc_binge_prop",4668,"Sonora",2006,27,"Age-standardized",1,"Male",0.43761952611
+273,"alc_binge_prop",4668,"Sonora",2006,27,"Age-standardized",2,"Female",0.0813780449
+273,"alc_binge_prop",4669,"Tabasco",2006,27,"Age-standardized",1,"Male",0.32759228326
+273,"alc_binge_prop",4669,"Tabasco",2006,27,"Age-standardized",2,"Female",0.07019596162
+273,"alc_binge_prop",4670,"Tamaulipas",2006,27,"Age-standardized",1,"Male",0.38403212922
+273,"alc_binge_prop",4670,"Tamaulipas",2006,27,"Age-standardized",2,"Female",0.08725704741
+273,"alc_binge_prop",4671,"Tlaxcala",2006,27,"Age-standardized",1,"Male",0.28332489607
+273,"alc_binge_prop",4671,"Tlaxcala",2006,27,"Age-standardized",2,"Female",0.0816496042
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",1,"Male",0.30537557192
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2006,27,"Age-standardized",2,"Female",0.06676136161
+273,"alc_binge_prop",4673,"Yucatán",2006,27,"Age-standardized",1,"Male",0.27781891844
+273,"alc_binge_prop",4673,"Yucatán",2006,27,"Age-standardized",2,"Female",0.07104844978
+273,"alc_binge_prop",4674,"Zacatecas",2006,27,"Age-standardized",1,"Male",0.33611994611
+273,"alc_binge_prop",4674,"Zacatecas",2006,27,"Age-standardized",2,"Female",0.04398217544
+273,"alc_binge_prop",130,"Mexico",2007,27,"Age-standardized",1,"Male",0.34023497824
+273,"alc_binge_prop",130,"Mexico",2007,27,"Age-standardized",2,"Female",0.08297055201
+273,"alc_binge_prop",4643,"Aguascalientes",2007,27,"Age-standardized",1,"Male",0.25476235756
+273,"alc_binge_prop",4643,"Aguascalientes",2007,27,"Age-standardized",2,"Female",0.08250871803
+273,"alc_binge_prop",4644,"Baja California",2007,27,"Age-standardized",1,"Male",0.30746784889
+273,"alc_binge_prop",4644,"Baja California",2007,27,"Age-standardized",2,"Female",0.08590528717
+273,"alc_binge_prop",4645,"Baja California Sur",2007,27,"Age-standardized",1,"Male",0.37208933778
+273,"alc_binge_prop",4645,"Baja California Sur",2007,27,"Age-standardized",2,"Female",0.11841224297
+273,"alc_binge_prop",4646,"Campeche",2007,27,"Age-standardized",1,"Male",0.35916602365
+273,"alc_binge_prop",4646,"Campeche",2007,27,"Age-standardized",2,"Female",0.07751943746
+273,"alc_binge_prop",4647,"Coahuila",2007,27,"Age-standardized",1,"Male",0.32358333384
+273,"alc_binge_prop",4647,"Coahuila",2007,27,"Age-standardized",2,"Female",0.04981948811
+273,"alc_binge_prop",4648,"Colima",2007,27,"Age-standardized",1,"Male",0.33873094926
+273,"alc_binge_prop",4648,"Colima",2007,27,"Age-standardized",2,"Female",0.08509356561
+273,"alc_binge_prop",4649,"Chiapas",2007,27,"Age-standardized",1,"Male",0.24677768227
+273,"alc_binge_prop",4649,"Chiapas",2007,27,"Age-standardized",2,"Female",0.10972049917
+273,"alc_binge_prop",4650,"Chihuahua",2007,27,"Age-standardized",1,"Male",0.33962597069
+273,"alc_binge_prop",4650,"Chihuahua",2007,27,"Age-standardized",2,"Female",0.07473511768
+273,"alc_binge_prop",4651,"Mexico City",2007,27,"Age-standardized",1,"Male",0.35371816151
+273,"alc_binge_prop",4651,"Mexico City",2007,27,"Age-standardized",2,"Female",0.10637196938
+273,"alc_binge_prop",4652,"Durango",2007,27,"Age-standardized",1,"Male",0.36703358056
+273,"alc_binge_prop",4652,"Durango",2007,27,"Age-standardized",2,"Female",0.06595845595
+273,"alc_binge_prop",4653,"Guanajuato",2007,27,"Age-standardized",1,"Male",0.3013939949
+273,"alc_binge_prop",4653,"Guanajuato",2007,27,"Age-standardized",2,"Female",0.05014511879
+273,"alc_binge_prop",4654,"Guerrero",2007,27,"Age-standardized",1,"Male",0.30964446358
+273,"alc_binge_prop",4654,"Guerrero",2007,27,"Age-standardized",2,"Female",0.08113137996
+273,"alc_binge_prop",4655,"Hidalgo",2007,27,"Age-standardized",1,"Male",0.31743918355
+273,"alc_binge_prop",4655,"Hidalgo",2007,27,"Age-standardized",2,"Female",0.08455359323
+273,"alc_binge_prop",4656,"Jalisco",2007,27,"Age-standardized",1,"Male",0.36448802576
+273,"alc_binge_prop",4656,"Jalisco",2007,27,"Age-standardized",2,"Female",0.10675538292
+273,"alc_binge_prop",4657,"México",2007,27,"Age-standardized",1,"Male",0.36049884245
+273,"alc_binge_prop",4657,"México",2007,27,"Age-standardized",2,"Female",0.07692357286
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",1,"Male",0.34440963878
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2007,27,"Age-standardized",2,"Female",0.07442433869
+273,"alc_binge_prop",4659,"Morelos",2007,27,"Age-standardized",1,"Male",0.38290434603
+273,"alc_binge_prop",4659,"Morelos",2007,27,"Age-standardized",2,"Female",0.08892879204
+273,"alc_binge_prop",4660,"Nayarit",2007,27,"Age-standardized",1,"Male",0.3543550975
+273,"alc_binge_prop",4660,"Nayarit",2007,27,"Age-standardized",2,"Female",0.164960356
+273,"alc_binge_prop",4661,"Nuevo León",2007,27,"Age-standardized",1,"Male",0.37085431274
+273,"alc_binge_prop",4661,"Nuevo León",2007,27,"Age-standardized",2,"Female",0.06571096196
+273,"alc_binge_prop",4662,"Oaxaca",2007,27,"Age-standardized",1,"Male",0.34410449133
+273,"alc_binge_prop",4662,"Oaxaca",2007,27,"Age-standardized",2,"Female",0.06577867042
+273,"alc_binge_prop",4663,"Puebla",2007,27,"Age-standardized",1,"Male",0.35291151301
+273,"alc_binge_prop",4663,"Puebla",2007,27,"Age-standardized",2,"Female",0.07344790556
+273,"alc_binge_prop",4664,"Querétaro",2007,27,"Age-standardized",1,"Male",0.28728036991
+273,"alc_binge_prop",4664,"Querétaro",2007,27,"Age-standardized",2,"Female",0.06945458833
+273,"alc_binge_prop",4665,"Quintana Roo",2007,27,"Age-standardized",1,"Male",0.4016794639
+273,"alc_binge_prop",4665,"Quintana Roo",2007,27,"Age-standardized",2,"Female",0.1825582683
+273,"alc_binge_prop",4666,"San Luis Potosí",2007,27,"Age-standardized",1,"Male",0.31722745479
+273,"alc_binge_prop",4666,"San Luis Potosí",2007,27,"Age-standardized",2,"Female",0.0539615719
+273,"alc_binge_prop",4667,"Sinaloa",2007,27,"Age-standardized",1,"Male",0.38286457157
+273,"alc_binge_prop",4667,"Sinaloa",2007,27,"Age-standardized",2,"Female",0.09314506265
+273,"alc_binge_prop",4668,"Sonora",2007,27,"Age-standardized",1,"Male",0.44022340586
+273,"alc_binge_prop",4668,"Sonora",2007,27,"Age-standardized",2,"Female",0.08325437069
+273,"alc_binge_prop",4669,"Tabasco",2007,27,"Age-standardized",1,"Male",0.3294906876
+273,"alc_binge_prop",4669,"Tabasco",2007,27,"Age-standardized",2,"Female",0.07218179722
+273,"alc_binge_prop",4670,"Tamaulipas",2007,27,"Age-standardized",1,"Male",0.38614280873
+273,"alc_binge_prop",4670,"Tamaulipas",2007,27,"Age-standardized",2,"Female",0.09044490664
+273,"alc_binge_prop",4671,"Tlaxcala",2007,27,"Age-standardized",1,"Male",0.28568628228
+273,"alc_binge_prop",4671,"Tlaxcala",2007,27,"Age-standardized",2,"Female",0.08332839513
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",1,"Male",0.30675856369
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2007,27,"Age-standardized",2,"Female",0.06866598341
+273,"alc_binge_prop",4673,"Yucatán",2007,27,"Age-standardized",1,"Male",0.27803858267
+273,"alc_binge_prop",4673,"Yucatán",2007,27,"Age-standardized",2,"Female",0.07375569929
+273,"alc_binge_prop",4674,"Zacatecas",2007,27,"Age-standardized",1,"Male",0.33917466481
+273,"alc_binge_prop",4674,"Zacatecas",2007,27,"Age-standardized",2,"Female",0.04542552315
+273,"alc_binge_prop",130,"Mexico",2008,27,"Age-standardized",1,"Male",0.34112259098
+273,"alc_binge_prop",130,"Mexico",2008,27,"Age-standardized",2,"Female",0.08512623497
+273,"alc_binge_prop",4643,"Aguascalientes",2008,27,"Age-standardized",1,"Male",0.25663009702
+273,"alc_binge_prop",4643,"Aguascalientes",2008,27,"Age-standardized",2,"Female",0.08367604484
+273,"alc_binge_prop",4644,"Baja California",2008,27,"Age-standardized",1,"Male",0.30821409557
+273,"alc_binge_prop",4644,"Baja California",2008,27,"Age-standardized",2,"Female",0.08899129292
+273,"alc_binge_prop",4645,"Baja California Sur",2008,27,"Age-standardized",1,"Male",0.37560377992
+273,"alc_binge_prop",4645,"Baja California Sur",2008,27,"Age-standardized",2,"Female",0.12098455193
+273,"alc_binge_prop",4646,"Campeche",2008,27,"Age-standardized",1,"Male",0.36385988463
+273,"alc_binge_prop",4646,"Campeche",2008,27,"Age-standardized",2,"Female",0.07976477261
+273,"alc_binge_prop",4647,"Coahuila",2008,27,"Age-standardized",1,"Male",0.32480836641
+273,"alc_binge_prop",4647,"Coahuila",2008,27,"Age-standardized",2,"Female",0.05195163644
+273,"alc_binge_prop",4648,"Colima",2008,27,"Age-standardized",1,"Male",0.34182887317
+273,"alc_binge_prop",4648,"Colima",2008,27,"Age-standardized",2,"Female",0.08657522167
+273,"alc_binge_prop",4649,"Chiapas",2008,27,"Age-standardized",1,"Male",0.24893322379
+273,"alc_binge_prop",4649,"Chiapas",2008,27,"Age-standardized",2,"Female",0.11540366044
+273,"alc_binge_prop",4650,"Chihuahua",2008,27,"Age-standardized",1,"Male",0.33949054362
+273,"alc_binge_prop",4650,"Chihuahua",2008,27,"Age-standardized",2,"Female",0.07581781491
+273,"alc_binge_prop",4651,"Mexico City",2008,27,"Age-standardized",1,"Male",0.35231963392
+273,"alc_binge_prop",4651,"Mexico City",2008,27,"Age-standardized",2,"Female",0.10706788198
+273,"alc_binge_prop",4652,"Durango",2008,27,"Age-standardized",1,"Male",0.36836347859
+273,"alc_binge_prop",4652,"Durango",2008,27,"Age-standardized",2,"Female",0.06845446785
+273,"alc_binge_prop",4653,"Guanajuato",2008,27,"Age-standardized",1,"Male",0.30424960903
+273,"alc_binge_prop",4653,"Guanajuato",2008,27,"Age-standardized",2,"Female",0.05383690014
+273,"alc_binge_prop",4654,"Guerrero",2008,27,"Age-standardized",1,"Male",0.31441240816
+273,"alc_binge_prop",4654,"Guerrero",2008,27,"Age-standardized",2,"Female",0.08259429599
+273,"alc_binge_prop",4655,"Hidalgo",2008,27,"Age-standardized",1,"Male",0.31657989615
+273,"alc_binge_prop",4655,"Hidalgo",2008,27,"Age-standardized",2,"Female",0.08667120089
+273,"alc_binge_prop",4656,"Jalisco",2008,27,"Age-standardized",1,"Male",0.3644348213
+273,"alc_binge_prop",4656,"Jalisco",2008,27,"Age-standardized",2,"Female",0.10994785522
+273,"alc_binge_prop",4657,"México",2008,27,"Age-standardized",1,"Male",0.35923856658
+273,"alc_binge_prop",4657,"México",2008,27,"Age-standardized",2,"Female",0.07889236227
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",1,"Male",0.34583541919
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2008,27,"Age-standardized",2,"Female",0.07719381139
+273,"alc_binge_prop",4659,"Morelos",2008,27,"Age-standardized",1,"Male",0.38376374308
+273,"alc_binge_prop",4659,"Morelos",2008,27,"Age-standardized",2,"Female",0.09106115091
+273,"alc_binge_prop",4660,"Nayarit",2008,27,"Age-standardized",1,"Male",0.3573280254
+273,"alc_binge_prop",4660,"Nayarit",2008,27,"Age-standardized",2,"Female",0.1654689826
+273,"alc_binge_prop",4661,"Nuevo León",2008,27,"Age-standardized",1,"Male",0.36940420493
+273,"alc_binge_prop",4661,"Nuevo León",2008,27,"Age-standardized",2,"Female",0.06693276517
+273,"alc_binge_prop",4662,"Oaxaca",2008,27,"Age-standardized",1,"Male",0.34814382736
+273,"alc_binge_prop",4662,"Oaxaca",2008,27,"Age-standardized",2,"Female",0.0685005598
+273,"alc_binge_prop",4663,"Puebla",2008,27,"Age-standardized",1,"Male",0.35313707557
+273,"alc_binge_prop",4663,"Puebla",2008,27,"Age-standardized",2,"Female",0.07486937695
+273,"alc_binge_prop",4664,"Querétaro",2008,27,"Age-standardized",1,"Male",0.289389043
+273,"alc_binge_prop",4664,"Querétaro",2008,27,"Age-standardized",2,"Female",0.07190973993
+273,"alc_binge_prop",4665,"Quintana Roo",2008,27,"Age-standardized",1,"Male",0.4056420309
+273,"alc_binge_prop",4665,"Quintana Roo",2008,27,"Age-standardized",2,"Female",0.1834397476
+273,"alc_binge_prop",4666,"San Luis Potosí",2008,27,"Age-standardized",1,"Male",0.318766189
+273,"alc_binge_prop",4666,"San Luis Potosí",2008,27,"Age-standardized",2,"Female",0.0565620123
+273,"alc_binge_prop",4667,"Sinaloa",2008,27,"Age-standardized",1,"Male",0.38452414658
+273,"alc_binge_prop",4667,"Sinaloa",2008,27,"Age-standardized",2,"Female",0.09590895523
+273,"alc_binge_prop",4668,"Sonora",2008,27,"Age-standardized",1,"Male",0.44284325309
+273,"alc_binge_prop",4668,"Sonora",2008,27,"Age-standardized",2,"Female",0.08516677435
+273,"alc_binge_prop",4669,"Tabasco",2008,27,"Age-standardized",1,"Male",0.33139085531
+273,"alc_binge_prop",4669,"Tabasco",2008,27,"Age-standardized",2,"Female",0.07420870445
+273,"alc_binge_prop",4670,"Tamaulipas",2008,27,"Age-standardized",1,"Male",0.38825698538
+273,"alc_binge_prop",4670,"Tamaulipas",2008,27,"Age-standardized",2,"Female",0.09373371742
+273,"alc_binge_prop",4671,"Tlaxcala",2008,27,"Age-standardized",1,"Male",0.28806604015
+273,"alc_binge_prop",4671,"Tlaxcala",2008,27,"Age-standardized",2,"Female",0.08503118295
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",1,"Male",0.30814197281
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2008,27,"Age-standardized",2,"Female",0.07061951261
+273,"alc_binge_prop",4673,"Yucatán",2008,27,"Age-standardized",1,"Male",0.27825655698
+273,"alc_binge_prop",4673,"Yucatán",2008,27,"Age-standardized",2,"Female",0.07656324632
+273,"alc_binge_prop",4674,"Zacatecas",2008,27,"Age-standardized",1,"Male",0.34225528609
+273,"alc_binge_prop",4674,"Zacatecas",2008,27,"Age-standardized",2,"Female",0.04691026244
+273,"alc_binge_prop",130,"Mexico",2009,27,"Age-standardized",1,"Male",0.34200814825
+273,"alc_binge_prop",130,"Mexico",2009,27,"Age-standardized",2,"Female",0.08732759169
+273,"alc_binge_prop",4643,"Aguascalientes",2009,27,"Age-standardized",1,"Male",0.25850410106
+273,"alc_binge_prop",4643,"Aguascalientes",2009,27,"Age-standardized",2,"Female",0.08485455674
+273,"alc_binge_prop",4644,"Baja California",2009,27,"Age-standardized",1,"Male",0.30895627564
+273,"alc_binge_prop",4644,"Baja California",2009,27,"Age-standardized",2,"Female",0.09217842155
+273,"alc_binge_prop",4645,"Baja California Sur",2009,27,"Age-standardized",1,"Male",0.37914942861
+273,"alc_binge_prop",4645,"Baja California Sur",2009,27,"Age-standardized",2,"Female",0.12359346926
+273,"alc_binge_prop",4646,"Campeche",2009,27,"Age-standardized",1,"Male",0.36859793683
+273,"alc_binge_prop",4646,"Campeche",2009,27,"Age-standardized",2,"Female",0.0820602957
+273,"alc_binge_prop",4647,"Coahuila",2009,27,"Age-standardized",1,"Male",0.32603375076
+273,"alc_binge_prop",4647,"Coahuila",2009,27,"Age-standardized",2,"Female",0.05415563659
+273,"alc_binge_prop",4648,"Colima",2009,27,"Age-standardized",1,"Male",0.34495494862
+273,"alc_binge_prop",4648,"Colima",2009,27,"Age-standardized",2,"Female",0.08807309256
+273,"alc_binge_prop",4649,"Chiapas",2009,27,"Age-standardized",1,"Male",0.25110046973
+273,"alc_binge_prop",4649,"Chiapas",2009,27,"Age-standardized",2,"Female",0.12129516374
+273,"alc_binge_prop",4650,"Chihuahua",2009,27,"Age-standardized",1,"Male",0.33933230597
+273,"alc_binge_prop",4650,"Chihuahua",2009,27,"Age-standardized",2,"Female",0.07690673572
+273,"alc_binge_prop",4651,"Mexico City",2009,27,"Age-standardized",1,"Male",0.35092688246
+273,"alc_binge_prop",4651,"Mexico City",2009,27,"Age-standardized",2,"Female",0.10777114062
+273,"alc_binge_prop",4652,"Durango",2009,27,"Age-standardized",1,"Male",0.36967778615
+273,"alc_binge_prop",4652,"Durango",2009,27,"Age-standardized",2,"Female",0.07101986239
+273,"alc_binge_prop",4653,"Guanajuato",2009,27,"Age-standardized",1,"Male",0.30709872327
+273,"alc_binge_prop",4653,"Guanajuato",2009,27,"Age-standardized",2,"Female",0.05776910032
+273,"alc_binge_prop",4654,"Guerrero",2009,27,"Age-standardized",1,"Male",0.31923264042
+273,"alc_binge_prop",4654,"Guerrero",2009,27,"Age-standardized",2,"Female",0.08407279165
+273,"alc_binge_prop",4655,"Hidalgo",2009,27,"Age-standardized",1,"Male",0.31572078148
+273,"alc_binge_prop",4655,"Hidalgo",2009,27,"Age-standardized",2,"Female",0.08882697826
+273,"alc_binge_prop",4656,"Jalisco",2009,27,"Age-standardized",1,"Male",0.36438249949
+273,"alc_binge_prop",4656,"Jalisco",2009,27,"Age-standardized",2,"Female",0.11323237245
+273,"alc_binge_prop",4657,"México",2009,27,"Age-standardized",1,"Male",0.35798311519
+273,"alc_binge_prop",4657,"México",2009,27,"Age-standardized",2,"Female",0.08090594566
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",1,"Male",0.34726329375
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2009,27,"Age-standardized",2,"Female",0.08005783238
+273,"alc_binge_prop",4659,"Morelos",2009,27,"Age-standardized",1,"Male",0.38462359519
+273,"alc_binge_prop",4659,"Morelos",2009,27,"Age-standardized",2,"Female",0.09324384085
+273,"alc_binge_prop",4660,"Nayarit",2009,27,"Age-standardized",1,"Male",0.3603246752
+273,"alc_binge_prop",4660,"Nayarit",2009,27,"Age-standardized",2,"Female",0.1659744019
+273,"alc_binge_prop",4661,"Nuevo León",2009,27,"Age-standardized",1,"Male",0.36796090762
+273,"alc_binge_prop",4661,"Nuevo León",2009,27,"Age-standardized",2,"Female",0.06817515504
+273,"alc_binge_prop",4662,"Oaxaca",2009,27,"Age-standardized",1,"Male",0.35222052589
+273,"alc_binge_prop",4662,"Oaxaca",2009,27,"Age-standardized",2,"Female",0.07131319769
+273,"alc_binge_prop",4663,"Puebla",2009,27,"Age-standardized",1,"Male",0.35336273404
+273,"alc_binge_prop",4663,"Puebla",2009,27,"Age-standardized",2,"Female",0.07630951473
+273,"alc_binge_prop",4664,"Querétaro",2009,27,"Age-standardized",1,"Male",0.29151172445
+273,"alc_binge_prop",4664,"Querétaro",2009,27,"Age-standardized",2,"Female",0.07443073203
+273,"alc_binge_prop",4665,"Quintana Roo",2009,27,"Age-standardized",1,"Male",0.4096389158
+273,"alc_binge_prop",4665,"Quintana Roo",2009,27,"Age-standardized",2,"Female",0.1843192721
+273,"alc_binge_prop",4666,"San Luis Potosí",2009,27,"Age-standardized",1,"Male",0.32030484962
+273,"alc_binge_prop",4666,"San Luis Potosí",2009,27,"Age-standardized",2,"Female",0.05925996859
+273,"alc_binge_prop",4667,"Sinaloa",2009,27,"Age-standardized",1,"Male",0.38618887034
+273,"alc_binge_prop",4667,"Sinaloa",2009,27,"Age-standardized",2,"Female",0.09873634253
+273,"alc_binge_prop",4668,"Sonora",2009,27,"Age-standardized",1,"Male",0.44547917491
+273,"alc_binge_prop",4668,"Sonora",2009,27,"Age-standardized",2,"Female",0.08711566049
+273,"alc_binge_prop",4669,"Tabasco",2009,27,"Age-standardized",1,"Male",0.33329268466
+273,"alc_binge_prop",4669,"Tabasco",2009,27,"Age-standardized",2,"Female",0.07627666454
+273,"alc_binge_prop",4670,"Tamaulipas",2009,27,"Age-standardized",1,"Male",0.39037459801
+273,"alc_binge_prop",4670,"Tamaulipas",2009,27,"Age-standardized",2,"Female",0.09712573974
+273,"alc_binge_prop",4671,"Tlaxcala",2009,27,"Age-standardized",1,"Male",0.29046430282
+273,"alc_binge_prop",4671,"Tlaxcala",2009,27,"Age-standardized",2,"Female",0.08675791537
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",1,"Male",0.30952574662
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2009,27,"Age-standardized",2,"Female",0.07262293636
+273,"alc_binge_prop",4673,"Yucatán",2009,27,"Age-standardized",1,"Male",0.27847283881
+273,"alc_binge_prop",4673,"Yucatán",2009,27,"Age-standardized",2,"Female",0.07947466614
+273,"alc_binge_prop",4674,"Zacatecas",2009,27,"Age-standardized",1,"Male",0.34536201938
+273,"alc_binge_prop",4674,"Zacatecas",2009,27,"Age-standardized",2,"Female",0.04843721938
+273,"alc_binge_prop",130,"Mexico",2010,27,"Age-standardized",1,"Male",0.34289162667
+273,"alc_binge_prop",130,"Mexico",2010,27,"Age-standardized",2,"Female",0.08957514604
+273,"alc_binge_prop",4643,"Aguascalientes",2010,27,"Age-standardized",1,"Male",0.26038432885
+273,"alc_binge_prop",4643,"Aguascalientes",2010,27,"Age-standardized",2,"Female",0.08604421604
+273,"alc_binge_prop",4644,"Baja California",2010,27,"Age-standardized",1,"Male",0.30969434902
+273,"alc_binge_prop",4644,"Baja California",2010,27,"Age-standardized",2,"Female",0.09546949605
+273,"alc_binge_prop",4645,"Baja California Sur",2010,27,"Age-standardized",1,"Male",0.38272654193
+273,"alc_binge_prop",4645,"Baja California Sur",2010,27,"Age-standardized",2,"Female",0.12623871697
+273,"alc_binge_prop",4646,"Campeche",2010,27,"Age-standardized",1,"Male",0.37338032804
+273,"alc_binge_prop",4646,"Campeche",2010,27,"Age-standardized",2,"Female",0.08440635021
+273,"alc_binge_prop",4647,"Coahuila",2010,27,"Age-standardized",1,"Male",0.32725945466
+273,"alc_binge_prop",4647,"Coahuila",2010,27,"Age-standardized",2,"Female",0.05643235063
+273,"alc_binge_prop",4648,"Colima",2010,27,"Age-standardized",1,"Male",0.34810942917
+273,"alc_binge_prop",4648,"Colima",2010,27,"Age-standardized",2,"Female",0.08958705226
+273,"alc_binge_prop",4649,"Chiapas",2010,27,"Age-standardized",1,"Male",0.25327937416
+273,"alc_binge_prop",4649,"Chiapas",2010,27,"Age-standardized",2,"Female",0.12739334035
+273,"alc_binge_prop",4650,"Chihuahua",2010,27,"Age-standardized",1,"Male",0.33915133644
+273,"alc_binge_prop",4650,"Chihuahua",2010,27,"Age-standardized",2,"Female",0.07800158
+273,"alc_binge_prop",4651,"Mexico City",2010,27,"Age-standardized",1,"Male",0.34953988304
+273,"alc_binge_prop",4651,"Mexico City",2010,27,"Age-standardized",2,"Female",0.10848176559
+273,"alc_binge_prop",4652,"Durango",2010,27,"Age-standardized",1,"Male",0.37097634628
+273,"alc_binge_prop",4652,"Durango",2010,27,"Age-standardized",2,"Female",0.07365470515
+273,"alc_binge_prop",4653,"Guanajuato",2010,27,"Age-standardized",1,"Male",0.30994061856
+273,"alc_binge_prop",4653,"Guanajuato",2010,27,"Age-standardized",2,"Female",0.06195364193
+273,"alc_binge_prop",4654,"Guerrero",2010,27,"Age-standardized",1,"Male",0.32410530684
+273,"alc_binge_prop",4654,"Guerrero",2010,27,"Age-standardized",2,"Female",0.08556661314
+273,"alc_binge_prop",4655,"Hidalgo",2010,27,"Age-standardized",1,"Male",0.31486185961
+273,"alc_binge_prop",4655,"Hidalgo",2010,27,"Age-standardized",2,"Female",0.09102093553
+273,"alc_binge_prop",4656,"Jalisco",2010,27,"Age-standardized",1,"Male",0.36433106127
+273,"alc_binge_prop",4656,"Jalisco",2010,27,"Age-standardized",2,"Female",0.1166114488
+273,"alc_binge_prop",4657,"México",2010,27,"Age-standardized",1,"Male",0.35673247518
+273,"alc_binge_prop",4657,"México",2010,27,"Age-standardized",2,"Female",0.08296513566
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",1,"Male",0.34869324304
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2010,27,"Age-standardized",2,"Female",0.08301919081
+273,"alc_binge_prop",4659,"Morelos",2010,27,"Age-standardized",1,"Male",0.38548389879
+273,"alc_binge_prop",4659,"Morelos",2010,27,"Age-standardized",2,"Female",0.09547802193
+273,"alc_binge_prop",4660,"Nayarit",2010,27,"Age-standardized",1,"Male",0.3633452373
+273,"alc_binge_prop",4660,"Nayarit",2010,27,"Age-standardized",2,"Female",0.1664765541
+273,"alc_binge_prop",4661,"Nuevo León",2010,27,"Age-standardized",1,"Male",0.36652439134
+273,"alc_binge_prop",4661,"Nuevo León",2010,27,"Age-standardized",2,"Female",0.06943836741
+273,"alc_binge_prop",4662,"Oaxaca",2010,27,"Age-standardized",1,"Male",0.35633479324
+273,"alc_binge_prop",4662,"Oaxaca",2010,27,"Age-standardized",2,"Female",0.07421802027
+273,"alc_binge_prop",4663,"Puebla",2010,27,"Age-standardized",1,"Male",0.35358849076
+273,"alc_binge_prop",4663,"Puebla",2010,27,"Age-standardized",2,"Female",0.0777682026
+273,"alc_binge_prop",4664,"Querétaro",2010,27,"Age-standardized",1,"Male",0.29364849841
+273,"alc_binge_prop",4664,"Querétaro",2010,27,"Age-standardized",2,"Female",0.07701808976
+273,"alc_binge_prop",4665,"Quintana Roo",2010,27,"Age-standardized",1,"Male",0.4136703747
+273,"alc_binge_prop",4665,"Quintana Roo",2010,27,"Age-standardized",2,"Female",0.185196748
+273,"alc_binge_prop",4666,"San Luis Potosí",2010,27,"Age-standardized",1,"Male",0.3218433647
+273,"alc_binge_prop",4666,"San Luis Potosí",2010,27,"Age-standardized",2,"Female",0.0620565006
+273,"alc_binge_prop",4667,"Sinaloa",2010,27,"Age-standardized",1,"Male",0.38785875789
+273,"alc_binge_prop",4667,"Sinaloa",2010,27,"Age-standardized",2,"Female",0.10162762082
+273,"alc_binge_prop",4668,"Sonora",2010,27,"Age-standardized",1,"Male",0.4481312798
+273,"alc_binge_prop",4668,"Sonora",2010,27,"Age-standardized",2,"Female",0.08910142804
+273,"alc_binge_prop",4669,"Tabasco",2010,27,"Age-standardized",1,"Male",0.33519607244
+273,"alc_binge_prop",4669,"Tabasco",2010,27,"Age-standardized",2,"Female",0.07838560409
+273,"alc_binge_prop",4670,"Tamaulipas",2010,27,"Age-standardized",1,"Male",0.39249558458
+273,"alc_binge_prop",4670,"Tamaulipas",2010,27,"Age-standardized",2,"Female",0.10062323411
+273,"alc_binge_prop",4671,"Tlaxcala",2010,27,"Age-standardized",1,"Male",0.2928812035
+273,"alc_binge_prop",4671,"Tlaxcala",2010,27,"Age-standardized",2,"Female",0.08850852418
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",1,"Male",0.31090983479
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2010,27,"Age-standardized",2,"Female",0.07467724987
+273,"alc_binge_prop",4673,"Yucatán",2010,27,"Age-standardized",1,"Male",0.27868742465
+273,"alc_binge_prop",4673,"Yucatán",2010,27,"Age-standardized",2,"Female",0.08249365529
+273,"alc_binge_prop",4674,"Zacatecas",2010,27,"Age-standardized",1,"Male",0.34849507799
+273,"alc_binge_prop",4674,"Zacatecas",2010,27,"Age-standardized",2,"Female",0.05000721746
+273,"alc_binge_prop",130,"Mexico",2011,27,"Age-standardized",1,"Male",0.3444283422
+273,"alc_binge_prop",130,"Mexico",2011,27,"Age-standardized",2,"Female",0.09542526882
+273,"alc_binge_prop",4643,"Aguascalientes",2011,27,"Age-standardized",1,"Male",0.26674962016
+273,"alc_binge_prop",4643,"Aguascalientes",2011,27,"Age-standardized",2,"Female",0.09152455183
+273,"alc_binge_prop",4644,"Baja California",2011,27,"Age-standardized",1,"Male",0.31229409923
+273,"alc_binge_prop",4644,"Baja California",2011,27,"Age-standardized",2,"Female",0.10086705935
+273,"alc_binge_prop",4645,"Baja California Sur",2011,27,"Age-standardized",1,"Male",0.38043330935
+273,"alc_binge_prop",4645,"Baja California Sur",2011,27,"Age-standardized",2,"Female",0.13108417456
+273,"alc_binge_prop",4646,"Campeche",2011,27,"Age-standardized",1,"Male",0.37438501591
+273,"alc_binge_prop",4646,"Campeche",2011,27,"Age-standardized",2,"Female",0.09075654989
+273,"alc_binge_prop",4647,"Coahuila",2011,27,"Age-standardized",1,"Male",0.32760174054
+273,"alc_binge_prop",4647,"Coahuila",2011,27,"Age-standardized",2,"Female",0.06315023027
+273,"alc_binge_prop",4648,"Colima",2011,27,"Age-standardized",1,"Male",0.35132874837
+273,"alc_binge_prop",4648,"Colima",2011,27,"Age-standardized",2,"Female",0.09548544223
+273,"alc_binge_prop",4649,"Chiapas",2011,27,"Age-standardized",1,"Male",0.25511956386
+273,"alc_binge_prop",4649,"Chiapas",2011,27,"Age-standardized",2,"Female",0.13460341541
+273,"alc_binge_prop",4650,"Chihuahua",2011,27,"Age-standardized",1,"Male",0.34101737837
+273,"alc_binge_prop",4650,"Chihuahua",2011,27,"Age-standardized",2,"Female",0.08451240702
+273,"alc_binge_prop",4651,"Mexico City",2011,27,"Age-standardized",1,"Male",0.35444104536
+273,"alc_binge_prop",4651,"Mexico City",2011,27,"Age-standardized",2,"Female",0.11563878089
+273,"alc_binge_prop",4652,"Durango",2011,27,"Age-standardized",1,"Male",0.3708466503
+273,"alc_binge_prop",4652,"Durango",2011,27,"Age-standardized",2,"Female",0.07974795365
+273,"alc_binge_prop",4653,"Guanajuato",2011,27,"Age-standardized",1,"Male",0.31353957621
+273,"alc_binge_prop",4653,"Guanajuato",2011,27,"Age-standardized",2,"Female",0.06818322812
+273,"alc_binge_prop",4654,"Guerrero",2011,27,"Age-standardized",1,"Male",0.32362458724
+273,"alc_binge_prop",4654,"Guerrero",2011,27,"Age-standardized",2,"Female",0.09121134994
+273,"alc_binge_prop",4655,"Hidalgo",2011,27,"Age-standardized",1,"Male",0.31666572208
+273,"alc_binge_prop",4655,"Hidalgo",2011,27,"Age-standardized",2,"Female",0.09621744969
+273,"alc_binge_prop",4656,"Jalisco",2011,27,"Age-standardized",1,"Male",0.36645740273
+273,"alc_binge_prop",4656,"Jalisco",2011,27,"Age-standardized",2,"Female",0.11844739949
+273,"alc_binge_prop",4657,"México",2011,27,"Age-standardized",1,"Male",0.35985279676
+273,"alc_binge_prop",4657,"México",2011,27,"Age-standardized",2,"Female",0.08953377196
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",1,"Male",0.34979169451
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2011,27,"Age-standardized",2,"Female",0.08861195982
+273,"alc_binge_prop",4659,"Morelos",2011,27,"Age-standardized",1,"Male",0.38341196811
+273,"alc_binge_prop",4659,"Morelos",2011,27,"Age-standardized",2,"Female",0.09931149815
+273,"alc_binge_prop",4660,"Nayarit",2011,27,"Age-standardized",1,"Male",0.3636308876
+273,"alc_binge_prop",4660,"Nayarit",2011,27,"Age-standardized",2,"Female",0.1711213631
+273,"alc_binge_prop",4661,"Nuevo León",2011,27,"Age-standardized",1,"Male",0.36775776298
+273,"alc_binge_prop",4661,"Nuevo León",2011,27,"Age-standardized",2,"Female",0.07599879738
+273,"alc_binge_prop",4662,"Oaxaca",2011,27,"Age-standardized",1,"Male",0.35735656452
+273,"alc_binge_prop",4662,"Oaxaca",2011,27,"Age-standardized",2,"Female",0.08153687076
+273,"alc_binge_prop",4663,"Puebla",2011,27,"Age-standardized",1,"Male",0.35475114392
+273,"alc_binge_prop",4663,"Puebla",2011,27,"Age-standardized",2,"Female",0.08365653693
+273,"alc_binge_prop",4664,"Querétaro",2011,27,"Age-standardized",1,"Male",0.29927870503
+273,"alc_binge_prop",4664,"Querétaro",2011,27,"Age-standardized",2,"Female",0.08287292889
+273,"alc_binge_prop",4665,"Quintana Roo",2011,27,"Age-standardized",1,"Male",0.4101939746
+273,"alc_binge_prop",4665,"Quintana Roo",2011,27,"Age-standardized",2,"Female",0.1874927285
+273,"alc_binge_prop",4666,"San Luis Potosí",2011,27,"Age-standardized",1,"Male",0.32319489546
+273,"alc_binge_prop",4666,"San Luis Potosí",2011,27,"Age-standardized",2,"Female",0.06759534637
+273,"alc_binge_prop",4667,"Sinaloa",2011,27,"Age-standardized",1,"Male",0.38581375516
+273,"alc_binge_prop",4667,"Sinaloa",2011,27,"Age-standardized",2,"Female",0.10726423397
+273,"alc_binge_prop",4668,"Sonora",2011,27,"Age-standardized",1,"Male",0.44527315548
+273,"alc_binge_prop",4668,"Sonora",2011,27,"Age-standardized",2,"Female",0.09381145186
+273,"alc_binge_prop",4669,"Tabasco",2011,27,"Age-standardized",1,"Male",0.33572003046
+273,"alc_binge_prop",4669,"Tabasco",2011,27,"Age-standardized",2,"Female",0.0831007166
+273,"alc_binge_prop",4670,"Tamaulipas",2011,27,"Age-standardized",1,"Male",0.38848521192
+273,"alc_binge_prop",4670,"Tamaulipas",2011,27,"Age-standardized",2,"Female",0.10445884888
+273,"alc_binge_prop",4671,"Tlaxcala",2011,27,"Age-standardized",1,"Male",0.29592760789
+273,"alc_binge_prop",4671,"Tlaxcala",2011,27,"Age-standardized",2,"Female",0.09489164251
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",1,"Male",0.31294960224
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2011,27,"Age-standardized",2,"Female",0.08009465071
+273,"alc_binge_prop",4673,"Yucatán",2011,27,"Age-standardized",1,"Male",0.28307329805
+273,"alc_binge_prop",4673,"Yucatán",2011,27,"Age-standardized",2,"Female",0.08907711836
+273,"alc_binge_prop",4674,"Zacatecas",2011,27,"Age-standardized",1,"Male",0.34716958959
+273,"alc_binge_prop",4674,"Zacatecas",2011,27,"Age-standardized",2,"Female",0.05721206437
+273,"alc_binge_prop",130,"Mexico",2012,27,"Age-standardized",1,"Male",0.34594914387
+273,"alc_binge_prop",130,"Mexico",2012,27,"Age-standardized",2,"Female",0.10154907514
+273,"alc_binge_prop",4643,"Aguascalientes",2012,27,"Age-standardized",1,"Male",0.27325566187
+273,"alc_binge_prop",4643,"Aguascalientes",2012,27,"Age-standardized",2,"Female",0.09725184454
+273,"alc_binge_prop",4644,"Baja California",2012,27,"Age-standardized",1,"Male",0.31486203202
+273,"alc_binge_prop",4644,"Baja California",2012,27,"Age-standardized",2,"Female",0.10646221055
+273,"alc_binge_prop",4645,"Baja California Sur",2012,27,"Age-standardized",1,"Male",0.37813460226
+273,"alc_binge_prop",4645,"Baja California Sur",2012,27,"Age-standardized",2,"Female",0.13601294777
+273,"alc_binge_prop",4646,"Campeche",2012,27,"Age-standardized",1,"Male",0.37535564539
+273,"alc_binge_prop",4646,"Campeche",2012,27,"Age-standardized",2,"Female",0.09744641692
+273,"alc_binge_prop",4647,"Coahuila",2012,27,"Age-standardized",1,"Male",0.3279077309
+273,"alc_binge_prop",4647,"Coahuila",2012,27,"Age-standardized",2,"Female",0.07053127063
+273,"alc_binge_prop",4648,"Colima",2012,27,"Age-standardized",1,"Male",0.3545426578
+273,"alc_binge_prop",4648,"Colima",2012,27,"Age-standardized",2,"Female",0.10170767307
+273,"alc_binge_prop",4649,"Chiapas",2012,27,"Age-standardized",1,"Male",0.25691418893
+273,"alc_binge_prop",4649,"Chiapas",2012,27,"Age-standardized",2,"Female",0.14201790093
+273,"alc_binge_prop",4650,"Chihuahua",2012,27,"Age-standardized",1,"Male",0.34288829726
+273,"alc_binge_prop",4650,"Chihuahua",2012,27,"Age-standardized",2,"Female",0.09145577845
+273,"alc_binge_prop",4651,"Mexico City",2012,27,"Age-standardized",1,"Male",0.35938377043
+273,"alc_binge_prop",4651,"Mexico City",2012,27,"Age-standardized",2,"Female",0.12319587779
+273,"alc_binge_prop",4652,"Durango",2012,27,"Age-standardized",1,"Male",0.3707080412
+273,"alc_binge_prop",4652,"Durango",2012,27,"Age-standardized",2,"Female",0.08619365747
+273,"alc_binge_prop",4653,"Guanajuato",2012,27,"Age-standardized",1,"Male",0.31710436669
+273,"alc_binge_prop",4653,"Guanajuato",2012,27,"Age-standardized",2,"Female",0.07487684536
+273,"alc_binge_prop",4654,"Guerrero",2012,27,"Age-standardized",1,"Male",0.32311931639
+273,"alc_binge_prop",4654,"Guerrero",2012,27,"Age-standardized",2,"Female",0.09710579757
+273,"alc_binge_prop",4655,"Hidalgo",2012,27,"Age-standardized",1,"Male",0.31846594454
+273,"alc_binge_prop",4655,"Hidalgo",2012,27,"Age-standardized",2,"Female",0.10157718156
+273,"alc_binge_prop",4656,"Jalisco",2012,27,"Age-standardized",1,"Male",0.36857192797
+273,"alc_binge_prop",4656,"Jalisco",2012,27,"Age-standardized",2,"Female",0.12024926241
+273,"alc_binge_prop",4657,"México",2012,27,"Age-standardized",1,"Male",0.36298618419
+273,"alc_binge_prop",4657,"México",2012,27,"Age-standardized",2,"Female",0.09653591976
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",1,"Male",0.35087854477
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2012,27,"Age-standardized",2,"Female",0.09445383387
+273,"alc_binge_prop",4659,"Morelos",2012,27,"Age-standardized",1,"Male",0.38134838536
+273,"alc_binge_prop",4659,"Morelos",2012,27,"Age-standardized",2,"Female",0.10323329339
+273,"alc_binge_prop",4660,"Nayarit",2012,27,"Age-standardized",1,"Male",0.3638989329
+273,"alc_binge_prop",4660,"Nayarit",2012,27,"Age-standardized",2,"Female",0.1757710267
+273,"alc_binge_prop",4661,"Nuevo León",2012,27,"Age-standardized",1,"Male",0.36899367186
+273,"alc_binge_prop",4661,"Nuevo León",2012,27,"Age-standardized",2,"Female",0.08311198866
+273,"alc_binge_prop",4662,"Oaxaca",2012,27,"Age-standardized",1,"Male",0.3583314618
+273,"alc_binge_prop",4662,"Oaxaca",2012,27,"Age-standardized",2,"Female",0.08940647872
+273,"alc_binge_prop",4663,"Puebla",2012,27,"Age-standardized",1,"Male",0.3558955352
+273,"alc_binge_prop",4663,"Puebla",2012,27,"Age-standardized",2,"Female",0.08987112006
+273,"alc_binge_prop",4664,"Querétaro",2012,27,"Age-standardized",1,"Male",0.30500005066
+273,"alc_binge_prop",4664,"Querétaro",2012,27,"Age-standardized",2,"Female",0.089088051
+273,"alc_binge_prop",4665,"Quintana Roo",2012,27,"Age-standardized",1,"Male",0.4067457226
+273,"alc_binge_prop",4665,"Quintana Roo",2012,27,"Age-standardized",2,"Female",0.1897727407
+273,"alc_binge_prop",4666,"San Luis Potosí",2012,27,"Age-standardized",1,"Male",0.32452006163
+273,"alc_binge_prop",4666,"San Luis Potosí",2012,27,"Age-standardized",2,"Female",0.07349888113
+273,"alc_binge_prop",4667,"Sinaloa",2012,27,"Age-standardized",1,"Male",0.38376374342
+273,"alc_binge_prop",4667,"Sinaloa",2012,27,"Age-standardized",2,"Female",0.11306113899
+273,"alc_binge_prop",4668,"Sonora",2012,27,"Age-standardized",1,"Male",0.44240367406
+273,"alc_binge_prop",4668,"Sonora",2012,27,"Age-standardized",2,"Female",0.09865956962
+273,"alc_binge_prop",4669,"Tabasco",2012,27,"Age-standardized",1,"Male",0.33621691818
+273,"alc_binge_prop",4669,"Tabasco",2012,27,"Age-standardized",2,"Female",0.08798354343
+273,"alc_binge_prop",4670,"Tamaulipas",2012,27,"Age-standardized",1,"Male",0.38450856169
+273,"alc_binge_prop",4670,"Tamaulipas",2012,27,"Age-standardized",2,"Female",0.10834936245
+273,"alc_binge_prop",4671,"Tlaxcala",2012,27,"Age-standardized",1,"Male",0.29898310059
+273,"alc_binge_prop",4671,"Tlaxcala",2012,27,"Age-standardized",2,"Female",0.10158515246
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",1,"Male",0.31497694907
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2012,27,"Age-standardized",2,"Female",0.08581978884
+273,"alc_binge_prop",4673,"Yucatán",2012,27,"Age-standardized",1,"Male",0.28747723522
+273,"alc_binge_prop",4673,"Yucatán",2012,27,"Age-standardized",2,"Female",0.09610296727
+273,"alc_binge_prop",4674,"Zacatecas",2012,27,"Age-standardized",1,"Male",0.34584412539
+273,"alc_binge_prop",4674,"Zacatecas",2012,27,"Age-standardized",2,"Female",0.06536172571
+273,"alc_binge_prop",130,"Mexico",2013,27,"Age-standardized",1,"Male",0.34745380225
+273,"alc_binge_prop",130,"Mexico",2013,27,"Age-standardized",2,"Female",0.10794747417
+273,"alc_binge_prop",4643,"Aguascalientes",2013,27,"Age-standardized",1,"Male",0.27990519871
+273,"alc_binge_prop",4643,"Aguascalientes",2013,27,"Age-standardized",2,"Female",0.10322662047
+273,"alc_binge_prop",4644,"Baja California",2013,27,"Age-standardized",1,"Male",0.31739697502
+273,"alc_binge_prop",4644,"Baja California",2013,27,"Age-standardized",2,"Female",0.11225120014
+273,"alc_binge_prop",4645,"Baja California Sur",2013,27,"Age-standardized",1,"Male",0.37583074021
+273,"alc_binge_prop",4645,"Baja California Sur",2013,27,"Age-standardized",2,"Female",0.14101835699
+273,"alc_binge_prop",4646,"Campeche",2013,27,"Age-standardized",1,"Male",0.37629200374
+273,"alc_binge_prop",4646,"Campeche",2013,27,"Age-standardized",2,"Female",0.1044755718
+273,"alc_binge_prop",4647,"Coahuila",2013,27,"Age-standardized",1,"Male",0.32817728809
+273,"alc_binge_prop",4647,"Coahuila",2013,27,"Age-standardized",2,"Female",0.07861446106
+273,"alc_binge_prop",4648,"Colima",2013,27,"Age-standardized",1,"Male",0.35775057795
+273,"alc_binge_prop",4648,"Colima",2013,27,"Age-standardized",2,"Female",0.1082657325
+273,"alc_binge_prop",4649,"Chiapas",2013,27,"Age-standardized",1,"Male",0.25866159095
+273,"alc_binge_prop",4649,"Chiapas",2013,27,"Age-standardized",2,"Female",0.1496161401
+273,"alc_binge_prop",4650,"Chihuahua",2013,27,"Age-standardized",1,"Male",0.34476406381
+273,"alc_binge_prop",4650,"Chihuahua",2013,27,"Age-standardized",2,"Female",0.0988463701
+273,"alc_binge_prop",4651,"Mexico City",2013,27,"Age-standardized",1,"Male",0.36436802595
+273,"alc_binge_prop",4651,"Mexico City",2013,27,"Age-standardized",2,"Female",0.13116956032
+273,"alc_binge_prop",4652,"Durango",2013,27,"Age-standardized",1,"Male",0.37056054385
+273,"alc_binge_prop",4652,"Durango",2013,27,"Age-standardized",2,"Female",0.09298845311
+273,"alc_binge_prop",4653,"Guanajuato",2013,27,"Age-standardized",1,"Male",0.32063287846
+273,"alc_binge_prop",4653,"Guanajuato",2013,27,"Age-standardized",2,"Female",0.0820401202
+273,"alc_binge_prop",4654,"Guerrero",2013,27,"Age-standardized",1,"Male",0.32258961166
+273,"alc_binge_prop",4654,"Guerrero",2013,27,"Age-standardized",2,"Female",0.10324600152
+273,"alc_binge_prop",4655,"Hidalgo",2013,27,"Age-standardized",1,"Male",0.32026237261
+273,"alc_binge_prop",4655,"Hidalgo",2013,27,"Age-standardized",2,"Female",0.10709064437
+273,"alc_binge_prop",4656,"Jalisco",2013,27,"Age-standardized",1,"Male",0.37067438992
+273,"alc_binge_prop",4656,"Jalisco",2013,27,"Age-standardized",2,"Female",0.1220138842
+273,"alc_binge_prop",4657,"México",2013,27,"Age-standardized",1,"Male",0.36613254052
+273,"alc_binge_prop",4657,"México",2013,27,"Age-standardized",2,"Female",0.10399064206
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",1,"Male",0.35195368265
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2013,27,"Age-standardized",2,"Female",0.10054101779
+273,"alc_binge_prop",4659,"Morelos",2013,27,"Age-standardized",1,"Male",0.3792931309
+273,"alc_binge_prop",4659,"Morelos",2013,27,"Age-standardized",2,"Female",0.10724058903
+273,"alc_binge_prop",4660,"Nayarit",2013,27,"Age-standardized",1,"Male",0.3641494237
+273,"alc_binge_prop",4660,"Nayarit",2013,27,"Age-standardized",2,"Female",0.1804171158
+273,"alc_binge_prop",4661,"Nuevo León",2013,27,"Age-standardized",1,"Male",0.37023211104
+273,"alc_binge_prop",4661,"Nuevo León",2013,27,"Age-standardized",2,"Female",0.09081556839
+273,"alc_binge_prop",4662,"Oaxaca",2013,27,"Age-standardized",1,"Male",0.35925916368
+273,"alc_binge_prop",4662,"Oaxaca",2013,27,"Age-standardized",2,"Female",0.0978395414
+273,"alc_binge_prop",4663,"Puebla",2013,27,"Age-standardized",1,"Male",0.357021529
+273,"alc_binge_prop",4663,"Puebla",2013,27,"Age-standardized",2,"Female",0.09641555397
+273,"alc_binge_prop",4664,"Querétaro",2013,27,"Age-standardized",1,"Male",0.31081369254
+273,"alc_binge_prop",4664,"Querétaro",2013,27,"Age-standardized",2,"Female",0.0956761361
+273,"alc_binge_prop",4665,"Quintana Roo",2013,27,"Age-standardized",1,"Male",0.4033254117
+273,"alc_binge_prop",4665,"Quintana Roo",2013,27,"Age-standardized",2,"Female",0.192035148
+273,"alc_binge_prop",4666,"San Luis Potosí",2013,27,"Age-standardized",1,"Male",0.32581851886
+273,"alc_binge_prop",4666,"San Luis Potosí",2013,27,"Age-standardized",2,"Female",0.07976948884
+273,"alc_binge_prop",4667,"Sinaloa",2013,27,"Age-standardized",1,"Male",0.38170893152
+273,"alc_binge_prop",4667,"Sinaloa",2013,27,"Age-standardized",2,"Female",0.11900353435
+273,"alc_binge_prop",4668,"Sonora",2013,27,"Age-standardized",1,"Male",0.43952342011
+273,"alc_binge_prop",4668,"Sonora",2013,27,"Age-standardized",2,"Female",0.1036376563
+273,"alc_binge_prop",4669,"Tabasco",2013,27,"Age-standardized",1,"Male",0.3366865886
+273,"alc_binge_prop",4669,"Tabasco",2013,27,"Age-standardized",2,"Female",0.09302535448
+273,"alc_binge_prop",4670,"Tamaulipas",2013,27,"Age-standardized",1,"Male",0.38056543708
+273,"alc_binge_prop",4670,"Tamaulipas",2013,27,"Age-standardized",2,"Female",0.1122871017
+273,"alc_binge_prop",4671,"Tlaxcala",2013,27,"Age-standardized",1,"Male",0.30204735144
+273,"alc_binge_prop",4671,"Tlaxcala",2013,27,"Age-standardized",2,"Female",0.10858563661
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",1,"Male",0.31699146056
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2013,27,"Age-standardized",2,"Female",0.09185991596
+273,"alc_binge_prop",4673,"Yucatán",2013,27,"Age-standardized",1,"Male",0.2918979484
+273,"alc_binge_prop",4673,"Yucatán",2013,27,"Age-standardized",2,"Female",0.10359148421
+273,"alc_binge_prop",4674,"Zacatecas",2013,27,"Age-standardized",1,"Male",0.34451871915
+273,"alc_binge_prop",4674,"Zacatecas",2013,27,"Age-standardized",2,"Female",0.07456102437
+273,"alc_binge_prop",130,"Mexico",2014,27,"Age-standardized",1,"Male",0.34894209522
+273,"alc_binge_prop",130,"Mexico",2014,27,"Age-standardized",2,"Female",0.11462013791
+273,"alc_binge_prop",4643,"Aguascalientes",2014,27,"Age-standardized",1,"Male",0.28670102213
+273,"alc_binge_prop",4643,"Aguascalientes",2014,27,"Age-standardized",2,"Female",0.10944838507
+273,"alc_binge_prop",4644,"Baja California",2014,27,"Age-standardized",1,"Male",0.31989778627
+273,"alc_binge_prop",4644,"Baja California",2014,27,"Age-standardized",2,"Female",0.11822916135
+273,"alc_binge_prop",4645,"Baja California Sur",2014,27,"Age-standardized",1,"Male",0.37352204359
+273,"alc_binge_prop",4645,"Baja California Sur",2014,27,"Age-standardized",2,"Female",0.14609318889
+273,"alc_binge_prop",4646,"Campeche",2014,27,"Age-standardized",1,"Male",0.37719389734
+273,"alc_binge_prop",4646,"Campeche",2014,27,"Age-standardized",2,"Female",0.11184115367
+273,"alc_binge_prop",4647,"Coahuila",2014,27,"Age-standardized",1,"Male",0.32841029742
+273,"alc_binge_prop",4647,"Coahuila",2014,27,"Age-standardized",2,"Female",0.08743649113
+273,"alc_binge_prop",4648,"Colima",2014,27,"Age-standardized",1,"Male",0.36095193629
+273,"alc_binge_prop",4648,"Colima",2014,27,"Age-standardized",2,"Female",0.1151716263
+273,"alc_binge_prop",4649,"Chiapas",2014,27,"Age-standardized",1,"Male",0.26036014919
+273,"alc_binge_prop",4649,"Chiapas",2014,27,"Age-standardized",2,"Female",0.15737419649
+273,"alc_binge_prop",4650,"Chihuahua",2014,27,"Age-standardized",1,"Male",0.34664464912
+273,"alc_binge_prop",4650,"Chihuahua",2014,27,"Age-standardized",2,"Female",0.10669782879
+273,"alc_binge_prop",4651,"Mexico City",2014,27,"Age-standardized",1,"Male",0.36939377956
+273,"alc_binge_prop",4651,"Mexico City",2014,27,"Age-standardized",2,"Female",0.13957665021
+273,"alc_binge_prop",4652,"Durango",2014,27,"Age-standardized",1,"Male",0.37040418511
+273,"alc_binge_prop",4652,"Durango",2014,27,"Age-standardized",2,"Female",0.1001251732
+273,"alc_binge_prop",4653,"Guanajuato",2014,27,"Age-standardized",1,"Male",0.32412304234
+273,"alc_binge_prop",4653,"Guanajuato",2014,27,"Age-standardized",2,"Female",0.08967376605
+273,"alc_binge_prop",4654,"Guerrero",2014,27,"Age-standardized",1,"Male",0.32203559972
+273,"alc_binge_prop",4654,"Guerrero",2014,27,"Age-standardized",2,"Female",0.10962613326
+273,"alc_binge_prop",4655,"Hidalgo",2014,27,"Age-standardized",1,"Male",0.32205485453
+273,"alc_binge_prop",4655,"Hidalgo",2014,27,"Age-standardized",2,"Female",0.11274685643
+273,"alc_binge_prop",4656,"Jalisco",2014,27,"Age-standardized",1,"Male",0.37276454716
+273,"alc_binge_prop",4656,"Jalisco",2014,27,"Age-standardized",2,"Female",0.12373815881
+273,"alc_binge_prop",4657,"México",2014,27,"Age-standardized",1,"Male",0.36929176959
+273,"alc_binge_prop",4657,"México",2014,27,"Age-standardized",2,"Female",0.11191696203
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",1,"Male",0.35301699938
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2014,27,"Age-standardized",2,"Female",0.10686801938
+273,"alc_binge_prop",4659,"Morelos",2014,27,"Age-standardized",1,"Male",0.37724618617
+273,"alc_binge_prop",4659,"Morelos",2014,27,"Age-standardized",2,"Female",0.11133023003
+273,"alc_binge_prop",4660,"Nayarit",2014,27,"Age-standardized",1,"Male",0.3643824159
+273,"alc_binge_prop",4660,"Nayarit",2014,27,"Age-standardized",2,"Female",0.1850510109
+273,"alc_binge_prop",4661,"Nuevo León",2014,27,"Age-standardized",1,"Male",0.37147307306
+273,"alc_binge_prop",4661,"Nuevo León",2014,27,"Age-standardized",2,"Female",0.09914867423
+273,"alc_binge_prop",4662,"Oaxaca",2014,27,"Age-standardized",1,"Male",0.36013938321
+273,"alc_binge_prop",4662,"Oaxaca",2014,27,"Age-standardized",2,"Female",0.10684452921
+273,"alc_binge_prop",4663,"Puebla",2014,27,"Age-standardized",1,"Male",0.35812899651
+273,"alc_binge_prop",4663,"Puebla",2014,27,"Age-standardized",2,"Female",0.10329188845
+273,"alc_binge_prop",4664,"Querétaro",2014,27,"Age-standardized",1,"Male",0.31672080085
+273,"alc_binge_prop",4664,"Querétaro",2014,27,"Age-standardized",2,"Female",0.10264940223
+273,"alc_binge_prop",4665,"Quintana Roo",2014,27,"Age-standardized",1,"Male",0.39993283
+273,"alc_binge_prop",4665,"Quintana Roo",2014,27,"Age-standardized",2,"Female",0.1942783225
+273,"alc_binge_prop",4666,"San Luis Potosí",2014,27,"Age-standardized",1,"Male",0.32708993779
+273,"alc_binge_prop",4666,"San Luis Potosí",2014,27,"Age-standardized",2,"Female",0.08640596671
+273,"alc_binge_prop",4667,"Sinaloa",2014,27,"Age-standardized",1,"Male",0.37964953092
+273,"alc_binge_prop",4667,"Sinaloa",2014,27,"Age-standardized",2,"Female",0.12507423834
+273,"alc_binge_prop",4668,"Sonora",2014,27,"Age-standardized",1,"Male",0.43663297912
+273,"alc_binge_prop",4668,"Sonora",2014,27,"Age-standardized",2,"Female",0.10873627674
+273,"alc_binge_prop",4669,"Tabasco",2014,27,"Age-standardized",1,"Male",0.33712890507
+273,"alc_binge_prop",4669,"Tabasco",2014,27,"Age-standardized",2,"Female",0.09821550722
+273,"alc_binge_prop",4670,"Tamaulipas",2014,27,"Age-standardized",1,"Male",0.37665564227
+273,"alc_binge_prop",4670,"Tamaulipas",2014,27,"Age-standardized",2,"Female",0.11626375169
+273,"alc_binge_prop",4671,"Tlaxcala",2014,27,"Age-standardized",1,"Male",0.30512002895
+273,"alc_binge_prop",4671,"Tlaxcala",2014,27,"Age-standardized",2,"Female",0.11588745999
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",1,"Male",0.31899272842
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2014,27,"Age-standardized",2,"Female",0.09822132127
+273,"alc_binge_prop",4673,"Yucatán",2014,27,"Age-standardized",1,"Male",0.29633413999
+273,"alc_binge_prop",4673,"Yucatán",2014,27,"Age-standardized",2,"Female",0.11156299165
+273,"alc_binge_prop",4674,"Zacatecas",2014,27,"Age-standardized",1,"Male",0.34319340494
+273,"alc_binge_prop",4674,"Zacatecas",2014,27,"Age-standardized",2,"Female",0.0849229643
+273,"alc_binge_prop",130,"Mexico",2015,27,"Age-standardized",1,"Male",0.35041380678
+273,"alc_binge_prop",130,"Mexico",2015,27,"Age-standardized",2,"Female",0.12156545224
+273,"alc_binge_prop",4643,"Aguascalientes",2015,27,"Age-standardized",1,"Male",0.29364597292
+273,"alc_binge_prop",4643,"Aguascalientes",2015,27,"Age-standardized",2,"Female",0.11591560122
+273,"alc_binge_prop",4644,"Baja California",2015,27,"Age-standardized",1,"Male",0.32236335591
+273,"alc_binge_prop",4644,"Baja California",2015,27,"Age-standardized",2,"Female",0.12439010583
+273,"alc_binge_prop",4645,"Baja California Sur",2015,27,"Age-standardized",1,"Male",0.37120883532
+273,"alc_binge_prop",4645,"Baja California Sur",2015,27,"Age-standardized",2,"Female",0.15122972617
+273,"alc_binge_prop",4646,"Campeche",2015,27,"Age-standardized",1,"Male",0.37806115214
+273,"alc_binge_prop",4646,"Campeche",2015,27,"Age-standardized",2,"Female",0.11953768694
+273,"alc_binge_prop",4647,"Coahuila",2015,27,"Age-standardized",1,"Male",0.32860666706
+273,"alc_binge_prop",4647,"Coahuila",2015,27,"Age-standardized",2,"Female",0.09703097233
+273,"alc_binge_prop",4648,"Colima",2015,27,"Age-standardized",1,"Male",0.36414616782
+273,"alc_binge_prop",4648,"Colima",2015,27,"Age-standardized",2,"Female",0.12243735758
+273,"alc_binge_prop",4649,"Chiapas",2015,27,"Age-standardized",1,"Male",0.26200828586
+273,"alc_binge_prop",4649,"Chiapas",2015,27,"Age-standardized",2,"Female",0.16526492254
+273,"alc_binge_prop",4650,"Chihuahua",2015,27,"Age-standardized",1,"Male",0.34853002329
+273,"alc_binge_prop",4650,"Chihuahua",2015,27,"Age-standardized",2,"Female",0.1150226424
+273,"alc_binge_prop",4651,"Mexico City",2015,27,"Age-standardized",1,"Male",0.37446099982
+273,"alc_binge_prop",4651,"Mexico City",2015,27,"Age-standardized",2,"Female",0.14843428383
+273,"alc_binge_prop",4652,"Durango",2015,27,"Age-standardized",1,"Male",0.37023899332
+273,"alc_binge_prop",4652,"Durango",2015,27,"Age-standardized",2,"Female",0.1075926302
+273,"alc_binge_prop",4653,"Guanajuato",2015,27,"Age-standardized",1,"Male",0.32757283785
+273,"alc_binge_prop",4653,"Guanajuato",2015,27,"Age-standardized",2,"Female",0.09777310361
+273,"alc_binge_prop",4654,"Guerrero",2015,27,"Age-standardized",1,"Male",0.32145741948
+273,"alc_binge_prop",4654,"Guerrero",2015,27,"Age-standardized",2,"Female",0.11623844057
+273,"alc_binge_prop",4655,"Hidalgo",2015,27,"Age-standardized",1,"Male",0.32384324009
+273,"alc_binge_prop",4655,"Hidalgo",2015,27,"Age-standardized",2,"Female",0.11853339726
+273,"alc_binge_prop",4656,"Jalisco",2015,27,"Age-standardized",1,"Male",0.37484216504
+273,"alc_binge_prop",4656,"Jalisco",2015,27,"Age-standardized",2,"Female",0.12541904389
+273,"alc_binge_prop",4657,"México",2015,27,"Age-standardized",1,"Male",0.37246377531
+273,"alc_binge_prop",4657,"México",2015,27,"Age-standardized",2,"Female",0.12033379824
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",1,"Male",0.35406838921
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2015,27,"Age-standardized",2,"Female",0.1134276407
+273,"alc_binge_prop",4659,"Morelos",2015,27,"Age-standardized",1,"Male",0.37520753238
+273,"alc_binge_prop",4659,"Morelos",2015,27,"Age-standardized",2,"Female",0.11549873335
+273,"alc_binge_prop",4660,"Nayarit",2015,27,"Age-standardized",1,"Male",0.3645979721
+273,"alc_binge_prop",4660,"Nayarit",2015,27,"Age-standardized",2,"Female",0.1896639538
+273,"alc_binge_prop",4661,"Nuevo León",2015,27,"Age-standardized",1,"Male",0.37271655069
+273,"alc_binge_prop",4661,"Nuevo León",2015,27,"Age-standardized",2,"Female",0.10815191175
+273,"alc_binge_prop",4662,"Oaxaca",2015,27,"Age-standardized",1,"Male",0.36097187128
+273,"alc_binge_prop",4662,"Oaxaca",2015,27,"Age-standardized",2,"Female",0.11642519759
+273,"alc_binge_prop",4663,"Puebla",2015,27,"Age-standardized",1,"Male",0.35921781716
+273,"alc_binge_prop",4663,"Puebla",2015,27,"Age-standardized",2,"Female",0.11050054464
+273,"alc_binge_prop",4664,"Querétaro",2015,27,"Age-standardized",1,"Male",0.32272255705
+273,"alc_binge_prop",4664,"Querétaro",2015,27,"Age-standardized",2,"Female",0.11001953163
+273,"alc_binge_prop",4665,"Quintana Roo",2015,27,"Age-standardized",1,"Male",0.396567768
+273,"alc_binge_prop",4665,"Quintana Roo",2015,27,"Age-standardized",2,"Female",0.1965006354
+273,"alc_binge_prop",4666,"San Luis Potosí",2015,27,"Age-standardized",1,"Male",0.32833400311
+273,"alc_binge_prop",4666,"San Luis Potosí",2015,27,"Age-standardized",2,"Female",0.09340318354
+273,"alc_binge_prop",4667,"Sinaloa",2015,27,"Age-standardized",1,"Male",0.37758575309
+273,"alc_binge_prop",4667,"Sinaloa",2015,27,"Age-standardized",2,"Female",0.13125372389
+273,"alc_binge_prop",4668,"Sonora",2015,27,"Age-standardized",1,"Male",0.43373293604
+273,"alc_binge_prop",4668,"Sonora",2015,27,"Age-standardized",2,"Female",0.11394470121
+273,"alc_binge_prop",4669,"Tabasco",2015,27,"Age-standardized",1,"Male",0.33754374433
+273,"alc_binge_prop",4669,"Tabasco",2015,27,"Age-standardized",2,"Female",0.10354143263
+273,"alc_binge_prop",4670,"Tamaulipas",2015,27,"Age-standardized",1,"Male",0.37277898349
+273,"alc_binge_prop",4670,"Tamaulipas",2015,27,"Age-standardized",2,"Female",0.1202703874
+273,"alc_binge_prop",4671,"Tlaxcala",2015,27,"Age-standardized",1,"Male",0.30820080439
+273,"alc_binge_prop",4671,"Tlaxcala",2015,27,"Age-standardized",2,"Female",0.12348274253
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",1,"Male",0.32098035077
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2015,27,"Age-standardized",2,"Female",0.10490923041
+273,"alc_binge_prop",4673,"Yucatán",2015,27,"Age-standardized",1,"Male",0.30078450539
+273,"alc_binge_prop",4673,"Yucatán",2015,27,"Age-standardized",2,"Female",0.1200377867
+273,"alc_binge_prop",4674,"Zacatecas",2015,27,"Age-standardized",1,"Male",0.34186821713
+273,"alc_binge_prop",4674,"Zacatecas",2015,27,"Age-standardized",2,"Female",0.09656885073
+273,"alc_binge_prop",130,"Mexico",2016,27,"Age-standardized",1,"Male",0.35186872828
+273,"alc_binge_prop",130,"Mexico",2016,27,"Age-standardized",2,"Female",0.12878048543
+273,"alc_binge_prop",4643,"Aguascalientes",2016,27,"Age-standardized",1,"Male",0.30074294176
+273,"alc_binge_prop",4643,"Aguascalientes",2016,27,"Age-standardized",2,"Female",0.12262567706
+273,"alc_binge_prop",4644,"Baja California",2016,27,"Age-standardized",1,"Male",0.32479260734
+273,"alc_binge_prop",4644,"Baja California",2016,27,"Age-standardized",2,"Female",0.13072693209
+273,"alc_binge_prop",4645,"Baja California Sur",2016,27,"Age-standardized",1,"Male",0.3688914381
+273,"alc_binge_prop",4645,"Baja California Sur",2016,27,"Age-standardized",2,"Female",0.15641978346
+273,"alc_binge_prop",4646,"Campeche",2016,27,"Age-standardized",1,"Male",0.37889361213
+273,"alc_binge_prop",4646,"Campeche",2016,27,"Age-standardized",2,"Female",0.12755699529
+273,"alc_binge_prop",4647,"Coahuila",2016,27,"Age-standardized",1,"Male",0.32876632785
+273,"alc_binge_prop",4647,"Coahuila",2016,27,"Age-standardized",2,"Female",0.10742767657
+273,"alc_binge_prop",4648,"Colima",2016,27,"Age-standardized",1,"Male",0.36733271471
+273,"alc_binge_prop",4648,"Colima",2016,27,"Age-standardized",2,"Female",0.13007490379
+273,"alc_binge_prop",4649,"Chiapas",2016,27,"Age-standardized",1,"Male",0.26360446871
+273,"alc_binge_prop",4649,"Chiapas",2016,27,"Age-standardized",2,"Female",0.17325811114
+273,"alc_binge_prop",4650,"Chihuahua",2016,27,"Age-standardized",1,"Male",0.35042015709
+273,"alc_binge_prop",4650,"Chihuahua",2016,27,"Age-standardized",2,"Female",0.12383202861
+273,"alc_binge_prop",4651,"Mexico City",2016,27,"Age-standardized",1,"Male",0.37956965628
+273,"alc_binge_prop",4651,"Mexico City",2016,27,"Age-standardized",2,"Female",0.15775991103
+273,"alc_binge_prop",4652,"Durango",2016,27,"Age-standardized",1,"Male",0.37006499725
+273,"alc_binge_prop",4652,"Durango",2016,27,"Age-standardized",2,"Female",0.11537549261
+273,"alc_binge_prop",4653,"Guanajuato",2016,27,"Age-standardized",1,"Male",0.33098029542
+273,"alc_binge_prop",4653,"Guanajuato",2016,27,"Age-standardized",2,"Female",0.10632770836
+273,"alc_binge_prop",4654,"Guerrero",2016,27,"Age-standardized",1,"Male",0.32085521971
+273,"alc_binge_prop",4654,"Guerrero",2016,27,"Age-standardized",2,"Female",0.12307323147
+273,"alc_binge_prop",4655,"Hidalgo",2016,27,"Age-standardized",1,"Male",0.32562738088
+273,"alc_binge_prop",4655,"Hidalgo",2016,27,"Age-standardized",2,"Female",0.1244364913
+273,"alc_binge_prop",4656,"Jalisco",2016,27,"Age-standardized",1,"Male",0.37690701585
+273,"alc_binge_prop",4656,"Jalisco",2016,27,"Age-standardized",2,"Female",0.12705357644
+273,"alc_binge_prop",4657,"México",2016,27,"Age-standardized",1,"Male",0.37564846135
+273,"alc_binge_prop",4657,"México",2016,27,"Age-standardized",2,"Female",0.12925990409
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",1,"Male",0.3551077509
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2016,27,"Age-standardized",2,"Female",0.12021099871
+273,"alc_binge_prop",4659,"Morelos",2016,27,"Age-standardized",1,"Male",0.37317715146
+273,"alc_binge_prop",4659,"Morelos",2016,27,"Age-standardized",2,"Female",0.11974229901
+273,"alc_binge_prop",4660,"Nayarit",2016,27,"Age-standardized",1,"Male",0.3647961594
+273,"alc_binge_prop",4660,"Nayarit",2016,27,"Age-standardized",2,"Female",0.194247089
+273,"alc_binge_prop",4661,"Nuevo León",2016,27,"Age-standardized",1,"Male",0.37396253658
+273,"alc_binge_prop",4661,"Nuevo León",2016,27,"Age-standardized",2,"Female",0.11786730634
+273,"alc_binge_prop",4662,"Oaxaca",2016,27,"Age-standardized",1,"Male",0.36175641245
+273,"alc_binge_prop",4662,"Oaxaca",2016,27,"Age-standardized",2,"Female",0.12658019399
+273,"alc_binge_prop",4663,"Puebla",2016,27,"Age-standardized",1,"Male",0.36028787771
+273,"alc_binge_prop",4663,"Puebla",2016,27,"Age-standardized",2,"Female",0.11804026649
+273,"alc_binge_prop",4664,"Querétaro",2016,27,"Age-standardized",1,"Male",0.32882015414
+273,"alc_binge_prop",4664,"Querétaro",2016,27,"Age-standardized",2,"Female",0.11779760233
+273,"alc_binge_prop",4665,"Quintana Roo",2016,27,"Age-standardized",1,"Male",0.3932300211
+273,"alc_binge_prop",4665,"Quintana Roo",2016,27,"Age-standardized",2,"Female",0.1987004694
+273,"alc_binge_prop",4666,"San Luis Potosí",2016,27,"Age-standardized",1,"Male",0.32955041461
+273,"alc_binge_prop",4666,"San Luis Potosí",2016,27,"Age-standardized",2,"Female",0.10075181322
+273,"alc_binge_prop",4667,"Sinaloa",2016,27,"Age-standardized",1,"Male",0.37551781127
+273,"alc_binge_prop",4667,"Sinaloa",2016,27,"Age-standardized",2,"Female",0.13752021369
+273,"alc_binge_prop",4668,"Sonora",2016,27,"Age-standardized",1,"Male",0.43082387663
+273,"alc_binge_prop",4668,"Sonora",2016,27,"Age-standardized",2,"Female",0.11925094725
+273,"alc_binge_prop",4669,"Tabasco",2016,27,"Age-standardized",1,"Male",0.33793099602
+273,"alc_binge_prop",4669,"Tabasco",2016,27,"Age-standardized",2,"Female",0.1089886614
+273,"alc_binge_prop",4670,"Tamaulipas",2016,27,"Age-standardized",1,"Male",0.36893526766
+273,"alc_binge_prop",4670,"Tamaulipas",2016,27,"Age-standardized",2,"Female",0.12429751686
+273,"alc_binge_prop",4671,"Tlaxcala",2016,27,"Age-standardized",1,"Male",0.31128934967
+273,"alc_binge_prop",4671,"Tlaxcala",2016,27,"Age-standardized",2,"Female",0.13136137716
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",1,"Male",0.32295393235
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2016,27,"Age-standardized",2,"Female",0.1119277125
+273,"alc_binge_prop",4673,"Yucatán",2016,27,"Age-standardized",1,"Male",0.30524773431
+273,"alc_binge_prop",4673,"Yucatán",2016,27,"Age-standardized",2,"Female",0.12903608087
+273,"alc_binge_prop",4674,"Zacatecas",2016,27,"Age-standardized",1,"Male",0.34054319165
+273,"alc_binge_prop",4674,"Zacatecas",2016,27,"Age-standardized",2,"Female",0.10962835512
+273,"alc_binge_prop",130,"Mexico",2017,27,"Age-standardized",1,"Male",0.35186872828
+273,"alc_binge_prop",130,"Mexico",2017,27,"Age-standardized",2,"Female",0.12878048543
+273,"alc_binge_prop",4643,"Aguascalientes",2017,27,"Age-standardized",1,"Male",0.30074294176
+273,"alc_binge_prop",4643,"Aguascalientes",2017,27,"Age-standardized",2,"Female",0.12262567706
+273,"alc_binge_prop",4644,"Baja California",2017,27,"Age-standardized",1,"Male",0.32479260734
+273,"alc_binge_prop",4644,"Baja California",2017,27,"Age-standardized",2,"Female",0.13072693209
+273,"alc_binge_prop",4645,"Baja California Sur",2017,27,"Age-standardized",1,"Male",0.3688914381
+273,"alc_binge_prop",4645,"Baja California Sur",2017,27,"Age-standardized",2,"Female",0.15641978346
+273,"alc_binge_prop",4646,"Campeche",2017,27,"Age-standardized",1,"Male",0.37889361213
+273,"alc_binge_prop",4646,"Campeche",2017,27,"Age-standardized",2,"Female",0.12755699529
+273,"alc_binge_prop",4647,"Coahuila",2017,27,"Age-standardized",1,"Male",0.32876632785
+273,"alc_binge_prop",4647,"Coahuila",2017,27,"Age-standardized",2,"Female",0.10742767657
+273,"alc_binge_prop",4648,"Colima",2017,27,"Age-standardized",1,"Male",0.36733271471
+273,"alc_binge_prop",4648,"Colima",2017,27,"Age-standardized",2,"Female",0.13007490379
+273,"alc_binge_prop",4649,"Chiapas",2017,27,"Age-standardized",1,"Male",0.26360446871
+273,"alc_binge_prop",4649,"Chiapas",2017,27,"Age-standardized",2,"Female",0.17325811114
+273,"alc_binge_prop",4650,"Chihuahua",2017,27,"Age-standardized",1,"Male",0.35042015709
+273,"alc_binge_prop",4650,"Chihuahua",2017,27,"Age-standardized",2,"Female",0.12383202861
+273,"alc_binge_prop",4651,"Mexico City",2017,27,"Age-standardized",1,"Male",0.37956965628
+273,"alc_binge_prop",4651,"Mexico City",2017,27,"Age-standardized",2,"Female",0.15775991103
+273,"alc_binge_prop",4652,"Durango",2017,27,"Age-standardized",1,"Male",0.37006499725
+273,"alc_binge_prop",4652,"Durango",2017,27,"Age-standardized",2,"Female",0.11537549261
+273,"alc_binge_prop",4653,"Guanajuato",2017,27,"Age-standardized",1,"Male",0.33098029542
+273,"alc_binge_prop",4653,"Guanajuato",2017,27,"Age-standardized",2,"Female",0.10632770836
+273,"alc_binge_prop",4654,"Guerrero",2017,27,"Age-standardized",1,"Male",0.32085521971
+273,"alc_binge_prop",4654,"Guerrero",2017,27,"Age-standardized",2,"Female",0.12307323147
+273,"alc_binge_prop",4655,"Hidalgo",2017,27,"Age-standardized",1,"Male",0.32562738088
+273,"alc_binge_prop",4655,"Hidalgo",2017,27,"Age-standardized",2,"Female",0.1244364913
+273,"alc_binge_prop",4656,"Jalisco",2017,27,"Age-standardized",1,"Male",0.37690701585
+273,"alc_binge_prop",4656,"Jalisco",2017,27,"Age-standardized",2,"Female",0.12705357644
+273,"alc_binge_prop",4657,"México",2017,27,"Age-standardized",1,"Male",0.37564846135
+273,"alc_binge_prop",4657,"México",2017,27,"Age-standardized",2,"Female",0.12925990409
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",1,"Male",0.3551077509
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2017,27,"Age-standardized",2,"Female",0.12021099871
+273,"alc_binge_prop",4659,"Morelos",2017,27,"Age-standardized",1,"Male",0.37317715146
+273,"alc_binge_prop",4659,"Morelos",2017,27,"Age-standardized",2,"Female",0.11974229901
+273,"alc_binge_prop",4660,"Nayarit",2017,27,"Age-standardized",1,"Male",0.3647961594
+273,"alc_binge_prop",4660,"Nayarit",2017,27,"Age-standardized",2,"Female",0.194247089
+273,"alc_binge_prop",4661,"Nuevo León",2017,27,"Age-standardized",1,"Male",0.37396253658
+273,"alc_binge_prop",4661,"Nuevo León",2017,27,"Age-standardized",2,"Female",0.11786730634
+273,"alc_binge_prop",4662,"Oaxaca",2017,27,"Age-standardized",1,"Male",0.36175641245
+273,"alc_binge_prop",4662,"Oaxaca",2017,27,"Age-standardized",2,"Female",0.12658019399
+273,"alc_binge_prop",4663,"Puebla",2017,27,"Age-standardized",1,"Male",0.36028787771
+273,"alc_binge_prop",4663,"Puebla",2017,27,"Age-standardized",2,"Female",0.11804026649
+273,"alc_binge_prop",4664,"Querétaro",2017,27,"Age-standardized",1,"Male",0.32882015414
+273,"alc_binge_prop",4664,"Querétaro",2017,27,"Age-standardized",2,"Female",0.11779760233
+273,"alc_binge_prop",4665,"Quintana Roo",2017,27,"Age-standardized",1,"Male",0.3932300211
+273,"alc_binge_prop",4665,"Quintana Roo",2017,27,"Age-standardized",2,"Female",0.1987004694
+273,"alc_binge_prop",4666,"San Luis Potosí",2017,27,"Age-standardized",1,"Male",0.32955041461
+273,"alc_binge_prop",4666,"San Luis Potosí",2017,27,"Age-standardized",2,"Female",0.10075181322
+273,"alc_binge_prop",4667,"Sinaloa",2017,27,"Age-standardized",1,"Male",0.37551781127
+273,"alc_binge_prop",4667,"Sinaloa",2017,27,"Age-standardized",2,"Female",0.13752021369
+273,"alc_binge_prop",4668,"Sonora",2017,27,"Age-standardized",1,"Male",0.43082387663
+273,"alc_binge_prop",4668,"Sonora",2017,27,"Age-standardized",2,"Female",0.11925094725
+273,"alc_binge_prop",4669,"Tabasco",2017,27,"Age-standardized",1,"Male",0.33793099602
+273,"alc_binge_prop",4669,"Tabasco",2017,27,"Age-standardized",2,"Female",0.1089886614
+273,"alc_binge_prop",4670,"Tamaulipas",2017,27,"Age-standardized",1,"Male",0.36893526766
+273,"alc_binge_prop",4670,"Tamaulipas",2017,27,"Age-standardized",2,"Female",0.12429751686
+273,"alc_binge_prop",4671,"Tlaxcala",2017,27,"Age-standardized",1,"Male",0.31128934967
+273,"alc_binge_prop",4671,"Tlaxcala",2017,27,"Age-standardized",2,"Female",0.13136137716
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",1,"Male",0.32295393235
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2017,27,"Age-standardized",2,"Female",0.1119277125
+273,"alc_binge_prop",4673,"Yucatán",2017,27,"Age-standardized",1,"Male",0.30524773431
+273,"alc_binge_prop",4673,"Yucatán",2017,27,"Age-standardized",2,"Female",0.12903608087
+273,"alc_binge_prop",4674,"Zacatecas",2017,27,"Age-standardized",1,"Male",0.34054319165
+273,"alc_binge_prop",4674,"Zacatecas",2017,27,"Age-standardized",2,"Female",0.10962835512
+273,"alc_binge_prop",130,"Mexico",2018,27,"Age-standardized",1,"Male",0.35186872828
+273,"alc_binge_prop",130,"Mexico",2018,27,"Age-standardized",2,"Female",0.12878048543
+273,"alc_binge_prop",4643,"Aguascalientes",2018,27,"Age-standardized",1,"Male",0.30074294176
+273,"alc_binge_prop",4643,"Aguascalientes",2018,27,"Age-standardized",2,"Female",0.0926515509976316
+273,"alc_binge_prop",4644,"Baja California",2018,27,"Age-standardized",1,"Male",0.32479260734
+273,"alc_binge_prop",4644,"Baja California",2018,27,"Age-standardized",2,"Female",0.13072693209
+273,"alc_binge_prop",4645,"Baja California Sur",2018,27,"Age-standardized",1,"Male",0.370006329351593
+273,"alc_binge_prop",4645,"Baja California Sur",2018,27,"Age-standardized",2,"Female",0.133763384581842
+273,"alc_binge_prop",4646,"Campeche",2018,27,"Age-standardized",1,"Male",0.377934911165688
+273,"alc_binge_prop",4646,"Campeche",2018,27,"Age-standardized",2,"Female",0.0892140901128948
+273,"alc_binge_prop",4647,"Coahuila",2018,27,"Age-standardized",1,"Male",0.32876632785
+273,"alc_binge_prop",4647,"Coahuila",2018,27,"Age-standardized",2,"Female",0.10742767657
+273,"alc_binge_prop",4648,"Colima",2018,27,"Age-standardized",1,"Male",0.364867738418306
+273,"alc_binge_prop",4648,"Colima",2018,27,"Age-standardized",2,"Female",0.13007490379
+273,"alc_binge_prop",4649,"Chiapas",2018,27,"Age-standardized",1,"Male",0.26360446871
+273,"alc_binge_prop",4649,"Chiapas",2018,27,"Age-standardized",2,"Female",0.17325811114
+273,"alc_binge_prop",4650,"Chihuahua",2018,27,"Age-standardized",1,"Male",0.35042015709
+273,"alc_binge_prop",4650,"Chihuahua",2018,27,"Age-standardized",2,"Female",0.12383202861
+273,"alc_binge_prop",4651,"Mexico City",2018,27,"Age-standardized",1,"Male",0.360927780236316
+273,"alc_binge_prop",4651,"Mexico City",2018,27,"Age-standardized",2,"Female",0.15775991103
+273,"alc_binge_prop",4652,"Durango",2018,27,"Age-standardized",1,"Male",0.37006499725
+273,"alc_binge_prop",4652,"Durango",2018,27,"Age-standardized",2,"Female",0.114329341448113
+273,"alc_binge_prop",4653,"Guanajuato",2018,27,"Age-standardized",1,"Male",0.33098029542
+273,"alc_binge_prop",4653,"Guanajuato",2018,27,"Age-standardized",2,"Female",0.10632770836
+273,"alc_binge_prop",4654,"Guerrero",2018,27,"Age-standardized",1,"Male",0.32085521971
+273,"alc_binge_prop",4654,"Guerrero",2018,27,"Age-standardized",2,"Female",0.12307323147
+273,"alc_binge_prop",4655,"Hidalgo",2018,27,"Age-standardized",1,"Male",0.32562738088
+273,"alc_binge_prop",4655,"Hidalgo",2018,27,"Age-standardized",2,"Female",0.123789126515333
+273,"alc_binge_prop",4656,"Jalisco",2018,27,"Age-standardized",1,"Male",0.37690701585
+273,"alc_binge_prop",4656,"Jalisco",2018,27,"Age-standardized",2,"Female",0.12705357644
+273,"alc_binge_prop",4657,"México",2018,27,"Age-standardized",1,"Male",0.373776567282587
+273,"alc_binge_prop",4657,"México",2018,27,"Age-standardized",2,"Female",0.12925990409
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",1,"Male",0.3551077509
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2018,27,"Age-standardized",2,"Female",0.12021099871
+273,"alc_binge_prop",4659,"Morelos",2018,27,"Age-standardized",1,"Male",0.37317715146
+273,"alc_binge_prop",4659,"Morelos",2018,27,"Age-standardized",2,"Female",0.11974229901
+273,"alc_binge_prop",4660,"Nayarit",2018,27,"Age-standardized",1,"Male",0.364537905920537
+273,"alc_binge_prop",4660,"Nayarit",2018,27,"Age-standardized",2,"Female",0.194247089
+273,"alc_binge_prop",4661,"Nuevo León",2018,27,"Age-standardized",1,"Male",0.373413634056678
+273,"alc_binge_prop",4661,"Nuevo León",2018,27,"Age-standardized",2,"Female",0.11786730634
+273,"alc_binge_prop",4662,"Oaxaca",2018,27,"Age-standardized",1,"Male",0.36175641245
+273,"alc_binge_prop",4662,"Oaxaca",2018,27,"Age-standardized",2,"Female",0.123975106194151
+273,"alc_binge_prop",4663,"Puebla",2018,27,"Age-standardized",1,"Male",0.36028787771
+273,"alc_binge_prop",4663,"Puebla",2018,27,"Age-standardized",2,"Female",0.0873410473644737
+273,"alc_binge_prop",4664,"Querétaro",2018,27,"Age-standardized",1,"Male",0.298381596928947
+273,"alc_binge_prop",4664,"Querétaro",2018,27,"Age-standardized",2,"Female",0.11779760233
+273,"alc_binge_prop",4665,"Quintana Roo",2018,27,"Age-standardized",1,"Male",0.394926830985709
+273,"alc_binge_prop",4665,"Quintana Roo",2018,27,"Age-standardized",2,"Female",0.1987004694
+273,"alc_binge_prop",4666,"San Luis Potosí",2018,27,"Age-standardized",1,"Male",0.32955041461
+273,"alc_binge_prop",4666,"San Luis Potosí",2018,27,"Age-standardized",2,"Female",0.0989517609202082
+273,"alc_binge_prop",4667,"Sinaloa",2018,27,"Age-standardized",1,"Male",0.37606283561306
+273,"alc_binge_prop",4667,"Sinaloa",2018,27,"Age-standardized",2,"Female",0.13604806918862
+273,"alc_binge_prop",4668,"Sonora",2018,27,"Age-standardized",1,"Male",0.432575851435147
+273,"alc_binge_prop",4668,"Sonora",2018,27,"Age-standardized",2,"Female",0.11925094725
+273,"alc_binge_prop",4669,"Tabasco",2018,27,"Age-standardized",1,"Male",0.33793099602
+273,"alc_binge_prop",4669,"Tabasco",2018,27,"Age-standardized",2,"Female",0.107594832088041
+273,"alc_binge_prop",4670,"Tamaulipas",2018,27,"Age-standardized",1,"Male",0.370529394200833
+273,"alc_binge_prop",4670,"Tamaulipas",2018,27,"Age-standardized",2,"Female",0.102739202580263
+273,"alc_binge_prop",4671,"Tlaxcala",2018,27,"Age-standardized",1,"Male",0.310531831662118
+273,"alc_binge_prop",4671,"Tlaxcala",2018,27,"Age-standardized",2,"Female",0.0972724918105263
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",1,"Male",0.32295393235
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2018,27,"Age-standardized",2,"Female",0.1119277125
+273,"alc_binge_prop",4673,"Yucatán",2018,27,"Age-standardized",1,"Male",0.30524773431
+273,"alc_binge_prop",4673,"Yucatán",2018,27,"Age-standardized",2,"Female",0.12903608087
+273,"alc_binge_prop",4674,"Zacatecas",2018,27,"Age-standardized",1,"Male",0.34054319165
+273,"alc_binge_prop",4674,"Zacatecas",2018,27,"Age-standardized",2,"Female",0.10962835512
+273,"alc_binge_prop",130,"Mexico",2019,27,"Age-standardized",1,"Male",0.35186872828
+273,"alc_binge_prop",130,"Mexico",2019,27,"Age-standardized",2,"Female",0.12878048543
+273,"alc_binge_prop",4643,"Aguascalientes",2019,27,"Age-standardized",1,"Male",0.30074294176
+273,"alc_binge_prop",4643,"Aguascalientes",2019,27,"Age-standardized",2,"Female",0.0926515509976316
+273,"alc_binge_prop",4644,"Baja California",2019,27,"Age-standardized",1,"Male",0.32479260734
+273,"alc_binge_prop",4644,"Baja California",2019,27,"Age-standardized",2,"Female",0.13072693209
+273,"alc_binge_prop",4645,"Baja California Sur",2019,27,"Age-standardized",1,"Male",0.371664566598011
+273,"alc_binge_prop",4645,"Baja California Sur",2019,27,"Age-standardized",2,"Female",0.133763384581842
+273,"alc_binge_prop",4646,"Campeche",2019,27,"Age-standardized",1,"Male",0.376318071026178
+273,"alc_binge_prop",4646,"Campeche",2019,27,"Age-standardized",2,"Female",0.0892140901128948
+273,"alc_binge_prop",4647,"Coahuila",2019,27,"Age-standardized",1,"Male",0.32876632785
+273,"alc_binge_prop",4647,"Coahuila",2019,27,"Age-standardized",2,"Female",0.10742767657
+273,"alc_binge_prop",4648,"Colima",2019,27,"Age-standardized",1,"Male",0.361300766107498
+273,"alc_binge_prop",4648,"Colima",2019,27,"Age-standardized",2,"Female",0.13007490379
+273,"alc_binge_prop",4649,"Chiapas",2019,27,"Age-standardized",1,"Male",0.26360446871
+273,"alc_binge_prop",4649,"Chiapas",2019,27,"Age-standardized",2,"Female",0.17325811114
+273,"alc_binge_prop",4650,"Chihuahua",2019,27,"Age-standardized",1,"Male",0.35042015709
+273,"alc_binge_prop",4650,"Chihuahua",2019,27,"Age-standardized",2,"Female",0.12383202861
+273,"alc_binge_prop",4651,"Mexico City",2019,27,"Age-standardized",1,"Male",0.360927780236316
+273,"alc_binge_prop",4651,"Mexico City",2019,27,"Age-standardized",2,"Female",0.15775991103
+273,"alc_binge_prop",4652,"Durango",2019,27,"Age-standardized",1,"Male",0.37006499725
+273,"alc_binge_prop",4652,"Durango",2019,27,"Age-standardized",2,"Female",0.111399181986266
+273,"alc_binge_prop",4653,"Guanajuato",2019,27,"Age-standardized",1,"Male",0.33098029542
+273,"alc_binge_prop",4653,"Guanajuato",2019,27,"Age-standardized",2,"Female",0.10632770836
+273,"alc_binge_prop",4654,"Guerrero",2019,27,"Age-standardized",1,"Male",0.32085521971
+273,"alc_binge_prop",4654,"Guerrero",2019,27,"Age-standardized",2,"Female",0.12307323147
+273,"alc_binge_prop",4655,"Hidalgo",2019,27,"Age-standardized",1,"Male",0.32562738088
+273,"alc_binge_prop",4655,"Hidalgo",2019,27,"Age-standardized",2,"Female",0.12166953050395
+273,"alc_binge_prop",4656,"Jalisco",2019,27,"Age-standardized",1,"Male",0.37690701585
+273,"alc_binge_prop",4656,"Jalisco",2019,27,"Age-standardized",2,"Female",0.12705357644
+273,"alc_binge_prop",4657,"México",2019,27,"Age-standardized",1,"Male",0.370568197181665
+273,"alc_binge_prop",4657,"México",2019,27,"Age-standardized",2,"Female",0.12925990409
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",1,"Male",0.3551077509
+273,"alc_binge_prop",4658,"Michoacán de Ocampo",2019,27,"Age-standardized",2,"Female",0.12021099871
+273,"alc_binge_prop",4659,"Morelos",2019,27,"Age-standardized",1,"Male",0.37317715146
+273,"alc_binge_prop",4659,"Morelos",2019,27,"Age-standardized",2,"Female",0.11974229901
+273,"alc_binge_prop",4660,"Nayarit",2019,27,"Age-standardized",1,"Male",0.364352847304774
+273,"alc_binge_prop",4660,"Nayarit",2019,27,"Age-standardized",2,"Female",0.194247089
+273,"alc_binge_prop",4661,"Nuevo León",2019,27,"Age-standardized",1,"Male",0.372520077698896
+273,"alc_binge_prop",4661,"Nuevo León",2019,27,"Age-standardized",2,"Female",0.11786730634
+273,"alc_binge_prop",4662,"Oaxaca",2019,27,"Age-standardized",1,"Male",0.36175641245
+273,"alc_binge_prop",4662,"Oaxaca",2019,27,"Age-standardized",2,"Female",0.11906372957033
+273,"alc_binge_prop",4663,"Puebla",2019,27,"Age-standardized",1,"Male",0.36028787771
+273,"alc_binge_prop",4663,"Puebla",2019,27,"Age-standardized",2,"Female",0.0873410473644737
+273,"alc_binge_prop",4664,"Querétaro",2019,27,"Age-standardized",1,"Male",0.298381596928947
+273,"alc_binge_prop",4664,"Querétaro",2019,27,"Age-standardized",2,"Female",0.11779760233
+273,"alc_binge_prop",4665,"Quintana Roo",2019,27,"Age-standardized",1,"Male",0.39714166527001
+273,"alc_binge_prop",4665,"Quintana Roo",2019,27,"Age-standardized",2,"Female",0.1987004694
+273,"alc_binge_prop",4666,"San Luis Potosí",2019,27,"Age-standardized",1,"Male",0.32955041461
+273,"alc_binge_prop",4666,"San Luis Potosí",2019,27,"Age-standardized",2,"Female",0.0956136898983858
+273,"alc_binge_prop",4667,"Sinaloa",2019,27,"Age-standardized",1,"Male",0.376762866247952
+273,"alc_binge_prop",4667,"Sinaloa",2019,27,"Age-standardized",2,"Female",0.133391070769565
+273,"alc_binge_prop",4668,"Sonora",2019,27,"Age-standardized",1,"Male",0.435388493313594
+273,"alc_binge_prop",4668,"Sonora",2019,27,"Age-standardized",2,"Female",0.11925094725
+273,"alc_binge_prop",4669,"Tabasco",2019,27,"Age-standardized",1,"Male",0.33793099602
+273,"alc_binge_prop",4669,"Tabasco",2019,27,"Age-standardized",2,"Female",0.105006422879673
+273,"alc_binge_prop",4670,"Tamaulipas",2019,27,"Age-standardized",1,"Male",0.373398770683749
+273,"alc_binge_prop",4670,"Tamaulipas",2019,27,"Age-standardized",2,"Female",0.102739202580263
+273,"alc_binge_prop",4671,"Tlaxcala",2019,27,"Age-standardized",1,"Male",0.309150535364944
+273,"alc_binge_prop",4671,"Tlaxcala",2019,27,"Age-standardized",2,"Female",0.0972724918105263
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",1,"Male",0.32295393235
+273,"alc_binge_prop",4672,"Veracruz de Ignacio de la Llave",2019,27,"Age-standardized",2,"Female",0.1119277125
+273,"alc_binge_prop",4673,"Yucatán",2019,27,"Age-standardized",1,"Male",0.30524773431
+273,"alc_binge_prop",4673,"Yucatán",2019,27,"Age-standardized",2,"Female",0.12903608087
+273,"alc_binge_prop",4674,"Zacatecas",2019,27,"Age-standardized",1,"Male",0.34054319165
+273,"alc_binge_prop",4674,"Zacatecas",2019,27,"Age-standardized",2,"Female",0.10962835512
