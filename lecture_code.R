@@ -2,15 +2,24 @@
 rm(list = ls())
 
 ## LOAD PACKAGES
-#install.packages("data.table")
+install.packages("data.table")
+install.packages("ggplot2")
 library(data.table)
 library(ggplot2)
 
+## SET WORKING DIRECTORY
+setwd("J:/temp/jledes2/insp/data/")
+
+#############################################################################################
+###                             DATA PROCESSING USING DATA.TABLE                          ###
+#############################################################################################
+
 ## LOAD DATA USING DATA.TABLE
-data <- fread("J:/temp/jledes2/insp/data/mexico.csv")
+data <- fread("mexico.csv")
+data
 
 ## CONVERT DATA.FRAME INTO DATA.TABLE
-data <- read.csv("J:/temp/jledes2/insp/data/mexico.csv")
+data <- read.csv("mexico.csv")
 data <- data.table(data)
 
 ## SUBSET TO MEXICO CITY AND DIABETES
@@ -68,24 +77,30 @@ setnames(data, old = c("year_id", "location_name"), new = c("year", "loc"))
 ## %IN% AS USEFUL ALTERNATIVE TO OR STATMENT
 data[cause_name %in% c("Stroke", "HIV/AIDS")]
 
+#############################################################################################
+###                                   LINEAR REGRESSION                                   ###
+#############################################################################################
 
-## TESTING
 ## LOAD DATA USING DATA.TABLE
-data <- fread("J:/temp/jledes2/insp/data/mexico.csv")
-cov  <- fread("J:/temp/jledes2/insp/data/mean_BMI.csv")
+data <- fread("mexico.csv")
+cov  <- fread("covariates/mean_BMI.csv")
 
-## CLEAN
+## CLEAN DATA
 input <- data[cause_name == "Diabetes mellitus" & sex == "Male"]
 input <- input[, .(location_name, location_id, year_id, sex, age_group_name, val)]
-cov   <- cov[, .(location_id, year_id, age_group_name, sex, mean_value)]
+
+## CLEAN COVARIATE DATA
+cov <- cov[sex == "Male"]
+cov <- cov[, .(location_id, year_id, age_group_name, sex, mean_value)]
 
 ## MERGE
 input <- merge(input, cov, all.y=T)
-input <- input[sex == "Male"]
+
+## CREATE NEW VARIABLE
 input[, diabetes_mort := val*100000]
 setnames(input, "mean_value", "bmi")
 
-## RUN REGRESSION IN LOG SPACE
+## RUN REGRESSION IN LINEAR REGRESSION
 bmi_mod <- lm(data = input, formula = log(diabetes_mort)~bmi)
 summary(bmi_mod)
 
@@ -94,10 +109,17 @@ input[, pred := predict(bmi_mod, input)]
 input[location_id == 4649 & year_id >= 2010]
 
 ## PREDICTIONS WITH UNCERTAINTY
+input[, pred := NULL]
 input[, c("pred", "lower", "upper") := data.table(predict(bmi_mod, input, interval = "prediction"))]
 input[location_id == 4649 & year_id >= 2010]
 
-## HISTOGRAMS
+## HISTOGRAM 1
+ggplot(data=input, aes(x=diabetes_mort)) +
+  geom_histogram(color="darkblue", fill="lightblue") +
+  labs(x="All-age Diabetes mortality rate per 100,000 population", y="Frequency") +
+  theme(axis.text = element_text(size = 16), axis.title = element_text(size = 20, face = "bold"))
+
+## HISTOGRAM 2
 ggplot(data=input, aes(x=log(diabetes_mort))) +
   geom_histogram(color="darkblue", fill="lightblue") +
   labs(x="All-age Diabetes mortality rate per 100,000 population", y="Frequency") +
@@ -115,12 +137,14 @@ input[location_id == 4649 & year_id >= 2010]
 ggplot(data=input, aes(x=bmi, y=diabetes_mort)) +
   geom_point(size=3, alpha=0.5) +
   geom_line(aes(x=bmi, y=pred), size=1.5, color="chartreuse4") +
-  #(method='lm', formula= y~x, se = F, size=1.5, color="chartreuse4") +
   theme_bw() +
   labs(x="Mean BMI", y="All-age Diabetes mortality rate per 100,000 population") +
   theme(axis.text = element_text(size = 16), axis.title = element_text(size = 20, face = "bold"))
 
-## DUMMY REGRESSION
+#############################################################################################
+###                                   OTHER REGRESSOINS                                   ###
+#############################################################################################
+
 ## LOAD DATA USING DATA.TABLE
 input <- data[cause_name == "Diabetes mellitus"]
 input <- input[, .(location_name, location_id, year_id, sex, age_group_name, val)]
@@ -131,13 +155,15 @@ dummy_reg <- lm(data = input, formula = diabetes_mort~factor(sex))
 summary(dummy_reg)
 
 ## MULTIPLE REGRESSION IN R
-data  <- fread("J:/temp/jledes2/insp/mexico.csv")
-bmi   <- fread("J:/temp/jledes2/insp/data/mean_BMI.csv")
-chole <- fread("J:/temp/jledes2/insp/data/mean_cholesterol.csv")
+data  <- fread("mexico.csv")
+bmi   <- fread("covariates/mean_BMI.csv")
+chole <- fread("covariates/mean_cholesterol.csv")
 
-##
+## CLEAN INPUT FILE
 input <- data[cause_name == "Diabetes mellitus"]
 input <- input[, .(location_name, location_id, year_id, sex, age_group_name, val)]
+
+## CLEAN COVARIATES
 bmi   <- bmi[, .(location_id, year_id, age_group_name, sex, mean_value)]
 chole <- chole[, .(location_id, year_id, age_group_name, sex, mean_value)]
 
@@ -154,26 +180,25 @@ input <- merge(input, chole, all.y=T)
 model_1 <- lm(data=input, formula = log(diabetes_mort) ~ bmi + cholesterol + factor(sex))
 summary(model_1)
 
-## SDI
-data  <- fread("J:/temp/jledes2/insp/data/mexico.csv")
-sdi   <- fread("J:/temp/jledes2/insp/data/sdi.csv")
+#############################################################################################
+###                                      PLOTTING                                         ###
+#############################################################################################
 
-##
+## SDI
+data  <- fread("mexico.csv")
+sdi   <- fread("covariates/sdi.csv")
+
+## CLEAN DATA
 input <- data[cause_name == "Tuberculosis" & year_id == 2005]
 input <- input[, .(location_name, location_id, year_id, sex, age_group_name, val)]
 sdi   <- sdi[, .(location_id, year_id, age_group_name, mean_value)]
 
-##
+## CREATE COLUMNS
 input[, tb := val*100000]
 setnames(sdi, "mean_value", "sdi")
 
-##
+## MERGE
 input <- merge(input, sdi)
-
-## install package
-#install.packages("ggplot2")
-#library(ggplot2)
-
 
 ## PLOT
 ggplot(data=input, aes(x=sdi, y=tb)) +
